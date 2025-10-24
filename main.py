@@ -3481,10 +3481,10 @@ class NewsAnalyzer:
 
 # 沿用旧版的固定ID列表用于API生成
 API_IDS = [
-    ("toutiao", "今日头条"), ("baidu", "百度热搜"), ("wallstreetcn-hot", "华尔街见闻"),
+    ("cls-telegraph", "财联社电报"), ("baidu", "百度热搜"), ("wallstreetcn-hot", "华尔街见闻"),
     ("thepaper", "澎湃新闻"), ("bilibili-hot-search", "bilibili 热搜"), ("cls-hot", "财联社热门"),
-    ("ifeng", "凤凰网"), ("jin10", "金十数据"), ("wallstreetcn-quick", "华尔街见闻-快讯"),
-    ("tieba", "贴吧"), ("weibo", "微博"), ("douyin", "抖音"), ("zhihu", "知乎"),
+    ("zaobao", "早报"), ("jin10", "金十数据"), ("wallstreetcn-quick", "华尔街见闻-快讯"),
+    ("cankaoxiaoxi", "参考消息"), ("weibo", "微博"), ("douyin", "抖音"), ("gelonghui", "格隆汇"),
 ]
 
 
