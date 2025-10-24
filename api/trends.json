@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T23:21:11.844889+08:00",
-  "total_titles_processed": 2552,
+  "generated_at": "2025-10-24T23:44:14.859976+08:00",
+  "total_titles_processed": 2572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[07时32分 ~ 23时21分]"
+          "appearance_count": 35,
+          "time_info": "[07时32分 ~ 23时44分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -69,8 +69,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[21时30分 ~ 23时21分]"
+          "appearance_count": 9,
+          "time_info": "[21时30分 ~ 23时44分]"
+        },
+        {
+          "title": "美股高开高走三大指数均涨超1%",
+          "url": "https://api3.cls.cn/share/article/2180401?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时43分 ~ 23时44分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -398,17 +409,6 @@
           "time_info": "[00时33分 ~ 07时32分]"
         },
         {
-          "title": "奥比中光：第三季度营业收入增长102% 公司在各类型机器人等领域实现较快增长",
-          "url": "https://api3.cls.cn/share/article/2179956?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
-        },
-        {
           "title": "京东物流：未来5年拟采购300万台机器人、100万台无人车和10万架无人机",
           "url": "https://www.cls.cn/detail/2180237",
           "source": "财联社热门",
@@ -418,8 +418,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时22分 ~ 23时21分]"
+          "appearance_count": 7,
+          "time_info": "[22时22分 ~ 23时44分]"
+        },
+        {
+          "title": "奥比中光：第三季度营业收入增长102% 公司在各类型机器人等领域实现较快增长",
+          "url": "https://api3.cls.cn/share/article/2179956?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "杭州市人形机器人中试基地今日揭牌",
@@ -785,11 +796,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            14
+            14,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时45分 ~ 23时21分]"
+          "appearance_count": 6,
+          "time_info": "[22时45分 ~ 23时44分]"
         },
         {
           "title": "美国总统特朗普：接到英伟达CEO黄仁勋关于旧金山的电话。",
