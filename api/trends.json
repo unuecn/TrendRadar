@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T12:21:51.781550+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2025-10-26T12:44:27.336465+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时23分 ~ 12时21分]"
+          "appearance_count": 27,
+          "time_info": "[00时23分 ~ 12时44分]"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
@@ -71,6 +72,55 @@
       ]
     },
     {
+      "keyword_group": "英伟达",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "英伟达退场 国产GPU接棒",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%80%80%E5%9C%BA+%E5%9B%BD%E4%BA%A7GPU%E6%8E%A5%E6%A3%92",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            14,
+            17,
+            21,
+            19,
+            29,
+            27,
+            16,
+            10,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 07时43分]"
+        },
+        {
+          "title": "给出100美元目标价！英伟达“唯一的空头”：这不是我第一次看到泡沫",
+          "url": "https://wallstreetcn.com/articles/3757915",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "英伟达退场 国产GPU接棒",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%80%80%E5%9C%BA+%E5%9B%BD%E4%BA%A7GPU%E6%8E%A5%E6%A3%92&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E8%258B%25B1%25E4%25BC%259F%25E8%25BE%25BE%25E9%2580%2580%25E5%259C%25BA%2520%25E5%259B%25BD%25E4%25BA%25A7GPU%25E6%258E%25A5%25E6%25A3%2592%26dgr%3D0%26flag%3D1%26pos%3D25%26lcate%3D5001%26c_type%3D31%26realpos%3D25%26band_rank%3D25%26filter_type%3Drealtimehot%26cate%3D5001%26stream_entry_id%3D31%26display_time%3D1761447004%26pre_seqid%3D17614470043550367091387",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -81,7 +131,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -127,46 +177,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时23分 ~ 12时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达退场 国产GPU接棒",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%80%80%E5%9C%BA+%E5%9B%BD%E4%BA%A7GPU%E6%8E%A5%E6%A3%92",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            14,
-            17,
-            21,
-            19,
-            29,
-            27,
-            16,
-            10,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时23分 ~ 07时43分]"
-        },
-        {
-          "title": "英伟达退场 国产GPU接棒",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%80%80%E5%9C%BA+%E5%9B%BD%E4%BA%A7GPU%E6%8E%A5%E6%A3%92&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E8%258B%25B1%25E4%25BC%259F%25E8%25BE%25BE%25E9%2580%2580%25E5%259C%25BA%2520%25E5%259B%25BD%25E4%25BA%25A7GPU%25E6%258E%25A5%25E6%25A3%2592%26dgr%3D0%26flag%3D1%26pos%3D25%26lcate%3D5001%26c_type%3D31%26realpos%3D25%26band_rank%3D25%26filter_type%3Drealtimehot%26cate%3D5001%26stream_entry_id%3D31%26display_time%3D1761447004%26pre_seqid%3D17614470043550367091387",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "appearance_count": 27,
+          "time_info": "[00时23分 ~ 12时44分]"
         }
       ]
     },
@@ -180,11 +192,12 @@
           "source": "参考消息",
           "ranks": [
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时23分 ~ 12时21分]"
+          "appearance_count": 27,
+          "time_info": "[00时23分 ~ 12时44分]"
         }
       ]
     },
