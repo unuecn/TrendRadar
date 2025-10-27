@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T03:38:54.078824+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2025-10-28T04:19:38.498668+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "财联社10月28日电，支付巨头PayPal与谷歌云达成合作，为商家推出智能代理商务解决方案。",
@@ -22,6 +22,21 @@
           "time_info": "[00时52分 ~ 02时29分]"
         },
         {
+          "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/2994485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            13,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时29分 ~ 04时19分]"
+        },
+        {
           "title": "谷歌与NextEra合作重启爱荷华州核电站 预计2029年前开始供电",
           "url": "https://api3.cls.cn/share/article/2182642?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -35,18 +50,15 @@
           "time_info": "[02时29分 ~ 03时38分]"
         },
         {
-          "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
-          "url": "https://wallstreetcn.com/livenews/2994485",
+          "title": "标普500指数初步收涨1.2%，电信板块涨约2.4%，科技板块涨2%，可选消费板块涨1.6%，能源板块涨0.3%。 纳斯达克100指数初步收涨1.8%，成分股中，高通初步收涨约11%，KDP涨7.7%，拉美电商MercadoLibre涨5.5%，迈威尔科技、Arm控股、特斯拉、安森美半导体、Applovin、拉姆研究、谷歌A至少涨约3.5%，Diamondback Energy则收跌1.1%，贝克休斯跌1.2%，Workday和ORLY跌1.6%，Roper Technologies跌3.5%。 英伟达收涨大约2.7%，苹果涨2.3%，微软和IBM涨约1.5%，领跑道指成分股，耐克与沃尔玛则至少跌约0.9%。",
+          "url": "https://wallstreetcn.com/livenews/2994515",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            9,
-            13,
-            17
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时29分 ~ 03时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "据福克斯新闻：谷歌(GOOG.O)与NextEra能源公司合作重启爱荷华州核电站。",
@@ -102,7 +114,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "IMF前首席经济学家分析：美股泡沫破裂将湮灭多少财富？",
@@ -112,8 +124,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 03时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 04时19分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -154,12 +166,75 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时52分 ~ 01时18分]"
+        },
+        {
+          "title": "美股三大指数均续创新高 苹果总市值逼近4万亿美元",
+          "url": "https://api3.cls.cn/share/article/2182661?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "市场消息：英伟达(NVDA.O)和德国电信计划在德国建设一座价值10亿欧元的数据中心。",
+          "url": "https://flash.jin10.com/detail/20251028032947956800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时19分]"
+        },
+        {
+          "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
+          "url": "https://flash.jin10.com/detail/20251028034031282800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "英伟达与德国电信计划在德国部署/建设规模为10亿欧元的数据中心。",
+          "url": "https://wallstreetcn.com/livenews/2994507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时19分]"
+        },
+        {
+          "title": "财联社10月28日电，英伟达和DEUTSCHE TELEKOM在德国筹划10亿欧元数据中心。",
+          "url": "https://api3.cls.cn/share/article/2182659?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
@@ -169,8 +244,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 03时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 04时19分]"
         },
         {
           "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
@@ -180,8 +255,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 03时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 04时19分]"
+        },
+        {
+          "title": "30年期美债收益率跌约3个基点",
+          "url": "https://wallstreetcn.com/livenews/2994513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         }
       ]
     },
@@ -220,34 +306,6 @@
       ]
     },
     {
-      "keyword_group": "英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：英伟达(NVDA.O)和德国电信计划在德国建设一座价值10亿欧元的数据中心。",
-          "url": "https://flash.jin10.com/detail/20251028032947956800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "英伟达与德国电信计划在德国部署/建设规模为10亿欧元的数据中心。",
-          "url": "https://wallstreetcn.com/livenews/2994507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -266,6 +324,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时52分 ~ 03时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（10月27日）纽约尾盘，ICE美元指数跌0.13%，报98.826点，日内交投区间为98.999-98.729点。 彭博美元指数跌0.13%，报1211.59点，日内交投区间为1213.35-1210.52点。",
+          "url": "https://wallstreetcn.com/livenews/2994510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         }
       ]
     }
