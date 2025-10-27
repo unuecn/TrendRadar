@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T04:41:16.409355+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2025-10-28T05:18:23.518131+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "财联社10月28日电，支付巨头PayPal与谷歌云达成合作，为商家推出智能代理商务解决方案。",
@@ -20,17 +20,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时52分 ~ 02时29分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨4.3%，谷歌涨3.6%，英伟达和苹果也涨超2%",
-          "url": "https://wallstreetcn.com/livenews/2994531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
         },
         {
           "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
@@ -85,6 +74,18 @@
           "time_info": "[02时29分 ~ 03时16分]"
         },
         {
+          "title": "美股七巨头收盘播报｜特斯拉收涨4.3%，谷歌涨3.6%，英伟达和苹果也涨超2%",
+          "url": "https://wallstreetcn.com/livenews/2994531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时18分]"
+        },
+        {
           "title": "财联社10月28日电，谷歌宣布推出全新BigTable存储层级，助力高效管理海量数据集，现已开放预览版。",
           "url": "https://api3.cls.cn/share/article/2182612?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -120,6 +121,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时52分 ~ 01时18分]"
+        },
+        {
+          "title": "NextEra Energy（公告确认）与谷歌公司在核能领域合作。",
+          "url": "https://wallstreetcn.com/livenews/2994532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         }
       ]
     },
@@ -135,8 +147,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 05时18分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -171,11 +183,48 @@
           "url": "https://api3.cls.cn/share/article/2182661?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            6
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时19分 ~ 05时18分]"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040602720800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时19分 ~ 04时41分]"
+          "time_info": "[04时40分 ~ 05时18分]"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040534174800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时40分 ~ 05时18分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐创新高 苹果市值逼近4万亿美元",
+          "url": "https://flash.jin10.com/detail/20251028040154573800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时40分 ~ 05时18分]"
         },
         {
           "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
@@ -188,45 +237,12 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时52分 ~ 01时18分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040602720800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 04时41分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040534174800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 04时41分]"
-        },
-        {
-          "title": "美股收盘：三大股指齐创新高 苹果市值逼近4万亿美元",
-          "url": "https://flash.jin10.com/detail/20251028040154573800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 04时41分]"
         }
       ]
     },
     {
       "keyword_group": "英伟达",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "市场消息：英伟达(NVDA.O)和德国电信计划在德国建设一座价值10亿欧元的数据中心。",
@@ -235,11 +251,12 @@
           "ranks": [
             1,
             5,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时38分 ~ 04时41分]"
+          "appearance_count": 5,
+          "time_info": "[03时38分 ~ 05时18分]"
         },
         {
           "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
@@ -247,11 +264,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时19分 ~ 05时18分]"
         },
         {
           "title": "英伟达与德国电信计划在德国部署/建设规模为10亿欧元的数据中心。",
@@ -260,11 +278,12 @@
           "ranks": [
             2,
             13,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时38分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 05时18分]"
         },
         {
           "title": "财联社10月28日电，英伟达和DEUTSCHE TELEKOM在德国筹划10亿欧元数据中心。",
@@ -276,6 +295,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 04时41分]"
+        },
+        {
+          "title": "财联社10月28日电，英伟达和德国电信（DEUTSCHE TELEKOM）在慕尼黑筹划10亿欧元数据中心。",
+          "url": "https://api3.cls.cn/share/article/2182659?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "半导体概念股普遍上涨，高通收涨11.09%，报187.68美元，创2024年7月份以来收盘新高。 ETF SOXL涨8.58%，英伟达两倍做多ETF涨5.49%，半导体板块ETF涨2.78%，半导体ETF涨2.51%。 迈威尔科技涨5.44%，Arm控股涨4.65%，相干公司Coherent涨4.37%，Tower半导体涨4.26%，安森美半导体涨3.88%，英特尔涨3.29%，英伟达涨2.81%，AMD涨2.67%，阿斯麦ADR涨2.6%。 纳微半导体则收跌1.14%。",
+          "url": "https://wallstreetcn.com/livenews/2994519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         }
       ]
     },
@@ -291,8 +332,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 05时18分]"
         },
         {
           "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
@@ -302,8 +343,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 05时18分]"
         },
         {
           "title": "30年期美债收益率跌约3个基点",
@@ -311,11 +352,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 05时18分]"
         }
       ]
     },
@@ -328,11 +370,12 @@
           "url": "https://flash.jin10.com/detail/20251028042623888800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[04时40分 ~ 05时18分]"
         },
         {
           "title": "周一（10月27日）纽约尾盘，ICE美元指数跌0.13%，报98.826点，日内交投区间为98.999-98.729点。 彭博美元指数跌0.13%，报1211.59点，日内交投区间为1213.35-1210.52点。",
@@ -340,11 +383,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 05时18分]"
         }
       ]
     },
@@ -379,6 +423,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时52分 ~ 02时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
+          "url": "https://flash.jin10.com/detail/20251028045401357800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         }
       ]
     },
