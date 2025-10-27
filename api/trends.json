@@ -1,537 +1,112 @@
 {
-  "generated_at": "2025-10-27T23:42:37.473904+08:00",
-  "total_titles_processed": 2462,
+  "generated_at": "2025-10-28T00:52:24.426327+08:00",
+  "total_titles_processed": 318,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 19,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
       "titles": [
         {
-          "title": "IMF前首席经济学家分析：美股泡沫破裂将湮灭多少财富？",
-          "url": "https://ckxxapp.ckxx.net/pages/2025/10/27/202787830fd24f548214a8ce2cd1cd24.html",
-          "source": "参考消息",
-          "ranks": [
-            1,
-            4,
-            5,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[17时24分 ~ 23时42分]"
-        },
-        {
-          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时20分 ~ 16时51分]"
-        },
-        {
-          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
-          "url": "https://www.cls.cn/detail/2182013",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时45分 ~ 21时39分]"
-        },
-        {
-          "title": "亨廷顿银行美股盘前下跌2.3%，亨廷顿银行集团将以74亿美元收购凯登斯银行。",
-          "url": "https://flash.jin10.com/detail/20251027190236928800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "美股三大股指期货高开，纳指期货涨0.8%。",
-          "url": "https://flash.jin10.com/detail/20251027060229559800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时19分 ~ 07时39分]"
-        },
-        {
-          "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
-          "url": "https://wallstreetcn.com/livenews/2993801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时19分 ~ 07时39分]"
-        },
-        {
-          "title": "三美股份：第三季度净利润同比增长237% 本期氟制冷剂价格上升带动营收大幅增加",
-          "url": "https://api3.cls.cn/share/article/2181977?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "财联社10月28日电，支付巨头PayPal与谷歌云达成合作，为商家推出智能代理商务解决方案。",
+          "url": "https://api3.cls.cn/share/article/2182624?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时51分"
+          "time_info": "00时52分"
         },
         {
-          "title": "美股三大股指高开 百度涨超5%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时21分 ~ 23时42分]"
-        },
-        {
-          "title": "美股盘初：三大指数续创历史新高，科技股、中概股普涨，稀土股下跌",
-          "url": "https://wallstreetcn.com/livenews/2994397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时21分 ~ 23时42分]"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2994370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时45分]"
-        },
-        {
-          "title": "美股盘前，科技股、中概股普涨",
-          "url": "https://wallstreetcn.com/livenews/2994104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时25分]"
-        },
-        {
-          "title": "财联社10月27日电，美股加密货币、量子计算概念股盘初集体上行，Robinhood、BMNR、SBET涨超4%，Strategy、Bitfarms、IREN涨超3%；IONQ、QBTS涨超5%，RGTI、QUBT、ARQQ涨超4%。",
-          "url": "https://api3.cls.cn/share/article/2182498?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时21分 ~ 22时45分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251027214435879800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时21分 ~ 22时45分]"
-        },
-        {
-          "title": "凯登斯银行美股盘前上涨3.2%。",
-          "url": "https://flash.jin10.com/detail/20251027185322298800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "财联社10月27日电，美股三大股指期货继续走高，纳指期货涨1%，标普500指数期货涨0.77%，道指期货现涨0.57%。",
-          "url": "https://api3.cls.cn/share/article/2181376?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 12时06分]"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-10-27）",
-          "url": "https://flash.jin10.com/detail/20251027210443791800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "美股异动丨特斯拉盘前涨1.5% Model Y于9月登顶欧洲最畅销汽车榜首",
-          "url": "https://www.gelonghui.com/news/5102713",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
-          "title": "美股异动丨文远知行盘前续涨超4.3%，此前携手优步在利雅得开放Robotaxi公众运营服务",
-          "url": "https://www.gelonghui.com/news/5102656",
-          "source": "格隆汇",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "财联社10月27日电，美股盘前科技股普涨，美光科技涨约3%，AMD涨约3%，英伟达涨约2%。中概股普涨，百度涨约4%，阿里巴巴涨约2%。",
-          "url": "https://api3.cls.cn/share/article/2181866?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "格力博：与智元机器人合作进入实施阶段",
-          "url": "https://api3.cls.cn/share/article/2181891?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "【盘中宝】千亿市场前景广阔，该领域机器人解决方案渗透率有望持续提升，这家公司相关产品已在多个行业完成了批量落地案例",
-          "url": "https://api3.cls.cn/share/article/2181538?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "瑞芯微：前三季度净利润同比增长121.65% RK3588芯片带领各AIoT算力平台在机器人市场等领域持续渗透",
-          "url": "https://api3.cls.cn/share/article/2182400?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "商务部：9月智能穿戴设备、扫地机器人销售额增长15%以上",
-          "url": "https://wallstreetcn.com/livenews/2993978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时21分]"
-        },
-        {
-          "title": "财联社10月27日电，据商务部商务大数据显示，9月份，智能穿戴设备、扫地机器人销售额增长15%以上，节能洗碗机、有机食品销售额增长超10%。",
-          "url": "https://api3.cls.cn/share/article/2181404?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 12时52分]"
-        },
-        {
-          "title": "格力博(301260.SZ)：公司电池已获得多家机器人公司的认可 并实现向部分客户供货",
-          "url": "https://www.gelonghui.com/news/5102544",
-          "source": "格隆汇",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 15时40分]"
-        },
-        {
-          "title": "【风口研报·公司】智能缆网+机器人+算力液冷+HVLP铜箔，这家公司新能源主业进入修复通道，另布局多款核心新品切入高附加值赛道；公司海风和海外订单两手抓，叠加绿色甲醇产能加速扩张，盈利能力快速改善",
-          "url": "https://api3.cls.cn/share/article/2181971?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "财联社10月28日电，谷歌宣布推出全新BigTable存储层级，助力高效管理海量数据集，现已开放预览版。",
+          "url": "https://api3.cls.cn/share/article/2182612?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
-        },
-        {
-          "title": "【公告全知道】存储芯片+机器人+PCB+6G+华为海思+液冷服务器！公司向智元机器人提供代理产品线的样品",
-          "url": "https://api3.cls.cn/share/article/2180911?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时46分]"
-        },
-        {
-          "title": "【机构龙虎榜解读】存储芯片+英伟达+机器人，代理美光、长江存储等全球头部存储芯片厂商产品，系英伟达在国内的授权分销商之一，基于英伟达的边缘计算终端形成了相关人工智能开发套件，机构大额净买入这家公司",
-          "url": "https://api3.cls.cn/share/article/2182201?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "领益智造：近期获头部客户百余台机器人整机订单",
-          "url": "https://api3.cls.cn/share/article/2182456?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时39分"
+          "time_info": "00时52分"
         },
         {
-          "title": "雷赛智能：拟设立全资子公司东莞雷赛机器人 建设华南区域总部及人形机器人核心零部件研发智造基地项目",
-          "url": "https://api3.cls.cn/share/article/2182451?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "震裕科技：计划21.1亿元投建人形机器人精密模组及零部件项目等",
-          "url": "https://api3.cls.cn/share/article/2181954?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
-          "title": "【风口研报·公司】形成月产2万套机器人行星滚柱丝杠产线，这家公司深耕核心冷锻工艺、覆盖材料+模具+设备+产品全产业链，可平滑迁移至机器人传动部件研发制造",
-          "url": "https://api3.cls.cn/share/article/2181295?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "金价暴跌有大学生把生活费亏没了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%259F%25E6%258A%258A%25E7%2594%259F%25E6%25B4%25BB%25E8%25B4%25B9%25E4%25BA%258F%25E6%25B2%25A1%25E4%25BA%2586%2523%26band_rank%3D21%26pos%3D21%26realpos%3D21%26c_type%3D31%26flag%3D2%26filter_type%3Drealtimehot%26cate%3D5001%26lcate%3D5001%26dgr%3D0%26display_time%3D1761494348%26pre_seqid%3D17614943480840326367128",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时23分 ~ 09时40分]"
-        },
-        {
-          "title": "市场分析：贸易紧张局势缓解，金价下跌",
-          "url": "https://flash.jin10.com/detail/20251027221438797800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时21分 ~ 22时45分]"
-        },
-        {
-          "title": "现货黄金下跌至4000美元整数位心理关口，为10月10日以来首次，日内当前跌幅大约2.7%。 10月20日，金价还曾涨至4381.52美元创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/2994415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时45分]"
-        },
-        {
-          "title": "国际金价跌穿4000美元关口，抛售加剧",
-          "url": "https://wallstreetcn.com/livenews/2994415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时42分]"
-        },
-        {
-          "title": "菲律宾央行官员：现在是时候在黄金上获利了结。菲律宾央行应出售部分“过多”的黄金储备，因为随着避险需求减弱，金价预计将从创纪录高位进一步回落。",
-          "url": "https://flash.jin10.com/detail/20251027174948964800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）上海金早盘价为932.11元/克，较国际金价(931.45元/克)，高0.66元/克",
-          "url": "https://flash.jin10.com/detail/20251027102146245800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "凯投宏观：下调黄金价格预期，预计到2026年底黄金价格将跌至每盎司3,500美元。",
-          "url": "https://flash.jin10.com/detail/20251027205309686800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "路透调查：明年黄金价格预测首次突破每盎司4000美元",
-          "url": "https://flash.jin10.com/detail/20251027191426396800",
+          "title": "谷歌(GOOG.O)：通过Bigtable中的分层存储，可借助单一接口访问和修改热层与冷层中的数据。",
+          "url": "https://flash.jin10.com/detail/20251028000607598800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "00时52分"
         },
         {
-          "title": "金十数据整理：金价一路飙升 菲律宾央行却热衷于减持",
-          "url": "https://flash.jin10.com/detail/20251027204235077800",
+          "title": "谷歌(GOOG.O)：推出全新Bigtable存储层，助力效管理海量数据集，现已开放预览版。",
+          "url": "https://flash.jin10.com/detail/20251028000516556800",
           "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "金价下跌为何金饰品牌接连涨价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B8%BA%E4%BD%95%E9%87%91%E9%A5%B0%E5%93%81%E7%89%8C%E6%8E%A5%E8%BF%9E%E6%B6%A8%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26c_type%3D31%26pos%3D21%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E4%25B8%25BA%25E4%25BD%2595%25E9%2587%2591%25E9%25A5%25B0%25E5%2593%2581%25E7%2589%258C%25E6%258E%25A5%25E8%25BF%259E%25E6%25B6%25A8%25E4%25BB%25B7%2523%26band_rank%3D20%26filter_type%3Drealtimehot%26realpos%3D20%26display_time%3D1761560054%26pre_seqid%3D176156005418001942583137",
-          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "00时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251028003902797800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251028003030671800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "IMF前首席经济学家分析：美股泡沫破裂将湮灭多少财富？",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/10/27/202787830fd24f548214a8ce2cd1cd24.html",
+          "source": "参考消息",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
+          "url": "https://flash.jin10.com/detail/20251028000829704800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时24分 ~ 21时39分]"
-        },
-        {
-          "title": "美股盘初三大指数续创历史新高，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时21分 ~ 22时45分]"
-        },
         {
           "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
           "url": "https://wallstreetcn.com/articles/3757937",
@@ -540,31 +115,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时42分]"
-        },
-        {
-          "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
-          "url": "https://flash.jin10.com/detail/20251027131215020800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "市场分析：10年期美债收益率或升至6%",
-          "url": "https://flash.jin10.com/detail/20251027182712790800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 19时18分]"
+          "time_info": "00时52分"
         },
         {
           "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
@@ -574,412 +126,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时21分 ~ 23时42分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "财联社10月27日电，10年期美债收益率上涨4个基点至4.037%。",
-          "url": "https://api3.cls.cn/share/article/2181492?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2994463",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 14时34分]"
-        },
-        {
-          "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
-          "url": "https://flash.jin10.com/detail/20251027160831083800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "00时52分"
         }
       ]
     },
     {
       "keyword_group": "ai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "沙特人工智能公司Humain与高通宣布将在沙特部署先进的人工智能基础设施",
-          "url": "https://api3.cls.cn/share/article/2182523?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时21分 ~ 22时45分]"
-        },
-        {
-          "title": "高通（QCOM）股价短线拉升，日内整体涨幅迅速扩大至将近7%。高通发布两款AI芯片，旨在挑战英伟达在人工智能加速器市场的地位。",
-          "url": "https://wallstreetcn.com/livenews/2994414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时21分 ~ 23时42分]"
-        },
-        {
-          "title": "A股逼近4000点，AI算力又爆了！5G通信ETF、创业板人工智能ETF涨3%，机构：通信成长性加强",
-          "url": "https://www.gelonghui.com/news/5102474",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "高通发布两款AI芯片，旨在挑战英伟达在人工智能加速器市场的地位",
-          "url": "https://wallstreetcn.com/livenews/2994412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时21分 ~ 23时42分]"
-        },
-        {
-          "title": "高通(QCOM.O)涨幅扩大至7%，此前推出人工智能芯片AI200和AI250，在数据中心市场与英伟达展开竞争。",
-          "url": "https://flash.jin10.com/detail/20251027220754914800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时21分 ~ 22时45分]"
-        },
-        {
-          "title": "高通涨幅扩大至20%，创2019年以来最大盘中涨幅，该公司推出人工智能（AI）芯片，在数据中心市场与英伟达竞争。",
-          "url": "https://wallstreetcn.com/livenews/2994418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时42分]"
-        },
-        {
-          "title": "高通(QCOM.O)：Humain和高通将在沙特部署人工智能基础设施，用于全球推理计算。根据该计划，Humain计划从2026年开始，目标是提供200兆瓦的高通AI200和AI250机架解决方案。",
-          "url": "https://flash.jin10.com/detail/20251027223504925800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "多晶硅",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "商品期货收盘，红枣、原木主力合约跌超5%，集运欧线跌超2%，BR橡胶、沪金、玉米跌超1%。多晶硅涨超3%，鸡蛋、碳酸锂涨超2%，国际铜、铁矿石、沪铜、生猪、螺纹钢、热卷、苹果、纯碱、燃料油、沪锡涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/2994070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 16时28分]"
-        },
-        {
-          "title": "国内期货主力合约涨跌不一 碳酸锂、多晶硅涨超2%",
-          "url": "https://api3.cls.cn/share/article/2181387?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 12时52分]"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。碳酸锂、多晶硅涨超2%，鸡蛋、沪铜、国际铜、生猪、纯碱涨超1%。跌幅方面，原木跌超4%，红枣跌超2%，丁二烯橡胶、集运欧线、苯乙烯（EB）、沪金跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251027113035825800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 12时52分]"
-        },
-        {
-          "title": "国内商品期货多数收涨 多晶硅涨超3%",
-          "url": "https://api3.cls.cn/share/article/2181671?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
-        },
-        {
-          "title": "多晶硅部分头部企业11月将减产；组件原大幅减产计划将有所调整",
-          "url": "https://api3.cls.cn/share/article/2181655?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨跌不一。多晶硅涨近4%，鸡蛋、碳酸锂涨超2%，铁矿石、国际铜、PTA涨近2%。跌幅方面，原木、红枣跌超5%，集运欧线跌超2%。",
-          "url": "https://flash.jin10.com/detail/20251027150040922800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "给出100美元目标价！英伟达“唯一的空头”：这不是我第一次看到泡沫",
-          "url": "https://wallstreetcn.com/articles/3757915",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时23分 ~ 11时20分]"
-        },
-        {
-          "title": "财联社10月27日电，高通涨超10%，公司推出人工智能芯片，在数据中心市场与英伟达展开竞争。",
-          "url": "https://api3.cls.cn/share/article/2182527?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时21分 ~ 22时45分]"
-        },
-        {
-          "title": "财联社10月27日电，高通涨超5%，公司推出人工智能芯片，在数据中心市场与英伟达展开竞争。",
-          "url": "https://api3.cls.cn/share/article/2182521?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时21分 ~ 22时45分]"
-        },
-        {
-          "title": "【电报解读】高通推出人工智能芯片，在数据中心市场与英伟达展开竞争！机构称中国海外算力产业链正从“业绩兑现”迈向“预期放大”的二次行情阶段，快速梳理高通相关标的（附表）",
-          "url": "https://api3.cls.cn/share/article/2182571?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时42分]"
-        },
-        {
-          "title": "高通推出人工智能芯片 在数据中心市场与英伟达展开竞争",
-          "url": "https://api3.cls.cn/share/article/2182519?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时21分 ~ 22时45分]"
-        },
-        {
-          "title": "高通涨幅进一步扩大至20%，公司推出人工智能芯片，在数据中心市场与英伟达展开竞争。",
-          "url": "https://api3.cls.cn/share/article/2182531?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小摩：将谷歌目标价上调至300美元",
-          "url": "https://www.gelonghui.com/news/5102661",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "财联社10月27日电，摩根大通将谷歌目标价从260美元上调至300美元。",
-          "url": "https://api3.cls.cn/share/article/2181875?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "四川黄金：第三季度净利润同比增长184% 本期黄金市场价格上涨",
-          "url": "https://api3.cls.cn/share/article/2181973?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
-          "title": "黄金和白银价格回落，贵金属矿商美股盘前股价下跌，纽蒙特矿业(NEM.N)下跌3.4%，巴里克矿业(B.N)下跌1.7%。",
-          "url": "https://flash.jin10.com/detail/20251027163510344800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "碳酸锂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "富宝资讯：碳酸锂期货盘面震荡走强，富宝电池级碳酸锂报79500元/吨",
-          "url": "https://flash.jin10.com/detail/20251027131439924800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日电池级碳酸锂（早盘）价格较上日上涨1200元，均价报80300元/吨。",
-          "url": "https://wallstreetcn.com/livenews/2993933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 12时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "固态电池",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "知情人士：相关部门正酝酿出台新文件 将“半固态电池”统一更名为“固液电池”",
-          "url": "https://api3.cls.cn/share/article/2181337?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "知情人士：半固态电池将统一更名",
-          "url": "https://wallstreetcn.com/livenews/2993953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "据AXIOS网站：OpenAI在与Axios首次分享的一份新监管文件中预测，投资人工智能基础设施将在未来几年带来显著的GDP增长。",
-          "url": "https://flash.jin10.com/detail/20251027174708809800",
-          "source": "金十数据",
+          "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
+          "url": "https://wallstreetcn.com/livenews/2994457",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "ST葫芦娃：中药创新药小儿胆青双解颗粒获药物临床试验批准",
-          "url": "https://api3.cls.cn/share/article/2181941?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "time_info": "00时52分"
         }
       ]
     }
