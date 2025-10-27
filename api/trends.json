@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T16:51:36.750335+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2025-10-27T17:25:05.814565+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[11时20分 ~ 16时51分]"
+        },
+        {
+          "title": "IMF前首席经济学家分析：美股泡沫破裂将湮灭多少财富？",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/10/27/202787830fd24f548214a8ce2cd1cd24.html",
+          "source": "参考消息",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -53,7 +64,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -63,11 +74,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 17时25分]"
         },
         {
           "title": "财联社10月27日电，美股三大股指期货继续走高，纳指期货涨1%，标普500指数期货涨0.77%，道指期货现涨0.57%。",
@@ -87,7 +99,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -196,7 +208,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -291,8 +303,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
         {
           "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
           "url": "https://flash.jin10.com/detail/20251027131215020800",
@@ -396,7 +419,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -407,7 +430,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }
@@ -481,7 +504,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }
