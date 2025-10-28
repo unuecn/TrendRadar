@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T03:40:16.710371+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2025-10-29T04:24:20.828213+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "英伟达",
-      "match_count": 96,
+      "match_count": 109,
       "titles": [
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -15,8 +15,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 03时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 04时24分]"
+        },
+        {
+          "title": "财联社10月29日电，据报道，礼来公司部署全球规模最大、性能最强的AI制药工厂，该设施采用基于英伟达Blackwell架构的DGX超级集群。",
+          "url": "https://api3.cls.cn/share/article/2184064?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            6,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时29分 ~ 04时24分]"
         },
         {
           "title": "财联社10月29日电，英伟达发布全新BlueField-4处理器，并且面向数据中心推出虚拟BluePrints。",
@@ -38,52 +52,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 03时40分]"
-        },
-        {
-          "title": "财联社10月29日电，据报道，礼来公司部署全球规模最大、性能最强的AI制药工厂，该设施采用基于英伟达Blackwell架构的DGX超级集群。",
-          "url": "https://api3.cls.cn/share/article/2184064?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时29分 ~ 03时40分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我不相信我们处于AI泡沫。",
-          "url": "https://wallstreetcn.com/livenews/2995333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 03时40分]"
-        },
-        {
-          "title": "英伟达股价站上200美元 再创新高",
-          "url": "https://api3.cls.cn/share/article/2184073?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 03时40分]"
-        },
-        {
-          "title": "英伟达涨至200美元整数位心理关口，再创历史新高，盘中涨4.4%，总市值达4.86万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2995332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -139,6 +107,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "英伟达CEO黄仁勋：美国政府尚未提出入股公司。",
+          "url": "https://flash.jin10.com/detail/20251029040112322800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "英伟达CEO黄仁勋宣布，与Palantir合作。",
           "url": "https://wallstreetcn.com/livenews/2995292",
           "source": "华尔街见闻-快讯",
@@ -148,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
+          "url": "https://wallstreetcn.com/livenews/2995354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "高通将与英伟达交付一种新型高级量子计算解决方案。",
@@ -187,6 +177,28 @@
           "time_info": "[02时29分 ~ 02时55分]"
         },
         {
+          "title": "财联社10月29日电，英伟达CEO黄仁勋表示，美国政府尚未提出入股公司。",
+          "url": "https://api3.cls.cn/share/article/2184083?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "英伟达市值逼近5万亿美元 多项合作助推涨势",
+          "url": "https://flash.jin10.com/detail/20251029035337570800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "礼来制药与英伟达合作，将打造AI超算。",
           "url": "https://wallstreetcn.com/livenews/2995315",
           "source": "华尔街见闻-快讯",
@@ -208,6 +220,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 02时55分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我不相信我们处于AI泡沫。",
+          "url": "https://wallstreetcn.com/livenews/2995333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 04时24分]"
         },
         {
           "title": "财联社10月29日电，英伟达首席执行官准备公布与三星、现代的人工智能交易。",
@@ -236,6 +260,18 @@
           "time_info": "[01时43分 ~ 02时55分]"
         },
         {
+          "title": "英伟达股价站上200美元 再创新高",
+          "url": "https://api3.cls.cn/share/article/2184073?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 04时24分]"
+        },
+        {
           "title": "Chan Zuckerberg Initiative与英伟达扩大合作关系。",
           "url": "https://wallstreetcn.com/livenews/2995316",
           "source": "华尔街见闻-快讯",
@@ -248,15 +284,27 @@
           "time_info": "[02时55分 ~ 03时40分]"
         },
         {
-          "title": "美国能源部宣布与英伟达(NVDA.O)和甲骨文(ORCL.N)建立新的合作伙伴关系，以打造人工智能超级计算机。",
-          "url": "https://flash.jin10.com/detail/20251029032025208800",
+          "title": "英伟达涨至200美元整数位心理关口，再创历史新高，盘中涨4.4%，总市值达4.86万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2995332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 04时24分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们必须继续欢迎移民。",
+          "url": "https://flash.jin10.com/detail/20251029034926973800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时40分"
+          "time_info": "04时24分"
         },
         {
           "title": "财联社10月29日电，英伟达宣布与CrowdStrike合作打造网络安全人工智能代理。",
@@ -336,6 +384,19 @@
           "time_info": "[02时55分 ~ 03时40分]"
         },
         {
+          "title": "英伟达股价站上200美元 再创新高",
+          "url": "https://flash.jin10.com/detail/20251029030010334800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 04时24分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：宣布NVQ Link。 英伟达将拥有17家量子计算公司来支持NVQ。",
           "url": "https://wallstreetcn.com/livenews/2995261",
           "source": "华尔街见闻-快讯",
@@ -375,6 +436,19 @@
           "time_info": "[00时53分 ~ 01时43分]"
         },
         {
+          "title": "诺基亚(NOK.N)首席执行官霍塔德：与英伟达(NVDA.O)的合作是为了支持创新 。",
+          "url": "https://flash.jin10.com/detail/20251029025351538800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 04时24分]"
+        },
+        {
           "title": "CrowdStrike涨4.5%，该公司与英伟达合作。",
           "url": "https://wallstreetcn.com/livenews/2995291",
           "source": "华尔街见闻-快讯",
@@ -386,18 +460,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 02时55分]"
-        },
-        {
-          "title": "英伟达股价站上200美元 再创新高",
-          "url": "https://flash.jin10.com/detail/20251029030010334800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 03时40分]"
         },
         {
           "title": "黄仁勋：英伟达推出新款Bluefield-4处理器",
@@ -435,18 +497,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 01时43分]"
-        },
-        {
-          "title": "诺基亚(NOK.N)首席执行官霍塔德：与英伟达(NVDA.O)的合作是为了支持创新 。",
-          "url": "https://flash.jin10.com/detail/20251029025351538800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 03时40分]"
         },
         {
           "title": "英伟达(NVDA.O)：为美国能源部下属阿尔贡与洛斯阿拉莫斯国家实验室提供AI基础设施，加速七套新型计算系统研发进程，推动科学研究与技术创新。",
@@ -498,6 +548,18 @@
           "time_info": "[02时55分 ~ 03时16分]"
         },
         {
+          "title": "美国能源部宣布与英伟达(NVDA.O)和甲骨文(ORCL.N)建立新的合作伙伴关系，以打造人工智能超级计算机。",
+          "url": "https://flash.jin10.com/detail/20251029032025208800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时24分]"
+        },
+        {
           "title": "英伟达推出全新量子设备 以实现量子处理器与英伟达芯片互联",
           "url": "https://api3.cls.cn/share/article/2184042?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -547,6 +609,18 @@
           "time_info": "[01时43分 ~ 02时30分]"
         },
         {
+          "title": "英伟达CEO黄仁勋：主题演讲中提到的5000亿美元是五个季度的。",
+          "url": "https://wallstreetcn.com/livenews/2995327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 04时24分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋展示基于（Blackwell）Rubin的系统。",
           "url": "https://wallstreetcn.com/livenews/2995286",
           "source": "华尔街见闻-快讯",
@@ -571,6 +645,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 02时30分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：协议让英伟达在全球范围内进入诺基亚的基站。",
+          "url": "https://wallstreetcn.com/livenews/2995324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 04时24分]"
+        },
+        {
+          "title": "美国能源部：选择慧与科技和英伟达(NVDA.O)为两座新超算的合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20251029024406989800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 04时24分]"
         },
         {
           "title": "英伟达CEO黄仁勋准备披露与三星和现代的AI交易。",
@@ -610,6 +709,18 @@
           "time_info": "[02时29分 ~ 02时55分]"
         },
         {
+          "title": "诺基亚CEO Hotard：与英伟达的合作关系关乎支持创新。 合作将加速6G无线网络时代的到来。 预计产品将在2027年全面商业化。 明年初将进行客户试验。",
+          "url": "https://wallstreetcn.com/livenews/2995323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 04时24分]"
+        },
+        {
           "title": "英伟达(NVDA.O)：与斯泰兰蒂斯(STLA.N)、Lucid Group(LCID.O)和梅赛德斯-奔驰合作，共同开发基于DRIVE AGX Hyperion 10平台的L4级自动驾驶乘用车。",
           "url": "https://flash.jin10.com/detail/20251029015010243800",
           "source": "金十数据",
@@ -622,6 +733,18 @@
           "time_info": "[02时29分 ~ 02时55分]"
         },
         {
+          "title": "英伟达与诺基亚的CEO们接受彭博电视采访。 英伟达CEO黄仁勋谈及投资诺基亚，新款电信平台。",
+          "url": "https://wallstreetcn.com/livenews/2995322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 04时24分]"
+        },
+        {
           "title": "英伟达拟向诺基亚投资10亿美元",
           "url": "https://flash.jin10.com/detail/20251028234852642800",
           "source": "金十数据",
@@ -632,6 +755,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 00时53分]"
+        },
+        {
+          "title": "美国能源部：选择惠与（HPE）和英伟达为两座新超算的合作伙伴。",
+          "url": "https://wallstreetcn.com/livenews/2995319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 04时24分]"
         },
         {
           "title": "诺基亚欧股股价上涨17%，英伟达将进行10亿美元股权投资。",
@@ -658,17 +793,6 @@
           "time_info": "[00时28分 ~ 00时53分]"
         },
         {
-          "title": "英伟达CEO黄仁勋：主题演讲中提到的5000亿美元是五个季度的。",
-          "url": "https://wallstreetcn.com/livenews/2995327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 03时40分]"
-        },
-        {
           "title": "英伟达(NVDA.O)：位于弗吉尼亚州的AI工厂研究中心将部署首套Vera Rubin基础设施，并为英伟达Omniverse DSX奠定基础。",
           "url": "https://flash.jin10.com/detail/20251029005834402800",
           "source": "金十数据",
@@ -679,17 +803,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 01时43分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：协议让英伟达在全球范围内进入诺基亚的基站。",
-          "url": "https://wallstreetcn.com/livenews/2995324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 03时40分]"
         },
         {
           "title": "英伟达(NVDA.O)：阿贡国家实验室和洛斯阿拉莫斯国家实验室将推出7个新系统，助力美国能源部推动美国安全、科学和能源应用领域的技术领先地位。",
@@ -704,16 +817,16 @@
           "time_info": "[01时21分 ~ 01时43分]"
         },
         {
-          "title": "美国能源部：选择慧与科技和英伟达(NVDA.O)为两座新超算的合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20251029024406989800",
+          "title": "英伟达CEO黄仁勋：美国需要更多能源来维持行业增长。",
+          "url": "https://flash.jin10.com/detail/20251029031507141800",
           "source": "金十数据",
           "ranks": [
-            8,
-            21
+            7,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时16分 ~ 03时40分]"
+          "time_info": "[03时40分 ~ 04时24分]"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达预计未来六个季度将实现5000亿美元业务规模。 将发货2000万Blackwell Ruben GPU。 美国亚利桑那州Blackwell（工厂）“满负荷生产”。 等待特朗普政府批准对沙特出口。",
@@ -726,17 +839,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时30分]"
-        },
-        {
-          "title": "诺基亚CEO Hotard：与英伟达的合作关系关乎支持创新。 合作将加速6G无线网络时代的到来。 预计产品将在2027年全面商业化。 明年初将进行客户试验。",
-          "url": "https://wallstreetcn.com/livenews/2995323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 03时40分]"
         },
         {
           "title": "Zoom(ZM.O)的联合人工智能平台借助英伟达(NVDA.O)Nemotron模型实现扩展，让每家企业的人工智能更加快速、更加智能。",
@@ -763,6 +865,18 @@
           "time_info": "[01时21分 ~ 01时43分]"
         },
         {
+          "title": "英伟达CEO黄仁勋：主题演讲中提及的5000亿美元数据对应的是五个季度的规模。",
+          "url": "https://flash.jin10.com/detail/20251029031157644800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时24分]"
+        },
+        {
           "title": "英伟达涨幅扩大至3%，刷新盘中历史高位至197.29美元。",
           "url": "https://wallstreetcn.com/livenews/2995297",
           "source": "华尔街见闻-快讯",
@@ -773,17 +887,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时30分 ~ 02时55分]"
-        },
-        {
-          "title": "英伟达与诺基亚的CEO们接受彭博电视采访。 英伟达CEO黄仁勋谈及投资诺基亚，新款电信平台。",
-          "url": "https://wallstreetcn.com/livenews/2995322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 03时40分]"
         },
         {
           "title": "英伟达(NVDA.O)盘中涨幅扩大至3%。",
@@ -855,17 +958,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 01时43分]"
-        },
-        {
-          "title": "美国能源部：选择惠与（HPE）和英伟达为两座新超算的合作伙伴。",
-          "url": "https://wallstreetcn.com/livenews/2995319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 03时40分]"
         },
         {
           "title": "微软(MSFT.O)和英伟达(NVDA.O)在GTC大会上宣布人工智能领域的最新进展，微软表示将率先在Azure云平台上提供英伟达RTX Pro 6000 Blackwell服务器版GPU。",
@@ -1004,15 +1096,48 @@
           "time_info": "00时01分"
         },
         {
-          "title": "英伟达CEO黄仁勋：美国需要更多能源来维持行业增长。",
-          "url": "https://flash.jin10.com/detail/20251029031507141800",
+          "title": "英伟达CEO黄仁勋：台积电(TSM.N)计划在未来几个月内将最先进的封装技术引入美国。",
+          "url": "https://flash.jin10.com/detail/20251029034809036800",
           "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时40分"
+          "time_info": "04时24分"
+        },
+        {
+          "title": "英伟达日内涨幅扩大至6%",
+          "url": "https://api3.cls.cn/share/article/2184078?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达将在“未来几个月”开始在美国进行更多芯片封装工作。",
+          "url": "https://flash.jin10.com/detail/20251029034029485800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "提醒：英伟达CEO黄仁勋结束接受彭博电视的采访。",
+          "url": "https://wallstreetcn.com/livenews/2995345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "英伟达CEO黄仁勋：将出货2000万块Blackwell Ruben图形处理器；英伟达(NVDA.O)预计未来六个季度将实现5000亿美元业务规模。",
@@ -1026,17 +1151,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "英伟达CEO黄仁勋：主题演讲中提及的5000亿美元数据对应的是五个季度的规模。",
-          "url": "https://flash.jin10.com/detail/20251029031157644800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
-        },
-        {
           "title": "英伟达推出NVQLink互联系统 实现AI超算与量子计算融合",
           "url": "https://flash.jin10.com/detail/20251029011612257800",
           "source": "金十数据",
@@ -1048,6 +1162,39 @@
           "time_info": "01时43分"
         },
         {
+          "title": "英伟达CEO黄仁勋认为，不确定特朗普政府是否会发放向沙特（出口芯片）的许可证。 英伟达称，等待（美国政府）更新关于向海湾地区供应芯片的能力。",
+          "url": "https://wallstreetcn.com/livenews/2995343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "优步拟2027年起扩充英伟达技术支持的自动驾驶出租车车队，目标10万辆",
+          "url": "https://wallstreetcn.com/livenews/2995342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：美国需要明显更多的能源/电力供应，才能实现持续的工业增长。",
+          "url": "https://wallstreetcn.com/livenews/2995340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "Lucid Group(LCID.O)：计划在即将推出的中型产品系列中集成2台英伟达DRIVE AGX THOR加速计算机。",
           "url": "https://flash.jin10.com/detail/20251029020857714800",
           "source": "金十数据",
@@ -1057,6 +1204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "英伟达涨幅扩大至5%。 标普500指数目前涨0.44%，道指涨269点涨幅0.57%，纳指涨242.946点涨幅1.03%，半导体指数涨0.7%，小盘股指跌0.3%，特斯拉涨1.9%。",
+          "url": "https://wallstreetcn.com/livenews/2995336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "Lucid Group(LCID.O)：为实现L4级自动驾驶，公司计划利用英伟达(NVDA.O)的多传感器套件架构，包括摄像头、雷达和激光雷达。",
@@ -1158,11 +1316,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 03时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 04时24分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
@@ -1173,8 +1332,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 03时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 04时24分]"
         },
         {
           "title": "财联社10月29日电，OpenAI首席执行官阿尔特曼表示，考虑到我们将面临的资金需求，可以合理推断首次公开募股（IPO）是我们最有可能选择的路径。",
@@ -1182,11 +1341,12 @@
           "source": "财联社电报",
           "ranks": [
             1,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 03时40分]"
+          "appearance_count": 4,
+          "time_info": "[02时55分 ~ 04时24分]"
         },
         {
           "title": "OpenAI：AI基础设施总投资额约1.4万亿美元",
@@ -1220,11 +1380,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 03时40分]"
+          "appearance_count": 4,
+          "time_info": "[02时55分 ~ 04时24分]"
         },
         {
           "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
@@ -1452,7 +1613,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -1462,8 +1623,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 03时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 04时24分]"
         },
         {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
@@ -1475,8 +1636,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 03时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 04时24分]"
+        },
+        {
+          "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
+          "url": "https://flash.jin10.com/detail/20251029040108535800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -1486,8 +1658,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 03时40分]"
+          "appearance_count": 4,
+          "time_info": "[02时55分 ~ 04时24分]"
         },
         {
           "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股盘中）",
@@ -1518,11 +1690,23 @@
           "url": "https://flash.jin10.com/detail/20251029030928567800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时24分]"
+        },
+        {
+          "title": "美股续创新高 英伟达总市值逼近5万亿美元",
+          "url": "https://api3.cls.cn/share/article/2184080?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时40分"
+          "time_info": "04时24分"
         }
       ]
     },
@@ -1614,8 +1798,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 03时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 04时24分]"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
@@ -1625,8 +1809,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 03时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 04时24分]"
         },
         {
           "title": "金价跌破3900美元 未来会是什么走势",
@@ -1638,11 +1822,12 @@
             21,
             17,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 03时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 04时24分]"
         },
         {
           "title": "金价银价暴跌原因",
@@ -1653,8 +1838,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时30分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[02时30分 ~ 04时24分]"
         },
         {
           "title": "彭博汇编数据显示，10月27日金价跌穿4000美元整数位心理关口当天，道富旗下SPDR Gold Shares（全球第一大黄金ETF）遭遇10亿美元净资金外流，创4月22日以来最大外流规模。",
@@ -1681,8 +1866,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 03时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 04时24分]"
         },
         {
           "title": "Lucid Group与英伟达合作，将向客户交付第一批Level 4无人驾驶汽车产品。",
@@ -1805,6 +1990,40 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（10月28日）纽约尾盘，美国10年期国债收益率涨0.19个基点，报3.9814%，日内交投于3.9680%-4.0025%区间。 两年期美债收益率涨0.41个基点，报3.4918%；30年期美债收益率跌0.28个基点。 2/10年期美债收益率利差跌0.328个基点，报+48.560个基点。 10年期通胀保值国债（TIPS）收益率跌0.44个基点，至1.6875%；两年期TIPS收益率涨3.08个基点，至0.8442%；30年期TIPS收益率跌1.25个基点，至2.3258%。",
+          "url": "https://wallstreetcn.com/livenews/2995344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（10月28日）纽约尾盘，ICE美元指数跌0.12%，报98.667点，日内交投区间为98.947-98.565点，北京时间21:20前后出现一波冲高回落行情。 彭博美元指数跌0.17%，报1209.53点，日内交投区间为1212.67-1208.87点。",
+          "url": "https://wallstreetcn.com/livenews/2995338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "减肥药",
       "match_count": 1,
       "titles": [
@@ -1816,8 +2035,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 03时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 04时24分]"
         }
       ]
     }
