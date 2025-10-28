@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T22:48:38.898373+08:00",
-  "total_titles_processed": 2760,
+  "generated_at": "2025-10-28T23:24:24.896949+08:00",
+  "total_titles_processed": 2841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[07时39分 ~ 22时48分]"
+          "appearance_count": 33,
+          "time_info": "[07时39分 ~ 23时24分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -244,11 +244,25 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 23时24分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF跌1.6%，公用事业ETF跌1.05%，科技行业ETF涨0.56%。",
+          "url": "https://wallstreetcn.com/livenews/2995188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时48分]"
+          "time_info": "[22时22分 ~ 23时24分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高",
@@ -286,18 +300,6 @@
           "time_info": "[16时28分 ~ 16时50分]"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF跌1.6%，公用事业ETF跌1.05%，科技行业ETF涨0.56%。",
-          "url": "https://wallstreetcn.com/livenews/2995188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时48分]"
-        },
-        {
           "title": "特朗普媒体科技集团美股盘前涨逾11%，公司宣布进军预测市场业务。",
           "url": "https://wallstreetcn.com/livenews/2995148",
           "source": "华尔街见闻-快讯",
@@ -316,7 +318,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -374,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "美股异动｜高通昨日大涨后回调跌超4%，日前发布两款人工智能芯片",
+          "url": "https://www.gelonghui.com/news/5104364",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "新东方第一财季调整后每ADS收益1.61美元，预估1.65美元。 第一财季经营利润3.108亿美元，预估3.008亿美元。 第一财季净营收15.2亿美元，预估15.1亿美元。 第一财季资本支出5,540万美元。 新东方美股盘前涨0.68%。",
@@ -445,7 +458,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
@@ -523,6 +536,17 @@
           "time_info": "21时30分"
         },
         {
+          "title": "财联社10月28日电，据OpenAI公司发言人表示，公司暂无上市计划，亦不关注首次公开募股事宜。",
+          "url": "https://api3.cls.cn/share/article/2183977?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "美股开盘，道指涨0.4%，标普500指数涨0.29%，纳指涨0.5%。微软(MSFT.O)与OpenAI签署新协议后上涨3.7%，市值突破4万亿美元。Paypal(PYPL.O)涨7.5%，公司达成协议将数字钱包嵌入ChatGPT。联合健康(UNH.N)涨3.6%，第三季度盈利超出预期并上调全年业绩预期。联合包裹(UPS.N)涨10%，公司上调2025年全年盈利展望。",
           "url": "https://flash.jin10.com/detail/20251028213032383800",
           "source": "金十数据",
@@ -534,15 +558,15 @@
           "time_info": "21时50分"
         },
         {
-          "title": "OpenAI创始人Sam Altman将不会因OpenAI的盈利重组而获得股份。",
-          "url": "https://flash.jin10.com/detail/20251028222603957800",
-          "source": "金十数据",
+          "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股（IPO）的计划。",
+          "url": "https://wallstreetcn.com/livenews/2995218",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "23时24分"
         },
         {
           "title": "财联社10月28日电，微软美股盘前涨超4.5%。微软表示，OpenAI签约购买额外2500亿美元的Azure服务。",
@@ -567,6 +591,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时30分 ~ 21时50分]"
+        },
+        {
+          "title": "OpenAI创始人Sam Altman将不会因OpenAI的盈利重组而获得股份。",
+          "url": "https://flash.jin10.com/detail/20251028222603957800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时24分]"
         },
         {
           "title": "微软与OpenAI签署新协议 后者将额外购买2500亿美元的Azure服务",
@@ -618,6 +654,17 @@
           "time_info": "[13时20分 ~ 13时43分]"
         },
         {
+          "title": "财联社10月28日电，据OpenAI表示，该公司联合创始人兼首席执行官萨姆·奥尔特曼将不会在新重组的企业中获得股权。",
+          "url": "https://api3.cls.cn/share/article/2183973?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "微软将持有OpenAI 27%股权，并获得AI模型使用权",
           "url": "https://flash.jin10.com/detail/20251028212425533800",
           "source": "金十数据",
@@ -629,6 +676,17 @@
           "time_info": "21时50分"
         },
         {
+          "title": "OpenAI CEO：将直播讨论新企业结构及其他重要内容",
+          "url": "https://flash.jin10.com/detail/20251028224945145800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "财联社10月28日电，Paypal盘前涨幅扩大至14%。消息面上，Paypal据称与OpenAI达成合作协议，将支付钱包嵌入到ChatGPT中。",
           "url": "https://api3.cls.cn/share/article/2183695?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -638,6 +696,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
+        },
+        {
+          "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股的计划。",
+          "url": "https://flash.jin10.com/detail/20251028224651919800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "微软美股盘前涨近5%！微软与OpenAI签署新协议，微软将获得OpenAI 27%的股权",
@@ -831,28 +900,6 @@
           "time_info": "[00时52分 ~ 02时29分]"
         },
         {
-          "title": "【金牌纪要库】谷歌“量子回声”推动量子计算走向应用落地，这个环节担任量子产业链“卖铲人”角色，技术壁垒高且需求刚性，为量子芯片提供极端物理环境和精确操控信号",
-          "url": "https://api3.cls.cn/share/article/2183152?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
-          "url": "https://wallstreetcn.com/livenews/2995212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
           "url": "https://wallstreetcn.com/livenews/2994485",
           "source": "华尔街见闻-快讯",
@@ -929,6 +976,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时39分]"
+        },
+        {
+          "title": "【金牌纪要库】谷歌“量子回声”推动量子计算走向应用落地，这个环节担任量子产业链“卖铲人”角色，技术壁垒高且需求刚性，为量子芯片提供极端物理环境和精确操控信号",
+          "url": "https://api3.cls.cn/share/article/2183152?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时24分]"
+        },
+        {
+          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
+          "url": "https://wallstreetcn.com/livenews/2995212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时24分]"
         },
         {
           "title": "谷歌宣布重启一核电站为AI基础设施供电",
@@ -1043,8 +1114,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[11时43分 ~ 22时48分]"
+          "appearance_count": 29,
+          "time_info": "[11时43分 ~ 23时24分]"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
@@ -1056,8 +1127,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时47分 ~ 22时48分]"
+          "appearance_count": 10,
+          "time_info": "[18时47分 ~ 23时24分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -1098,6 +1169,18 @@
           "time_info": "[09时24分 ~ 10时54分]"
         },
         {
+          "title": "彭博汇编数据显示，10月27日金价跌穿4000美元整数位心理关口当天，道富旗下SPDR Gold Shares（全球第一大黄金ETF）遭遇10亿美元净资金外流，创4月22日以来最大外流规模。",
+          "url": "https://wallstreetcn.com/livenews/2995204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时24分]"
+        },
+        {
           "title": "金十图示：2025年10月28日（周二）上海金早盘价为914.25元/克，较国际金价(913.54元/克)，高0.71元/克",
           "url": "https://flash.jin10.com/detail/20251028103346925800",
           "source": "金十数据",
@@ -1129,17 +1212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时41分 ~ 15时42分]"
-        },
-        {
-          "title": "彭博汇编数据显示，10月27日金价跌穿4000美元整数位心理关口当天，道富旗下SPDR Gold Shares（全球第一大黄金ETF）遭遇10亿美元净资金外流，创4月22日以来最大外流规模。",
-          "url": "https://wallstreetcn.com/livenews/2995204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
         },
         {
           "title": "伦敦金银市场协会（LBMA）调查：金价一年后料达每盎司4980.3美元。",
@@ -1256,6 +1328,18 @@
           "time_info": "[14时30分 ~ 14时55分]"
         },
         {
+          "title": "宇树机器人拖动1.4吨汽车",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%96%E5%8A%A81.4%E5%90%A8%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时24分]"
+        },
+        {
           "title": "全球首款进入课堂教学场景的全尺寸仿生机器人在合肥正式“开讲”",
           "url": "https://api3.cls.cn/share/article/2183013?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -1324,17 +1408,6 @@
           "time_info": "[14时30分 ~ 14时31分]"
         },
         {
-          "title": "宇树机器人拖动1.4吨汽车",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%96%E5%8A%A81.4%E5%90%A8%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "A股机器人概念震荡拉升，南京聚隆涨超12%，永茂泰此前涨停，青岛双星3连板，大洋电机、三花智控、新瀚新材跟涨。",
           "url": "https://wallstreetcn.com/livenews/2994668",
           "source": "华尔街见闻-快讯",
@@ -1349,7 +1422,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "ETF午评 | A股时隔十年重返4000点，AI硬件板块继续领涨，云50ETF、创业板人工智能ETF涨2.6%",
@@ -1461,6 +1534,17 @@
           "time_info": "[19时17分 ~ 19时38分]"
         },
         {
+          "title": "阿波罗高管Scott Kleinman：人工智能（AI）技术取代劳动力是“最重要的问题”。 私募将在好几年的时间内按更慢的速度销售。",
+          "url": "https://wallstreetcn.com/livenews/2995215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "【九点特供】创2019年以来最大日内涨幅！高通宣布推出人工智能芯片AI200和AI250，正在改变AI芯片市场的竞争格局，这家公司已取得了高通等客户订单，其中部分订单已经验收",
           "url": "https://api3.cls.cn/share/article/2182640?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -1478,7 +1562,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1509,8 +1593,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[09时24分 ~ 22时48分]"
+          "appearance_count": 32,
+          "time_info": "[09时24分 ~ 23时24分]"
         },
         {
           "title": "市场消息：英伟达(NVDA.O)和德国电信计划在德国建设一座价值10亿欧元的数据中心。",
@@ -1943,8 +2027,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[14时54分 ~ 22时48分]"
+          "appearance_count": 20,
+          "time_info": "[14时54分 ~ 23时24分]"
         },
         {
           "title": "【电报解读】文远知行即将在港上市，机构看好其“智慧出行+智慧货运”双生态闭环，这家公司与其合作开发无人驾驶车辆",
@@ -1977,8 +2061,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时28分 ~ 22时48分]"
+          "appearance_count": 15,
+          "time_info": "[16时28分 ~ 23时24分]"
         }
       ]
     }
