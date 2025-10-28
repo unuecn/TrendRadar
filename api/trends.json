@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-10-28T07:39:54.861094+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2025-10-28T09:24:41.283102+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "IMF前首席经济学家分析：美股泡沫破裂将湮灭多少财富？",
           "url": "https://ckxxapp.ckxx.net/pages/2025/10/27/202787830fd24f548214a8ce2cd1cd24.html",
           "source": "参考消息",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 07时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 09时24分]"
+        },
+        {
+          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 09时24分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
@@ -51,6 +63,19 @@
           "time_info": "[04时40分 ~ 07时19分]"
         },
         {
+          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
+          "url": "https://www.cls.cn/detail/2182682",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时42分 ~ 09时24分]"
+        },
+        {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251028003902797800",
           "source": "金十数据",
@@ -74,17 +99,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时39分"
         },
         {
           "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股盘中）",
@@ -129,16 +143,15 @@
           "time_info": "[04时19分 ~ 05时39分]"
         },
         {
-          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
-          "url": "https://www.cls.cn/detail/2182682",
-          "source": "财联社热门",
+          "title": "美股异动丨恩智浦夜盘涨超2%，Q3收入略胜预期，预计Q4经营收入中位数略高于预期",
+          "url": "https://www.gelonghui.com/news/5103532",
+          "source": "格隆汇",
           "ranks": [
-            9,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 07时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
@@ -179,6 +192,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时52分 ~ 01时18分]"
+        },
+        {
+          "title": "美股异动丨智慧物流跌71.18%，为跌幅最大的中概股",
+          "url": "https://www.gelonghui.com/news/5103525",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "美股收盘：三大指数齐刷历史新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%BD%90%E5%88%B7%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     },
@@ -344,7 +379,7 @@
     },
     {
       "keyword_group": "英伟达",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "市场消息：英伟达(NVDA.O)和德国电信计划在德国建设一座价值10亿欧元的数据中心。",
@@ -386,9 +421,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
+          "url": "https://wallstreetcn.com/articles/3758001",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "英伟达与德国电信计划在德国部署/建设规模为10亿欧元的数据中心。",
@@ -456,6 +502,50 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2994463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            12,
+            19,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 03时16分]"
+        },
+        {
+          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
+          "url": "https://www.cls.cn/detail/2182699",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D21%26stream_entry_id%3D31%26dgr%3D0%26pos%3D22%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D21%26display_time%3D1761614667%26pre_seqid%3D176161466794901954904122",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -475,11 +565,12 @@
           "url": "https://wallstreetcn.com/articles/3757941",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 07时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 09时24分]"
         },
         {
           "title": "30年期美债收益率跌约3个基点",
@@ -494,6 +585,51 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时19分 ~ 05时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2994482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时29分 ~ 03时38分]"
+        },
+        {
+          "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
+          "url": "https://wallstreetcn.com/livenews/2994457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时29分]"
+        },
+        {
+          "title": "【九点特供】创2019年以来最大日内涨幅！高通宣布推出人工智能芯片AI200和AI250，正在改变AI芯片市场的竞争格局，这家公司已取得了高通等客户订单，其中部分订单已经验收",
+          "url": "https://api3.cls.cn/share/article/2182640?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     },
@@ -568,58 +704,47 @@
       ]
     },
     {
-      "keyword_group": "ai",
+      "keyword_group": "多晶硅",
       "match_count": 2,
       "titles": [
         {
-          "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/2994482",
+          "title": "商品期货开盘，沪金、沪银主力合约跌超2%，集运欧线、红枣、沥青、BR橡胶、原油跌超1%。铁矿石、多晶硅、豆粕、螺纹钢、豆二涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2994633",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            12,
-            16,
-            20
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时29分 ~ 03时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
-          "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
-          "url": "https://wallstreetcn.com/livenews/2994457",
-          "source": "华尔街见闻-快讯",
+          "title": "早盘开盘，国内期货主力合约涨跌不一。铁矿石、多晶硅、豆粕、螺纹钢、豆二涨超1%。跌幅方面，沪金、沪银跌超2%，集运欧线、红枣、沥青、丁二烯橡胶、SC原油跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251028090003200800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            14,
-            18,
-            25
+            7
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "无人驾驶",
       "match_count": 1,
       "titles": [
         {
-          "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2994463",
-          "source": "华尔街见闻-快讯",
+          "title": "【电报解读】文远知行即将在港上市，机构看好其“智慧出行+智慧货运”双生态闭环，这家公司与其合作开发无人驾驶车辆",
+          "url": "https://api3.cls.cn/share/article/2182786?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            3,
-            8,
-            12,
-            19,
-            26,
-            30
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 03时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     }
