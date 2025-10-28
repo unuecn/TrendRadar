@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T22:22:46.132401+08:00",
-  "total_titles_processed": 2674,
+  "generated_at": "2025-10-28T22:48:38.898373+08:00",
+  "total_titles_processed": 2760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[07时39分 ~ 22时22分]"
+          "appearance_count": 32,
+          "time_info": "[07时39分 ~ 22时48分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -201,6 +201,19 @@
           "time_info": "[06时20分 ~ 07时39分]"
         },
         {
+          "title": "美股盘初：微软涨约4%，核电股Cameco涨约18%",
+          "url": "https://wallstreetcn.com/livenews/2995181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 22时48分]"
+        },
+        {
           "title": "周二美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/2995170",
           "source": "华尔街见闻-快讯",
@@ -226,16 +239,16 @@
           "time_info": "[18时22分 ~ 18时47分]"
         },
         {
-          "title": "美股盘初：微软涨约4%，核电股Cameco涨约18%",
-          "url": "https://wallstreetcn.com/livenews/2995181",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2183910",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            18
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时22分]"
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 22时48分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高",
@@ -273,16 +286,16 @@
           "time_info": "[16时28分 ~ 16时50分]"
         },
         {
-          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2183910",
-          "source": "财联社热门",
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF跌1.6%，公用事业ETF跌1.05%，科技行业ETF涨0.56%。",
+          "url": "https://wallstreetcn.com/livenews/2995188",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            12
+            13,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时22分]"
+          "time_info": "[22时22分 ~ 22时48分]"
         },
         {
           "title": "特朗普媒体科技集团美股盘前涨逾11%，公司宣布进军预测市场业务。",
@@ -297,13 +310,24 @@
           "time_info": "[21时30分 ~ 21时50分]"
         },
         {
+          "title": "美股异动丨特斯拉续涨超2%，自动驾驶进展获大摩分析师称赞",
+          "url": "https://www.gelonghui.com/news/5104332",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "美股三大指数小幅高开 微软涨超3%总市值重新站上4万亿美元",
           "url": "https://api3.cls.cn/share/article/2183930?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -363,17 +387,6 @@
           "time_info": "18时22分"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF跌1.6%，公用事业ETF跌1.05%，科技行业ETF涨0.56%。",
-          "url": "https://wallstreetcn.com/livenews/2995188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
           "title": "联邦快递美股盘前扩大涨势，现上涨5.1%。",
           "url": "https://wallstreetcn.com/livenews/2995047",
           "source": "华尔街见闻-快讯",
@@ -424,7 +437,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         }
@@ -432,7 +445,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
@@ -519,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
+        },
+        {
+          "title": "OpenAI创始人Sam Altman将不会因OpenAI的盈利重组而获得股份。",
+          "url": "https://flash.jin10.com/detail/20251028222603957800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "财联社10月28日电，微软美股盘前涨超4.5%。微软表示，OpenAI签约购买额外2500亿美元的Azure服务。",
@@ -721,7 +745,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -762,7 +786,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "谷歌宣布重启一核电站为AI基础设施供电",
@@ -805,6 +829,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时52分 ~ 02时29分]"
+        },
+        {
+          "title": "【金牌纪要库】谷歌“量子回声”推动量子计算走向应用落地，这个环节担任量子产业链“卖铲人”角色，技术壁垒高且需求刚性，为量子芯片提供极端物理环境和精确操控信号",
+          "url": "https://api3.cls.cn/share/article/2183152?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
+          "url": "https://wallstreetcn.com/livenews/2995212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
@@ -973,7 +1019,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -997,8 +1043,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[11时43分 ~ 22时22分]"
+          "appearance_count": 28,
+          "time_info": "[11时43分 ~ 22时48分]"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
@@ -1010,8 +1056,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时47分 ~ 22时22分]"
+          "appearance_count": 9,
+          "time_info": "[18时47分 ~ 22时48分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -1085,6 +1131,17 @@
           "time_info": "[15时41分 ~ 15时42分]"
         },
         {
+          "title": "彭博汇编数据显示，10月27日金价跌穿4000美元整数位心理关口当天，道富旗下SPDR Gold Shares（全球第一大黄金ETF）遭遇10亿美元净资金外流，创4月22日以来最大外流规模。",
+          "url": "https://wallstreetcn.com/livenews/2995204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "伦敦金银市场协会（LBMA）调查：金价一年后料达每盎司4980.3美元。",
           "url": "https://flash.jin10.com/detail/20251028162351099800",
           "source": "金十数据",
@@ -1132,7 +1189,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "机器人现在连触觉都有了",
@@ -1267,6 +1324,17 @@
           "time_info": "[14时30分 ~ 14时31分]"
         },
         {
+          "title": "宇树机器人拖动1.4吨汽车",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%96%E5%8A%A81.4%E5%90%A8%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "A股机器人概念震荡拉升，南京聚隆涨超12%，永茂泰此前涨停，青岛双星3连板，大洋电机、三花智控、新瀚新材跟涨。",
           "url": "https://wallstreetcn.com/livenews/2994668",
           "source": "华尔街见闻-快讯",
@@ -1276,6 +1344,154 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "ETF午评 | A股时隔十年重返4000点，AI硬件板块继续领涨，云50ETF、创业板人工智能ETF涨2.6%",
+          "url": "https://www.gelonghui.com/news/5103568",
+          "source": "格隆汇",
+          "ranks": [
+            2,
+            8,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 13时43分]"
+        },
+        {
+          "title": "AI硬件板块涨势不止，中际旭创再攀历史新高，创业板人工智能ETF冲击月线6连涨，5G通信ETF年内涨幅翻倍",
+          "url": "https://www.gelonghui.com/news/5103549",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 11时43分]"
+        },
+        {
+          "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2994482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时29分 ~ 03时38分]"
+        },
+        {
+          "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
+          "url": "https://wallstreetcn.com/livenews/2994457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时29分]"
+        },
+        {
+          "title": "沙特人工智能公司Humain首席执行官：沙特将设立一项基础设施基金，并将有一家大型企业集团参与其中，而Humain公司本身不会单独为数据中心提供资金。",
+          "url": "https://flash.jin10.com/detail/20251028190712271800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 19时38分]"
+        },
+        {
+          "title": "据华尔街日报：人工智能公司Fireworks AI在最新一轮融资中的估值达到40亿美元。",
+          "url": "https://flash.jin10.com/detail/20251028190415748800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 19时38分]"
+        },
+        {
+          "title": "沙特人工智能公司Humain首席执行官：今年12月，我们将通过“Humain Chat”进入除沙特以外的五个新增国家。",
+          "url": "https://flash.jin10.com/detail/20251028190335922800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 19时38分]"
+        },
+        {
+          "title": "沙特人工智能公司Humain首席执行官：我们希望它不仅能在沙特上市，也能在纳斯达克上市。",
+          "url": "https://flash.jin10.com/detail/20251028190015887800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 19时38分]"
+        },
+        {
+          "title": "沙特人工智能公司Humain首席执行官：Humain One目前已在沙特政府及三家公共投资基金实体中投入使用并开展试点，但我们希望将其推广至“各个角落”。",
+          "url": "https://flash.jin10.com/detail/20251028185802647800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 19时38分]"
+        },
+        {
+          "title": "【九点特供】创2019年以来最大日内涨幅！高通宣布推出人工智能芯片AI200和AI250，正在改变AI芯片市场的竞争格局，这家公司已取得了高通等客户订单，其中部分订单已经验收",
+          "url": "https://api3.cls.cn/share/article/2182640?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "市场消息：黑石集团(BX.N)与沙特人工智能公司Humain签署了30亿美元协议，共同建设数据中心。",
+          "url": "https://flash.jin10.com/detail/20251028220240648800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "沙特人工智能公司Humain首席执行官：沙特与美国政府之间关于技术出口管制的更广泛讨论的进程仍在进行中。",
+          "url": "https://flash.jin10.com/detail/20251028200744938800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
@@ -1293,8 +1509,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[09时24分 ~ 22时22分]"
+          "appearance_count": 31,
+          "time_info": "[09时24分 ~ 22时48分]"
         },
         {
           "title": "市场消息：英伟达(NVDA.O)和德国电信计划在德国建设一座价值10亿欧元的数据中心。",
@@ -1437,143 +1653,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ai",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "ETF午评 | A股时隔十年重返4000点，AI硬件板块继续领涨，云50ETF、创业板人工智能ETF涨2.6%",
-          "url": "https://www.gelonghui.com/news/5103568",
-          "source": "格隆汇",
-          "ranks": [
-            2,
-            8,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 13时43分]"
-        },
-        {
-          "title": "AI硬件板块涨势不止，中际旭创再攀历史新高，创业板人工智能ETF冲击月线6连涨，5G通信ETF年内涨幅翻倍",
-          "url": "https://www.gelonghui.com/news/5103549",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 11时43分]"
-        },
-        {
-          "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/2994482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时29分 ~ 03时38分]"
-        },
-        {
-          "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
-          "url": "https://wallstreetcn.com/livenews/2994457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时29分]"
-        },
-        {
-          "title": "沙特人工智能公司Humain首席执行官：沙特将设立一项基础设施基金，并将有一家大型企业集团参与其中，而Humain公司本身不会单独为数据中心提供资金。",
-          "url": "https://flash.jin10.com/detail/20251028190712271800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 19时38分]"
-        },
-        {
-          "title": "据华尔街日报：人工智能公司Fireworks AI在最新一轮融资中的估值达到40亿美元。",
-          "url": "https://flash.jin10.com/detail/20251028190415748800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 19时38分]"
-        },
-        {
-          "title": "沙特人工智能公司Humain首席执行官：今年12月，我们将通过“Humain Chat”进入除沙特以外的五个新增国家。",
-          "url": "https://flash.jin10.com/detail/20251028190335922800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 19时38分]"
-        },
-        {
-          "title": "沙特人工智能公司Humain首席执行官：我们希望它不仅能在沙特上市，也能在纳斯达克上市。",
-          "url": "https://flash.jin10.com/detail/20251028190015887800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 19时38分]"
-        },
-        {
-          "title": "沙特人工智能公司Humain首席执行官：Humain One目前已在沙特政府及三家公共投资基金实体中投入使用并开展试点，但我们希望将其推广至“各个角落”。",
-          "url": "https://flash.jin10.com/detail/20251028185802647800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 19时38分]"
-        },
-        {
-          "title": "【九点特供】创2019年以来最大日内涨幅！高通宣布推出人工智能芯片AI200和AI250，正在改变AI芯片市场的竞争格局，这家公司已取得了高通等客户订单，其中部分订单已经验收",
-          "url": "https://api3.cls.cn/share/article/2182640?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "沙特人工智能公司Humain首席执行官：沙特与美国政府之间关于技术出口管制的更广泛讨论的进程仍在进行中。",
-          "url": "https://flash.jin10.com/detail/20251028200744938800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
         }
       ]
     },
@@ -1860,11 +1939,12 @@
             15,
             18,
             23,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[14时54分 ~ 22时22分]"
+          "appearance_count": 19,
+          "time_info": "[14时54分 ~ 22时48分]"
         },
         {
           "title": "【电报解读】文远知行即将在港上市，机构看好其“智慧出行+智慧货运”双生态闭环，这家公司与其合作开发无人驾驶车辆",
@@ -1893,11 +1973,12 @@
             8,
             11,
             16,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时28分 ~ 22时22分]"
+          "appearance_count": 14,
+          "time_info": "[16时28分 ~ 22时48分]"
         }
       ]
     }
