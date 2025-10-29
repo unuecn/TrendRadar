@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-29T14:55:16.933629+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2025-10-29T15:20:16.773523+08:00",
+  "total_titles_processed": 1740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "英伟达",
       "match_count": 120,
       "titles": [
+        {
+          "title": "一文看清英伟达GTC黄仁勋演讲要点：2000万块Blackwell销售预期，Rubin首秀，推出NVQLink，6G等重磅合作",
+          "url": "https://wallstreetcn.com/articles/3758111",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时28分 ~ 15时20分]"
+        },
         {
           "title": "【早报】“十五五”时期，将重点发展这些新产业；大涨近5%，英伟达总市值逼近5万亿美元",
           "url": "https://www.cls.cn/detail/2184114",
@@ -16,19 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时40分 ~ 14时55分]"
-        },
-        {
-          "title": "一文看清英伟达GTC黄仁勋演讲要点：2000万块Blackwell销售预期，Rubin首秀，推出NVQLink，6G等重磅合作",
-          "url": "https://wallstreetcn.com/articles/3758111",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 14时55分]"
+          "appearance_count": 12,
+          "time_info": "[07时40分 ~ 15时20分]"
         },
         {
           "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时40分 ~ 14时55分]"
+          "appearance_count": 12,
+          "time_info": "[07时40分 ~ 15时20分]"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -1349,7 +1349,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -1477,6 +1477,278 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
+          "url": "https://www.cls.cn/detail/2183967",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时28分 ~ 11时59分]"
+        },
+        {
+          "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
+          "url": "https://www.cls.cn/detail/2183840",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 06时44分]"
+        },
+        {
+          "title": "财联社10月29日电，OpenAI首席执行官阿尔特曼表示，考虑到我们将面临的资金需求，可以合理推断首次公开募股（IPO）是我们最有可能选择的路径。",
+          "url": "https://api3.cls.cn/share/article/2184069?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            5,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时55分 ~ 05时20分]"
+        },
+        {
+          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
+          "url": "https://wallstreetcn.com/articles/3758104",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时07分 ~ 15时20分]"
+        },
+        {
+          "title": "OpenAI：AI基础设施总投资额约1.4万亿美元",
+          "url": "https://api3.cls.cn/share/article/2184063?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时29分 ~ 03时40分]"
+        },
+        {
+          "title": "财联社10月28日电，据报道，微软将在OpenAI营利化转型中获得其20%营收。",
+          "url": "https://api3.cls.cn/share/article/2184003?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 01时21分]"
+        },
+        {
+          "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
+          "url": "https://wallstreetcn.com/livenews/2995318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时55分 ~ 04时24分]"
+        },
+        {
+          "title": "OpenAI首席财务官：周二与微软达成的协议使我们能够以一种复杂程度低得多的方式继续筹集资金。",
+          "url": "https://flash.jin10.com/detail/20251029144001597800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251029015946232800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 02时55分]"
+        },
+        {
+          "title": "OpenAI首席执行官萨姆·奥尔特曼：我们的目标是建立一个基础设施工厂，每周能够创造1吉瓦的算力。",
+          "url": "https://flash.jin10.com/detail/20251029015512703800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 02时55分]"
+        },
+        {
+          "title": "财联社10月28日电，Paypal延续涨势，涨幅扩大至11%。消息面上，Paypal据称与OpenAI达成合作协议，将支付钱包嵌入到ChatGPT中。",
+          "url": "https://api3.cls.cn/share/article/2183986?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 00时53分]"
+        },
+        {
+          "title": "OpenAI：AI基础设施总投资额约1.4万亿美元",
+          "url": "https://wallstreetcn.com/livenews/2995307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 03时40分]"
+        },
+        {
+          "title": "财联社10月28日电，据OpenAI公司发言人表示，公司暂无上市计划，亦不关注首次公开募股事宜。",
+          "url": "https://api3.cls.cn/share/article/2183977?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 00时29分]"
+        },
+        {
+          "title": "市场消息：微软将在OpenAI盈利性转型中获得后者20%的收入。",
+          "url": "https://flash.jin10.com/detail/20251028234022550800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 00时53分]"
+        },
+        {
+          "title": "财联社10月28日电，据OpenAI表示，该公司联合创始人兼首席执行官萨姆·奥尔特曼将不会在新重组的企业中获得股权。",
+          "url": "https://api3.cls.cn/share/article/2183973?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 00时29分]"
+        },
+        {
+          "title": "OpenAI首席执行官萨姆·奥尔特曼：考虑到公司未来的资本需求，IPO是最有可能的途径。",
+          "url": "https://flash.jin10.com/detail/20251029024018931800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 03时40分]"
+        },
+        {
+          "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股（IPO）的计划。",
+          "url": "https://wallstreetcn.com/livenews/2995218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 00时29分]"
+        },
+        {
+          "title": "美股异动｜微软涨约2%总市值重新站上4万亿美元，与OpenAI签署新协议",
+          "url": "https://www.gelonghui.com/news/5104926",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "OpenAI首席财务官：对于算力交易，我们在融资方面需要与技术方面同样多的创新。",
+          "url": "https://flash.jin10.com/detail/20251029145842379800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "OpenAI首席财务官：（在被问及人工智能计算交易的高估值时）没有算力就等于没有收入，并且全球计算资源存在巨大瓶颈，因此需要投资。",
+          "url": "https://flash.jin10.com/detail/20251029145808653800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "美国总统特朗普：现代承诺投资260亿美元，美光承诺投资2000亿美元，软银、OpenAI、甲骨文承诺投资超过5000亿美元。",
+          "url": "https://flash.jin10.com/detail/20251029131152821800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "OpenAI首席财务官：我们希望与世界各国政府合作，推广我们的技术，这种技术也能为美国带来一种软实力。",
+          "url": "https://flash.jin10.com/detail/20251029144659448800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 21,
       "titles": [
@@ -1502,8 +1774,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时20分 ~ 14时55分]"
+          "appearance_count": 15,
+          "time_info": "[06时20分 ~ 15时20分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -1749,247 +2021,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
-          "url": "https://www.cls.cn/detail/2183967",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 11时59分]"
-        },
-        {
-          "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
-          "url": "https://www.cls.cn/detail/2183840",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 06时44分]"
-        },
-        {
-          "title": "财联社10月29日电，OpenAI首席执行官阿尔特曼表示，考虑到我们将面临的资金需求，可以合理推断首次公开募股（IPO）是我们最有可能选择的路径。",
-          "url": "https://api3.cls.cn/share/article/2184069?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            5,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时55分 ~ 05时20分]"
-        },
-        {
-          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
-          "url": "https://wallstreetcn.com/articles/3758104",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时07分 ~ 14时55分]"
-        },
-        {
-          "title": "OpenAI：AI基础设施总投资额约1.4万亿美元",
-          "url": "https://api3.cls.cn/share/article/2184063?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时29分 ~ 03时40分]"
-        },
-        {
-          "title": "财联社10月28日电，据报道，微软将在OpenAI营利化转型中获得其20%营收。",
-          "url": "https://api3.cls.cn/share/article/2184003?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 01时21分]"
-        },
-        {
-          "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
-          "url": "https://wallstreetcn.com/livenews/2995318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时55分 ~ 04时24分]"
-        },
-        {
-          "title": "OpenAI首席财务官：周二与微软达成的协议使我们能够以一种复杂程度低得多的方式继续筹集资金。",
-          "url": "https://flash.jin10.com/detail/20251029144001597800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
-          "url": "https://flash.jin10.com/detail/20251029015946232800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 02时55分]"
-        },
-        {
-          "title": "OpenAI首席执行官萨姆·奥尔特曼：我们的目标是建立一个基础设施工厂，每周能够创造1吉瓦的算力。",
-          "url": "https://flash.jin10.com/detail/20251029015512703800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 02时55分]"
-        },
-        {
-          "title": "财联社10月28日电，Paypal延续涨势，涨幅扩大至11%。消息面上，Paypal据称与OpenAI达成合作协议，将支付钱包嵌入到ChatGPT中。",
-          "url": "https://api3.cls.cn/share/article/2183986?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 00时53分]"
-        },
-        {
-          "title": "OpenAI：AI基础设施总投资额约1.4万亿美元",
-          "url": "https://wallstreetcn.com/livenews/2995307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 03时40分]"
-        },
-        {
-          "title": "财联社10月28日电，据OpenAI公司发言人表示，公司暂无上市计划，亦不关注首次公开募股事宜。",
-          "url": "https://api3.cls.cn/share/article/2183977?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 00时29分]"
-        },
-        {
-          "title": "市场消息：微软将在OpenAI盈利性转型中获得后者20%的收入。",
-          "url": "https://flash.jin10.com/detail/20251028234022550800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 00时53分]"
-        },
-        {
-          "title": "财联社10月28日电，据OpenAI表示，该公司联合创始人兼首席执行官萨姆·奥尔特曼将不会在新重组的企业中获得股权。",
-          "url": "https://api3.cls.cn/share/article/2183973?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 00时29分]"
-        },
-        {
-          "title": "OpenAI首席执行官萨姆·奥尔特曼：考虑到公司未来的资本需求，IPO是最有可能的途径。",
-          "url": "https://flash.jin10.com/detail/20251029024018931800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 03时40分]"
-        },
-        {
-          "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股（IPO）的计划。",
-          "url": "https://wallstreetcn.com/livenews/2995218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时29分]"
-        },
-        {
-          "title": "美股异动｜微软涨约2%总市值重新站上4万亿美元，与OpenAI签署新协议",
-          "url": "https://www.gelonghui.com/news/5104926",
-          "source": "格隆汇",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "美国总统特朗普：现代承诺投资260亿美元，美光承诺投资2000亿美元，软银、OpenAI、甲骨文承诺投资超过5000亿美元。",
-          "url": "https://flash.jin10.com/detail/20251029131152821800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
@@ -2004,8 +2037,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[05时19分 ~ 14时55分]"
+          "appearance_count": 18,
+          "time_info": "[05时19分 ~ 15时20分]"
         },
         {
           "title": "宇树机器人拖动1.4吨汽车",
@@ -2032,8 +2065,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时07分 ~ 14时55分]"
+          "appearance_count": 9,
+          "time_info": "[11时07分 ~ 15时20分]"
         },
         {
           "title": "【风口研报·公司】锂电材料+机器人本体总成+汽车零部件，这家公司多个业务积极卡位且核心客户包括宁德时代、比亚迪、华为等品牌客户，业绩向上拐点已至",
@@ -2155,6 +2188,18 @@
           "time_info": "[02时29分 ~ 02时30分]"
         },
         {
+          "title": "【盘中宝】AI浪潮下该细分领域需求旺盛，机构称机器人、汽车电子等新兴领域加速发展有望同步拉动行业需求，这家企业产品进入小批量测试阶段",
+          "url": "https://api3.cls.cn/share/article/2184549?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 15时20分]"
+        },
+        {
           "title": "【盘中宝】下游覆盖“机器人+AI+低空”，该行业新进展不断产业化加速，机构称多个头部厂商将2027年定为产业关键节点，这家企业已完成多种产品实验室试制",
           "url": "https://api3.cls.cn/share/article/2184311?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -2199,17 +2244,6 @@
           "time_info": "11时59分"
         },
         {
-          "title": "【盘中宝】AI浪潮下该细分领域需求旺盛，机构称机器人、汽车电子等新兴领域加速发展有望同步拉动行业需求，这家企业产品进入小批量测试阶段",
-          "url": "https://api3.cls.cn/share/article/2184549?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
           "title": "英伟达CEO黄仁勋在GTC活动上发表讲话，称将讨论AI、6G、量子、机器人。",
           "url": "https://flash.jin10.com/detail/20251029002918771800",
           "source": "金十数据",
@@ -2219,12 +2253,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "脑控轮椅机器人",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%84%91%E6%8E%A7%E8%BD%AE%E6%A4%85%E6%9C%BA%E5%99%A8%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26band_rank%3D30%26stream_entry_id%3D31%26realpos%3D30%26dgr%3D0%26flag%3D1%26cate%3D5001%26pos%3D31%26q%3D%2523%25E8%2584%2591%25E6%258E%25A7%25E8%25BD%25AE%25E6%25A4%2585%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%2523%26display_time%3D1761722143%26pre_seqid%3D17617221430680113880832",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
@@ -2290,30 +2335,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 14时55分]"
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 15时20分]"
         },
         {
           "title": "汇丰：金价料将于明年上半年见顶 峰值指向4400美元",
           "url": "https://api3.cls.cn/share/article/2184578?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "汇丰：金价料将于明年上半年见顶 峰值指向4400美元",
-          "url": "https://flash.jin10.com/detail/20251029144255061800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 15时20分]"
         },
         {
           "title": "金价是否会重现上世纪80年代到上世纪末的最长熊市？",
@@ -2327,6 +2362,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时44分 ~ 07时41分]"
+        },
+        {
+          "title": "汇丰：金价料将于明年上半年见顶 峰值指向4400美元",
+          "url": "https://flash.jin10.com/detail/20251029144255061800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 15时20分]"
         },
         {
           "title": "金价暴跌有投资者打算割肉离场",
@@ -2350,6 +2397,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "金十图示：2025年10月29日（周三）上海金午盘价为908.34元/克，较国际金价(908.26元/克)，高0.08元/克",
+          "url": "https://flash.jin10.com/detail/20251029150439553800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "美联储降息在即，金价反弹！费率最低的黄金股ETF飙涨5%，有色金属ETF基金涨3%",
@@ -2727,7 +2785,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         }
@@ -2749,6 +2807,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时24分 ~ 05时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "多晶硅",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "硅业分会：本周多晶硅市场活跃度较低，整体成交氛围清淡",
+          "url": "https://wallstreetcn.com/livenews/2995705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "工业硅",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "商品期货收盘，集运欧线主力合约涨超5%，焦煤涨超3%，鸡蛋涨超2%，铁矿石、沪银、焦炭、玻璃、工业硅、橡胶、氧化铝、国际铜、热卷、液化气等涨超1%。菜籽油跌超2%，棕榈油、燃料油跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2995690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
