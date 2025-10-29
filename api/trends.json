@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T13:21:19.170263+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2025-10-29T13:45:57.483548+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时40分 ~ 13时21分]"
+          "appearance_count": 9,
+          "time_info": "[07时40分 ~ 13时45分]"
         },
         {
           "title": "一文看清英伟达GTC黄仁勋演讲要点：2000万块Blackwell销售预期，Rubin首秀，推出NVQLink，6G等重磅合作",
@@ -27,8 +27,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 13时45分]"
+        },
+        {
+          "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
+          "url": "https://wallstreetcn.com/articles/3758056",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时40分 ~ 13时45分]"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时01分 ~ 04时46分]"
-        },
-        {
-          "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
-          "url": "https://wallstreetcn.com/articles/3758056",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时40分 ~ 13时21分]"
         },
         {
           "title": "财联社10月29日电，据报道，礼来公司部署全球规模最大、性能最强的AI制药工厂，该设施采用基于英伟达Blackwell架构的DGX超级集群。",
@@ -1480,8 +1480,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时20分 ~ 13时21分]"
+          "appearance_count": 12,
+          "time_info": "[06时20分 ~ 13时45分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -1728,7 +1728,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
@@ -1800,6 +1800,18 @@
           "time_info": "[00时01分 ~ 01时21分]"
         },
         {
+          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
+          "url": "https://wallstreetcn.com/articles/3758104",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 13时45分]"
+        },
+        {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
           "url": "https://wallstreetcn.com/livenews/2995318",
           "source": "华尔街见闻-快讯",
@@ -1835,18 +1847,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 02时55分]"
-        },
-        {
-          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
-          "url": "https://wallstreetcn.com/articles/3758104",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 13时21分]"
         },
         {
           "title": "财联社10月28日电，Paypal延续涨势，涨幅扩大至11%。消息面上，Paypal据称与OpenAI达成合作协议，将支付钱包嵌入到ChatGPT中。",
@@ -1940,12 +1940,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "美国总统特朗普：现代承诺投资260亿美元，美光承诺投资2000亿美元，软银、OpenAI、甲骨文承诺投资超过5000亿美元。",
+          "url": "https://flash.jin10.com/detail/20251029131152821800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
@@ -1960,8 +1971,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时19分 ~ 13时21分]"
+          "appearance_count": 15,
+          "time_info": "[05时19分 ~ 13时45分]"
         },
         {
           "title": "宇树机器人拖动1.4吨汽车",
@@ -1978,17 +1989,6 @@
           "time_info": "[00时01分 ~ 02时30分]"
         },
         {
-          "title": "【电报解读】国内首款鸿蒙人形机器人光谷亮相，机构称《鸿蒙星光盛典》发布将有望点燃华为链情绪，这家公司已推出10多款开源鸿蒙商业发行版",
-          "url": "https://api3.cls.cn/share/article/2184455?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
           "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
           "url": "https://www.cls.cn/detail/2184173",
           "source": "财联社热门",
@@ -1999,8 +1999,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 13时45分]"
+        },
+        {
+          "title": "【风口研报·公司】锂电材料+机器人本体总成+汽车零部件，这家公司多个业务积极卡位且核心客户包括宁德时代、比亚迪、华为等品牌客户，业绩向上拐点已至",
+          "url": "https://api3.cls.cn/share/article/2184394?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "强生(JNJ.N)将借助英伟达(NVDA.O) Isaa平台推进医疗机器人开发。",
@@ -2027,6 +2038,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 01时43分]"
+        },
+        {
+          "title": "【电报解读】国内首款鸿蒙人形机器人光谷亮相，机构称《鸿蒙星光盛典》发布将有望点燃华为链情绪，这家公司已推出10多款开源鸿蒙商业发行版",
+          "url": "https://api3.cls.cn/share/article/2184455?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时45分]"
         },
         {
           "title": "英伟达(NVDA.O)：与Uber(UBER.N)的合作将助力全球机器人出租车的扩张。",
@@ -2064,6 +2087,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时30分 ~ 02时55分]"
+        },
+        {
+          "title": "国内首款鸿蒙人形机器人光谷亮相",
+          "url": "https://wallstreetcn.com/livenews/2995601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时45分]"
         },
         {
           "title": "英伟达CEO黄仁勋：机器人将成为重要的消费电子市场。",
@@ -2116,7 +2150,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -2130,17 +2164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
-        },
-        {
-          "title": "国内首款鸿蒙人形机器人光谷亮相",
-          "url": "https://wallstreetcn.com/livenews/2995601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         },
         {
           "title": "英伟达CEO黄仁勋在GTC活动上发表讲话，称将讨论AI、6G、量子、机器人。",
@@ -2236,8 +2259,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 13时45分]"
         },
         {
           "title": "金价暴跌有投资者打算割肉离场",
@@ -2592,6 +2615,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 11时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "创新药概念午后震荡拉升 诺思格20CM涨停",
+          "url": "https://api3.cls.cn/share/article/2184468?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         }
       ]
     },
