@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T11:59:51.781516+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2025-10-29T12:34:26.531801+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时40分 ~ 11时59分]"
+          "appearance_count": 7,
+          "time_info": "[07时40分 ~ 12时34分]"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 11时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 12时34分]"
         },
         {
           "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时40分 ~ 11时59分]"
+          "appearance_count": 7,
+          "time_info": "[07时40分 ~ 12时34分]"
         },
         {
           "title": "财联社10月29日电，据报道，礼来公司部署全球规模最大、性能最强的AI制药工厂，该设施采用基于英伟达Blackwell架构的DGX超级集群。",
@@ -1305,7 +1305,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -1456,7 +1456,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -1480,8 +1480,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时20分 ~ 11时59分]"
+          "appearance_count": 10,
+          "time_info": "[06时20分 ~ 12时34分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -1712,6 +1712,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "城堡证券策略师预计美股将继续走升 年底涨势料快于往年",
+          "url": "https://api3.cls.cn/share/article/2184407?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
@@ -1842,11 +1853,12 @@
           "url": "https://wallstreetcn.com/articles/3758104",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时07分 ~ 11时59分]"
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 12时34分]"
         },
         {
           "title": "OpenAI：AI基础设施总投资额约1.4万亿美元",
@@ -1948,8 +1960,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时19分 ~ 11时59分]"
+          "appearance_count": 13,
+          "time_info": "[05时19分 ~ 12时34分]"
         },
         {
           "title": "宇树机器人拖动1.4吨汽车",
@@ -1992,6 +2004,19 @@
           "time_info": "[00时53分 ~ 01时43分]"
         },
         {
+          "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
+          "url": "https://www.cls.cn/detail/2184173",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 12时34分]"
+        },
+        {
           "title": "英伟达(NVDA.O)：与Uber(UBER.N)的合作将助力全球机器人出租车的扩张。",
           "url": "https://flash.jin10.com/detail/20251029015128415800",
           "source": "金十数据",
@@ -2015,18 +2040,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 01时43分]"
-        },
-        {
-          "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
-          "url": "https://www.cls.cn/detail/2184173",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时07分 ~ 11时59分]"
         },
         {
           "title": "英伟达CEO黄仁勋：机器人将成为重要的消费电子产品市场。",
@@ -2091,7 +2104,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -2192,6 +2205,18 @@
           "time_info": "[07时40分 ~ 09时28分]"
         },
         {
+          "title": "金价暴涨暴跌后 有央行开始考虑卖黄金了……",
+          "url": "https://www.cls.cn/detail/2184251",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时34分]"
+        },
+        {
           "title": "金十图示：2025年10月29日（周三）上海金早盘价为906.41元/克，较国际金价(905.97元/克)，高0.44元/克",
           "url": "https://flash.jin10.com/detail/20251029101751892800",
           "source": "金十数据",
@@ -2201,17 +2226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 11时08分]"
-        },
-        {
-          "title": "金价暴涨暴跌后 有央行开始考虑卖黄金了……",
-          "url": "https://www.cls.cn/detail/2184251",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
         },
         {
           "title": "彭博汇编数据显示，10月27日金价跌穿4000美元整数位心理关口当天，道富旗下SPDR Gold Shares（全球第一大黄金ETF）遭遇10亿美元净资金外流，创4月22日以来最大外流规模。",
@@ -2473,11 +2487,12 @@
           "url": "https://api3.cls.cn/share/article/2184387?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            3
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时34分]"
         },
         {
           "title": "固态电池概念再度活跃 方大炭素2连板",
@@ -2558,8 +2573,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时01分 ~ 11时59分]"
+          "appearance_count": 26,
+          "time_info": "[00时01分 ~ 12时34分]"
         }
       ]
     }
