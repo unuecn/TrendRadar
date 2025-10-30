@@ -1570,7 +1570,7 @@ def render_html_content(
             }
 
             .container {
-                max-width: 1000px;
+                max-width: 1200px;
                 margin: 0 auto;
                 background: white;
                 border-radius: 12px;
