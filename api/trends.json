@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T19:40:47.231679+08:00",
-  "total_titles_processed": 2265,
+  "generated_at": "2025-10-30T20:40:23.888879+08:00",
+  "total_titles_processed": 2392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时44分 ~ 19时40分]"
+          "appearance_count": 9,
+          "time_info": "[17时44分 ~ 20时40分]"
         },
         {
           "title": "微软(MSFT.O)美股盘前下跌3.1%，此前公司警告称成本将上升。",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时25分 ~ 16时26分]"
+        },
+        {
+          "title": "财联社10月30日电，美股期指走低，道琼斯指数期货跌0.46%，标普500指数期货跌0.31%，纳斯达克100指数期货跌0.39%。",
+          "url": "https://api3.cls.cn/share/article/2186802?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。",
@@ -332,6 +343,17 @@
           "time_info": "[16时25分 ~ 16时26分]"
         },
         {
+          "title": "美股盘前要闻一览",
+          "url": "https://api3.cls.cn/share/article/2186791?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美股异动丨二手车零售商Carvana夜盘跌超9.8%，Q3每股收益逊于预期",
           "url": "https://www.gelonghui.com/news/5106449",
           "source": "格隆汇",
@@ -352,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "福克斯公司美股盘前上涨5%，第一季度利润和收入超出预期。",
+          "url": "https://flash.jin10.com/detail/20251030201728930800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "Merck & Co三季度销售额172.8亿美元，预估169.6亿美元。 三季度经调整后每股收益2.58美元，上年同期1.57美元。 Merck & Co预计全财年销售额645亿美元-650亿美元，此前预估643亿美元-653亿美元。 Merck & Co预计全财年经调整后每股收益8.93美元-8.98美元，此前预估8.87美元-8.97美元。 Merck & Co美股盘前涨近3%后转跌，现跌超2%。",
@@ -387,13 +420,24 @@
           "time_info": "10时59分"
         },
         {
+          "title": "Roblox三季度营收14亿美元。 Roblox预计四季度营收13.5亿美元-14亿美元。 Roblox预计全财年预订额为65.7亿美元至66.2亿美，此前预计58.7亿美元-59.7亿美元。 Roblox美股盘前涨逾10%。",
+          "url": "https://wallstreetcn.com/livenews/2996909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "百时美施贵宝第三季度营收122.2亿美元，预估118.1亿美元。 第三季度调整后每股收益1.63美元。 百时美施贵宝预计全年营收大约475亿美元至480亿美元。 百时美施贵宝仍然预测全年经调整毛利率大约72％，市场预估72.1％。 百时美施贵宝美股盘前涨近1%。",
           "url": "https://wallstreetcn.com/livenews/2996848",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -754,7 +798,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -773,7 +817,7 @@
     },
     {
       "keyword_group": "英伟达",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
@@ -801,6 +845,18 @@
           "time_info": "[04时47分 ~ 09时28分]"
         },
         {
+          "title": "英伟达市值突破5万亿美元",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B45%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时47分 ~ 20时40分]"
+        },
+        {
           "title": "一文看清英伟达GTC黄仁勋演讲要点：2000万块Blackwell销售预期，Rubin首秀，推出NVQLink，6G等重磅合作",
           "url": "https://wallstreetcn.com/articles/3758111",
           "source": "华尔街见闻",
@@ -811,18 +867,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时47分 ~ 05时45分]"
-        },
-        {
-          "title": "英伟达市值突破5万亿美元",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B45%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 19时40分]"
         },
         {
           "title": "据韩联社：英伟达(NVDA.O)CEO黄仁勋抵达韩国。",
@@ -900,7 +944,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -911,9 +955,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：公司规模绝对有可能超越当前水平。",
+          "url": "https://flash.jin10.com/detail/20251030201509583800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "英伟达CEO黄仁勋：期待明天见到韩国总统。韩国和英伟达有很多消息要宣布。",
@@ -927,6 +982,17 @@
           "time_info": "19时17分"
         },
         {
+          "title": "英伟达CEO黄仁勋：这很可能会成为全球有史以来规模最大的科技产业。",
+          "url": "https://flash.jin10.com/detail/20251030201455390800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "英伟达成人类历史上首家突破5万亿美金市值的公司",
           "url": "https://www.gelonghui.com/news/5106444",
           "source": "格隆汇",
@@ -936,6 +1002,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达成为史上首家市值突破5万亿美元的公司，我深感荣幸。",
+          "url": "https://flash.jin10.com/detail/20251030201139439800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
@@ -1046,6 +1123,111 @@
       ]
     },
     {
+      "keyword_group": "机器人",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
+          "url": "https://www.cls.cn/detail/2185393",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 13时45分]"
+        },
+        {
+          "title": "富士康将用人形机器人为英伟达生产AI服务器",
+          "url": "https://www.zaochenbao.com/news/china/202510/3056077.html",
+          "source": "早报",
+          "ranks": [
+            10,
+            16,
+            21,
+            22,
+            24,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[10时59分 ~ 17时45分]"
+        },
+        {
+          "title": "【风口研报·公司】光伏+半导体领域均需要应用这种材料，这家公司是国内唯一通过该领域半导体认证的企业，产品价格弹性大；锂电回暖+下游补库+半固态量产+机器人，这家北交所电池企业盈利能力逐步回升",
+          "url": "https://api3.cls.cn/share/article/2186299?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 17时45分]"
+        },
+        {
+          "title": "恒工精密：间接持股智元机器人 并已为其提供精密零部件",
+          "url": "https://api3.cls.cn/share/article/2185860?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
+        },
+        {
+          "title": "北京市副市长靳伟：京津冀将在机器人更多领域培育有产业带动力的项目",
+          "url": "https://api3.cls.cn/share/article/2186086?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "【风口研报·公司】公司通过收购布局液冷用模具，已与英伟达系供应商达成合作关系，未来有望充分受益于数据中心液冷产业趋势；另有公司依托汽车智能装备制造优势，携手人形龙头切入机器人赛道",
+          "url": "https://api3.cls.cn/share/article/2186364?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "今晚八点京东首发机器人新品",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BB%8A%E6%99%9A%E5%85%AB%E7%82%B9%E4%BA%AC%E4%B8%9C%E9%A6%96%E5%8F%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%B0%E5%93%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D12%26flag%3D1%26c_type%3D31%26q%3D%2523%25E4%25BB%258A%25E6%2599%259A%25E5%2585%25AB%25E7%2582%25B9%25E4%25BA%25AC%25E4%25B8%259C%25E9%25A6%2596%25E5%258F%2591%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E6%2596%25B0%25E5%2593%2581%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D11%26realpos%3D11%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761827765%26pre_seqid%3D1761827765356028255883",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "和而泰：机器人公司和聚智控已成立 正处于产品研发阶段",
+          "url": "https://api3.cls.cn/share/article/2186304?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 6,
       "titles": [
@@ -1125,89 +1307,6 @@
       ]
     },
     {
-      "keyword_group": "机器人",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
-          "url": "https://www.cls.cn/detail/2185393",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时28分 ~ 13时45分]"
-        },
-        {
-          "title": "富士康将用人形机器人为英伟达生产AI服务器",
-          "url": "https://www.zaochenbao.com/news/china/202510/3056077.html",
-          "source": "早报",
-          "ranks": [
-            10,
-            16,
-            21,
-            22,
-            24,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[10时59分 ~ 17时45分]"
-        },
-        {
-          "title": "【风口研报·公司】光伏+半导体领域均需要应用这种材料，这家公司是国内唯一通过该领域半导体认证的企业，产品价格弹性大；锂电回暖+下游补库+半固态量产+机器人，这家北交所电池企业盈利能力逐步回升",
-          "url": "https://api3.cls.cn/share/article/2186299?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 17时45分]"
-        },
-        {
-          "title": "恒工精密：间接持股智元机器人 并已为其提供精密零部件",
-          "url": "https://api3.cls.cn/share/article/2185860?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 12时24分]"
-        },
-        {
-          "title": "北京市副市长靳伟：京津冀将在机器人更多领域培育有产业带动力的项目",
-          "url": "https://api3.cls.cn/share/article/2186086?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "和而泰：机器人公司和聚智控已成立 正处于产品研发阶段",
-          "url": "https://api3.cls.cn/share/article/2186304?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 5,
       "titles": [
@@ -1222,8 +1321,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[07时18分 ~ 19时40分]"
+          "appearance_count": 33,
+          "time_info": "[07时18分 ~ 20时40分]"
         },
         {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
@@ -1235,8 +1334,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[07时39分 ~ 19时40分]"
+          "appearance_count": 32,
+          "time_info": "[07时39分 ~ 20时40分]"
         },
         {
           "title": "“债券天王”比尔·格罗斯：美国10年期国债的短期目标收益率为4.25%。 10年期美债已经迎来最好的时光。",
@@ -1325,7 +1424,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
