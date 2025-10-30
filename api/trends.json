@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T18:22:00.509122+08:00",
-  "total_titles_processed": 1994,
+  "generated_at": "2025-10-30T18:47:10.890956+08:00",
+  "total_titles_processed": 2100,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[06时44分 ~ 15时20分]"
+        },
+        {
+          "title": "美股期指震荡走低，日元跌至8个月最低，现货黄金再度涨破4000美元，比特币跌近2%",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时44分 ~ 18时47分]"
         },
         {
           "title": "微软(MSFT.O)美股盘前下跌3.1%，此前公司警告称成本将上升。",
@@ -155,17 +166,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时47分 ~ 05时45分]"
-        },
-        {
-          "title": "美股期指震荡走低，日元跌至8个月最低，现货黄金再度涨破4000美元，比特币跌近2%",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 18时22分]"
         },
         {
           "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
@@ -337,7 +337,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -728,7 +728,7 @@
     },
     {
       "keyword_group": "英伟达",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
@@ -777,6 +777,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时29分 ~ 14时30分]"
+        },
+        {
+          "title": "英伟达市值突破5万亿美元",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B45%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "美联储降息25个基点 英伟达总市值站上5万亿美元大关",
@@ -864,8 +875,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时40分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[15时40分 ~ 18时47分]"
         },
         {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
@@ -973,6 +984,18 @@
           "time_info": "[04时47分 ~ 06时44分]"
         },
         {
+          "title": "金价反弹",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E5%258F%258D%25E5%25BC%25B9%26dgr%3D0%26realpos%3D22%26band_rank%3D22%26pos%3D23%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26display_time%3D1761817204%26pre_seqid%3D17618172049310361430418",
+          "source": "微博",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时44分 ~ 18时47分]"
+        },
+        {
           "title": "金十图示：2025年10月30日（周四）上海金早盘价为899元/克，较国际金价(898.02元/克)，高0.98元/克",
           "url": "https://flash.jin10.com/detail/20251030102501235800",
           "source": "金十数据",
@@ -1006,17 +1029,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时40分]"
-        },
-        {
-          "title": "金价反弹",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E5%258F%258D%25E5%25BC%25B9%26dgr%3D0%26realpos%3D22%26band_rank%3D22%26pos%3D23%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26display_time%3D1761817204%26pre_seqid%3D17618172049310361430418",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 18时22分]"
         },
         {
           "title": "金十图示：2025年10月30日（周四）上海金午盘价为908.96元/克，较国际金价(907.03元/克)，高1.93元/克",
@@ -1129,8 +1141,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[07时18分 ~ 18时22分]"
+          "appearance_count": 30,
+          "time_info": "[07时18分 ~ 18时47分]"
         },
         {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
@@ -1142,8 +1154,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[07时39分 ~ 18时22分]"
+          "appearance_count": 29,
+          "time_info": "[07时39分 ~ 18时47分]"
         },
         {
           "title": "“债券天王”比尔·格罗斯：美国10年期国债的短期目标收益率为4.25%。 10年期美债已经迎来最好的时光。",
