@@ -1663,8 +1663,8 @@ def render_html_content(
             }
 
             .news-item {
-                margin-bottom: 20px;
-                padding: 16px 0;
+                margin-bottom: 1px;
+                padding: 5px 0;
                 border-bottom: 1px solid #f5f5f5;
                 position: relative;
                 display: flex;
