@@ -703,25 +703,46 @@ def read_all_today_titles(
     return all_results, final_id_to_name, title_info
 
 
+from difflib import SequenceMatcher
+
 def process_source_data(
         source_id: str,
         title_data: Dict,
         time_info: str,
         all_results: Dict,
         title_info: Dict,
+        similarity_threshold: float = 0.8,
 ) -> None:
-    """处理来源数据，合并重复标题"""
+    """
+    处理来源数据，合并重复或相似标题
+    - 若标题完全相同或相似度 >= similarity_threshold（默认0.8），视为同一新闻
+    - 自动合并 ranks / url / 时间等字段
+    """
+    # 初始化该来源的数据结构
     if source_id not in all_results:
-        all_results[source_id] = title_data
+        all_results[source_id] = {}
+        title_info[source_id] = {}
 
-        if source_id not in title_info:
-            title_info[source_id] = {}
+    for title, data in title_data.items():
+        ranks = data.get("ranks", [])
+        url = data.get("url", "")
+        mobile_url = data.get("mobileUrl", "")
 
-        for title, data in title_data.items():
-            ranks = data.get("ranks", [])
-            url = data.get("url", "")
-            mobile_url = data.get("mobileUrl", "")
+        # 尝试在已有标题中找到相似或相同的标题
+        matched_existing = None
+        for existing_title in list(all_results[source_id].keys()):
+            similarity = SequenceMatcher(None, title, existing_title).ratio()
+            if similarity >= similarity_threshold:
+                matched_existing = existing_title
+                break
 
+        if matched_existing is None:
+            # 没有相似标题 -> 新增
+            all_results[source_id][title] = {
+                "ranks": ranks,
+                "url": url,
+                "mobileUrl": mobile_url,
+            }
             title_info[source_id][title] = {
                 "first_time": time_info,
                 "last_time": time_info,
@@ -730,50 +751,30 @@ def process_source_data(
                 "url": url,
                 "mobileUrl": mobile_url,
             }
-    else:
-        for title, data in title_data.items():
-            ranks = data.get("ranks", [])
-            url = data.get("url", "")
-            mobile_url = data.get("mobileUrl", "")
+        else:
+            # 找到相似标题 -> 合并
+            existing_data = all_results[source_id][matched_existing]
+            existing_ranks = existing_data.get("ranks", [])
+            merged_ranks = list(set(existing_ranks + ranks))
 
-            if title not in all_results[source_id]:
-                all_results[source_id][title] = {
-                    "ranks": ranks,
-                    "url": url,
-                    "mobileUrl": mobile_url,
-                }
-                title_info[source_id][title] = {
-                    "first_time": time_info,
-                    "last_time": time_info,
-                    "count": 1,
-                    "ranks": ranks,
-                    "url": url,
-                    "mobileUrl": mobile_url,
-                }
-            else:
-                existing_data = all_results[source_id][title]
-                existing_ranks = existing_data.get("ranks", [])
-                existing_url = existing_data.get("url", "")
-                existing_mobile_url = existing_data.get("mobileUrl", "")
+            # 更新 all_results
+            all_results[source_id][matched_existing] = {
+                "ranks": merged_ranks,
+                "url": existing_data.get("url") or url,
+                "mobileUrl": existing_data.get("mobileUrl") or mobile_url,
+            }
 
-                merged_ranks = existing_ranks.copy()
-                for rank in ranks:
-                    if rank not in merged_ranks:
-                        merged_ranks.append(rank)
+            # 更新 title_info
+            info = title_info[source_id][matched_existing]
+            info["last_time"] = time_info
+            info["count"] += 1
+            info["ranks"] = merged_ranks
+            if not info.get("url"):
+                info["url"] = url
+            if not info.get("mobileUrl"):
+                info["mobileUrl"] = mobile_url
 
-                all_results[source_id][title] = {
-                    "ranks": merged_ranks,
-                    "url": existing_url or url,
-                    "mobileUrl": existing_mobile_url or mobile_url,
-                }
 
-                title_info[source_id][title]["last_time"] = time_info
-                title_info[source_id][title]["ranks"] = merged_ranks
-                title_info[source_id][title]["count"] += 1
-                if not title_info[source_id][title].get("url"):
-                    title_info[source_id][title]["url"] = url
-                if not title_info[source_id][title].get("mobileUrl"):
-                    title_info[source_id][title]["mobileUrl"] = mobile_url
 
 
 def detect_latest_new_titles(current_platform_ids: Optional[List[str]] = None) -> Dict:
