@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T16:54:15.475469+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2025-11-03T17:25:08.693279+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 59,
+      "match_count": 64,
       "titles": [
         {
           "title": "三季度再卖61亿、连续5季度不回购、三年累计卖1840亿美元股票！巴菲特给伯克希尔留下的是：3820亿美元现金",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时30分 ~ 16时54分]"
+          "appearance_count": 17,
+          "time_info": "[09时30分 ~ 17时24分]"
         },
         {
           "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
@@ -175,17 +175,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.1225，较上一交易日官方收盘价跌90点，较上日夜盘收盘跌25点。",
-          "url": "https://wallstreetcn.com/livenews/2998482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "大行评级丨高盛：上调英伟达目标价至240美元 预计第三财季业绩将胜预期",
@@ -368,6 +357,18 @@
           "time_info": "[14时57分 ~ 15时20分]"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.1225，较上一交易日官方收盘价跌90点，较上日夜盘收盘跌25点。",
+          "url": "https://wallstreetcn.com/livenews/2998482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时24分]"
+        },
+        {
           "title": "布伦特原油日内涨幅扩大至1.00%，现报65.12美元/桶。",
           "url": "https://flash.jin10.com/detail/20251103143708369800",
           "source": "金十数据",
@@ -437,6 +438,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时30分 ~ 16时54分]"
+        },
+        {
+          "title": "现货白银涨幅扩大至1%，现报49.058美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2998452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 17时24分]"
         },
         {
           "title": "财联社11月3日电，人民币兑美元中间价报7.0867，上调13点。",
@@ -543,18 +557,6 @@
           "time_info": "[09时30分 ~ 09时31分]"
         },
         {
-          "title": "现货白银涨幅扩大至1%，现报49.058美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2998452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时54分]"
-        },
-        {
           "title": "比特币跌破110000美元/枚，日内跌0.50%。",
           "url": "https://flash.jin10.com/detail/20251103085315205800",
           "source": "金十数据",
@@ -588,6 +590,17 @@
           "time_info": "11时07分"
         },
         {
+          "title": "Cantor Fitzgerald上调礼来目标价至985美元",
+          "url": "https://www.gelonghui.com/news/5110487",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "比特币向下触及109000美元/枚，日内跌1.42%。以太坊失守3800美元/枚，日内跌幅2.85%。",
           "url": "https://flash.jin10.com/detail/20251103103219815800",
           "source": "金十数据",
@@ -610,6 +623,17 @@
           "time_info": "15时42分"
         },
         {
+          "title": "美股异动丨哔哩哔哩盘前涨1% 中银国际指《逃离鸭科夫》IP潜力可期并上调目标价",
+          "url": "https://www.gelonghui.com/news/5110486",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "财联社11月3日电，布伦特原油日内涨幅扩大至1%，现报65.28美元/桶。",
           "url": "https://api3.cls.cn/share/article/2189351?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -619,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "美股异动｜爱立信盘前涨2% 与VodafoneZiggo合作升级荷兰移动网络",
+          "url": "https://www.gelonghui.com/news/5110483",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "消息人士：挪威即将与空客、意大利军工企业莱昂纳多和GKN Fokker达成协议，以解决因取消NH90直升机订单而引发的30亿美元诉讼。",
@@ -641,6 +676,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "财联社11月3日电，美股科技“七姐妹”盘前多数上涨，Meta涨1%，英伟达涨0.7%，亚马逊涨0.3%，特斯拉涨0.2%，谷歌A涨0.1%，微软、苹果持平。",
+          "url": "https://api3.cls.cn/share/article/2189635?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "财联社11月3日电，美股存储概念股盘前续涨，SanDisk涨超5%，美光科技涨超3%；伯克希尔B盘前涨超1%，Q3运营利润大增34%，现金储备创历史新高。",
+          "url": "https://api3.cls.cn/share/article/2189632?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "汇丰：美元可能在2026年初触底 美联储官员本周讲话成焦点",
@@ -701,7 +758,7 @@
     },
     {
       "keyword_group": "特朗普 关税 制裁 降息",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
@@ -767,8 +824,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时23分 ~ 16时54分]"
+          "appearance_count": 35,
+          "time_info": "[00时23分 ~ 17时24分]"
         },
         {
           "title": "特朗普：不排除向尼日利亚派遣军队",
@@ -784,8 +841,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时07分 ~ 16时54分]"
+          "appearance_count": 15,
+          "time_info": "[11时07分 ~ 17时24分]"
         },
         {
           "title": "特朗普：不会允许中国取得英伟达最先进晶片",
@@ -802,8 +859,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时02分 ~ 16时54分]"
+          "appearance_count": 14,
+          "time_info": "[12时02分 ~ 17时24分]"
         },
         {
           "title": "美联储12月是否降息，或许取决于“美国政府关门何时结束”",
@@ -817,6 +874,19 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时23分 ~ 12时02分]"
+        },
+        {
+          "title": "特朗普恫言空袭尼日利亚 尼总统吁美尊重其领土完整",
+          "url": "https://www.zaochenbao.com/news/politics/202511/0356452.html",
+          "source": "早报",
+          "ranks": [
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时57分 ~ 17时24分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
@@ -914,8 +984,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时07分 ~ 16时54分]"
+          "appearance_count": 15,
+          "time_info": "[11时07分 ~ 17时24分]"
         },
         {
           "title": "俄罗斯对乌克兰总理及财长等多名官员实施制裁",
@@ -1015,17 +1085,30 @@
           "time_info": "[00时23分 ~ 07时39分]"
         },
         {
-          "title": "特朗普恫言空袭尼日利亚 尼总统吁美尊重其领土完整",
-          "url": "https://www.zaochenbao.com/news/politics/202511/0356452.html",
-          "source": "早报",
+          "title": "贝森特：美国部分经济领域已陷入衰退，如果美联储不进一步降息，其他领域也会衰退",
+          "url": "https://wallstreetcn.com/articles/3758511",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            5,
-            6
+            8,
+            9,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时57分 ~ 16时54分]"
+          "appearance_count": 9,
+          "time_info": "[14时32分 ~ 17时24分]"
+        },
+        {
+          "title": "贝森特称美国可能对华加征关税，外交部回应",
+          "url": "https://www.cls.cn/detail/2189448",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 17时24分]"
         },
         {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
@@ -1092,20 +1175,6 @@
           "time_info": "[05时18分 ~ 07时39分]"
         },
         {
-          "title": "贝森特：美国部分经济领域已陷入衰退，如果美联储不进一步降息，其他领域也会衰退",
-          "url": "https://wallstreetcn.com/articles/3758511",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时32分 ~ 16时54分]"
-        },
-        {
           "title": "美媒：特朗普向中国作出重大让步：暂停扩大出口管制",
           "url": "https://www.zaochenbao.com/news/politics/202511/0356417.html",
           "source": "早报",
@@ -1136,18 +1205,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时07分 ~ 14时33分]"
-        },
-        {
-          "title": "贝森特称美国可能对华加征关税，外交部回应",
-          "url": "https://www.cls.cn/detail/2189448",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 16时54分]"
         },
         {
           "title": "美国总统特朗普：我们将进行核试验，因为我不希望我们成为唯一不这样做的国家。",
@@ -1387,6 +1444,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "美财长呼吁美联储加速降息",
+          "url": "https://api3.cls.cn/share/article/2189641?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "特朗普称，他对币安赵长鹏获赦免一事并不了解。",
           "url": "https://wallstreetcn.com/livenews/2998242",
           "source": "华尔街见闻-快讯",
@@ -1396,6 +1464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普称中方“正在秘密测试核武器”，外交部回应",
+          "url": "https://www.cls.cn/detail/2189459",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "被问是否计划把被冻结的俄资产作为谈判工具 特朗普回应",
@@ -1467,7 +1546,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "【早报】公募基金业绩比较基准指引征求意见稿发布，两部门发布黄金有关税收政策的公告",
@@ -1494,8 +1573,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时49分 ~ 16时54分]"
+          "appearance_count": 13,
+          "time_info": "[12时49分 ~ 17时24分]"
         },
         {
           "title": "【早报】两部门明确黄金有关税收政策；我国航空制造装备领域取得重大突破",
@@ -1511,18 +1590,6 @@
           "time_info": "[00时23分 ~ 07时39分]"
         },
         {
-          "title": "中国出台新政取消黄金零售增值税抵扣优惠",
-          "url": "https://www.zaochenbao.com/news/china/202511/0256375.html",
-          "source": "早报",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 09时31分]"
-        },
-        {
           "title": "国有大行“吹哨子”？工商银行暂停部分黄金积存业务引关注，业内：或仅为正常调整",
           "url": "https://www.cls.cn/detail/2189286",
           "source": "财联社热门",
@@ -1534,8 +1601,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时32分 ~ 16时54分]"
+          "appearance_count": 9,
+          "time_info": "[14时32分 ~ 17时24分]"
         },
         {
           "title": "黄金零售税收优惠调整 周大福、老铺黄金股价大跌",
@@ -1546,8 +1613,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 16时54分]"
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 17时24分]"
+        },
+        {
+          "title": "中国出台新政取消黄金零售增值税抵扣优惠",
+          "url": "https://www.zaochenbao.com/news/china/202511/0256375.html",
+          "source": "早报",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 09时31分]"
         },
         {
           "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
@@ -1583,13 +1662,27 @@
           "time_info": "07时39分"
         },
         {
+          "title": "一条视频看懂黄金税收新规",
+          "url": "https://www.douyin.com/hot/2293159",
+          "source": "抖音",
+          "ranks": [
+            16,
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 17时24分]"
+        },
+        {
           "title": "黄金税收新规出台后 招行实体金条价格已含税",
           "url": "https://api3.cls.cn/share/article/2189581?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1641,17 +1734,6 @@
           "time_info": "[09时30分 ~ 15时42分]"
         },
         {
-          "title": "黄金税收新规出台后，招行实体金条价格已含税",
-          "url": "https://wallstreetcn.com/livenews/2998489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
           "title": "港股异动丨黄金税收新政出台！老铺黄金、周大福、周生生等黄金饰品股集体大跌",
           "url": "https://www.gelonghui.com/news/5110085",
           "source": "格隆汇",
@@ -1661,19 +1743,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
-        },
-        {
-          "title": "一条视频看懂黄金税收新规",
-          "url": "https://www.douyin.com/hot/2293159",
-          "source": "抖音",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时20分 ~ 16时54分]"
         },
         {
           "title": "黄金 征税",
@@ -1724,6 +1793,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 07时39分]"
+        },
+        {
+          "title": "黄金税收新规出台后，招行实体金条价格已含税",
+          "url": "https://wallstreetcn.com/livenews/2998489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时24分]"
         },
         {
           "title": "金价",
@@ -1786,6 +1867,17 @@
           "time_info": "[12时02分 ~ 12时49分]"
         },
         {
+          "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
+          "url": "https://wallstreetcn.com/articles/3758525",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "研报掘金丨华安证券：维持中金黄金“买入”评级，金铜齐增业绩释放，新增项目推进",
           "url": "https://www.gelonghui.com/news/5110159",
           "source": "格隆汇",
@@ -1806,6 +1898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "花旗：黄金税收新规或令采购成本升7%",
+          "url": "https://flash.jin10.com/detail/20251103170606928800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "港股异动丨黄金股普跌 黄金交易税收政策迎来调整 金价早盘走低",
@@ -1882,8 +1985,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时24分]"
         },
         {
           "title": "大行评级丨美银：上调中联重科AH股目标价 机器人产品或成新长期增长引擎",
@@ -1952,11 +2055,12 @@
           "url": "https://www.cls.cn/detail/2189523",
           "source": "财联社热门",
           "ranks": [
+            10,
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时24分]"
         },
         {
           "title": "商用清洁机器人国家标准发布",
@@ -2017,6 +2121,154 @@
       ]
     },
     {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "李乐成：加快推进人工智能赋能新型工业化",
+          "url": "https://www.cls.cn/detail/2189189",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2,
+            3,
+            4,
+            7,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[12时02分 ~ 17时24分]"
+        },
+        {
+          "title": "阿布扎比国家石油公司、马斯达尔公司、XRG公司与微软达成人工智能部署协议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2998157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21,
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 06时41分]"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC：公司和微软将在Adnoc的价值链中共同开发和部署人工智能代理，以提高效率并最大限度地减少排放",
+          "url": "https://flash.jin10.com/detail/20251102213815037800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            21,
+            23,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 05时39分]"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC：本公司、马斯达尔、XRG和微软将携手推动人工智能在能源领域的应用，以及能源在人工智能领域的支持。",
+          "url": "https://flash.jin10.com/detail/20251102213730423800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            22,
+            24,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 05时39分]"
+        },
+        {
+          "title": "上海新增8款已完成备案的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/2998495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "阿联酋能源部长：随着人工智能和数据中心的发展，我们肯定需要更多能源。",
+          "url": "https://flash.jin10.com/detail/20251103141136470800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 14时57分]"
+        },
+        {
+          "title": "【金牌纪要库】AI应用移动端月活跃突破7亿大关！多领域已率先实现业绩破冰，这些业内重点企业均有AI应用成果新突破，另外这些企业已有配套产业优先布局",
+          "url": "https://api3.cls.cn/share/article/2188860?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时38分]"
+        },
+        {
+          "title": "工信部部长李乐成：加快推进人工智能赋能新型工业化",
+          "url": "https://wallstreetcn.com/livenews/2998305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 12时02分]"
+        },
+        {
+          "title": "AI赋能Q3业绩+市场高切低，AI应用两连涨，强势“吸金”的游戏ETF涨2.7%",
+          "url": "https://www.gelonghui.com/news/5110080",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "上海市新增8款已完成登记的生成式人工智能服务",
+          "url": "https://api3.cls.cn/share/article/2189622?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "商务部：坚持智能化绿色化融合的方向 加快人工智能等数智技术创新",
+          "url": "https://api3.cls.cn/share/article/2188878?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 11,
       "titles": [
@@ -2044,8 +2296,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时57分 ~ 16时54分]"
+          "appearance_count": 7,
+          "time_info": "[14时57分 ~ 17时24分]"
         },
         {
           "title": "A股异动丨商业航天股集体走强，航天智装、航天科技等涨停，中国明年发射4艘飞船",
@@ -2177,8 +2429,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时02分 ~ 16时54分]"
+          "appearance_count": 14,
+          "time_info": "[12时02分 ~ 17时24分]"
         },
         {
           "title": "习近平赠李在明小米手机 笑问“看看有没有后门”",
@@ -2255,23 +2507,24 @@
           "time_info": "[13时22分 ~ 14时57分]"
         },
         {
-          "title": "瑞典汽车产业协会：特斯拉(TSLA.O)十月份瑞典新注册量同比下降了88.7%。",
-          "url": "https://flash.jin10.com/detail/20251103160211080800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 16时54分]"
-        },
-        {
           "title": "华为Mate70Air真机曝光",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%8E%E4%B8%BAMate70Air%E7%9C%9F%E6%9C%BA%E6%9B%9D%E5%85%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%258D%258E%25E4%25B8%25BAMate70Air%25E7%259C%259F%25E6%259C%25BA%25E6%259B%259D%25E5%2585%2589%2523%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D25%26realpos%3D25%26pos%3D25%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26display_time%3D1762158493%26pre_seqid%3D176215849305701699551111&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
             24,
-            25
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 17时24分]"
+        },
+        {
+          "title": "瑞典汽车产业协会：特斯拉(TSLA.O)十月份瑞典新注册量同比下降了88.7%。",
+          "url": "https://flash.jin10.com/detail/20251103160211080800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -2287,132 +2540,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "李乐成：加快推进人工智能赋能新型工业化",
-          "url": "https://www.cls.cn/detail/2189189",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            3,
-            4,
-            7,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时02分 ~ 16时54分]"
-        },
-        {
-          "title": "阿布扎比国家石油公司、马斯达尔公司、XRG公司与微软达成人工智能部署协议。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2998157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            21,
-            22,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 06时41分]"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC：公司和微软将在Adnoc的价值链中共同开发和部署人工智能代理，以提高效率并最大限度地减少排放",
-          "url": "https://flash.jin10.com/detail/20251102213815037800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            21,
-            23,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 05时39分]"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC：本公司、马斯达尔、XRG和微软将携手推动人工智能在能源领域的应用，以及能源在人工智能领域的支持。",
-          "url": "https://flash.jin10.com/detail/20251102213730423800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            22,
-            24,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 05时39分]"
-        },
-        {
-          "title": "阿联酋能源部长：随着人工智能和数据中心的发展，我们肯定需要更多能源。",
-          "url": "https://flash.jin10.com/detail/20251103141136470800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 14时57分]"
-        },
-        {
-          "title": "【金牌纪要库】AI应用移动端月活跃突破7亿大关！多领域已率先实现业绩破冰，这些业内重点企业均有AI应用成果新突破，另外这些企业已有配套产业优先布局",
-          "url": "https://api3.cls.cn/share/article/2188860?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时38分]"
-        },
-        {
-          "title": "工信部部长李乐成：加快推进人工智能赋能新型工业化",
-          "url": "https://wallstreetcn.com/livenews/2998305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时02分]"
-        },
-        {
-          "title": "AI赋能Q3业绩+市场高切低，AI应用两连涨，强势“吸金”的游戏ETF涨2.7%",
-          "url": "https://www.gelonghui.com/news/5110080",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        },
-        {
-          "title": "商务部：坚持智能化绿色化融合的方向 加快人工智能等数智技术创新",
-          "url": "https://api3.cls.cn/share/article/2188878?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
         }
       ]
     },
@@ -2751,11 +2878,12 @@
           "url": "https://www.cls.cn/detail/2189431",
           "source": "财联社热门",
           "ranks": [
+            8,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时24分]"
         },
         {
           "title": "一脉阳光(02522.HK)联合北京先行区及北京算力 实现千万元级医疗影像大模型训练服务签约",
@@ -2874,12 +3002,13 @@
           "url": "https://wallstreetcn.com/articles/3758523",
           "source": "华尔街见闻",
           "ranks": [
+            8,
             9,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 16时54分]"
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 17时24分]"
         },
         {
           "title": "台积电先进制程传明年涨价 涨幅估计3%-10%",
@@ -3014,8 +3143,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时20分 ~ 16时54分]"
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 17时24分]"
         }
       ]
     },
@@ -3071,8 +3200,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时07分 ~ 16时54分]"
+          "appearance_count": 15,
+          "time_info": "[11时07分 ~ 17时24分]"
         }
       ]
     }
