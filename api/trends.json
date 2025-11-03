@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T23:22:31.711598+08:00",
-  "total_titles_processed": 2063,
+  "generated_at": "2025-11-03T23:45:18.053564+08:00",
+  "total_titles_processed": 2109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 137,
+      "match_count": 147,
       "titles": [
         {
           "title": "三季度再卖61亿、连续5季度不回购、三年累计卖1840亿美元股票！巴菲特给伯克希尔留下的是：3820亿美元现金",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[19时18分 ~ 23时22分]"
+          "appearance_count": 13,
+          "time_info": "[19时18分 ~ 23时44分]"
         },
         {
           "title": "财联社11月3日电，IREN美股盘前直线拉升涨21%，消息面上，公司与微软签署97亿美元协议，将在德克萨斯州提供云计算服务。",
@@ -147,17 +147,6 @@
           "time_info": "[19时38分 ~ 19时39分]"
         },
         {
-          "title": "花旗集团：预计2030年全球AI收入规模将达9750亿美元。",
-          "url": "https://flash.jin10.com/detail/20251103231059315800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时21分 ~ 23时22分]"
-        },
-        {
           "title": "大行评级丨瑞银：上调亚马逊目标价至310美元 重申“买入”评级",
           "url": "https://www.gelonghui.com/news/5110122",
           "source": "格隆汇",
@@ -226,17 +215,6 @@
           "time_info": "[19时38分 ~ 19时39分]"
         },
         {
-          "title": "财联社11月3日电，美股走低，截至目前，道琼斯指数跌0.42%，标普500指数跌0.03%，纳斯达克综合指数涨0.43%。",
-          "url": "https://api3.cls.cn/share/article/2190018?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时21分 ~ 23时22分]"
-        },
-        {
           "title": "美股异动丨戴尔科技拉升涨超5%，获IREN 58亿美元GPU及相关设备订单",
           "url": "https://www.gelonghui.com/news/5110684",
           "source": "格隆汇",
@@ -285,6 +263,28 @@
           "time_info": "[21时31分 ~ 21时32分]"
         },
         {
+          "title": "财联社11月3日电，现货白银日内走低1%，现报48.19美元/盎司。",
+          "url": "https://api3.cls.cn/share/article/2190027?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "以太坊跌破3600美元/枚，日内跌近8%。",
+          "url": "https://flash.jin10.com/detail/20251103233552106800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "美光科技美股盘前涨超4%。报道称DDR5现货价格飙升25%，三星暂停DDR5合约价报价。",
           "url": "https://wallstreetcn.com/livenews/2998506",
           "source": "华尔街见闻-快讯",
@@ -313,6 +313,54 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时54分 ~ 18时48分]"
+        },
+        {
+          "title": "比特币跌破110000美元",
+          "url": "https://www.gelonghui.com/news/5110065",
+          "source": "格隆汇",
+          "ranks": [
+            3,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 23时44分]"
+        },
+        {
+          "title": "比特币日内大跌5001美元，现报105540美元/枚，跌幅4.52%。",
+          "url": "https://flash.jin10.com/detail/20251103233114926800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "现货白银日内跌幅达1.0%，报48.14美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2998659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "财联社11月3日电，伦敦金属交易所(LME)三个月期锌涨1.29%，报3095.0美元/吨，创2024年12月以来高位。",
+          "url": "https://api3.cls.cn/share/article/2189992?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19,
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时45分 ~ 23时44分]"
         },
         {
           "title": "印尼国家统计局：9月进口额同比增长7.17%，9月贸易顺差为43.4亿美元。",
@@ -375,6 +423,17 @@
           "time_info": "15时42分"
         },
         {
+          "title": "财联社11月3日电，瑞银将伯克希尔哈撒韦B(BRK.B.N)目标价从593美元上调至595美元；将伯克希尔哈撒韦(BRK.A.N)目标价从890002美元上调至892758美元。",
+          "url": "https://api3.cls.cn/share/article/2190023?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "人民币兑美元中间价报7.0867，上调13点；上一交易日中间价7.0880，上一交易日官方收盘价7.1135，上日夜盘报收7.1200。",
           "url": "https://wallstreetcn.com/livenews/2998251",
           "source": "华尔街见闻-快讯",
@@ -384,6 +443,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "比特币短线从10.7万美元上方下挫至10.6万美元下方，日内跌幅迅速扩大至约4%，以太坊跌6%，Solana跌8.9%，狗狗币跌9.8%，XRP跌6%。 加密货币概念股普跌，BitMine跌8.3%，以太币ETF FETH跌7.6%，Coinbase跌4.1%，Riot Platform则涨3.4%，Bitfarms涨4.1%，Iren涨13.1%，Cipher Mining涨20.5%。",
+          "url": "https://wallstreetcn.com/livenews/2998658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "花旗集团：预计2030年全球AI收入规模将达9750亿美元。",
+          "url": "https://flash.jin10.com/detail/20251103231059315800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[23时21分 ~ 23时44分]"
         },
         {
           "title": "大行评级丨高盛：上调英伟达目标价至240美元 预计第三财季业绩将胜预期",
@@ -398,6 +480,18 @@
           "time_info": "[14时32分 ~ 14时57分]"
         },
         {
+          "title": "财联社11月3日电，美股走低，截至目前，道琼斯指数跌0.42%，标普500指数跌0.03%，纳斯达克综合指数涨0.43%。",
+          "url": "https://api3.cls.cn/share/article/2190018?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[23时21分 ~ 23时44分]"
+        },
+        {
           "title": "财联社11月3日电，高盛将苹果将2026至2028财年每股盈利预测平均上调3%，目标价由279美元上调至320美元，评级“买入”。",
           "url": "https://api3.cls.cn/share/article/2189337?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -408,18 +502,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时32分 ~ 14时57分]"
-        },
-        {
-          "title": "财联社11月3日电，伦敦金属交易所(LME)三个月期锌涨1.29%，报3095.0美元/吨，创2024年12月以来高位。",
-          "url": "https://api3.cls.cn/share/article/2189992?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时45分 ~ 23时22分]"
         },
         {
           "title": "Loop Capital：英伟达仍有上涨空间 上调目标价至350美元",
@@ -478,6 +560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "比特币回落至106000美元/枚下方，日内跌4.18%。",
+          "url": "https://flash.jin10.com/detail/20251103233037937800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "财联社11月3日电，美国天然气期货日内涨3%，现报4.249美元/百万英热。",
@@ -555,6 +648,19 @@
           "time_info": "[16时30分 ~ 22时21分]"
         },
         {
+          "title": "美股行业ETF盘初涨跌各异，全球科技股指数ETF涨1.39%，半导体ETF与可选消费ETF涨超1%，网络股指数ETF与科技行业ETF涨约0.8%，银行业ETF则跌1.41%，区域银行ETF跌1.45%。",
+          "url": "https://wallstreetcn.com/livenews/2998634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时44分]"
+        },
+        {
           "title": "美元/瑞郎日内涨幅达0.5%，报0.8084。",
           "url": "https://wallstreetcn.com/livenews/2998621",
           "source": "华尔街见闻-快讯",
@@ -568,16 +674,17 @@
           "time_info": "[22时21分 ~ 23时22分]"
         },
         {
-          "title": "美股行业ETF盘初涨跌各异，全球科技股指数ETF涨1.39%，半导体ETF与可选消费ETF涨超1%，网络股指数ETF与科技行业ETF涨约0.8%，银行业ETF则跌1.41%，区域银行ETF跌1.45%。",
-          "url": "https://wallstreetcn.com/livenews/2998634",
+          "title": "Iren美股盘初上涨25%，有望创2024年以来最佳单日表现。",
+          "url": "https://wallstreetcn.com/livenews/2998631",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            15
+            17,
+            26,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时22分]"
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时44分]"
         },
         {
           "title": "亚马逊与OpenAI签订价值380亿美元的协议，将供应英伟达芯片提供的算力",
@@ -591,6 +698,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[22时21分 ~ 23时22分]"
+        },
+        {
+          "title": "道指美股盘初转跌。",
+          "url": "https://wallstreetcn.com/livenews/2998629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            27,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时44分]"
         },
         {
           "title": "美股三大股指期货周一开盘走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
@@ -629,6 +749,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[22时21分 ~ 23时22分]"
+        },
+        {
+          "title": "Kimberly-Clark Corp.（KMB）美股盘初下跌13%，创2008年以来最差盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/2998636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时44分]"
         },
         {
           "title": "WTI原油周一跳空高开，报61.13美元/桶，欧佩克决定12月增产但明年第一季度暂停增产。",
@@ -679,18 +812,6 @@
           "time_info": "[15时20分 ~ 15时42分]"
         },
         {
-          "title": "Iren美股盘初上涨25%，有望创2024年以来最佳单日表现。",
-          "url": "https://wallstreetcn.com/livenews/2998631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时22分]"
-        },
-        {
           "title": "IREN(IREN.O)股价盘前上涨18%，此前该公司与微软(MSFT.O)达成了一项价值97亿美元的人工智能云合同。",
           "url": "https://flash.jin10.com/detail/20251103190845834800",
           "source": "金十数据",
@@ -715,18 +836,6 @@
           "time_info": "[14时57分 ~ 15时20分]"
         },
         {
-          "title": "道指美股盘初转跌。",
-          "url": "https://wallstreetcn.com/livenews/2998629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时22分]"
-        },
-        {
           "title": "布伦特原油日内涨幅扩大至1.00%，现报65.12美元/桶。",
           "url": "https://flash.jin10.com/detail/20251103143708369800",
           "source": "金十数据",
@@ -737,18 +846,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时57分 ~ 15时20分]"
-        },
-        {
-          "title": "Kimberly-Clark Corp.（KMB）美股盘初下跌13%，创2008年以来最差盘中表现。",
-          "url": "https://wallstreetcn.com/livenews/2998636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时22分]"
         },
         {
           "title": "财联社11月3日电，微软与加密货币概念股Iren签署97亿美元协议，将在德克萨斯州提供云计算服务。Iren将在五年期内向微软提供英伟达GB300 GPU的使用权限。",
@@ -797,18 +894,6 @@
           "time_info": "[17时24分 ~ 17时47分]"
         },
         {
-          "title": "比特币跌破110000美元",
-          "url": "https://www.gelonghui.com/news/5110065",
-          "source": "格隆汇",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 12时02分]"
-        },
-        {
           "title": "亚马逊美股盘前涨幅扩大至5%。亚马逊与OpenAI签署380亿美元协议，将供应英伟达芯片。",
           "url": "https://api3.cls.cn/share/article/2189974?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -819,6 +904,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[22时20分 ~ 22时45分]"
+        },
+        {
+          "title": "美股异动丨英伟达盘初涨超3% 据报微软获准向阿联酋出口最新款英伟达芯片",
+          "url": "https://www.gelonghui.com/news/5110832",
+          "source": "格隆汇",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[23时21分 ~ 23时44分]"
         },
         {
           "title": "以太坊日内跌近4%，现报3710美元/枚。",
@@ -832,6 +929,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时57分 ~ 15时42分]"
+        },
+        {
+          "title": "亚马逊美股盘初涨5.2%，英伟达涨3%。",
+          "url": "https://wallstreetcn.com/livenews/2998633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            29,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时44分]"
         },
         {
           "title": "微软：将在未来四年内向阿联酋投入超过79亿美元",
@@ -952,29 +1062,6 @@
           "time_info": "[19时38分 ~ 19时39分]"
         },
         {
-          "title": "美股异动丨英伟达盘初涨超3% 据报微软获准向阿联酋出口最新款英伟达芯片",
-          "url": "https://www.gelonghui.com/news/5110832",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时21分 ~ 23时22分]"
-        },
-        {
-          "title": "亚马逊美股盘初涨5.2%，英伟达涨3%。",
-          "url": "https://wallstreetcn.com/livenews/2998633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时22分]"
-        },
-        {
           "title": "富卫集团(01828.HK)：前九个月新增业务销售额以按年化新保费计算上升37%至19.35亿美元",
           "url": "https://www.gelonghui.com/news/5110031",
           "source": "格隆汇",
@@ -1056,6 +1143,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时21分 ~ 22时45分]"
+        },
+        {
+          "title": "Eaton Corp.同意按95亿美元收购Boyd Thermal，从而将与人工智能（AI）数据中心相关的需求资本化。",
+          "url": "https://wallstreetcn.com/livenews/2998642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时44分]"
         },
         {
           "title": "马斯克万亿美元薪酬方案下周表决",
@@ -1147,6 +1246,18 @@
           "time_info": "[22时20分 ~ 22时21分]"
         },
         {
+          "title": "瑞银：将伯克希尔哈撒韦(BRK.B.N)目标价从593美元上调至595美元。",
+          "url": "https://flash.jin10.com/detail/20251103231919193800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 2,
+          "time_info": "23时44分"
+        },
+        {
           "title": "BioNTech三季度营收15.2亿欧元，预估7.843亿欧元。 三季度每股亏损0.12欧元，预估每股亏损0.96欧元。 BioNTech预计全财年营收26-28亿欧元，此前预计17-22亿欧元。 BioNTech预计全财年资本支出2-2.5亿欧元，此前预计2.5-3.5亿欧元。 BioNTech美股盘前涨近4%。",
           "url": "https://wallstreetcn.com/livenews/2998564",
           "source": "华尔街见闻-快讯",
@@ -1157,6 +1268,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时41分 ~ 21时32分]"
+        },
+        {
+          "title": "Cipher Mining上涨30%，创1月份以来最大盘中涨幅，该公司与亚马逊签署为期十五年、价值55亿美元的数据中心租赁协议。",
+          "url": "https://wallstreetcn.com/livenews/2998640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时44分]"
         },
         {
           "title": "脑洞科技(02203.HK)以总代价190万美元进一步购入1.47万股Nebius股份",
@@ -1381,6 +1504,17 @@
           "time_info": "20时41分"
         },
         {
+          "title": "纽元兑美元NZD/USD日内走低0.50%，现报0.5695。",
+          "url": "https://flash.jin10.com/detail/20251103232811681800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "财联社11月3日电，布伦特原油日内涨幅扩大至1%，现报65.28美元/桶。",
           "url": "https://api3.cls.cn/share/article/2189351?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -1401,17 +1535,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
-        },
-        {
-          "title": "Eaton Corp.同意按95亿美元收购Boyd Thermal，从而将与人工智能（AI）数据中心相关的需求资本化。",
-          "url": "https://wallstreetcn.com/livenews/2998642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
         },
         {
           "title": "财联社11月3日电，据报道，挪威即将与空客、意大利莱昂纳多和GKN Fokker达成协议，以解决因取消NH90直升机订单而引发的30亿美元诉讼。",
@@ -1467,17 +1590,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
-        },
-        {
-          "title": "Cipher Mining上涨30%，创1月份以来最大盘中涨幅，该公司与亚马逊签署为期十五年、价值55亿美元的数据中心租赁协议。",
-          "url": "https://wallstreetcn.com/livenews/2998640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
         },
         {
           "title": "Rosenblatt：将英伟达目标价上调至240美元",
@@ -1601,6 +1713,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "花旗：到2030年全球人工智能产业收入料将达到9750亿美元",
+          "url": "https://flash.jin10.com/detail/20251103231145361800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "英伟达(NVDA.O)美股盘前小幅走高，现涨2.12%。",
           "url": "https://flash.jin10.com/detail/20251103200846813800",
           "source": "金十数据",
@@ -1615,7 +1738,7 @@
     },
     {
       "keyword_group": "特朗普 关税 制裁 降息",
-      "match_count": 86,
+      "match_count": 89,
       "titles": [
         {
           "title": "贝森特称美国可能对华加征关税，外交部回应",
@@ -1626,8 +1749,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[16时30分 ~ 23时22分]"
+          "appearance_count": 22,
+          "time_info": "[16时30分 ~ 23时44分]"
         },
         {
           "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
@@ -1664,8 +1787,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[18时47分 ~ 23时22分]"
+          "appearance_count": 15,
+          "time_info": "[18时47分 ~ 23时44分]"
         },
         {
           "title": "特朗普：大型台企将生产线向美国转移",
@@ -1680,8 +1803,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[17时46分 ~ 23时22分]"
+          "appearance_count": 18,
+          "time_info": "[17时46分 ~ 23时44分]"
         },
         {
           "title": "美媒：关税战将推高美国假日季物价",
@@ -1695,8 +1818,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[18时23分 ~ 23时22分]"
+          "appearance_count": 16,
+          "time_info": "[18时23分 ~ 23时44分]"
         },
         {
           "title": "特朗普恫言空袭尼日利亚 尼总统吁美尊重其领土完整",
@@ -1752,8 +1875,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[17时24分 ~ 23时22分]"
+          "appearance_count": 19,
+          "time_info": "[17时24分 ~ 23时44分]"
         },
         {
           "title": "特朗普向巴拿马总统示好",
@@ -1774,6 +1897,18 @@
           "is_new": false,
           "appearance_count": 37,
           "time_info": "[00时23分 ~ 17时47分]"
+        },
+        {
+          "title": "政府停摆即将进入第六周，特朗普称“不会被民主党人勒索”",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/11/03/94d6a635ce3f4b26a1643ce85fa745a2.html",
+          "source": "参考消息",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[22时20分 ~ 23时44分]"
         },
         {
           "title": "特朗普：不排除向尼日利亚派遣军队",
@@ -1839,8 +1974,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[14时32分 ~ 23时22分]"
+          "appearance_count": 27,
+          "time_info": "[14时32分 ~ 23时44分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
@@ -2039,18 +2174,6 @@
           "time_info": "[00时23分 ~ 07时39分]"
         },
         {
-          "title": "政府停摆即将进入第六周，特朗普称“不会被民主党人勒索”",
-          "url": "https://ckxxapp.ckxx.net/pages/2025/11/03/94d6a635ce3f4b26a1643ce85fa745a2.html",
-          "source": "参考消息",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时20分 ~ 23时22分]"
-        },
-        {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
           "url": "https://flash.jin10.com/detail/20251103045723386800",
           "source": "金十数据",
@@ -2163,12 +2286,13 @@
           "source": "微博",
           "ranks": [
             17,
+            18,
             14,
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[21时31分 ~ 23时22分]"
+          "appearance_count": 8,
+          "time_info": "[21时31分 ~ 23时44分]"
         },
         {
           "title": "美国总统特朗普：我们将进行核试验，因为我不希望我们成为唯一不这样做的国家。",
@@ -2238,6 +2362,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[22时20分 ~ 23时44分]"
         },
         {
           "title": "财联社11月3日电，印尼央行行长表示，150个基点的降息幅度已大幅压低政府债券收益率，从而降低政府融资成本。",
@@ -2343,18 +2480,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时48分 ~ 20时41分]"
-        },
-        {
-          "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时20分 ~ 23时22分]"
         },
         {
           "title": "美联储12月降息25个基点的概率为69.8%",
@@ -2632,6 +2757,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "美国众议长约翰逊：已经在上周末与总统特朗普讨论过“补充营养援助计划”（SNAP）。 必须向那些享受SNAP的人群重新计算支付金额。",
+          "url": "https://wallstreetcn.com/livenews/2998654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "财联社11月3日电，美联储理事米兰认为美联储的政策过于紧缩。他补充道，保持政策限制性的时间越长，经济下行的风险就越大。如果情况符合预期，他主张再次降息50个基点。",
           "url": "https://api3.cls.cn/share/article/2189881?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -2641,6 +2777,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：周末与美国总统特朗普就补充营养协助计划（SNAP）进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20251103232552334800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "美联储理事米兰：若预测成真，将主张再降息50个基点。",
@@ -2709,6 +2856,17 @@
           "time_info": "16时30分"
         },
         {
+          "title": "“中美处得挺好”，特朗普：与其一味打压不如与中方合作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31882601",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "特朗普称或军事打击尼日利亚",
           "url": "https://wallstreetcn.com/livenews/2998231",
           "source": "华尔街见闻-快讯",
@@ -2745,7 +2903,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "【早报】公募基金业绩比较基准指引征求意见稿发布，两部门发布黄金有关税收政策的公告",
@@ -2770,8 +2928,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[18时47分 ~ 23时22分]"
+          "appearance_count": 15,
+          "time_info": "[18时47分 ~ 23时44分]"
         },
         {
           "title": "黄金零售税收优惠调整 周大福、老铺黄金股价大跌",
@@ -2799,8 +2957,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[12时49分 ~ 23时22分]"
+          "appearance_count": 31,
+          "time_info": "[12时49分 ~ 23时44分]"
         },
         {
           "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
@@ -2812,8 +2970,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[17时24分 ~ 23时22分]"
+          "appearance_count": 19,
+          "time_info": "[17时24分 ~ 23时44分]"
         },
         {
           "title": "国有大行“吹哨子”？工商银行暂停部分黄金积存业务引关注，业内：或仅为正常调整",
@@ -2844,6 +3002,19 @@
           "time_info": "[00时23分 ~ 07时39分]"
         },
         {
+          "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31881405",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[20时41分 ~ 23时44分]"
+        },
+        {
           "title": "金十图示：2025年11月03日（周一）上海黄金交易所市场行情",
           "url": "https://flash.jin10.com/detail/20251103160442466800",
           "source": "金十数据",
@@ -2863,14 +3034,15 @@
           "source": "抖音",
           "ranks": [
             10,
+            11,
             13,
             14,
             15,
             16
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[15时20分 ~ 23时22分]"
+          "appearance_count": 24,
+          "time_info": "[15时20分 ~ 23时44分]"
         },
         {
           "title": "中国出台新政取消黄金零售增值税抵扣优惠",
@@ -2883,19 +3055,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时23分 ~ 09时31分]"
-        },
-        {
-          "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31881405",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[20时41分 ~ 23时22分]"
         },
         {
           "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
@@ -3182,6 +3341,17 @@
           "time_info": "[23时21分 ~ 23时22分]"
         },
         {
+          "title": "现货黄金短线走低20美元，现报4012.73美元/盎司。现货白银短线走低0.4美元，现报48.34美元/盎司",
+          "url": "https://flash.jin10.com/detail/20251103233020705800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "研报掘金丨华安证券：维持中金黄金“买入”评级，金铜齐增业绩释放，新增项目推进",
           "url": "https://www.gelonghui.com/news/5110159",
           "source": "格隆汇",
@@ -3267,8 +3437,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[16时53分 ~ 23时22分]"
+          "appearance_count": 21,
+          "time_info": "[16时53分 ~ 23时44分]"
         },
         {
           "title": "英伟达进军机器人出租车市场",
@@ -3282,8 +3452,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[18时23分 ~ 23时22分]"
+          "appearance_count": 16,
+          "time_info": "[18时23分 ~ 23时44分]"
         },
         {
           "title": "你真的会相信机器人来照顾你的晚年生活吗？",
@@ -3314,8 +3484,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[16时53分 ~ 23时22分]"
+          "appearance_count": 21,
+          "time_info": "[16时53分 ~ 23时44分]"
         },
         {
           "title": "中国全运会火炬接力粤港澳同步举行 机器人任火炬手",
@@ -3582,6 +3752,19 @@
           "time_info": "[00时23分 ~ 05时39分]"
         },
         {
+          "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
+          "url": "https://www.cls.cn/detail/2189658",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[22时20分 ~ 23时44分]"
+        },
+        {
           "title": "上海新增8款已完成备案的生成式人工智能服务",
           "url": "https://wallstreetcn.com/livenews/2998495",
           "source": "华尔街见闻-快讯",
@@ -3631,17 +3814,16 @@
           "time_info": "20时41分"
         },
         {
-          "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
-          "url": "https://www.cls.cn/detail/2189658",
-          "source": "财联社热门",
+          "title": "【电报解读】字节加码大模型人才长期回报！机构称海内外厂商频频发布大模型迭代升级成果下，AI应用商业化空间有望打开，这家公司是字节影视版权供应商，研发了AIGC一键成片系统",
+          "url": "https://api3.cls.cn/share/article/2189996?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
             10,
-            11,
-            13
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时20分 ~ 23时22分]"
+          "appearance_count": 3,
+          "time_info": "[23时21分 ~ 23时44分]"
         },
         {
           "title": "阿联酋能源部长：随着人工智能和数据中心的发展，我们肯定需要更多能源。",
@@ -3667,17 +3849,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 01时38分]"
-        },
-        {
-          "title": "【电报解读】字节加码大模型人才长期回报！机构称海内外厂商频频发布大模型迭代升级成果下，AI应用商业化空间有望打开，这家公司是字节影视版权供应商，研发了AIGC一键成片系统",
-          "url": "https://api3.cls.cn/share/article/2189996?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时21分 ~ 23时22分]"
         },
         {
           "title": "工信部部长李乐成：加快推进人工智能赋能新型工业化",
@@ -3968,8 +4139,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[14时57分 ~ 23时22分]"
+          "appearance_count": 25,
+          "time_info": "[14时57分 ~ 23时44分]"
         },
         {
           "title": "印度发射该国迄今最重卫星",
@@ -4242,8 +4413,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[16时53分 ~ 23时22分]"
+          "appearance_count": 21,
+          "time_info": "[16时53分 ~ 23时44分]"
         },
         {
           "title": "微软CEO纳德拉：人工智能行业面临的问题并非算力过剩 而是电力",
@@ -4362,8 +4533,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[18时23分 ~ 23时22分]"
+          "appearance_count": 16,
+          "time_info": "[18时23分 ~ 23时44分]"
         },
         {
           "title": "A股存储芯片板块午后持续回暖，香农芯创涨超5%再创新高，江波龙、北京君正、兆易创新、佰维存储、云汉芯城纷纷上扬。",
@@ -4535,8 +4706,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[16时30分 ~ 23时22分]"
+          "appearance_count": 22,
+          "time_info": "[16时30分 ~ 23时44分]"
         },
         {
           "title": "明年起5纳米以下先进制程至少涨3%？台积电回应：定价策略不以机会导向",
@@ -4625,8 +4796,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[20时41分 ~ 23时22分]"
+          "appearance_count": 9,
+          "time_info": "[20时41分 ~ 23时44分]"
         },
         {
           "title": "“要签长协得先给钱”，六氟磷酸锂暴涨",
@@ -4718,11 +4889,12 @@
           "url": "https://www.gelonghui.com/news/5110837",
           "source": "格隆汇",
           "ranks": [
+            8,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时21分 ~ 23时22分]"
+          "appearance_count": 3,
+          "time_info": "[23时21分 ~ 23时44分]"
         },
         {
           "title": "【风口研报·公司】储能+固态变压器SST+核聚变电源，这家公司携手华为深耕高压级联储能赛道，产品已进入全球70国；四季度价格有望进一步上涨，这个行业当前兼具“涨价+低PB+低筹码+红利”等攻守兼备特征",
@@ -5051,11 +5223,12 @@
           "url": "https://www.gelonghui.com/news/5110833",
           "source": "格隆汇",
           "ranks": [
+            12,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时21分 ~ 23时22分]"
+          "appearance_count": 3,
+          "time_info": "[23时21分 ~ 23时44分]"
         }
       ]
     },
@@ -5107,11 +5280,12 @@
           "source": "财联社电报",
           "ranks": [
             1,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时45分 ~ 23时22分]"
+          "appearance_count": 4,
+          "time_info": "[22时45分 ~ 23时44分]"
         }
       ]
     }
