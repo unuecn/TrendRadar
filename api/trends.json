@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T04:22:19.323579+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2025-11-04T04:43:36.145589+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 43,
+      "match_count": 48,
       "titles": [
         {
           "title": "微软与Lambda达成数十亿美元的人工智能基础设施协议",
@@ -61,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "比特币跌破106000美元",
@@ -72,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "财联社11月4日电，周一（11月3日），美联储隔夜逆回购协议（RRP）使用规模为237.92亿美元，上个交易日报518.02亿美元。",
@@ -81,12 +81,13 @@
           "source": "财联社电报",
           "ranks": [
             1,
+            11,
             6,
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时29分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[02时29分 ~ 04时43分]"
         },
         {
           "title": "财联社11月3日电，现货白银日内走低1%，现报48.19美元/盎司。",
@@ -107,13 +108,14 @@
           "url": "https://api3.cls.cn/share/article/2190050?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
+            17,
             12,
-            15,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时29分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[02时29分 ~ 04时43分]"
         },
         {
           "title": "财联社11月3日电，瑞银将伯克希尔哈撒韦B(BRK.B.N)目标价从593美元上调至595美元；将伯克希尔哈撒韦(BRK.A.N)目标价从890002美元上调至892758美元。",
@@ -134,12 +136,13 @@
           "url": "https://api3.cls.cn/share/article/2190058?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
+            9,
             4,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 04时22分]"
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 04时43分]"
         },
         {
           "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
@@ -184,17 +187,6 @@
           "time_info": "[01时43分 ~ 03时39分]"
         },
         {
-          "title": "周一（11月3日）纽约尾盘，ICE原糖期货涨1.73%，ICE白糖期货涨1.95%。 ICE阿拉比卡咖啡期货涨4.23%，咖啡“C”期货涨4%。罗布斯塔咖啡期货涨3.41%。 纽约可可期货涨6.54%，报6553美元/吨。伦敦可可期货涨6.15%。 ICE棉花期货涨0.23%。",
-          "url": "https://wallstreetcn.com/livenews/2998737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
           "title": "LME期铜收跌32美元，报10855美元/吨。 LME期铝收涨18美元，报2902美元/吨。 LME期锌收涨44美元，报3100美元/吨。 LME期铅收涨10美元，报2027美元/吨。 LME期镍收跌84美元，报15142美元/吨。 LME期锡收跌39美元，报36047美元/吨。 LME期钴收平，报48570美元/吨。",
           "url": "https://wallstreetcn.com/livenews/2998700",
           "source": "华尔街见闻-快讯",
@@ -221,6 +213,50 @@
           "time_info": "[00时23分 ~ 00时48分]"
         },
         {
+          "title": "美国财政部下调第四季度借款预期至5690亿美元",
+          "url": "https://api3.cls.cn/share/article/2190067?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "周一（11月3日）纽约尾盘，美元兑日元涨0.13%，报154.19日元，日内交投区间为153.93-154.30日元，北京时间21:40刷新日高，美股盘初显著跳水，23:00刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/2998745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "30年期美债收益率涨约3.7个基点",
+          "url": "https://wallstreetcn.com/livenews/2998743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "周一（11月3日）纽约尾盘，ICE美元指数涨0.07%，报99.872点，日内交投区间为99.708-99.988点。 彭博美元指数涨0.03%，报1221.25点，日内交投区间为1219.75-1222.54点。",
+          "url": "https://wallstreetcn.com/livenews/2998742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
           "title": "微软与Lambda达成数十亿美元的人工智能基础设施协议。 作为Lambda公司与微软合作协议的一部分，Lambda将部署由英伟达提供技术支持的人工智能基础设施。",
           "url": "https://wallstreetcn.com/livenews/2998681",
           "source": "华尔街见闻-快讯",
@@ -232,6 +268,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时20分 ~ 02时49分]"
+        },
+        {
+          "title": "沃旭能源ADR涨7.4%，Apollo将对该公司旗下Hornsea 3项目（英国东海岸海上风电场）投资65亿美元、持股50%。",
+          "url": "https://wallstreetcn.com/livenews/2998724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 04时43分]"
+        },
+        {
+          "title": "美国财政部：将四季度借款预期下调210亿美元",
+          "url": "https://wallstreetcn.com/livenews/2998741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1205元，较上周五夜盘收盘跌5点。成交量452.59亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2998720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            9,
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 04时43分]"
         },
         {
           "title": "财联社11月3日电，美股走低，截至目前，道琼斯指数跌0.42%，标普500指数跌0.03%，纳斯达克综合指数涨0.43%。",
@@ -247,42 +322,29 @@
           "time_info": "[00时23分 ~ 01时20分]"
         },
         {
-          "title": "沃旭能源ADR涨7.4%，Apollo将对该公司旗下Hornsea 3项目（英国东海岸海上风电场）投资65亿美元、持股50%。",
-          "url": "https://wallstreetcn.com/livenews/2998724",
+          "title": "周一（11月3日）纽约尾盘，ICE原糖期货涨1.73%，ICE白糖期货涨1.95%。 ICE阿拉比卡咖啡期货涨4.23%，咖啡“C”期货涨4%。罗布斯塔咖啡期货涨3.41%。 纽约可可期货涨6.54%，报6553美元/吨。伦敦可可期货涨6.15%。 ICE棉花期货涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/2998737",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            14,
-            7
+            8,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时22分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1205元，较上周五夜盘收盘跌5点。成交量452.59亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2998720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时22分]"
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时43分]"
         },
         {
           "title": "2025年迄今最大一笔页岩油气交易：SM Energy Co.同意，按大约28亿美元股权估值收购美国二叠纪盆地的竞争对手Civitas Resources Inc.。",
           "url": "https://wallstreetcn.com/livenews/2998729",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            16,
             9,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 04时43分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了18个对手方的237.92亿美元。",
@@ -338,6 +400,20 @@
           "time_info": "[02时30分 ~ 03时39分]"
         },
         {
+          "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2998716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27,
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 04时43分]"
+        },
+        {
           "title": "Alphabet(GOOG.O)的美元债券发行吸引了高达900亿美元的投资者认购需求。",
           "url": "https://flash.jin10.com/detail/20251104013308077800",
           "source": "金十数据",
@@ -361,19 +437,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时48分 ~ 01时43分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2998716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时22分]"
         },
         {
           "title": "现货白银日内走低1%，现报48.19美元/盎司。",
@@ -431,6 +494,41 @@
           "time_info": "[00时23分 ~ 00时48分]"
         },
         {
+          "title": "分析师预测：英伟达市值有望达8.5万亿美元",
+          "url": "https://wallstreetcn.com/livenews/2998732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时43分]"
+        },
+        {
+          "title": "WTI 12月原油期货收涨0.07美元，涨幅0.11%，报61.05美元/桶。 布伦特1月原油期货收涨0.12美元，涨幅0.19%，报64.89美元/桶。 中东Abu Dhabi Murban原油期货跌0.34%，报67.14美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/2998731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时43分]"
+        },
+        {
+          "title": "华尔街机构喊出英伟达最高目标价 市值有望达8.5万亿美元",
+          "url": "https://flash.jin10.com/detail/20251104033423610800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时43分]"
+        },
+        {
           "title": "Alphabet(GOOG.O)将美元债券发行规模定为175亿美元。",
           "url": "https://flash.jin10.com/detail/20251104024837378800",
           "source": "金十数据",
@@ -475,39 +573,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 01时20分]"
-        },
-        {
-          "title": "分析师预测：英伟达市值有望达8.5万亿美元",
-          "url": "https://wallstreetcn.com/livenews/2998732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "WTI 12月原油期货收涨0.07美元，涨幅0.11%，报61.05美元/桶。 布伦特1月原油期货收涨0.12美元，涨幅0.19%，报64.89美元/桶。 中东Abu Dhabi Murban原油期货跌0.34%，报67.14美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/2998731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "华尔街机构喊出英伟达最高目标价 市值有望达8.5万亿美元",
-          "url": "https://flash.jin10.com/detail/20251104033423610800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
         },
         {
           "title": "美股行业ETF盘初涨跌各异，全球科技股指数ETF涨1.39%，半导体ETF与可选消费ETF涨超1%，网络股指数ETF与科技行业ETF涨约0.8%，银行业ETF则跌1.41%，区域银行ETF跌1.45%。",
@@ -556,8 +621,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "政府停摆即将进入第六周，特朗普称“不会被民主党人勒索”",
@@ -567,8 +632,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "特朗普称中方“正在秘密测试核武器”，外交部回应",
@@ -578,8 +643,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
+        },
+        {
+          "title": "美联储戴利：今年降息50个基点使美联储处于更有利的位置 对12月利率决定持开放态度",
+          "url": "https://api3.cls.cn/share/article/2190049?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            8,
+            13,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 04时43分]"
         },
         {
           "title": "贝森特：美国部分经济领域已陷入衰退，如果美联储不进一步降息，其他领域也会衰退",
@@ -589,8 +669,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "美媒：面对特朗普动武威胁，尼日利亚民众感到困惑",
@@ -600,22 +680,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
-        },
-        {
-          "title": "美联储戴利：今年降息50个基点使美联储处于更有利的位置 对12月利率决定持开放态度",
-          "url": "https://api3.cls.cn/share/article/2190049?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8,
-            1,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "“中美处得挺好”，特朗普：与其一味打压不如与中方合作",
@@ -629,8 +695,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "特朗普：大型台企将生产线向美国转移",
@@ -640,8 +706,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "美媒：关税战将推高美国假日季物价",
@@ -651,8 +717,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -663,14 +729,15 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D0%26lcate%3D5001%26band_rank%3D26%26filter_type%3Drealtimehot%26pos%3D26%26c_type%3D31%26realpos%3D26%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE70%25E5%2588%2586%25E9%2592%259F%25E9%2587%2587%25E8%25AE%25BF%25E6%258F%2590%25E5%258F%258A%25E4%25B8%25AD%25E5%259B%25BD41%25E6%25AC%25A1%2523%26cate%3D5001%26dgr%3D0%26display_time%3D1762186968%26pre_seqid%3D176218696822703333870146&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
+            16,
             17,
             18,
             19,
@@ -678,8 +745,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "美联储理事库克：12月有可能降息 但将取决于后续新出炉的信息",
@@ -687,11 +754,12 @@
           "source": "财联社电报",
           "ranks": [
             1,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 04时22分]"
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 04时43分]"
         },
         {
           "title": "美联储戴利：今年降息50个基点使美联储处于更有利的位置。",
@@ -776,17 +844,6 @@
           "time_info": "01时20分"
         },
         {
-          "title": "美联储理事库克：有理由担心失业人口增加（这种风险）。 担心就业市场，因为它能迅速发生变化。 （企业/总统特朗普的联邦政府）宣布的裁员行动可能还没有实质化，需要通过数据来分析。",
-          "url": "https://wallstreetcn.com/livenews/2998734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：（总统特朗普政府关门造成的）缺乏政府数据不应当干扰到FOMC的决策。",
           "url": "https://wallstreetcn.com/livenews/2998690",
           "source": "华尔街见闻-快讯",
@@ -827,6 +884,34 @@
           "time_info": "[00时24分 ~ 01时43分]"
         },
         {
+          "title": "美联储理事库克自特朗普起诉她以来首次公开讲话，称：还没有就12月降息与否做决定。 （在9月份和10月份都）支持FOMC降息，因为就业市场面临的风险超过通胀风险。 当前政策仍然具有适度的限制性。",
+          "url": "https://wallstreetcn.com/livenews/2998722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            3,
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 04时43分]"
+        },
+        {
+          "title": "美联储理事库克：如果关税造成的（通胀）影响持续存在，准备“采取强有力的行动”。 关税对价格的传导过程尚未结束。 就业市场面临的风险超过通胀风险。 一旦关税的影响消失，通胀就会重返朝着2%目标回落的正轨。 预计明年的通胀仍然会偏高。",
+          "url": "https://wallstreetcn.com/livenews/2998719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            17,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 04时43分]"
+        },
+        {
           "title": "美国总统特朗普的政府官员们表示，将对“补充营养援助计划”（SNAP）提供局部资金。 特朗普的司法部称，11月份将可以获得50%的食品救济资金。 此前，特朗普政府因为联邦政府关门期间的SNAP资金问题而败诉。",
           "url": "https://wallstreetcn.com/livenews/2998687",
           "source": "华尔街见闻-快讯",
@@ -839,34 +924,34 @@
           "time_info": "[01时20分 ~ 01时43分]"
         },
         {
-          "title": "美联储理事库克自特朗普起诉她以来首次公开讲话，称：还没有就12月降息与否做决定。 （在9月份和10月份都）支持FOMC降息，因为就业市场面临的风险超过通胀风险。 当前政策仍然具有适度的限制性。",
-          "url": "https://wallstreetcn.com/livenews/2998722",
+          "title": "美联储理事库克：在法庭审理（美国总统特朗普政府所谓的抵押贷款）官司期间，对各方的支持表示由衷的感谢。 我不会谈论正在进行的庭审，那样做是不合适的。",
+          "url": "https://wallstreetcn.com/livenews/2998727",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            3,
-            15
+            18,
+            11,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时22分]"
+          "time_info": "[03时39分 ~ 04时43分]"
         },
         {
-          "title": "美联储理事库克：如果关税造成的（通胀）影响持续存在，准备“采取强有力的行动”。 关税对价格的传导过程尚未结束。 就业市场面临的风险超过通胀风险。 一旦关税的影响消失，通胀就会重返朝着2%目标回落的正轨。 预计明年的通胀仍然会偏高。",
-          "url": "https://wallstreetcn.com/livenews/2998719",
+          "title": "加拿大不列颠哥伦比亚省长：我们不会针对美国总统特朗普运行反关税广告。",
+          "url": "https://wallstreetcn.com/livenews/2998726",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            10,
+            19,
+            12,
             5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时22分]"
+          "time_info": "[03时39分 ~ 04时43分]"
         },
         {
-          "title": "美联储理事库克：在法庭审理（美国总统特朗普政府所谓的抵押贷款）官司期间，对各方的支持表示由衷的感谢。 我不会谈论正在进行的庭审，那样做是不合适的。",
-          "url": "https://wallstreetcn.com/livenews/2998727",
+          "title": "美联储理事库克：有理由担心失业人口增加（这种风险）。 担心就业市场，因为它能迅速发生变化。 （企业/总统特朗普的联邦政府）宣布的裁员行动可能还没有实质化，需要通过数据来分析。",
+          "url": "https://wallstreetcn.com/livenews/2998734",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
@@ -874,19 +959,21 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时22分]"
+          "time_info": "[04时22分 ~ 04时43分]"
         },
         {
-          "title": "加拿大不列颠哥伦比亚省长：我们不会针对美国总统特朗普运行反关税广告。",
-          "url": "https://wallstreetcn.com/livenews/2998726",
+          "title": "加拿大央行行长Tiff Macklem：美国民众在极大程度承担了（总统特朗普挑起的）关税成本。",
+          "url": "https://wallstreetcn.com/livenews/2998714",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            5
+            10,
+            29,
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 04时43分]"
         },
         {
           "title": "美国大约24个州起诉特朗普政府限制“公共服务贷款豁免”的做法",
@@ -899,19 +986,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 02时49分]"
-        },
-        {
-          "title": "加拿大央行行长Tiff Macklem：美国民众在极大程度承担了（总统特朗普挑起的）关税成本。",
-          "url": "https://wallstreetcn.com/livenews/2998714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时22分]"
         },
         {
           "title": "美国众议长约翰逊：已经在上周末与总统特朗普讨论过“补充营养援助计划”（SNAP）。 必须向那些享受SNAP的人群重新计算支付金额。",
@@ -936,6 +1010,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 00时48分]"
+        },
+        {
+          "title": "美联储理事库克：正密切关注关税影响，以了解企业和家庭的反应。",
+          "url": "https://flash.jin10.com/detail/20251104034514555800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时43分]"
         },
         {
           "title": "美联储理事库克：一旦关税的影响完全传导完毕，通胀应回归2%的目标水平。",
@@ -971,26 +1056,15 @@
           "time_info": "[03时38分 ~ 03时39分]"
         },
         {
-          "title": "美联储理事库克：正密切关注关税影响，以了解企业和家庭的反应。",
-          "url": "https://flash.jin10.com/detail/20251104034514555800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
           "title": "美联储理事库克：不会就美国总统特朗普的解职意图进一步置评。",
           "url": "https://flash.jin10.com/detail/20251104031804973800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时43分]"
         },
         {
           "title": "美联储理事库克为12月降息留有余地",
@@ -999,9 +1073,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时43分]"
         }
       ]
     },
@@ -1017,8 +1091,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
@@ -1029,8 +1103,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "黄金税收优惠没了，老铺黄金等珠宝商为何重挫？",
@@ -1040,8 +1114,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
@@ -1051,8 +1125,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "一条视频看懂黄金税收新规",
@@ -1065,8 +1139,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月3日（周一）晚盘收盘上涨0.09%报917.1元/克；<br/>上海黄金交易所白银T+D 11月3日（周一）晚盘收盘下跌0.37%报11328.0元/千克。",
@@ -1118,8 +1192,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "Lambda：战略合作意味着英伟达(NVDA.O)将在未来多年进行大规模人工智能基础设施部署。",
@@ -1176,9 +1250,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时43分]"
         },
         {
           "title": "美联储理事库克：生成式人工智能可能会彻底改变生产力增长，但我们仍不清楚其具体影响。",
@@ -1187,9 +1261,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时43分]"
         }
       ]
     },
@@ -1206,11 +1280,12 @@
             2,
             9,
             14,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时19分 ~ 04时22分]"
+          "appearance_count": 12,
+          "time_info": "[01时19分 ~ 04时43分]"
         },
         {
           "title": "财联社11月4日电，葡萄牙汽车协会（ACAP）数据显示，特斯拉10月份在葡萄牙的新车注册量同比下降58.7%，1月至10月累计下降21.4%。",
@@ -1289,8 +1364,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "英伟达进军机器人出租车市场",
@@ -1300,8 +1375,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "中国机器人工厂成“热门景点”",
@@ -1311,8 +1386,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         }
       ]
     },
@@ -1343,8 +1418,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "据日经新闻：三星集团和日本电力公司Erex将成立储能合资公司。",
@@ -1382,8 +1457,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "道指盘中转跌，AI交易火爆、纳指逼近纪录，加密货币盘中跳水、以太坊跌近9%",
@@ -1393,8 +1468,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时38分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 04时43分]"
         }
       ]
     },
@@ -1440,8 +1515,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         },
         {
           "title": "Amkor股价上涨16%，创7月份以来最大盘中涨幅，英伟达CEO黄仁勋在接受福克斯新闻采访时提到该公司。",
@@ -1470,8 +1545,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         }
       ]
     },
@@ -1487,8 +1562,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         }
       ]
     },
@@ -1504,8 +1579,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         }
       ]
     },
@@ -1521,8 +1596,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 04时43分]"
         }
       ]
     }
