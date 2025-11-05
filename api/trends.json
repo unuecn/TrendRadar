@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T02:53:21.261227+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2025-11-06T03:18:54.670396+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "比特币 以太坊",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "以太坊向上触及3400美元",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 02时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "币圈再度血流成河！比特币6月以来首次跌破10万大关，以太币暴跌10%",
@@ -27,19 +27,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 02时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 03时18分]"
+        },
+        {
+          "title": "比特币日内涨幅达3.0%，报104450美元。 标普500指数涨0.8%，道指涨280点涨幅0.6%，纳指涨1.2%，半导体指数涨4%。 美国总统特朗普：预计三季度GDP将至少增长4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3000064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "以太坊日内涨超5.00%，现报3453美元/枚。",
           "url": "https://flash.jin10.com/detail/20251106023247371800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时18分]"
         },
         {
           "title": "以太坊向上触及3400美元/枚，日内涨3.44%。",
@@ -57,7 +69,7 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -67,8 +79,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 02时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "贝森特：英伟达高端晶片未来或可对华出售",
@@ -78,8 +90,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 02时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "白宫称英伟达不能向中国出售最先进的AI晶片",
@@ -89,8 +101,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 02时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 03时18分]"
+        },
+        {
+          "title": "据华尔街日报：摩根大通(JPM.N)和英伟达(NVDA.O)是首批使用Helios运行复杂算法以解决商业问题的客户。",
+          "url": "https://flash.jin10.com/detail/20251106031105540800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     },
@@ -106,19 +129,48 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 02时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "LME期铜收涨34美元，报10698美元/吨。 LME期铝收跌9美元，报2850美元/吨。 LME期锌收跌46美元，报3043美元/吨。 LME期铅收跌4美元，报2020美元/吨。 LME期镍收跌40美元，报15035美元/吨。 LME期锡收跌165美元，报35649美元/吨。 LME期钴收平，报48570美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3000054",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 02时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 03时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SK海力士拔得HBM4头筹：与英伟达谈拢 价格较上代涨50%",
+          "url": "https://www.cls.cn/detail/2192184",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "【电报解读】SK海力士向英伟达供应的HBM4较上代涨价50%！机构称国产HBM量产势在必行，上游设备材料或迎来扩产机遇，这家公司的薄膜沉积设备可以应用于高带宽存储芯片生产制造中",
+          "url": "https://api3.cls.cn/share/article/2192320?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     },
@@ -134,8 +186,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 02时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "截至9月底我国新型储能装机规模超1亿千瓦",
@@ -151,72 +203,20 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 2,
       "titles": [
         {
-          "title": "小米YU7全网首拆",
-          "url": "https://www.douyin.com/hot/2295268",
-          "source": "抖音",
+          "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
+          "url": "https://flash.jin10.com/detail/20251106031453898800",
+          "source": "金十数据",
           "ranks": [
-            1,
             2
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 02时53分]"
-        },
-        {
-          "title": "特朗普称股市将再创新高，纳指轻微高开，特斯拉涨超2%",
-          "url": "https://www.gelonghui.com/news/5112685",
-          "source": "格隆汇",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 02时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【电报解读】SK海力士向英伟达供应的HBM4较上代涨价50%！机构称国产HBM量产势在必行，上游设备材料或迎来扩产机遇，这家公司的薄膜沉积设备可以应用于高带宽存储芯片生产制造中",
-          "url": "https://api3.cls.cn/share/article/2192320?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宇树科技王兴兴：今年国内智能机器人平均每家公司增长应超50%-100%",
-          "url": "https://www.cls.cn/detail/2191948",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 02时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 1,
-      "titles": [
+          "time_info": "03时18分"
+        },
         {
           "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
           "url": "https://flash.jin10.com/detail/20251106010421100800",
@@ -233,6 +233,52 @@
       ]
     },
     {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米YU7全网首拆",
+          "url": "https://www.douyin.com/hot/2295268",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 03时18分]"
+        },
+        {
+          "title": "特朗普称股市将再创新高，纳指轻微高开，特斯拉涨超2%",
+          "url": "https://www.gelonghui.com/news/5112685",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 03时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宇树科技王兴兴：今年国内智能机器人平均每家公司增长应超50%-100%",
+          "url": "https://www.cls.cn/detail/2191948",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 03时18分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 1,
       "titles": [
@@ -242,11 +288,12 @@
           "source": "金十数据",
           "ranks": [
             8,
+            25,
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 02时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 03时18分]"
         }
       ]
     },
@@ -262,8 +309,25 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 02时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 03时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果(AAPL.O)新款Siri语音助手预计明年春季推出。",
+          "url": "https://flash.jin10.com/detail/20251106031651685800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     }
