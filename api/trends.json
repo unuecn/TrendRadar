@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T19:42:36.918668+08:00",
-  "total_titles_processed": 2009,
+  "generated_at": "2025-11-05T20:43:16.048649+08:00",
+  "total_titles_processed": 2105,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时26分 ~ 07时39分]"
+        },
+        {
+          "title": "科技股估值担忧冲击，全球股市抛售延续，避险情绪提振美债、黄金，比特币大跌后企稳",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时24分 ~ 20时42分]"
         },
         {
           "title": "比特币跌破103000美元",
@@ -53,17 +64,6 @@
           "time_info": "[01时16分 ~ 05时39分]"
         },
         {
-          "title": "科技股估值担忧冲击，全球股市抛售延续，避险情绪提振美债、黄金，比特币大跌后企稳",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时24分 ~ 19时42分]"
-        },
-        {
           "title": "币圈再度血流成河！比特币6月以来首次跌破10万大关，以太币暴跌10%",
           "url": "https://wallstreetcn.com/articles/3758675",
           "source": "华尔街见闻",
@@ -73,8 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[10时59分 ~ 19时42分]"
+          "appearance_count": 24,
+          "time_info": "[10时59分 ~ 20时42分]"
         },
         {
           "title": "比特币失守10万美元关口",
@@ -390,7 +390,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "中国完成全球首例远程机器人视网膜下注射手术",
@@ -472,11 +472,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 20时42分]"
         },
         {
           "title": "宇树科技王兴兴：智能体机器人当下及未来最关键的挑战仍在模型和数据",
@@ -590,6 +591,17 @@
           "time_info": "14时54分"
         },
         {
+          "title": "【风口研报·公司】风光储+AI数据中心+人形机器人，这家公司已进入宁德时代、阳光电源、台达产业链，目前产品出货量高速增长；这家铜产业链公司精铜自给率提升，明年业绩有望大幅增长100%以上",
+          "url": "https://api3.cls.cn/share/article/2191836?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "宇树科技王兴兴：预计今年国内智能机器人领域单家企业平均增长率在50%—100%",
           "url": "https://api3.cls.cn/share/article/2191686?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -623,6 +635,17 @@
           "time_info": "15时42分"
         },
         {
+          "title": "业内预测：明年人形机器人在工业领域会出现采购交付数量过万的企业",
+          "url": "https://wallstreetcn.com/livenews/2999885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "工信部姚佳：支持国内外企业开展联合攻关 推动人形机器人技术迭代",
           "url": "https://api3.cls.cn/share/article/2192002?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -637,7 +660,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "东亚机械(301028.SZ)：公司没有与特斯拉洽谈业务",
@@ -690,6 +713,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时16分 ~ 03时39分]"
+        },
+        {
+          "title": "比亚迪上月在英国的销量几乎达特斯拉的六倍",
+          "url": "https://wallstreetcn.com/livenews/2999908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "特斯拉CEO马斯克：AI6芯片将采用相同的晶圆厂，但性能将提升约2倍。",
@@ -778,12 +812,13 @@
           "url": "https://wallstreetcn.com/livenews/2999873",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            21,
             5,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 20时42分]"
         },
         {
           "title": "Maryland Pension将投票反对特斯拉针对马斯克的薪酬计划。",
@@ -1101,8 +1136,190 @@
       ]
     },
     {
+      "keyword_group": "储能",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "截至9月底我国新型储能装机规模超1亿千瓦",
+          "url": "https://api3.cls.cn/share/article/2191907?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
+        {
+          "title": "国家电网总工程师孟庆强：新型储能应用价值尚未充分挖掘",
+          "url": "https://api3.cls.cn/share/article/2192090?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 18时48分]"
+        },
+        {
+          "title": "麦格米特(002851.SZ)：此前已预判并加大了相关储能产品的研究投入",
+          "url": "https://www.gelonghui.com/news/5112228",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "创业板指涨幅扩大至1%，早盘一度跌超2%。沪指涨0.16%，深证成指涨0.33%。光伏储能板块持续拉升。",
+          "url": "https://wallstreetcn.com/livenews/2999646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18,
+            26,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 14时54分]"
+        },
+        {
+          "title": "储能概念股午后持续拉升 通润装备涨停",
+          "url": "https://api3.cls.cn/share/article/2191577?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 13时43分]"
+        },
+        {
+          "title": "新能源午后拉升，电网设备ETF、光伏ETF龙头涨超5%，储能电池ETF、科创新能源ETF涨超4%",
+          "url": "https://www.gelonghui.com/news/5112182",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 14时32分]"
+        },
+        {
+          "title": "国家能源局副局长宋宏坤：“十四五”以来 中国新型储能直接带动项目投资超两千亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/2999812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 18时48分]"
+        },
+        {
+          "title": "国家电网总工程师孟庆强：新型储能应用价值尚未充分挖掘",
+          "url": "https://wallstreetcn.com/livenews/2999862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 20时42分]"
+        },
+        {
+          "title": "截至9月底我国新型储能装机规模超1亿千瓦",
+          "url": "https://wallstreetcn.com/livenews/2999776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时22分]"
+        },
+        {
+          "title": "电网、储能概念涨势扩大 神马电力等十余股涨停",
+          "url": "https://api3.cls.cn/share/article/2191436?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "比亚迪：截至10月，公司新能源汽车动力电池及储能电池装机总量超230GWh",
+          "url": "https://wallstreetcn.com/livenews/2999907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "A股异动丨储能板块逆势走强，新能源市场化+容量电价推动迎来经济性拐点",
+          "url": "https://www.gelonghui.com/news/5112149",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "【机构龙虎榜解读】变压器+储能+数据中心，推出多种数据中心变压器产品和解决方案，储能一体机等已用于光伏储能系统并交付，美国变压器生产基地上月开业，这家公司获机构大额净买入",
+          "url": "https://api3.cls.cn/share/article/2192065?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
+          "url": "https://www.cls.cn/detail/2191989",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "【风口研报·公司】储能+AI数据中心+半导体芯片制造，这家公司切入宁德时代、阳光电源、海博思创等头部客户供应链，储能β与α共振驱动业绩超预期",
+          "url": "https://api3.cls.cn/share/article/2191475?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "苹果中国区收紧渠道：严禁线下经销商线上售产品，防止打乱价格体系",
@@ -1183,6 +1400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "美股盘前要点 | 今晚关注10月“小非农”就业数据，传苹果拟进军低价笔电市场",
+          "url": "https://www.gelonghui.com/news/5112643",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "苹果准备推出低成本笔记本电脑，抗衡Chromebook和Windows PC",
@@ -1284,167 +1512,8 @@
       ]
     },
     {
-      "keyword_group": "储能",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "截至9月底我国新型储能装机规模超1亿千瓦",
-          "url": "https://api3.cls.cn/share/article/2191907?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
-        },
-        {
-          "title": "国家电网总工程师孟庆强：新型储能应用价值尚未充分挖掘",
-          "url": "https://api3.cls.cn/share/article/2192090?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 18时48分]"
-        },
-        {
-          "title": "麦格米特(002851.SZ)：此前已预判并加大了相关储能产品的研究投入",
-          "url": "https://www.gelonghui.com/news/5112228",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "创业板指涨幅扩大至1%，早盘一度跌超2%。沪指涨0.16%，深证成指涨0.33%。光伏储能板块持续拉升。",
-          "url": "https://wallstreetcn.com/livenews/2999646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18,
-            26,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 14时54分]"
-        },
-        {
-          "title": "储能概念股午后持续拉升 通润装备涨停",
-          "url": "https://api3.cls.cn/share/article/2191577?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 13时43分]"
-        },
-        {
-          "title": "新能源午后拉升，电网设备ETF、光伏ETF龙头涨超5%，储能电池ETF、科创新能源ETF涨超4%",
-          "url": "https://www.gelonghui.com/news/5112182",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 14时32分]"
-        },
-        {
-          "title": "国家能源局副局长宋宏坤：“十四五”以来 中国新型储能直接带动项目投资超两千亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/2999812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            21,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 18时48分]"
-        },
-        {
-          "title": "截至9月底我国新型储能装机规模超1亿千瓦",
-          "url": "https://wallstreetcn.com/livenews/2999776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时22分]"
-        },
-        {
-          "title": "国家电网总工程师孟庆强：新型储能应用价值尚未充分挖掘",
-          "url": "https://wallstreetcn.com/livenews/2999862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时42分]"
-        },
-        {
-          "title": "电网、储能概念涨势扩大 神马电力等十余股涨停",
-          "url": "https://api3.cls.cn/share/article/2191436?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "A股异动丨储能板块逆势走强，新能源市场化+容量电价推动迎来经济性拐点",
-          "url": "https://www.gelonghui.com/news/5112149",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时47分"
-        },
-        {
-          "title": "【机构龙虎榜解读】变压器+储能+数据中心，推出多种数据中心变压器产品和解决方案，储能一体机等已用于光伏储能系统并交付，美国变压器生产基地上月开业，这家公司获机构大额净买入",
-          "url": "https://api3.cls.cn/share/article/2192065?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "【风口研报·公司】储能+AI数据中心+半导体芯片制造，这家公司切入宁德时代、阳光电源、海博思创等头部客户供应链，储能β与α共振驱动业绩超预期",
-          "url": "https://api3.cls.cn/share/article/2191475?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -1454,8 +1523,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[07时39分 ~ 19时42分]"
+          "appearance_count": 27,
+          "time_info": "[07时39分 ~ 20时42分]"
         },
         {
           "title": "Palantir CEO炮轰“大空头”：做空我们和英伟达“简直疯了”！",
@@ -1506,8 +1575,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[09时26分 ~ 19时42分]"
+          "appearance_count": 26,
+          "time_info": "[09时26分 ~ 20时42分]"
         },
         {
           "title": "11月5日投资避雷针：“大空头”Michael Burry做空Palantir和英伟达",
@@ -1535,8 +1604,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[09时26分 ~ 19时42分]"
+          "appearance_count": 26,
+          "time_info": "[09时26分 ~ 20时42分]"
         },
         {
           "title": "德赛西威(002920.SZ)：英伟达是公司核心供应商之一，在智驾业务上针对其不同芯片开发不同的解决方案",
@@ -1600,6 +1669,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时18分 ~ 19时42分]"
+        },
+        {
+          "title": "Palantir CEO怒怼“大空头”：做空英伟达和Palantir “简直是疯了”",
+          "url": "https://wallstreetcn.com/articles/3758668",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "Palantir的CEO Alex Karp反击，称“大空头”Michael Burry做空该公司和英伟达“是疯狂的”。",
@@ -2043,8 +2123,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[09时26分 ~ 19时42分]"
+          "appearance_count": 26,
+          "time_info": "[09时26分 ~ 20时42分]"
         },
         {
           "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
@@ -2099,6 +2179,46 @@
       ]
     },
     {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "SK海力士向英伟达供应的HBM4较上代涨价50%",
+          "url": "https://api3.cls.cn/share/article/2192149?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
+        },
+        {
+          "title": "财联社11月5日电，韩国存储芯片巨头SK海力士股价抹去了多达9.2%的跌幅。",
+          "url": "https://api3.cls.cn/share/article/2191535?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时45分]"
+        },
+        {
+          "title": "报道：SK海力士与英伟达谈判后宣布HBM4较前代产品涨价超50%",
+          "url": "https://wallstreetcn.com/livenews/2999890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
       "match_count": 3,
       "titles": [
@@ -2145,35 +2265,6 @@
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "SK海力士向英伟达供应的HBM4较上代涨价50%",
-          "url": "https://api3.cls.cn/share/article/2192149?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
-        },
-        {
-          "title": "财联社11月5日电，韩国存储芯片巨头SK海力士股价抹去了多达9.2%的跌幅。",
-          "url": "https://api3.cls.cn/share/article/2191535?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 12时45分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "消费电子 智能穿戴 智能座舱",
       "match_count": 2,
       "titles": [
@@ -2198,6 +2289,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "雷达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "和而泰(002402.SZ)：铖昌科技主营产品T/R芯片已批量应用于星载、地面、机载等相控阵雷达及卫星通信等领域",
+          "url": "https://www.gelonghui.com/news/5112645",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "和而泰：子公司的T/R芯片已批量应用于星载、地面、机载等相控阵雷达及卫星通信等领域",
+          "url": "https://api3.cls.cn/share/article/2192220?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
