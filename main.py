@@ -1249,13 +1249,11 @@ def count_word_frequency(
 from datetime import datetime
 
 def parse_time_str(time_str):
-    """解析时间字符串为 datetime 对象，用于时间倒序排序"""
     if not time_str:
         return datetime.min
     try:
         cleaned = time_str.replace("[", "").replace("]", "").replace("~", " ").strip()
         parts = cleaned.split()
-        # 取最后一个时间点作为最新
         last_time = parts[-1] if parts else "00:00"
         return datetime.strptime(last_time, "%H:%M")
     except Exception:
@@ -1265,10 +1263,10 @@ def parse_time_str(time_str):
 sorted_titles = sorted(
     all_titles,
     key=lambda x: (
-        -parse_time_str(x.get("time_display", "")),   # ✅ 新增：按时间倒序
-        -calculate_news_weight(x, rank_threshold),    # 其次按权重
-        min(x["ranks"]) if x["ranks"] else 999,       # 再按排名
-        -x["count"],                                  # 最后按出现次数
+        -parse_time_str(x.get("time_display", "")),   
+        -calculate_news_weight(x, rank_threshold),  
+        min(x["ranks"]) if x["ranks"] else 999,      
+        -x["count"],   
     ),
 )
 
