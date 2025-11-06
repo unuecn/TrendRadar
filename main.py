@@ -1262,7 +1262,7 @@ def count_word_frequency(
     sorted_titles = sorted(
         all_titles,
         key=lambda x: (
-            -parse_time_str(x.get("time_display", "")),   
+            parse_time_str(x.get("time_display", "")),   
             -calculate_news_weight(x, rank_threshold),  
             min(x["ranks"]) if x["ranks"] else 999,      
             -x["count"],   
