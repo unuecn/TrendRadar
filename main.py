@@ -1246,43 +1246,41 @@ def count_word_frequency(
         for source_id, title_list in data["titles"].items():
             all_titles.extend(title_list)
 
-from datetime import datetime
+    from datetime import datetime
 
-def parse_time_str(time_str):
-    if not time_str:
-        return datetime.min
-    try:
-        cleaned = time_str.replace("[", "").replace("]", "").replace("~", " ").strip()
-        parts = cleaned.split()
-        last_time = parts[-1] if parts else "00:00"
-        return datetime.strptime(last_time, "%H:%M")
-    except Exception:
-        return datetime.min
+    def parse_time_str(time_str):
+        if not time_str:
+            return datetime.min
+        try:
+            cleaned = time_str.replace("[", "").replace("]", "").replace("~", " ").strip()
+            parts = cleaned.split()
+            last_time = parts[-1] if parts else "00:00"
+            return datetime.strptime(last_time, "%H:%M")
+        except Exception:
+            return datetime.min
 
+    sorted_titles = sorted(
+        all_titles,
+        key=lambda x: (
+            -parse_time_str(x.get("time_display", "")),   
+            -calculate_news_weight(x, rank_threshold),  
+            min(x["ranks"]) if x["ranks"] else 999,      
+            -x["count"],   
+        ),
+    )
 
-sorted_titles = sorted(
-    all_titles,
-    key=lambda x: (
-        -parse_time_str(x.get("time_display", "")),   
-        -calculate_news_weight(x, rank_threshold),  
-        min(x["ranks"]) if x["ranks"] else 999,      
-        -x["count"],   
-    ),
-)
-
-
-        stats.append(
-            {
-                "word": group_key,
-                "count": data["count"],
-                "titles": sorted_titles,
-                "percentage": (
-                    round(data["count"] / total_titles * 100, 2)
-                    if total_titles > 0
-                    else 0
-                ),
-            }
-        )
+    stats.append(
+        {
+            "word": group_key,
+            "count": data["count"],
+            "titles": sorted_titles,
+            "percentage": (
+                round(data["count"] / total_titles * 100, 2)
+                if total_titles > 0
+                else 0
+            ),
+        }
+    )
 
     stats.sort(key=lambda x: x["count"], reverse=True)
     return stats, total_titles
