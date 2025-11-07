@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T14:54:18.706591+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2025-11-07T15:20:57.045542+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时39分 ~ 14时54分]"
+          "appearance_count": 13,
+          "time_info": "[07时39分 ~ 15时20分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -39,11 +39,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时44分 ~ 14时54分]"
+          "appearance_count": 10,
+          "time_info": "[11时44分 ~ 15时20分]"
         },
         {
           "title": "首程控股(00697.HK)：北京机器人基金和首新金安投资泉智博",
@@ -218,8 +219,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时26分 ~ 14时54分]"
+          "appearance_count": 12,
+          "time_info": "[09时26分 ~ 15时20分]"
         },
         {
           "title": "马斯克称特斯拉将于2026年4月初发布ROADSTER 2。 ROADSTER的生产将在12-18个月后开始",
@@ -424,11 +425,12 @@
             2,
             4,
             9,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 15时20分]"
         },
         {
           "title": "阿里巴巴集团CEO吴泳铭：实现“超级人工智能”还需要非常长的时间",
@@ -534,7 +536,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         }
@@ -542,7 +544,7 @@
     },
     {
       "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "多晶硅“收储”筹划半年未见具体方案 硅料价格底部反弹引入新变数",
@@ -590,6 +592,17 @@
           "time_info": "10时57分"
         },
         {
+          "title": "商品期货收盘，碳酸锂主力合约涨超3%，工业硅、尿素、对二甲苯、沪银、苹果、乙二醇涨超1%。沥青跌超2%，铁矿石、集运欧线、红枣、多晶硅跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3001033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "财联社11月7日电，碳酸锂期货主力合约涨超3%，报82320元/吨。",
           "url": "https://api3.cls.cn/share/article/2194046?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -599,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "国内商品期货收盘涨跌不一 碳酸锂涨超3%",
+          "url": "https://api3.cls.cn/share/article/2194121?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "商品期货开盘，集运欧线主力合约跌超2%，多晶硅、燃料油、沥青、LU燃油、铁矿石跌超1%。尿素、乙二醇、菜籽油涨超1%。",
@@ -623,13 +647,24 @@
           "time_info": "09时26分"
         },
         {
+          "title": "午盘收盘，国内期货主力合约涨跌互现，碳酸锂涨超3%，工业硅、尿素、对二甲苯、沪银、苹果、乙二醇涨超1%。跌幅方面，沥青跌超2%，铁矿石、集运欧线、红枣、多晶硅跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251107150035567800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "富宝资讯：碳酸锂期货盘面略偏强震荡，富宝碳酸锂社会总库存12.35万吨，环减1.5%",
           "url": "https://flash.jin10.com/detail/20251107142719698800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         }
@@ -646,11 +681,12 @@
           "ranks": [
             4,
             7,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 15时20分]"
         },
         {
           "title": "美国传阻止英伟达向中国出售缩减版AI晶片",
@@ -659,11 +695,12 @@
           "ranks": [
             10,
             13,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 15时20分]"
         },
         {
           "title": "报道称黄仁勋今日将参观台积电3纳米工厂",
@@ -707,7 +744,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -718,7 +755,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -748,8 +785,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时39分 ~ 14时54分]"
+          "appearance_count": 13,
+          "time_info": "[07时39分 ~ 15时20分]"
         },
         {
           "title": "AH股强势收涨，沪指重返4000点，创业板涨1.8%，算力硬件产业链爆发，恒指涨超2%，机械、有色金属、半导体领涨",
@@ -759,8 +796,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 14时54分]"
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 15时20分]"
         },
         {
           "title": "电力短缺成AI算力扩张新瓶颈！光伏ETF龙头(560980)、电网ETF(159320)逆势上涨，年内大幅跑赢同赛道",
@@ -857,7 +894,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -887,8 +924,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时39分 ~ 14时54分]"
+          "appearance_count": 13,
+          "time_info": "[07时39分 ~ 15时20分]"
         },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -899,8 +936,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时57分 ~ 14时54分]"
+          "appearance_count": 11,
+          "time_info": "[10时57分 ~ 15时20分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -913,8 +950,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时57分 ~ 14时54分]"
+          "appearance_count": 11,
+          "time_info": "[10时57分 ~ 15时20分]"
         },
         {
           "title": "财联社11月7日电，在当地时间11月6日播出的一档播客节目中，OpenAI CEO山姆·奥特曼确认，与上一代相比，GPT-6将实现“质的飞跃”。它能够实现类似于早期模型做图灵测试任务上的跨越。",
@@ -923,7 +960,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         }
@@ -1034,6 +1071,84 @@
       ]
     },
     {
+      "keyword_group": "储能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "三力士(002224.SZ)：MSR公司已在欧洲开展储能电站EPC业务",
+          "url": "https://www.gelonghui.com/news/5113717",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "维峰电子(301328.SZ)：公司生产的排针等连接器产品均可用于储能领域",
+          "url": "https://www.gelonghui.com/news/5113715",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "截至9月底我国新型储能装机规模超1亿千瓦",
+          "url": "https://wallstreetcn.com/livenews/3000877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月07日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、保险、酿酒、证券板块涨跌不一，消费电子、通信设备股走低",
+          "url": "https://flash.jin10.com/detail/20251107113313711800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 12时46分]"
+        },
+        {
+          "title": "深康佳Ａ(000016.SZ)：目前本公司的消费电子业务主要以ODM业务方式进入台湾市场",
+          "url": "https://www.gelonghui.com/news/5113710",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "港股异动丨佑驾创新高开4.3% 获全球车企定点 智能座舱2026年量产",
+          "url": "https://www.gelonghui.com/news/5113619",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "量子科技 量子计算 量子通信",
       "match_count": 3,
       "titles": [
@@ -1085,8 +1200,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时39分 ~ 14时54分]"
+          "appearance_count": 13,
+          "time_info": "[07时39分 ~ 15时20分]"
         },
         {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
@@ -1150,39 +1265,12 @@
           "url": "https://wallstreetcn.com/livenews/3001008",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费电子 智能穿戴 智能座舱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月07日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、保险、酿酒、证券板块涨跌不一，消费电子、通信设备股走低",
-          "url": "https://flash.jin10.com/detail/20251107113313711800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 12时46分]"
-        },
-        {
-          "title": "港股异动丨佑驾创新高开4.3% 获全球车企定点 智能座舱2026年量产",
-          "url": "https://www.gelonghui.com/news/5113619",
-          "source": "格隆汇",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 15时20分]"
         }
       ]
     },
@@ -1215,19 +1303,19 @@
       ]
     },
     {
-      "keyword_group": "储能",
+      "keyword_group": "液冷",
       "match_count": 1,
       "titles": [
         {
-          "title": "截至9月底我国新型储能装机规模超1亿千瓦",
-          "url": "https://wallstreetcn.com/livenews/3000877",
-          "source": "华尔街见闻-快讯",
+          "title": "高澜股份(300499.SZ)：已为第三代核电变频器提供液冷产品",
+          "url": "https://www.gelonghui.com/news/5113711",
+          "source": "格隆汇",
           "ranks": [
-            16
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "15时20分"
         }
       ]
     },
