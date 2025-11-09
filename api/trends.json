@@ -1,54 +1,11 @@
 {
-  "generated_at": "2025-11-09T13:42:33.284505+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2025-11-09T14:28:41.438919+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "蚂蚁集团骆骥：蚂蚁已部署万卡规模国产算力群，全面应用于安全及风控",
-          "url": "https://wallstreetcn.com/livenews/3001569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            22,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 05时16分]"
-        },
-        {
-          "title": "【研选】马斯克预计FSD有望明年初在华全面获批；公司持续推进AIDC战略合作，打造“垃圾焚烧发电+智算中心”",
-          "url": "https://api3.cls.cn/share/article/2193791?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时42分]"
-        },
-        {
-          "title": "数字长三角发展报告：嘉兴已建成浙江省首个“万卡”算力集群",
-          "url": "https://wallstreetcn.com/livenews/3001547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时39分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "浙江人工智能核心产业营业收入4944亿元",
@@ -83,6 +40,17 @@
           "time_info": "[09时29分 ~ 12时43分]"
         },
         {
+          "title": "2013年诺贝尔化学奖获得者莱维特：人工智能的关键在于人类需要提出正确的问题",
+          "url": "https://api3.cls.cn/share/article/2195149?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "截至今年9月浙江人工智能核心产业营业收入4944亿元 同比增长22%",
           "url": "https://api3.cls.cn/share/article/2195081?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -93,6 +61,93 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时29分 ~ 11时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "蚂蚁集团骆骥：蚂蚁已部署万卡规模国产算力群，全面应用于安全及风控",
+          "url": "https://wallstreetcn.com/livenews/3001569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            22,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 05时16分]"
+        },
+        {
+          "title": "【研选】马斯克预计FSD有望明年初在华全面获批；公司持续推进AIDC战略合作，打造“垃圾焚烧发电+智算中心”",
+          "url": "https://api3.cls.cn/share/article/2193791?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时28分]"
+        },
+        {
+          "title": "数字长三角发展报告：嘉兴已建成浙江省首个“万卡”算力集群",
+          "url": "https://wallstreetcn.com/livenews/3001547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 01时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "从展厅到工厂，人形机器人如何跨越规模交付瓶颈？明年是关键期｜进博会观察",
+          "url": "https://www.cls.cn/detail/2194894",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 32,
+          "time_info": "[00时21分 ~ 14时28分]"
+        },
+        {
+          "title": "国内机器人走出惊艳“猫步”引发热议，专家解读：是不是越像人越好？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31921547",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 07时38分]"
+        },
+        {
+          "title": "【电报解读】宇树科技王兴兴未称来两年人形机器人有望迎更多惊喜，机构看好该细分领域2030年或将新增数百亿级别的市场空间，这家公司有两款产品通过客户试验，并正在配套客户同步开发中",
+          "url": "https://api3.cls.cn/share/article/2195127?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
@@ -110,8 +165,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 13时42分]"
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 14时28分]"
         },
         {
           "title": "黄仁勋出席台积电运动会：Blackwell需求强劲",
@@ -132,8 +187,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时04分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[11时04分 ~ 14时28分]"
         }
       ]
     },
@@ -150,8 +205,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时21分 ~ 13时42分]"
+          "appearance_count": 32,
+          "time_info": "[00时21分 ~ 14时28分]"
         },
         {
           "title": "摩根大通入股以太坊储备龙头Bitmine 持仓市值1.02亿美元",
@@ -162,8 +217,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时21分 ~ 13时42分]"
+          "appearance_count": 32,
+          "time_info": "[00时21分 ~ 14时28分]"
         },
         {
           "title": "以太坊2500万美元诈骗案陪审团未达共识 麻省理工兄弟庭审无效",
@@ -173,40 +228,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时57分 ~ 13时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "从展厅到工厂，人形机器人如何跨越规模交付瓶颈？明年是关键期｜进博会观察",
-          "url": "https://www.cls.cn/detail/2194894",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时21分 ~ 13时42分]"
-        },
-        {
-          "title": "国内机器人走出惊艳“猫步”引发热议，专家解读：是不是越像人越好？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31921547",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时21分 ~ 07时38分]"
+          "appearance_count": 7,
+          "time_info": "[11时57分 ~ 14时28分]"
         }
       ]
     },
@@ -223,8 +246,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时21分 ~ 13时42分]"
+          "appearance_count": 32,
+          "time_info": "[00时21分 ~ 14时28分]"
         },
         {
           "title": "国金证券：固态电池技术突破与储能需求爆发，全面看好锂电产业链",
@@ -242,8 +265,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 13时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 14时28分]"
         }
       ]
     },
@@ -273,11 +296,12 @@
           "url": "https://api3.cls.cn/share/article/2195151?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 14时28分]"
         }
       ]
     },
@@ -322,8 +346,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时21分 ~ 13时42分]"
+          "appearance_count": 32,
+          "time_info": "[00时21分 ~ 14时28分]"
         }
       ]
     },
@@ -341,8 +365,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 13时42分]"
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 14时28分]"
         }
       ]
     },
@@ -398,8 +422,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[01时16分 ~ 13时42分]"
+          "appearance_count": 29,
+          "time_info": "[01时16分 ~ 14时28分]"
         }
       ]
     },
@@ -416,8 +440,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时21分 ~ 13时42分]"
+          "appearance_count": 32,
+          "time_info": "[00时21分 ~ 14时28分]"
         }
       ]
     },
