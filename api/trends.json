@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T22:18:18.059515+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2025-11-09T22:38:54.636481+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时04分 ~ 22时18分]"
+          "appearance_count": 27,
+          "time_info": "[11时04分 ~ 22时38分]"
         },
         {
           "title": "周末要闻汇总：福建舰部署三亚军港；黄仁勋亲赴台积电“讨要更多芯片”",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时18分 ~ 22时18分]"
+          "appearance_count": 10,
+          "time_info": "[18时18分 ~ 22时38分]"
         },
         {
           "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
@@ -44,8 +44,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时04分 ~ 22时18分]"
+          "appearance_count": 19,
+          "time_info": "[11时04分 ~ 22时38分]"
         },
         {
           "title": "黄仁勋出席台积电运动会：Blackwell需求强劲",
@@ -104,6 +104,19 @@
           "time_info": "[00时22分 ~ 05时16分]"
         },
         {
+          "title": "从算力到电力，中国资产重定价",
+          "url": "https://wallstreetcn.com/articles/3758991",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时14分 ~ 22时38分]"
+        },
+        {
           "title": "【研选】马斯克预计FSD有望明年初在华全面获批；公司持续推进AIDC战略合作，打造“垃圾焚烧发电+智算中心”",
           "url": "https://api3.cls.cn/share/article/2193791?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -117,19 +130,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时18分 ~ 15时39分]"
-        },
-        {
-          "title": "从算力到电力，中国资产重定价",
-          "url": "https://wallstreetcn.com/articles/3758991",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时14分 ~ 22时18分]"
         },
         {
           "title": "数字长三角发展报告：嘉兴已建成浙江省首个“万卡”算力集群",
@@ -208,8 +208,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时25分 ~ 22时18分]"
+          "appearance_count": 4,
+          "time_info": "[21时25分 ~ 22时38分]"
         }
       ]
     },
@@ -407,6 +407,103 @@
       ]
     },
     {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "以太坊2500万美元诈骗案陪审团未达共识 麻省理工兄弟庭审无效",
+          "url": "https://www.gelonghui.com/news/5114446",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时57分 ~ 15时39分]"
+        },
+        {
+          "title": "比特币跌破102000美元",
+          "url": "https://www.gelonghui.com/news/5114426",
+          "source": "格隆汇",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 35,
+          "time_info": "[00时21分 ~ 15时39分]"
+        },
+        {
+          "title": "摩根大通入股以太坊储备龙头Bitmine 持仓市值1.02亿美元",
+          "url": "https://www.gelonghui.com/news/5114425",
+          "source": "格隆汇",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 35,
+          "time_info": "[00时21分 ~ 15时39分]"
+        },
+        {
+          "title": "以太坊向上触及3500美元",
+          "url": "https://www.gelonghui.com/news/5114474",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "闪迪11月大幅调涨NAND闪存合约价格 涨幅高达50%",
+          "url": "https://api3.cls.cn/share/article/2195269?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5,
+            7,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 21时25分]"
+        },
+        {
+          "title": "【电报解读】涨幅高达50%！闪迪11月大幅调涨NAND闪存合约价格，业内预计2026年数据中心市场将首次成为NAND闪存最大的市场，这家公司自研的小容量存储芯片累计出货量已远超 5000万颗",
+          "url": "https://api3.cls.cn/share/article/2195308?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "涨幅高达50%！闪存龙头最新合约价暴涨 带动模组厂暂停出货报价",
+          "url": "https://www.cls.cn/detail/2195262",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时36分 ~ 22时38分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "储能",
       "match_count": 3,
       "titles": [
@@ -446,85 +543,12 @@
           "url": "https://api3.cls.cn/share/article/2195313?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "以太坊2500万美元诈骗案陪审团未达共识 麻省理工兄弟庭审无效",
-          "url": "https://www.gelonghui.com/news/5114446",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时57分 ~ 15时39分]"
-        },
-        {
-          "title": "比特币跌破102000美元",
-          "url": "https://www.gelonghui.com/news/5114426",
-          "source": "格隆汇",
-          "ranks": [
-            4,
+            1,
             5
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时21分 ~ 15时39分]"
-        },
-        {
-          "title": "摩根大通入股以太坊储备龙头Bitmine 持仓市值1.02亿美元",
-          "url": "https://www.gelonghui.com/news/5114425",
-          "source": "格隆汇",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时21分 ~ 15时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "闪迪11月大幅调涨NAND闪存合约价格 涨幅高达50%",
-          "url": "https://api3.cls.cn/share/article/2195269?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5,
-            7,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 21时25分]"
-        },
-        {
-          "title": "涨幅高达50%！闪存龙头最新合约价暴涨 带动模组厂暂停出货报价",
-          "url": "https://www.cls.cn/detail/2195262",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 22时18分]"
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时38分]"
         }
       ]
     },
@@ -599,8 +623,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时17分 ~ 22时18分]"
+          "appearance_count": 13,
+          "time_info": "[17时17分 ~ 22时38分]"
         }
       ]
     },
