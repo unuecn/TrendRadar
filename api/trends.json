@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T11:04:44.252848+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2025-11-09T11:57:26.355746+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 11时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 11时57分]"
         },
         {
           "title": "截至今年9月浙江人工智能核心产业营业收入4944亿元 同比增长22%",
@@ -71,11 +72,12 @@
           "url": "https://wallstreetcn.com/articles/3758976",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 11时57分]"
         },
         {
           "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
@@ -84,9 +86,50 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 11时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "比特币跌破102000美元",
+          "url": "https://www.gelonghui.com/news/5114426",
+          "source": "格隆汇",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 11时57分]"
+        },
+        {
+          "title": "摩根大通入股以太坊储备龙头Bitmine 持仓市值1.02亿美元",
+          "url": "https://www.gelonghui.com/news/5114425",
+          "source": "格隆汇",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 11时57分]"
+        },
+        {
+          "title": "以太坊2500万美元诈骗案陪审团未达共识 麻省理工兄弟庭审无效",
+          "url": "https://www.gelonghui.com/news/5114446",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时04分"
+          "time_info": "11时57分"
         }
       ]
     },
@@ -134,8 +177,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时21分 ~ 11时04分]"
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 11时57分]"
         },
         {
           "title": "国内机器人走出惊艳“猫步”引发热议，专家解读：是不是越像人越好？",
@@ -161,11 +204,12 @@
           "url": "https://www.gelonghui.com/news/5114428",
           "source": "格隆汇",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时21分 ~ 11时04分]"
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 11时57分]"
         },
         {
           "title": "国金证券：固态电池技术突破与储能需求爆发，全面看好锂电产业链",
@@ -180,8 +224,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 11时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 11时57分]"
         }
       ]
     },
@@ -214,34 +258,6 @@
       ]
     },
     {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "比特币跌破102000美元",
-          "url": "https://www.gelonghui.com/news/5114426",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时21分 ~ 11时04分]"
-        },
-        {
-          "title": "摩根大通入股以太坊储备龙头Bitmine 持仓市值1.02亿美元",
-          "url": "https://www.gelonghui.com/news/5114425",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时21分 ~ 11时04分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 美股 美元",
       "match_count": 1,
       "titles": [
@@ -250,11 +266,12 @@
           "url": "https://www.gelonghui.com/news/5114422",
           "source": "格隆汇",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时21分 ~ 11时04分]"
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 11时57分]"
         }
       ]
     },
@@ -269,9 +286,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 11时57分]"
         }
       ]
     },
@@ -328,11 +345,12 @@
           "source": "财联社电报",
           "ranks": [
             3,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 11时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 11时57分]"
         }
       ]
     },
@@ -345,11 +363,12 @@
           "url": "https://www.gelonghui.com/news/5114442",
           "source": "格隆汇",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时16分 ~ 11时04分]"
+          "appearance_count": 23,
+          "time_info": "[01时16分 ~ 11时57分]"
         }
       ]
     },
@@ -362,11 +381,12 @@
           "url": "https://www.gelonghui.com/news/5114423",
           "source": "格隆汇",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时21分 ~ 11时04分]"
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 11时57分]"
         }
       ]
     },
@@ -385,8 +405,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时21分 ~ 11时04分]"
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 11时57分]"
         }
       ]
     }
