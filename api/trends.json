@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T13:18:47.962333+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2025-11-09T13:42:33.284505+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://api3.cls.cn/share/article/2193791?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 13时42分]"
         },
         {
           "title": "数字长三角发展报告：嘉兴已建成浙江省首个“万卡”算力集群",
@@ -100,17 +101,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "黄仁勋出席台积电运动会：Blackwell需求强劲",
-          "url": "https://www.zaochenbao.com/news/taiwan/202511/0856830.html",
-          "source": "早报",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时21分 ~ 07时38分]"
-        },
-        {
           "title": "黄仁勋亲赴台积电“要产能”，称“没有台积电、就没有英伟达”",
           "url": "https://wallstreetcn.com/articles/3758976",
           "source": "华尔街见闻",
@@ -120,8 +110,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时04分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[11时04分 ~ 13时42分]"
+        },
+        {
+          "title": "黄仁勋出席台积电运动会：Blackwell需求强劲",
+          "url": "https://www.zaochenbao.com/news/taiwan/202511/0856830.html",
+          "source": "早报",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 07时38分]"
         },
         {
           "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
@@ -149,8 +150,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 31,
+          "time_info": "[00时21分 ~ 13时42分]"
         },
         {
           "title": "摩根大通入股以太坊储备龙头Bitmine 持仓市值1.02亿美元",
@@ -161,8 +162,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 31,
+          "time_info": "[00时21分 ~ 13时42分]"
         },
         {
           "title": "以太坊2500万美元诈骗案陪审团未达共识 麻省理工兄弟庭审无效",
@@ -172,8 +173,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 13时42分]"
         }
       ]
     },
@@ -187,11 +188,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 31,
+          "time_info": "[00时21分 ~ 13时42分]"
         },
         {
           "title": "国内机器人走出惊艳“猫步”引发热议，专家解读：是不是越像人越好？",
@@ -221,8 +223,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 31,
+          "time_info": "[00时21分 ~ 13时42分]"
         },
         {
           "title": "国金证券：固态电池技术突破与储能需求爆发，全面看好锂电产业链",
@@ -236,11 +238,46 @@
             30,
             7,
             8,
-            11
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 13时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华为新款非凡探索手表WATCH Ultimate 2将于11月发布，首创腕部设备卫星语音短信能力，售价6499元起。",
+          "url": "https://wallstreetcn.com/livenews/3001594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            7,
+            14,
+            16,
+            17,
+            23
           ],
           "is_new": false,
           "appearance_count": 17,
-          "time_info": "[00时22分 ~ 13时18分]"
+          "time_info": "[00时22分 ~ 09时30分]"
+        },
+        {
+          "title": "我国成功发射试验三十二号卫星01星、02星、03星",
+          "url": "https://api3.cls.cn/share/article/2195151?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         }
       ]
     },
@@ -285,8 +322,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 31,
+          "time_info": "[00时21分 ~ 13时42分]"
         }
       ]
     },
@@ -300,11 +337,12 @@
           "source": "早报",
           "ranks": [
             9,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时04分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[11时04分 ~ 13时42分]"
         }
       ]
     },
@@ -325,29 +363,6 @@
           "is_new": false,
           "appearance_count": 25,
           "time_info": "[00时21分 ~ 11时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为新款非凡探索手表WATCH Ultimate 2将于11月发布，首创腕部设备卫星语音短信能力，售价6499元起。",
-          "url": "https://wallstreetcn.com/livenews/3001594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            7,
-            14,
-            16,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 09时30分]"
         }
       ]
     },
@@ -383,8 +398,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[01时16分 ~ 13时18分]"
+          "appearance_count": 28,
+          "time_info": "[01时16分 ~ 13时42分]"
         }
       ]
     },
@@ -401,8 +416,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 31,
+          "time_info": "[00时21分 ~ 13时42分]"
         }
       ]
     },
@@ -422,8 +437,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 31,
+          "time_info": "[00时21分 ~ 13时42分]"
         }
       ]
     }
