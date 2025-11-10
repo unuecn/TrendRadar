@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T05:19:16.705183+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2025-11-11T05:41:48.304620+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 05时41分]"
         },
         {
           "title": "美国政府有望结束停摆 美股集体高开 英伟达涨近4%",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 05时41分]"
         },
         {
           "title": "台积电10月营收增速放缓 AI热潮可持续性再受质疑",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时28分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[02时28分 ~ 05时41分]"
         },
         {
           "title": "市场消息：英伟达(NVDA.O)与墨西哥数据中心运营商达成合作，将投资200万至400万美元用于建设数据中心。",
@@ -54,37 +54,39 @@
           "time_info": "[03时16分 ~ 04时45分]"
         },
         {
-          "title": "纳指收涨超2% 英伟达涨超5%",
-          "url": "https://api3.cls.cn/share/article/2196540?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "英伟达收涨5.8%，创4月份以来最大单日涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3002330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
           "title": "标普500指数初步收涨1.5%，科技、电信板块涨超2%，可选消费、原材料板块涨超1%，日用品板块跌0.3%。 纳斯达克100指数初步收2.2%，成分股中，Palantir涨8.7%，美光科技涨6.6%，英伟达涨5.7%，Applovin涨5.1%，AMD在投资者日活动前夕涨4.5%，谷歌A涨4%，星巴克跌0.8%，Strategy跌1%，亿滋国际跌1.5%，Axon跌3%，特许通讯跌4%。 英伟达、微软、3M、亚马逊、IBM、卡特彼勒、思科、高盛等至少涨超1%，在道指成分股领跑，耐克则跌0.6%，联合健康跌0.8%，宝洁跌1.1%。",
           "url": "https://wallstreetcn.com/livenews/3002328",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "纳指收涨超2% 英伟达涨超5%",
+          "url": "https://api3.cls.cn/share/article/2196540?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时41分]"
+        },
+        {
+          "title": "英伟达收涨5.8%，创4月份以来最大单日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3002330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时41分]"
         },
         {
           "title": "纳指涨超2%，纳斯达克100指数成分股Palantir涨7.1%，美光科技涨6.9%，Applovin涨6.3%，AMD涨5.5%，英伟达涨3.8%，谷歌A涨3.5%，特许通讯仍然跌2.4%，Axon跌3.2%。 标普涨1.1%，道指涨0.3%，半导体指数涨2.7%。",
@@ -117,6 +119,21 @@
           "time_info": "[02时50分 ~ 04时45分]"
         },
         {
+          "title": "先锋领航三季度增持特斯拉 减持苹果",
+          "url": "https://wallstreetcn.com/livenews/3002306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            12,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时39分 ~ 05时41分]"
+        },
+        {
           "title": "富国银行：特斯拉10月份交付数据显示疲软迹象。",
           "url": "https://flash.jin10.com/detail/20251111030154714800",
           "source": "金十数据",
@@ -129,30 +146,17 @@
           "time_info": "[03时16分 ~ 04时45分]"
         },
         {
-          "title": "先锋领航三季度增持特斯拉 减持苹果",
-          "url": "https://wallstreetcn.com/livenews/3002306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时39分 ~ 05时19分]"
-        },
-        {
           "title": "富国银行：特斯拉10月销量各地均大幅下滑",
           "url": "https://api3.cls.cn/share/article/2196536?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             2,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时19分]"
+          "appearance_count": 3,
+          "time_info": "[04时45分 ~ 05时41分]"
         },
         {
           "title": "富国银行：特斯拉10月销量各地均大幅下滑",
@@ -160,11 +164,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时19分]"
+          "appearance_count": 3,
+          "time_info": "[04时45分 ~ 05时41分]"
         },
         {
           "title": "先锋领航三季度增持特斯拉 减持苹果",
@@ -191,8 +196,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 05时41分]"
         },
         {
           "title": "下午察：当机器人变得太像人",
@@ -202,8 +207,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 05时41分]"
         },
         {
           "title": "马斯克承诺明年实现特斯拉人形机器人量产",
@@ -213,8 +218,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 05时41分]"
         },
         {
           "title": "全运会开幕式人形机器人奏响千年青铜礼乐",
@@ -224,8 +229,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 05时41分]"
         },
         {
           "title": "智元机器人完成股改，即将开启上市之路？",
@@ -252,11 +257,12 @@
             2,
             5,
             8,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时39分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[03时39分 ~ 05时41分]"
         },
         {
           "title": "道指转跌，成分股家得宝、Salesforce、美国运通、宝洁、雪佛龙、可口可乐、联合健康、波音目前至多跌2%，苹果、3M、亚马逊、高盛、思科、微软、英伟达目前仍然至少涨超0.6%。",
@@ -401,8 +407,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 05时41分]"
         },
         {
           "title": "美股异动丨闪迪涨超8%创新高 据称11月大幅调涨NAND闪存合约价格引发供应链震动",
@@ -412,8 +418,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 05时41分]"
         }
       ]
     },
@@ -429,8 +435,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 05时41分]"
         }
       ]
     },
@@ -446,8 +452,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 05时41分]"
         }
       ]
     },
@@ -463,8 +469,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 05时41分]"
         }
       ]
     }
