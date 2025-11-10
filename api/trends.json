@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T16:52:09.512190+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2025-11-10T17:24:40.784759+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
@@ -206,8 +206,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时21分 ~ 16时52分]"
+          "appearance_count": 36,
+          "time_info": "[00时21分 ~ 17时24分]"
         },
         {
           "title": "松延动力小诺队夺首届中国机器人辩论大赛冠军",
@@ -218,8 +218,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时20分 ~ 16时52分]"
+          "appearance_count": 9,
+          "time_info": "[13时20分 ~ 17时24分]"
         },
         {
           "title": "京东全球首个智能物流机器人超级工厂落户无锡",
@@ -243,8 +243,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[16时51分 ~ 17时24分]"
         },
         {
           "title": "中亦科技(301208.SZ)：暂未涉及人形机器人业务",
@@ -263,11 +263,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时40分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[15时40分 ~ 17时24分]"
         },
         {
           "title": "松霖科技(603992.SH)：做IDM模式下的消费级机器人，通过海外头部品牌客户销售",
@@ -363,7 +364,7 @@
     },
     {
       "keyword_group": "比特币 以太坊",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "比特币突破104000美元",
@@ -470,8 +471,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[16时51分 ~ 17时24分]"
         },
         {
           "title": "比特币向上触及106000美元/枚",
@@ -485,6 +486,17 @@
           "time_info": "[09时29分 ~ 09时30分]"
         },
         {
+          "title": "财联社11月10日电，比特币重返10.6万美元，以太币一度站上3600美元。加密货币概念股盘前齐升，IREN、BMNR涨超7%，Circle、MARA涨近4%，Coinbase、Strategy涨超3%。",
+          "url": "https://api3.cls.cn/share/article/2196096?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "比特币升破106000美元。以太坊升破3600美元。",
           "url": "https://wallstreetcn.com/livenews/3001801",
           "source": "华尔街见闻-快讯",
@@ -494,6 +506,120 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "周末要闻汇总：福建舰部署三亚军港；黄仁勋亲赴台积电“讨要更多芯片”",
+          "url": "https://www.cls.cn/detail/2195166",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时21分 ~ 11时10分]"
+        },
+        {
+          "title": "黄仁勋亲赴台积电“要产能”，称“没有台积电、就没有英伟达”",
+          "url": "https://wallstreetcn.com/articles/3758976",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 06时40分]"
+        },
+        {
+          "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
+          "url": "https://www.cls.cn/detail/2195053",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 07时40分]"
+        },
+        {
+          "title": "台积电：10月销售额3,674.7亿元台币，同比增长16.9%。",
+          "url": "https://wallstreetcn.com/livenews/3001949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 15时40分]"
+        },
+        {
+          "title": "台积电10月营收3674.7亿元新台币 同比增长16.9%",
+          "url": "https://flash.jin10.com/detail/20251110133524037800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时33分]"
+        },
+        {
+          "title": "台积电10月销售额环比增长11.0% 同比增长16.9%",
+          "url": "https://api3.cls.cn/share/article/2195718?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时33分]"
+        },
+        {
+          "title": "台积电：10月营收3674.7亿元新台币，同比增长17%。",
+          "url": "https://flash.jin10.com/detail/20251110133056271800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时33分]"
+        },
+        {
+          "title": "财联社11月10日电，美股期货继续走高，纳斯达克100指数期货涨1.50%，道琼斯指数期货涨0.39%，标普500指数期货涨0.92%。英伟达盘前涨3.2%。",
+          "url": "https://api3.cls.cn/share/article/2196102?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3002065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
@@ -619,8 +745,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时21分 ~ 16时52分]"
+          "appearance_count": 36,
+          "time_info": "[00时21分 ~ 17时24分]"
         },
         {
           "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
@@ -646,11 +772,12 @@
             12,
             11,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时02分 ~ 16时52分]"
+          "appearance_count": 12,
+          "time_info": "[12时02分 ~ 17时24分]"
         },
         {
           "title": "创业板指跌超2%，沪指跌0.1%，深成指跌0.64%，算力硬件、机器人、量子科技、消费电子等方向跌幅居前，沪深京三市下跌个股近2300只。",
@@ -666,6 +793,19 @@
           "time_info": "[11时10分 ~ 12时48分]"
         },
         {
+          "title": "中贝通信：与弘信电子签订《算力综合服务框架协议》，拟与公司合作开展算力资源服务业务合作。本次算力综合服务金额为10亿元，期限为协议生效后60个月。",
+          "url": "https://wallstreetcn.com/livenews/3002033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 17时24分]"
+        },
+        {
           "title": "国芯科技(688262.SH)：公司在NPU领域和香港应科院合作",
           "url": "https://www.gelonghui.com/news/5114809",
           "source": "格隆汇",
@@ -674,18 +814,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时28分 ~ 16时52分]"
-        },
-        {
-          "title": "中贝通信：与弘信电子签订《算力综合服务框架协议》，拟与公司合作开展算力资源服务业务合作。本次算力综合服务金额为10亿元，期限为协议生效后60个月。",
-          "url": "https://wallstreetcn.com/livenews/3002033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
           "time_info": "[16时28分 ~ 16时52分]"
         },
         {
@@ -790,100 +918,8 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "周末要闻汇总：福建舰部署三亚军港；黄仁勋亲赴台积电“讨要更多芯片”",
-          "url": "https://www.cls.cn/detail/2195166",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时21分 ~ 11时10分]"
-        },
-        {
-          "title": "黄仁勋亲赴台积电“要产能”，称“没有台积电、就没有英伟达”",
-          "url": "https://wallstreetcn.com/articles/3758976",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 06时40分]"
-        },
-        {
-          "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
-          "url": "https://www.cls.cn/detail/2195053",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 07时40分]"
-        },
-        {
-          "title": "台积电：10月销售额3,674.7亿元台币，同比增长16.9%。",
-          "url": "https://wallstreetcn.com/livenews/3001949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 15时40分]"
-        },
-        {
-          "title": "台积电10月营收3674.7亿元新台币 同比增长16.9%",
-          "url": "https://flash.jin10.com/detail/20251110133524037800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时33分]"
-        },
-        {
-          "title": "台积电10月销售额环比增长11.0% 同比增长16.9%",
-          "url": "https://api3.cls.cn/share/article/2195718?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时33分]"
-        },
-        {
-          "title": "台积电：10月营收3674.7亿元新台币，同比增长17%。",
-          "url": "https://flash.jin10.com/detail/20251110133056271800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时33分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "财联社11月10日电，美国视频平台及云服务提供商Rumble据称正在推进对德国人工智能云公司Northern Data的全股票收购。",
@@ -961,6 +997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "国家发改委等部门：拓展物联网、云计算、大数据、人工智能、区块链等技术在物流领域的规模化应用",
+          "url": "https://wallstreetcn.com/livenews/3002060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
@@ -976,11 +1023,12 @@
             11,
             8,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时02分 ~ 16时52分]"
+          "appearance_count": 12,
+          "time_info": "[12时02分 ~ 17时24分]"
         },
         {
           "title": "ST逸飞(688646.SH)：积极开展固态电池新型封装设备以及激光技术在固态电池制造应用的研发",
@@ -1121,6 +1169,46 @@
       ]
     },
     {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "部分产品进入了特斯拉Optimus供应链，2025年订单预期达500吨？吉林化纤回应",
+          "url": "https://api3.cls.cn/share/article/2195882?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "据Electrek：特斯拉Cybertruck项目负责人西丹特·阿瓦斯蒂即将离职。",
+          "url": "https://flash.jin10.com/detail/20251110130452203800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 13时44分]"
+        },
+        {
+          "title": "财联社11月10日电，香港交易所信息显示，贝莱德在小米集团-WH股的持股比例于11月04日从4.95%升至5.01%。",
+          "url": "https://api3.cls.cn/share/article/2196098?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 3,
       "titles": [
@@ -1228,6 +1316,34 @@
       ]
     },
     {
+      "keyword_group": "低空经济 eVTOL",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国办：引导民间资本有序参与低空经济领域基础设施建设",
+          "url": "https://wallstreetcn.com/livenews/3002075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "记者实地探访中国移动位于四川省多地的低空经济项目应用",
+          "url": "https://wallstreetcn.com/livenews/3001756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 2,
       "titles": [
@@ -1252,35 +1368,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "部分产品进入了特斯拉Optimus供应链，2025年订单预期达500吨？吉林化纤回应",
-          "url": "https://api3.cls.cn/share/article/2195882?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "据Electrek：特斯拉Cybertruck项目负责人西丹特·阿瓦斯蒂即将离职。",
-          "url": "https://flash.jin10.com/detail/20251110130452203800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时44分]"
         }
       ]
     },
@@ -1319,23 +1406,6 @@
       ]
     },
     {
-      "keyword_group": "低空经济 eVTOL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "记者实地探访中国移动位于四川省多地的低空经济项目应用",
-          "url": "https://wallstreetcn.com/livenews/3001756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中芯国际",
       "match_count": 1,
       "titles": [
@@ -1350,8 +1420,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时22分 ~ 16时52分]"
+          "appearance_count": 19,
+          "time_info": "[07时22分 ~ 17时24分]"
         }
       ]
     }
