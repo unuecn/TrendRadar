@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T17:24:40.784759+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2025-11-10T17:45:58.142829+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "碳酸锂主力合约日内涨超4.00%，现报84520元/吨。",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时09分 ~ 11时10分]"
+        },
+        {
+          "title": "碳酸锂延续上周后半周强势格局，日内最大涨幅超7%",
+          "url": "https://flash.jin10.com/detail/20251110174041240800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "商品期货收盘，碳酸锂主力合约涨超7%，沪银涨超2%，沪金涨2%，苹果、氧化铝、纸浆、液化气、纯碱、工业硅、原油、多晶硅涨超1%。玻璃跌超2%，集运欧线、焦炭、沥青、鸡蛋跌超1%。",
@@ -194,7 +205,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "高盛调研三花等“中国机器人供应链”：为2026年下半年“人形机器人”量产做准备，产能规划已达每年10万至100万台",
@@ -206,8 +217,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[00时21分 ~ 17时24分]"
+          "appearance_count": 37,
+          "time_info": "[00时21分 ~ 17时45分]"
         },
         {
           "title": "松延动力小诺队夺首届中国机器人辩论大赛冠军",
@@ -218,8 +229,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时20分 ~ 17时24分]"
+          "appearance_count": 10,
+          "time_info": "[13时20分 ~ 17时45分]"
+        },
+        {
+          "title": "马斯克承诺明年实现特斯拉人形机器人量产",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/11/10/67d65b45cb714be5aed5ca3e6b07648a.html",
+          "source": "参考消息",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 17时45分]"
         },
         {
           "title": "京东全球首个智能物流机器人超级工厂落户无锡",
@@ -236,15 +258,18 @@
           "time_info": "[11时09分 ~ 14时33分]"
         },
         {
-          "title": "马斯克承诺明年实现特斯拉人形机器人量产",
-          "url": "https://ckxxapp.ckxx.net/pages/2025/11/10/67d65b45cb714be5aed5ca3e6b07648a.html",
-          "source": "参考消息",
+          "title": "智元机器人完成股改，即将开启上市之路？",
+          "url": "https://www.cls.cn/detail/2195804",
+          "source": "财联社热门",
           "ranks": [
-            2
+            13,
+            11,
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时24分]"
+          "appearance_count": 6,
+          "time_info": "[15时40分 ~ 17时45分]"
         },
         {
           "title": "中亦科技(301208.SZ)：暂未涉及人形机器人业务",
@@ -256,19 +281,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
-        },
-        {
-          "title": "智元机器人完成股改，即将开启上市之路？",
-          "url": "https://www.cls.cn/detail/2195804",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时40分 ~ 17时24分]"
         },
         {
           "title": "松霖科技(603992.SH)：做IDM模式下的消费级机器人，通过海外头部品牌客户销售",
@@ -326,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "影石Insta360旗下影翎全最无人机搭载地瓜机器人旭日5芯片",
+          "url": "https://api3.cls.cn/share/article/2196143?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "A股异动丨人形机器人概念股集体下挫，浙江荣泰跌停",
@@ -468,11 +491,12 @@
           "url": "https://wallstreetcn.com/articles/3759018",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时24分]"
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 17时45分]"
         },
         {
           "title": "比特币向上触及106000美元/枚",
@@ -492,7 +516,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -511,7 +535,7 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "周末要闻汇总：福建舰部署三亚军港；黄仁勋亲赴台积电“讨要更多芯片”",
@@ -600,26 +624,146 @@
           "time_info": "[13时44分 ~ 14时33分]"
         },
         {
+          "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3002065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时45分]"
+        },
+        {
           "title": "财联社11月10日电，美股期货继续走高，纳斯达克100指数期货涨1.50%，道琼斯指数期货涨0.39%，标普500指数期货涨0.92%。英伟达盘前涨3.2%。",
           "url": "https://api3.cls.cn/share/article/2196102?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
         {
-          "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3002065",
-          "source": "华尔街见闻-快讯",
+          "title": "美国芯片股票盘前走强，英伟达(NVDA.O)涨3.4%，AMD(AMD.O)涨3.6%，高通(QCOM.O)涨2%，英特尔(INTC.O)涨2.1%，美光科技(MU.O)涨4.5%。",
+          "url": "https://flash.jin10.com/detail/20251110172223507800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时24分"
+          "time_info": "17时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "从算力到电力，中国资产重定价",
+          "url": "https://wallstreetcn.com/articles/3758991",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 37,
+          "time_info": "[00时21分 ~ 17时45分]"
+        },
+        {
+          "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
+          "url": "https://www.cls.cn/detail/2195310",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[06时40分 ~ 15时21分]"
+        },
+        {
+          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
+          "url": "https://www.cls.cn/detail/2195390",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时02分 ~ 17时24分]"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.1%，深成指跌0.64%，算力硬件、机器人、量子科技、消费电子等方向跌幅居前，沪深京三市下跌个股近2300只。",
+          "url": "https://wallstreetcn.com/livenews/3001885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 12时48分]"
+        },
+        {
+          "title": "中贝通信：与弘信电子签订《算力综合服务框架协议》，拟与公司合作开展算力资源服务业务合作。本次算力综合服务金额为10亿元，期限为协议生效后60个月。",
+          "url": "https://wallstreetcn.com/livenews/3002033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 17时24分]"
+        },
+        {
+          "title": "国芯科技(688262.SH)：公司在NPU领域和香港应科院合作",
+          "url": "https://www.gelonghui.com/news/5114809",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 16时52分]"
+        },
+        {
+          "title": "A股午评：创业板指跌2.13%，算力硬件板块领跌，大消费板块逆势走强",
+          "url": "https://www.gelonghui.com/news/5114588",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "【午报】创业板指跌超2%，大消费方向集体爆发，算力硬件股再遭调整",
+          "url": "https://www.cls.cn/detail/2195675",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         }
       ]
     },
@@ -729,103 +873,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "从算力到电力，中国资产重定价",
-          "url": "https://wallstreetcn.com/articles/3758991",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[00时21分 ~ 17时24分]"
-        },
-        {
-          "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
-          "url": "https://www.cls.cn/detail/2195310",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            6,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时40分 ~ 15时21分]"
-        },
-        {
-          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
-          "url": "https://www.cls.cn/detail/2195390",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时02分 ~ 17时24分]"
-        },
-        {
-          "title": "创业板指跌超2%，沪指跌0.1%，深成指跌0.64%，算力硬件、机器人、量子科技、消费电子等方向跌幅居前，沪深京三市下跌个股近2300只。",
-          "url": "https://wallstreetcn.com/livenews/3001885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 12时48分]"
-        },
-        {
-          "title": "中贝通信：与弘信电子签订《算力综合服务框架协议》，拟与公司合作开展算力资源服务业务合作。本次算力综合服务金额为10亿元，期限为协议生效后60个月。",
-          "url": "https://wallstreetcn.com/livenews/3002033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时24分]"
-        },
-        {
-          "title": "国芯科技(688262.SH)：公司在NPU领域和香港应科院合作",
-          "url": "https://www.gelonghui.com/news/5114809",
-          "source": "格隆汇",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 16时52分]"
-        },
-        {
-          "title": "A股午评：创业板指跌2.13%，算力硬件板块领跌，大消费板块逆势走强",
-          "url": "https://www.gelonghui.com/news/5114588",
-          "source": "格隆汇",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         }
       ]
     },
@@ -988,6 +1035,18 @@
           "time_info": "[12时02分 ~ 12时48分]"
         },
         {
+          "title": "国家发改委等部门：拓展物联网、云计算、大数据、人工智能、区块链等技术在物流领域的规模化应用",
+          "url": "https://wallstreetcn.com/livenews/3002060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时45分]"
+        },
+        {
           "title": "【电报解读】哈勃入股语音AI大模型领域研发商，机构称大模型“性价比”提升有望促进AI应用走向繁荣，这家公司AI产品已覆盖全球200多个国家",
           "url": "https://api3.cls.cn/share/article/2195754?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -997,17 +1056,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
-        },
-        {
-          "title": "国家发改委等部门：拓展物联网、云计算、大数据、人工智能、区块链等技术在物流领域的规模化应用",
-          "url": "https://wallstreetcn.com/livenews/3002060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         }
       ]
     },
@@ -1202,7 +1250,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         }
@@ -1324,11 +1372,12 @@
           "url": "https://wallstreetcn.com/livenews/3002075",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时45分]"
         },
         {
           "title": "记者实地探访中国移动位于四川省多地的低空经济项目应用",
@@ -1406,6 +1455,23 @@
       ]
     },
     {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【风口研报·公司】锂价完成筑底后迎来回升，这家公司拥有锂资源量近400万吨LCE、低谷期仍能保持市场份额，后续锂盐产能扩张空间可期；行业“龙一”即将并购“龙二”，这家公司加速优化竞争格局+提升定价能力",
+          "url": "https://api3.cls.cn/share/article/2196060?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中芯国际",
       "match_count": 1,
       "titles": [
@@ -1420,8 +1486,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时22分 ~ 17时24分]"
+          "appearance_count": 20,
+          "time_info": "[07时22分 ~ 17时45分]"
         }
       ]
     }
