@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T06:44:13.988709+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2025-11-11T07:19:57.261925+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股异动丨台积电涨3.4%，10月营收同比增长16.9%、环比增长11%",
@@ -13,11 +13,12 @@
           "source": "格隆汇",
           "ranks": [
             8,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "台积电10月营收增速放缓 AI热潮可持续性再受质疑",
@@ -28,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时28分 ~ 06时44分]"
+          "appearance_count": 11,
+          "time_info": "[02时28分 ~ 07时19分]"
         },
         {
           "title": "美国政府有望结束停摆 美股集体高开 英伟达涨近4%",
@@ -54,6 +55,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时16分 ~ 04时45分]"
+        },
+        {
+          "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "纳指收涨超2% 英伟达涨超5%",
@@ -104,6 +116,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时51分]"
+        },
+        {
+          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
+          "url": "https://www.cls.cn/detail/2196552",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -203,11 +226,12 @@
           "source": "格隆汇",
           "ranks": [
             7,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "下午察：当机器人变得太像人",
@@ -217,8 +241,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "马斯克承诺明年实现特斯拉人形机器人量产",
@@ -228,8 +252,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "全运会开幕式人形机器人奏响千年青铜礼乐",
@@ -239,8 +263,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "智元机器人完成股改，即将开启上市之路？",
@@ -257,18 +281,19 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英特尔CTO跳槽至OpenAI，CEO陈立武将兼任该职",
           "url": "https://wallstreetcn.com/livenews/3002355",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 07时19分]"
         },
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -306,6 +331,73 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 01时40分]"
+        },
+        {
+          "title": "财联社11月11日电，英特尔首席科学官（CTO）Sachin Katti跳槽至OpenAI，将在后者基础设施岗位任职。首席执行官（CEO）陈立武（Lip-Bu Tan）将兼任CTO。",
+          "url": "https://api3.cls.cn/share/article/2196559?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "国金证券：AI应用破晓在即 “软硬结合”定义中国优势",
+          "url": "https://api3.cls.cn/share/article/2196491?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            13,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
+        },
+        {
+          "title": "英伟达拉美主管Marcio Aguiar：英伟达支持创新。 在墨西哥，人工智能（AI）机会大于挑战。 英伟达的合作伙伴们现在计划在墨西哥投资。 他们将在墨西哥数据中心投资200万-400万美元。",
+          "url": "https://wallstreetcn.com/livenews/3002295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 04时45分]"
+        },
+        {
+          "title": "市场消息：欧盟计划简化数据和人工智能规则，以促进商业发展。",
+          "url": "https://flash.jin10.com/detail/20251111003834643800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时18分]"
+        },
+        {
+          "title": "英特尔(INTC.O)：英特尔首席执行官陈立武将在首席技术官Sachin Katti离职后领导英特尔的人工智能业务。",
+          "url": "https://flash.jin10.com/detail/20251111065208156800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -369,51 +461,6 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国金证券：AI应用破晓在即 “软硬结合”定义中国优势",
-          "url": "https://api3.cls.cn/share/article/2196491?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            13,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时28分]"
-        },
-        {
-          "title": "英伟达拉美主管Marcio Aguiar：英伟达支持创新。 在墨西哥，人工智能（AI）机会大于挑战。 英伟达的合作伙伴们现在计划在墨西哥投资。 他们将在墨西哥数据中心投资200万-400万美元。",
-          "url": "https://wallstreetcn.com/livenews/3002295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 04时45分]"
-        },
-        {
-          "title": "市场消息：欧盟计划简化数据和人工智能规则，以促进商业发展。",
-          "url": "https://flash.jin10.com/detail/20251111003834643800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时18分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 2,
       "titles": [
@@ -425,11 +472,12 @@
             11,
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "美股异动丨闪迪涨超8%创新高 据称11月大幅调涨NAND闪存合约价格引发供应链震动",
@@ -446,6 +494,34 @@
       ]
     },
     {
+      "keyword_group": "量子科技 量子计算 量子通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "新型激光器能量转换效率突破80% 有望应用于医学和量子科技等领域",
+          "url": "https://api3.cls.cn/share/article/2196561?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "量子计算机理论互联距离达两千公里",
+          "url": "https://api3.cls.cn/share/article/2196560?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 1,
       "titles": [
@@ -455,11 +531,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 06时44分]"
+          "appearance_count": 3,
+          "time_info": "[06时20分 ~ 07时19分]"
         }
       ]
     },
@@ -475,8 +552,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 07时19分]"
         }
       ]
     },
@@ -490,11 +567,29 @@
           "source": "格隆汇",
           "ranks": [
             3,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 07时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果的卫星互联网战略曝光！",
+          "url": "https://www.cls.cn/detail/2196026",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
