@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T15:21:38.565551+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2025-11-10T15:40:29.465580+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
@@ -53,6 +53,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时02分 ~ 12时48分]"
+        },
+        {
+          "title": "商品期货收盘，碳酸锂主力合约涨超7%，沪银涨超2%，沪金涨2%，苹果、氧化铝、纸浆、液化气、纯碱、工业硅、原油、多晶硅涨超1%。玻璃跌超2%，集运欧线、焦炭、沥青、鸡蛋跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3001987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时40分]"
         },
         {
           "title": "金十期货11月10日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨3050元/吨，中间价报83900元/吨。",
@@ -122,15 +134,16 @@
           "time_info": "[09时29分 ~ 09时30分]"
         },
         {
-          "title": "商品期货收盘，碳酸锂主力合约涨超7%，沪银涨超2%，沪金涨2%，苹果、氧化铝、纸浆、液化气、纯碱、工业硅、原油、多晶硅涨超1%。玻璃跌超2%，集运欧线、焦炭、沥青、鸡蛋跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3001987",
-          "source": "华尔街见闻-快讯",
+          "title": "午盘收盘，国内期货主力合约涨多跌少。碳酸锂涨超7%，沪银涨超2%，沪金、苹果、氧化铝、纸浆、液化石油气（LPG）、纯碱涨超1%；跌幅方面，玻璃跌近3%，集运欧线、沥青、焦炭、鸡蛋跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251110150043197800",
+          "source": "金十数据",
           "ranks": [
-            6
+            17,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时40分]"
         },
         {
           "title": "国内期货主力合约涨跌不一 碳酸锂涨超6%",
@@ -150,7 +163,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -161,18 +174,140 @@
           "ranks": [
             17
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "高盛调研三花等“中国机器人供应链”：为2026年下半年“人形机器人”量产做准备，产能规划已达每年10万至100万台",
+          "url": "https://wallstreetcn.com/articles/3758990",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 32,
+          "time_info": "[00时21分 ~ 15时40分]"
+        },
+        {
+          "title": "京东全球首个智能物流机器人超级工厂落户无锡",
+          "url": "https://www.zaochenbao.com/news/china/202511/1056951.html",
+          "source": "早报",
+          "ranks": [
+            7,
+            15,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时09分 ~ 14时33分]"
+        },
+        {
+          "title": "松延动力小诺队夺首届中国机器人辩论大赛冠军",
+          "url": "https://www.zaochenbao.com/news/china/202511/1056969.html",
+          "source": "早报",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 15时40分]"
+        },
+        {
+          "title": "中亦科技(301208.SZ)：暂未涉及人形机器人业务",
+          "url": "https://www.gelonghui.com/news/5114693",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "康养机器人、跌倒监测相机……当养老遇见AI ，如何撬动“老有所AI”的万亿级市场？",
+          "url": "https://www.cls.cn/detail/2195107",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "A股人形机器人概念震荡走弱，浙江荣泰逼近跌停，拓普集团、汉宇集团、力星股份、三花智控、豪恩汽电、大洋电机、伟创电气跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3001875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时02分]"
+        },
+        {
+          "title": "道恩股份(002838.SZ)：有应用到机器人制造上的改性材料，如机器人手臂尼龙材料、合金材料，热塑性弹性体可以应用于机器人仿真皮肤",
+          "url": "https://www.gelonghui.com/news/5114662",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
         {
-          "title": "午盘收盘，国内期货主力合约涨多跌少。碳酸锂涨超7%，沪银涨超2%，沪金、苹果、氧化铝、纸浆、液化石油气（LPG）、纯碱涨超1%；跌幅方面，玻璃跌近3%，集运欧线、沥青、焦炭、鸡蛋跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251110150043197800",
-          "source": "金十数据",
+          "title": "A股异动丨人形机器人概念股集体下挫，浙江荣泰跌停",
+          "url": "https://www.gelonghui.com/news/5114622",
+          "source": "格隆汇",
           "ranks": [
-            17
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "智元机器人完成股改，即将开启上市之路？",
+          "url": "https://www.cls.cn/detail/2195804",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "联得装备(300545.SZ)：部分产品在设计环节需要运用机器人相关技术",
+          "url": "https://www.gelonghui.com/news/5114681",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "宜安科技(300328.SZ)：非晶合金产品尚未涉及人形机器人相关部件",
+          "url": "https://www.gelonghui.com/news/5114656",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         }
@@ -315,8 +450,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时29分 ~ 15时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时29分 ~ 15时40分]"
         },
         {
           "title": "涨幅高达50%！闪存龙头最新合约价暴涨 带动模组厂暂停出货报价",
@@ -339,11 +474,12 @@
             9,
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时29分 ~ 15时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时29分 ~ 15时40分]"
         },
         {
           "title": "预计四季度存储价格有望维持上涨趋势 存储芯片概念股涨停 本周机构密集调研相关上市公司",
@@ -412,106 +548,6 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "高盛调研三花等“中国机器人供应链”：为2026年下半年“人形机器人”量产做准备，产能规划已达每年10万至100万台",
-          "url": "https://wallstreetcn.com/articles/3758990",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时21分 ~ 15时21分]"
-        },
-        {
-          "title": "京东全球首个智能物流机器人超级工厂落户无锡",
-          "url": "https://www.zaochenbao.com/news/china/202511/1056951.html",
-          "source": "早报",
-          "ranks": [
-            7,
-            15,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时09分 ~ 14时33分]"
-        },
-        {
-          "title": "松延动力小诺队夺首届中国机器人辩论大赛冠军",
-          "url": "https://www.zaochenbao.com/news/china/202511/1056969.html",
-          "source": "早报",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 15时21分]"
-        },
-        {
-          "title": "康养机器人、跌倒监测相机……当养老遇见AI ，如何撬动“老有所AI”的万亿级市场？",
-          "url": "https://www.cls.cn/detail/2195107",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "A股人形机器人概念震荡走弱，浙江荣泰逼近跌停，拓普集团、汉宇集团、力星股份、三花智控、豪恩汽电、大洋电机、伟创电气跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3001875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时02分]"
-        },
-        {
-          "title": "道恩股份(002838.SZ)：有应用到机器人制造上的改性材料，如机器人手臂尼龙材料、合金材料，热塑性弹性体可以应用于机器人仿真皮肤",
-          "url": "https://www.gelonghui.com/news/5114662",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "A股异动丨人形机器人概念股集体下挫，浙江荣泰跌停",
-          "url": "https://www.gelonghui.com/news/5114622",
-          "source": "格隆汇",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "宜安科技(300328.SZ)：非晶合金产品尚未涉及人形机器人相关部件",
-          "url": "https://www.gelonghui.com/news/5114656",
-          "source": "格隆汇",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
       "match_count": 7,
       "titles": [
@@ -552,6 +588,20 @@
           "time_info": "[00时21分 ~ 07时40分]"
         },
         {
+          "title": "台积电：10月销售额3,674.7亿元台币，同比增长16.9%。",
+          "url": "https://wallstreetcn.com/livenews/3001949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 15时40分]"
+        },
+        {
           "title": "台积电10月营收3674.7亿元新台币 同比增长16.9%",
           "url": "https://flash.jin10.com/detail/20251110133524037800",
           "source": "金十数据",
@@ -562,19 +612,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时44分 ~ 14时33分]"
-        },
-        {
-          "title": "台积电：10月销售额3,674.7亿元台币，同比增长16.9%。",
-          "url": "https://wallstreetcn.com/livenews/3001949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 15时21分]"
         },
         {
           "title": "台积电10月销售额环比增长11.0% 同比增长16.9%",
@@ -615,8 +652,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时21分 ~ 15时21分]"
+          "appearance_count": 32,
+          "time_info": "[00时21分 ~ 15时40分]"
         },
         {
           "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
@@ -641,11 +678,12 @@
           "ranks": [
             12,
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 15时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时02分 ~ 15时40分]"
         },
         {
           "title": "创业板指跌超2%，沪指跌0.1%，深成指跌0.64%，算力硬件、机器人、量子科技、消费电子等方向跌幅居前，沪深京三市下跌个股近2300只。",
@@ -684,7 +722,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -876,11 +914,12 @@
           "ranks": [
             11,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 15时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时02分 ~ 15时40分]"
         },
         {
           "title": "中信证券：固态电池产业化加速，建议把握电池、材料、设备相关环节的投资机会",
@@ -916,11 +955,12 @@
           "url": "https://flash.jin10.com/detail/20251110150328547800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时40分]"
         }
       ]
     },
@@ -946,9 +986,38 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "部分产品进入了特斯拉Optimus供应链，2025年订单预期达500吨？吉林化纤回应",
+          "url": "https://api3.cls.cn/share/article/2195882?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "据Electrek：特斯拉Cybertruck项目负责人西丹特·阿瓦斯蒂即将离职。",
+          "url": "https://flash.jin10.com/detail/20251110130452203800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 13时44分]"
         }
       ]
     },
@@ -993,9 +1062,26 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药 新药研发 临床三期",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "润都股份(002923.SZ)：公司1类创新药盐酸去甲乌药碱注射液目前仍在国家药监局的药品注册审评阶段",
+          "url": "https://www.gelonghui.com/news/5114689",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         }
       ]
     },
@@ -1017,24 +1103,6 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据Electrek：特斯拉Cybertruck项目负责人西丹特·阿瓦斯蒂即将离职。",
-          "url": "https://flash.jin10.com/detail/20251110130452203800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时44分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "中芯国际",
       "match_count": 1,
       "titles": [
@@ -1048,8 +1116,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时22分 ~ 15时21分]"
+          "appearance_count": 15,
+          "time_info": "[07时22分 ~ 15时40分]"
         }
       ]
     }
