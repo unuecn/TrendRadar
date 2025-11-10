@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T20:41:15.836468+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2025-11-10T21:32:40.680743+08:00",
+  "total_titles_processed": 1769,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 20时41分]"
+          "appearance_count": 10,
+          "time_info": "[16时51分 ~ 21时32分]"
         },
         {
           "title": "高盛调研三花等“中国机器人供应链”：为2026年下半年“人形机器人”量产做准备，产能规划已达每年10万至100万台",
@@ -58,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时40分 ~ 20时41分]"
+          "appearance_count": 12,
+          "time_info": "[15时40分 ~ 21时32分]"
         },
         {
           "title": "京东全球首个智能物流机器人超级工厂落户无锡",
@@ -81,11 +81,12 @@
           "source": "早报",
           "ranks": [
             3,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 20时41分]"
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 21时32分]"
         },
         {
           "title": "中亦科技(301208.SZ)：暂未涉及人形机器人业务",
@@ -426,8 +427,215 @@
       ]
     },
     {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "比特币突破104000美元",
+          "url": "https://www.gelonghui.com/news/5114475",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 07时40分]"
+        },
+        {
+          "title": "以太坊向上触及3500美元",
+          "url": "https://www.gelonghui.com/news/5114474",
+          "source": "格隆汇",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 07时40分]"
+        },
+        {
+          "title": "美政府关门有望结束，全球风险资产走高，纳指期货涨超1.2%，现货黄金大涨2%，比特币拉涨4%",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时51分 ~ 20时41分]"
+        },
+        {
+          "title": "比特币突破104000美元/枚，日内涨1.66%。",
+          "url": "https://flash.jin10.com/detail/20251109223544425800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 06时18分]"
+        },
+        {
+          "title": "以太坊向上触及3500美元/枚，日内涨近3%。",
+          "url": "https://flash.jin10.com/detail/20251109222710203800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 05时38分]"
+        },
+        {
+          "title": "比特币突破105000美元",
+          "url": "https://api3.cls.cn/share/article/2195349?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            3,
+            7,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时19分 ~ 06时40分]"
+        },
+        {
+          "title": "比特币站上105000美元/枚，日内涨2.64%。",
+          "url": "https://flash.jin10.com/detail/20251110040537729800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时19分 ~ 06时40分]"
+        },
+        {
+          "title": "比特币突破104000美元",
+          "url": "https://api3.cls.cn/share/article/2195319?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 03时39分]"
+        },
+        {
+          "title": "加密货币概念股盘前上涨，IREN涨6.8%，Riot Platforms涨3.6%，Strategy涨2.8%，Coinbase涨2.9%。比特币现上涨1.4%，至105,954.63美元；以太坊上涨0.7%，至3,604.60美元。",
+          "url": "https://wallstreetcn.com/livenews/3002142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 21时32分]"
+        },
+        {
+          "title": "美政府关门有望结束，全球风险资产走高，纳指期货涨超1.4%，现货黄金突破4100美元/盎司，比特币拉涨3%",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "MicroStrategy在11月3日至11月9日期间以平均价10.26万美元购入487枚比特币，累计支出约4990万美元。",
+          "url": "https://wallstreetcn.com/livenews/3002179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "比特币向上触及106000美元/枚",
+          "url": "https://www.gelonghui.com/news/5114555",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "MicroStrategy再购入487枚比特币 总额约4990万美元",
+          "url": "https://api3.cls.cn/share/article/2196395?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "Strategy(MSTR.O)以4990万美元的总价购入487枚比特币。",
+          "url": "https://flash.jin10.com/detail/20251110210349804800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "财联社11月10日电，比特币重返10.6万美元，以太币一度站上3600美元。加密货币概念股盘前齐升，IREN、BMNR涨超7%，Circle、MARA涨近4%，Coinbase、Strategy涨超3%。",
+          "url": "https://api3.cls.cn/share/article/2196096?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "比特币升破106000美元。以太坊升破3600美元。",
+          "url": "https://wallstreetcn.com/livenews/3001801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "从算力到电力，中国资产重定价",
@@ -482,8 +690,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 20时41分]"
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 21时32分]"
+        },
+        {
+          "title": "【午报】创业板指跌超2%，大消费方向集体爆发，算力硬件股再遭调整",
+          "url": "https://www.cls.cn/detail/2195675",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 21时32分]"
         },
         {
           "title": "四川金顶(600678.SH)：开物信息不涉及太空算力等相关业务",
@@ -497,18 +719,15 @@
           "time_info": "19时39分"
         },
         {
-          "title": "【午报】创业板指跌超2%，大消费方向集体爆发，算力硬件股再遭调整",
-          "url": "https://www.cls.cn/detail/2195675",
-          "source": "财联社热门",
+          "title": "国际商业结算(00147.HK)附属向SharpeningTechnology采购云算力挖矿服务",
+          "url": "https://www.gelonghui.com/news/5115230",
+          "source": "格隆汇",
           "ranks": [
-            10,
-            11,
-            12,
-            13
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时45分 ~ 20时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "2连板四川金顶：参股子公司开物信息不涉及太空算力等相关业务",
@@ -676,11 +895,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 20时41分]"
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 21时32分]"
         },
         {
           "title": "A股异动丨存储芯片股强势，闪迪11月大幅调涨NAND闪存合约价引供应链震动",
@@ -744,7 +964,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -754,168 +974,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "比特币突破104000美元",
-          "url": "https://www.gelonghui.com/news/5114475",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 07时40分]"
-        },
-        {
-          "title": "以太坊向上触及3500美元",
-          "url": "https://www.gelonghui.com/news/5114474",
-          "source": "格隆汇",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 07时40分]"
-        },
-        {
-          "title": "美政府关门有望结束，全球风险资产走高，纳指期货涨超1.2%，现货黄金大涨2%，比特币拉涨4%",
-          "url": "https://wallstreetcn.com/articles/3759018",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 20时41分]"
-        },
-        {
-          "title": "比特币突破104000美元/枚，日内涨1.66%。",
-          "url": "https://flash.jin10.com/detail/20251109223544425800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 06时18分]"
-        },
-        {
-          "title": "以太坊向上触及3500美元/枚，日内涨近3%。",
-          "url": "https://flash.jin10.com/detail/20251109222710203800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 05时38分]"
-        },
-        {
-          "title": "比特币突破105000美元",
-          "url": "https://api3.cls.cn/share/article/2195349?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            3,
-            7,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时19分 ~ 06时40分]"
-        },
-        {
-          "title": "比特币站上105000美元/枚，日内涨2.64%。",
-          "url": "https://flash.jin10.com/detail/20251110040537729800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时19分 ~ 06时40分]"
-        },
-        {
-          "title": "比特币突破104000美元",
-          "url": "https://api3.cls.cn/share/article/2195319?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7,
-            8,
-            10,
-            15,
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 03时39分]"
-        },
-        {
-          "title": "加密货币概念股盘前上涨，IREN涨6.8%，Riot Platforms涨3.6%，Strategy涨2.8%，Coinbase涨2.9%。比特币现上涨1.4%，至105,954.63美元；以太坊上涨0.7%，至3,604.60美元。",
-          "url": "https://wallstreetcn.com/livenews/3002142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 20时41分]"
-        },
-        {
-          "title": "比特币向上触及106000美元/枚",
-          "url": "https://www.gelonghui.com/news/5114555",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "财联社11月10日电，比特币重返10.6万美元，以太币一度站上3600美元。加密货币概念股盘前齐升，IREN、BMNR涨超7%，Circle、MARA涨近4%，Coinbase、Strategy涨超3%。",
-          "url": "https://api3.cls.cn/share/article/2196096?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "比特币升破106000美元。以太坊升破3600美元。",
-          "url": "https://wallstreetcn.com/livenews/3001801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1053,7 +1111,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "财联社11月10日电，美国视频平台及云服务提供商Rumble据称正在推进对德国人工智能云公司Northern Data的全股票收购。",
@@ -1096,6 +1154,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时47分 ~ 13时20分]"
+        },
+        {
+          "title": "【财联社早知道】工信部表示将加速推动人工智能+等重点领域应用场景的培育，机构称AI应用细分化场景加速突破，这家公司与火山引擎合作推动AI与营销体系的深度整合；我国钙钛矿太阳能电池领域再获重要进展",
+          "url": "https://api3.cls.cn/share/article/2195884?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "两部门：加快人工智能、大数据、云计算等先进技术在主配微网协同中的应用",
@@ -1162,7 +1231,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "部分产品进入了特斯拉Optimus供应链，2025年订单预期达500吨？吉林化纤回应",
@@ -1259,6 +1328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "特斯拉Cybertruck项目负责人Awasthi在任三年后离职",
+          "url": "https://flash.jin10.com/detail/20251110204112079800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
@@ -1770,11 +1850,12 @@
           "url": "https://wallstreetcn.com/livenews/3002162",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时32分]"
         }
       ]
     },
@@ -1787,11 +1868,12 @@
           "url": "https://wallstreetcn.com/livenews/3002160",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时32分]"
         }
       ]
     },
@@ -1811,8 +1893,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[07时22分 ~ 20时41分]"
+          "appearance_count": 26,
+          "time_info": "[07时22分 ~ 21时32分]"
         }
       ]
     }
