@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T01:40:32.094699+08:00",
-  "total_titles_processed": 322,
+  "generated_at": "2025-11-11T02:28:47.028780+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,41 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
+        },
+        {
+          "title": "下午察：当机器人变得太像人",
+          "url": "https://www.zaochenbao.com/news/china/202511/1057001.html",
+          "source": "早报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
+        },
+        {
+          "title": "马斯克承诺明年实现特斯拉人形机器人量产",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/11/10/67d65b45cb714be5aed5ca3e6b07648a.html",
+          "source": "参考消息",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
+        },
+        {
+          "title": "全运会开幕式人形机器人奏响千年青铜礼乐",
+          "url": "https://www.zaochenbao.com/news/china/202511/1056987.html",
+          "source": "早报",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "智元机器人完成股改，即将开启上市之路？",
@@ -28,39 +61,56 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 01时40分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 4,
+      "titles": [
         {
-          "title": "下午察：当机器人变得太像人",
-          "url": "https://www.zaochenbao.com/news/china/202511/1057001.html",
-          "source": "早报",
+          "title": "美股异动丨台积电涨3.4%，10月营收同比增长16.9%、环比增长11%",
+          "url": "https://www.gelonghui.com/news/5115262",
+          "source": "格隆汇",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
-          "title": "马斯克承诺明年实现特斯拉人形机器人量产",
-          "url": "https://ckxxapp.ckxx.net/pages/2025/11/10/67d65b45cb714be5aed5ca3e6b07648a.html",
-          "source": "参考消息",
+          "title": "美国政府有望结束停摆 美股集体高开 英伟达涨近4%",
+          "url": "https://www.gelonghui.com/news/5115256",
+          "source": "格隆汇",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
-          "title": "全运会开幕式人形机器人奏响千年青铜礼乐",
-          "url": "https://www.zaochenbao.com/news/china/202511/1056987.html",
-          "source": "早报",
+          "title": "纳指涨超2%，纳斯达克100指数成分股Palantir涨7.1%，美光科技涨6.9%，Applovin涨6.3%，AMD涨5.5%，英伟达涨3.8%，谷歌A涨3.5%，特许通讯仍然跌2.4%，Axon跌3.2%。 标普涨1.1%，道指涨0.3%，半导体指数涨2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3002225",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时40分]"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时51分]"
+        },
+        {
+          "title": "台积电10月营收增速放缓 AI热潮可持续性再受质疑",
+          "url": "https://www.cls.cn/detail/2196371",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         }
       ]
     },
@@ -68,6 +118,19 @@
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 3,
       "titles": [
+        {
+          "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
+          "url": "https://wallstreetcn.com/livenews/3002253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 02时28分]"
+        },
         {
           "title": "美国参议员联名致信抨击Meta、OpenAI、Alphabet和Oracle。",
           "url": "https://flash.jin10.com/detail/20251111004153687800",
@@ -91,57 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 01时40分]"
-        },
-        {
-          "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
-          "url": "https://wallstreetcn.com/livenews/3002253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股异动丨台积电涨3.4%，10月营收同比增长16.9%、环比增长11%",
-          "url": "https://www.gelonghui.com/news/5115262",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时40分]"
-        },
-        {
-          "title": "美国政府有望结束停摆 美股集体高开 英伟达涨近4%",
-          "url": "https://www.gelonghui.com/news/5115256",
-          "source": "格隆汇",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时40分]"
-        },
-        {
-          "title": "纳指涨超2%，纳斯达克100指数成分股Palantir涨7.1%，美光科技涨6.9%，Applovin涨6.3%，AMD涨5.5%，英伟达涨3.8%，谷歌A涨3.5%，特许通讯仍然跌2.4%，Axon跌3.2%。 标普涨1.1%，道指涨0.3%，半导体指数涨2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3002225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时51分]"
         }
       ]
     },
@@ -155,11 +167,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "美股异动丨闪迪涨超8%创新高 据称11月大幅调涨NAND闪存合约价格引发供应链震动",
@@ -169,8 +182,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
         }
       ]
     },
@@ -185,11 +198,12 @@
           "ranks": [
             3,
             13,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "市场消息：欧盟计划简化数据和人工智能规则，以促进商业发展。",
@@ -217,8 +231,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
         }
       ]
     },
@@ -234,8 +248,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
         }
       ]
     },
@@ -270,8 +284,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
         }
       ]
     }
