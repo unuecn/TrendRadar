@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T04:44:03.232405+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2025-11-14T05:19:53.547748+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "周四美市盘前小幅走低 聚焦女股神”凯西伍德卖特斯拉股",
@@ -15,8 +15,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 05时19分]"
+        },
+        {
+          "title": "纳指大幅收跌2.3% 特斯拉跌超6%",
+          "url": "https://api3.cls.cn/share/article/2200245?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "因起火风险，特斯拉在美召回1.05万个Powerwall 2电池",
@@ -142,6 +153,129 @@
       ]
     },
     {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "摩根大通：当前水平下比特币下行空间“非常有限”",
+          "url": "https://www.gelonghui.com/news/5117481",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 05时19分]"
+        },
+        {
+          "title": "英国史上最大比特币洗钱案：中国主谋钱志敏获刑11年8个月",
+          "url": "https://www.zaochenbao.com/news/china/202511/1357248.html",
+          "source": "早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 05时19分]"
+        },
+        {
+          "title": "财联社11月14日电，比特币向下跌破98000美元，过去24小时内下跌3.56%。",
+          "url": "https://api3.cls.cn/share/article/2200237?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 05时19分]"
+        },
+        {
+          "title": "比特币跌破99000美元",
+          "url": "https://api3.cls.cn/share/article/2200215?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8,
+            12,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时52分 ~ 04时22分]"
+        },
+        {
+          "title": "以太坊回落至3200美元/枚下方，日内跌6.34%。",
+          "url": "https://flash.jin10.com/detail/20251114025011150800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 04时22分]"
+        },
+        {
+          "title": "以太坊回落至3300美元/枚下方，日内跌3.38%。",
+          "url": "https://flash.jin10.com/detail/20251114010652109800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时44分]"
+        },
+        {
+          "title": "比特币向下跌破100000美元",
+          "url": "https://api3.cls.cn/share/article/2200205?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 02时52分]"
+        },
+        {
+          "title": "以太坊日内走低5.00%，现报3242美元/枚。",
+          "url": "https://flash.jin10.com/detail/20251114020500313800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时30分"
+        },
+        {
+          "title": "比特币跌至5月初以来低点，日内下跌3.3%至98244美元/枚。",
+          "url": "https://flash.jin10.com/detail/20251114045334859800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "比特币跌破99000美元/枚，日内跌2.65%。",
+          "url": "https://flash.jin10.com/detail/20251114022544592800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 9,
       "titles": [
@@ -153,8 +287,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 05时19分]"
         },
         {
           "title": "美联储穆萨莱姆：人工智能似乎正在提高生产力，同时取代工人。",
@@ -251,117 +385,6 @@
       ]
     },
     {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "摩根大通：当前水平下比特币下行空间“非常有限”",
-          "url": "https://www.gelonghui.com/news/5117481",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 04时44分]"
-        },
-        {
-          "title": "英国史上最大比特币洗钱案：中国主谋钱志敏获刑11年8个月",
-          "url": "https://www.zaochenbao.com/news/china/202511/1357248.html",
-          "source": "早报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 04时44分]"
-        },
-        {
-          "title": "财联社11月14日电，比特币向下跌破98000美元，过去24小时内下跌3.56%。",
-          "url": "https://api3.cls.cn/share/article/2200237?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 04时44分]"
-        },
-        {
-          "title": "比特币跌破99000美元",
-          "url": "https://api3.cls.cn/share/article/2200215?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8,
-            12,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时52分 ~ 04时22分]"
-        },
-        {
-          "title": "以太坊回落至3200美元/枚下方，日内跌6.34%。",
-          "url": "https://flash.jin10.com/detail/20251114025011150800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时22分]"
-        },
-        {
-          "title": "以太坊回落至3300美元/枚下方，日内跌3.38%。",
-          "url": "https://flash.jin10.com/detail/20251114010652109800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时44分]"
-        },
-        {
-          "title": "比特币向下跌破100000美元",
-          "url": "https://api3.cls.cn/share/article/2200205?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 02时52分]"
-        },
-        {
-          "title": "以太坊日内走低5.00%，现报3242美元/枚。",
-          "url": "https://flash.jin10.com/detail/20251114020500313800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时30分"
-        },
-        {
-          "title": "比特币跌破99000美元/枚，日内跌2.65%。",
-          "url": "https://flash.jin10.com/detail/20251114022544592800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
       "match_count": 8,
       "titles": [
@@ -373,8 +396,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 05时19分]"
         },
         {
           "title": "悄悄关闭旗下基金，大空头Burry辟谣9亿美元做空英伟达和Palantir：一共才花了920万",
@@ -385,8 +408,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 05时19分]"
         },
         {
           "title": "纳指跌幅扩大至2.5% 英伟达跌超5%",
@@ -465,7 +488,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股三大指数低开，英伟达跌近2%，思科绩后大涨超7%创新高",
@@ -475,8 +498,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 05时19分]"
         },
         {
           "title": "财联社11月14日电，LME期铜收涨12美元，报10956美元/吨。LME期铝收涨2美元，报2896美元/吨。LME期锌收跌20美元，报3055美元/吨。",
@@ -507,6 +530,28 @@
           "time_info": "[02时30分 ~ 03时38分]"
         },
         {
+          "title": "周四（11月13日）纽约尾盘，欧元兑美元涨0.38%，英镑兑美元涨0.42%，美元兑瑞郎跌0.65%。 商品货币对中，澳元兑美元跌0.20%，纽元兑美元跌0.25%，美元兑加元涨0.18%。 瑞典克朗兑美元涨0.47%，挪威克朗兑美元涨0.57%，丹麦克朗兑美元涨0.38%。 波兰兹罗提兑美元涨0.44%，匈牙利福林兑美元涨0.43%。",
+          "url": "https://wallstreetcn.com/livenews/3004376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "周四（11月13日）纽约尾盘，美元兑日元跌0.19%，报154.51日元，日内交投区间为155.01-154.13日元，全天持续震荡下行。 欧元兑日元涨0.20%，英镑兑日元涨0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3004374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
           "title": "行业ETF美股盘初普遍下跌，半导体ETF跌1.2%，科技行业ETF跌0.7%，全球科技股指数ETF跌0.66%，能源业ETF涨0.6%。",
           "url": "https://wallstreetcn.com/livenews/3004250",
           "source": "华尔街见闻-快讯",
@@ -521,7 +566,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -532,8 +577,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 05时19分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -544,8 +589,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 05时19分]"
         },
         {
           "title": "阿里巴巴拟全面改造旗舰AI应用 力争赶超ChatGPT",
@@ -555,8 +600,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 05时19分]"
         },
         {
           "title": "OpenAI：我们开发了一种新的方法来训练小型人工智能模型，这些模型具有更容易被人类理解的内部机制。 ChatGPT 背后的语言模型具有复杂且有时令人惊讶的结构，我们尚未完全了解它们是如何工作的。 这种方法有助于我们开始缩小这一差距。",
@@ -568,12 +613,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "市场消息：OpenAI前首席技术官Mira Murati的公司Thinking Machines Lab在融资谈判中估值达500亿美元。",
+          "url": "https://flash.jin10.com/detail/20251114044411055800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         }
       ]
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
@@ -583,8 +639,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 05时19分]"
         },
         {
           "title": "苹果推出小程序合作伙伴计划：抽成降至15%",
@@ -621,6 +677,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时30分]"
+        },
+        {
+          "title": "苹果推出小程序合作伙伴计划：App Store抽成大幅降至15%",
+          "url": "https://api3.cls.cn/share/article/2200243?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         }
       ]
     },
@@ -637,8 +704,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 05时19分]"
         },
         {
           "title": "财联社11月13日电，特斯拉跌幅扩大至5%，其此前召回约10500套Powerwall 2交流电池储能系统。",
@@ -681,8 +748,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 05时19分]"
         },
         {
           "title": "中芯国际Q3营收创单季度新高 毛利率及收入增长超管理层指引",
@@ -690,22 +757,52 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 04时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 05时19分]"
         },
         {
           "title": "中芯国际三季报出炉！Q3实现净利超15亿元",
           "url": "https://www.cls.cn/detail/2199835",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时30分 ~ 04时44分]"
+          "appearance_count": 8,
+          "time_info": "[02时30分 ~ 05时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "维珍银河：首次商业航天飞行预计按计划在2026年第四季度进行。",
+          "url": "https://flash.jin10.com/detail/20251114050818091800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "贝索斯旗下蓝色起源公司发射“新格伦号”火箭，首次执行NASA级别的科学任务，将两颗火星卫星送入太空。",
+          "url": "https://flash.jin10.com/detail/20251114045657444800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         }
       ]
     },
@@ -750,8 +847,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 05时19分]"
         }
       ]
     },
