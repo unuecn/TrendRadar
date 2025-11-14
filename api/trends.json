@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T14:54:37.361879+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2025-11-14T15:19:58.086348+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,17 @@
           "time_info": "[04时43分 ~ 06时20分]"
         },
         {
+          "title": "科技股抛售拖累 比特币跌破10万美元水平",
+          "url": "https://www.zaochenbao.com/news/politics/202511/1457302.html",
+          "source": "早报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 15时19分]"
+        },
+        {
           "title": "比特币现货ETF单日资金流出近8.7亿美元，创历史第二高",
           "url": "https://flash.jin10.com/detail/20251114140922355800",
           "source": "金十数据",
@@ -82,17 +93,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时19分 ~ 13时43分]"
-        },
-        {
-          "title": "科技股抛售拖累 比特币跌破10万美元水平",
-          "url": "https://www.zaochenbao.com/news/politics/202511/1457302.html",
-          "source": "早报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
         },
         {
           "title": "财联社11月14日电，比特币短线走低跌破97000美元，刷新5月8日以来新低。",
@@ -478,8 +478,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时24分 ~ 14时54分]"
+          "appearance_count": 32,
+          "time_info": "[00时24分 ~ 15时19分]"
         },
         {
           "title": "河南投资集团等成立人工智能产业基金 出资额10亿",
@@ -646,7 +646,7 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
@@ -658,8 +658,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时24分 ~ 14时54分]"
+          "appearance_count": 32,
+          "time_info": "[00时24分 ~ 15时19分]"
         },
         {
           "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
@@ -668,11 +668,12 @@
           "ranks": [
             15,
             9,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 14时54分]"
+          "appearance_count": 12,
+          "time_info": "[09时27分 ~ 15时19分]"
         },
         {
           "title": "贝莱德三季度增持近1950万股英伟达 减持苹果",
@@ -799,6 +800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "国内商品期货收盘涨跌不一 苹果、豆一涨超2%",
+          "url": "https://api3.cls.cn/share/article/2200763?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
@@ -937,11 +949,12 @@
           "ranks": [
             9,
             10,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时24分 ~ 14时54分]"
+          "appearance_count": 32,
+          "time_info": "[00时24分 ~ 15时19分]"
         },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -991,9 +1004,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 15时19分]"
         },
         {
           "title": "英伟达下跌5%。",
@@ -1183,8 +1196,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时39分 ~ 14时54分]"
+          "appearance_count": 14,
+          "time_info": "[07时39分 ~ 15时19分]"
         },
         {
           "title": "美股三大指数低开，英伟达跌近2%，思科绩后大涨超7%创新高",
@@ -1280,9 +1293,110 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
+          "url": "https://wallstreetcn.com/articles/3759330",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 32,
+          "time_info": "[00时24分 ~ 15时19分]"
+        },
+        {
+          "title": "全国首个省市一体化算力调度监测平台在南京上线",
+          "url": "https://wallstreetcn.com/livenews/3004600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 14时54分]"
+        },
+        {
+          "title": "星宸科技(301536.SZ)：公司用于激光雷达的芯片为SPAD-SoC(单光子雪崩二极管系统级芯片)",
+          "url": "https://www.gelonghui.com/news/5117589",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "瑞芯微：公司不同SoC均具备多类型DDR支持能力 下一代旗舰芯片计划明年推出",
+          "url": "https://wallstreetcn.com/livenews/3004665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "东芯股份：砺算科技首款图形渲染GPU芯片正在送样、推广中",
+          "url": "https://wallstreetcn.com/livenews/3004663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "收评：沪指跌0.97%失守4000点 算力硬件股集体调整",
+          "url": "https://api3.cls.cn/share/article/2200762?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "中信证券：AI投资机会扩散，关注算力产业链和AI应用",
+          "url": "https://wallstreetcn.com/livenews/3004456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 7,
       "titles": [
+        {
+          "title": "俄罗斯首款AI人形机器人 首次亮相摔倒舞台",
+          "url": "https://www.zaochenbao.com/news/politics/202511/1457300.html",
+          "source": "早报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 15时19分]"
+        },
         {
           "title": "星宸科技(301536.SZ)：智能机器人芯片上半年已出货550万颗，今年有望超过千万量级",
           "url": "https://www.gelonghui.com/news/5117588",
@@ -1293,17 +1407,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "俄罗斯首款AI人形机器人 首次亮相摔倒舞台",
-          "url": "https://www.zaochenbao.com/news/politics/202511/1457300.html",
-          "source": "早报",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
         },
         {
           "title": "【盘中宝】政策引导+人形机器人、低空经济等新兴市场需求驱动下产业化节奏提速，机构称该行业工艺体系革新关注核心增量环节，这家企业已实现工艺全线覆盖",
@@ -1400,11 +1503,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时54分]"
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 15时19分]"
         },
         {
           "title": "动力和储能锂电池道路运输有条件豁免试点正式启动",
@@ -1442,54 +1546,197 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 6,
       "titles": [
         {
-          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
-          "url": "https://wallstreetcn.com/articles/3759330",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时24分 ~ 14时54分]"
-        },
-        {
-          "title": "全国首个省市一体化算力调度监测平台在南京上线",
-          "url": "https://wallstreetcn.com/livenews/3004600",
-          "source": "华尔街见闻-快讯",
+          "title": "早盘收盘，国内期货主力合约涨跌互现。豆一涨近2%，液化石油气（LPG）、苯乙烯（EB）、苹果、PTA、瓶片、沪银、纯苯涨超1%；跌幅方面，焦煤跌超2%，甲醇、玻璃、沪锡、工业硅、沪镍跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251114113058283800",
+          "source": "金十数据",
           "ranks": [
             4,
-            5,
-            15,
-            23
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时20分 ~ 14时54分]"
+          "time_info": "[11时49分 ~ 12时45分]"
         },
         {
-          "title": "星宸科技(301536.SZ)：公司用于激光雷达的芯片为SPAD-SoC(单光子雪崩二极管系统级芯片)",
-          "url": "https://www.gelonghui.com/news/5117589",
-          "source": "格隆汇",
+          "title": "富宝资讯：碳酸锂期货盘面偏弱整理，富宝碳酸锂社会总库存11.95万吨，环减3.24%",
+          "url": "https://flash.jin10.com/detail/20251114130543332800",
+          "source": "金十数据",
           "ranks": [
-            3
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 13时43分]"
+        },
+        {
+          "title": "金十期货11月14日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌800元/吨，中间价报86950元/吨。",
+          "url": "https://flash.jin10.com/detail/20251114103225270800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌不一。苹果、豆一涨超2%，苯乙烯（EB）、瓶片、PTA、液化石油气（LPG）、原木、乙二醇（EG）涨超1%；跌幅方面，甲醇跌超2%，玻璃、沪锡、焦煤、碳酸锂、工业硅、沪镍、集运欧线跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251114150046623800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "商品期货收盘，苹果、豆一主力合约涨超2%，瓶片、苯乙烯、PTA、乙二醇、原木、液化气涨超1%。甲醇跌超2%，玻璃、焦煤、沪锡、工业硅、沪镍、集运欧线、碳酸锂跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3004656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约涨多跌少。液化石油气（LPG）涨近2%，PTA、乙二醇（EG）、PX、苯乙烯（EB）、烧碱、瓶片、塑料、豆一涨超1%；跌幅方面，集运欧线跌超1%，碳酸锂、沥青、沪锡、燃油、沪镍、低硫燃料油（LU）跌近1%。",
+          "url": "https://flash.jin10.com/detail/20251114090002772800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "受益于光伏海外大单与电池零部件涨价，科创新能源ETF易方达（589960）持续上涨",
+          "url": "https://www.gelonghui.com/news/5117611",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         },
         {
-          "title": "中信证券：AI投资机会扩散，关注算力产业链和AI应用",
-          "url": "https://wallstreetcn.com/livenews/3004456",
+          "title": "光伏概念午后再度走强 隆基绿能涨超8%",
+          "url": "https://api3.cls.cn/share/article/2200661?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 13时43分]"
+        },
+        {
+          "title": "【风口研报·行业】光伏通过技术迭代来出清产能是阻力更小的选择，钙钛矿有望进入GW量产元年带动行业走出底部，分析师梳理产业链上市公司",
+          "url": "https://api3.cls.cn/share/article/2200560?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 12时24分]"
+        },
+        {
+          "title": "立中集团(300428.SZ)：子公司山东立中新能源现拥有六氟磷酸锂产能1万吨",
+          "url": "https://www.gelonghui.com/news/5117691",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "立中集团：子公司山东立中新能源材料有限公司现有六氟磷酸锂产能1万吨",
+          "url": "https://api3.cls.cn/share/article/2200778?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "宏源药业(301246.SZ)：布局电解液添加剂等产品，与六氟磷酸锂业务形成产业协同",
+          "url": "https://www.gelonghui.com/news/5117581",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "A股午评：创业板指跌1.74%，海南、福建板块爆发，存储芯片板块回调",
+          "url": "https://www.gelonghui.com/news/5117615",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时49分 ~ 12时45分]"
+        },
+        {
+          "title": "A股异动丨铠侠暴雷，存储芯片股集体重挫，佰维存储跌11%",
+          "url": "https://www.gelonghui.com/news/5117618",
+          "source": "格隆汇",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 13时20分]"
+        },
+        {
+          "title": "沪指跌近1%失守4000点，存储芯片板块集体调整",
+          "url": "https://wallstreetcn.com/livenews/3004659",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "中芯国际：存储芯片供不应求致使手机客户拿货谨慎",
+          "url": "https://api3.cls.cn/share/article/2200382?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1604,150 +1851,6 @@
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。豆一涨近2%，液化石油气（LPG）、苯乙烯（EB）、苹果、PTA、瓶片、沪银、纯苯涨超1%；跌幅方面，焦煤跌超2%，甲醇、玻璃、沪锡、工业硅、沪镍跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251114113058283800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时49分 ~ 12时45分]"
-        },
-        {
-          "title": "富宝资讯：碳酸锂期货盘面偏弱整理，富宝碳酸锂社会总库存11.95万吨，环减3.24%",
-          "url": "https://flash.jin10.com/detail/20251114130543332800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 13时43分]"
-        },
-        {
-          "title": "金十期货11月14日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌800元/吨，中间价报86950元/吨。",
-          "url": "https://flash.jin10.com/detail/20251114103225270800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "早盘开盘，国内期货主力合约涨多跌少。液化石油气（LPG）涨近2%，PTA、乙二醇（EG）、PX、苯乙烯（EB）、烧碱、瓶片、塑料、豆一涨超1%；跌幅方面，集运欧线跌超1%，碳酸锂、沥青、沪锡、燃油、沪镍、低硫燃料油（LU）跌近1%。",
-          "url": "https://flash.jin10.com/detail/20251114090002772800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "受益于光伏海外大单与电池零部件涨价，科创新能源ETF易方达（589960）持续上涨",
-          "url": "https://www.gelonghui.com/news/5117611",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "光伏概念午后再度走强 隆基绿能涨超8%",
-          "url": "https://api3.cls.cn/share/article/2200661?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 13时43分]"
-        },
-        {
-          "title": "【风口研报·行业】光伏通过技术迭代来出清产能是阻力更小的选择，钙钛矿有望进入GW量产元年带动行业走出底部，分析师梳理产业链上市公司",
-          "url": "https://api3.cls.cn/share/article/2200560?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 12时24分]"
-        },
-        {
-          "title": "宏源药业(301246.SZ)：布局电解液添加剂等产品，与六氟磷酸锂业务形成产业协同",
-          "url": "https://www.gelonghui.com/news/5117581",
-          "source": "格隆汇",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股午评：创业板指跌1.74%，海南、福建板块爆发，存储芯片板块回调",
-          "url": "https://www.gelonghui.com/news/5117615",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时49分 ~ 12时45分]"
-        },
-        {
-          "title": "A股异动丨铠侠暴雷，存储芯片股集体重挫，佰维存储跌11%",
-          "url": "https://www.gelonghui.com/news/5117618",
-          "source": "格隆汇",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时23分 ~ 13时20分]"
-        },
-        {
-          "title": "中芯国际：存储芯片供不应求致使手机客户拿货谨慎",
-          "url": "https://api3.cls.cn/share/article/2200382?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "雷达",
       "match_count": 2,
       "titles": [
@@ -1757,11 +1860,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时54分]"
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 15时19分]"
         },
         {
           "title": "大疆首次公开展示其全新长测程高精度激光雷达工厂高标准生产线",
@@ -1837,6 +1941,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时30分 ~ 14时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月14日（周五）富时中国A50指数成分股今日收盘行情一览：成分股大面积飘绿，半导体、消费电子、通信设备板块跌幅居前，部分银行股逆势收涨",
+          "url": "https://flash.jin10.com/detail/20251114150545728800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
