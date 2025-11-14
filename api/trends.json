@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T12:45:19.331083+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2025-11-14T13:20:01.040236+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "周四美市盘前小幅走低 聚焦女股神”凯西伍德卖特斯拉股",
@@ -17,6 +17,29 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时24分 ~ 07时40分]"
+        },
+        {
+          "title": "大摩：英伟达、AMD、特斯拉等客户需求爆表 台积电3nm抢手紧急扩产",
+          "url": "https://api3.cls.cn/share/article/2200668?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
+          "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
+          "url": "https://www.cls.cn/detail/2200223",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 13时20分]"
         },
         {
           "title": "纳指大幅收跌2.3% 特斯拉跌超6%",
@@ -45,18 +68,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 01时44分]"
-        },
-        {
-          "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
-          "url": "https://www.cls.cn/detail/2200223",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 12时45分]"
         },
         {
           "title": "半导体ETF收跌3%，领跌美股行业ETF，特斯拉跌超6.6%拖累标普可选消费板块",
@@ -198,9 +209,218 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "摩根大通：当前水平下比特币下行空间“非常有限”",
+          "url": "https://www.gelonghui.com/news/5117481",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 07时40分]"
+        },
+        {
+          "title": "英国史上最大比特币洗钱案：中国主谋钱志敏获刑11年8个月",
+          "url": "https://www.zaochenbao.com/news/china/202511/1357248.html",
+          "source": "早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 07时40分]"
+        },
+        {
+          "title": "财联社11月14日电，比特币向下跌破98000美元，过去24小时内下跌3.56%。",
+          "url": "https://api3.cls.cn/share/article/2200237?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5,
+            11,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时43分 ~ 06时20分]"
+        },
+        {
+          "title": "比特币跌破97000美元/枚",
+          "url": "https://www.gelonghui.com/news/5117631",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
+          "title": "比特币回落至98000美元/枚下方",
+          "url": "https://www.gelonghui.com/news/5117630",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
+          "title": "财联社11月14日电，比特币短线走低跌破97000美元，刷新5月8日以来新低。",
+          "url": "https://api3.cls.cn/share/article/2200642?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 13时20分]"
+        },
+        {
+          "title": "加密货币与加密货币关联指数跌9.98%，报67.71点，北京时间22:30微幅跳空低开，随后持续走低。 周四（11月13日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.98%，失守9.9万美元。 CME以太币期货DCR主力合约跌7.20%，报3172.50美元。 北京时间05:58，现货比特币跌2.79%，报98788.25美元；以太坊跌7%，报3180.64美元；Solana跌7.49%，狗狗币跌5.21%，XRP跌2.43%。",
+          "url": "https://wallstreetcn.com/livenews/3004408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时20分 ~ 07时40分]"
+        },
+        {
+          "title": "比特币跌破97000美元，24小时跌幅超4%。",
+          "url": "https://wallstreetcn.com/livenews/3004597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 13时20分]"
+        },
+        {
+          "title": "比特币跌破99000美元",
+          "url": "https://api3.cls.cn/share/article/2200215?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8,
+            12,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时52分 ~ 04时22分]"
+        },
+        {
+          "title": "以太坊回落至3200美元/枚下方，日内跌6.34%。",
+          "url": "https://flash.jin10.com/detail/20251114025011150800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 04时22分]"
+        },
+        {
+          "title": "以太坊回落至3300美元/枚下方，日内跌3.38%。",
+          "url": "https://flash.jin10.com/detail/20251114010652109800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时44分]"
+        },
+        {
+          "title": "比特币向下跌破100000美元",
+          "url": "https://api3.cls.cn/share/article/2200205?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 02时52分]"
+        },
+        {
+          "title": "比特币短线走低2000美元，跌破97000美元/枚，刷新5月8日以来新低，日内跌2.72%。",
+          "url": "https://flash.jin10.com/detail/20251114123944232800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
+          "title": "比特币回落至98000美元/枚下方，日内跌1.75%。",
+          "url": "https://flash.jin10.com/detail/20251114123511529800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
+          "title": "比特币跌至5月初以来低点，日内下跌3.3%至98244美元/枚。",
+          "url": "https://flash.jin10.com/detail/20251114045334859800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时38分]"
+        },
+        {
+          "title": "以太坊日内走低5.00%，现报3242美元/枚。",
+          "url": "https://flash.jin10.com/detail/20251114020500313800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时30分"
+        },
+        {
+          "title": "比特币跌破99000美元/枚，日内跌2.65%。",
+          "url": "https://flash.jin10.com/detail/20251114022544592800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         }
       ]
     },
@@ -217,8 +437,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时24分 ~ 12时45分]"
+          "appearance_count": 28,
+          "time_info": "[00时24分 ~ 13时20分]"
         },
         {
           "title": "河南投资集团等成立人工智能产业基金 出资额10亿",
@@ -226,11 +446,12 @@
           "source": "财联社电报",
           "ranks": [
             3,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 13时20分]"
         },
         {
           "title": "美联储穆萨莱姆：人工智能似乎正在提高生产力，同时取代工人。",
@@ -243,6 +464,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时52分 ~ 03时38分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-14）",
+          "url": "https://flash.jin10.com/detail/20251114115348256800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 13时20分]"
         },
         {
           "title": "韩国称，已经与美国敲定事实清单。 韩国和美国将在造船、人工智能、核工业方面建立新的伙伴关系。 韩国和美国同意，韩国在美投资将仅限于商业上可行的项目。 韩国和美国同意推进核动力潜艇建造。 韩国赢得美国支持，以扩大韩国的铀浓缩权。",
@@ -268,17 +501,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时30分 ~ 03时38分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-14）",
-          "url": "https://flash.jin10.com/detail/20251114115348256800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 12时45分]"
         },
         {
           "title": "美联储穆萨莱姆：怀疑大多数已宣布的裁员与人工智能无关，更可能是普通的自动化技术。",
@@ -382,169 +604,6 @@
       ]
     },
     {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "摩根大通：当前水平下比特币下行空间“非常有限”",
-          "url": "https://www.gelonghui.com/news/5117481",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时24分 ~ 07时40分]"
-        },
-        {
-          "title": "英国史上最大比特币洗钱案：中国主谋钱志敏获刑11年8个月",
-          "url": "https://www.zaochenbao.com/news/china/202511/1357248.html",
-          "source": "早报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时24分 ~ 07时40分]"
-        },
-        {
-          "title": "财联社11月14日电，比特币向下跌破98000美元，过去24小时内下跌3.56%。",
-          "url": "https://api3.cls.cn/share/article/2200237?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5,
-            11,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时43分 ~ 06时20分]"
-        },
-        {
-          "title": "财联社11月14日电，比特币短线走低跌破97000美元，刷新5月8日以来新低。",
-          "url": "https://api3.cls.cn/share/article/2200642?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "比特币跌破97000美元，24小时跌幅超4%。",
-          "url": "https://wallstreetcn.com/livenews/3004597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "加密货币与加密货币关联指数跌9.98%，报67.71点，北京时间22:30微幅跳空低开，随后持续走低。 周四（11月13日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.98%，失守9.9万美元。 CME以太币期货DCR主力合约跌7.20%，报3172.50美元。 北京时间05:58，现货比特币跌2.79%，报98788.25美元；以太坊跌7%，报3180.64美元；Solana跌7.49%，狗狗币跌5.21%，XRP跌2.43%。",
-          "url": "https://wallstreetcn.com/livenews/3004408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时20分 ~ 07时40分]"
-        },
-        {
-          "title": "比特币跌破99000美元",
-          "url": "https://api3.cls.cn/share/article/2200215?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8,
-            12,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时52分 ~ 04时22分]"
-        },
-        {
-          "title": "以太坊回落至3200美元/枚下方，日内跌6.34%。",
-          "url": "https://flash.jin10.com/detail/20251114025011150800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时22分]"
-        },
-        {
-          "title": "以太坊回落至3300美元/枚下方，日内跌3.38%。",
-          "url": "https://flash.jin10.com/detail/20251114010652109800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时44分]"
-        },
-        {
-          "title": "比特币向下跌破100000美元",
-          "url": "https://api3.cls.cn/share/article/2200205?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 02时52分]"
-        },
-        {
-          "title": "比特币跌至5月初以来低点，日内下跌3.3%至98244美元/枚。",
-          "url": "https://flash.jin10.com/detail/20251114045334859800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 05时38分]"
-        },
-        {
-          "title": "以太坊日内走低5.00%，现报3242美元/枚。",
-          "url": "https://flash.jin10.com/detail/20251114020500313800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时30分"
-        },
-        {
-          "title": "比特币跌破99000美元/枚，日内跌2.65%。",
-          "url": "https://flash.jin10.com/detail/20251114022544592800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 12,
       "titles": [
@@ -558,8 +617,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时24分 ~ 12时45分]"
+          "appearance_count": 28,
+          "time_info": "[00时24分 ~ 13时20分]"
+        },
+        {
+          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时27分 ~ 13时20分]"
         },
         {
           "title": "贝莱德三季度增持近1950万股英伟达 减持苹果",
@@ -574,18 +646,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时19分 ~ 07时40分]"
-        },
-        {
-          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 12时45分]"
         },
         {
           "title": "贝莱德三季度增持近1950万股英伟达 减持苹果",
@@ -838,8 +898,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时24分 ~ 12时45分]"
+          "appearance_count": 28,
+          "time_info": "[00时24分 ~ 13时20分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -853,8 +913,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时24分 ~ 12时45分]"
+          "appearance_count": 28,
+          "time_info": "[00时24分 ~ 13时20分]"
         },
         {
           "title": "阿里巴巴拟全面改造旗舰AI应用 力争赶超ChatGPT",
@@ -953,8 +1013,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时24分 ~ 12时45分]"
+          "appearance_count": 28,
+          "time_info": "[00时24分 ~ 13时20分]"
         },
         {
           "title": "美股异动丨“大空头”炮轰科技巨头诈欺后关闭旗下基金，英伟达跌超3%",
@@ -970,6 +1030,19 @@
           "time_info": "[00时24分 ~ 07时40分]"
         },
         {
+          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
+          "url": "https://www.cls.cn/detail/2200266",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时27分 ~ 13时20分]"
+        },
+        {
           "title": "纳指跌幅扩大至2.5% 英伟达跌超5%",
           "url": "https://api3.cls.cn/share/article/2200220?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -983,18 +1056,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时52分 ~ 04时44分]"
-        },
-        {
-          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
-          "url": "https://www.cls.cn/detail/2200266",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 12时45分]"
         },
         {
           "title": "英伟达下跌5%。",
@@ -1069,8 +1130,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时39分 ~ 12时45分]"
+          "appearance_count": 10,
+          "time_info": "[07时39分 ~ 13时20分]"
         },
         {
           "title": "美股三大指数低开，英伟达跌近2%，思科绩后大涨超7%创新高",
@@ -1167,7 +1228,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "星宸科技(301536.SZ)：智能机器人芯片上半年已出货550万颗，今年有望超过千万量级",
@@ -1193,6 +1254,17 @@
           "time_info": "[07时19分 ~ 07时40分]"
         },
         {
+          "title": "【盘中宝】政策引导+人形机器人、低空经济等新兴市场需求驱动下产业化节奏提速，机构称该行业工艺体系革新关注核心增量环节，这家企业已实现工艺全线覆盖",
+          "url": "https://api3.cls.cn/share/article/2200659?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
           "title": "博科测试(301598.SZ)：截至目前尚未设立机器人事业部",
           "url": "https://www.gelonghui.com/news/5117583",
           "source": "格隆汇",
@@ -1209,6 +1281,59 @@
           "source": "格隆汇",
           "ranks": [
             15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
+          "url": "https://wallstreetcn.com/articles/3759330",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 28,
+          "time_info": "[00时24分 ~ 13时20分]"
+        },
+        {
+          "title": "星宸科技(301536.SZ)：公司用于激光雷达的芯片为SPAD-SoC(单光子雪崩二极管系统级芯片)",
+          "url": "https://www.gelonghui.com/news/5117589",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "全国首个省市一体化算力调度监测平台在南京上线",
+          "url": "https://wallstreetcn.com/livenews/3004600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "中信证券：AI投资机会扩散，关注算力产业链和AI应用",
+          "url": "https://wallstreetcn.com/livenews/3004456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1377,40 +1502,100 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 4,
       "titles": [
         {
-          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
-          "url": "https://wallstreetcn.com/articles/3759330",
-          "source": "华尔街见闻",
+          "title": "早盘收盘，国内期货主力合约涨跌互现。豆一涨近2%，液化石油气（LPG）、苯乙烯（EB）、苹果、PTA、瓶片、沪银、纯苯涨超1%；跌幅方面，焦煤跌超2%，甲醇、玻璃、沪锡、工业硅、沪镍跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251114113058283800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            5,
             4,
-            3
+            12
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时24分 ~ 12时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时49分 ~ 12时45分]"
         },
         {
-          "title": "星宸科技(301536.SZ)：公司用于激光雷达的芯片为SPAD-SoC(单光子雪崩二极管系统级芯片)",
-          "url": "https://www.gelonghui.com/news/5117589",
-          "source": "格隆汇",
+          "title": "富宝资讯：碳酸锂期货盘面偏弱整理，富宝碳酸锂社会总库存11.95万吨，环减3.24%",
+          "url": "https://flash.jin10.com/detail/20251114130543332800",
+          "source": "金十数据",
           "ranks": [
-            3
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
+          "title": "金十期货11月14日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌800元/吨，中间价报86950元/吨。",
+          "url": "https://flash.jin10.com/detail/20251114103225270800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约涨多跌少。液化石油气（LPG）涨近2%，PTA、乙二醇（EG）、PX、苯乙烯（EB）、烧碱、瓶片、塑料、豆一涨超1%；跌幅方面，集运欧线跌超1%，碳酸锂、沥青、沪锡、燃油、沪镍、低硫燃料油（LU）跌近1%。",
+          "url": "https://flash.jin10.com/detail/20251114090002772800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "受益于光伏海外大单与电池零部件涨价，科创新能源ETF易方达（589960）持续上涨",
+          "url": "https://www.gelonghui.com/news/5117611",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         },
         {
-          "title": "中信证券：AI投资机会扩散，关注算力产业链和AI应用",
-          "url": "https://wallstreetcn.com/livenews/3004456",
-          "source": "华尔街见闻-快讯",
+          "title": "【风口研报·行业】光伏通过技术迭代来出清产能是阻力更小的选择，钙钛矿有望进入GW量产元年带动行业走出底部，分析师梳理产业链上市公司",
+          "url": "https://api3.cls.cn/share/article/2200560?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            30
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 12时24分]"
+        },
+        {
+          "title": "光伏概念午后再度走强 隆基绿能涨超8%",
+          "url": "https://api3.cls.cn/share/article/2200661?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
+          "title": "宏源药业(301246.SZ)：布局电解液添加剂等产品，与六氟磷酸锂业务形成产业协同",
+          "url": "https://www.gelonghui.com/news/5117581",
+          "source": "格隆汇",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1439,11 +1624,12 @@
           "url": "https://www.gelonghui.com/news/5117618",
           "source": "格隆汇",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 13时20分]"
         },
         {
           "title": "中芯国际：存储芯片供不应求致使手机客户拿货谨慎",
@@ -1451,86 +1637,6 @@
           "source": "财联社电报",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。豆一涨近2%，液化石油气（LPG）、苯乙烯（EB）、苹果、PTA、瓶片、沪银、纯苯涨超1%；跌幅方面，焦煤跌超2%，甲醇、玻璃、沪锡、工业硅、沪镍跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251114113058283800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时49分 ~ 12时45分]"
-        },
-        {
-          "title": "金十期货11月14日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌800元/吨，中间价报86950元/吨。",
-          "url": "https://flash.jin10.com/detail/20251114103225270800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "早盘开盘，国内期货主力合约涨多跌少。液化石油气（LPG）涨近2%，PTA、乙二醇（EG）、PX、苯乙烯（EB）、烧碱、瓶片、塑料、豆一涨超1%；跌幅方面，集运欧线跌超1%，碳酸锂、沥青、沪锡、燃油、沪镍、低硫燃料油（LU）跌近1%。",
-          "url": "https://flash.jin10.com/detail/20251114090002772800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "受益于光伏海外大单与电池零部件涨价，科创新能源ETF易方达（589960）持续上涨",
-          "url": "https://www.gelonghui.com/news/5117611",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "【风口研报·行业】光伏通过技术迭代来出清产能是阻力更小的选择，钙钛矿有望进入GW量产元年带动行业走出底部，分析师梳理产业链上市公司",
-          "url": "https://api3.cls.cn/share/article/2200560?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 12时24分]"
-        },
-        {
-          "title": "宏源药业(301246.SZ)：布局电解液添加剂等产品，与六氟磷酸锂业务形成产业协同",
-          "url": "https://www.gelonghui.com/news/5117581",
-          "source": "格隆汇",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
