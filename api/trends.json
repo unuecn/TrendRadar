@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T01:43:18.016381+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-19T02:30:20.834795+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
         },
         {
           "title": "消息人士：英伟达(NVDA.O)和微软(MSFT.O)正承诺投资Anthropic的下一轮融资。此前Anthropic已获得微软和英伟达150亿美元投资。",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 02时30分]"
         },
         {
           "title": "财联社11月19日电，英伟达和微软据悉承诺将投资Anthropic的下一轮融资。",
@@ -47,11 +48,12 @@
           "source": "财联社电报",
           "ranks": [
             3,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 02时30分]"
         },
         {
           "title": "财联社11月18日电，Anthropic的估值在微软+英伟达最新投资承诺之后为3500亿美元。",
@@ -175,11 +177,12 @@
           "source": "财联社电报",
           "ranks": [
             6,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 02时30分]"
         },
         {
           "title": "OpenAI首席执行官：祝贺谷歌推出Gemini 3，这款模型看起来很棒。",
@@ -188,7 +191,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         }
@@ -196,7 +199,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
@@ -206,8 +209,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
@@ -217,8 +220,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
         },
         {
           "title": "财联社11月19日电，沙特人工智能公司Humain据称计划与包括亚马逊、AMD、xAI 和GlobalAI在内的多家公司合作，宣布建设多个千兆瓦的数据中心。",
@@ -226,11 +229,12 @@
           "source": "财联社电报",
           "ranks": [
             7,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 02时30分]"
         },
         {
           "title": "英伟达和微软将向投资人工智能初创公司Anthropic合计投资至多150亿美元",
@@ -242,6 +246,57 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时53分]"
+        },
+        {
+          "title": "美国总统特朗普：美国将涉足沙特阿拉伯的人工智能领域。",
+          "url": "https://flash.jin10.com/detail/20251119015405489800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "刚刚，中美机器人爆发了一场论战",
+          "url": "https://wallstreetcn.com/articles/3759621",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
+        },
+        {
+          "title": "杭州成中国机器人与人工智能“摇篮”",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/11/18/a14046647ce346d3ade3c315cbc2111b.html",
+          "source": "参考消息",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
+        },
+        {
+          "title": "亚马逊旗下Zoox在美国旧金山推出机器人出租车服务",
+          "url": "https://wallstreetcn.com/livenews/3006676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时30分"
         }
       ]
     },
@@ -257,8 +312,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
         },
         {
           "title": "Strategy在比特币重挫之际继续增持",
@@ -268,8 +323,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
         },
         {
           "title": "以太坊升破3100美元",
@@ -279,8 +334,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
         }
       ]
     },
@@ -311,35 +366,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 01时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "刚刚，中美机器人爆发了一场论战",
-          "url": "https://wallstreetcn.com/articles/3759621",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
-        },
-        {
-          "title": "杭州成中国机器人与人工智能“摇篮”",
-          "url": "https://ckxxapp.ckxx.net/pages/2025/11/18/a14046647ce346d3ade3c315cbc2111b.html",
-          "source": "参考消息",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
         }
       ]
     },
@@ -413,8 +439,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
         },
         {
           "title": "协创数据(300857.SZ)：公司未与华为公司有合作",
@@ -424,8 +450,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
         }
       ]
     },
@@ -458,8 +484,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
         }
       ]
     }
