@@ -1,11 +1,22 @@
 {
-  "generated_at": "2025-11-18T19:40:24.566651+08:00",
-  "total_titles_processed": 1737,
-  "failed_sources": [],
+  "generated_at": "2025-11-18T20:44:09.863552+08:00",
+  "total_titles_processed": 1757,
+  "failed_sources": [
+    "cls-telegraph",
+    "wallstreetcn-hot",
+    "thepaper",
+    "cls-hot",
+    "zaobao",
+    "jin10",
+    "wallstreetcn-quick",
+    "cankaoxiaoxi",
+    "weibo",
+    "gelonghui"
+  ],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "华为Mate80系列发布在即 新款麒麟芯片或将亮相",
@@ -71,6 +82,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时18分 ~ 19时40分]"
+        },
+        {
+          "title": "小米卢伟冰：已签2026年内存供应协议 可能通过涨价应对成本上升",
+          "url": "https://api3.cls.cn/share/article/2204167?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "港股收盘：恒生指数收跌1.72%，恒生科技指数收跌1.93%，科技股、汽车股均走低，小鹏汽车跌超10%，百度跌近2%，小米跌超2.8%。",
@@ -272,7 +294,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -302,7 +324,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "杭州成中国机器人与人工智能“摇篮”",
@@ -476,6 +498,18 @@
           "time_info": "[12时24分 ~ 13时19分]"
         },
         {
+          "title": "刚刚，中美机器人爆发了一场论战",
+          "url": "https://wallstreetcn.com/articles/3759621",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 20时42分]"
+        },
+        {
           "title": "何小鹏：机器人市场潜力比汽车大，售价有望看齐",
           "url": "https://wallstreetcn.com/livenews/3006275",
           "source": "华尔街见闻-快讯",
@@ -521,6 +555,17 @@
           "time_info": "[15时20分 ~ 15时41分]"
         },
         {
+          "title": "【风口研报·公司】这个锂电材料明后年新增产能有限，龙头公司明年有望实现满产满销，分析师大幅上调盈利预测；打造“地空地下”机器人产品矩阵，这家公司渠道覆盖toB和toC双场景，持续加大AI研发投入",
+          "url": "https://api3.cls.cn/share/article/2203852?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "研报掘金丨华安证券：维持拓普集团“买入”评级，机器人产品线不断拓展",
           "url": "https://www.gelonghui.com/news/5119518",
           "source": "格隆汇",
@@ -530,17 +575,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
-        },
-        {
-          "title": "刚刚，中美机器人爆发了一场论战",
-          "url": "https://wallstreetcn.com/articles/3759621",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
         },
         {
           "title": "国信证券：机械行业2026年成长聚焦AI基建和人形机器人 把握产业升级的成长机会",
@@ -873,19 +907,6 @@
           "time_info": "[00时27分 ~ 07时39分]"
         },
         {
-          "title": "币圈“极度恐慌”，市场为比特币跌向“80000美元”做准备",
-          "url": "https://wallstreetcn.com/articles/3759577",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时43分 ~ 19时40分]"
-        },
-        {
           "title": "全球市场恐慌发酵：日本股债汇三杀，欧股全线下跌，比特币下破9万美元关口，金价跌破4000美元",
           "url": "https://wallstreetcn.com/articles/3759603",
           "source": "华尔街见闻",
@@ -896,8 +917,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时22分 ~ 19时40分]"
+          "appearance_count": 9,
+          "time_info": "[17时22分 ~ 20时42分]"
+        },
+        {
+          "title": "币圈“极度恐慌”，市场为比特币跌向“80000美元”做准备",
+          "url": "https://wallstreetcn.com/articles/3759577",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[13时43分 ~ 20时42分]"
         },
         {
           "title": "比特币下跌0.83%，报92668.86美元，创2024年4月份以来新低。 加密货币概念股走低，Coinbase跌7%，Bitfarms跌0.5%，Strategy跌2.9%，Riot Platforms跌1.2%，MARA Holdings跌4.1%。 ProShares比特币策略ETF跌1.6%，iShares比特币信托跌1.7%。",
@@ -1332,114 +1366,8 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
-          "url": "https://www.cls.cn/detail/2203555",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时29分 ~ 19时40分]"
-        },
-        {
-          "title": "“一夜之间”，每个人都在卖英伟达",
-          "url": "https://wallstreetcn.com/articles/3759575",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时46分 ~ 19时40分]"
-        },
-        {
-          "title": "美股异动丨英伟达一度跌近3% 继软银后 “硅谷风投教父”也出手清仓公司股份",
-          "url": "https://www.gelonghui.com/news/5119286",
-          "source": "格隆汇",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 06时42分]"
-        },
-        {
-          "title": "斯蒂费尔：将英伟达(NVDA.O)目标股价从212美元上调至250美元。",
-          "url": "https://flash.jin10.com/detail/20251118192424676800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "财联社11月18日电，投行Stifel将英伟达目标股价从212美元上调至250美元。",
-          "url": "https://api3.cls.cn/share/article/2204102?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "同益股份(300538.SZ)：暂未与英伟达开展合作",
-          "url": "https://www.gelonghui.com/news/5119510",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "VanEck：卖出英伟达头寸的交易员将股市情绪拉低",
-          "url": "https://wallstreetcn.com/livenews/3006276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时53分]"
-        },
-        {
-          "title": "分析师：美股逢低买入动能消退 市场在英伟达财报前感到焦虑",
-          "url": "https://flash.jin10.com/detail/20251118034734318800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时41分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "一图看懂 | 国产GPU两大龙头“登科”，核心能力圈大拆解",
@@ -1526,6 +1454,123 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "财联社11月18日电，人工智能云初创公司Lambda新一轮融资逾15亿美元，由TWG Global领投，本轮融资将用于购置英伟达GPU及扩建数据中心。",
+          "url": "https://api3.cls.cn/share/article/2204146?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
+          "url": "https://www.cls.cn/detail/2203555",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[14时29分 ~ 19时40分]"
+        },
+        {
+          "title": "“一夜之间”，每个人都在卖英伟达",
+          "url": "https://wallstreetcn.com/articles/3759575",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[11时46分 ~ 20时42分]"
+        },
+        {
+          "title": "美股异动丨英伟达一度跌近3% 继软银后 “硅谷风投教父”也出手清仓公司股份",
+          "url": "https://www.gelonghui.com/news/5119286",
+          "source": "格隆汇",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 06时42分]"
+        },
+        {
+          "title": "斯蒂费尔：将英伟达(NVDA.O)目标股价从212美元上调至250美元。",
+          "url": "https://flash.jin10.com/detail/20251118192424676800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "财联社11月18日电，投行Stifel将英伟达目标股价从212美元上调至250美元。",
+          "url": "https://api3.cls.cn/share/article/2204102?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "同益股份(300538.SZ)：暂未与英伟达开展合作",
+          "url": "https://www.gelonghui.com/news/5119510",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "VanEck：卖出英伟达头寸的交易员将股市情绪拉低",
+          "url": "https://wallstreetcn.com/livenews/3006276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时53分]"
+        },
+        {
+          "title": "分析师：美股逢低买入动能消退 市场在英伟达财报前感到焦虑",
+          "url": "https://flash.jin10.com/detail/20251118034734318800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 04时41分]"
         }
       ]
     },
@@ -1540,7 +1585,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -1620,7 +1665,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
@@ -1683,6 +1728,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时39分]"
+        },
+        {
+          "title": "财联社11月18日电，OpenAI状态页面通报，ChatGPT及平台网站现部分服务中断。",
+          "url": "https://api3.cls.cn/share/article/2204163?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "【盘中宝】阿里AI应用千问APP国际版将上线，腾讯、字节、Deepseek等厂商纷纷布局AI应用赛道，抢夺下一个超级流量入口，这家企业与阿里在多个业务展开合作",
@@ -1845,6 +1901,58 @@
       ]
     },
     {
+      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "宁德时代：2027年有望实现全固态电池小批量生产",
+          "url": "https://wallstreetcn.com/livenews/3006481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时40分]"
+        },
+        {
+          "title": "【电报解读】宁德时代称2027年有望实现全固态电池小批量生产，机构看好该细分领域作为产业卖铲人有望最先受益，这家公司与多家客户签订了数千万元的固态电池产线订单",
+          "url": "https://api3.cls.cn/share/article/2204160?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "宁德时代：2027年有望实现全固态电池小批量生产",
+          "url": "https://api3.cls.cn/share/article/2204079?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 19时40分]"
+        },
+        {
+          "title": "溯联股份(301397.SZ)：固态电池包的设计与现有产品接近",
+          "url": "https://www.gelonghui.com/news/5119504",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 4,
       "titles": [
@@ -1941,50 +2049,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "宁德时代：2027年有望实现全固态电池小批量生产",
-          "url": "https://wallstreetcn.com/livenews/3006481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 19时40分]"
-        },
-        {
-          "title": "宁德时代：2027年有望实现全固态电池小批量生产",
-          "url": "https://api3.cls.cn/share/article/2204079?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 19时40分]"
-        },
-        {
-          "title": "溯联股份(301397.SZ)：固态电池包的设计与现有产品接近",
-          "url": "https://www.gelonghui.com/news/5119504",
-          "source": "格隆汇",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
         }
       ]
     },
@@ -2169,6 +2236,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时22分 ~ 17时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "瑞声科技宣布收购AR衍射光波导技术企业Dispelix",
+          "url": "https://api3.cls.cn/share/article/2204168?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
