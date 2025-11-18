@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T11:46:15.577117+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2025-11-18T12:24:32.768157+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "比特币 以太坊",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
@@ -78,18 +78,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "比特币跌破9万美元/枚，为7个月来首次。",
-          "url": "https://flash.jin10.com/detail/20251118113429626800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -106,6 +95,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时23分 ~ 06时19分]"
+        },
+        {
+          "title": "比特币跌破9万美元/枚，为7个月来首次。",
+          "url": "https://flash.jin10.com/detail/20251118113429626800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时24分]"
         },
         {
           "title": "（美股）加密货币与加密货币关联指数收跌2.72%，报63.59点。 MarketVector数字资产100小盘指数下跌2.93%，暂报19205.59点，最近24小时跌1.92%。 周一（11月17日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌2.87%，报91655.00美元。 CME以太币期货DCR主力合约跌5.69%，报2991美元。 北京时间05:57，现货比特币跌2.62%，报91800美元；以太坊跌3%，报3004.78美元；Solana跌4.86%，狗狗币跌3.26%，XRP跌2.93%。",
@@ -155,12 +156,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "比特币七个月来首次跌破9万美元关口。",
+          "url": "https://wallstreetcn.com/livenews/3006228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -181,9 +193,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-18）",
+          "url": "https://flash.jin10.com/detail/20251118120343282800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "【盘中宝】AI大模型接连迭代，机构称阿里、百度、字节等大厂高度重视AI建设投资，积极推动AI应用落地，这家企业产品积极融入AI功能",
@@ -246,6 +269,39 @@
           "time_info": "[06时19分 ~ 06时42分]"
         },
         {
+          "title": "ETF午评 | AI应用题材逆势走强，传媒ETF涨超2%",
+          "url": "https://www.gelonghui.com/news/5119457",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "11月18日午间收评：北证50指数半日跌超2%，AI应用方向逆势大涨",
+          "url": "https://wallstreetcn.com/livenews/3006232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "A股午评：沪指跌0.56%，电池、煤炭板块跌幅居前，AI应用方向走强",
+          "url": "https://www.gelonghui.com/news/5119453",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
           "url": "https://flash.jin10.com/detail/20251117231526009800",
           "source": "金十数据",
@@ -260,7 +316,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
@@ -270,11 +326,12 @@
             12,
             11,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 11时46分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 12时24分]"
         },
         {
           "title": "LME期铜收跌74美元，报10778美元/吨。 LME期铝收跌45美元，报2814美元/吨。 LME期锌收跌26美元，报2994美元/吨。 LME期铅收跌26美元，报2038美元/吨。 LME期镍收跌241美元，报14650美元/吨。 LME期锡收涨99美元，报36886美元/吨。 LME期钴收平，报48570美元/吨。",
@@ -343,6 +400,17 @@
           "time_info": "[00时27分 ~ 00时52分]"
         },
         {
+          "title": "比特币跌破9万美元大关，吐光今年30％涨幅",
+          "url": "https://www.gelonghui.com/news/5119452",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "行业ETF美股盘初多数下跌，全球科技股指数ETF跌1.03%，科技行业ETF跌0.9%，能源业ETF跌0.73%，半导体ETF跌0.63%，银行业ETF跌0.51%，网络股指数ETF则涨0.22%。 标普科技板块跌0.88%，能源板块跌0.7%，电信板块则涨2.06%。",
           "url": "https://wallstreetcn.com/livenews/3005934",
           "source": "华尔街见闻-快讯",
@@ -357,7 +425,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "小熊电器(002959.SZ)：目前未有机器人相关业务",
@@ -376,11 +444,12 @@
           "source": "早报",
           "ranks": [
             2,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 12时24分]"
         },
         {
           "title": "新型3D打印工艺造出微型德尔塔机器人",
@@ -400,11 +469,23 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 12时24分]"
+        },
+        {
+          "title": "蓝思科技：全资子公司蓝思智能机器人新基地今日投产",
+          "url": "https://api3.cls.cn/share/article/2203517?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "国信证券：机械行业2026年成长聚焦AI基建和人形机器人 把握产业升级的成长机会",
@@ -435,9 +516,109 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "华为Mate80系列发布在即 新款麒麟芯片或将亮相",
+          "url": "https://www.cls.cn/detail/2203399",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "雷军在微博称，11月21日上午9点广州车展上将发布小米端到端辅助驾驶新版本——HAD 增强版。 这个版本进步很大。",
+          "url": "https://wallstreetcn.com/livenews/3006206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 12时24分]"
+        },
+        {
+          "title": "华为终端宣布华为FreeBuds Pro 5悦彰耳机正式开启预售，搭载第三代华为自研音频主控芯片麒麟A3芯片和星闪E2.0技术。",
+          "url": "https://wallstreetcn.com/livenews/3006226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时24分]"
+        },
+        {
+          "title": "13999元华为手机掉火坑后还能用",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2313999%E5%85%83%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E6%8E%89%E7%81%AB%E5%9D%91%E5%90%8E%E8%BF%98%E8%83%BD%E7%94%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26flag%3D1%26realpos%3D16%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D16%26cate%3D5001%26pos%3D16%26q%3D%252313999%25E5%2585%2583%25E5%258D%258E%25E4%25B8%25BA%25E6%2589%258B%25E6%259C%25BA%25E6%258E%2589%25E7%2581%25AB%25E5%259D%2591%25E5%2590%258E%25E8%25BF%2598%25E8%2583%25BD%25E7%2594%25A8%2523%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1763434605%26pre_seqid%3D176343460536202819713157&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            16,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 12时24分]"
+        },
+        {
+          "title": "华为Mate X7搭载全新折叠玄武架构",
+          "url": "https://wallstreetcn.com/livenews/3006210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时24分]"
+        },
+        {
+          "title": "华为新款折叠屏最新架构技术曝光",
+          "url": "https://api3.cls.cn/share/article/2203441?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "华为MateX7或将采用全新云锦材质",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%8E%E4%B8%BAMateX7%E6%88%96%E5%B0%86%E9%87%87%E7%94%A8%E5%85%A8%E6%96%B0%E4%BA%91%E9%94%A6%E6%9D%90%E8%B4%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D18%26cate%3D5001%26realpos%3D18%26lcate%3D5001%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D18%26q%3D%2523%25E5%258D%258E%25E4%25B8%25BAMateX7%25E6%2588%2596%25E5%25B0%2586%25E9%2587%2587%25E7%2594%25A8%25E5%2585%25A8%25E6%2596%25B0%25E4%25BA%2591%25E9%2594%25A6%25E6%259D%2590%25E8%25B4%25A8%2523%26display_time%3D1763439838%26pre_seqid%3D17634398380650281270199&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "小米su7路面超车发生侧滑",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3su7%E8%B7%AF%E9%9D%A2%E8%B6%85%E8%BD%A6%E5%8F%91%E7%94%9F%E4%BE%A7%E6%BB%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26flag%3D1%26realpos%3D23%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D23%26cate%3D5001%26pos%3D23%26q%3D%2523%25E5%25B0%258F%25E7%25B1%25B3su7%25E8%25B7%25AF%25E9%259D%25A2%25E8%25B6%2585%25E8%25BD%25A6%25E5%258F%2591%25E7%2594%259F%25E4%25BE%25A7%25E6%25BB%2591%2523%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1763434605%26pre_seqid%3D176343460536202819713157&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         }
       ]
     },
@@ -455,8 +636,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 11时46分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 12时24分]"
         },
         {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报94450元/吨，较上日16:30价格上涨4100元/吨。",
@@ -471,6 +652,30 @@
           "time_info": "[10时57分 ~ 11时46分]"
         },
         {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。碳酸锂、BR橡胶、低硫燃料油（LU）涨近1%；跌幅方面，焦煤跌超4%，集运指数（欧线）、焦炭跌超3%，硅铁、沪银、锰硅、纯苯跌近2%。",
+          "url": "https://flash.jin10.com/detail/20251118113047287800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时24分]"
+        },
+        {
+          "title": "金十期货11月18日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨4100元/吨，中间价报94450元/吨。",
+          "url": "https://flash.jin10.com/detail/20251118110251407800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时24分]"
+        },
+        {
           "title": "早盘开盘，国内期货主力合约涨跌不一。碳酸锂涨近4%，BR橡胶涨超1%；跌幅方面，焦煤跌超3%，多晶硅、焦炭跌超2%，集运指数（欧线）、甲醇、烧碱、沪镍、纸浆跌超1%。",
           "url": "https://flash.jin10.com/detail/20251118090001193800",
           "source": "金十数据",
@@ -480,17 +685,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。碳酸锂、BR橡胶、低硫燃料油（LU）涨近1%；跌幅方面，焦煤跌超4%，集运指数（欧线）、焦炭跌超3%，硅铁、沪银、锰硅、纯苯跌近2%。",
-          "url": "https://flash.jin10.com/detail/20251118113047287800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         },
         {
           "title": "商品期货开盘，碳酸锂主力合约涨超3%，BR橡胶涨超1%。焦煤跌超3%，焦炭、多晶硅跌超2%，集运欧线、甲醇、沪银、沪镍、烧碱、纸浆跌超1%。",
@@ -504,17 +698,6 @@
           "time_info": "09时26分"
         },
         {
-          "title": "金十期货11月18日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨4100元/吨，中间价报94450元/吨。",
-          "url": "https://flash.jin10.com/detail/20251118110251407800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
           "title": "国内期货主力合约涨跌不一 碳酸锂涨近4%",
           "url": "https://api3.cls.cn/share/article/2203290?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -524,80 +707,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "华为终端宣布华为FreeBuds Pro 5悦彰耳机正式开启预售，搭载第三代华为自研音频主控芯片麒麟A3芯片和星闪E2.0技术。",
-          "url": "https://wallstreetcn.com/livenews/3006226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "雷军在微博称，11月21日上午9点广州车展上将发布小米端到端辅助驾驶新版本——HAD 增强版。 这个版本进步很大。",
-          "url": "https://wallstreetcn.com/livenews/3006206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 11时46分]"
-        },
-        {
-          "title": "13999元华为手机掉火坑后还能用",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2313999%E5%85%83%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E6%8E%89%E7%81%AB%E5%9D%91%E5%90%8E%E8%BF%98%E8%83%BD%E7%94%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26flag%3D1%26realpos%3D16%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D16%26cate%3D5001%26pos%3D16%26q%3D%252313999%25E5%2585%2583%25E5%258D%258E%25E4%25B8%25BA%25E6%2589%258B%25E6%259C%25BA%25E6%258E%2589%25E7%2581%25AB%25E5%259D%2591%25E5%2590%258E%25E8%25BF%2598%25E8%2583%25BD%25E7%2594%25A8%2523%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1763434605%26pre_seqid%3D176343460536202819713157&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 11时46分]"
-        },
-        {
-          "title": "华为新款折叠屏最新架构技术曝光",
-          "url": "https://api3.cls.cn/share/article/2203441?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "华为Mate X7搭载全新折叠玄武架构",
-          "url": "https://wallstreetcn.com/livenews/3006210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "小米su7路面超车发生侧滑",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3su7%E8%B7%AF%E9%9D%A2%E8%B6%85%E8%BD%A6%E5%8F%91%E7%94%9F%E4%BE%A7%E6%BB%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26flag%3D1%26realpos%3D23%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D23%26cate%3D5001%26pos%3D23%26q%3D%2523%25E5%25B0%258F%25E7%25B1%25B3su7%25E8%25B7%25AF%25E9%259D%25A2%25E8%25B6%2585%25E8%25BD%25A6%25E5%258F%2591%25E7%2594%259F%25E4%25BE%25A7%25E6%25BB%2591%2523%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1763434605%26pre_seqid%3D176343460536202819713157&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
         }
       ]
     },
@@ -630,6 +739,19 @@
           "time_info": "[07时18分 ~ 07时39分]"
         },
         {
+          "title": "与ChatGPT全面竞争 阿里千问应用公测版上线",
+          "url": "https://www.zaochenbao.com/news/china/202511/1857582.html",
+          "source": "早报",
+          "ranks": [
+            18,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 12时24分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：在Google VIDS中扩大了Gemini的使用范围。拥有Gmail账号的任何人都可使用Google VIDS中的Gemini功能。（注：Google Vids是一款AI赋能的视频制作应用）",
           "url": "https://flash.jin10.com/detail/20251118065706358800",
           "source": "金十数据",
@@ -640,18 +762,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时39分]"
-        },
-        {
-          "title": "与ChatGPT全面竞争 阿里千问应用公测版上线",
-          "url": "https://www.zaochenbao.com/news/china/202511/1857582.html",
-          "source": "早报",
-          "ranks": [
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 11时46分]"
         }
       ]
     },
@@ -769,8 +879,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 11时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 12时24分]"
         },
         {
           "title": "美股异动丨存储芯片股大幅拉升 美光科技再创历史新高",
@@ -856,6 +966,18 @@
           "time_info": "[00时27分 ~ 06时42分]"
         },
         {
+          "title": "“一夜之间”，每个人都在卖英伟达",
+          "url": "https://wallstreetcn.com/articles/3759575",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时24分]"
+        },
+        {
           "title": "分析师：美股逢低买入动能消退 市场在英伟达财报前感到焦虑",
           "url": "https://flash.jin10.com/detail/20251118034734318800",
           "source": "金十数据",
@@ -865,17 +987,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 04时41分]"
-        },
-        {
-          "title": "“一夜之间”，每个人都在卖英伟达",
-          "url": "https://wallstreetcn.com/articles/3759575",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         }
       ]
     },
@@ -968,6 +1079,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "量子科技 量子计算 量子通信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "台湾拟将量子计算机和先进半导体设备纳入管制范围",
+          "url": "https://www.zaochenbao.com/news/taiwan/202511/1857606.html",
+          "source": "早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
