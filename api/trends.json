@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T00:53:40.752352+08:00",
-  "total_titles_processed": 252,
+  "generated_at": "2025-11-19T01:19:35.794327+08:00",
+  "total_titles_processed": 268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "“一夜之间”，每个人都在卖英伟达",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "消息人士：英伟达(NVDA.O)和微软(MSFT.O)正承诺投资Anthropic的下一轮融资。此前Anthropic已获得微软和英伟达150亿美元投资。",
@@ -25,42 +25,67 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时19分]"
+        },
+        {
+          "title": "据知情人士透露，英伟达和微软承诺，将参与Anthropic的下一轮融资。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3006661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "01时19分"
+        },
+        {
+          "title": "财联社11月19日电，英伟达和微软据悉承诺将投资Anthropic的下一轮融资。",
+          "url": "https://api3.cls.cn/share/article/2204340?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
         },
         {
           "title": "财联社11月18日电，Anthropic的估值在微软+英伟达最新投资承诺之后为3500亿美元。",
           "url": "https://api3.cls.cn/share/article/2204321?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "英伟达跌2.8%。",
           "url": "https://wallstreetcn.com/livenews/3006640",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "Anthropic的估值在微软+英伟达最新投资承诺之后为3500亿美元。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3006639",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "财联社11月18日电，英伟达跌超3%，AMD跌超5%。",
@@ -88,18 +113,19 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌推出最新一代AI模型Gemini 3 强调立即投入盈利产品",
           "url": "https://api3.cls.cn/share/article/2204330?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
@@ -110,19 +136,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
-        },
-        {
-          "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
-          "url": "https://wallstreetcn.com/livenews/3006643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "谷歌：即日起，美国地区的Google AI Pro和Ultra订阅用户可以使用Gemini 3 Pro。",
@@ -133,14 +148,37 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
+          "url": "https://wallstreetcn.com/livenews/3006643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "网络安全公司Cloudflare已修复故障 ChatGPT和X等服务恢复正常",
+          "url": "https://api3.cls.cn/share/article/2204336?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
@@ -150,8 +188,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
@@ -161,8 +199,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "英伟达和微软将向投资人工智能初创公司Anthropic合计投资至多150亿美元",
@@ -174,6 +212,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时53分]"
+        },
+        {
+          "title": "财联社11月19日电，沙特人工智能公司Humain据称计划与包括亚马逊、AMD、xAI 和GlobalAI在内的多家公司合作，宣布建设多个千兆瓦的数据中心。",
+          "url": "https://api3.cls.cn/share/article/2204335?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
         }
       ]
     },
@@ -189,8 +238,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "Strategy在比特币重挫之际继续增持",
@@ -200,8 +249,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "以太坊升破3100美元",
@@ -211,8 +260,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         }
       ]
     },
@@ -225,22 +274,24 @@
           "url": "https://api3.cls.cn/share/article/2204312?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "百度美股短线拉升涨超2%，盘初一度跌近5%。 百度CFO何海建在Q3财报电话会上披露，自2023年3月发布文心一言以来，百度在AI领域的投入已超过1000亿元。未来，百度将持续加大AI投入。",
           "url": "https://wallstreetcn.com/livenews/3006629",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         }
       ]
     },
@@ -253,11 +304,12 @@
           "url": "https://wallstreetcn.com/articles/3759621",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "杭州成中国机器人与人工智能“摇篮”",
@@ -267,8 +319,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         }
       ]
     },
@@ -281,11 +333,12 @@
           "url": "https://api3.cls.cn/share/article/2204316?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "Waymo：全自动驾驶服务推广至迈阿密、达拉斯、休斯顿、奥尔良、以及San Antonio这五个美国城市。",
@@ -309,11 +362,12 @@
           "url": "https://api3.cls.cn/share/article/2204310?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "据知情人士透露，德国量子计算供应商Raith考虑出售，希望于潜在交易获得大约10亿欧元估值。（彭博）",
@@ -340,8 +394,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "协创数据(300857.SZ)：公司未与华为公司有合作",
@@ -351,8 +405,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         }
       ]
     },
@@ -385,8 +439,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
         }
       ]
     }
