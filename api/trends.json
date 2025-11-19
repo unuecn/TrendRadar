@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T20:41:21.211804+08:00",
-  "total_titles_processed": 1840,
+  "generated_at": "2025-11-19T21:32:33.838274+08:00",
+  "total_titles_processed": 1928,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时22分 ~ 20时41分]"
+          "appearance_count": 9,
+          "time_info": "[17时22分 ~ 21时32分]"
         },
         {
           "title": "金圆股份三连板 公司回应：碳酸锂产品还在试生产阶段，目前没有具体报价",
@@ -278,6 +278,18 @@
           "time_info": "[14时29分 ~ 14时53分]"
         },
         {
+          "title": "有机硅、工业硅价格大涨，合盛硅业盘中涨停，公司回应",
+          "url": "https://wallstreetcn.com/livenews/3007214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时32分]"
+        },
+        {
           "title": "财联社11月19日电，工业硅期货主力合约日内涨超5%，现报9430元/吨。",
           "url": "https://api3.cls.cn/share/article/2204793?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -323,17 +335,6 @@
           "time_info": "10时56分"
         },
         {
-          "title": "有机硅、工业硅价格大涨，合盛硅业盘中涨停，公司回应",
-          "url": "https://wallstreetcn.com/livenews/3007214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
           "title": "财联社11月19日电，碳酸锂期货主力合约日内涨超5%，现报99300元/吨。",
           "url": "https://api3.cls.cn/share/article/2204567?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -370,7 +371,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
@@ -402,11 +403,12 @@
             8,
             10,
             11,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时50分 ~ 20时41分]"
+          "appearance_count": 11,
+          "time_info": "[16时50分 ~ 21时32分]"
         },
         {
           "title": "美国总统特朗普：我们必须制定一项人工智能联邦标准，而不是由50个州各自为政的监管体系。",
@@ -610,6 +612,18 @@
           "time_info": "[14时29分 ~ 14时53分]"
         },
         {
+          "title": "资产管理巨头Brookfield计划启动1000亿美元人工智能基础设施项目。",
+          "url": "https://wallstreetcn.com/livenews/3007213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时32分]"
+        },
+        {
           "title": "英伟达和微软将向投资人工智能初创公司Anthropic合计投资至多150亿美元",
           "url": "https://api3.cls.cn/share/article/2204301?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -627,7 +641,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -654,17 +668,6 @@
           "time_info": "04时23分"
         },
         {
-          "title": "资产管理巨头Brookfield计划启动1000亿美元人工智能基础设施项目。",
-          "url": "https://wallstreetcn.com/livenews/3007213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
           "title": "特朗普：将与沙特阿拉伯签署人工智能协议。",
           "url": "https://wallstreetcn.com/livenews/3006820",
           "source": "华尔街见闻-快讯",
@@ -682,9 +685,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
+        },
+        {
+          "title": "欧盟司法部门负责人：欧盟数据保护法的修改将允许人工智能开发者使用部分用户数据进行训练。",
+          "url": "https://flash.jin10.com/detail/20251119210215899800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "截至11月19日，上海市新增3款已完成登记的生成式人工智能服务，累计已完成130款生成式人工智能服务登记。（网信上海）",
@@ -693,7 +707,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         }
@@ -1002,7 +1016,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1021,7 +1035,7 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
@@ -1031,8 +1045,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时26分 ~ 20时41分]"
+          "appearance_count": 24,
+          "time_info": "[09时26分 ~ 21时32分]"
         },
         {
           "title": "“一夜之间”，每个人都在卖英伟达",
@@ -1126,6 +1140,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时19分 ~ 03时17分]"
+        },
+        {
+          "title": "台积电又闹“内鬼”？这回事涉英特尔",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/11/19/fe2bc0b3004e4d58a07c6a12494ac4ce.html",
+          "source": "参考消息",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "三菱日联：英伟达业绩不及预期可能推动美元走弱",
@@ -1308,7 +1333,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -1320,8 +1345,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时26分 ~ 20时41分]"
+          "appearance_count": 24,
+          "time_info": "[09时26分 ~ 21时32分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -1335,8 +1360,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[10时56分 ~ 20时41分]"
+          "appearance_count": 23,
+          "time_info": "[10时56分 ~ 21时32分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -1360,8 +1385,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时26分 ~ 20时41分]"
+          "appearance_count": 21,
+          "time_info": "[09时26分 ~ 21时32分]"
         },
         {
           "title": "财联社11月19日电，拉里·萨默斯据悉已决定辞去OpenAI董事会职务。",
@@ -1370,18 +1395,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
-          "url": "https://wallstreetcn.com/livenews/3007227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1405,9 +1419,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
+        },
+        {
+          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
+          "url": "https://wallstreetcn.com/livenews/3007227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时32分]"
         },
         {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
@@ -1494,6 +1520,17 @@
           "time_info": "19时39分"
         },
         {
+          "title": "【财联社早知道】OpenAI与Target携手将新的AI驱动体验带入零售领域，机构称AI应用正进入新的催化阶段，这家公司不断融合AI+新零售等新技术；这家公司与字节跳动旗下即梦AI达成合作",
+          "url": "https://api3.cls.cn/share/article/2204943?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "特朗普称沙特将获得F-35战机 谷歌推出新一代AI模型Gemini 3 | 环球市场",
           "url": "https://www.cls.cn/detail/2204388",
           "source": "财联社热门",
@@ -1511,7 +1548,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1522,7 +1559,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1541,7 +1578,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "刚刚，中美机器人爆发了一场论战",
@@ -1565,11 +1602,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时27分 ~ 20时41分]"
+          "appearance_count": 12,
+          "time_info": "[16时27分 ~ 21时32分]"
         },
         {
           "title": "杭州成中国机器人与人工智能“摇篮”",
@@ -1705,6 +1743,17 @@
           "time_info": "19时39分"
         },
         {
+          "title": "东杰智能(300486.SZ)：拟向遨博山东采购机器人产品",
+          "url": "https://www.gelonghui.com/news/5120839",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "长盈精密：第四季度海外人形机器人新订单加速增长 公司正在积极扩产",
           "url": "https://api3.cls.cn/share/article/2205310?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -1752,7 +1801,7 @@
     },
     {
       "keyword_group": "比特币 以太坊",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "比特币升破93000美元",
@@ -1835,7 +1884,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1846,9 +1895,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
+        },
+        {
+          "title": "贝莱德向Coinbase存入6735枚比特币 价值超6亿美元",
+          "url": "https://www.gelonghui.com/news/5120840",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "贝莱德向Coinbase存入6735枚比特币，价值超6亿美元",
+          "url": "https://www.gelonghui.com/news/5120836",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "比特币大跌引发连锁反应 贝莱德旗下ETF遭遇创纪录资金赎回",
+          "url": "https://wallstreetcn.com/livenews/3007233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
@@ -1940,7 +2022,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         }
@@ -2030,24 +2112,13 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "赛伍技术：“应用于钙钛矿叠层组件的光转膜”的批量交付为小批量交付，出货量以及销售金额极小",
-          "url": "https://wallstreetcn.com/livenews/3007225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
           "title": "赛伍技术(603212.SH)：小批量交付钙钛矿叠层组件光转膜 对业绩影响较小",
           "url": "https://www.gelonghui.com/news/5120828",
           "source": "格隆汇",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -2063,13 +2134,25 @@
           "time_info": "15时20分"
         },
         {
+          "title": "赛伍技术：“应用于钙钛矿叠层组件的光转膜”的批量交付为小批量交付，出货量以及销售金额极小",
+          "url": "https://wallstreetcn.com/livenews/3007225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时32分]"
+        },
+        {
           "title": "赛伍技术：“应用于钙钛矿叠层组件的光转膜”的批量交付为小批量交付 出货量以及销售金额极小",
           "url": "https://api3.cls.cn/share/article/2205406?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -2102,17 +2185,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "闪存全面大幅涨价 最高涨幅达38.46%",
-          "url": "https://api3.cls.cn/share/article/2204812?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时53分]"
-        },
-        {
           "title": "“涨价”成行情点火器，存储芯片、锂电材料概念股轮番走强，后续行情怎么看？",
           "url": "https://www.cls.cn/detail/2205070",
           "source": "财联社热门",
@@ -2124,8 +2196,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 20时41分]"
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 21时32分]"
+        },
+        {
+          "title": "闪存全面大幅涨价 最高涨幅达38.46%",
+          "url": "https://api3.cls.cn/share/article/2204812?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时53分]"
         },
         {
           "title": "闪存全面大幅涨价 最高涨幅达38.46%",
@@ -2431,6 +2514,35 @@
       ]
     },
     {
+      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "多氟多：已建成100吨/年硼稳定同位素系列新材料产线",
+          "url": "https://api3.cls.cn/share/article/2205129?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 17时44分]"
+        },
+        {
+          "title": "中孚实业：拟投资2.59亿元建设铝基新材料绿色智造项目",
+          "url": "https://api3.cls.cn/share/article/2205463?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 2,
       "titles": [
@@ -2536,24 +2648,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "多氟多：已建成100吨/年硼稳定同位素系列新材料产线",
-          "url": "https://api3.cls.cn/share/article/2205129?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 17时44分]"
         }
       ]
     }
