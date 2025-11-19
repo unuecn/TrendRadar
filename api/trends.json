@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T12:45:43.279643+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2025-11-19T13:20:47.663532+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 13时20分]"
         },
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币黄金走强",
@@ -81,17 +81,17 @@
           "time_info": "[01时19分 ~ 03时17分]"
         },
         {
-          "title": "财联社11月18日电，Anthropic的估值在微软+英伟达最新投资承诺之后为3500亿美元。",
-          "url": "https://api3.cls.cn/share/article/2204321?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "英伟达财报倒计时！期权市场暗示：史上最大单日市值巨震要来了？",
+          "url": "https://www.cls.cn/detail/2204561",
+          "source": "财联社热门",
           "ranks": [
+            8,
             6,
-            14,
-            19
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
+          "time_info": "[11时45分 ~ 13时20分]"
         },
         {
           "title": "传台积电前副总带2纳米先进制程资料赴任英特尔",
@@ -103,8 +103,21 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 13时20分]"
+        },
+        {
+          "title": "财联社11月18日电，Anthropic的估值在微软+英伟达最新投资承诺之后为3500亿美元。",
+          "url": "https://api3.cls.cn/share/article/2204321?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            14,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时56分 ~ 12时45分]"
+          "time_info": "[00时27分 ~ 01时43分]"
         },
         {
           "title": "英伟达跌2.8%。",
@@ -130,18 +143,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时26分 ~ 12时45分]"
-        },
-        {
-          "title": "英伟达财报倒计时！期权市场暗示：史上最大单日市值巨震要来了？",
-          "url": "https://www.cls.cn/detail/2204561",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 12时45分]"
         },
         {
           "title": "Anthropic的估值在微软+英伟达最新投资承诺之后为3500亿美元。（CNBC）",
@@ -324,11 +325,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 13时20分]"
         },
         {
           "title": "特朗普：希望建立人工智能的统一联邦监管标准",
@@ -356,6 +358,19 @@
           "time_info": "[01时19分 ~ 02时30分]"
         },
         {
+          "title": "ETF午评 | AI应用下挫，影视ETF、文娱传媒ETF跌2.8%",
+          "url": "https://www.gelonghui.com/news/5120251",
+          "source": "格隆汇",
+          "ranks": [
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 13时20分]"
+        },
+        {
           "title": "美国总统特朗普：美国将涉足沙特阿拉伯的人工智能领域。",
           "url": "https://flash.jin10.com/detail/20251119015405489800",
           "source": "金十数据",
@@ -366,18 +381,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时30分 ~ 03时17分]"
-        },
-        {
-          "title": "ETF午评 | AI应用下挫，影视ETF、文娱传媒ETF跌2.8%",
-          "url": "https://www.gelonghui.com/news/5120251",
-          "source": "格隆汇",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时45分]"
         },
         {
           "title": "英伟达和微软将向投资人工智能初创公司Anthropic合计投资至多150亿美元",
@@ -416,7 +419,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "小米电话会：小米汽车本周将提前完成全年交付目标，预计明年毛利率有所下降，手机业务可能通过涨价应对存储成本上升",
@@ -429,8 +432,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 12时45分]"
+          "appearance_count": 23,
+          "time_info": "[00时27分 ~ 13时20分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -443,8 +446,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时19分 ~ 12时45分]"
+          "appearance_count": 13,
+          "time_info": "[06时19分 ~ 13时20分]"
         },
         {
           "title": "协创数据(300857.SZ)：公司未与华为公司有合作",
@@ -504,6 +507,18 @@
           "time_info": "[06时19分 ~ 06时47分]"
         },
         {
+          "title": "小米集团股价跌破40港元，较6月最高点已跌超30%",
+          "url": "https://www.cls.cn/detail/2204599",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 13时20分]"
+        },
+        {
           "title": "华为明年初或发布AI Data Platform产品",
           "url": "https://wallstreetcn.com/livenews/3006902",
           "source": "华尔街见闻-快讯",
@@ -541,15 +556,15 @@
           "time_info": "[06时20分 ~ 06时47分]"
         },
         {
-          "title": "小米集团股价跌破40港元，较6月最高点已跌超30%",
-          "url": "https://www.cls.cn/detail/2204599",
-          "source": "财联社热门",
+          "title": "华为Mate X7开启预订",
+          "url": "https://wallstreetcn.com/livenews/3006950",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "财联社11月19日电，文件显示，特斯拉CEO马斯克、英伟达CEO黄仁勋将参加美国-沙特投资论坛关于科技的小组讨论。",
@@ -599,7 +614,7 @@
     },
     {
       "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "碳酸锂主力合约日内涨超2.00%，现报96520元/吨。",
@@ -611,17 +626,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        },
-        {
-          "title": "金圆股份三连板 公司回应：碳酸锂产品还在试生产阶段，目前没有具体报价",
-          "url": "https://wallstreetcn.com/livenews/3006948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
         },
         {
           "title": "财联社11月19日电，碳酸锂期货主力合约日内涨2%，现报96520元/吨。",
@@ -663,11 +667,24 @@
           "ranks": [
             2,
             15,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 12时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时20分]"
+        },
+        {
+          "title": "金圆股份三连板 公司回应：碳酸锂产品还在试生产阶段，目前没有具体报价",
+          "url": "https://wallstreetcn.com/livenews/3006948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 13时20分]"
         },
         {
           "title": "国内期货主力合约涨跌不一 碳酸锂涨超4%",
@@ -689,11 +706,12 @@
           "ranks": [
             6,
             19,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 12时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时20分]"
         },
         {
           "title": "碳酸锂期货突破10万元关口",
@@ -733,6 +751,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时45分 ~ 12时45分]"
+        },
+        {
+          "title": "金圆股份三连板 公司回应：碳酸锂产品还在试生产阶段 目前没有具体报价",
+          "url": "https://api3.cls.cn/share/article/2204735?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "碳酸锂期货强势突破10万元大关",
@@ -778,11 +807,12 @@
           "url": "https://www.cls.cn/detail/2204346",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 13时20分]"
         },
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -792,8 +822,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 13时20分]"
+        },
+        {
+          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
+          "url": "https://wallstreetcn.com/articles/3759654",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 13时20分]"
         },
         {
           "title": "谷歌推出最新一代AI模型Gemini 3 强调立即投入盈利产品",
@@ -809,18 +851,6 @@
           "time_info": "[00时27分 ~ 01时43分]"
         },
         {
-          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
-          "url": "https://wallstreetcn.com/articles/3759654",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 12时45分]"
-        },
-        {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
           "url": "https://wallstreetcn.com/articles/3759673",
           "source": "华尔街见闻",
@@ -830,8 +860,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 13时20分]"
         },
         {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
@@ -911,8 +941,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 12时45分]"
+          "appearance_count": 23,
+          "time_info": "[00时27分 ~ 13时20分]"
         },
         {
           "title": "杭州成中国机器人与人工智能“摇篮”",
@@ -952,6 +982,20 @@
           "time_info": "09时26分"
         },
         {
+          "title": "恒生科技指数日内跌幅扩大至1%，小米跌超4%，快手、理想汽车、地平线机器人跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3006926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时20分]"
+        },
+        {
           "title": "智元机器人注册灵渠商标 系自研发机器人操作系统",
           "url": "https://api3.cls.cn/share/article/2204696?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -959,19 +1003,6 @@
             1,
             14,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 12时45分]"
-        },
-        {
-          "title": "恒生科技指数日内跌幅扩大至1%，小米跌超4%，快手、理想汽车、地平线机器人跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3006926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            14
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1152,7 +1183,7 @@
     },
     {
       "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "福能东方(300173.SZ)：公司旗下子公司超业精密已向部分固态电池客户提供少量固态电池设备",
@@ -1191,6 +1222,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 12时24分]"
+        },
+        {
+          "title": "碳酸锂期货突破10万大关！锂电产业链集体爆发 储能需求及固态电池成关键支撑",
+          "url": "https://www.cls.cn/detail/2204718",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         }
       ]
     },
