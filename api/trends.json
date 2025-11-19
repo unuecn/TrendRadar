@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T10:56:52.737863+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2025-11-19T11:45:44.867065+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "“一夜之间”，每个人都在卖英伟达",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 10时56分]"
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 11时45分]"
         },
         {
           "title": "据知情人士透露，英伟达和微软承诺，将参与Anthropic的下一轮融资。（路透）",
@@ -119,6 +119,41 @@
           "time_info": "[00时27分 ~ 01时19分]"
         },
         {
+          "title": "传台积电前副总带2纳米先进制程资料赴任英特尔",
+          "url": "https://www.zaochenbao.com/news/taiwan/202511/1957675.html",
+          "source": "早报",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 11时45分]"
+        },
+        {
+          "title": "埃隆·马斯克以及英伟达首席执行官黄仁勋周三将在华盛顿举行的美国-沙特投资论坛上参加关于AI/技术的讨论。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3006884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 11时45分]"
+        },
+        {
+          "title": "AI泡沫担忧加剧之际 微软、英伟达与Anthropic宣布达成合作",
+          "url": "https://www.cls.cn/detail/2204353",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 11时45分]"
+        },
+        {
           "title": "财联社11月18日电，英伟达跌超3%，AMD跌超5%。",
           "url": "https://api3.cls.cn/share/article/2204295?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -130,37 +165,15 @@
           "time_info": "[00时27分 ~ 00时53分]"
         },
         {
-          "title": "传台积电前副总带2纳米先进制程资料赴任英特尔",
-          "url": "https://www.zaochenbao.com/news/taiwan/202511/1957675.html",
-          "source": "早报",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "埃隆·马斯克以及英伟达首席执行官黄仁勋周三将在华盛顿举行的美国-沙特投资论坛上参加关于AI/技术的讨论。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3006884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "AI泡沫担忧加剧之际 微软、英伟达与Anthropic宣布达成合作",
-          "url": "https://www.cls.cn/detail/2204353",
+          "title": "英伟达财报倒计时！期权市场暗示：史上最大单日市值巨震要来了？",
+          "url": "https://www.cls.cn/detail/2204561",
           "source": "财联社热门",
           "ranks": [
-            12
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "11时45分"
         },
         {
           "title": "英伟达(NVDA.O)首席执行官黄仁勋现身特朗普与沙特王储的晚宴。",
@@ -376,7 +389,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "小米电话会：小米汽车本周将提前完成全年交付目标，预计明年毛利率有所下降，手机业务可能通过涨价应对存储成本上升",
@@ -389,8 +402,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 10时56分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 11时45分]"
+        },
+        {
+          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759633",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时19分 ~ 11时45分]"
         },
         {
           "title": "协创数据(300857.SZ)：公司未与华为公司有合作",
@@ -403,19 +429,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时27分 ~ 06时47分]"
-        },
-        {
-          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759633",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时19分 ~ 10时56分]"
         },
         {
           "title": "底特律三巨头CEO和特斯拉副总裁应邀出席美国参议院听证会",
@@ -493,7 +506,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -504,9 +517,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "华为明年初或发布AI Data Platform产品",
+          "url": "https://wallstreetcn.com/livenews/3006902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "文件显示，特斯拉CEO马斯克、英伟达CEO黄仁勋将参加美国-沙特投资论坛关于科技的小组讨论。",
@@ -515,7 +539,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -526,7 +550,157 @@
           "ranks": [
             23
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "碳酸锂主力合约日内涨超2.00%，现报96520元/吨。",
+          "url": "https://flash.jin10.com/detail/20251119091936671800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "碳酸锂期货涨至10万，更多体现为资金驱动，现货成交较少",
+          "url": "https://flash.jin10.com/detail/20251119113240780800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "财联社11月19日电，碳酸锂期货主力合约日内涨2%，现报96520元/吨。",
+          "url": "https://api3.cls.cn/share/article/2204526?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "国内期货主力合约涨跌不一 碳酸锂涨超4%",
+          "url": "https://api3.cls.cn/share/article/2204684?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "A股异动丨锂矿股进一步拉升，天齐锂业涨近8%，碳酸锂期货强势突破10万大关",
+          "url": "https://www.gelonghui.com/news/5120234",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
+          "title": "碳酸锂期货主力合约突破100000元/吨",
+          "url": "https://api3.cls.cn/share/article/2204612?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
+          "title": "碳酸锂期货突破10万元关口",
+          "url": "https://wallstreetcn.com/livenews/3006890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 11时45分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。碳酸锂涨超4%，工业硅涨超2%，棕榈油涨近2%。跌幅方面，纯碱跌近3%，集运指数（欧线）跌超2%，焦煤、菜粕跌近2%。",
+          "url": "https://flash.jin10.com/detail/20251119113023588800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "碳酸锂期货强势突破10万元大关",
+          "url": "https://flash.jin10.com/detail/20251119103100696800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
+          "title": "金十期货11月19日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨2800元/吨，中间价报96850元/吨。",
+          "url": "https://flash.jin10.com/detail/20251119110219157800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报96850元/吨，较上日16:30价格上涨2800元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3006898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "财联社11月19日电，碳酸锂期货主力合约日内涨超5%，现报99300元/吨。",
+          "url": "https://api3.cls.cn/share/article/2204567?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
+          "title": "碳酸锂连续主力合约日内涨5%报99340.00元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3006862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         }
@@ -544,8 +718,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 10时56分]"
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 11时45分]"
         },
         {
           "title": "谷歌推出最新一代AI模型Gemini 3 强调立即投入盈利产品",
@@ -572,6 +746,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 01时43分]"
+        },
+        {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 11时45分]"
         },
         {
           "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
@@ -611,37 +796,28 @@
           "time_info": "[01时19分 ~ 02时30分]"
         },
         {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 10时56分]"
-        },
-        {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
           "url": "https://wallstreetcn.com/articles/3759654",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 10时56分]"
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 11时45分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
           "url": "https://wallstreetcn.com/articles/3759673",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 11时45分]"
         },
         {
           "title": "OpenAI首席执行官：祝贺谷歌推出Gemini 3，这款模型看起来很棒。",
@@ -657,102 +833,8 @@
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "碳酸锂主力合约日内涨超2.00%，现报96520元/吨。",
-          "url": "https://flash.jin10.com/detail/20251119091936671800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "财联社11月19日电，碳酸锂期货主力合约日内涨2%，现报96520元/吨。",
-          "url": "https://api3.cls.cn/share/article/2204526?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "A股异动丨锂矿股进一步拉升，天齐锂业涨近8%，碳酸锂期货强势突破10万大关",
-          "url": "https://www.gelonghui.com/news/5120234",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "碳酸锂期货主力合约突破100000元/吨",
-          "url": "https://api3.cls.cn/share/article/2204612?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "碳酸锂期货突破10万元关口",
-          "url": "https://wallstreetcn.com/livenews/3006890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "碳酸锂期货强势突破10万元大关",
-          "url": "https://flash.jin10.com/detail/20251119103100696800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "财联社11月19日电，碳酸锂期货主力合约日内涨超5%，现报99300元/吨。",
-          "url": "https://api3.cls.cn/share/article/2204567?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "碳酸锂连续主力合约日内涨5%报99340.00元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3006862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "刚刚，中美机器人爆发了一场论战",
@@ -764,8 +846,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 10时56分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 11时45分]"
         },
         {
           "title": "杭州成中国机器人与人工智能“摇篮”",
@@ -774,11 +856,34 @@
           "ranks": [
             14,
             17,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 10时56分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 11时45分]"
+        },
+        {
+          "title": "智元机器人注册灵渠商标 系自研发机器人操作系统",
+          "url": "https://api3.cls.cn/share/article/2204696?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至1%，小米跌超4%，快手、理想汽车、地平线机器人跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3006926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "【研选】国内人形机器人企业在新产品、新订单和上市融资等多领域取得重要进展，产业链的商业化进程有望加速；空气洁净设备龙头，为龙头锂电企业海外扩张提供配套防爆除尘系统解决方案",
@@ -977,6 +1082,49 @@
       ]
     },
     {
+      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "福能东方(300173.SZ)：公司旗下子公司超业精密已向部分固态电池客户提供少量固态电池设备",
+          "url": "https://www.gelonghui.com/news/5120066",
+          "source": "格隆汇",
+          "ranks": [
+            5,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "需求增长与固态电池迭代助推 专家预测：中国锂电池出货量未来十年或增三倍",
+          "url": "https://api3.cls.cn/share/article/2204386?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时46分 ~ 07时37分]"
+        },
+        {
+          "title": "【掘金行业龙头】固态电池+锂电设备+有机硅，前段装备行业市场占有率超95%，固态电池设备具备接单能力，这家公司建成全球首个千吨“一矿多产”提锂项目",
+          "url": "https://api3.cls.cn/share/article/2204677?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
       "match_count": 3,
       "titles": [
@@ -1017,34 +1165,31 @@
       ]
     },
     {
-      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
+      "keyword_group": "金价 黄金",
       "match_count": 2,
       "titles": [
         {
-          "title": "福能东方(300173.SZ)：公司旗下子公司超业精密已向部分固态电池客户提供少量固态电池设备",
-          "url": "https://www.gelonghui.com/news/5120066",
+          "title": "黄金四连跌后反弹！费率最低的黄金股ETF涨近2%，黄金ETF华夏涨1.2%，录得“14连吸金”",
+          "url": "https://www.gelonghui.com/news/5120246",
           "source": "格隆汇",
           "ranks": [
-            5,
-            6,
-            14
+            5
           ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 07时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
-          "title": "需求增长与固态电池迭代助推 专家预测：中国锂电池出货量未来十年或增三倍",
-          "url": "https://api3.cls.cn/share/article/2204386?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "周二（11月18日）纽约尾盘，现货黄金涨0.54%，报4066.40美元/盎司，全天呈现出V形反转，北京时间15:38跌至3998.08美元刷新日低。 COMEX黄金期货跌0.22%，报4065.60美元/盎司，日内交投于3997.40-4083.70美元区间。",
+          "url": "https://wallstreetcn.com/livenews/3006749",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            13,
-            14
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时46分 ~ 07时37分]"
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时47分]"
         }
       ]
     },
@@ -1127,27 +1272,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（11月18日）纽约尾盘，现货黄金涨0.54%，报4066.40美元/盎司，全天呈现出V形反转，北京时间15:38跌至3998.08美元刷新日低。 COMEX黄金期货跌0.22%，报4065.60美元/盎司，日内交投于3997.40-4083.70美元区间。",
-          "url": "https://wallstreetcn.com/livenews/3006749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 06时47分]"
         }
       ]
     },
@@ -1211,11 +1338,29 @@
           "url": "https://wallstreetcn.com/livenews/3006878",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 11时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英特尔副总裁高嵩 ：下一代AI PC平台已在研发中",
+          "url": "https://api3.cls.cn/share/article/2204671?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "11时45分"
         }
       ]
     }
