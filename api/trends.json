@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T20:34:46.804538+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2025-11-23T21:23:58.127564+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
@@ -91,8 +91,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时38分 ~ 20时34分]"
+          "appearance_count": 12,
+          "time_info": "[15时38分 ~ 21时23分]"
         },
         {
           "title": "比特币突破86000美元/枚，日内涨1.63%；以太坊向上触及2800美元/枚，日内涨1.11%。",
@@ -144,6 +144,19 @@
           "time_info": "[09时45分 ~ 15时38分]"
         },
         {
+          "title": "美银Hartnett：一切都达到“流动性峰值”，美联储将被迫“投降”，比特币率先嗅探救市信号",
+          "url": "https://wallstreetcn.com/articles/3759953",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时41分 ~ 21时23分]"
+        },
+        {
           "title": "财联社11月23日电，比特币向上升破86000美元，日内涨2%。",
           "url": "https://api3.cls.cn/share/article/2208148?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -158,19 +171,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时27分 ~ 14时50分]"
-        },
-        {
-          "title": "美银Hartnett：一切都达到“流动性峰值”，美联储将被迫“投降”，比特币率先嗅探救市信号",
-          "url": "https://wallstreetcn.com/articles/3759953",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时41分 ~ 20时34分]"
         },
         {
           "title": "比特币突破86000美元/枚，日内涨1.63%。",
@@ -219,7 +219,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
@@ -260,11 +260,12 @@
             9,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时42分 ~ 20时34分]"
+          "appearance_count": 16,
+          "time_info": "[13时42分 ~ 21时23分]"
         },
         {
           "title": "网传小米汽车工厂内电池产线起火 小米官方澄清",
@@ -315,6 +316,17 @@
           "time_info": "[11时27分 ~ 14时50分]"
         },
         {
+          "title": "雷军缺席广州车展！两大新主角联袂登场，“处处都有华为的身影”",
+          "url": "https://wallstreetcn.com/articles/3759949",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "南京一律师质疑小米潜水手表虚假宣传，已向法院提交起诉书",
           "url": "https://m.thepaper.cn/newsDetail_forward_32017489",
           "source": "澎湃新闻",
@@ -329,7 +341,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【研选】国际冲突不断，公司硝化棉业务以及防化产品需求保持旺盛，产品毛利率创近几年最高水平；分析师看好这家业内稀缺标的出海营销企业，提供从算力支持到内容生产再到发行、增长与变现全流程解决方案",
@@ -355,11 +367,12 @@
             3,
             7,
             8,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时19分 ~ 20时34分]"
+          "appearance_count": 7,
+          "time_info": "[18时19分 ~ 21时23分]"
         },
         {
           "title": "山石网科(688030.SH)：ASIC安全专用芯片预计2026年第一季度开始规模化销售",
@@ -375,6 +388,18 @@
           "time_info": "[16时24分 ~ 17时19分]"
         },
         {
+          "title": "“国产GPU第一股”来了！摩尔线程明日申购，发行价114.28元/股",
+          "url": "https://www.cls.cn/detail/2208239",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 21时23分]"
+        },
+        {
           "title": "山石网科：ASIC安全专用芯片预计2026年第一季度开始规模化销售",
           "url": "https://api3.cls.cn/share/article/2208204?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -386,21 +411,21 @@
           "time_info": "[16时24分 ~ 16时45分]"
         },
         {
-          "title": "“国产GPU第一股”来了！摩尔线程明日申购，发行价114.28元/股",
-          "url": "https://www.cls.cn/detail/2208239",
-          "source": "财联社热门",
+          "title": "摩尔线程将成国产GPU第一股",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E5%B0%86%E6%88%90%E5%9B%BD%E4%BA%A7GPU%E7%AC%AC%E4%B8%80%E8%82%A1%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时34分"
+          "time_info": "21时23分"
         }
       ]
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "见证时代升级：全球首款AI泳池机器人 WYBOT S3震撼发布",
@@ -462,6 +487,17 @@
           "time_info": "[16时24分 ~ 19时15分]"
         },
         {
+          "title": "长安汽车：预计明年一季度将发布首款车载组件机器人",
+          "url": "https://api3.cls.cn/share/article/2208296?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "中鼎股份：与傅利叶智能签署战略合作协议 针对人形机器人相关产品展开合作",
           "url": "https://api3.cls.cn/share/article/2208223?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -478,7 +514,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。我们的目标是每12个月将一种新的人工智能芯片设计投入批量生产。我们预计最终生产的芯片数量将超过所有其他人工智能芯片的总和。",
@@ -564,6 +600,17 @@
           "is_new": false,
           "appearance_count": 27,
           "time_info": "[00时22分 ~ 13时42分]"
+        },
+        {
+          "title": "G20南非峰会领导人宣言：人工智能、数据治理和创新促进可持续发展",
+          "url": "https://wallstreetcn.com/livenews/3009107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         }
       ]
     },
@@ -581,8 +628,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时27分 ~ 20时34分]"
+          "appearance_count": 21,
+          "time_info": "[11时27分 ~ 21时23分]"
         },
         {
           "title": "【早报】两部门就规范大型网络平台个人信息保护公开征求意见；美国政府据称正考虑允许英伟达对华出售H200芯片",
@@ -596,8 +643,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时45分 ~ 20时34分]"
+          "appearance_count": 22,
+          "time_info": "[09时45分 ~ 21时23分]"
         },
         {
           "title": "消息：美国拟批准英伟达对华出售H200晶片",
@@ -621,11 +668,12 @@
             13,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时41分 ~ 20时34分]"
+          "appearance_count": 6,
+          "time_info": "[18时41分 ~ 21时23分]"
         },
         {
           "title": "环球网：美国政府正考虑允许英伟达对华出售H200芯片",
@@ -638,6 +686,66 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时18分 ~ 09时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "长鑫存储发布DDR5内存新品，最高速率达8000Mbps",
+          "url": "https://wallstreetcn.com/livenews/3009059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            12,
+            18,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时19分 ~ 20时34分]"
+        },
+        {
+          "title": "长鑫存储发布DDR5内存新品 最高速率达8000Mbps",
+          "url": "https://api3.cls.cn/share/article/2208232?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            7,
+            14,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 19时15分]"
+        },
+        {
+          "title": "长鑫存储发布DDR5高端新品",
+          "url": "https://wallstreetcn.com/livenews/3009086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时34分]"
+        },
+        {
+          "title": "【电报解读】长鑫存储发布DDR5内存新品！机构称长鑫的技术水平已达到国际一流水平，有望在全球获得更高DRAM产品份额，快速梳理长鑫存储相关标的（附表）",
+          "url": "https://api3.cls.cn/share/article/2208294?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         }
       ]
     },
@@ -718,55 +826,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时27分 ~ 15时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "长鑫存储发布DDR5内存新品，最高速率达8000Mbps",
-          "url": "https://wallstreetcn.com/livenews/3009059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            12,
-            18,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时19分 ~ 20时34分]"
-        },
-        {
-          "title": "长鑫存储发布DDR5内存新品 最高速率达8000Mbps",
-          "url": "https://api3.cls.cn/share/article/2208232?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            7,
-            14,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 19时15分]"
-        },
-        {
-          "title": "长鑫存储发布DDR5高端新品",
-          "url": "https://wallstreetcn.com/livenews/3009086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 20时34分]"
         }
       ]
     },
@@ -999,8 +1058,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时19分 ~ 20时34分]"
+          "appearance_count": 6,
+          "time_info": "[18时19分 ~ 21时23分]"
         }
       ]
     },
@@ -1059,8 +1118,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 20时34分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 21时23分]"
         }
       ]
     }
