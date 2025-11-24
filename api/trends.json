@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T04:42:15.108329+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-11-25T05:19:31.664326+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 05时19分]"
         },
         {
           "title": "美股异动丨特斯拉盘初涨近5% 马斯克称将“深度参与”人工智能芯片设计",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 05时19分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 05时19分]"
         },
         {
           "title": "阿联酋投资非洲人工智能产业",
@@ -49,8 +49,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 05时19分]"
         },
         {
           "title": "亚马逊将投资高达500亿美元，为美国政府机构扩展人工智能和超级计算基础设施。",
@@ -83,17 +83,6 @@
           "time_info": "[00时46分 ~ 03时14分]"
         },
         {
-          "title": "市场消息：亚马逊(AMZN.O)计划在印第安纳州北部投资150亿美元，用于建设新的数据中心园区并推动人工智能创新。",
-          "url": "https://flash.jin10.com/detail/20251125040327542800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时42分]"
-        },
-        {
           "title": "财联社11月25日电，亚马逊公司将投资高达500亿美元，为美国政府机构扩展人工智能和超级计算基础设施。",
           "url": "https://api3.cls.cn/share/article/2209523?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -118,6 +107,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时46分 ~ 02时54分]"
+        },
+        {
+          "title": "市场消息：亚马逊(AMZN.O)计划在印第安纳州北部投资150亿美元，用于建设新的数据中心园区并推动人工智能创新。",
+          "url": "https://flash.jin10.com/detail/20251125040327542800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 05时19分]"
         },
         {
           "title": "据日经新闻：日本拟将人工智能、核聚变等列为六大战略技术领域。",
@@ -166,11 +167,12 @@
           "url": "https://www.cls.cn/detail/2208933",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 05时19分]"
         },
         {
           "title": "财联社11月25日电，OpenAI在ChatGPT中推出购物搜索功能。",
@@ -257,7 +259,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "LME期铜收跌4美元，报10773美元/吨。 LME期铝收涨26美元，报2812美元/吨。 LME期锌收涨11美元，报3000美元/吨。 LME期铅收跌2美元，报1984美元/吨。 LME期镍收涨244美元，报14699美元/吨。 LME期锡收涨489美元，报37384美元/吨。 LME期钴收平，报48570美元/吨。",
@@ -280,22 +282,35 @@
           "url": "https://wallstreetcn.com/livenews/3009753",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时19分]"
         },
         {
           "title": "周一（11月24日）纽约尾盘，ICE美元指数跌0.03%，报100.150点，日内交投区间为100.297-100.011点。 彭博美元指数涨0.02%，报1226.64点，日内交投区间为1225.27-1227.98点。",
           "url": "https://wallstreetcn.com/livenews/3009750",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时19分]"
+        },
+        {
+          "title": "周一（11月24日）纽约尾盘，欧元兑美元涨0.08%，英镑兑美元涨0.06%，美元兑瑞郎跌0.02%。 商品货币对中，澳元兑美元涨0.19%，纽元兑美元大致持平，美元兑加元涨0.04%。 瑞典克朗兑美元跌0.04%，挪威克朗兑美元涨0.21%，丹麦克朗兑美元涨0.07%。 波兰兹罗提兑美元涨0.15%，匈牙利福林兑美元涨0.41%。",
+          "url": "https://wallstreetcn.com/livenews/3009759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时19分"
         },
         {
           "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
@@ -330,11 +345,12 @@
           "url": "https://api3.cls.cn/share/article/2209563?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时42分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 05时19分]"
         },
         {
           "title": "报道：苹果公司罕见地裁减，涉及销售部门",
@@ -342,33 +358,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时42分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 05时19分]"
         },
         {
           "title": "苹果罕见裁员 数十个销售部门岗位被裁",
           "url": "https://flash.jin10.com/detail/20251125034456145800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时42分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 05时19分]"
         },
         {
           "title": "市场消息：苹果公司罕见裁员，削减销售部门多个职位。苹果公司在声明中确认，将对销售策略部门进行“一些调整”。苹果公司最近几周通知了数十名销售人员裁员事宜。",
           "url": "https://flash.jin10.com/detail/20251125034040133800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时42分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 05时19分]"
         }
       ]
     },
@@ -384,8 +403,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 05时19分]"
         },
         {
           "title": "亚马逊近期重组的品牌卫星网络系统Amazon Leo已经向一个特别选定的客户群体预演其服务（试点），有望在2026年按既定计划推广至更大的客户群体。",
@@ -413,6 +432,46 @@
       ]
     },
     {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "华为Mate80ProMax配置曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80ProMax%E9%85%8D%E7%BD%AE%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 05时19分]"
+        },
+        {
+          "title": "纳指收涨2.69% 特斯拉、谷歌涨超6%",
+          "url": "https://api3.cls.cn/share/article/2209572?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3009764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 2,
       "titles": [
@@ -421,11 +480,12 @@
           "url": "https://wallstreetcn.com/articles/3760014",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 05时19分]"
         },
         {
           "title": "亚马逊(AMZN.O)：此次投资将为AWS Top Secret（最高机密）、AWS Secret（机密）和AWS GovCloud（政府云）各级别机密区域新增近 1.3 吉瓦（GW） 的算力容量，覆盖所有机密等级。",
@@ -452,11 +512,12 @@
           "url": "https://wallstreetcn.com/articles/3759998",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 05时19分]"
         },
         {
           "title": "财联社11月25日电，比特币向上升破88000美元，过去24小时内上涨1.63%。",
@@ -484,29 +545,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为Mate80ProMax配置曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80ProMax%E9%85%8D%E7%BD%AE%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 05时19分]"
         }
       ]
     },
