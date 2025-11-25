@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T13:44:44.620840+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2025-11-25T14:31:58.745944+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "阿里巴巴AI应用程式“千问” 过去一周下载突破千万",
@@ -53,11 +53,12 @@
           "ranks": [
             14,
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时23分 ~ 13时44分]"
+          "appearance_count": 31,
+          "time_info": "[00时23分 ~ 14时31分]"
         },
         {
           "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
@@ -68,8 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 13时44分]"
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 14时31分]"
         },
         {
           "title": "【数据看盘】银行ETF上周份额大减 多只AI应用概念股龙虎榜现机构与游资博弈",
@@ -319,6 +320,28 @@
           "time_info": "[09时26分 ~ 09时27分]"
         },
         {
+          "title": "北京市人工智能产业基金等入股AI办公工具研发商像素绽放",
+          "url": "https://api3.cls.cn/share/article/2210026?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "日本将把人工智能列入6大战略技术领域",
+          "url": "https://flash.jin10.com/detail/20251125141659367800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "AI硬件暴力反弹！5G通信ETF(515050)、创业板人工智能ETF华夏(159381)双双狂飙5.7%",
           "url": "https://www.gelonghui.com/news/5123581",
           "source": "格隆汇",
@@ -366,7 +389,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "网上中签率0.02423369%，网下申购倍数近1600倍！\"国产GPU第一股\"摩尔线程启动申购遭疯抢",
@@ -377,8 +400,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时23分 ~ 13时44分]"
+          "appearance_count": 31,
+          "time_info": "[00时23分 ~ 14时31分]"
         },
         {
           "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
@@ -387,11 +410,12 @@
           "ranks": [
             9,
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 13时44分]"
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 14时31分]"
         },
         {
           "title": "亚马逊(AMZN.O)：此次投资将为AWS Top Secret（最高机密）、AWS Secret（机密）和AWS GovCloud（政府云）各级别机密区域新增近 1.3 吉瓦（GW） 的算力容量，覆盖所有机密等级。",
@@ -406,6 +430,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 01时44分]"
+        },
+        {
+          "title": "机构：Q3数据中心GPU出货环比暴增145%",
+          "url": "https://api3.cls.cn/share/article/2210035?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "国产GPU第一股迎申购！全景透视摩尔线程受益股",
@@ -477,9 +512,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "【电报解读】受高通、苹果青睐，ASIC封装有望从台积电CoWoS转向英特尔EMIB技术，后者显著降低了封装的成本和复杂性，这家公司成套方案可用于EMIB等先进封装基板加工",
+          "url": "https://api3.cls.cn/share/article/2209999?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "创业板指涨超2%，沪指涨0.65%，深成指涨1.42%，算力硬件、AI应用、贵金属、量子科技等方向领涨，沪深京三市上涨个股超4600只。",
@@ -513,6 +559,145 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "华为Mate80ProMax配置曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80ProMax%E9%85%8D%E7%BD%AE%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 07时40分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
+          "url": "https://www.cls.cn/detail/2209592",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[07时18分 ~ 14时31分]"
+        },
+        {
+          "title": "纳指收涨2.69% 特斯拉、谷歌涨超6%",
+          "url": "https://api3.cls.cn/share/article/2209572?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            5,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时19分 ~ 06时42分]"
+        },
+        {
+          "title": "华为Mate80",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate80&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 14时31分]"
+        },
+        {
+          "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3009764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "大行评级丨花旗：雷军增持小米股份消息属正面 评级“买入”",
+          "url": "https://www.gelonghui.com/news/5123607",
+          "source": "格隆汇",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时44分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
+          "url": "https://wallstreetcn.com/livenews/3009767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时40分 ~ 06时42分]"
+        },
+        {
+          "title": "财联社11月25日电，据欧洲汽车制造商协会，欧盟10月新车注册量增长5.8%达916,609辆。特斯拉10月在欧盟的新车注册量下降48%。比亚迪10月欧盟新车注册量增长195%。",
+          "url": "https://api3.cls.cn/share/article/2209946?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时44分]"
+        },
+        {
+          "title": "欧洲汽车制造商协会：特斯拉10月在欧盟的新车注册量下降了48%。",
+          "url": "https://flash.jin10.com/detail/20251125130045287800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时44分]"
+        },
+        {
+          "title": "恒生科技指数涨2%。百度、哔哩哔哩、小米涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3009879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "小米集团涨4.5%",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E6%B6%A84.5%25%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         }
       ]
     },
@@ -650,133 +835,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "华为Mate80ProMax配置曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80ProMax%E9%85%8D%E7%BD%AE%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时23分 ~ 07时40分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
-          "url": "https://www.cls.cn/detail/2209592",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时18分 ~ 13时44分]"
-        },
-        {
-          "title": "华为Mate80",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate80&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 13时44分]"
-        },
-        {
-          "title": "纳指收涨2.69% 特斯拉、谷歌涨超6%",
-          "url": "https://api3.cls.cn/share/article/2209572?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            5,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时19分 ~ 06时42分]"
-        },
-        {
-          "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3009764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "大行评级丨花旗：雷军增持小米股份消息属正面 评级“买入”",
-          "url": "https://www.gelonghui.com/news/5123607",
-          "source": "格隆汇",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时44分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
-          "url": "https://wallstreetcn.com/livenews/3009767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时40分 ~ 06时42分]"
-        },
-        {
-          "title": "财联社11月25日电，据欧洲汽车制造商协会，欧盟10月新车注册量增长5.8%达916,609辆。特斯拉10月在欧盟的新车注册量下降48%。比亚迪10月欧盟新车注册量增长195%。",
-          "url": "https://api3.cls.cn/share/article/2209946?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时44分]"
-        },
-        {
-          "title": "欧洲汽车制造商协会：特斯拉10月在欧盟的新车注册量下降了48%。",
-          "url": "https://flash.jin10.com/detail/20251125130045287800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时44分]"
-        },
-        {
-          "title": "恒生科技指数涨2%。百度、哔哩哔哩、小米涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3009879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
         }
       ]
     },
@@ -1080,6 +1138,19 @@
           "time_info": "[04时23分 ~ 05时19分]"
         },
         {
+          "title": "苹果已经在烤肉届杀疯了",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%B7%B2%E7%BB%8F%E5%9C%A8%E7%83%A4%E8%82%89%E5%B1%8A%E6%9D%80%E7%96%AF%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时31分]"
+        },
+        {
           "title": "市场消息：苹果公司罕见裁员，削减销售部门多个职位。苹果公司在声明中确认，将对销售策略部门进行“一些调整”。苹果公司最近几周通知了数十名销售人员裁员事宜。",
           "url": "https://flash.jin10.com/detail/20251125034040133800",
           "source": "金十数据",
@@ -1113,18 +1184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 13时44分]"
-        },
-        {
-          "title": "苹果已经在烤肉届杀疯了",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%B7%B2%E7%BB%8F%E5%9C%A8%E7%83%A4%E8%82%89%E5%B1%8A%E6%9D%80%E7%96%AF%E4%BA%86&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时44分]"
         }
       ]
     },
@@ -1132,17 +1191,6 @@
       "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 7,
       "titles": [
-        {
-          "title": "碳酸锂主力合约日内涨幅扩大至2.00%，现报93160元/吨。",
-          "url": "https://flash.jin10.com/detail/20251125133333909800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
         {
           "title": "富宝资讯：碳酸锂期货盘面震荡，富宝电池级碳酸锂报90000元/吨",
           "url": "https://flash.jin10.com/detail/20251125111726098800",
@@ -1155,26 +1203,39 @@
           "time_info": "11时53分"
         },
         {
-          "title": "广期所碳酸锂主力合约涨超2%，现报93160元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3009992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
           "title": "财联社11月25日电，碳酸锂主力合约涨超2%。",
           "url": "https://api3.cls.cn/share/article/2209978?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "碳酸锂主力合约日内涨幅扩大至2.00%，现报93160元/吨。",
+          "url": "https://flash.jin10.com/detail/20251125133333909800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时31分]"
+        },
+        {
+          "title": "广期所碳酸锂主力合约涨超2%，现报93160元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3009992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时31分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨多跌少，沪银涨超3%，多晶硅涨超2%，玻璃涨近2%，沪金、焦炭、碳酸锂、苹果、铁矿涨超1%。跌幅方面，集运欧线跌超3%，低硫燃料油（LU）跌超1%，棕榈油跌近1%。",
@@ -1216,20 +1277,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "英伟达携手诺基亚打造为AI服务的全球网络",
-          "url": "https://wallstreetcn.com/livenews/3009972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 13时44分]"
-        },
-        {
           "title": "美商务部长：特朗普正权衡是否对华出口英伟达先进晶片",
           "url": "https://www.zaochenbao.com/news/politics/202511/2558171.html",
           "source": "早报",
@@ -1240,8 +1287,23 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 13时44分]"
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 14时31分]"
+        },
+        {
+          "title": "英伟达携手诺基亚打造为AI服务的全球网络",
+          "url": "https://wallstreetcn.com/livenews/3009972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            10,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 14时31分]"
         },
         {
           "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
@@ -1251,11 +1313,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 13时44分]"
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 14时31分]"
         },
         {
           "title": "英伟达盘后跌2%，报道称，Meta寻求为自家数据中心采用谷歌TPUs。",
@@ -1280,6 +1343,73 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
+          "url": "https://wallstreetcn.com/articles/3759998",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 06时42分]"
+        },
+        {
+          "title": "比特币市场抛压暂缓 交易员对价格企稳谨慎乐观",
+          "url": "https://wallstreetcn.com/livenews/3010003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "财联社11月25日电，比特币向上升破88000美元，过去24小时内上涨1.63%。",
+          "url": "https://api3.cls.cn/share/article/2209543?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7,
+            14,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时30分 ~ 03时39分]"
+        },
+        {
+          "title": "周一（11月24日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨5.13%，报88940美元，日内交投于85200-89240美元区间。 CME以太币期货DCR主力合约涨7.24%，报2969.50美元，日内交投于2764.50-2987.50美元区间。 美股加密货币与加密货币关联指数涨11.00%，报64.60点，跳空高开之后持续走高。 最近24小时，MarketVector数字资产100小盘指数涨2%，暂报18562.84点，北京时间22:50刷新日低至17700.27点，之后持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3009775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
+          "title": "大行评级丨TD Cowen：Strategy的比特币溢价正逼近“加密寒冬”低点，仍维持“买入”评级",
+          "url": "https://www.gelonghui.com/news/5123578",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时01分"
         }
       ]
     },
@@ -1335,62 +1465,6 @@
       ]
     },
     {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
-          "url": "https://wallstreetcn.com/articles/3759998",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 06时42分]"
-        },
-        {
-          "title": "财联社11月25日电，比特币向上升破88000美元，过去24小时内上涨1.63%。",
-          "url": "https://api3.cls.cn/share/article/2209543?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7,
-            14,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时30分 ~ 03时39分]"
-        },
-        {
-          "title": "周一（11月24日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨5.13%，报88940美元，日内交投于85200-89240美元区间。 CME以太币期货DCR主力合约涨7.24%，报2969.50美元，日内交投于2764.50-2987.50美元区间。 美股加密货币与加密货币关联指数涨11.00%，报64.60点，跳空高开之后持续走高。 最近24小时，MarketVector数字资产100小盘指数涨2%，暂报18562.84点，北京时间22:50刷新日低至17700.27点，之后持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3009775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时19分 ~ 07时19分]"
-        },
-        {
-          "title": "大行评级丨TD Cowen：Strategy的比特币溢价正逼近“加密寒冬”低点，仍维持“买入”评级",
-          "url": "https://www.gelonghui.com/news/5123578",
-          "source": "格隆汇",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 3,
       "titles": [
@@ -1432,8 +1506,19 @@
     },
     {
       "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "Meta Platforms(META.O)：OAKLEY Meta HSTN AI眼镜将于12月1日起在印度上市。",
+          "url": "https://flash.jin10.com/detail/20251125142958930800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
         {
           "title": "【风口专家会议】阿里夸克AI眼镜即将举办发布会，特邀行业专家全面解读夸克AI眼镜产业链情况和生态进展",
           "url": "https://api3.cls.cn/share/article/2209809?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -1492,6 +1577,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "LG化学宣布开发出全固态电池商用化核心技术",
+          "url": "https://api3.cls.cn/share/article/2210015?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         }
       ]
     },
@@ -1583,11 +1685,12 @@
             12,
             16,
             20,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 13时44分]"
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 14时31分]"
         }
       ]
     },
