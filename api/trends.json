@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T22:21:41.903411+08:00",
-  "total_titles_processed": 2301,
+  "generated_at": "2025-11-26T22:47:11.926661+08:00",
+  "total_titles_processed": 2353,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "早报",
           "ranks": [
             10,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[18时22分 ~ 22时21分]"
+          "appearance_count": 14,
+          "time_info": "[18时22分 ~ 22时47分]"
         },
         {
           "title": "中国查处人工智能生成合成内容标识违法违规应用程序",
@@ -184,6 +185,18 @@
           "time_info": "[17时23分 ~ 17时46分]"
         },
         {
+          "title": "财联社11月26日电，英伟达美股盘前涨超2%，韦德布什报告表示，英伟达仍将是人工智能繁荣的核心驱动力，对其Blackwell芯片的需求远远超过供应。",
+          "url": "https://api3.cls.cn/share/article/2212016?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 22时47分]"
+        },
+        {
           "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
           "url": "https://wallstreetcn.com/livenews/3010309",
           "source": "华尔街见闻-快讯",
@@ -265,17 +278,6 @@
           "time_info": "21时34分"
         },
         {
-          "title": "财联社11月26日电，英伟达美股盘前涨超2%，韦德布什报告表示，英伟达仍将是人工智能繁荣的核心驱动力，对其Blackwell芯片的需求远远超过供应。",
-          "url": "https://api3.cls.cn/share/article/2212016?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
           "title": "广电运通：中标3.08亿元人工智能应用中试基地建设项目",
           "url": "https://api3.cls.cn/share/article/2211641?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -312,7 +314,7 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
@@ -334,11 +336,12 @@
           "ranks": [
             1,
             2,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[17时45分 ~ 22时21分]"
+          "appearance_count": 16,
+          "time_info": "[17时45分 ~ 22时47分]"
         },
         {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
@@ -367,8 +370,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[15时20分 ~ 22时21分]"
+          "appearance_count": 22,
+          "time_info": "[15时20分 ~ 22时47分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -380,8 +383,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[16时51分 ~ 22时21分]"
+          "appearance_count": 19,
+          "time_info": "[16时51分 ~ 22时47分]"
         },
         {
           "title": "英伟达紧急发声",
@@ -454,6 +457,17 @@
           "time_info": "20时42分"
         },
         {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时42分 ~ 22时47分]"
+        },
+        {
           "title": "英伟达收跌2.6%，盘中一度跌7.1%。",
           "url": "https://wallstreetcn.com/livenews/3010399",
           "source": "华尔街见闻-快讯",
@@ -494,17 +508,6 @@
           "time_info": "[05时18分 ~ 06时43分]"
         },
         {
-          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
-          "url": "https://wallstreetcn.com/articles/3760128",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时21分]"
-        },
-        {
           "title": "CNBC：英伟达——戴王冠者，难有安枕",
           "url": "https://flash.jin10.com/detail/20251126174553599800",
           "source": "金十数据",
@@ -527,6 +530,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 01时20分]"
+        },
+        {
+          "title": "美股三大指数集体高开，英伟达反弹超2%",
+          "url": "https://www.gelonghui.com/news/5125019",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
+        },
+        {
+          "title": "美股三大指数小幅高开 英伟达开盘涨超2%",
+          "url": "https://api3.cls.cn/share/article/2212036?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
         },
         {
           "title": "美股收盘：三大股指低开高收 英伟达跌超2%",
@@ -587,7 +612,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -620,11 +645,12 @@
             10,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时26分 ~ 22时21分]"
+          "appearance_count": 31,
+          "time_info": "[09时26分 ~ 22时47分]"
         },
         {
           "title": "英伟达腹地遭ASIC猛攻！算力芯片格局生变 哪些国产厂商有望迎机遇？",
@@ -693,6 +719,19 @@
           "time_info": "[03时17分 ~ 04时44分]"
         },
         {
+          "title": "【焦点复盘】市场现深强沪弱分化行情，算力硬件、抗流感概念持续火热",
+          "url": "https://www.cls.cn/detail/2211665",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 22时47分]"
+        },
+        {
           "title": "英伟达(NVDA.O)：我们的GPU比谷歌的AI芯片领先一代。",
           "url": "https://flash.jin10.com/detail/20251126023611975800",
           "source": "金十数据",
@@ -744,6 +783,18 @@
           "time_info": "[17时45分 ~ 18时23分]"
         },
         {
+          "title": "【公告全知道】华为+6G+商业航天+算力+AI智能体+数据中心！公司参与运营商6G试验网建设相关工作",
+          "url": "https://api3.cls.cn/share/article/2211953?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 22时47分]"
+        },
+        {
           "title": "创业板指涨超3%，沪指涨0.14%，深成指涨1.64%，医药、算力硬件、海南自贸等方向涨幅居前，沪深京三市上涨个股超2600只。",
           "url": "https://wallstreetcn.com/livenews/3010633",
           "source": "华尔街见闻-快讯",
@@ -757,16 +808,27 @@
           "time_info": "[13时20分 ~ 14时31分]"
         },
         {
-          "title": "【焦点复盘】市场现深强沪弱分化行情，算力硬件、抗流感概念持续火热",
-          "url": "https://www.cls.cn/detail/2211665",
-          "source": "财联社热门",
+          "title": "华尔街驳斥“零和博弈”短视论 AI芯片万亿市场容得下更多玩家",
+          "url": "https://api3.cls.cn/share/article/2212018?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
             10,
-            9
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时34分 ~ 22时21分]"
+          "time_info": "[22时21分 ~ 22时47分]"
+        },
+        {
+          "title": "【金牌纪要库】谷歌启动“太阳捕手”计划，目标将AI TPU芯片送到太空，目前英伟达、特斯拉等海外厂商动作频频，“算力上天+在轨组网+天地协同”或成算力竞赛重要方向",
+          "url": "https://api3.cls.cn/share/article/2209989?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
         },
         {
           "title": "创业板指涨逾3% 算力硬件持续走强",
@@ -793,17 +855,6 @@
           "time_info": "[11时59分 ~ 12时35分]"
         },
         {
-          "title": "【公告全知道】华为+6G+商业航天+算力+AI智能体+数据中心！公司参与运营商6G试验网建设相关工作",
-          "url": "https://api3.cls.cn/share/article/2211953?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
           "title": "【风口研报·公司】公司亲承是海外人形机器人品牌的Tier1，仅上半年相关收入便几倍于2024年全年，另有AI算力+新能源+消费电子多轮驱动盈利能力持续提升",
           "url": "https://api3.cls.cn/share/article/2211222?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -813,17 +864,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
-        },
-        {
-          "title": "华尔街驳斥“零和博弈”短视论 AI芯片万亿市场容得下更多玩家",
-          "url": "https://api3.cls.cn/share/article/2212018?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
         },
         {
           "title": "算力芯片股持续走强 东芯股份涨超10%",
@@ -850,6 +890,265 @@
       ]
     },
     {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
+          "url": "https://www.cls.cn/detail/2211503",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[18时22分 ~ 22时47分]"
+        },
+        {
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时40分]"
+        },
+        {
+          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
+          "url": "https://www.cls.cn/detail/2211111",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[13时20分 ~ 19时40分]"
+        },
+        {
+          "title": "暴跌40%！软银成为“OpenAI链”风向标",
+          "url": "https://wallstreetcn.com/articles/3760166",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 22时47分]"
+        },
+        {
+          "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
+          "url": "https://wallstreetcn.com/livenews/3010381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            12,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时22分 ~ 06时20分]"
+        },
+        {
+          "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
+          "url": "https://flash.jin10.com/detail/20251126153143429800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 16时28分]"
+        },
+        {
+          "title": "A股异动丨AI端侧概念走强，歌尔股份涨超4%，阿里、OpenAI、华为、字节多款AI终端产品密集发布",
+          "url": "https://www.gelonghui.com/news/5124415",
+          "source": "格隆汇",
+          "ranks": [
+            7,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 13时20分]"
+        },
+        {
+          "title": "财联社11月26日电，谷歌状态页面显示Google Meet服务故障已修复。",
+          "url": "https://api3.cls.cn/share/article/2211849?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 19时40分]"
+        },
+        {
+          "title": "阿里千问霸榜空间智能榜单前二，性能超越Gemini3、GPT5.1",
+          "url": "https://wallstreetcn.com/livenews/3010815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时40分]"
+        },
+        {
+          "title": "降息预期升温，全球股市齐涨，美股盘前OpenAI链概念股反弹，甲骨文涨近6%",
+          "url": "https://wallstreetcn.com/articles/3760164",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
+        },
+        {
+          "title": "甲骨文(ORCL.N)在德意志银行指出其受益于OpenAI后开盘上涨5%。",
+          "url": "https://flash.jin10.com/detail/20251126223134754800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
+        },
+        {
+          "title": "美股盘前：OpenAI链概念股反弹，甲骨文涨近6%，英伟达涨近2%，CoreWeave涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3010926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时47分]"
+        },
+        {
+          "title": "财联社11月26日电，截至7月，OPENAI的CHATGPT付费用户据悉已达3500万。",
+          "url": "https://api3.cls.cn/share/article/2211034?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "据The Information：截至7月，约有3500万人支付了ChatGPT Plus或Pro订阅费用，通常每月花费20美元和200美元。",
+          "url": "https://flash.jin10.com/detail/20251126090658105800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "据The Information：OpenAI预计到2030 年，将至少有2.2亿人付费使用ChatGPT。预计每周使用ChatGPT的用户中，至少有8.5%会付费订阅，高于目前约5%的水平。",
+          "url": "https://flash.jin10.com/detail/20251126090616429800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "谷歌TPU引爆“新DeepSeek时刻”，华尔街开始抛弃英伟达？",
+          "url": "https://www.cls.cn/detail/2210875",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时59分]"
+        },
+        {
+          "title": "OpenAI：持续改进ChatGPT的训练，以识别并回应心理或情绪困扰的迹象。",
+          "url": "https://flash.jin10.com/detail/20251126040323241800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "东吴证券：Gemini 3引领模型跃迁 智能体生态加速",
+          "url": "https://www.gelonghui.com/news/5124396",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "OpenAI预计：到2030年，将至少有2.2亿人付费使用ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3010480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "OpenAI：预计ChatGPT五年内付费用户将达2.2亿",
+          "url": "https://api3.cls.cn/share/article/2211420?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
+          "url": "https://flash.jin10.com/detail/20251126154853273800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 21,
       "titles": [
@@ -859,11 +1158,12 @@
           "source": "早报",
           "ranks": [
             4,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[18时22分 ~ 22时21分]"
+          "appearance_count": 14,
+          "time_info": "[18时22分 ~ 22时47分]"
         },
         {
           "title": "特斯拉涉技术侵权被起诉",
@@ -876,8 +1176,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[17时23分 ~ 22时21分]"
+          "appearance_count": 17,
+          "time_info": "[17时23分 ~ 22时47分]"
         },
         {
           "title": "美股异动丨特斯拉跌2%，10月欧洲销量同比减少48.5%",
@@ -1104,241 +1404,6 @@
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
-          "url": "https://www.cls.cn/detail/2211503",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[18时22分 ~ 22时21分]"
-        },
-        {
-          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
-          "url": "https://wallstreetcn.com/articles/3760047",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 07时40分]"
-        },
-        {
-          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
-          "url": "https://www.cls.cn/detail/2211111",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时20分 ~ 19时40分]"
-        },
-        {
-          "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
-          "url": "https://wallstreetcn.com/livenews/3010381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            12,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时22分 ~ 06时20分]"
-        },
-        {
-          "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
-          "url": "https://flash.jin10.com/detail/20251126153143429800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时28分]"
-        },
-        {
-          "title": "A股异动丨AI端侧概念走强，歌尔股份涨超4%，阿里、OpenAI、华为、字节多款AI终端产品密集发布",
-          "url": "https://www.gelonghui.com/news/5124415",
-          "source": "格隆汇",
-          "ranks": [
-            7,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 13时20分]"
-        },
-        {
-          "title": "财联社11月26日电，谷歌状态页面显示Google Meet服务故障已修复。",
-          "url": "https://api3.cls.cn/share/article/2211849?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 19时40分]"
-        },
-        {
-          "title": "暴跌40%！软银成为“OpenAI链”风向标",
-          "url": "https://wallstreetcn.com/articles/3760166",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时34分 ~ 22时21分]"
-        },
-        {
-          "title": "阿里千问霸榜空间智能榜单前二，性能超越Gemini3、GPT5.1",
-          "url": "https://wallstreetcn.com/livenews/3010815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 19时40分]"
-        },
-        {
-          "title": "财联社11月26日电，截至7月，OPENAI的CHATGPT付费用户据悉已达3500万。",
-          "url": "https://api3.cls.cn/share/article/2211034?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "据The Information：截至7月，约有3500万人支付了ChatGPT Plus或Pro订阅费用，通常每月花费20美元和200美元。",
-          "url": "https://flash.jin10.com/detail/20251126090658105800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "据The Information：OpenAI预计到2030 年，将至少有2.2亿人付费使用ChatGPT。预计每周使用ChatGPT的用户中，至少有8.5%会付费订阅，高于目前约5%的水平。",
-          "url": "https://flash.jin10.com/detail/20251126090616429800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "谷歌TPU引爆“新DeepSeek时刻”，华尔街开始抛弃英伟达？",
-          "url": "https://www.cls.cn/detail/2210875",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时59分]"
-        },
-        {
-          "title": "美股盘前：OpenAI链概念股反弹，甲骨文涨近6%，英伟达涨近2%，CoreWeave涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3010926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "OpenAI：持续改进ChatGPT的训练，以识别并回应心理或情绪困扰的迹象。",
-          "url": "https://flash.jin10.com/detail/20251126040323241800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        },
-        {
-          "title": "东吴证券：Gemini 3引领模型跃迁 智能体生态加速",
-          "url": "https://www.gelonghui.com/news/5124396",
-          "source": "格隆汇",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "OpenAI预计：到2030年，将至少有2.2亿人付费使用ChatGPT",
-          "url": "https://wallstreetcn.com/livenews/3010480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "OpenAI：预计ChatGPT五年内付费用户将达2.2亿",
-          "url": "https://api3.cls.cn/share/article/2211420?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
-          "url": "https://flash.jin10.com/detail/20251126154853273800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 17,
       "titles": [
@@ -1381,8 +1446,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[12时34分 ~ 22时21分]"
+          "appearance_count": 27,
+          "time_info": "[12时34分 ~ 22时47分]"
         },
         {
           "title": "一图看懂 | 商业航天投资热度骤升 产业链与核心标的梳理",
@@ -1737,6 +1802,151 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
+          "url": "https://wallstreetcn.com/articles/3760086",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 31,
+          "time_info": "[09时26分 ~ 22时47分]"
+        },
+        {
+          "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
+          "url": "https://www.cls.cn/detail/2210921",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[07时18分 ~ 15时40分]"
+        },
+        {
+          "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
+          "url": "https://wallstreetcn.com/articles/3760086",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 07时18分]"
+        },
+        {
+          "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2210782",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 11时01分]"
+        },
+        {
+          "title": "财联社11月26日电，Reddit美股盘前跌近1%，前一交易日Reddit收涨12%。",
+          "url": "https://api3.cls.cn/share/article/2211667?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "周二（11月25日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.35%，报87080美元。 CME以太币期货DCR主力合约跌1.38%，报2935.50美元。 美股加密货币与加密货币关联指数涨0.31%，报64.80点，呈现出W形走势。 最近24小时，MarketVector数字资产100小盘指数跌1.48%，暂报18261.32点。",
+          "url": "https://wallstreetcn.com/livenews/3010418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时20分 ~ 07时40分]"
+        },
+        {
+          "title": "LME期铜收涨45美元，报10818美元/吨。 LME期铝收跌12美元，报2800美元/吨。 LME期锌收跌7美元，报2993美元/吨。 LME期铅收跌4美元，报1980美元/吨。 LME期镍收涨173美元，报14872美元/吨。 LME期锡收涨163美元，报37547美元/吨。 LME期钴收平，报48570美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3010347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            13,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时31分 ~ 04时22分]"
+        },
+        {
+          "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3010785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 18时23分]"
+        },
+        {
+          "title": "美股开盘，道指开涨0.18%，标普500指数涨0.41%，纳指开涨0.56%。理想汽车(LI.O)跌1.4%，公司对第四季度营收指引低于市场预估，Alphabet(GOOG.O)跌0.47%。英伟达(NVDA.O)涨1.7%，AMD(AMD.O)涨近2%。",
+          "url": "https://flash.jin10.com/detail/20251126223027730800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
+        },
+        {
+          "title": "英镑兑美元短线拉升约35点，现报1.3187。英国债券上涨，10年期收益率下跌5个基点至4.45%。英国预算责任办公室(OBR)称，2029-2030财年预算盈余预计为217亿英镑，3月时预测为99亿英镑。",
+          "url": "https://wallstreetcn.com/livenews/3010857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，银行业ETF涨1.54%，区域银行ETF涨1.51%，网络股指数ETF涨0.34%，科技行业ETF跌0.91%，全球科技股指数ETF跌1.26%，半导体ETF跌1.52%。",
+          "url": "https://wallstreetcn.com/livenews/3010287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 11,
       "titles": [
@@ -1866,140 +2076,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
-          "url": "https://wallstreetcn.com/articles/3760086",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时26分 ~ 22时21分]"
-        },
-        {
-          "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
-          "url": "https://www.cls.cn/detail/2210921",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时18分 ~ 15时40分]"
-        },
-        {
-          "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
-          "url": "https://wallstreetcn.com/articles/3760086",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 07时18分]"
-        },
-        {
-          "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2210782",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 11时01分]"
-        },
-        {
-          "title": "财联社11月26日电，Reddit美股盘前跌近1%，前一交易日Reddit收涨12%。",
-          "url": "https://api3.cls.cn/share/article/2211667?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "周二（11月25日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.35%，报87080美元。 CME以太币期货DCR主力合约跌1.38%，报2935.50美元。 美股加密货币与加密货币关联指数涨0.31%，报64.80点，呈现出W形走势。 最近24小时，MarketVector数字资产100小盘指数跌1.48%，暂报18261.32点。",
-          "url": "https://wallstreetcn.com/livenews/3010418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时20分 ~ 07时40分]"
-        },
-        {
-          "title": "LME期铜收涨45美元，报10818美元/吨。 LME期铝收跌12美元，报2800美元/吨。 LME期锌收跌7美元，报2993美元/吨。 LME期铅收跌4美元，报1980美元/吨。 LME期镍收涨173美元，报14872美元/吨。 LME期锡收涨163美元，报37547美元/吨。 LME期钴收平，报48570美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3010347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            13,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时31分 ~ 04时22分]"
-        },
-        {
-          "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3010785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时23分]"
-        },
-        {
-          "title": "英镑兑美元短线拉升约35点，现报1.3187。英国债券上涨，10年期收益率下跌5个基点至4.45%。英国预算责任办公室(OBR)称，2029-2030财年预算盈余预计为217亿英镑，3月时预测为99亿英镑。",
-          "url": "https://wallstreetcn.com/livenews/3010857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "行业ETF美股盘初多数走高，银行业ETF涨1.54%，区域银行ETF涨1.51%，网络股指数ETF涨0.34%，科技行业ETF跌0.91%，全球科技股指数ETF跌1.26%，半导体ETF跌1.52%。",
-          "url": "https://wallstreetcn.com/livenews/3010287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
         }
       ]
     },
@@ -2209,6 +2285,57 @@
       ]
     },
     {
+      "keyword_group": "储能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "卡姆丹克太阳能(00712.HK)业务营运仍如常进行 策略性投资一个磷酸铁锂电池混合储能系统的能源项目",
+          "url": "https://www.gelonghui.com/news/5124285",
+          "source": "格隆汇",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 07时18分]"
+        },
+        {
+          "title": "阳光电源中标智利Dune Plus项目2GWh储能订单",
+          "url": "https://api3.cls.cn/share/article/2211990?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
+        },
+        {
+          "title": "财联社11月26日电，美股储能概念股集体上涨，Fluence Energy涨近8%，CleanSpark涨超4%，GE Vernova、Vistra Energy涨超2%。",
+          "url": "https://api3.cls.cn/share/article/2212042?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
+        },
+        {
+          "title": "龙净环保：公司当前储能电芯订单饱满 排产期已至2026年6月",
+          "url": "https://api3.cls.cn/share/article/2211401?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "量子科技 量子计算 量子通信",
       "match_count": 4,
       "titles": [
@@ -2343,46 +2470,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "卡姆丹克太阳能(00712.HK)业务营运仍如常进行 策略性投资一个磷酸铁锂电池混合储能系统的能源项目",
-          "url": "https://www.gelonghui.com/news/5124285",
-          "source": "格隆汇",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 07时18分]"
-        },
-        {
-          "title": "阳光电源中标智利Dune Plus项目2GWh储能订单",
-          "url": "https://api3.cls.cn/share/article/2211990?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
-        },
-        {
-          "title": "龙净环保：公司当前储能电芯订单饱满 排产期已至2026年6月",
-          "url": "https://api3.cls.cn/share/article/2211401?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
         }
       ]
     },
@@ -2525,6 +2612,34 @@
       ]
     },
     {
+      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【电报解读】美国脑机接口公司获批开展首个长期临床试验！机构称脑机接口市场正处于“技术突破、临床验证、商业落地”的关键转折期，这家公司与“杭州六小龙”之一的强脑科技联名发布新品",
+          "url": "https://api3.cls.cn/share/article/2212038?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
+        },
+        {
+          "title": "美国脑机接口公司获批开展首个长期临床试验",
+          "url": "https://api3.cls.cn/share/article/2211612?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "比特币 以太坊",
       "match_count": 2,
       "titles": [
@@ -2563,11 +2678,12 @@
           "url": "https://api3.cls.cn/share/article/2211708?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            8
+            8,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 22时47分]"
         }
       ]
     },
@@ -2637,23 +2753,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国脑机接口公司获批开展首个长期临床试验",
-          "url": "https://api3.cls.cn/share/article/2211612?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 16时52分]"
         }
       ]
     },
