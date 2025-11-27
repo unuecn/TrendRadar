@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-27T15:21:34.368008+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2025-11-27T15:42:09.506006+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
       "match_count": 15,
       "titles": [
+        {
+          "title": "美媒：中国监管机构禁止字节跳动使用英伟达晶片",
+          "url": "https://www.zaochenbao.com/news/china/202511/2758368.html",
+          "source": "早报",
+          "ranks": [
+            2,
+            5,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时46分 ~ 15时42分]"
+        },
         {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
           "url": "https://wallstreetcn.com/articles/3760128",
@@ -20,20 +34,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时26分 ~ 07时39分]"
-        },
-        {
-          "title": "美媒：中国监管机构禁止字节跳动使用英伟达晶片",
-          "url": "https://www.zaochenbao.com/news/china/202511/2758368.html",
-          "source": "早报",
-          "ranks": [
-            2,
-            5,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时46分 ~ 15时21分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -92,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时24分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[12时24分 ~ 15时42分]"
         },
         {
           "title": "感恩节降至，标普连涨四日，英伟达反弹，人民币创逾一年新高",
@@ -197,7 +197,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "外媒关注：中国人形机器人创造行走世界纪录",
@@ -205,11 +205,12 @@
           "source": "参考消息",
           "ranks": [
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时56分 ~ 15时21分]"
+          "appearance_count": 11,
+          "time_info": "[10时56分 ~ 15时42分]"
         },
         {
           "title": "花旗中国人形机器人公司调研：所有人都很乐观，2026年行业或实现指数级增长，至少翻倍！",
@@ -221,8 +222,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时26分 ~ 15时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时26分 ~ 15时42分]"
         },
         {
           "title": "【盘中宝】这类机器人产品应用场景逐步铺开，工业、消费等场景应用具有较大潜力，这家公司已进行相关产品研发",
@@ -234,6 +235,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
+          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
+          "url": "https://www.cls.cn/detail/2212151",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 15时42分]"
         },
         {
           "title": "【研选】航天局印发商业航天高质量安全发展行动计划，行业或将进入加速发展阶段；公司机器人精密部件业务率先进入全球头部客户供应链体系，全面布局机器人核心部件",
@@ -258,17 +271,6 @@
           "time_info": "09时26分"
         },
         {
-          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
-          "url": "https://www.cls.cn/detail/2212151",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时46分 ~ 15时21分]"
-        },
-        {
           "title": "A股机器人概念午后活跃，力星股份涨超10%，斯菱股份、大洋电机、长盈精密、嵘泰股份、浙江荣泰、拓普集团跟涨。",
           "url": "https://wallstreetcn.com/livenews/3011294",
           "source": "华尔街见闻-快讯",
@@ -279,6 +281,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时44分 ~ 14时32分]"
+        },
+        {
+          "title": "国家发改委：要注意防范重复度高的人形机器人产品“扎堆”上市",
+          "url": "https://api3.cls.cn/share/article/2212684?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
         },
         {
           "title": "工信部：将会同有关部门加强养老服务机器人研发 继续加力扩围发布优质老年用品推广目录",
@@ -315,6 +328,17 @@
           "time_info": "13时44分"
         },
         {
+          "title": "国家发展改革委：要注意防范重复度高的人形机器人产品“扎堆”上市",
+          "url": "https://wallstreetcn.com/livenews/3011384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "工信部：将会同有关部门加强养老服务机器人研发 继续加力扩围发布优质老年用品推广目录",
           "url": "https://api3.cls.cn/share/article/2212331?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -332,7 +356,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         }
@@ -348,11 +372,12 @@
           "source": "参考消息",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时56分 ~ 15时21分]"
+          "appearance_count": 11,
+          "time_info": "[10时56分 ~ 15时42分]"
         },
         {
           "title": "首批7只双创人工智能ETF将于11月28日集体首发",
@@ -378,17 +403,6 @@
           "time_info": "[14时31分 ~ 14时32分]"
         },
         {
-          "title": "调查显示德国使用人工智能人数显著增加",
-          "url": "https://api3.cls.cn/share/article/2212669?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
           "title": "麦肯锡：人工智能支出或将限制美联储在2026年的降息幅度",
           "url": "https://flash.jin10.com/detail/20251127004128098800",
           "source": "金十数据",
@@ -400,6 +414,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时51分 ~ 02时25分]"
+        },
+        {
+          "title": "调查显示德国使用人工智能人数显著增加",
+          "url": "https://api3.cls.cn/share/article/2212669?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 15时42分]"
         },
         {
           "title": "市场消息：马来西亚计划通过人工智能技能提升计划创造50万个新就业岗位。",
@@ -629,15 +655,28 @@
           "time_info": "[06时42分 ~ 07时39分]"
         },
         {
+          "title": "午盘收盘，国内期货主力合约涨跌不一，铂涨超6%，沪银涨超3%，鸡蛋、沪锡涨超2%，棕榈油涨近2%，钯、豆二、玻璃、花生、工业硅涨超1%。跌幅方面，碳酸锂跌近2%，沥青、短纤跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251127150113318800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 15时42分]"
+        },
+        {
           "title": "内盘期货收盘，铂涨超6%，沪银涨逾3%，鸡蛋、沪锡涨逾2%，钯、玻璃、工业硅涨逾1%；碳酸锂、沥青跌逾1%。",
           "url": "https://wallstreetcn.com/livenews/3011362",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时42分]"
         },
         {
           "title": "早盘开盘，国内期货主力合约涨跌不一。沪银涨超3%，甲醇、玻璃、花生、SC原油涨超1%，沪锡、苯乙烯涨近1%。跌幅方面，沪铅跌超1%，焦炭、纸浆、碳酸锂跌近1%。",
@@ -660,17 +699,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨跌不一，铂涨超6%，沪银涨超3%，鸡蛋、沪锡涨超2%，棕榈油涨近2%，钯、豆二、玻璃、花生、工业硅涨超1%。跌幅方面，碳酸锂跌近2%，沥青、短纤跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251127150113318800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
         },
         {
           "title": "金十期货11月27日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌550元/吨，中间价报94150元/吨。",
@@ -697,8 +725,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时26分 ~ 15时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时26分 ~ 15时42分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -796,8 +824,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时26分 ~ 15时21分]"
+          "appearance_count": 32,
+          "time_info": "[00时26分 ~ 15时42分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -1004,7 +1032,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         }
@@ -1112,6 +1140,18 @@
           "time_info": "[02时25分 ~ 04时39分]"
         },
         {
+          "title": "苹果抗辩印度反垄断法 以避380亿美元天价罚单",
+          "url": "https://api3.cls.cn/share/article/2212635?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 15时42分]"
+        },
+        {
           "title": "面临最高380亿美元罚款 苹果对印度新修订的反垄断法提起首例司法挑战",
           "url": "https://flash.jin10.com/detail/20251127015301989800",
           "source": "金十数据",
@@ -1134,17 +1174,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时25分 ~ 03时16分]"
-        },
-        {
-          "title": "苹果抗辩印度反垄断法 以避380亿美元天价罚单",
-          "url": "https://api3.cls.cn/share/article/2212635?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
         }
       ]
     },
@@ -1160,11 +1189,12 @@
             14,
             21,
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时26分 ~ 15时21分]"
+          "appearance_count": 32,
+          "time_info": "[00时26分 ~ 15时42分]"
         },
         {
           "title": "【大佬持仓跟踪】PCB+CPO+华为，产品可用于100-800G光模块，具备800G交换机PCB产品批量生产，以及AI服务器用HDI制作能力，这家公司是华为PCB领域重要供应商",
@@ -1205,6 +1235,47 @@
       ]
     },
     {
+      "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "夸克AI眼镜发布 搭载阿里千问",
+          "url": "https://api3.cls.cn/share/article/2212648?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 15时42分]"
+        },
+        {
+          "title": "阿里巴巴发布夸克AI眼镜，将内置千问助手",
+          "url": "https://wallstreetcn.com/livenews/3011350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时42分]"
+        },
+        {
+          "title": "夸克AI眼镜发布两个系列六款单品，G1系列最低到手价1899元起",
+          "url": "https://wallstreetcn.com/livenews/3011399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
       "match_count": 2,
       "titles": [
@@ -1227,39 +1298,12 @@
           "url": "https://wallstreetcn.com/livenews/3011359",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "夸克AI眼镜发布 搭载阿里千问",
-          "url": "https://api3.cls.cn/share/article/2212648?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "阿里巴巴发布夸克AI眼镜，将内置千问助手",
-          "url": "https://wallstreetcn.com/livenews/3011350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时42分]"
         }
       ]
     },
@@ -1352,11 +1396,12 @@
           "url": "https://www.gelonghui.com/news/5125248",
           "source": "格隆汇",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 15时42分]"
         }
       ]
     },
