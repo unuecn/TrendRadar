@@ -1,28 +1,12 @@
 {
-  "generated_at": "2025-11-29T05:17:33.890326+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2025-11-29T05:38:35.991452+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "英特尔 高通",
       "match_count": 7,
       "titles": [
-        {
-          "title": "纳指收涨0.65% 英特尔大涨10%",
-          "url": "https://api3.cls.cn/share/article/2214647?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            6,
-            9,
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时28分 ~ 05时17分]"
-        },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
           "url": "https://flash.jin10.com/detail/20251129020833506800",
@@ -35,8 +19,25 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时28分 ~ 05时17分]"
+          "appearance_count": 11,
+          "time_info": "[02时28分 ~ 05时38分]"
+        },
+        {
+          "title": "纳指收涨0.65% 英特尔大涨10%",
+          "url": "https://api3.cls.cn/share/article/2214647?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            6,
+            9,
+            10,
+            11,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时28分 ~ 05时38分]"
         },
         {
           "title": "英特尔收涨10%，创9月18日以来最佳单日表现。",
@@ -47,11 +48,12 @@
             6,
             12,
             20,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时28分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[02时28分 ~ 05时38分]"
         },
         {
           "title": "英特尔股价涨幅扩大至10%。",
@@ -110,29 +112,45 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
-          "url": "https://wallstreetcn.com/livenews/3012382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时22分 ~ 05时17分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜Meta收涨超2.2%，英伟达跌1.8%",
           "url": "https://wallstreetcn.com/livenews/3012371",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
             13,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 05时17分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 05时38分]"
+        },
+        {
+          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
+          "url": "https://wallstreetcn.com/livenews/3012382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时22分 ~ 05时38分]"
+        },
+        {
+          "title": "半导体ETF+能源业ETF收涨1.3%，领跑美股行业ETF，11月网络股ETF、科技行业ETF跌超4.8%",
+          "url": "https://wallstreetcn.com/livenews/3012370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 05时38分]"
         },
         {
           "title": "11月份，伦敦可可期货累跌9.80%，周五（11月28日）欧市尾盘报4045美元/吨，11月5日涨至4864美元之后持续走低，11月25日跌至3650美元。",
@@ -148,19 +166,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时18分 ~ 03时37分]"
-        },
-        {
-          "title": "半导体ETF+能源业ETF收涨1.3%，领跑美股行业ETF，11月网络股ETF、科技行业ETF跌超4.8%",
-          "url": "https://wallstreetcn.com/livenews/3012370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 05时17分]"
         },
         {
           "title": "行业ETF美股盘初多数走高，网络股指数ETF涨0.73%，可选消费ETF涨0.41%，全球科技股指数ETF涨0.21%，半导体ETF涨0.16%，医疗业ETF跌0.2%。",
@@ -191,8 +196,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时28分 ~ 05时17分]"
+          "appearance_count": 11,
+          "time_info": "[02时28分 ~ 05时38分]"
         },
         {
           "title": "郭明錤：英特尔预计最快在2027年开始出货苹果最低阶M处理器",
@@ -260,8 +265,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 05时38分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.54%，报7792.89点，本周累计上涨3.71%，11月份累计下跌5.81%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.41%，德银嘉实沪深300指数ETF（ASHR）收涨0.87%，中国科技指数ETF（CQQQ）收涨0.61%，中概互联网指数ETF（KWEB）收涨0.19%。 本周，CQQQ反弹4.38%（结束此前连跌四周的趋势），ASHS反弹3.86%，KWEB反弹3.04%（结束此前连跌四周的趋势），ASHR反弹2.49%。 11月份，ASHR跌1.36%，结束此前连续六个月上涨的趋势；ASHS跌2.70%，连续第二个月下跌；KWEB跌5.96%，延续之前一个月跌4.90%的表现；CQQQ跌6.22%，延续之前一个月跌4.91%的表现；",
@@ -271,11 +276,12 @@
             7,
             13,
             21,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时50分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[02时50分 ~ 05时38分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。",
@@ -287,6 +293,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "11月份，标普大致持平，道指涨0.2%，纳指跌1.7%。 周五当天，标普500指数初步收涨0.5%，能源板块涨1.3%，可选消费板块涨0.7%，电信板块涨0.5%。 纳斯达克100指数初步收涨0.7%，成分股中，英特尔涨约10%，吉利德科学则跌1.4%，英伟达跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3012360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "财联社11月29日电，英伟达CEO黄仁勋据称下周将与参议院银行委员会共和党人会面。",
+          "url": "https://api3.cls.cn/share/article/2214662?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋将于12月3日（下周三）美东时间14:00会见美国参议院银行委员会的共和党成员们。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3012386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 05时38分]"
         }
       ]
     },
@@ -303,8 +349,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 05时38分]"
         },
         {
           "title": "图解11月大事件：存储芯片、锂电材料掀起涨价行情 国产GPU龙头即将登“科”",
@@ -315,8 +361,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 05时38分]"
         }
       ]
     },
@@ -333,8 +379,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 05时38分]"
         },
         {
           "title": "外媒：“机器人疏导员”将在中国口岸上岗",
@@ -344,8 +390,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 05时38分]"
         }
       ]
     },
@@ -361,8 +407,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 05时38分]"
         },
         {
           "title": "工信部：加快推出针对性政策举措 依法依规治理动力和储能电池产业非理性竞争",
@@ -373,36 +419,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 05时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达CEO黄仁勋将于12月3日（下周三）美东时间14:00会见美国参议院银行委员会的共和党成员们。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3012386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "11月份，标普大致持平，道指涨0.2%，纳指跌1.7%。 周五当天，标普500指数初步收涨0.5%，能源板块涨1.3%，可选消费板块涨0.7%，电信板块涨0.5%。 纳斯达克100指数初步收涨0.7%，成分股中，英特尔涨约10%，吉利德科学则跌1.4%，英伟达跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3012360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 05时38分]"
         }
       ]
     },
@@ -418,11 +436,12 @@
             2,
             3,
             4,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时15分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 05时38分]"
         }
       ]
     },
@@ -439,8 +458,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 05时38分]"
         }
       ]
     },
@@ -457,8 +476,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 05时38分]"
         }
       ]
     }
