@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-29T09:25:10.234979+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2025-11-29T10:55:31.328808+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "英特尔 高通",
       "match_count": 9,
       "titles": [
+        {
+          "title": "美股三大指数五连涨！纳指涨0.65%，英特尔大涨超10%",
+          "url": "https://www.gelonghui.com/news/5126759",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时41分 ~ 10时55分]"
+        },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
           "url": "https://flash.jin10.com/detail/20251129020833506800",
@@ -39,19 +52,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[02时28分 ~ 06时41分]"
-        },
-        {
-          "title": "美股三大指数五连涨！纳指涨0.65%，英特尔大涨超10%",
-          "url": "https://www.gelonghui.com/news/5126759",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时41分 ~ 09时25分]"
         },
         {
           "title": "英特尔收涨10%，创9月18日以来最佳单日表现。",
@@ -101,11 +101,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 09时25分]"
+          "appearance_count": 5,
+          "time_info": "[07时18分 ~ 10时55分]"
         },
         {
           "title": "财联社11月28日电，英特尔股价上扬5.8%，即将迎来连续第五个交易日上涨。",
@@ -194,8 +195,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 09时25分]"
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 10时55分]"
         },
         {
           "title": "11月份，伦敦可可期货累跌9.80%，周五（11月28日）欧市尾盘报4045美元/吨，11月5日涨至4864美元之后持续走低，11月25日跌至3650美元。",
@@ -298,6 +299,59 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
+          "url": "https://www.cls.cn/detail/2214152",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 09时25分]"
+        },
+        {
+          "title": "图解11月大事件：存储芯片、锂电材料掀起涨价行情 国产GPU龙头即将登“科”",
+          "url": "https://www.cls.cn/detail/2214294",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时24分 ~ 10时55分]"
+        },
+        {
+          "title": "中信证券：空间算力PUE低发电成本低，已成为人工智能发展新趋势",
+          "url": "https://wallstreetcn.com/livenews/3012414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "中信证券：空间算力PUE低发电成本低 已成为人工智能发展新趋势",
+          "url": "https://api3.cls.cn/share/article/2214718?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 4,
       "titles": [
@@ -311,8 +365,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时24分 ~ 09时25分]"
+          "appearance_count": 24,
+          "time_info": "[00时24分 ~ 10时55分]"
         },
         {
           "title": "外媒：“机器人疏导员”将在中国口岸上岗",
@@ -326,6 +380,18 @@
           "time_info": "[00时24分 ~ 09时25分]"
         },
         {
+          "title": "中国人形机器人企业逾150家 商业模式应用场景未成熟引泡沫担忧",
+          "url": "https://www.zaochenbao.com/news/china/202511/2958512.html",
+          "source": "早报",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 10时55分]"
+        },
+        {
           "title": "江苏人形机器人“十三太保”集中亮相",
           "url": "https://api3.cls.cn/share/article/2214687?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -335,17 +401,58 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 09时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【每日收评】三大指数探底回升全线收红，两市成交额不足1.6万亿，商业航天概念再迎爆发",
+          "url": "https://www.cls.cn/detail/2214082",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 09时25分]"
         },
         {
-          "title": "中国人形机器人企业逾150家 商业模式应用场景未成熟引泡沫担忧",
-          "url": "https://www.zaochenbao.com/news/china/202511/2958512.html",
-          "source": "早报",
+          "title": "政策东风催生布局良机 商业航天投资价值凸显",
+          "url": "https://api3.cls.cn/share/article/2214689?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
+          "title": "中信证券：大运力、低成本趋势正引领商业航天开启新时代",
+          "url": "https://wallstreetcn.com/livenews/3012415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "中信证券：大运力、低成本趋势正引领商业航天开启新时代 建议关注太阳能电池、卫星制造等细分领域",
+          "url": "https://api3.cls.cn/share/article/2214721?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         }
       ]
     },
@@ -450,37 +557,6 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
-          "url": "https://www.cls.cn/detail/2214152",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时24分 ~ 09时25分]"
-        },
-        {
-          "title": "图解11月大事件：存储芯片、锂电材料掀起涨价行情 国产GPU龙头即将登“科”",
-          "url": "https://www.cls.cn/detail/2214294",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时24分 ~ 09时25分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "储能",
       "match_count": 2,
       "titles": [
@@ -492,8 +568,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时24分 ~ 09时25分]"
+          "appearance_count": 24,
+          "time_info": "[00时24分 ~ 10时55分]"
         },
         {
           "title": "工信部：加快推出针对性政策举措 依法依规治理动力和储能电池产业非理性竞争",
@@ -535,38 +611,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 09时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【每日收评】三大指数探底回升全线收红，两市成交额不足1.6万亿，商业航天概念再迎爆发",
-          "url": "https://www.cls.cn/detail/2214082",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时24分 ~ 09时25分]"
-        },
-        {
-          "title": "政策东风催生布局良机 商业航天投资价值凸显",
-          "url": "https://api3.cls.cn/share/article/2214689?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 10时55分]"
         }
       ]
     },
@@ -582,8 +628,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 10时55分]"
         },
         {
           "title": "芝商所大宕机无碍“万物齐涨”，标普五连涨，大宗商品、比特币齐升，白银伦铜创新高",
@@ -593,8 +639,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 10时55分]"
         }
       ]
     },
@@ -610,8 +656,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 10时55分]"
         }
       ]
     },
@@ -624,11 +670,12 @@
           "url": "https://api3.cls.cn/share/article/2214690?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 10时55分]"
         }
       ]
     },
@@ -652,6 +699,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[03时15分 ~ 07时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：哥伦比亚国家石油公司（Ecopetrol）拟在哥伦比亚收购七家公司；并就收购哥伦比亚高达88.2兆瓦的太阳能光伏项目组合进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251129094035194800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         }
       ]
     }
