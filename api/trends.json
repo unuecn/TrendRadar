@@ -1,90 +1,11 @@
 {
-  "generated_at": "2025-12-04T04:47:22.180921+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2025-12-04T05:19:23.237931+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "专家：人工智能能否成为亚洲新增长引擎？",
-          "url": "https://ckxxapp.ckxx.net/pages/2025/12/03/ea5b64a4ca0c431184a0d8df58cec466.html",
-          "source": "参考消息",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 04时47分]"
-        },
-        {
-          "title": "嘉信理财CEO：客户在询问我们如何在市场上涨后保护他们的财富。我们的投资者在人工智能领域赚了不少钱。",
-          "url": "https://flash.jin10.com/detail/20251204010448134800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 03时39分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：能源成为人工智能的下一个全球瓶颈；人工智能的发展给电力供应带来压力；预测未来十年内，小型核反应堆将被广泛用于为人工智能系统供电。",
-          "url": "https://flash.jin10.com/detail/20251204023323691800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 04时47分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋表示，能源成为人工智能的下一个全球瓶颈，预测未来十年内，小型核反应堆将被广泛用于为人工智能系统供电。",
-          "url": "https://api3.cls.cn/share/article/2218944?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 04时47分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
-          "url": "https://flash.jin10.com/detail/20251204032609838800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 04时47分]"
-        },
-        {
-          "title": "AMD(AMD.O)CEO：内存短缺可能只是对人工智能市场的一个小干扰。",
-          "url": "https://flash.jin10.com/detail/20251203234739548800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "英伟达跌幅收窄至0.3%。",
@@ -92,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 05时19分]"
         },
         {
           "title": "英伟达CEO黄仁勋：刚刚会见了美国总统特朗普。",
@@ -104,11 +26,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 05时19分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.3%，能源板块涨1.8%，金融板块涨1.2%，可选消费板块涨0.8%，电信板块涨0.2%，科技板块跌0.4%。 纳斯达克100指数初步收涨0.2%，成分股中，微芯科技初步收涨12.7%，安森美半导体涨10.8%，迈威尔科技涨7.6%，Strategy涨4%，Meta则跌1.1%，美光、微软跌2.3%，再生元制药跌2.5%，PayPal跌2.7%，TTD跌3.2%，奈飞跌4.9%。 联合健康初步收涨4.9%，高盛涨2.6%，麦当劳、美国运通、安进至少涨2%，领跑道指成分股，英伟达则跌1%，波音跌1.5%，和微软表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3014626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "英伟达CEO黄仁勋被看金进入美国众议长约翰逊的办公室。",
@@ -142,11 +76,12 @@
           "url": "https://flash.jin10.com/detail/20251204030517175800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 04时47分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 05时19分]"
         },
         {
           "title": "英伟达涨0.5%，此前一度下跌1.3%。",
@@ -163,6 +98,166 @@
       ]
     },
     {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "DeepSeek新模型达到奥数金牌水平",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/12/03/fabcfab1b6e244b1aae9223eab952572.html",
+          "source": "参考消息",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 05时19分]"
+        },
+        {
+          "title": "OpenAI基金会将向美国非营利组织捐赠4050万美元",
+          "url": "https://flash.jin10.com/detail/20251204005558678800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 03时39分]"
+        },
+        {
+          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
+          "url": "https://api3.cls.cn/share/article/2218960?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
+          "url": "https://wallstreetcn.com/livenews/3014555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时47分]"
+        },
+        {
+          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
+          "url": "https://wallstreetcn.com/livenews/3014617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
+          "url": "https://flash.jin10.com/detail/20251204042941294800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "专家：人工智能能否成为亚洲新增长引擎？",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/12/03/ea5b64a4ca0c431184a0d8df58cec466.html",
+          "source": "参考消息",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 05时19分]"
+        },
+        {
+          "title": "嘉信理财CEO：客户在询问我们如何在市场上涨后保护他们的财富。我们的投资者在人工智能领域赚了不少钱。",
+          "url": "https://flash.jin10.com/detail/20251204010448134800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 03时39分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：能源成为人工智能的下一个全球瓶颈；人工智能的发展给电力供应带来压力；预测未来十年内，小型核反应堆将被广泛用于为人工智能系统供电。",
+          "url": "https://flash.jin10.com/detail/20251204023323691800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 05时19分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋表示，能源成为人工智能的下一个全球瓶颈，预测未来十年内，小型核反应堆将被广泛用于为人工智能系统供电。",
+          "url": "https://api3.cls.cn/share/article/2218944?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7,
+            13,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 05时19分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
+          "url": "https://flash.jin10.com/detail/20251204032609838800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 05时19分]"
+        },
+        {
+          "title": "AMD(AMD.O)CEO：内存短缺可能只是对人工智能市场的一个小干扰。",
+          "url": "https://flash.jin10.com/detail/20251203234739548800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 5,
       "titles": [
@@ -171,22 +266,24 @@
           "url": "https://flash.jin10.com/detail/20251204033530628800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 04时47分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 05时19分]"
         },
         {
           "title": "苹果股价下跌0.6%。彭博报道称，该公司用户界面设计团队负责人艾伦·戴伊（Alan Dye） 携副手Billy Sorrentino跳槽到Meta。",
           "url": "https://wallstreetcn.com/livenews/3014612",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 04时47分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 05时19分]"
         },
         {
           "title": "苹果再现高层出走 顶级设计主管转投Meta",
@@ -194,22 +291,24 @@
           "source": "财联社电报",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 04时47分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 05时19分]"
         },
         {
           "title": "重大“挖角”：苹果设计高管艾伦·戴伊被扎克伯格招至麾下Meta",
           "url": "https://wallstreetcn.com/livenews/3014609",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 04时47分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 05时19分]"
         },
         {
           "title": "财联社12月3日电，苹果股价上涨0.5%，总市值升至4.25万亿美元，有望实现连续8个交易日上涨。",
@@ -238,8 +337,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 04时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 05时19分]"
         },
         {
           "title": "美股异动丨特斯拉涨超2%，特朗普政府考虑发布行政令加速机器人行业发展",
@@ -249,8 +348,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 04时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 05时19分]"
         },
         {
           "title": "美股机器人概念股走强",
@@ -283,53 +382,8 @@
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek新模型达到奥数金牌水平",
-          "url": "https://ckxxapp.ckxx.net/pages/2025/12/03/fabcfab1b6e244b1aae9223eab952572.html",
-          "source": "参考消息",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 04时47分]"
-        },
-        {
-          "title": "OpenAI基金会将向美国非营利组织捐赠4050万美元",
-          "url": "https://flash.jin10.com/detail/20251204005558678800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 03时39分]"
-        },
-        {
-          "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
-          "url": "https://wallstreetcn.com/livenews/3014555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时47分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【焦点复盘】沪指日线二连阴失守10日均线，商业航天盘中现多次巨震，超硬材料概念异军突起",
@@ -339,8 +393,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 04时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 05时19分]"
         },
         {
           "title": "中国商业航天新里程碑：朱雀三号首飞成功入轨，一级回收失利",
@@ -348,28 +402,41 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 04时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 05时19分]"
+        },
+        {
+          "title": "卫星初创公司K2 Space的估值料将膨胀两倍，至30亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3014622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压",
           "url": "https://wallstreetcn.com/articles/3760597",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时19分]"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -381,8 +448,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 04时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 05时19分]"
+        },
+        {
+          "title": "美股三大指数集体收涨，道指涨0.86%，纳指涨0.17%，标普500指数涨0.3%，特斯拉涨超4%，微软跌超2%。有色金属、加密储备概念股涨幅居前。",
+          "url": "https://api3.cls.cn/share/article/2218962?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "欧洲STOXX 600指数收涨0.10%，报576.22点，欧股盘初走高，之后持续回吐涨幅——美股盘前随着微软的AI消息而一度短暂转跌。 欧元区STOXX 50指数收涨0.15%，报5694.56点，也曾在报道称微软下调AI软件销售目标之后转跌。 富时泛欧绩优300指数收涨0.13%，报2297.89点。",
@@ -411,8 +489,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 04时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 05时19分]"
         },
         {
           "title": "美股异动丨比特币及以太坊大幅反弹，加密货币概念股齐涨",
@@ -422,8 +500,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 04时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 05时19分]"
         }
       ]
     },
@@ -456,11 +534,12 @@
           "ranks": [
             6,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 05时19分]"
         }
       ]
     },
@@ -476,8 +555,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 04时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 05时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "蔡磊已准备好尝试脑机接口",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E5%B0%9D%E8%AF%95%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         }
       ]
     },
@@ -490,11 +586,12 @@
           "url": "https://wallstreetcn.com/livenews/3014608",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 04时47分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 05时19分]"
         }
       ]
     }
