@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T19:19:45.466270+08:00",
-  "total_titles_processed": 1826,
+  "generated_at": "2025-12-03T19:41:34.547684+08:00",
+  "total_titles_processed": 1894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美要强化矿产供应链 在人工智能领域与中国竞争",
@@ -68,6 +68,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "担忧美国人工智能领域泡沫 英国养老基金抛售美股",
+          "url": "https://api3.cls.cn/share/article/2218658?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "【机构调研】AI应用持续拉动功率半导体市场需求，这家头部供应商出货量有望实现大幅提升",
@@ -276,7 +287,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
@@ -314,8 +325,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时49分 ~ 19时19分]"
+          "appearance_count": 16,
+          "time_info": "[12时49分 ~ 19时41分]"
         },
         {
           "title": "英媒：ChatGPT问世三周年 OpenAI领先地位面临严峻挑战",
@@ -349,18 +360,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "马士基：目前尚无具体时间表，无法将东西向（Gemini）航线改道经红海航行。",
-          "url": "https://flash.jin10.com/detail/20251203190054995800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -371,9 +371,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "马士基：目前尚无具体时间表，无法将东西向（Gemini）航线改道经红海航行。",
+          "url": "https://flash.jin10.com/detail/20251203190054995800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时41分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -385,6 +397,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时18分 ~ 09时28分]"
+        },
+        {
+          "title": "OpenAI：我们已全面恢复运营，目前未发现任何影响系统的故障。",
+          "url": "https://flash.jin10.com/detail/20251203185658782800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时41分]"
         },
         {
           "title": "部分用户无法访问ChatGPT，OpenAI称已采取应对措施",
@@ -410,24 +434,13 @@
           "time_info": "[00时29分 ~ 00时56分]"
         },
         {
-          "title": "OpenAI：我们已全面恢复运营，目前未发现任何影响系统的故障。",
-          "url": "https://flash.jin10.com/detail/20251203185658782800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
           "title": "OpenAI：企业及机构在使用ChatGPT时遭遇对话错误；已采取缓解措施并持续监控恢复情况。",
           "url": "https://flash.jin10.com/detail/20251203185148537800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -438,9 +451,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "OpenAI：我们已全面恢复营运 我们未发现任何影响我们系统的问题。",
+          "url": "https://wallstreetcn.com/livenews/3014409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "OpenAI：ChatGPT在商业和企业领域出现较高错误率。",
@@ -449,9 +473,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "OpenAI：目前遭遇-一些问题。 ChatGPT的商务和企业聊天功能遭遇错误；已实施缓解措施和监控复原。",
+          "url": "https://wallstreetcn.com/livenews/3014402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "财联社12月2日电，OpenAI据悉正在开发语言大模型“GARLIC”。",
@@ -463,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "财联社12月3日电，OPENAI表示，未发现任何影响系统的问题，目前已全面恢复营运。",
+          "url": "https://api3.cls.cn/share/article/2218642?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "英伟达CFO：尚未与OpenAI达成最终协议",
@@ -490,8 +536,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时28分 ~ 19时19分]"
+          "appearance_count": 20,
+          "time_info": "[09时28分 ~ 19时41分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -890,11 +936,12 @@
           "url": "https://www.cls.cn/detail/2218494",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时46分 ~ 19时19分]"
+          "appearance_count": 6,
+          "time_info": "[17时46分 ~ 19时41分]"
         },
         {
           "title": "A股商业航天概念再度拉升，上海瀚讯、招标股份双双涨停，中环海陆涨超10%，顺灏股份此前涨停，上海沪工、陕西华达、航天发展、航天智装跟涨。",
@@ -971,7 +1018,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -1161,7 +1208,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "小米高管疑似集体遭遇短信轰炸",
@@ -1221,7 +1268,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -1235,6 +1282,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时21分 ~ 15时43分]"
+        },
+        {
+          "title": "德国联邦机动车管理局：特斯拉11月在德国的新车销量下降20.2%至1763辆。",
+          "url": "https://flash.jin10.com/detail/20251203185403530800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时41分]"
         },
         {
           "title": "小米集团：耗资约3.02亿港元回购750万股",
@@ -1259,15 +1318,15 @@
           "time_info": "[15时22分 ~ 15时43分]"
         },
         {
-          "title": "德国联邦机动车管理局：特斯拉11月在德国的新车销量下降20.2%至1763辆。",
-          "url": "https://flash.jin10.com/detail/20251203185403530800",
-          "source": "金十数据",
+          "title": "特斯拉11月德国汽车销量下降五分之一",
+          "url": "https://wallstreetcn.com/livenews/3014412",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时19分"
+          "time_info": "19时41分"
         },
         {
           "title": "近日网传称，前小米中国区市场部总经理王腾加入魅族。针对该传闻，接近魅族的知情人士予以否认。（新浪科技）",
@@ -1309,8 +1368,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时29分 ~ 19时19分]"
+          "appearance_count": 9,
+          "time_info": "[16时29分 ~ 19时41分]"
         },
         {
           "title": "英伟达涨幅收窄至0.6%，刷新日低。",
@@ -1428,8 +1487,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时28分 ~ 19时19分]"
+          "appearance_count": 20,
+          "time_info": "[09时28分 ~ 19时41分]"
         },
         {
           "title": "美股涨，数字货币大体收复周一暴跌后失地，白银V形反转",
@@ -1858,7 +1917,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -1920,7 +1979,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         }
@@ -2100,8 +2159,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时21分 ~ 19时19分]"
+          "appearance_count": 12,
+          "time_info": "[15时21分 ~ 19时41分]"
         }
       ]
     }
