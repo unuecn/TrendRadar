@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T05:19:23.237931+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2025-12-04T05:38:55.170569+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达跌幅收窄至0.3%。",
@@ -40,9 +40,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "美国总统特朗普：与英伟达CEO黄仁勋进行了对话。",
+          "url": "https://flash.jin10.com/detail/20251204051858619800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "英伟达CEO黄仁勋被看金进入美国众议长约翰逊的办公室。",
@@ -98,86 +109,8 @@
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "DeepSeek新模型达到奥数金牌水平",
-          "url": "https://ckxxapp.ckxx.net/pages/2025/12/03/fabcfab1b6e244b1aae9223eab952572.html",
-          "source": "参考消息",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 05时19分]"
-        },
-        {
-          "title": "OpenAI基金会将向美国非营利组织捐赠4050万美元",
-          "url": "https://flash.jin10.com/detail/20251204005558678800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 03时39分]"
-        },
-        {
-          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
-          "url": "https://api3.cls.cn/share/article/2218960?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
-          "url": "https://wallstreetcn.com/livenews/3014555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时47分]"
-        },
-        {
-          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
-          "url": "https://wallstreetcn.com/livenews/3014617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
-          "url": "https://flash.jin10.com/detail/20251204042941294800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "专家：人工智能能否成为亚洲新增长引擎？",
@@ -187,8 +120,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 05时38分]"
         },
         {
           "title": "嘉信理财CEO：客户在询问我们如何在市场上涨后保护他们的财富。我们的投资者在人工智能领域赚了不少钱。",
@@ -245,6 +178,17 @@
           "time_info": "[04时24分 ~ 05时19分]"
         },
         {
+          "title": "Anthropic首席执行官警告称，一些人工智能巨头正在不计后果地在数据中心和芯片上投入数千亿美元，整个行业正押注于尚不确定的经济回报。",
+          "url": "https://flash.jin10.com/detail/20251204045609603800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "AMD(AMD.O)CEO：内存短缺可能只是对人工智能市场的一个小干扰。",
           "url": "https://flash.jin10.com/detail/20251203234739548800",
           "source": "金十数据",
@@ -258,9 +202,180 @@
       ]
     },
     {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "DeepSeek新模型达到奥数金牌水平",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/12/03/fabcfab1b6e244b1aae9223eab952572.html",
+          "source": "参考消息",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 05时38分]"
+        },
+        {
+          "title": "OpenAI基金会将向美国非营利组织捐赠4050万美元",
+          "url": "https://flash.jin10.com/detail/20251204005558678800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 03时39分]"
+        },
+        {
+          "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
+          "url": "https://wallstreetcn.com/livenews/3014555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时47分]"
+        },
+        {
+          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
+          "url": "https://api3.cls.cn/share/article/2218960?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时38分]"
+        },
+        {
+          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
+          "url": "https://wallstreetcn.com/livenews/3014617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时38分]"
+        },
+        {
+          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
+          "url": "https://flash.jin10.com/detail/20251204042941294800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 05时38分]"
+        },
+        {
+          "title": "美股三大指数集体收涨，道指涨0.86%，纳指涨0.17%，标普500指数涨0.3%，特斯拉涨超4%，微软跌超2%。有色金属、加密储备概念股涨幅居前。",
+          "url": "https://api3.cls.cn/share/article/2218962?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "周三（12月3日），人工智能（AI）赢家指数涨0.61%，报283.91点，美股盘初下跌，随后持续反弹。 AI软件先驱指数涨1.53%，微幅跳空低开之后，全天持续震荡上扬。 AI风险指数涨0.59%，AI工业指数涨0.29%，AI机器人指数涨2.98%——微幅高开之后持续上涨。",
+          "url": "https://wallstreetcn.com/livenews/3014638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 金龙指数跌超1%",
+          "url": "https://flash.jin10.com/detail/20251204050058058800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "欧洲STOXX 600指数收涨0.10%，报576.22点，欧股盘初走高，之后持续回吐涨幅——美股盘前随着微软的AI消息而一度短暂转跌。 欧元区STOXX 50指数收涨0.15%，报5694.56点，也曾在报道称微软下调AI软件销售目标之后转跌。 富时泛欧绩优300指数收涨0.13%，报2297.89点。",
+          "url": "https://wallstreetcn.com/livenews/3014565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 5,
       "titles": [
+        {
+          "title": "苹果股价下跌0.6%。彭博报道称，该公司用户界面设计团队负责人艾伦·戴伊（Alan Dye） 携副手Billy Sorrentino跳槽到Meta。",
+          "url": "https://wallstreetcn.com/livenews/3014612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 05时38分]"
+        },
+        {
+          "title": "苹果再现高层出走 顶级设计主管转投Meta",
+          "url": "https://api3.cls.cn/share/article/2218954?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            6,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 05时38分]"
+        },
         {
           "title": "市场消息：苹果(AAPL.O)设计主管艾伦·戴伊被Meta挖走，其将于12月31日加入Meta担任首席设计官，苹果将用资深设计师斯蒂芬·勒梅取代艾伦·戴伊。",
           "url": "https://flash.jin10.com/detail/20251204033530628800",
@@ -274,41 +389,17 @@
           "time_info": "[04时24分 ~ 05时19分]"
         },
         {
-          "title": "苹果股价下跌0.6%。彭博报道称，该公司用户界面设计团队负责人艾伦·戴伊（Alan Dye） 携副手Billy Sorrentino跳槽到Meta。",
-          "url": "https://wallstreetcn.com/livenews/3014612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 05时19分]"
-        },
-        {
-          "title": "苹果再现高层出走 顶级设计主管转投Meta",
-          "url": "https://api3.cls.cn/share/article/2218954?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 05时19分]"
-        },
-        {
           "title": "重大“挖角”：苹果设计高管艾伦·戴伊被扎克伯格招至麾下Meta",
           "url": "https://wallstreetcn.com/livenews/3014609",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 05时19分]"
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 05时38分]"
         },
         {
           "title": "财联社12月3日电，苹果股价上涨0.5%，总市值升至4.25万亿美元，有望实现连续8个交易日上涨。",
@@ -337,8 +428,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 05时38分]"
         },
         {
           "title": "美股异动丨特斯拉涨超2%，特朗普政府考虑发布行政令加速机器人行业发展",
@@ -348,8 +439,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 05时38分]"
         },
         {
           "title": "美股机器人概念股走强",
@@ -393,8 +484,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 05时38分]"
         },
         {
           "title": "中国商业航天新里程碑：朱雀三号首飞成功入轨，一级回收失利",
@@ -406,19 +497,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 05时38分]"
         },
         {
           "title": "卫星初创公司K2 Space的估值料将膨胀两倍，至30亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3014622",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时38分]"
         },
         {
           "title": "A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压",
@@ -429,49 +521,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 05时19分]"
-        },
-        {
-          "title": "美股三大指数集体收涨，道指涨0.86%，纳指涨0.17%，标普500指数涨0.3%，特斯拉涨超4%，微软跌超2%。有色金属、加密储备概念股涨幅居前。",
-          "url": "https://api3.cls.cn/share/article/2218962?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "欧洲STOXX 600指数收涨0.10%，报576.22点，欧股盘初走高，之后持续回吐涨幅——美股盘前随着微软的AI消息而一度短暂转跌。 欧元区STOXX 50指数收涨0.15%，报5694.56点，也曾在报道称微软下调AI软件销售目标之后转跌。 富时泛欧绩优300指数收涨0.13%，报2297.89点。",
-          "url": "https://wallstreetcn.com/livenews/3014565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 05时38分]"
         }
       ]
     },
@@ -489,8 +540,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 05时38分]"
         },
         {
           "title": "美股异动丨比特币及以太坊大幅反弹，加密货币概念股齐涨",
@@ -500,8 +551,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 05时38分]"
         }
       ]
     },
@@ -555,8 +606,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 05时38分]"
         }
       ]
     },
@@ -571,9 +622,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国共和党参议员克鲁兹：参议院委员会将与特斯拉举行听证会。",
+          "url": "https://flash.jin10.com/detail/20251204051302071800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         }
       ]
     },
@@ -587,11 +655,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 05时19分]"
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 05时38分]"
         }
       ]
     }
