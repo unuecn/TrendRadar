@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T15:41:48.693380+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2025-12-05T16:28:20.690675+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 15时41分]"
+          "appearance_count": 8,
+          "time_info": "[13时20分 ~ 16时28分]"
         },
         {
           "title": "平治信息(300571.SZ)：截止目前公司累计签订的算力业务相关订单金额已超过24亿元",
@@ -68,6 +69,18 @@
           "time_info": "[15时21分 ~ 15时41分]"
         },
         {
+          "title": "任正非最新发声，谈到AI、算力、年轻人等",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202512/0559051.html",
+          "source": "早报",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 16时28分]"
+        },
+        {
           "title": "华力创通(300045.SZ)：公司具备星载设备的研制能力，相关产品可应用于太空算力",
           "url": "https://www.gelonghui.com/news/5129917",
           "source": "格隆汇",
@@ -103,17 +116,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时20分 ~ 14时31分]"
-        },
-        {
-          "title": "任正非最新发声，谈到AI、算力、年轻人等",
-          "url": "https://www.zaochenbao.com/news/Chronicles/202512/0559051.html",
-          "source": "早报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 15时41分]"
         },
         {
           "title": "12月5日午间收评：创业板指半日涨0.47%，算力硬件股集体走强",
@@ -220,7 +222,7 @@
     },
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "12月5日投资避雷针：5天3板人气股提示风险 目前公司主营业务不涉及商业航天",
@@ -247,11 +249,12 @@
             9,
             8,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 15时41分]"
+          "appearance_count": 8,
+          "time_info": "[13时20分 ~ 16时28分]"
         },
         {
           "title": "“宽基+行业主题”的核心-卫星策略！A500ETF基金(512050)本周合计净流入10亿，居股票ETF第一，电网设备ETF(159326)连续6日“吸金”",
@@ -334,6 +337,28 @@
           "time_info": "12时03分"
         },
         {
+          "title": "总产值达200亿元 全国首个商业航天产业基地成形起势",
+          "url": "https://wallstreetcn.com/livenews/3015736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "东利机械(301298.SZ)：目前不涉及商业航天领域",
+          "url": "https://www.gelonghui.com/news/5130041",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "越秀资本：控股子公司发起设立了商业航天基金",
           "url": "https://api3.cls.cn/share/article/2220549?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -345,6 +370,17 @@
           "time_info": "12时03分"
         },
         {
+          "title": "总产值达200亿元 全国首个商业航天产业基地成形起势",
+          "url": "https://api3.cls.cn/share/article/2220974?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "中信建投：朱雀三号首飞入轨成功，商业航天可复用探索迈入新阶段",
           "url": "https://wallstreetcn.com/livenews/3015445",
           "source": "华尔街见闻-快讯",
@@ -354,6 +390,126 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "财联社12月5日电，消息与文件显示，印度政府正审议电信业提案，拟要求智能手机制造商提供持续定位功能以加强监控。苹果、谷歌、三星就隐私与监管过度问题反对印度电信提案。",
+          "url": "https://api3.cls.cn/share/article/2221006?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "消息人士：印度政府正在审议电信行业的一项提案，该提案要求智能手机制造商必须启用始终在线的位置服务，以加强监控能力。苹果(AAPL.O)、谷歌(GOOG.O)、三星致函印度，因隐私担忧要求其勿接受电信提案，并警告其监管过度干预。",
+          "url": "https://flash.jin10.com/detail/20251205161256990800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "比亚迪王传福：未来还有更多重磅技术发布",
+          "url": "https://wallstreetcn.com/livenews/3015748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "大行评级丨里昂：上调苹果目标价至330美元 维持“跑赢大市”评级",
+          "url": "https://www.gelonghui.com/news/5129875",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "苹果公司宣布高管人事调整",
+          "url": "https://flash.jin10.com/detail/20251205054244381800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时18分 ~ 07时40分]"
+        },
+        {
+          "title": "王传福回应比亚迪国内销量下滑",
+          "url": "https://wallstreetcn.com/livenews/3015600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 13时45分]"
+        },
+        {
+          "title": "比亚迪国内销量下滑 王传福回应：当前技术领先度不及前几年 后面将有重磅技术发布",
+          "url": "https://api3.cls.cn/share/article/2220618?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 13时20分]"
+        },
+        {
+          "title": "苹果：Jennifer Newstead将加盟苹果，担任高级副总裁。",
+          "url": "https://wallstreetcn.com/livenews/3015366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 06时43分]"
+        },
+        {
+          "title": "苹果宣布：总法律顾问兼政策主管离职",
+          "url": "https://wallstreetcn.com/livenews/3015366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时40分]"
+        },
+        {
+          "title": "【盘中宝】这类产品或将真正开启AI时代人机交互革命，谷歌、苹果、Meta等科技巨头纷纷加快布局，这家公司相关产品已应用于多家国内外知名企业",
+          "url": "https://api3.cls.cn/share/article/2220491?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
         }
       ]
     },
@@ -380,11 +536,12 @@
           "url": "https://wallstreetcn.com/livenews/3015719",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 16时28分]"
         },
         {
           "title": "大行评级丨高盛：预期未来数季小米将有更多AI成果公布 评级“买入”",
@@ -586,8 +743,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时09分 ~ 15时41分]"
+          "appearance_count": 11,
+          "time_info": "[11时09分 ~ 16时28分]"
         },
         {
           "title": "谷歌与人工智能编程初创公司Replit达成多年合作伙伴关系。",
@@ -685,8 +842,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时29分 ~ 15时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时29分 ~ 16时28分]"
         },
         {
           "title": "比特币跌破92000美元",
@@ -777,95 +934,8 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "大行评级丨里昂：上调苹果目标价至330美元 维持“跑赢大市”评级",
-          "url": "https://www.gelonghui.com/news/5129875",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "苹果公司宣布高管人事调整",
-          "url": "https://flash.jin10.com/detail/20251205054244381800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时18分 ~ 07时40分]"
-        },
-        {
-          "title": "王传福回应比亚迪国内销量下滑",
-          "url": "https://wallstreetcn.com/livenews/3015600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 13时45分]"
-        },
-        {
-          "title": "比亚迪国内销量下滑 王传福回应：当前技术领先度不及前几年 后面将有重磅技术发布",
-          "url": "https://api3.cls.cn/share/article/2220618?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 13时20分]"
-        },
-        {
-          "title": "苹果：Jennifer Newstead将加盟苹果，担任高级副总裁。",
-          "url": "https://wallstreetcn.com/livenews/3015366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 06时43分]"
-        },
-        {
-          "title": "苹果宣布：总法律顾问兼政策主管离职",
-          "url": "https://wallstreetcn.com/livenews/3015366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时40分]"
-        },
-        {
-          "title": "【盘中宝】这类产品或将真正开启AI时代人机交互革命，谷歌、苹果、Meta等科技巨头纷纷加快布局，这家公司相关产品已应用于多家国内外知名企业",
-          "url": "https://api3.cls.cn/share/article/2220491?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "机器人(300024.SZ)：真空机械手类产品的主要构件材料为铝合金与不锈钢",
@@ -937,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "同益中：高分子纤维腱绳产品实现批量生产 进入工业应用领域多家头部机器人企业供应商名录",
+          "url": "https://api3.cls.cn/share/article/2220975?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
@@ -1075,6 +1156,56 @@
       ]
     },
     {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "能源设备板块领涨，电网ETF(159320)、光伏ETF龙头(560980)涨超2%，百亿级电池ETF(159755)近60日资金净流入超70亿元！",
+          "url": "https://www.gelonghui.com/news/5129873",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "南玻Ａ(000012.SZ)：不生产光伏组件",
+          "url": "https://www.gelonghui.com/news/5130045",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "光伏产业链多环节下调12月份排产计划",
+          "url": "https://api3.cls.cn/share/article/2220504?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "中国光伏产业链多环节下调12月份排产计划",
+          "url": "https://wallstreetcn.com/livenews/3015517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
       "match_count": 3,
       "titles": [
@@ -1117,45 +1248,6 @@
       ]
     },
     {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "能源设备板块领涨，电网ETF(159320)、光伏ETF龙头(560980)涨超2%，百亿级电池ETF(159755)近60日资金净流入超70亿元！",
-          "url": "https://www.gelonghui.com/news/5129873",
-          "source": "格隆汇",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "光伏产业链多环节下调12月份排产计划",
-          "url": "https://api3.cls.cn/share/article/2220504?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "中国光伏产业链多环节下调12月份排产计划",
-          "url": "https://wallstreetcn.com/livenews/3015517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
       "match_count": 3,
       "titles": [
@@ -1168,8 +1260,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时29分 ~ 15时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时29分 ~ 16时28分]"
         },
         {
           "title": "美商务部长公然称要台积电“整个供应链”",
@@ -1299,7 +1391,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
@@ -1316,7 +1408,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
