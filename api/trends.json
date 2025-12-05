@@ -1,72 +1,46 @@
 {
-  "generated_at": "2025-12-06T00:27:15.114200+08:00",
-  "total_titles_processed": 228,
+  "generated_at": "2025-12-06T00:51:59.702445+08:00",
+  "total_titles_processed": 258,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“国产GPU第一股”！摩尔线程大涨502%，中一签赚28万，早期投资者暴赚6200倍",
-          "url": "https://wallstreetcn.com/articles/3760773",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "【焦点复盘】创业板指2连涨收复60日线，全市场近百股涨超10%，算力硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2221133",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "摩尔线程今日上市！创始人张建中：迭代全功能GPU为美好世界加速",
-          "url": "https://wallstreetcn.com/articles/3760761",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "比特币 以太坊",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "财联社12月6日电，比特币向下跌破90000美元，过去24小时内下跌3.36%。",
-          "url": "https://api3.cls.cn/share/article/2221576?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
           "url": "https://wallstreetcn.com/articles/3760711",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时51分]"
+        },
+        {
+          "title": "财联社12月6日电，比特币向下跌破89000美元，过去24小时内下跌4.17%。",
+          "url": "https://api3.cls.cn/share/article/2221581?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "00时51分"
+        },
+        {
+          "title": "财联社12月6日电，比特币向下跌破90000美元，过去24小时内下跌3.36%。",
+          "url": "https://api3.cls.cn/share/article/2221576?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时51分]"
         },
         {
           "title": "马来西亚严打非法比特币“挖矿”",
@@ -76,8 +50,48 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“国产GPU第一股”！摩尔线程大涨502%，中一签赚28万，早期投资者暴赚6200倍",
+          "url": "https://wallstreetcn.com/articles/3760773",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时51分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指2连涨收复60日线，全市场近百股涨超10%，算力硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2221133",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时51分]"
+        },
+        {
+          "title": "摩尔线程今日上市！创始人张建中：迭代全功能GPU为美好世界加速",
+          "url": "https://wallstreetcn.com/articles/3760761",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时51分]"
         }
       ]
     },
@@ -90,22 +104,41 @@
           "url": "https://api3.cls.cn/share/article/2221562?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时51分]"
         },
         {
           "title": "英特尔反弹超5%，美光科技、AMD涨超4%，博通、台积电涨超2%；奈飞转涨，盘初一度跌超4%。",
           "url": "https://wallstreetcn.com/livenews/3016038",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货白银脱离历史最高位59.3336美元/盎司，回落至58美元下方，涨幅收窄至大约2%。 现货黄金脱离盘中最高位4259.34美元，转跌并一度失守4200美元。",
+          "url": "https://wallstreetcn.com/livenews/3016054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "00时51分"
         }
       ]
     },
@@ -118,11 +151,12 @@
           "url": "https://wallstreetcn.com/articles/3760797",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时51分]"
         }
       ]
     },
@@ -138,8 +172,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时51分]"
         }
       ]
     },
@@ -155,8 +189,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时51分]"
         }
       ]
     },
@@ -172,8 +206,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时51分]"
         }
       ]
     },
@@ -189,8 +223,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时51分]"
         }
       ]
     }
