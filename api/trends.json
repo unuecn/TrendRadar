@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T15:38:45.843687+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2025-12-06T16:25:11.034110+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[01时19分 ~ 15时38分]"
+          "appearance_count": 29,
+          "time_info": "[01时19分 ~ 16时25分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -40,11 +40,12 @@
             18,
             19,
             21,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时27分 ~ 15时38分]"
+          "appearance_count": 31,
+          "time_info": "[00时27分 ~ 16时25分]"
         },
         {
           "title": "财联社12月6日电，比特币向下跌破89000美元，过去24小时内下跌4.17%。",
@@ -132,8 +133,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时25分 ~ 15时38分]"
+          "appearance_count": 14,
+          "time_info": "[09时25分 ~ 16时25分]"
         },
         {
           "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
@@ -224,6 +225,19 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时42分 ~ 16时25分]"
+        },
+        {
           "title": "ChatGPT产品负责人回应广告传闻",
           "url": "https://flash.jin10.com/detail/20251206101132584800",
           "source": "金十数据",
@@ -240,19 +254,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时53分 ~ 14时51分]"
-        },
-        {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时42分 ~ 15时38分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -304,6 +305,138 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时25分 ~ 10时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
+          "url": "https://www.cls.cn/detail/2221214",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 12时22分]"
+        },
+        {
+          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
+          "url": "https://flash.jin10.com/detail/20251206030123657800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时17分 ~ 07时39分]"
+        },
+        {
+          "title": "港媒：中国推动人工智能赋能港口营运",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/12/06/3a18f36baa6f4aa7928e3f5c1261bfaf.html",
+          "source": "参考消息",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
+          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms已收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3016105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时22分 ~ 05时40分]"
+        },
+        {
+          "title": "财联社12月6日电，三井住友金融集团将向信息技术部门投资1万亿日元用于人工智能和网络安全。",
+          "url": "https://api3.cls.cn/share/article/2221642?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
+          "url": "https://www.cls.cn/detail/2221612",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时25分 ~ 16时25分]"
+        },
+        {
+          "title": "【每日收评】沪指放量收复3900点，商业航天强者恒强，大金融午后异军突起",
+          "url": "https://www.cls.cn/detail/2221045",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 07时39分]"
+        },
+        {
+          "title": "AH股走高，创业板、深成指涨超1%，百度涨超5%，保险、券商领涨，CPO、商业航天走强，摩尔线程上市首日大涨，稀土拉升",
+          "url": "https://wallstreetcn.com/articles/3760769",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 16时25分]"
+        },
+        {
+          "title": "我国成功发射卫星互联网低轨14组卫星",
+          "url": "https://wallstreetcn.com/livenews/3016261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "我国成功发射卫星互联网低轨14组卫星",
+          "url": "https://api3.cls.cn/share/article/2221761?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         }
       ]
     },
@@ -363,61 +496,6 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
-          "url": "https://www.cls.cn/detail/2221214",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 12时22分]"
-        },
-        {
-          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
-          "url": "https://flash.jin10.com/detail/20251206030123657800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时17分 ~ 07时39分]"
-        },
-        {
-          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms已收购该公司。",
-          "url": "https://wallstreetcn.com/livenews/3016105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时22分 ~ 05时40分]"
-        },
-        {
-          "title": "财联社12月6日电，三井住友金融集团将向信息技术部门投资1万亿日元用于人工智能和网络安全。",
-          "url": "https://api3.cls.cn/share/article/2221642?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 黄金",
       "match_count": 3,
       "titles": [
@@ -465,53 +543,22 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
-          "url": "https://www.cls.cn/detail/2221612",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时25分 ~ 15时38分]"
-        },
-        {
-          "title": "【每日收评】沪指放量收复3900点，商业航天强者恒强，大金融午后异军突起",
-          "url": "https://www.cls.cn/detail/2221045",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 07时39分]"
-        },
-        {
-          "title": "AH股走高，创业板、深成指涨超1%，百度涨超5%，保险、券商领涨，CPO、商业航天走强，摩尔线程上市首日大涨，稀土拉升",
-          "url": "https://wallstreetcn.com/articles/3760769",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 15时38分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 3,
       "titles": [
+        {
+          "title": "王传福：比亚迪是龙头企业 不能欺负别人",
+          "url": "https://www.zaochenbao.com/news/china/202512/0659126.html",
+          "source": "早报",
+          "ranks": [
+            3,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 16时25分]"
+        },
         {
           "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
           "url": "https://wallstreetcn.com/livenews/3016208",
@@ -529,19 +576,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时54分 ~ 14时51分]"
-        },
-        {
-          "title": "王传福：比亚迪是龙头企业 不能欺负别人",
-          "url": "https://www.zaochenbao.com/news/china/202512/0659126.html",
-          "source": "早报",
-          "ranks": [
-            3,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 15时38分]"
         },
         {
           "title": "财联社12月6日电，美国众议院共和党人就追踪类应用程序问题对苹果、谷歌展开质询。",
@@ -632,11 +666,12 @@
             10,
             11,
             13,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时27分 ~ 15时38分]"
+          "appearance_count": 31,
+          "time_info": "[00时27分 ~ 16时25分]"
         }
       ]
     },
