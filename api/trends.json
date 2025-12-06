@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T20:37:51.329573+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2025-12-06T21:27:24.000934+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[11时42分 ~ 20时37分]"
+          "appearance_count": 23,
+          "time_info": "[11时42分 ~ 21时27分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -44,11 +45,12 @@
           "url": "https://wallstreetcn.com/articles/3760832",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时40分 ~ 20时37分]"
+          "appearance_count": 9,
+          "time_info": "[17时40分 ~ 21时27分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -106,11 +108,12 @@
           "url": "https://wallstreetcn.com/articles/3760844",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时27分]"
         }
       ]
     },
@@ -143,8 +146,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 40,
-          "time_info": "[01时19分 ~ 20时37分]"
+          "appearance_count": 41,
+          "time_info": "[01时19分 ~ 21时27分]"
         },
         {
           "title": "马来西亚严打非法比特币“挖矿”",
@@ -247,8 +250,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[09时25分 ~ 20时37分]"
+          "appearance_count": 26,
+          "time_info": "[09时25分 ~ 21时27分]"
         },
         {
           "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
@@ -335,6 +338,102 @@
       ]
     },
     {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
+          "url": "https://www.cls.cn/detail/2221214",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 12时22分]"
+        },
+        {
+          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
+          "url": "https://flash.jin10.com/detail/20251206030123657800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时17分 ~ 07时39分]"
+        },
+        {
+          "title": "港媒：中国推动人工智能赋能港口营运",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/12/06/3a18f36baa6f4aa7928e3f5c1261bfaf.html",
+          "source": "参考消息",
+          "ranks": [
+            1,
+            6,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[16时24分 ~ 21时27分]"
+        },
+        {
+          "title": "卡塔尔能源部长：人工智能的能源需求将推动天然气需求增长。我对未来天然气需求完全不担心。",
+          "url": "https://flash.jin10.com/detail/20251206165735695800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            14,
+            19,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时19分 ~ 19时37分]"
+        },
+        {
+          "title": "卡塔尔能源大臣：人工智能成“吃气大户” 警惕2035年供需失衡",
+          "url": "https://flash.jin10.com/detail/20251206203209145800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms已收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3016105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时22分 ~ 05时40分]"
+        },
+        {
+          "title": "财联社12月6日电，三井住友金融集团将向信息技术部门投资1万亿日元用于人工智能和网络安全。",
+          "url": "https://api3.cls.cn/share/article/2221642?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 7,
       "titles": [
@@ -349,8 +448,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[09时25分 ~ 20时37分]"
+          "appearance_count": 26,
+          "time_info": "[09时25分 ~ 21时27分]"
         },
         {
           "title": "【每日收评】沪指放量收复3900点，商业航天强者恒强，大金融午后异军突起",
@@ -377,8 +476,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时46分 ~ 20时37分]"
+          "appearance_count": 12,
+          "time_info": "[16时46分 ~ 21时27分]"
         },
         {
           "title": "AH股走高，创业板、深成指涨超1%，百度涨超5%，保险、券商领涨，CPO、商业航天走强，摩尔线程上市首日大涨，稀土拉升",
@@ -437,90 +536,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时25分 ~ 18时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
-          "url": "https://www.cls.cn/detail/2221214",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 12时22分]"
-        },
-        {
-          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
-          "url": "https://flash.jin10.com/detail/20251206030123657800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时17分 ~ 07时39分]"
-        },
-        {
-          "title": "港媒：中国推动人工智能赋能港口营运",
-          "url": "https://ckxxapp.ckxx.net/pages/2025/12/06/3a18f36baa6f4aa7928e3f5c1261bfaf.html",
-          "source": "参考消息",
-          "ranks": [
-            1,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时24分 ~ 20时37分]"
-        },
-        {
-          "title": "卡塔尔能源部长：人工智能的能源需求将推动天然气需求增长。我对未来天然气需求完全不担心。",
-          "url": "https://flash.jin10.com/detail/20251206165735695800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            14,
-            19,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时19分 ~ 19时37分]"
-        },
-        {
-          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms已收购该公司。",
-          "url": "https://wallstreetcn.com/livenews/3016105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时22分 ~ 05时40分]"
-        },
-        {
-          "title": "财联社12月6日电，三井住友金融集团将向信息技术部门投资1万亿日元用于人工智能和网络安全。",
-          "url": "https://api3.cls.cn/share/article/2221642?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
         }
       ]
     },
@@ -678,36 +693,8 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "新华社不点名批小米广告“大小字陷阱”：胆量为何这么大",
-          "url": "https://www.zaochenbao.com/news/china/202512/0559086.html",
-          "source": "早报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 07时39分]"
-        },
-        {
-          "title": "黄仁勋称华为史上最强科技公司之一",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0%E5%8D%8E%E4%B8%BA%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E4%B9%8B%E4%B8%80&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "财联社12月5日电，明星科技股集体走高，英特尔涨超5%，美光科技、AMD涨超4%，博通、台积电涨超2%；奈飞转涨，盘初一度跌超4%。",
@@ -735,12 +722,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "刚刚，英伟达CUDA迎来史上最大更新！",
+          "url": "https://wallstreetcn.com/articles/3760843",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特朗普政府ALL IN机器人，港股赛道龙头凭全球布局稳占\"战略制高点\"",
@@ -750,8 +748,47 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时19分 ~ 20时37分]"
+          "appearance_count": 8,
+          "time_info": "[18时19分 ~ 21时27分]"
+        },
+        {
+          "title": "机器人租赁市场趋于理性：昔日万元“日薪”遭膝斩 年末季节性需求注入动力",
+          "url": "https://www.cls.cn/detail/2221792",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "新华社不点名批小米广告“大小字陷阱”：胆量为何这么大",
+          "url": "https://www.zaochenbao.com/news/china/202512/0559086.html",
+          "source": "早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 07时39分]"
+        },
+        {
+          "title": "黄仁勋称华为史上最强科技公司之一",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0%E5%8D%8E%E4%B8%BA%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E4%B9%8B%E4%B8%80&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         }
       ]
     },
