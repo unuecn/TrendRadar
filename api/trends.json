@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T17:52:27.093113+08:00",
-  "total_titles_processed": 1458,
+  "generated_at": "2025-12-08T18:23:49.296068+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,12 @@
             1,
             5,
             20,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 17时52分]"
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 18时23分]"
         },
         {
           "title": "英媒：中国在人形机器人领域占据主导地位",
@@ -143,7 +144,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -217,6 +218,18 @@
           "time_info": "[16时31分 ~ 16时57分]"
         },
         {
+          "title": "【电报解读】智元机器人第5000台具身机器人量产下线！分析师看好机器人产业逻辑持续强化，2026年开始量产背景下，板块有望迎来新一轮上涨行情，这家公司产品已经在部分机器人客户端实现批量应用",
+          "url": "https://api3.cls.cn/share/article/2222903?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 18时23分]"
+        },
+        {
           "title": "A股机器人概念股震荡拉升，五洲新春午后涨停，飞龙股份、景业智能、豪能股份、中坚科技、泰尔股份等涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3016725",
           "source": "华尔街见闻-快讯",
@@ -238,17 +251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
-        },
-        {
-          "title": "【电报解读】智元机器人第5000台具身机器人量产下线！分析师看好机器人产业逻辑持续强化，2026年开始量产背景下，板块有望迎来新一轮上涨行情，这家公司产品已经在部分机器人客户端实现批量应用",
-          "url": "https://api3.cls.cn/share/article/2222903?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         },
         {
           "title": "地平线余凯：坚守生态信仰，地平线为未来无处不在的机器人提供计算平台",
@@ -342,7 +344,7 @@
     },
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "年产1000颗！我国卫星超级工厂即将投产 多枚火箭筹备首飞",
@@ -383,8 +385,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时12分 ~ 17时52分]"
+          "appearance_count": 15,
+          "time_info": "[11时12分 ~ 18时23分]"
         },
         {
           "title": "蓝箭迈出可回收火箭第一步 中国商业航天还有哪些玩家？",
@@ -410,8 +412,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时24分 ~ 17时52分]"
+          "appearance_count": 7,
+          "time_info": "[15时24分 ~ 18时23分]"
         },
         {
           "title": "钧崴电子(301458.SZ)：产品暂未进入商业航天领域",
@@ -445,6 +447,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "国光电气：公司霍尔电推进器核心部件已成功应用于载人航天工程 商业航天小卫星领域已实现小批量销售",
+          "url": "https://api3.cls.cn/share/article/2222959?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "两连板航天动力：仅配合加工火箭发动机零部件 营收占比不足2%",
+          "url": "https://api3.cls.cn/share/article/2222954?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "A股异动丨商业航天股掀涨停潮，航天发展等超10股涨停",
@@ -563,7 +587,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国电信董事长柯瑞文：加快推进算力基础设施建设 强化国产算力芯片适配",
@@ -647,11 +671,23 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时23分]"
+        },
+        {
+          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
+          "url": "https://wallstreetcn.com/articles/3760893",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "A股高开，创业板涨超3%，算力硬件、券商股拉升，港股低开低走，有色低迷，30年期国债期货续跌，万科债上涨",
@@ -707,6 +743,129 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "特斯拉(TSLA.O)盘前跌超1%，摩根士丹利将其评级从超配下调至中性。",
+          "url": "https://flash.jin10.com/detail/20251208180145909800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "财联社12月8日电，摩根士丹利将特斯拉评级从超配下调至与大盘持平，目标价从410美元上调至425美元。",
+          "url": "https://api3.cls.cn/share/article/2222831?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "特斯拉中国官网显示，新款Model 3高性能全轮驱动版预计交付日期更新为2026年2月。",
+          "url": "https://wallstreetcn.com/livenews/3016703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 13时46分]"
+        },
+        {
+          "title": "摩根士丹利：将特斯拉(TSLA.O)评级从超配下调至与大盘持平；目标价从410美元上调至425美元。",
+          "url": "https://flash.jin10.com/detail/20251208163927100800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时31分]"
+        },
+        {
+          "title": "财联社12月8日电，特斯拉中国官网显示，新款Model 3高性能全轮驱动版预计交付日期更新为2026年2月。",
+          "url": "https://api3.cls.cn/share/article/2222493?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时22分]"
+        },
+        {
+          "title": "南向资金今日净买入超15亿港元 小米集团获净买入居前",
+          "url": "https://api3.cls.cn/share/article/2222935?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 18时23分]"
+        },
+        {
+          "title": "乘联分会：特斯拉(TSLA.O)11月出口13,555辆中国产汽车。",
+          "url": "https://flash.jin10.com/detail/20251208161752256800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时57分]"
+        },
+        {
+          "title": "特斯拉上海超级工厂第400万辆整车正式下线",
+          "url": "https://wallstreetcn.com/livenews/3016752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时24分]"
+        },
+        {
+          "title": "特斯拉上海超级工厂第400万辆整车正式下线 从300万到400万用时不到14个月",
+          "url": "https://api3.cls.cn/share/article/2222573?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
+        },
+        {
+          "title": "小米集团-W(01810.HK)12月8日耗资2.04亿港元回购480万股",
+          "url": "https://www.gelonghui.com/news/5131058",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     },
@@ -854,8 +1013,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时34分 ~ 17时52分]"
+          "appearance_count": 9,
+          "time_info": "[14时34分 ~ 18时23分]"
         },
         {
           "title": "河南“十五五”规划建议：全面实施“人工智能+”行动 建设重点行业领域垂直大模型",
@@ -934,106 +1093,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "财联社12月8日电，摩根士丹利将特斯拉评级从超配下调至与大盘持平，目标价从410美元上调至425美元。",
-          "url": "https://api3.cls.cn/share/article/2222831?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "特斯拉中国官网显示，新款Model 3高性能全轮驱动版预计交付日期更新为2026年2月。",
-          "url": "https://wallstreetcn.com/livenews/3016703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 13时46分]"
-        },
-        {
-          "title": "摩根士丹利：将特斯拉(TSLA.O)评级从超配下调至与大盘持平；目标价从410美元上调至425美元。",
-          "url": "https://flash.jin10.com/detail/20251208163927100800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 17时31分]"
-        },
-        {
-          "title": "财联社12月8日电，特斯拉中国官网显示，新款Model 3高性能全轮驱动版预计交付日期更新为2026年2月。",
-          "url": "https://api3.cls.cn/share/article/2222493?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 13时22分]"
-        },
-        {
-          "title": "乘联分会：特斯拉(TSLA.O)11月出口13,555辆中国产汽车。",
-          "url": "https://flash.jin10.com/detail/20251208161752256800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时57分]"
-        },
-        {
-          "title": "特斯拉上海超级工厂第400万辆整车正式下线",
-          "url": "https://wallstreetcn.com/livenews/3016752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 15时24分]"
-        },
-        {
-          "title": "特斯拉上海超级工厂第400万辆整车正式下线 从300万到400万用时不到14个月",
-          "url": "https://api3.cls.cn/share/article/2222573?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
-        },
-        {
-          "title": "南向资金今日净买入超15亿港元 小米集团获净买入居前",
-          "url": "https://api3.cls.cn/share/article/2222935?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         }
       ]
     },
@@ -1340,8 +1399,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时41分 ~ 17时52分]"
+          "appearance_count": 20,
+          "time_info": "[06时41分 ~ 18时23分]"
         },
         {
           "title": "日方炒作辽宁舰航母编队舰载机雷达照射，国防部：纯属是贼喊捉贼",
@@ -1355,8 +1414,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[00时22分 ~ 17时52分]"
+          "appearance_count": 37,
+          "time_info": "[00时22分 ~ 18时23分]"
         },
         {
           "title": "国防部新闻发言人张晓刚就日炒作我辽宁舰航母编队舰载机雷达照射答记者问",
@@ -1628,8 +1687,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时54分 ~ 17时52分]"
+          "appearance_count": 12,
+          "time_info": "[12时54分 ~ 18时23分]"
         },
         {
           "title": "OpenAI“红色警报”拉响，30岁ChatGPT负责人走向台前",
@@ -1684,11 +1743,12 @@
             4,
             8,
             23,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 17时52分]"
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 18时23分]"
         },
         {
           "title": "港股异动丨半导体普涨 中芯国际涨4% AI推动需求 10月全球半导体销售额同比大增",
@@ -1713,11 +1773,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时23分]"
         },
         {
           "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
@@ -1760,11 +1821,12 @@
           "ranks": [
             4,
             19,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时57分 ~ 17时52分]"
+          "appearance_count": 4,
+          "time_info": "[16时57分 ~ 18时23分]"
         }
       ]
     },
