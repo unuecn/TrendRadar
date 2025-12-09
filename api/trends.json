@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T06:21:15.192937+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2025-12-10T06:46:09.397755+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "财联社12月10日电，谷歌云推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时26分 ~ 04时41分]"
+        },
+        {
+          "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
+          "url": "https://flash.jin10.com/detail/20251210063207113800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 06时46分]"
         },
         {
           "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
@@ -184,7 +195,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
@@ -196,8 +207,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时46分]"
         },
         {
           "title": "美股三大指数收盘涨跌不一 摩根大通跌超4%",
@@ -206,9 +217,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 06时46分]"
         },
         {
           "title": "周二（12月9日）纽约尾盘，ICE美元指数涨0.13%，报99.217点，北京时间17:48跌至98.954点刷新日低，随后持续走高，23:00发布美联储青睐的职位空缺（就业数据）之后快速拉升并刷新日高至99.312点。 彭博美元指数涨0.03%，报1214.47点，日内交投区间为1212.64-1215.70点。",
@@ -223,16 +234,30 @@
           "time_info": "[04时21分 ~ 05时18分]"
         },
         {
+          "title": "美股三大指数收盘涨跌不一 摩根大通跌超4%",
+          "url": "https://api3.cls.cn/share/article/2224709?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时18分 ~ 06时46分]"
+        },
+        {
           "title": "周二（12月9日），美股行业ETF涨跌各异，能源业ETF收涨0.62%，网络股指数ETF、科技行业ETF、全球科技股指数ETF至多涨0.32%，半导体ETF涨0.12%。 金融业ETF则收跌0.37%，生物科技指数ETF跌1.68%。",
           "url": "https://wallstreetcn.com/livenews/3017891",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时21分]"
+          "appearance_count": 3,
+          "time_info": "[05时18分 ~ 06时46分]"
         },
         {
           "title": "美股费城银行指数转跌，此前一度上涨1.4%。",
@@ -247,16 +272,39 @@
           "time_info": "[03时26分 ~ 04时41分]"
         },
         {
-          "title": "美股三大指数收盘涨跌不一 摩根大通跌超4%",
-          "url": "https://api3.cls.cn/share/article/2224709?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
+          "url": "https://www.cls.cn/detail/2224722",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            14
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时21分]"
+          "time_info": "[06时45分 ~ 06时46分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨3.54%，报322.02点，美股早盘持续走高，北京时间00:00过后持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.55%，报2292.39点，22:30美股开盘之前维持微跌状态、持续交投于2230点附近，之后持续走高，也在00:00之后持续高位横盘震荡。",
+          "url": "https://wallstreetcn.com/livenews/3017901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 06时46分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨将近1.3%，Meta跌约1.5%",
+          "url": "https://wallstreetcn.com/livenews/3017889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 06时46分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 摩根大通跌近5%",
@@ -268,28 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨3.54%，报322.02点，美股早盘持续走高，北京时间00:00过后持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.55%，报2292.39点，22:30美股开盘之前维持微跌状态、持续交投于2230点附近，之后持续走高，也在00:00之后持续高位横盘震荡。",
-          "url": "https://wallstreetcn.com/livenews/3017901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨将近1.3%，Meta跌约1.5%",
-          "url": "https://wallstreetcn.com/livenews/3017889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
         }
       ]
     },
@@ -306,8 +332,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 06时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 06时46分]"
         },
         {
           "title": "比特币升破93000美元",
@@ -319,8 +345,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时46分]"
         },
         {
           "title": "财联社12月10日电，比特币向上升破94000美元，过去24小时内上涨4.14%。",
@@ -378,11 +404,12 @@
           "url": "https://wallstreetcn.com/livenews/3017904",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 06时46分]"
         },
         {
           "title": "比特币升破91000美元",
@@ -411,8 +438,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时46分]"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：人工智能（AI）已经给就业市场营造一个“令人恐怖的”前景。",
@@ -463,8 +490,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时46分]"
         },
         {
           "title": "我国成功发射通信技术试验卫星二十二号",
@@ -518,8 +545,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时46分]"
         },
         {
           "title": "华昌达(300278.SZ)：公司是特斯拉直接供应商",
@@ -531,8 +558,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时46分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：欧盟委员会应该解散，由民选机构取代，欧盟主席也应该由直接选举产生。目前的体制是官僚统治，而非民主。",
@@ -559,8 +586,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时46分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -572,8 +599,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时46分]"
         },
         {
           "title": "特朗普批准英伟达向中国出售H200芯片",
@@ -583,8 +610,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时46分]"
         }
       ]
     },
@@ -602,8 +629,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时46分]"
         },
         {
           "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
@@ -628,11 +655,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 06时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 06时46分]"
         }
       ]
     },
@@ -666,8 +694,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时46分]"
         }
       ]
     },
@@ -684,8 +712,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时46分]"
         }
       ]
     }
