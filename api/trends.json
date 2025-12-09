@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T16:29:55.987998+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2025-12-09T16:56:03.471207+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
@@ -124,11 +124,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 16时29分]"
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 16时56分]"
         },
         {
           "title": "综合知情人士透露的消息和条款清单来看，软银和英伟达正在洽谈投资人工智能公司Skild AI。 Skild AI可能会按140亿美元估值融资10亿美元。 谈判细节仍存在变数，但该交易预计将在圣诞节前完成。（路透）",
@@ -167,6 +168,53 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时24分 ~ 05时17分]"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://www.cls.cn/detail/2223956",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 16时56分]"
+        },
+        {
+          "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
+          "url": "https://flash.jin10.com/detail/20251209161139815800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 16时56分]"
+        },
+        {
+          "title": "财联社12月9日电，据报道，欧盟委员会对谷歌在人工智能开发中使用在线内容可能涉及的反竞争行为展开调查。",
+          "url": "https://api3.cls.cn/share/article/2224058?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 16时56分]"
+        },
+        {
+          "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
+          "url": "https://wallstreetcn.com/articles/3760944",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 16时56分]"
         },
         {
           "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
@@ -239,39 +287,6 @@
           "time_info": "01时44分"
         },
         {
-          "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
-          "url": "https://flash.jin10.com/detail/20251209161139815800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "财联社12月9日电，据报道，欧盟委员会对谷歌在人工智能开发中使用在线内容可能涉及的反竞争行为展开调查。",
-          "url": "https://api3.cls.cn/share/article/2224058?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
-          "url": "https://wallstreetcn.com/articles/3760944",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "摩根大通CEO戴蒙：（谈人工智能）也许有一天，我们会工作不那么辛苦，但生活却更加美好。",
           "url": "https://flash.jin10.com/detail/20251209093951615800",
           "source": "金十数据",
@@ -281,17 +296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
-        },
-        {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://www.cls.cn/detail/2223956",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
         },
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片 外交部回应",
@@ -322,7 +326,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         }
@@ -341,8 +345,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时28分 ~ 16时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 16时56分]"
         },
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -355,8 +359,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时08分 ~ 16时29分]"
+          "appearance_count": 12,
+          "time_info": "[11时08分 ~ 16时56分]"
         },
         {
           "title": "财联社12月9日电，美国部分芯片股盘后走强，英伟达(NVDA.O)涨1.2%，AMD涨近1%，英特尔涨0.4%。",
@@ -398,6 +402,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时19分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普批准英伟达向中国出售H200芯片",
+          "url": "https://www.zaochenbao.com/news/politics/202512/0959394.html",
+          "source": "早报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 16时56分]"
         },
         {
           "title": "英伟达股价短线拉升涨超2%。",
@@ -456,17 +471,6 @@
           "time_info": "[02时31分 ~ 04时45分]"
         },
         {
-          "title": "特朗普批准英伟达向中国出售H200芯片",
-          "url": "https://www.zaochenbao.com/news/politics/202512/0959394.html",
-          "source": "早报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "A股异动丨英伟达H200概念股走强，鸿博股份、东阳光涨停",
           "url": "https://www.gelonghui.com/news/5131372",
           "source": "格隆汇",
@@ -501,6 +505,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时44分 ~ 07时40分]"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 16时56分]"
         },
         {
           "title": "英伟达(NVDA.O)涨幅扩大至3%。",
@@ -582,17 +597,6 @@
           "time_info": "[00时28分 ~ 00时55分]"
         },
         {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片，收取25%的分成",
           "url": "https://wallstreetcn.com/livenews/3017241",
           "source": "华尔街见闻-快讯",
@@ -618,7 +622,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
@@ -630,8 +634,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时28分 ~ 16时29分]"
+          "appearance_count": 33,
+          "time_info": "[00时28分 ~ 16时56分]"
         },
         {
           "title": "【每日收评】两市成交额重返2万亿！创业板指涨超2.5%，算力硬件、商业航天联袂领涨",
@@ -727,6 +731,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 13时44分]"
+        },
+        {
+          "title": "摩尔线程：即将发布新一代GPU架构",
+          "url": "https://www.cls.cn/detail/2223760",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
         },
         {
           "title": "12月9日午间收评：创业板指半日涨超1%，算力硬件股持续走强",
@@ -956,7 +971,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "机器人产业加速量产 靠“数据飞轮”闯关真实世界",
@@ -969,8 +984,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时28分 ~ 16时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 16时56分]"
+        },
+        {
+          "title": "飞亚达(000026.SZ)：向航空航天、医疗器械、机器人（含灵巧手）等市场领域拓展，相关业务目前占公司收入比重较小",
+          "url": "https://www.gelonghui.com/news/5131535",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
         },
         {
           "title": "机器人产业链企业“排队”赴港上市",
@@ -1050,7 +1076,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -1061,7 +1087,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -1080,7 +1106,7 @@
     },
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【研选】多款新型大推力商业火箭将密集首发，分析师表示商业航天投资方向可向低轨卫星端倾斜；电连接器国内核心供应商，产品应用范围覆盖各类高轨卫星、低轨卫星、火箭等航天各个领域，有望把握商业航天机遇期",
@@ -1098,11 +1124,12 @@
           "url": "https://api3.cls.cn/share/article/2224061?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            2
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 16时56分]"
         },
         {
           "title": "A股商业航天概念股午后再度走强，航天机电涨停，走出8天5板，乾照光电涨近10%，创出历史新高。",
@@ -1138,6 +1165,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 13时20分]"
+        },
+        {
+          "title": "斯瑞新材：火箭发动机推力室内壁产品助力蓝箭航天朱雀三号可重复使用运载火箭一级动力系统试车成功",
+          "url": "https://api3.cls.cn/share/article/2224074?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
         },
         {
           "title": "商业航天概念再度走强 航天机电8天5板",
@@ -1225,8 +1263,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 14时38分]"
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 16时56分]"
         },
         {
           "title": "美股三大指数集体收跌 特斯拉跌超3%",
@@ -1550,11 +1588,12 @@
           "ranks": [
             9,
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时02分 ~ 16时29分]"
+          "appearance_count": 11,
+          "time_info": "[12时02分 ~ 16时56分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
@@ -1738,6 +1777,57 @@
       ]
     },
     {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "永顺泰(001338.SZ)：目前下属秦麦公司、昌麦公司、宝麦公司均有光伏项目建成使用",
+          "url": "https://www.gelonghui.com/news/5131309",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 09时29分]"
+        },
+        {
+          "title": "A股光伏设备板块尾盘拉升，通威股份、协鑫集成、双良节能纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3017456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时43分]"
+        },
+        {
+          "title": "网传光伏收储平台公司今日成立，工商注册信息尚未查询到",
+          "url": "https://wallstreetcn.com/livenews/3017522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "A股光伏概念午后局部异动，清源股份直线涨停。",
+          "url": "https://wallstreetcn.com/livenews/3017417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 3,
       "titles": [
@@ -1761,7 +1851,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -1805,8 +1895,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 16时29分]"
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 16时56分]"
         },
         {
           "title": "外交部就所谓“雷达照射”反问日方：是否在刻意滋扰中方 制造紧张事态",
@@ -1822,42 +1912,45 @@
       ]
     },
     {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "keyword_group": "比特币 以太坊",
       "match_count": 3,
       "titles": [
         {
-          "title": "永顺泰(001338.SZ)：目前下属秦麦公司、昌麦公司、宝麦公司均有光伏项目建成使用",
-          "url": "https://www.gelonghui.com/news/5131309",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "A股光伏设备板块尾盘拉升，通威股份、协鑫集成、双良节能纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3017456",
+          "title": "周一（12月8日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨2.01%，报91405美元。 CME以太币期货DCR主力合约涨4.13%，报3154.50美元。 美股加密货币与加密货币关联指数涨1.91%，报70.39点。 最近24小时，MarketVector数字资产100小盘指数涨2.69%，暂报4159.64点。",
+          "url": "https://wallstreetcn.com/livenews/3017179",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            5,
             13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时43分]"
-        },
-        {
-          "title": "A股光伏概念午后局部异动，清源股份直线涨停。",
-          "url": "https://wallstreetcn.com/livenews/3017417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
+          "appearance_count": 4,
+          "time_info": "[06时20分 ~ 07时40分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）开始试点，允许将比特币、以太坊、Circle的稳定币USDC用作衍生品抵押物。",
+          "url": "https://wallstreetcn.com/livenews/3017177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时20分 ~ 07时40分]"
+        },
+        {
+          "title": "美国CFTC：批准衍生品交易使用比特币、以太坊等作为抵押品",
+          "url": "https://api3.cls.cn/share/article/2224086?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
         }
       ]
     },
@@ -1872,7 +1965,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -1999,43 +2092,12 @@
           "url": "https://wallstreetcn.com/livenews/3017507",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周一（12月8日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨2.01%，报91405美元。 CME以太币期货DCR主力合约涨4.13%，报3154.50美元。 美股加密货币与加密货币关联指数涨1.91%，报70.39点。 最近24小时，MarketVector数字资产100小盘指数涨2.69%，暂报4159.64点。",
-          "url": "https://wallstreetcn.com/livenews/3017179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时20分 ~ 07时40分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）开始试点，允许将比特币、以太坊、Circle的稳定币USDC用作衍生品抵押物。",
-          "url": "https://wallstreetcn.com/livenews/3017177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             6,
-            14,
-            19
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时20分 ~ 07时40分]"
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时56分]"
         }
       ]
     },
