@@ -1,33 +1,23 @@
 {
-  "generated_at": "2025-12-10T01:45:31.055060+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-10T02:53:18.617072+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "财联社12月10日电，OpenAI与Linux基金会共同创立Agentic AI基金会。",
           "url": "https://api3.cls.cn/share/article/2224672?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 01时45分]"
-        },
-        {
-          "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
-          "url": "https://wallstreetcn.com/livenews/3017827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 02时53分]"
         },
         {
           "title": "OpenAI：作为这项工作的一部分，我们正在向AAIF网站贡献Agents.MD。",
@@ -36,7 +26,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         },
@@ -47,9 +37,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
+          "url": "https://wallstreetcn.com/livenews/3017827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 02时53分]"
         },
         {
           "title": "OpenAI：AAIF旨在为开放、可互操作的基础设施提供中立的管理服务。",
@@ -58,7 +60,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         },
@@ -81,9 +83,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "OpenAI宣布在Linux基金会下共同创立Agentic AI基金会",
+          "url": "https://flash.jin10.com/detail/20251210021330401800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "市场消息：OpenAI与Linux基金会共同创立了Agentic AI基金会。",
@@ -92,7 +105,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         },
@@ -122,8 +135,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 01时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 02时53分]"
         },
         {
           "title": "以太坊升破3300美元",
@@ -133,8 +146,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 01时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 02时53分]"
         },
         {
           "title": "财联社12月10日电，比特币向上升破94000美元，过去24小时内上涨4.14%。",
@@ -142,11 +155,12 @@
           "source": "财联社电报",
           "ranks": [
             1,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 01时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 02时53分]"
         },
         {
           "title": "财联社12月10日电，比特币向上升破93000美元，过去24小时内上涨3.4%。",
@@ -159,6 +173,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时53分 ~ 01时45分]"
+        },
+        {
+          "title": "比特币/美元日内涨幅达4.5%，报94113美元。",
+          "url": "https://wallstreetcn.com/livenews/3017817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时53分]"
         },
         {
           "title": "比特币公司Twenty One Capital Inc.（XXI）美国上市首日盘初下跌24%，该公司此前“借壳上市”——与特殊目的收购公司（SPAC）Cantor Equity Partners Inc.合并。 比特币目前涨2.3%，以太坊涨3.7%，Solana涨3.1%，狗狗币涨2.1%，XRP涨1.4%。",
@@ -174,18 +201,6 @@
           "time_info": "[00时27分 ~ 01时45分]"
         },
         {
-          "title": "比特币/美元日内涨幅达4.5%，报94113美元。",
-          "url": "https://wallstreetcn.com/livenews/3017817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时45分]"
-        },
-        {
           "title": "比特币升破91000美元",
           "url": "https://www.gelonghui.com/news/5131944",
           "source": "格隆汇",
@@ -195,6 +210,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 02时53分]"
+        },
+        {
+          "title": "橡树资本联合创始人Howard Marks：人工智能（AI）已经给就业市场营造一个“令人恐怖的”前景。",
+          "url": "https://wallstreetcn.com/livenews/3017838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "摩根大通消费者与社区银行业务首席执行官：借助人工智能，年度生产率增幅从3%提升至6%。",
+          "url": "https://flash.jin10.com/detail/20251210015752973800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "摩根大通消费者与社区银行业务首席执行官：从长远来看，人工智能的使用可使生产力提高40%至50%。",
+          "url": "https://flash.jin10.com/detail/20251210015549048800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         }
       ]
     },
@@ -211,8 +277,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 01时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 02时53分]"
         },
         {
           "title": "我国成功发射通信技术试验卫星二十二号",
@@ -264,19 +330,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 01时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 02时53分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
           "url": "https://wallstreetcn.com/articles/3760972",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 01时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 02时53分]"
         },
         {
           "title": "特朗普批准英伟达向中国出售H200芯片",
@@ -286,8 +353,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 01时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 02时53分]"
         }
       ]
     },
@@ -304,8 +371,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 01时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 02时53分]"
         },
         {
           "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
@@ -333,8 +400,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 01时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 02时53分]"
         },
         {
           "title": "华昌达(300278.SZ)：公司是特斯拉直接供应商",
@@ -345,8 +412,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 01时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 02时53分]"
         }
       ]
     },
@@ -363,8 +430,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 01时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 02时53分]"
         }
       ]
     },
@@ -380,8 +447,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 01时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 02时53分]"
         }
       ]
     },
@@ -394,28 +461,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32132572",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 01时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 01时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 02时53分]"
         }
       ]
     },
@@ -431,8 +482,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 01时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 02时53分]"
         }
       ]
     }
