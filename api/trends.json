@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T12:49:48.822656+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2025-12-09T13:20:49.225876+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 12时49分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 13时20分]"
         },
         {
           "title": "财联社12月9日电，美国部分芯片股盘后走强，英伟达(NVDA.O)涨1.2%，AMD涨近1%，英特尔涨0.4%。",
@@ -60,6 +60,18 @@
           "time_info": "[06时19分 ~ 07时40分]"
         },
         {
+          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
+          "url": "https://www.cls.cn/detail/2223487",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时08分 ~ 13时20分]"
+        },
+        {
           "title": "英伟达股价短线拉升涨超2%。",
           "url": "https://api3.cls.cn/share/article/2223350?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -73,18 +85,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时31分 ~ 04时45分]"
-        },
-        {
-          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
-          "url": "https://www.cls.cn/detail/2223487",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时08分 ~ 12时49分]"
         },
         {
           "title": "英伟达：向经美国商务部审核批准的商业客户提供H200，实现了对美国极为有利的审慎平衡。",
@@ -331,6 +331,21 @@
           "time_info": "[02时31分 ~ 04时45分]"
         },
         {
+          "title": "特朗普允许英伟达对华出口H200人工智能晶片",
+          "url": "https://www.zaochenbao.com/news/politics/202512/0959342.html",
+          "source": "早报",
+          "ranks": [
+            10,
+            19,
+            23,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 13时20分]"
+        },
+        {
           "title": "华泰证券传媒行业2026年度展望：聚焦游戏产品向上周期，寻找AI应用突破性机会",
           "url": "https://www.gelonghui.com/news/5131312",
           "source": "格隆汇",
@@ -354,20 +369,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时44分 ~ 03时39分]"
-        },
-        {
-          "title": "特朗普允许英伟达对华出口H200人工智能晶片",
-          "url": "https://www.zaochenbao.com/news/politics/202512/0959342.html",
-          "source": "早报",
-          "ranks": [
-            10,
-            19,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 12时49分]"
         },
         {
           "title": "综合知情人士透露的消息和条款清单来看，软银和英伟达正在洽谈投资人工智能公司Skild AI。 Skild AI可能会按140亿美元估值融资10亿美元。 谈判细节仍存在变数，但该交易预计将在圣诞节前完成。（路透）",
@@ -529,8 +530,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时28分 ~ 12时49分]"
+          "appearance_count": 26,
+          "time_info": "[00时28分 ~ 13时20分]"
         },
         {
           "title": "三大美股指收跌，H200芯片消息刺激英伟达收涨，欧美国债走低，铜价盘中续创新高",
@@ -647,8 +648,128 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
+          "url": "https://wallstreetcn.com/articles/3760893",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时28分 ~ 13时20分]"
+        },
+        {
+          "title": "【每日收评】两市成交额重返2万亿！创业板指涨超2.5%，算力硬件、商业航天联袂领涨",
+          "url": "https://www.cls.cn/detail/2222837",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 05时39分]"
+        },
+        {
+          "title": "A股午评：创业板指涨1.07%，超1700股上涨，算力硬件板块领涨",
+          "url": "https://www.gelonghui.com/news/5131355",
+          "source": "格隆汇",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 13时20分]"
+        },
+        {
+          "title": "摩尔线程：即将发布新一代GPU架构",
+          "url": "https://api3.cls.cn/share/article/2223755?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "12月9日午间收评：创业板指半日涨超1%，算力硬件股持续走强",
+          "url": "https://wallstreetcn.com/livenews/3017353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 12时49分]"
+        },
+        {
+          "title": "午评：创业板指半日涨超1% 算力硬件概念再度爆发",
+          "url": "https://api3.cls.cn/share/article/2223679?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "【摩尔线程：即将发布新一代GPU架构】摩尔线程今日官微消息，12月19日至20日，摩尔线程首届MUSA开发者大会将在北京中关村国际创新中心拉开帷幕。摩尔线程创始人、董事长兼CEO张建中将首次系统阐述以MUSA为核心的全栈发展战略与未来愿景，并重磅发布新一代GPU架构、推出涵盖产品体系、核心技术及行业解决方案的完整布局，分享多领域落地案例与生态建设进展。",
+          "url": "https://wallstreetcn.com/livenews/3017393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "中信证券：空间算力进一步打开行业天花板，为相关产业链带来巨大的发展契机",
+          "url": "https://wallstreetcn.com/livenews/3017239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指跌0.04%，深成指涨0.31%，算力硬件、创新药、影视、商业航天等方向领涨，沪深京三市上涨个股超2200只。",
+          "url": "https://wallstreetcn.com/livenews/3017296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "【盘中宝】AI领域理想互联解决方案，英伟达等巨头也在探索该产品应用，未来在数据中心应用前景广阔，这家公司产品能满足AI算力集群高可靠性严苛标准",
+          "url": "https://api3.cls.cn/share/article/2223589?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股异动丨特斯拉跌超2%，估值担忧升温，大摩新任分析师下调公司评级",
@@ -679,6 +800,20 @@
           "time_info": "[05时17分 ~ 07时40分]"
         },
         {
+          "title": "小米三款新车齐曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E4%B8%89%E6%AC%BE%E6%96%B0%E8%BD%A6%E9%BD%90%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 13时20分]"
+        },
+        {
           "title": "美股三大指数集体收跌 特斯拉跌超3%",
           "url": "https://www.gelonghui.com/news/5131288",
           "source": "格隆汇",
@@ -692,18 +827,15 @@
           "time_info": "[06时43分 ~ 07时40分]"
         },
         {
-          "title": "小米三款新车齐曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E4%B8%89%E6%AC%BE%E6%96%B0%E8%BD%A6%E9%BD%90%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "独家｜华为2012实验室新成立基础大模型部",
+          "url": "https://api3.cls.cn/share/article/2223753?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            2,
-            6,
-            9,
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 12时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
@@ -766,104 +898,6 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
-          "url": "https://wallstreetcn.com/articles/3760893",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时28分 ~ 12时49分]"
-        },
-        {
-          "title": "【每日收评】两市成交额重返2万亿！创业板指涨超2.5%，算力硬件、商业航天联袂领涨",
-          "url": "https://www.cls.cn/detail/2222837",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 05时39分]"
-        },
-        {
-          "title": "A股午评：创业板指涨1.07%，超1700股上涨，算力硬件板块领涨",
-          "url": "https://www.gelonghui.com/news/5131355",
-          "source": "格隆汇",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 12时49分]"
-        },
-        {
-          "title": "12月9日午间收评：创业板指半日涨超1%，算力硬件股持续走强",
-          "url": "https://wallstreetcn.com/livenews/3017353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时49分]"
-        },
-        {
-          "title": "午评：创业板指半日涨超1% 算力硬件概念再度爆发",
-          "url": "https://api3.cls.cn/share/article/2223679?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
-        },
-        {
-          "title": "中信证券：空间算力进一步打开行业天花板，为相关产业链带来巨大的发展契机",
-          "url": "https://wallstreetcn.com/livenews/3017239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "创业板指涨超1%，沪指跌0.04%，深成指涨0.31%，算力硬件、创新药、影视、商业航天等方向领涨，沪深京三市上涨个股超2200只。",
-          "url": "https://wallstreetcn.com/livenews/3017296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
-          "title": "【盘中宝】AI领域理想互联解决方案，英伟达等巨头也在探索该产品应用，未来在数据中心应用前景广阔，这家公司产品能满足AI算力集群高可靠性严苛标准",
-          "url": "https://api3.cls.cn/share/article/2223589?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 7,
       "titles": [
@@ -876,8 +910,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 12时49分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 13时20分]"
         },
         {
           "title": "机器人产业链企业“排队”赴港上市",
@@ -892,17 +926,6 @@
           "time_info": "[06时44分 ~ 07时40分]"
         },
         {
-          "title": "【电报解读】估值仅次宇树、智元，银河通用机器人拟赴港上市，快速整理银河通用相关上市公司（附表）",
-          "url": "https://api3.cls.cn/share/article/2223734?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
           "title": "首程控股(00697.HK)：北京机器人基金和首宝基金投资云深处科技",
           "url": "https://www.gelonghui.com/news/5131293",
           "source": "格隆汇",
@@ -912,6 +935,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "【电报解读】估值仅次宇树、智元，银河通用机器人拟赴港上市，快速整理银河通用相关上市公司（附表）",
+          "url": "https://api3.cls.cn/share/article/2223734?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时20分]"
         },
         {
           "title": "财联社12月8日电，软银集团与英伟达据悉正就投资机器人初创企业Skild AI事宜进行洽谈。",
@@ -964,8 +999,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 12时49分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 13时20分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
@@ -975,8 +1010,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 12时49分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 13时20分]"
         },
         {
           "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
@@ -987,8 +1022,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 13时20分]"
         },
         {
           "title": "【电报解读】谷歌将推出首款搭载Gemini的AI眼镜，国内三季度消费级AI/AR销量同比大增186%，这家公司与谷歌联合推出面向端侧大语言模型应用",
@@ -1110,11 +1145,12 @@
           "url": "https://api3.cls.cn/share/article/2223716?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            12
+            12,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时20分]"
         },
         {
           "title": "A股异动丨商业航天板块继续活跃，机构称大运力、低成本趋势正引领行业开启新时代",
@@ -1308,6 +1344,34 @@
       ]
     },
     {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "富宝资讯：碳酸锂期货盘面盘整运行，富宝电池级碳酸锂报92350元/吨",
+          "url": "https://flash.jin10.com/detail/20251209130952303800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，工业硅跌超3%，焦炭、燃料油、焦煤、SC原油、玻璃、低硫燃料油跌超2%，乙二醇、菜油、螺纹钢、热卷跌近2%。涨幅方面，多晶硅涨超2%，纤维板、生猪涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251209113043684800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
       "match_count": 2,
       "titles": [
@@ -1400,8 +1464,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时28分 ~ 12时49分]"
+          "appearance_count": 26,
+          "time_info": "[00时28分 ~ 13时20分]"
         }
       ]
     },
@@ -1415,11 +1479,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 13时20分]"
         }
       ]
     },
@@ -1433,28 +1498,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，工业硅跌超3%，焦炭、燃料油、焦煤、SC原油、玻璃、低硫燃料油跌超2%，乙二醇、菜油、螺纹钢、热卷跌近2%。涨幅方面，多晶硅涨超2%，纤维板、生猪涨超1%。",
-          "url": "https://flash.jin10.com/detail/20251209113043684800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 13时20分]"
         }
       ]
     },
