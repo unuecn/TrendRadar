@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T04:25:29.873111+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2025-12-11T04:48:19.713622+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -56,9 +56,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "当安卓用户第一次用苹果",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E5%AE%89%E5%8D%93%E7%94%A8%E6%88%B7%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8%E8%8B%B9%E6%9E%9C&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 04时48分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)CEO蒂姆·库克被看到现身美国国会。",
@@ -103,23 +115,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
-        },
-        {
-          "title": "当安卓用户第一次用苹果",
-          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E5%AE%89%E5%8D%93%E7%94%A8%E6%88%B7%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8%E8%8B%B9%E6%9E%9C&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
         }
       ]
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "财联社12月11日电，据消息人士透露，谷歌预计将因GooglePlay违反欧盟规则而遭到欧盟罚款。",
@@ -176,9 +177,167 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "OpenAI：为网络安全防范工作组巩固多个模型。 正准备为AI模型提供安全防范措施。 将成立“前沿风险委员会”。 训练模型来安全地响应那些有害的（用户/网络）请求。",
+          "url": "https://wallstreetcn.com/livenews/3018628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "OpenAI未来的那些模型可能会构成“较高的”网络（安全）风险。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3018627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "消息人士：英特尔实施了相关政策，要求CEO回避某些投资决策的政策。",
+          "url": "https://flash.jin10.com/detail/20251211043555573800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "消息人士：英特尔曾探讨过对初创企业Rivos和Sambanova的竞购，而英特尔CEO曾担任Sambanova的董事长。",
+          "url": "https://flash.jin10.com/detail/20251211043535908800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "消息人士：英特尔(INTC.O)曾推进多项交易，以提振由首席执行官的风险投资基金所持有的初创企业。",
+          "url": "https://flash.jin10.com/detail/20251211043447582800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "英特尔和AMD被指控“蓄意无视”，未能阻止其芯片流入俄制武器",
+          "url": "https://wallstreetcn.com/livenews/3018537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 01时47分]"
+        },
+        {
+          "title": "高通、戴尔等科技公司的CEO们出席美国总统特朗普在白宫举办的圆桌会议。",
+          "url": "https://wallstreetcn.com/livenews/3018634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "财联社12月10日电，英特尔盘中跌幅扩大至近4%。",
+          "url": "https://api3.cls.cn/share/article/2225830?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "黑石集团总裁：企业对面临人工智能颠覆风险的业务持谨慎态度。",
+          "url": "https://flash.jin10.com/detail/20251211013151029800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "鲍威尔：我认为，人工智能（AI）让使用它的人们具有更高的生产力。",
+          "url": "https://wallstreetcn.com/livenews/3018639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "财联社12月11日电，美联储主席鲍威尔表示，人工智能可能是就业疲软的原因之一，但并非主要原因。",
+          "url": "https://api3.cls.cn/share/article/2225947?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "鲍威尔：就业增长被夸，这并没有争议。 人工智能（AI）可能是就业疲软的原因之一，但其影响程度并不大。 AI对就业的影响肯定没有体现在裁员中。",
+          "url": "https://wallstreetcn.com/livenews/3018632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "美国总统特朗普：据苹果公司CEO库克表示，招聘很难。 今天将讨论科技和人工智能（AI）。 今天与参议院讨论过AI监管问题。",
+          "url": "https://wallstreetcn.com/livenews/3018631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         }
       ]
     },
@@ -194,8 +353,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 04时48分]"
         },
         {
           "title": "财晓得｜星空之下，生意之上，中国商业航天的万亿赛道",
@@ -207,8 +366,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 04时48分]"
         },
         {
           "title": "湖北随州网红局长提前退休 入职浙江一卫星通信公司",
@@ -218,8 +377,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 04时48分]"
         }
       ]
     },
@@ -265,8 +424,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 04时48分]"
         },
         {
           "title": "千亿合并计划终止，海光信息回应：与曙光仍将保持算力全链条协同发展",
@@ -293,50 +452,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 04时48分]"
         },
         {
           "title": "财联社12月11日电，英特尔高管称，公司希望在今年晚些时候或明年年初完成英伟达的投资事宜。",
           "url": "https://api3.cls.cn/share/article/2225941?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英特尔 高通",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英特尔和AMD被指控“蓄意无视”，未能阻止其芯片流入俄制武器",
-          "url": "https://wallstreetcn.com/livenews/3018537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19,
-            25,
-            28
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 01时47分]"
-        },
-        {
-          "title": "财联社12月10日电，英特尔盘中跌幅扩大至近4%。",
-          "url": "https://api3.cls.cn/share/article/2225830?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 04时48分]"
         }
       ]
     },
@@ -376,23 +505,6 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黑石集团总裁：企业对面临人工智能颠覆风险的业务持谨慎态度。",
-          "url": "https://flash.jin10.com/detail/20251211013151029800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "比特币 以太坊",
       "match_count": 1,
       "titles": [
@@ -403,7 +515,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         }
