@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T22:23:32.927529+08:00",
-  "total_titles_processed": 2425,
+  "generated_at": "2025-12-11T22:46:24.080632+08:00",
+  "total_titles_processed": 2457,
   "failed_sources": [],
   "trends": [
     {
@@ -113,18 +113,6 @@
           "time_info": "[18时49分 ~ 19时19分]"
         },
         {
-          "title": "A股收盘：北证50指数大涨近4%，商业航天概念股持续活跃",
-          "url": "https://wallstreetcn.com/livenews/3019021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时44分]"
-        },
-        {
           "title": "A股三大指数回调，北证50收涨近4%！商业航天走强，摩尔线程突破900元，房地产调整，恒科指跌0.83%，中兴通讯重挫",
           "url": "https://wallstreetcn.com/articles/3761155",
           "source": "华尔街见闻",
@@ -132,8 +120,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时23分]"
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 22时46分]"
         },
         {
           "title": "【焦点复盘】沪指放量跌0.7%录得日线3连阴，商业航天概念一枝独秀，摩尔线程总市值突破4400亿",
@@ -144,8 +132,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 22时46分]"
+        },
+        {
+          "title": "A股收盘：北证50指数大涨近4%，商业航天概念股持续活跃",
+          "url": "https://wallstreetcn.com/livenews/3019021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时23分]"
+          "time_info": "[15时24分 ~ 15时44分]"
         },
         {
           "title": "航宇科技：已成功开发蓝箭航天、天兵科技等商业航天客户",
@@ -295,7 +295,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "DeepSeek据报用美禁英伟达晶片开发下一代AI模型",
@@ -318,11 +318,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202512/1159576.html",
           "source": "早报",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时23分]"
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 22时46分]"
         },
         {
           "title": "美股异动丨Gemini盘前涨13.6% 获得监管机构对其预测市场产品的批准",
@@ -334,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "迪士尼(DIS.N)上涨2%，公司将向OpenAI投资10亿美元，并将旗下卡通人物引入SORA。",
+          "url": "https://flash.jin10.com/detail/20251211224007045800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "谷歌(GOOG.O)：宣布对我们的Gemini 2.5 Flash和Gemini 2.5 Pro文本转语音（TTS）预览模型进行重大升级。",
@@ -412,6 +424,17 @@
           "time_info": "[01时22分 ~ 01时47分]"
         },
         {
+          "title": "迪士尼与OpenAI达成内容许可与投资协议",
+          "url": "https://wallstreetcn.com/livenews/3019279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时46分]"
+        },
+        {
           "title": "消息人士：谷歌(GOOG.O)或将因Google Play违反欧盟规则而被欧盟处以罚款；罚款措施或将于2026年第一季度出台。",
           "url": "https://flash.jin10.com/detail/20251211005056346800",
           "source": "金十数据",
@@ -424,6 +447,29 @@
           "time_info": "[01时22分 ~ 01时47分]"
         },
         {
+          "title": "迪士尼将成为OpenAI模型Sora首个主要的内容授权合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20251211220333965800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时46分]"
+        },
+        {
+          "title": "财联社12月11日电，迪士尼将对OpenAI进行10亿美元股权投资。",
+          "url": "https://api3.cls.cn/share/article/2227131?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时46分]"
+        },
+        {
           "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
           "url": "https://flash.jin10.com/detail/20251211064706062800",
           "source": "金十数据",
@@ -433,17 +479,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时40分]"
-        },
-        {
-          "title": "迪士尼将成为OpenAI模型Sora首个主要的内容授权合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20251211220333965800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "谷歌(GOOG.O)：将把Gemini 3引入Stitch——我们的实验性AI驱动设计工具。",
@@ -463,29 +498,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "迪士尼与OpenAI达成内容许可与投资协议",
-          "url": "https://wallstreetcn.com/livenews/3019279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "财联社12月11日电，迪士尼将对OpenAI进行10亿美元股权投资。",
-          "url": "https://api3.cls.cn/share/article/2227131?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -496,7 +509,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -534,6 +547,17 @@
           "time_info": "04时48分"
         },
         {
+          "title": "迪士尼向OpenAI投资10亿美元 旗下角色将登陆Sora",
+          "url": "https://flash.jin10.com/detail/20251211221733960800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "报道：若不做出更多让步，谷歌或因Google Play涉嫌违规遭欧盟罚款",
           "url": "https://wallstreetcn.com/livenews/3018771",
           "source": "华尔街见闻-快讯",
@@ -566,8 +590,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[11时25分 ~ 22时23分]"
+          "appearance_count": 23,
+          "time_info": "[11时25分 ~ 22时46分]"
         },
         {
           "title": "Meta人工智能训练模型工具据悉包括通义千问",
@@ -773,7 +797,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         }
@@ -1530,7 +1554,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股七巨头收盘播报｜微软收跌超2.7%，特斯拉、亚马逊至少涨1.4%",
@@ -1594,6 +1618,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 05时45分]"
+        },
+        {
+          "title": "美股开盘，道指涨0.05%，标普500指数跌0.37%，纳指跌0.6%。业绩和指引均不及预期的甲骨文(ORCL.N)大跌14%拖累AI股票，英伟达(NVDA.O)跌2%，英特尔(INTC.O)跌1.9%，美光科技(MU.O)跌0.95%。",
+          "url": "https://flash.jin10.com/detail/20251211223024942800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "美股三大股指小幅走高，道指涨0.5%，标普500指数涨0.2%，纳指跌幅收窄至0.1%。",
@@ -1816,9 +1851,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时46分]"
         }
       ]
     },
@@ -1938,9 +1973,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时46分]"
         },
         {
           "title": "先导智能(300450.SZ)：已实现全固态电池整线解决方案的量产级交付",
@@ -2093,6 +2128,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "【公告全知道】6G+商业航天+量子科技+CPO+军工+无人机！公司长期为长征系列火箭配套产品",
+          "url": "https://api3.cls.cn/share/article/2227049?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时46分]"
+        },
+        {
           "title": "江苏“十五五”规划建议：推动量子科技、脑机接口、具身智能等一批前沿性未来产业形成现实生产力",
           "url": "https://api3.cls.cn/share/article/2225999?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -2102,17 +2148,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "【公告全知道】6G+商业航天+量子科技+CPO+军工+无人机！公司长期为长征系列火箭配套产品",
-          "url": "https://api3.cls.cn/share/article/2227049?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "南网数字(301638.SZ)：暂未直接涉及通用量子计算机的研发或技术输出",
@@ -2325,9 +2360,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时46分]"
         }
       ]
     },
