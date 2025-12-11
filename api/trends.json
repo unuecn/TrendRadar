@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T07:40:15.487196+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2025-12-11T09:40:53.263717+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：宣布对我们的Gemini 2.5 Flash和Gemini 2.5 Pro文本转语音（TTS）预览模型进行重大升级。",
@@ -149,12 +149,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "报道：若不做出更多让步，谷歌或因Google Play涉嫌违规遭欧盟罚款",
+          "url": "https://wallstreetcn.com/livenews/3018771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         }
       ]
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "苹果公司CEO库克被看到出现在美国国会山。（彭博）",
@@ -256,6 +267,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "暂时失去了在办公室吃苹果的权力",
+          "url": "https://s.weibo.com/weibo?q=%E6%9A%82%E6%97%B6%E5%A4%B1%E5%8E%BB%E4%BA%86%E5%9C%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%90%83%E8%8B%B9%E6%9E%9C%E7%9A%84%E6%9D%83%E5%8A%9B&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "外媒：苹果CEO就儿童网络安全法向美国议员施压",
           "url": "https://flash.jin10.com/detail/20251211021614810800",
           "source": "金十数据",
@@ -265,6 +287,94 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "Meta人工智能训练模型工具据悉包括通义千问",
+          "url": "https://www.zaochenbao.com/news/china/202512/1159526.html",
+          "source": "早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "黑石集团总裁：企业对面临人工智能颠覆风险的业务持谨慎态度。",
+          "url": "https://flash.jin10.com/detail/20251211013151029800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "鲍威尔：我认为，人工智能（AI）让使用它的人们具有更高的生产力。",
+          "url": "https://wallstreetcn.com/livenews/3018639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时22分]"
+        },
+        {
+          "title": "财联社12月11日电，美联储主席鲍威尔表示，人工智能可能是就业疲软的原因之一，但并非主要原因。",
+          "url": "https://api3.cls.cn/share/article/2225947?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 05时45分]"
+        },
+        {
+          "title": "鲍威尔：就业增长被夸，这并没有争议。 人工智能（AI）可能是就业疲软的原因之一，但其影响程度并不大。 AI对就业的影响肯定没有体现在裁员中。",
+          "url": "https://wallstreetcn.com/livenews/3018632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时22分]"
+        },
+        {
+          "title": "美国总统特朗普：据苹果公司CEO库克表示，招聘很难。 今天将讨论科技和人工智能（AI）。 今天与参议院讨论过AI监管问题。",
+          "url": "https://wallstreetcn.com/livenews/3018631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时22分]"
+        },
+        {
+          "title": "江苏“十五五”规划建议：支持苏州、南京等有条件的地方开展“人工智能+”城市建设试点",
+          "url": "https://api3.cls.cn/share/article/2226001?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         }
       ]
     },
@@ -349,83 +459,6 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "黑石集团总裁：企业对面临人工智能颠覆风险的业务持谨慎态度。",
-          "url": "https://flash.jin10.com/detail/20251211013151029800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "鲍威尔：我认为，人工智能（AI）让使用它的人们具有更高的生产力。",
-          "url": "https://wallstreetcn.com/livenews/3018639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时22分]"
-        },
-        {
-          "title": "财联社12月11日电，美联储主席鲍威尔表示，人工智能可能是就业疲软的原因之一，但并非主要原因。",
-          "url": "https://api3.cls.cn/share/article/2225947?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 05时45分]"
-        },
-        {
-          "title": "鲍威尔：就业增长被夸，这并没有争议。 人工智能（AI）可能是就业疲软的原因之一，但其影响程度并不大。 AI对就业的影响肯定没有体现在裁员中。",
-          "url": "https://wallstreetcn.com/livenews/3018632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时22分]"
-        },
-        {
-          "title": "美国总统特朗普：据苹果公司CEO库克表示，招聘很难。 今天将讨论科技和人工智能（AI）。 今天与参议院讨论过AI监管问题。",
-          "url": "https://wallstreetcn.com/livenews/3018631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时22分]"
-        },
-        {
-          "title": "江苏“十五五”规划建议：支持苏州、南京等有条件的地方开展“人工智能+”城市建设试点",
-          "url": "https://api3.cls.cn/share/article/2226001?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "英特尔 高通",
       "match_count": 6,
       "titles": [
@@ -502,104 +535,8 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "外媒称中方正考虑限制获取英伟达H200芯片，外交部回应",
-          "url": "https://www.cls.cn/detail/2225351",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 05时45分]"
-        },
-        {
-          "title": "财联社12月11日电，英特尔高管称，公司希望在今年晚些时候或明年年初完成英伟达的投资事宜。",
-          "url": "https://api3.cls.cn/share/article/2225941?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时25分 ~ 05时22分]"
-        },
-        {
-          "title": "甲骨文：Oracle Pro得到与Meta和英伟达合同的提振。",
-          "url": "https://wallstreetcn.com/livenews/3018684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时24分 ~ 07时18分]"
-        },
-        {
-          "title": "【早报】美联储宣布：降息25个基点！鲍威尔重磅发声；中方正考虑限制获取英伟达H200芯片？外交部回应",
-          "url": "https://www.cls.cn/detail/2225988",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【每日收评】三大指数探底回升涨跌不一，海南板块全天强势，算力硬件股午后再度回暖",
-          "url": "https://www.cls.cn/detail/2225395",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 06时45分]"
-        },
-        {
-          "title": "甲骨文(ORCL.N)：将继续从英伟达采购最新GPU，需做好准备，并能够部署客户想购买的任何芯片。",
-          "url": "https://flash.jin10.com/detail/20251211050715203800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时22分 ~ 06时24分]"
-        },
-        {
-          "title": "千亿合并计划终止，海光信息回应：与曙光仍将保持算力全链条协同发展",
-          "url": "https://www.cls.cn/detail/2225693",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时40分 ~ 07时40分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "一图看懂 | 中国商业航天IPO热潮来袭，“火箭天团”背后影子股曝光",
@@ -636,13 +573,165 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时28分 ~ 07时40分]"
+        },
+        {
+          "title": "商业航天概念反复走强 再升科技4连板",
+          "url": "https://api3.cls.cn/share/article/2226143?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "商业航天概念继续走强，再升科技4连板，华菱线缆涨停，瑞华泰、广联航空、通光线缆、航宇科技等多股高开。",
+          "url": "https://wallstreetcn.com/livenews/3018805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "外媒称中方正考虑限制获取英伟达H200芯片，外交部回应",
+          "url": "https://www.cls.cn/detail/2225351",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 05时45分]"
+        },
+        {
+          "title": "【早报】美联储宣布：降息25个基点！鲍威尔重磅发声；中方正考虑限制获取英伟达H200芯片？外交部回应",
+          "url": "https://www.cls.cn/detail/2225988",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 09时40分]"
+        },
+        {
+          "title": "财联社12月11日电，英特尔高管称，公司希望在今年晚些时候或明年年初完成英伟达的投资事宜。",
+          "url": "https://api3.cls.cn/share/article/2225941?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 05时22分]"
+        },
+        {
+          "title": "甲骨文：Oracle Pro得到与Meta和英伟达合同的提振。",
+          "url": "https://wallstreetcn.com/livenews/3018684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 07时18分]"
+        },
+        {
+          "title": "罗博特科(300757.SZ)：暂未参与台积电OIP论坛",
+          "url": "https://www.gelonghui.com/news/5132767",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【每日收评】三大指数探底回升涨跌不一，海南板块全天强势，算力硬件股午后再度回暖",
+          "url": "https://www.cls.cn/detail/2225395",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 06时45分]"
+        },
+        {
+          "title": "甲骨文(ORCL.N)：将继续从英伟达采购最新GPU，需做好准备，并能够部署客户想购买的任何芯片。",
+          "url": "https://flash.jin10.com/detail/20251211050715203800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 06时24分]"
+        },
+        {
+          "title": "千亿合并计划终止，海光信息回应：与曙光仍将保持算力全链条协同发展",
+          "url": "https://www.cls.cn/detail/2225693",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时40分 ~ 07时40分]"
+        },
+        {
+          "title": "国产算力最大重组案终止 海光曙光“双龙头”加速开放生态布局 产业正经历结构性演进",
+          "url": "https://www.cls.cn/detail/2225842",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         }
       ]
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "创世纪(300083.SZ)：目前已与机器人及新能源汽车领域部分客户及其零部件加工厂商有合作关系",
+          "url": "https://www.gelonghui.com/news/5132773",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
         {
           "title": "【研选】锡是不可或缺的重要小金属，资源稀缺程度逐年加剧，锡价有望进一步上行；公司安防设备主业明后年有望恢复较快增长，近期持续加码机器人赛道投入，有望打造新增长曲线",
           "url": "https://api3.cls.cn/share/article/2224968?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -670,6 +759,119 @@
       ]
     },
     {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "机构：DDR4领涨内存市场 DDR5/DDR3年底小幅回调但不影响未来涨势",
+          "url": "https://api3.cls.cn/share/article/2226116?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "12月以来超200家A股公司迎券商调研 存储芯片概念受关注",
+          "url": "https://wallstreetcn.com/livenews/3018717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "储能概念异动拉升 通润装备涨停",
+          "url": "https://api3.cls.cn/share/article/2226146?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "AIDC储能2030年出货量或达今年20倍",
+          "url": "https://wallstreetcn.com/livenews/3018700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 07时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "雷达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "首日上市一度飙升73%，激光雷达领导者图达通率先实现双路线量产",
+          "url": "https://www.gelonghui.com/news/5132769",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "美国批中国雷达照射日本军机 学者判断不会升级成军事对峙",
+          "url": "https://www.zaochenbao.com/news/politics/202512/1159518.html",
+          "source": "早报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "量子科技 量子计算 量子通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "江苏“十五五”规划建议：推动量子科技、脑机接口、具身智能等一批前沿性未来产业形成现实生产力",
+          "url": "https://api3.cls.cn/share/article/2225999?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "南网数字(301638.SZ)：暂未直接涉及通用量子计算机的研发或技术输出",
+          "url": "https://www.gelonghui.com/news/5132763",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
       "match_count": 1,
       "titles": [
@@ -687,41 +889,6 @@
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "12月以来超200家A股公司迎券商调研 存储芯片概念受关注",
-          "url": "https://wallstreetcn.com/livenews/3018717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AIDC储能2030年出货量或达今年20倍",
-          "url": "https://wallstreetcn.com/livenews/3018700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 07时40分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "低空经济 eVTOL",
       "match_count": 1,
       "titles": [
@@ -732,26 +899,26 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         }
       ]
     },
     {
-      "keyword_group": "量子科技 量子计算 量子通信",
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 1,
       "titles": [
         {
-          "title": "江苏“十五五”规划建议：推动量子科技、脑机接口、具身智能等一批前沿性未来产业形成现实生产力",
-          "url": "https://api3.cls.cn/share/article/2225999?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "滨海能源(000695.SZ)：公司业务不涉及碳酸锂及其上下游产品",
+          "url": "https://www.gelonghui.com/news/5132774",
+          "source": "格隆汇",
           "ranks": [
-            8
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时40分"
+          "time_info": "09时40分"
         }
       ]
     },
