@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T13:47:24.473933+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2025-12-11T14:34:12.469495+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时25分 ~ 13时47分]"
+          "appearance_count": 8,
+          "time_info": "[11时25分 ~ 14时34分]"
         },
         {
           "title": "Meta人工智能训练模型工具据悉包括通义千问",
@@ -32,8 +33,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时40分 ~ 13时47分]"
+          "appearance_count": 9,
+          "time_info": "[09时40分 ~ 14时34分]"
         },
         {
           "title": "人工智能公司MiniMax和智谱据悉最早明年1月在港IPO",
@@ -211,8 +212,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时25分 ~ 13时47分]"
+          "appearance_count": 8,
+          "time_info": "[11时25分 ~ 14时34分]"
         },
         {
           "title": "谷歌(GOOG.O)：宣布对我们的Gemini 2.5 Flash和Gemini 2.5 Pro文本转语音（TTS）预览模型进行重大升级。",
@@ -758,8 +759,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时25分 ~ 13时47分]"
+          "appearance_count": 8,
+          "time_info": "[11时25分 ~ 14时34分]"
         },
         {
           "title": "华为重夺中国手机市场份额第一",
@@ -767,11 +768,12 @@
           "source": "微博",
           "ranks": [
             25,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 13时47分]"
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 14时34分]"
         },
         {
           "title": "华为、支付宝、中移互联网合作布局AI+5G新通话DC生态",
@@ -847,8 +849,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时40分 ~ 13时47分]"
+          "appearance_count": 10,
+          "time_info": "[07时40分 ~ 14时34分]"
         },
         {
           "title": "财联社12月11日电，英特尔高管称，公司希望在今年晚些时候或明年年初完成英伟达的投资事宜。",
@@ -987,11 +989,12 @@
           "url": "https://flash.jin10.com/detail/20251211131817068800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时34分]"
         },
         {
           "title": "滨海能源(000695.SZ)：公司业务不涉及碳酸锂及其上下游产品",
@@ -1123,6 +1126,47 @@
       ]
     },
     {
+      "keyword_group": "雷达",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国批中国雷达照射日本军机 学者判断不会升级成军事对峙",
+          "url": "https://www.zaochenbao.com/news/politics/202512/1159518.html",
+          "source": "早报",
+          "ranks": [
+            9,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 12时10分]"
+        },
+        {
+          "title": "首日上市一度飙升73%，激光雷达领导者图达通率先实现双路线量产",
+          "url": "https://www.gelonghui.com/news/5132769",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "禾赛激光雷达获吉利银河多款车型定点 并将陆续量产交付",
+          "url": "https://api3.cls.cn/share/article/2226433?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 2,
       "titles": [
@@ -1176,36 +1220,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "雷达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国批中国雷达照射日本军机 学者判断不会升级成军事对峙",
-          "url": "https://www.zaochenbao.com/news/politics/202512/1159518.html",
-          "source": "早报",
-          "ranks": [
-            9,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 12时10分]"
-        },
-        {
-          "title": "首日上市一度飙升73%，激光雷达领导者图达通率先实现双路线量产",
-          "url": "https://www.gelonghui.com/news/5132769",
-          "source": "格隆汇",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
         }
       ]
     },
