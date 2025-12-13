@@ -1,634 +1,112 @@
 {
-  "generated_at": "2025-12-13T23:40:33.204303+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2025-12-14T00:23:54.032158+08:00",
+  "total_titles_processed": 228,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 20,
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 4,
       "titles": [
         {
-          "title": "博思软件(300525.SZ)：公司人工智能产业园尚未进行装修等工程建设，因此暂无公司入驻园区",
-          "url": "https://www.gelonghui.com/news/5134340",
-          "source": "格隆汇",
+          "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力龙头赫然在列",
+          "url": "https://www.cls.cn/detail/2228757",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            2,
-            3,
-            4,
-            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "比摩尔线程更“难抢” 沐曦股份会是下一只国产GPU“大肉签”吗？",
+          "url": "https://www.cls.cn/detail/2228711",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
+          "url": "https://wallstreetcn.com/livenews/3020250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 46,
-          "time_info": "[00时48分 ~ 23时40分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "英媒社论：中国正在引领全球人工智能治理",
-          "url": "https://ckxxapp.ckxx.net/pages/2025/12/13/94e35f1894244d6db18f19af7b276b9d.html",
-          "source": "参考消息",
-          "ranks": [
-            1,
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[18时19分 ~ 23时40分]"
-        },
-        {
-          "title": "国家发改委肖渭明：加快出台实施首发经济、赛事经济、电子商务、“人工智能+”消费等领域提振消费的政策",
-          "url": "https://wallstreetcn.com/livenews/3020213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            5,
-            6,
-            8,
-            9,
-            11,
-            16,
-            18,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时31分 ~ 20时38分]"
-        },
-        {
-          "title": "特朗普签署行政令在联邦层面统一人工智能监管规则",
-          "url": "https://api3.cls.cn/share/article/2228713?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "上海浦东：针对新注册AI一人创业公司 提供最高30万元的免费算力",
+          "url": "https://api3.cls.cn/share/article/2228779?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1,
-            2,
-            6,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时40分 ~ 19时16分]"
-        },
-        {
-          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
-          "url": "https://flash.jin10.com/detail/20251213034901959800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时23分 ~ 09时26分]"
-        },
-        {
-          "title": "国家发改委肖渭明：加快出台实施首发经济、赛事经济、电子商务、“人工智能+”消费等领域提振消费的政策",
-          "url": "https://api3.cls.cn/share/article/2228685?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            6,
-            10,
-            13,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时30分 ~ 17时40分]"
-        },
-        {
-          "title": "上海浦东：未来三年，浦东将新增人工智能企业1000家",
-          "url": "https://wallstreetcn.com/livenews/3020211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            7,
-            8,
-            10,
-            11,
-            13,
-            18,
-            20,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时31分 ~ 20时38分]"
-        },
-        {
-          "title": "美股异动丨Rivian大涨超18%，发布自主研发的人工智能芯片",
-          "url": "https://www.gelonghui.com/news/5134326",
-          "source": "格隆汇",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 06时20分]"
-        },
-        {
-          "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能，深化拓展“人工智能+”行动",
-          "url": "https://wallstreetcn.com/livenews/3020234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            15,
-            18,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时38分 ~ 23时40分]"
-        },
-        {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
-          "url": "https://wallstreetcn.com/livenews/3020088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            21,
-            25,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 04时44分]"
-        },
-        {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
-          "url": "https://wallstreetcn.com/livenews/3020087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            22,
-            26,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 04时23分]"
-        },
-        {
-          "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能 深化拓展“人工智能+”行动",
-          "url": "https://api3.cls.cn/share/article/2228753?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7,
-            13,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时38分 ~ 22时41分]"
-        },
-        {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3020086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            23,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 03时39分]"
-        },
-        {
-          "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能 深化拓展“人工智能+”行动",
-          "url": "https://flash.jin10.com/detail/20251213190708740800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时38分 ~ 21时44分]"
-        },
-        {
-          "title": "上海浦东：未来3年 新增1000家人工智能企业",
-          "url": "https://api3.cls.cn/share/article/2228642?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 12时26分]"
-        },
-        {
-          "title": "美国白宫人工智能和加密货币顾问萨克斯：人工智能创造的就业机会比流失的就业机会要多。",
-          "url": "https://flash.jin10.com/detail/20251213005547449800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "美国白宫人工智能和加密货币顾问萨克斯：法规的混乱造成了合规性问题。",
-          "url": "https://flash.jin10.com/detail/20251213005313673800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "美国白宫人工智能和加密货币顾问萨克斯：（特朗普的人工智能行政令）旨在控制相互矛盾的州规则。",
-          "url": "https://flash.jin10.com/detail/20251213005246298800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "市场消息：美国白宫人工智能和加密货币顾问萨克斯为特朗普关于人工智能的行政令辩护。",
-          "url": "https://flash.jin10.com/detail/20251213005108572800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "据日经新闻：日本与中亚国家将在首次峰会上就人工智能采矿技术展开合作。日本即将与中亚国家建立框架，日本人工智能技术将助力该地区矿业发展。",
-          "url": "https://flash.jin10.com/detail/20251213012656480800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "00时23分"
         }
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 17,
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 4,
       "titles": [
         {
-          "title": "OpenAI视频平台获准使用迪士尼角色",
-          "url": "https://ckxxapp.ckxx.net/pages/2025/12/13/23431bf9e7ae46f0949aebf40ff5ed2a.html",
-          "source": "参考消息",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时38分 ~ 23时40分]"
-        },
-        {
-          "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
-          "url": "https://wallstreetcn.com/livenews/3020118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            4,
-            5,
-            9,
-            20,
-            24,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时18分 ~ 07时20分]"
-        },
-        {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
+          "title": "人形机器人细分龙头年内涨超300% 梳理产业链成本占比居前A股名单",
+          "url": "https://www.cls.cn/detail/2228749",
           "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            5,
-            6,
-            8,
-            10,
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[07时20分 ~ 23时40分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 02时32分]"
-        },
-        {
-          "title": "迪士尼与OpenAI达成战略合作与内容授权协议",
-          "url": "https://api3.cls.cn/share/article/2228679?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            8,
-            12,
-            16,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时44分 ~ 16时47分]"
-        },
-        {
-          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
-          "url": "https://flash.jin10.com/detail/20251213033638415800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时23分 ~ 09时26分]"
-        },
-        {
-          "title": "谷歌将Gemini的翻译功能引入谷歌的文本翻译。",
-          "url": "https://api3.cls.cn/share/article/2228533?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            12,
-            15,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时44分 ~ 04时23分]"
-        },
-        {
-          "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
-          "url": "https://flash.jin10.com/detail/20251213225118795800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时18分 ~ 23时40分]"
-        },
-        {
-          "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
-          "url": "https://flash.jin10.com/detail/20251213021313071800",
-          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "00时23分"
         },
         {
-          "title": "甲骨文部分用于OpenAI的数据中心完工时间将从2027年推迟到2028年",
-          "url": "https://api3.cls.cn/share/article/2228515?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "对标智能手机生态？宇树首发人形机器人App Store，复杂动作“即下即用”",
+          "url": "https://wallstreetcn.com/articles/3761336",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "广东省人工智能与机器人企业超3700家",
+          "url": "https://api3.cls.cn/share/article/2228760?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            8,
-            12,
-            16
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 01时44分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "AI基础设施概念股普遍下跌，报道称甲骨文与OpenAI相关的某些数据中心完工时间被延后一年。 博通跌12%，甲骨文跌6.5%，英伟达跌2.4%。 费城半导体指数跌4.56%，Astera Labs跌13%，相干公司Coherent跌10%，Rambus跌8.5%，美光科技跌7%。",
-          "url": "https://wallstreetcn.com/livenews/3020076",
+          "title": "广东省人工智能与机器人企业超3700家",
+          "url": "https://wallstreetcn.com/livenews/3020236",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时44分]"
-        },
-        {
-          "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
-          "url": "https://flash.jin10.com/detail/20251212235925421800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 00时49分]"
-        },
-        {
-          "title": "报道称甲骨文对OpenAI的部分数据中心竣工时间推后一年，半导体指数跌超4%",
-          "url": "https://wallstreetcn.com/livenews/3020070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时44分]"
-        },
-        {
-          "title": "甲骨文回应：不会推迟建设与OpenAI合同承诺所需的站点",
-          "url": "https://flash.jin10.com/detail/20251213021313071800",
-          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 03时18分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：谷歌翻译搭载Gemini功能的更新即日起在美国和印度陆续推出，支持英语与近20种语言之间的互译。",
-          "url": "https://flash.jin10.com/detail/20251213010649487800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：将Gemini的翻译功能引入谷歌的文本翻译。",
-          "url": "https://flash.jin10.com/detail/20251213010328208800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "甲骨文回应：不会推迟与OpenAI相关的数据中心建设",
-          "url": "https://flash.jin10.com/detail/20251213021313071800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 12,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "昊志机电(300503.SZ)：公司与华为暂未形成合作",
-          "url": "https://www.gelonghui.com/news/5134339",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 48,
-          "time_info": "[00时25分 ~ 23时40分]"
-        },
-        {
-          "title": "报告：华为新手机搭载中芯七纳米晶片",
-          "url": "https://www.zaochenbao.com/news/china/202512/1359698.html",
-          "source": "早报",
-          "ranks": [
-            3,
-            6,
-            12,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时26分 ~ 17时40分]"
-        },
-        {
-          "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            13,
-            14,
-            10,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 38,
-          "time_info": "[00时25分 ~ 18时20分]"
-        },
-        {
-          "title": "南向资金追踪｜近半年来首现周度净流出 加仓小米和美团减持腾讯及阿里",
-          "url": "https://www.cls.cn/detail/2228191",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 09时26分]"
-        },
-        {
-          "title": "服务追不上销量？小米汽车再遇“成长烦恼”：交付环节混乱 售后网点配置不足",
-          "url": "https://www.cls.cn/detail/2228075",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 06时44分]"
-        },
-        {
-          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时26分 ~ 17时19分]"
-        },
-        {
-          "title": "山西村支书“雷军式”卖谷物小米 被小米投诉侵害名誉",
-          "url": "https://www.zaochenbao.com/news/china/202512/1359693.html",
-          "source": "早报",
-          "ranks": [
-            5,
-            8,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 14时54分]"
-        },
         {
           "title": "报告：华为中芯国际晶片生产技术取得进展",
           "url": "https://www.zaochenbao.com/news/china/202512/1359739.html",
@@ -637,8 +115,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时18分 ~ 23时40分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "小米投诉山东村支书模仿雷军卖谷物引争议",
@@ -648,654 +126,125 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时18分 ~ 23时40分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "昊志机电(300503.SZ)：公司与华为暂未形成合作",
+          "url": "https://www.gelonghui.com/news/5134339",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "谭案说法｜用“雷氏营销”卖小米，为何被小米投诉？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32171752",
           "source": "澎湃新闻",
           "ranks": [
-            17,
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时41分 ~ 23时40分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
+          "url": "https://flash.jin10.com/detail/20251213225118795800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "纳斯达克100指数跌幅扩大至1%，半导体指数跌超2.5%。 成分股中，博通跌9.6%，美光科技跌4.5%，Applovin跌3%跌幅第三大，阿斯麦ADR跌1.5%，特斯拉则涨1.8%表现靠前，奈飞涨2.4%，Adobe涨3%，（宣布CEO离职的）露露柠檬涨10.3%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3020053",
+          "title": "OpenAI视频平台获准使用迪士尼角色",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/12/13/23431bf9e7ae46f0949aebf40ff5ed2a.html",
+          "source": "参考消息",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "英媒社论：中国正在引领全球人工智能治理",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/12/13/94e35f1894244d6db18f19af7b276b9d.html",
+          "source": "参考消息",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "博思软件(300525.SZ)：公司人工智能产业园尚未进行装修等工程建设，因此暂无公司入驻园区",
+          "url": "https://www.gelonghui.com/news/5134340",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能，深化拓展“人工智能+”行动",
+          "url": "https://wallstreetcn.com/livenews/3020234",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时49分]"
-        },
-        {
-          "title": "本周（美联储宣布降息当周），标普500指数累计下跌0.8%，道指累涨1%，纳指累跌1.7%，半导体指数累跌3.6%，费城银行指数累涨.5%。 标普500指数初步收跌1.1%，科技板块初步收跌2.9%，能源板块跌约1%，必需品板块涨0.9%。 纳斯达克100指数初步收跌1.9%，成分股中，博通初步收跌11.3%，核电股Constellation Energy跌6.7%，美光科技跌6.8%，新思科技跌5.1%，AMD、英特尔、应用材料等跌超4%，特斯拉则涨2.5%，Linden Plc.涨3.2%，露露柠檬涨9.4%。 卡特彼勒初步收跌4.1%，英伟达跌3.3%，高盛跌2.5%，领跌道指成分股，波音则涨1.8%，可口可乐涨2%，麦当劳涨2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3020135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "宇树科技推出人形机器人App Store，用户可下载动作预设",
-          "url": "https://wallstreetcn.com/livenews/3020212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            6,
-            7,
-            9,
-            10,
-            12,
-            17,
-            19,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时31分 ~ 20时38分]"
-        },
-        {
-          "title": "宇树科技发布人形机器人“App Store”",
-          "url": "https://api3.cls.cn/share/article/2228683?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            8,
-            12,
-            15,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时30分 ~ 17时40分]"
-        },
-        {
-          "title": "深圳将建全国首个机器人友好示范城区",
-          "url": "https://wallstreetcn.com/livenews/3020190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15,
-            16,
-            20,
-            21,
-            24,
-            26,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时52分 ~ 16时25分]"
-        },
-        {
-          "title": "上海市人形机器人中试联盟发布",
-          "url": "https://wallstreetcn.com/livenews/3020189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16,
-            17,
-            21,
-            22,
-            25,
-            27,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时52分 ~ 16时25分]"
-        },
-        {
-          "title": "广东省人工智能与机器人企业超3700家",
-          "url": "https://api3.cls.cn/share/article/2228760?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            7,
-            11,
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时38分 ~ 23时40分]"
-        },
-        {
-          "title": "广东省人工智能与机器人企业超3700家",
-          "url": "https://wallstreetcn.com/livenews/3020236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            13,
-            16,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时38分 ~ 23时40分]"
-        },
-        {
-          "title": "人形机器人细分龙头年内涨超300% 梳理产业链成本占比居前A股名单",
-          "url": "https://www.cls.cn/detail/2228749",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时27分 ~ 23时40分]"
-        },
-        {
-          "title": "深圳将建全国首个机器人友好示范城区",
-          "url": "https://api3.cls.cn/share/article/2228625?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "上海市人形机器人中试联盟发布",
-          "url": "https://api3.cls.cn/share/article/2228631?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时52分]"
-        },
-        {
-          "title": "对标智能手机生态？宇树首发人形机器人App Store，复杂动作“即下即用”",
-          "url": "https://wallstreetcn.com/articles/3761336",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时18分 ~ 23时40分]"
-        },
-        {
-          "title": "中网投、蚂蚁领投人脸机器人企业，首形科技完成新一轮融资",
-          "url": "https://wallstreetcn.com/livenews/3020036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力龙头赫然在列",
-          "url": "https://www.cls.cn/detail/2228757",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时27分 ~ 23时40分]"
-        },
-        {
-          "title": "比摩尔线程更“难抢” 沐曦股份会是下一只国产GPU“大肉签”吗？",
-          "url": "https://www.cls.cn/detail/2228711",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[18时19分 ~ 23时40分]"
-        },
-        {
-          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761222",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "硬科技投向标|摩尔线程下周发布新一代GPU架构 众擎机器人完成两轮融资",
-          "url": "https://www.cls.cn/detail/2227945",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时47分 ~ 20时38分]"
-        },
-        {
-          "title": "上海浦东：针对新注册AI一人创业公司 提供最高30万元的免费算力",
-          "url": "https://api3.cls.cn/share/article/2228779?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时18分 ~ 23时40分]"
-        },
-        {
-          "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
-          "url": "https://wallstreetcn.com/livenews/3020250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时18分 ~ 23时40分]"
-        },
-        {
-          "title": "财联社12月12日电，Rivian大涨超16%，公司发布自研AI芯片和AI模型。",
-          "url": "https://api3.cls.cn/share/article/2228477?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
-          "url": "https://wallstreetcn.com/livenews/3020154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            8,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 09时26分]"
-        },
-        {
-          "title": "周五（12月12日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌1.67%，报90470美元，本周累计上涨0.92%。 CME以太币期货DCR主力合约跌4.15%，报3096美元，本周累涨2.16%。",
-          "url": "https://wallstreetcn.com/livenews/3020156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            9,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时44分 ~ 10时59分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收跌约3.3%，特斯拉则涨2.7%",
-          "url": "https://wallstreetcn.com/livenews/3020139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13,
-            16,
-            19,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时39分 ~ 09时26分]"
-        },
-        {
-          "title": "现货白银日内跌超2%，此前一度涨1.6%，现报62.27美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251212235539022800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 00时49分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初涨约1%。 热门中概股逸仙电商涨22.6%，金山云涨4.2%，网易涨3%，中通快递、新东方、阿特斯太阳能、再鼎医药涨超2%，百度则跌0.8%，文远知行跌1%，小马智行跌1.1%，Boss直聘跌1.4%。 此外，九紫新能涨30%，该公司将非公开配售规模扩大至10亿美元，希望满足投资者强劲的需求。 ETF中，KWEB涨0.76%，CQQQ涨0.68%。",
-          "url": "https://wallstreetcn.com/livenews/3020041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时49分]"
-        },
-        {
-          "title": "行业ETF美股盘初多数上涨，航空业ETF涨超1.4%，科技行业ETF则跌超0.8%，半导体ETF跌超1.5%",
-          "url": "https://wallstreetcn.com/livenews/3020040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
-          "url": "https://www.cls.cn/detail/2227944",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 06时44分]"
-        },
-        {
-          "title": "白宫官员：中国拒绝英伟达H200晶片",
-          "url": "https://www.zaochenbao.com/news/china/202512/1359695.html",
-          "source": "早报",
-          "ranks": [
-            3,
-            6,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 14时54分]"
-        },
-        {
-          "title": "【电报解读】为破解电力短缺困局，英伟达将举办闭门峰会！AIDC建设加剧北美电力紧张背景下，机构建议关注四大细分领域，这家公司的产品能适配于数据中心服务器电源",
-          "url": "https://api3.cls.cn/share/article/2228725?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时19分 ~ 19时38分]"
-        },
-        {
-          "title": "受甲骨文推迟数据中心影响，英伟达(NVDA.O)跌近2%。",
-          "url": "https://flash.jin10.com/detail/20251213000043887800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 00时49分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)跌幅扩大至3%。",
-          "url": "https://flash.jin10.com/detail/20251213003932076800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 01时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 12月12日（周五）晚盘收盘上涨0.76%报969.0元/克；<br/>上海黄金交易所白银T+D 12月12日（周五）晚盘收盘下跌2.84%报14423.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251213023021376800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时17分 ~ 07时40分]"
-        },
-        {
-          "title": "财联社12月13日电，COMEX黄金期货收涨0.39%，报4329.8美元/盎司，本周累计上涨2.42%；COMEX白银期货收跌3.88%，报62.085美元/盎司，本周累计上涨5.59%。",
-          "url": "https://api3.cls.cn/share/article/2228566?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 07时40分]"
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "光韵达(300227.SZ)：目前公司在商业航天领域没有相关的业务",
           "url": "https://www.gelonghui.com/news/5134331",
           "source": "格隆汇",
           "ranks": [
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 48,
-          "time_info": "[00时25分 ~ 23时40分]"
-        },
-        {
-          "title": "A股探底回升，创业板涨0.97%，可控核聚变、商业航天领涨，电网设备走强，港股高开高走，恒指、恒科指涨超1%，科技股普涨，有色强势",
-          "url": "https://wallstreetcn.com/articles/3761243",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢能 质子交换膜 IV型储氢瓶 甲醇重整制氢",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国经济年会：明年要扩大绿电应用 培育氢能、绿色燃料等新的增长点",
-          "url": "https://api3.cls.cn/share/article/2228663?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 13时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家医保局：鼓励商业健康保险机构扩大对创新药的投资规模",
-          "url": "https://api3.cls.cn/share/article/2228654?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 13时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "低空经济 eVTOL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家发改委肖渭明：全面实施“人工智能+”行动 完善低空经济产业生态",
-          "url": "https://api3.cls.cn/share/article/2228687?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            8,
-            11,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时54分 ~ 17时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "脑虎科技：公司“三全”脑机接口产品成功完成首例临床试验",
-          "url": "https://api3.cls.cn/share/article/2228724?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            8,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时19分 ~ 19时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "优必选 商汤 华大基因",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华大基因(300676.SZ)：暂时没有回购股份计划",
-          "url": "https://www.gelonghui.com/news/5134330",
-          "source": "格隆汇",
-          "ranks": [
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 47,
-          "time_info": "[00时25分 ~ 23时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英特尔 高通",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道：英特尔将以约16亿美元收购芯片公司SambaNova",
-          "url": "https://wallstreetcn.com/livenews/3020164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时40分 ~ 10时59分]"
+          "time_info": "00时23分"
         }
       ]
     }
