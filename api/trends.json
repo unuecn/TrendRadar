@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T13:49:44.198604+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2025-12-15T14:35:49.126261+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "盐湖股份(000792.SZ)：现公司碳酸锂总产能已达8万吨",
@@ -19,15 +19,27 @@
           "time_info": "[09时43分 ~ 09时44分]"
         },
         {
-          "title": "多晶硅主力合约日内涨幅扩大至4%。",
-          "url": "https://wallstreetcn.com/livenews/3020717",
-          "source": "华尔街见闻-快讯",
+          "title": "财联社12月15日电，多晶硅期货主力合约日内涨超5%，现报58815元/吨。",
+          "url": "https://api3.cls.cn/share/article/2229570?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时49分"
+          "time_info": "14时35分"
+        },
+        {
+          "title": "多晶硅主力合约日内涨幅扩大至4%。",
+          "url": "https://wallstreetcn.com/livenews/3020717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 14时35分]"
         },
         {
           "title": "早盘开盘，国内期货主力合约涨跌互现，氧化铝、焦煤、工业硅、烧碱涨超3%，多晶硅、乙二醇、聚氯乙烯（PVC）涨近2%。跌幅方面，国际铜、沪银、沪铜跌超2%，碳酸锂、沪铝、铝合金跌超1%，棕榈油、菜油、铁矿石、豆一、豆油跌近1%。",
@@ -58,9 +70,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "富宝资讯：碳酸锂期货盘面震荡偏弱，富宝电池级碳酸锂报94950元/吨",
+          "url": "https://flash.jin10.com/detail/20251215135815423800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "多晶硅主力合约日内涨幅扩大至4.00%，现报58265元/吨。",
+          "url": "https://flash.jin10.com/detail/20251215133734203800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。铂金、氧化铝、焦煤涨超4%，多晶硅、烧碱涨超3%，聚氯乙烯（PVC）、硅铁、工业硅涨超2%；跌幅方面，苹果跌超3%，国际铜、沪锡、沪铜、沪铝、沪银、菜油跌超1%。",
@@ -88,7 +122,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力芯片龙头赫然在列",
@@ -127,6 +161,17 @@
           "time_info": "[00时23分 ~ 09时44分]"
         },
         {
+          "title": "商汤日日新Seko系列模型与寒武纪成功适配，国产算力&多模态AI实现关键跨越",
+          "url": "https://www.gelonghui.com/news/5134542",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "澳大利亚证券和投资委员会（ASIC）：ASIC和澳洲联储将加强审查，以提升其联合监管模式。将对澳大利亚证券交易所（ASX）等机构征收额外1.5亿澳元资本费用。",
           "url": "https://flash.jin10.com/detail/20251215053148618800",
           "source": "金十数据",
@@ -156,15 +201,26 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "商汤日日新Seko系列模型与寒武纪成功适配，国产算力&多模态AI实现关键跨越",
+          "url": "https://wallstreetcn.com/livenews/3020742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
@@ -179,15 +235,26 @@
           "time_info": "[00时23分 ~ 07时40分]"
         },
         {
-          "title": "因人工智能担忧，三星电子和SK海力士分别大跌4%和6.3%。韩国股市跌幅达2.8%，并将创下近四周来的最差表现。",
-          "url": "https://wallstreetcn.com/livenews/3020719",
+          "title": "广西：加快建设中国—东盟人工智能创新合作中心、中国—东盟人工智能工业设计中心等创新服务平台",
+          "url": "https://api3.cls.cn/share/article/2229572?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "广西：加快建设中国-东盟人工智能创新合作中心等创新服务平台",
+          "url": "https://wallstreetcn.com/livenews/3020762",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时49分"
+          "time_info": "14时35分"
         },
         {
           "title": "据华尔街日报：咨询公司Teneo的调查显示，80%的小型企业首席执行官和31%的大型企业首席执行官预计2026年上半年全球经济将有所改善。首席执行官们将继续在人工智能上投入资金，尽管回报参差不齐。",
@@ -200,6 +267,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时19分 ~ 07时40分]"
+        },
+        {
+          "title": "因人工智能担忧，三星电子和SK海力士分别大跌4%和6.3%。韩国股市跌幅达2.8%，并将创下近四周来的最差表现。",
+          "url": "https://wallstreetcn.com/livenews/3020719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 14时35分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-15）",
@@ -223,6 +302,147 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 09时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "预计2026年商业航天业务营收实现较快增长 商业航天概念股20CM涨停 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2229039",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 13时26分]"
+        },
+        {
+          "title": "商业航天概念延续强势 顺灏股份12天8板",
+          "url": "https://api3.cls.cn/share/article/2229238?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
+        },
+        {
+          "title": "鸿特科技(300176.SZ)：目前的业务不涉及商业航天领域",
+          "url": "https://www.gelonghui.com/news/5134492",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
+        },
+        {
+          "title": "多重催化剂来袭！卫星ETF易方达(563530)冲击四连阳，标的指数16日涨20%",
+          "url": "https://www.gelonghui.com/news/5134539",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "ETF午评 | 商业航天板块延续涨势，卫星ETF涨2.7%",
+          "url": "https://www.gelonghui.com/news/5134521",
+          "source": "格隆汇",
+          "ranks": [
+            10,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 13时49分]"
+        },
+        {
+          "title": "民营太空飞船成功升空 我国商业航天发展迈入新阶段",
+          "url": "https://www.cls.cn/detail/2229119",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "卢特尼克称将促使台积电在美投资超2000亿美元",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/12/14/4126b8eb835c447196ea466393695def.html",
+          "source": "参考消息",
+          "ranks": [
+            3,
+            11,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 28,
+          "time_info": "[00时23分 ~ 14时35分]"
+        },
+        {
+          "title": "于泽远：英伟达重新打开中国市场的关键",
+          "url": "https://www.zaochenbao.com/news/china/202512/1559819.html",
+          "source": "早报",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 11时42分]"
+        },
+        {
+          "title": "【盘中宝】单月招标额近40亿，机构称AI驱动用电结构重构该领域战略价值凸显，行业迎来密集中标潮，谷歌、微软、英伟达已纷纷布局，这家企业积极开拓相关项目",
+          "url": "https://api3.cls.cn/share/article/2229217?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
+        },
+        {
+          "title": "大行评级丨里昂：重申蓝思科技“跑赢大市”评级 收购元拾科技有助其打入英伟达供应链",
+          "url": "https://www.gelonghui.com/news/5134508",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
+          "url": "https://www.cls.cn/detail/2229441",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         }
       ]
     },
@@ -280,113 +500,6 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "预计2026年商业航天业务营收实现较快增长 商业航天概念股20CM涨停 本周机构密集调研相关上市公司",
-          "url": "https://www.cls.cn/detail/2229039",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 13时26分]"
-        },
-        {
-          "title": "商业航天概念延续强势 顺灏股份12天8板",
-          "url": "https://api3.cls.cn/share/article/2229238?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
-        },
-        {
-          "title": "鸿特科技(300176.SZ)：目前的业务不涉及商业航天领域",
-          "url": "https://www.gelonghui.com/news/5134492",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
-        },
-        {
-          "title": "ETF午评 | 商业航天板块延续涨势，卫星ETF涨2.7%",
-          "url": "https://www.gelonghui.com/news/5134521",
-          "source": "格隆汇",
-          "ranks": [
-            10,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 13时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "卢特尼克称将促使台积电在美投资超2000亿美元",
-          "url": "https://ckxxapp.ckxx.net/pages/2025/12/14/4126b8eb835c447196ea466393695def.html",
-          "source": "参考消息",
-          "ranks": [
-            3,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时23分 ~ 13时49分]"
-        },
-        {
-          "title": "于泽远：英伟达重新打开中国市场的关键",
-          "url": "https://www.zaochenbao.com/news/china/202512/1559819.html",
-          "source": "早报",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 11时42分]"
-        },
-        {
-          "title": "【盘中宝】单月招标额近40亿，机构称AI驱动用电结构重构该领域战略价值凸显，行业迎来密集中标潮，谷歌、微软、英伟达已纷纷布局，这家企业积极开拓相关项目",
-          "url": "https://api3.cls.cn/share/article/2229217?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
-        },
-        {
-          "title": "大行评级丨里昂：重申蓝思科技“跑赢大市”评级 收购元拾科技有助其打入英伟达供应链",
-          "url": "https://www.gelonghui.com/news/5134508",
-          "source": "格隆汇",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
       "match_count": 2,
       "titles": [
@@ -397,7 +510,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -408,9 +521,44 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "极氪、小米、问界等超20家车企宣布兜底购置税，最高省1.5万",
+          "url": "https://wallstreetcn.com/livenews/3020424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3,
+            5,
+            8,
+            10,
+            14,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 06时42分]"
+        },
+        {
+          "title": "华为乾崑探索智能汽车无人区",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E6%8E%A2%E7%B4%A2%E6%99%BA%E8%83%BD%E6%B1%BD%E8%BD%A6%E6%97%A0%E4%BA%BA%E5%8C%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         }
       ]
     },
@@ -545,11 +693,12 @@
           "url": "https://www.gelonghui.com/news/5134532",
           "source": "格隆汇",
           "ranks": [
-            4
+            4,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 14时35分]"
         }
       ]
     },
@@ -567,6 +716,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "低空经济 eVTOL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "四川长虹自研高压平台电池组成功用于国产首款重载eVTOL首飞",
+          "url": "https://api3.cls.cn/share/article/2229514?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         }
       ]
     },
@@ -601,30 +767,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 09时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "极氪、小米、问界等超20家车企宣布兜底购置税，最高省1.5万",
-          "url": "https://wallstreetcn.com/livenews/3020424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            5,
-            8,
-            10,
-            14,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 06时42分]"
         }
       ]
     },
