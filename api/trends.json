@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T06:20:58.739567+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2025-12-16T06:45:15.377163+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "杭州小米交付中心发生车祸，小米内部人士：当时处于人驾状态，事故还在调查中",
@@ -15,22 +15,35 @@
             18,
             16,
             13,
-            9
+            9,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时00分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[01时00分 ~ 06时45分]"
         },
         {
           "title": "达华智能(002512.SZ)：目前公司与小米暂未有直接的业务合作",
           "url": "https://www.gelonghui.com/news/5135205",
           "source": "格隆汇",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 06时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 06时45分]"
+        },
+        {
+          "title": "非农数据前夕，科技股续跌拖累大盘，特斯拉创年内新高，加密货币遭挫，人民币走强",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌2.1%。 热门中概股里，小马智行、百度初步收跌4.9%，阿里巴巴跌3.5%，小鹏跌3.5%，理想、文远知行跌超2%，京东、小米集团ADR、拼多多、百胜中国跌超1%。",
@@ -73,11 +86,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 06时45分]"
         },
         {
           "title": "特斯拉涨约4.9%，报481.37美元，逼近2024年12月顶部488.54美元。",
@@ -223,20 +237,87 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时45分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超3.5%，苹果、亚马逊至少跌1.5%",
           "url": "https://wallstreetcn.com/livenews/3021172",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "L3来了！深蓝、极狐首批入围 中汽协：自动驾驶加速迈向“量产应用”",
+          "url": "https://www.cls.cn/detail/2230081",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 06时45分]"
+        },
+        {
+          "title": "一图看懂 | L0-L5自动驾驶有何区别，驾驶责任如何划分",
+          "url": "https://www.cls.cn/detail/2229922",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 04时47分]"
+        },
+        {
+          "title": "工信部官员谈L3级自动驾驶车型获附条件准入许可：筑牢安全发展“防护栏”",
+          "url": "https://wallstreetcn.com/livenews/3021092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时33分]"
+        },
+        {
+          "title": "专家分析L3级自动驾驶车型获附条件准入许可：从“技术验证”迈向“量产应用”新阶段",
+          "url": "https://wallstreetcn.com/livenews/3021093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时33分]"
+        },
+        {
+          "title": "首批L3自动驾驶获准入许可，中国无人驾驶进入“商业化应用”新纪元",
+          "url": "https://wallstreetcn.com/articles/3761426",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "06时45分"
         }
       ]
     },
@@ -318,61 +399,6 @@
       ]
     },
     {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "L3来了！深蓝、极狐首批入围 中汽协：自动驾驶加速迈向“量产应用”",
-          "url": "https://www.cls.cn/detail/2230081",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 06时20分]"
-        },
-        {
-          "title": "一图看懂 | L0-L5自动驾驶有何区别，驾驶责任如何划分",
-          "url": "https://www.cls.cn/detail/2229922",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时47分]"
-        },
-        {
-          "title": "工信部官员谈L3级自动驾驶车型获附条件准入许可：筑牢安全发展“防护栏”",
-          "url": "https://wallstreetcn.com/livenews/3021092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时33分]"
-        },
-        {
-          "title": "专家分析L3级自动驾驶车型获附条件准入许可：从“技术验证”迈向“量产应用”新阶段",
-          "url": "https://wallstreetcn.com/livenews/3021093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时33分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
       "match_count": 4,
       "titles": [
@@ -382,11 +408,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 06时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 06时45分]"
         },
         {
           "title": "财联社12月16日电，英伟达收购开源工作负载管理平台提供商Schedmd。",
@@ -450,11 +477,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 06时45分]"
         }
       ]
     },
@@ -497,11 +525,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 06时45分]"
         },
         {
           "title": "英特尔(Intc.O)： Robin Colwell已加入英特尔，担任政府事务高级副总裁。",
@@ -509,11 +538,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 06时45分]"
         }
       ]
     },
@@ -530,8 +560,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 06时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 06时45分]"
         }
       ]
     },
@@ -551,8 +581,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 06时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 06时45分]"
         }
       ]
     },
