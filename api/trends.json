@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T21:38:53.712442+08:00",
-  "total_titles_processed": 2164,
+  "generated_at": "2025-12-16T22:24:59.323610+08:00",
+  "total_titles_processed": 2278,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时41分 ~ 21时38分]"
+          "appearance_count": 23,
+          "time_info": "[09时41分 ~ 22时24分]"
         },
         {
           "title": "【早报】纳斯达克：申请将工作日交易时长延长至23小时；特斯拉无人驾驶要来了",
@@ -59,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[01时00分 ~ 21时38分]"
+          "appearance_count": 37,
+          "time_info": "[01时00分 ~ 22时24分]"
         },
         {
           "title": "小米新车主杭州提车未开出园区便撞倒人",
@@ -96,11 +96,12 @@
             18,
             17,
             15,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[11时25分 ~ 21时38分]"
+          "appearance_count": 22,
+          "time_info": "[11时25分 ~ 22时24分]"
         },
         {
           "title": "非农数据前夕，科技股续跌拖累大盘，特斯拉创年内新高，加密货币遭挫，人民币走强",
@@ -209,6 +210,19 @@
           "time_info": "[20时44分 ~ 21时38分]"
         },
         {
+          "title": "欧盟拟放弃2035年燃油车禁令 只因“卷”不过特斯拉和比亚迪…",
+          "url": "https://www.cls.cn/detail/2231185",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 22时24分]"
+        },
+        {
           "title": "余承东有新职务！已任华为终端公司董事长",
           "url": "https://wallstreetcn.com/livenews/3021363",
           "source": "华尔街见闻-快讯",
@@ -219,18 +233,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 12时10分]"
-        },
-        {
-          "title": "欧盟拟放弃2035年燃油车禁令 只因“卷”不过特斯拉和比亚迪…",
-          "url": "https://www.cls.cn/detail/2231185",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 21时38分]"
         },
         {
           "title": "真无人驾驶来了！马斯克：特斯拉启动无安全员Robotaxi路测",
@@ -315,9 +317,284 @@
       ]
     },
     {
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "L3来了！深蓝、极狐首批入围 中汽协：自动驾驶加速迈向“量产应用”",
+          "url": "https://www.cls.cn/detail/2230081",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时44分]"
+        },
+        {
+          "title": "一图看懂 | L0-L5自动驾驶有何区别，驾驶责任如何划分",
+          "url": "https://www.cls.cn/detail/2229922",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 04时47分]"
+        },
+        {
+          "title": "首批L3自动驾驶获准入许可，中国无人驾驶进入“商业化应用”新纪元",
+          "url": "https://wallstreetcn.com/articles/3761426",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[06时45分 ~ 19时41分]"
+        },
+        {
+          "title": "A股异动丨中国自动驾驶商业化迈出关键一步，无人驾驶概念股集体上涨，北汽蓝谷涨停",
+          "url": "https://www.gelonghui.com/news/5135294",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "【焦点复盘】沪指低开低走创2个月新低，贵金属板块现深幅调整，智能驾驶概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2231107",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时19分 ~ 22时24分]"
+        },
+        {
+          "title": "联想：与英飞凌技术公司正在加紧合作 加速自动驾驶的下一阶段",
+          "url": "https://api3.cls.cn/share/article/2231461?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "A股智能驾驶概念开盘活跃，北汽蓝谷、浙江世宝竞价涨停，云意电气、万集科技、莱赛激光涨超10%，索菱股份、经纬恒润、豪恩汽电、中海达、锦江在线等涨幅靠前，消息面上，我国首批L3级自动驾驶车型产品获得准入许可，两款分别适配城市拥堵、高速路段的车型将在北京、重庆指定区域开展上路试点。",
+          "url": "https://wallstreetcn.com/livenews/3021283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "工信部官员谈L3级自动驾驶车型获附条件准入许可：筑牢安全发展“防护栏”",
+          "url": "https://wallstreetcn.com/livenews/3021092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时33分]"
+        },
+        {
+          "title": "【午报】创业板指半日跌超2%，全市场超4400股飘绿，零售、智能驾驶概念股逆势活跃",
+          "url": "https://www.cls.cn/detail/2230724",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 18时50分]"
+        },
+        {
+          "title": "我国公布首批L3级自动驾驶车型准入许可 高阶智驾渗透率或持续提升",
+          "url": "https://www.cls.cn/detail/2230415",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 16时31分]"
+        },
+        {
+          "title": "专家分析L3级自动驾驶车型获附条件准入许可：从“技术验证”迈向“量产应用”新阶段",
+          "url": "https://wallstreetcn.com/livenews/3021093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时33分]"
+        },
+        {
+          "title": "商业航天热度不减，利好催化下自动驾驶有望成为新热点",
+          "url": "https://www.cls.cn/detail/2230520",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时29分]"
+        },
+        {
+          "title": "【财联社早知道】重磅汽车大会官宣日期，将聚焦自动驾驶等领域，机构预计2025年我国无人驾驶市场规模将超过4000亿元，这家公司致力于构建“云端分析-智能驾驶-人机协同-机群作业运营”一体化解决方案",
+          "url": "https://api3.cls.cn/share/article/2230937?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "【风口专家会议】首批L3级自动驾驶车型获准入，特邀行业专家全面解读L3自动驾驶带来的硬件增量需求",
+          "url": "https://api3.cls.cn/share/article/2230917?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "智能驾驶概念大面积高开 北汽蓝谷、浙江世宝竞价涨停",
+          "url": "https://api3.cls.cn/share/article/2230535?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "中国首批L3级自动驾驶车型产品获得准入许可",
+          "url": "https://wallstreetcn.com/articles/3761413",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "部分港股智能驾驶概念股走强 佑驾创新涨超3%",
+          "url": "https://api3.cls.cn/share/article/2230529?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "午评：创业板指半日跌超2% 智能驾驶、零售概念逆势走强",
+          "url": "https://api3.cls.cn/share/article/2230682?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "智能驾驶概念再度拉升 近十只成分股涨停",
+          "url": "https://api3.cls.cn/share/article/2230637?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "电连技术：汽车连接器可适配L3级别智能驾驶场景",
+          "url": "https://api3.cls.cn/share/article/2230991?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "小鹏汽车港股跌幅快速收窄至2%。据报道，小鹏获L3级自动驾驶道路测试牌照。",
+          "url": "https://wallstreetcn.com/livenews/3021473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "小鹏获L3级自动驾驶道路测试牌照",
+          "url": "https://wallstreetcn.com/livenews/3021472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 22,
       "titles": [
+        {
+          "title": "【数据看盘】实力游资集体出逃商业航天概念股 7.61亿元资金抢筹永辉超市",
+          "url": "https://www.cls.cn/detail/2231142",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时50分 ~ 22时24分]"
+        },
         {
           "title": "12月16日投资避雷针：3连板人气股提示风险 不涉及“可控核聚变”、“超导”、“商业航天”等业务",
           "url": "https://www.cls.cn/detail/2230453",
@@ -332,19 +609,6 @@
           "time_info": "[09时41分 ~ 16时57分]"
         },
         {
-          "title": "【数据看盘】实力游资集体出逃商业航天概念股 7.61亿元资金抢筹永辉超市",
-          "url": "https://www.cls.cn/detail/2231142",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时50分 ~ 21时38分]"
-        },
-        {
           "title": "【每日收评】三大指数均跌超1%，全市场超4300股飘绿，商业航天午后探底回升",
           "url": "https://www.cls.cn/detail/2231050",
           "source": "财联社热门",
@@ -354,8 +618,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时29分 ~ 21时38分]"
+          "appearance_count": 11,
+          "time_info": "[17时29分 ~ 22时24分]"
         },
         {
           "title": "中美卫星仅距200米惊险擦肩",
@@ -582,255 +846,6 @@
       ]
     },
     {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "L3来了！深蓝、极狐首批入围 中汽协：自动驾驶加速迈向“量产应用”",
-          "url": "https://www.cls.cn/detail/2230081",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 07时44分]"
-        },
-        {
-          "title": "一图看懂 | L0-L5自动驾驶有何区别，驾驶责任如何划分",
-          "url": "https://www.cls.cn/detail/2229922",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时47分]"
-        },
-        {
-          "title": "首批L3自动驾驶获准入许可，中国无人驾驶进入“商业化应用”新纪元",
-          "url": "https://wallstreetcn.com/articles/3761426",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[06时45分 ~ 19时41分]"
-        },
-        {
-          "title": "A股异动丨中国自动驾驶商业化迈出关键一步，无人驾驶概念股集体上涨，北汽蓝谷涨停",
-          "url": "https://www.gelonghui.com/news/5135294",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "A股智能驾驶概念开盘活跃，北汽蓝谷、浙江世宝竞价涨停，云意电气、万集科技、莱赛激光涨超10%，索菱股份、经纬恒润、豪恩汽电、中海达、锦江在线等涨幅靠前，消息面上，我国首批L3级自动驾驶车型产品获得准入许可，两款分别适配城市拥堵、高速路段的车型将在北京、重庆指定区域开展上路试点。",
-          "url": "https://wallstreetcn.com/livenews/3021283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "【焦点复盘】沪指低开低走创2个月新低，贵金属板块现深幅调整，智能驾驶概念逆势爆发",
-          "url": "https://www.cls.cn/detail/2231107",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 21时38分]"
-        },
-        {
-          "title": "工信部官员谈L3级自动驾驶车型获附条件准入许可：筑牢安全发展“防护栏”",
-          "url": "https://wallstreetcn.com/livenews/3021092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时33分]"
-        },
-        {
-          "title": "【午报】创业板指半日跌超2%，全市场超4400股飘绿，零售、智能驾驶概念股逆势活跃",
-          "url": "https://www.cls.cn/detail/2230724",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时50分 ~ 18时50分]"
-        },
-        {
-          "title": "我国公布首批L3级自动驾驶车型准入许可 高阶智驾渗透率或持续提升",
-          "url": "https://www.cls.cn/detail/2230415",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 16时31分]"
-        },
-        {
-          "title": "专家分析L3级自动驾驶车型获附条件准入许可：从“技术验证”迈向“量产应用”新阶段",
-          "url": "https://wallstreetcn.com/livenews/3021093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时33分]"
-        },
-        {
-          "title": "商业航天热度不减，利好催化下自动驾驶有望成为新热点",
-          "url": "https://www.cls.cn/detail/2230520",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 17时29分]"
-        },
-        {
-          "title": "【财联社早知道】重磅汽车大会官宣日期，将聚焦自动驾驶等领域，机构预计2025年我国无人驾驶市场规模将超过4000亿元，这家公司致力于构建“云端分析-智能驾驶-人机协同-机群作业运营”一体化解决方案",
-          "url": "https://api3.cls.cn/share/article/2230937?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "【风口专家会议】首批L3级自动驾驶车型获准入，特邀行业专家全面解读L3自动驾驶带来的硬件增量需求",
-          "url": "https://api3.cls.cn/share/article/2230917?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "智能驾驶概念大面积高开 北汽蓝谷、浙江世宝竞价涨停",
-          "url": "https://api3.cls.cn/share/article/2230535?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "中国首批L3级自动驾驶车型产品获得准入许可",
-          "url": "https://wallstreetcn.com/articles/3761413",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        },
-        {
-          "title": "部分港股智能驾驶概念股走强 佑驾创新涨超3%",
-          "url": "https://api3.cls.cn/share/article/2230529?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "午评：创业板指半日跌超2% 智能驾驶、零售概念逆势走强",
-          "url": "https://api3.cls.cn/share/article/2230682?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "智能驾驶概念再度拉升 近十只成分股涨停",
-          "url": "https://api3.cls.cn/share/article/2230637?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "电连技术：汽车连接器可适配L3级别智能驾驶场景",
-          "url": "https://api3.cls.cn/share/article/2230991?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "小鹏汽车港股跌幅快速收窄至2%。据报道，小鹏获L3级自动驾驶道路测试牌照。",
-          "url": "https://wallstreetcn.com/livenews/3021473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "小鹏获L3级自动驾驶道路测试牌照",
-          "url": "https://wallstreetcn.com/livenews/3021472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 10,
       "titles": [
@@ -860,8 +875,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 21时38分]"
+          "appearance_count": 6,
+          "time_info": "[19时19分 ~ 22时24分]"
         },
         {
           "title": "四维图新：投资鉴智机器人成为其第一大股东 重组后的“新鉴智”将成为旗下智驾业务平台",
@@ -1033,7 +1048,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -1044,7 +1059,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -1069,6 +1084,232 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "财联社12月16日电，OpenAI称Albert Lee将于周二出任企业发展副总裁一职，并向首席财务官萨拉·弗赖尔（Sarah Friar）汇报工作。",
+          "url": "https://api3.cls.cn/share/article/2230347?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            10,
+            12,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时29分 ~ 05时20分]"
+        },
+        {
+          "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3021118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "OpenAI：从谷歌挖来Albert Lee。",
+          "url": "https://flash.jin10.com/detail/20251216015417172800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "财联社12月16日电，OpenAI从谷歌挖来高管负责并购事宜。",
+          "url": "https://api3.cls.cn/share/article/2230332?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 03时29分]"
+        },
+        {
+          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3021118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 04时35分]"
+        },
+        {
+          "title": "AI贷款平台类初创公司Slope正与亚马逊的独立卖家启动合作伙伴关系。 该公司的投资者包括OpenAI的CEO Altman和摩根大通。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3021758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "Gemini在美国推出预测市场功能Gemini Predictions",
+          "url": "https://www.gelonghui.com/news/5135911",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "OpenAI： Albert Lee将于周二出任企业发展副总裁，并向首席财务官Sarah Friar汇报。",
+          "url": "https://flash.jin10.com/detail/20251216023339316800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "苹果安卓实现互通",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%AE%89%E5%8D%93%E5%AE%9E%E7%8E%B0%E4%BA%92%E9%80%9A&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时45分 ~ 18时50分]"
+        },
+        {
+          "title": "通用汽车敲定一份协议，将在未来的汽车产品提供苹果音乐（Apple Music）。",
+          "url": "https://wallstreetcn.com/livenews/3021130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时32分 ~ 04时47分]"
+        },
+        {
+          "title": "【电报解读】蚂蚁集团旗下AI健康应用“蚂蚁阿福”冲上苹果应用总榜第三位，AI技术迅速发展正重塑医疗行业，阿里健康持有这家公司超6%股份",
+          "url": "https://api3.cls.cn/share/article/2231260?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时41分]"
+        },
+        {
+          "title": "女子1万多买二手苹果14还充不进电",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%901%E4%B8%87%E5%A4%9A%E4%B9%B0%E4%BA%8C%E6%89%8B%E8%8B%B9%E6%9E%9C14%E8%BF%98%E5%85%85%E4%B8%8D%E8%BF%9B%E7%94%B5%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 21时38分]"
+        },
+        {
+          "title": "这样煮苹果水养生又瘦身",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A0%B7%E7%85%AE%E8%8B%B9%E6%9E%9C%E6%B0%B4%E5%85%BB%E7%94%9F%E5%8F%88%E7%98%A6%E8%BA%AB%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时41分]"
+        },
+        {
+          "title": "蚂蚁阿福冲上苹果应用总榜第三",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%9A%82%E8%9A%81%E9%98%BF%E7%A6%8F%E5%86%B2%E4%B8%8A%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E6%80%BB%E6%A6%9C%E7%AC%AC%E4%B8%89%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时50分]"
+        },
+        {
+          "title": "我国科研人员研发出苹果产地溯源新技术",
+          "url": "https://wallstreetcn.com/livenews/3021753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "新加坡陆交局授标660辆电动巴士合同 比亚迪、宇通等中国车企中标",
+          "url": "https://api3.cls.cn/share/article/2230801?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "我国科研人员研发出苹果产地溯源新技术",
+          "url": "https://api3.cls.cn/share/article/2231442?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     },
@@ -1142,7 +1383,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -1270,201 +1511,8 @@
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "财联社12月16日电，OpenAI称Albert Lee将于周二出任企业发展副总裁一职，并向首席财务官萨拉·弗赖尔（Sarah Friar）汇报工作。",
-          "url": "https://api3.cls.cn/share/article/2230347?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            10,
-            12,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时29分 ~ 05时20分]"
-        },
-        {
-          "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3021118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "OpenAI：从谷歌挖来Albert Lee。",
-          "url": "https://flash.jin10.com/detail/20251216015417172800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "财联社12月16日电，OpenAI从谷歌挖来高管负责并购事宜。",
-          "url": "https://api3.cls.cn/share/article/2230332?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时33分 ~ 03时29分]"
-        },
-        {
-          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3021118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 04时35分]"
-        },
-        {
-          "title": "Gemini在美国推出预测市场功能Gemini Predictions",
-          "url": "https://www.gelonghui.com/news/5135911",
-          "source": "格隆汇",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "DeepSeek崩了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "OpenAI： Albert Lee将于周二出任企业发展副总裁，并向首席财务官Sarah Friar汇报。",
-          "url": "https://flash.jin10.com/detail/20251216023339316800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "苹果安卓实现互通",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%AE%89%E5%8D%93%E5%AE%9E%E7%8E%B0%E4%BA%92%E9%80%9A&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 18时50分]"
-        },
-        {
-          "title": "通用汽车敲定一份协议，将在未来的汽车产品提供苹果音乐（Apple Music）。",
-          "url": "https://wallstreetcn.com/livenews/3021130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 04时47分]"
-        },
-        {
-          "title": "【电报解读】蚂蚁集团旗下AI健康应用“蚂蚁阿福”冲上苹果应用总榜第三位，AI技术迅速发展正重塑医疗行业，阿里健康持有这家公司超6%股份",
-          "url": "https://api3.cls.cn/share/article/2231260?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 19时41分]"
-        },
-        {
-          "title": "女子1万多买二手苹果14还充不进电",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%901%E4%B8%87%E5%A4%9A%E4%B9%B0%E4%BA%8C%E6%89%8B%E8%8B%B9%E6%9E%9C14%E8%BF%98%E5%85%85%E4%B8%8D%E8%BF%9B%E7%94%B5%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 21时38分]"
-        },
-        {
-          "title": "这样煮苹果水养生又瘦身",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A0%B7%E7%85%AE%E8%8B%B9%E6%9E%9C%E6%B0%B4%E5%85%BB%E7%94%9F%E5%8F%88%E7%98%A6%E8%BA%AB%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时41分]"
-        },
-        {
-          "title": "蚂蚁阿福冲上苹果应用总榜第三",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%9A%82%E8%9A%81%E9%98%BF%E7%A6%8F%E5%86%B2%E4%B8%8A%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E6%80%BB%E6%A6%9C%E7%AC%AC%E4%B8%89%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时50分]"
-        },
-        {
-          "title": "新加坡陆交局授标660辆电动巴士合同 比亚迪、宇通等中国车企中标",
-          "url": "https://api3.cls.cn/share/article/2230801?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 美股 美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
@@ -1478,6 +1526,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[06时20分 ~ 15时45分]"
+        },
+        {
+          "title": "11月失业率意外上涨刺激美债买盘 各期限收益率普跌",
+          "url": "https://flash.jin10.com/detail/20251216221203897800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "LME期铜收涨140美元，报11656美元/吨。 LME期铝收跌2美元，报2866美元/吨。 LME期锌收跌32美元，报3094美元/吨。 LME期铅收跌27美元，报1941美元/吨。 LME期镍收跌241美元，报14346美元/吨。 LME期锡收跌390美元，报40947美元/吨。 LME期钴收平，报52790美元/吨。",
@@ -1635,8 +1694,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时31分 ~ 21时38分]"
+          "appearance_count": 38,
+          "time_info": "[00时31分 ~ 22时24分]"
         },
         {
           "title": "财联社12月16日电，英伟达收购开源工作负载管理平台提供商Schedmd。",
@@ -1854,6 +1913,57 @@
       ]
     },
     {
+      "keyword_group": "雷达",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "应对中国 日本将在冲绳离岛部署雷达部队",
+          "url": "https://www.zaochenbao.com/news/china/202512/1659931.html",
+          "source": "早报",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时45分 ~ 19时41分]"
+        },
+        {
+          "title": "财联社12月16日电，洛克希德·马丁公司官网宣布，丹麦已选择其TPY-4雷达系统，以强化本国远程防空能力。",
+          "url": "https://api3.cls.cn/share/article/2231459?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美股异动丨激光雷达传感器制造商Luminar申请破产保护，隔夜暴跌近61%",
+          "url": "https://www.gelonghui.com/news/5135288",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "美国激光雷达制造商Luminar申请破产重整",
+          "url": "https://api3.cls.cn/share/article/2230635?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 3,
       "titles": [
@@ -1892,46 +2002,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时23分 ~ 15时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "雷达",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "应对中国 日本将在冲绳离岛部署雷达部队",
-          "url": "https://www.zaochenbao.com/news/china/202512/1659931.html",
-          "source": "早报",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时45分 ~ 19时41分]"
-        },
-        {
-          "title": "美股异动丨激光雷达传感器制造商Luminar申请破产保护，隔夜暴跌近61%",
-          "url": "https://www.gelonghui.com/news/5135288",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "美国激光雷达制造商Luminar申请破产重整",
-          "url": "https://api3.cls.cn/share/article/2230635?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
         }
       ]
     },
@@ -2011,6 +2081,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "非农超预期，美股盘前转涨，现货黄金小幅上涨，布油跌破60美元",
+          "url": "https://wallstreetcn.com/articles/3761475",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月16日（周二）早盘盘初下跌0.52%报970.05元/克；<br/>上海黄金交易所白银T+D 12月16日（周二）早盘盘初上涨0.84%报14792.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251216090330399800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     },
@@ -2187,23 +2285,6 @@
       ]
     },
     {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 12月16日（周二）早盘盘初下跌0.52%报970.05元/克；<br/>上海黄金交易所白银T+D 12月16日（周二）早盘盘初上涨0.84%报14792.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251216090330399800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "消费电子 智能穿戴 智能座舱",
       "match_count": 1,
       "titles": [
@@ -2214,9 +2295,26 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "量子科技 量子计算 量子通信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【公告全知道】商业航天+无人驾驶+芯片+量子科技+无人机！公司星体系列业务主要聚焦于商业卫星和航天防务领域",
+          "url": "https://api3.cls.cn/share/article/2231350?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     },
