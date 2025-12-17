@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T21:34:20.400150+08:00",
-  "total_titles_processed": 2278,
+  "generated_at": "2025-12-17T22:22:47.930461+08:00",
+  "total_titles_processed": 2374,
   "failed_sources": [],
   "trends": [
     {
@@ -352,6 +352,17 @@
           "time_info": "[02时31分 ~ 02时32分]"
         },
         {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时22分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收涨3.1%，时隔一年再创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3021906",
           "source": "华尔街见闻-快讯",
@@ -385,17 +396,6 @@
           "time_info": "14时33分"
         },
         {
-          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
           "title": "特斯拉在美国加州被要求限期整改 否则将被暂停销售",
           "url": "https://wallstreetcn.com/livenews/3021988",
           "source": "华尔街见闻-快讯",
@@ -410,7 +410,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "OpenAI应用业务首席执行官西莫（Simo）表示，包括Adobe、Airtable、Apple Music、Clay、Lovable、Salesforce在内的更多应用将登陆ChatGPT新应用目录。",
@@ -638,6 +638,17 @@
           "time_info": "17时51分"
         },
         {
+          "title": "OpenAI：为新闻机构推出OpenAI学院（OPENAI Academy），在未来的计划中，将与更多新闻机构和行业合作伙伴合作，以扩展学院。",
+          "url": "https://flash.jin10.com/detail/20251217220433800800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "美股异动丨亚马逊盘前涨超1% 据称拟投资OpenAI至少100亿美元并提供自研芯片",
           "url": "https://www.gelonghui.com/news/5136419",
           "source": "格隆汇",
@@ -696,7 +707,7 @@
     },
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "【数据看盘】实力游资集体出逃商业航天概念股 7.61亿元资金抢筹永辉超市",
@@ -883,7 +894,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -894,7 +905,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -938,7 +949,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -954,13 +965,24 @@
           "time_info": "09时27分"
         },
         {
+          "title": "索辰科技：在商业航天领域 子公司主要提供卫星目标检测及态势感知等服务",
+          "url": "https://api3.cls.cn/share/article/2232687?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "达华智能：拥有多个卫星操作者的频轨资源",
           "url": "https://api3.cls.cn/share/article/2232628?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -978,233 +1000,8 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指放量涨超3%，算力硬件股集体反弹，大金融午后异动拉升",
-          "url": "https://www.cls.cn/detail/2232317",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时31分 ~ 21时34分]"
-        },
-        {
-          "title": "A股国产算力再添一员！沐曦股份登陆科创板 行业进入“拼产能、拼生态”关键阶段",
-          "url": "https://www.cls.cn/detail/2232260",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时51分 ~ 21时34分]"
-        },
-        {
-          "title": "南网数字(301638.SZ)：公司产品未直接应用于太空算力领域",
-          "url": "https://www.gelonghui.com/news/5136135",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
-          "title": "上海市通信管理局副局长戴斌：上海将推动算网协同 引导算力中心向智算中心倾斜",
-          "url": "https://wallstreetcn.com/livenews/3022445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "算力硬件股持续走强 联特科技、中瓷电子双双涨停",
-          "url": "https://api3.cls.cn/share/article/2231963?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 13时46分]"
-        },
-        {
-          "title": "12月17日午间收评：创业板指半日涨1.21%，锂矿、算力硬件股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3022105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时23分]"
-        },
-        {
-          "title": "埃森哲将收购人工智能数据中心工程与咨询公司DLB Associates 65%的股权。",
-          "url": "https://flash.jin10.com/detail/20251217002108283800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时27分]"
-        },
-        {
-          "title": "收评：三大指数集体反弹 算力硬件、锂电产业链爆发",
-          "url": "https://api3.cls.cn/share/article/2232097?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
-          "title": "创业板指大涨3.39%，算力硬件股集体爆发",
-          "url": "https://wallstreetcn.com/livenews/3022226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时44分]"
-        },
-        {
-          "title": "协创数据：拟在广州开发区，投资光芯片、光模块研发和生产建设项目,主要从事利用自主芯片研发超低功耗光模块，适配AI算力中心、超算中心等高端场景业务。",
-          "url": "https://wallstreetcn.com/livenews/3022345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时20分]"
-        },
-        {
-          "title": "全球算力版图第三极：沙特AI热潮中的联想样本",
-          "url": "https://www.gelonghui.com/news/5136128",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
-          "title": "平治信息(300571.SZ)：子公司与内蒙古联通签订《2025年至2030年算力服务合同》",
-          "url": "https://www.gelonghui.com/news/5136239",
-          "source": "格隆汇",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
-        },
-        {
-          "title": "上海落实“算力强基揭榜行动”最新成果：跨域异构算力调度完成商用验证",
-          "url": "https://wallstreetcn.com/livenews/3022440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "创业板指涨超3%，沪指涨1.32%，深成指涨2.31%，算力硬件、锂电、大金融、大消费等方向涨幅居前，沪深京三市上涨个股超3300只。",
-          "url": "https://wallstreetcn.com/livenews/3022177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "明星资本扎堆加持！壁仞科技过港交所聆讯，冲刺港股GPU第一股",
-          "url": "https://www.gelonghui.com/news/5136152",
-          "source": "格隆汇",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
-          "url": "https://wallstreetcn.com/articles/3761532",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "重庆：推动本地高性能智能算力基础设施建设 持续提质扩容重庆（新疆）算力基地",
-          "url": "https://api3.cls.cn/share/article/2231970?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "沪指涨幅扩大至1%，深成指涨1.81%，创业板指涨2.38%，算力硬件、有色金属、锂电、大金融等方向涨幅居前，沪深京三市上涨个股近2300只。",
-          "url": "https://wallstreetcn.com/livenews/3022169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "创业板指涨超2%，沪指涨0.58%，深成指涨1.38%，锂矿、算力硬件、保险、大消费等方向涨幅居前，沪深京三市上涨个股超1600只。",
-          "url": "https://wallstreetcn.com/livenews/3022164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "张玉卓到中国铁塔调研：加大空天地一体网络协同布局力度 推动形成更加符合人工智能发展需要的数字基础设施体系",
@@ -1326,13 +1123,24 @@
           "time_info": "[00时29分 ~ 00时58分]"
         },
         {
+          "title": "美联储理事沃勒：我认为人工智能不是泡沫，而是一项真正的技术。",
+          "url": "https://flash.jin10.com/detail/20251217221029515800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "美联储理事沃勒：就业市场非常疲软，目前的就业增长情况不佳。 美国就业增长接近于零。 美联储的降息举措对就业市场有所帮助。 2026年经济形势可能会更好，希望这能提振就业市场。 通胀仍高于目标，但预计未来几个月会回落。 通胀预期保持稳定。 目前还不清楚人工智能将对就业市场产生什么影响。",
           "url": "https://wallstreetcn.com/livenews/3022436",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -1354,7 +1162,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -1392,13 +1200,35 @@
           "time_info": "12时06分"
         },
         {
+          "title": "福瑞股份：拟与专业投资机构共同投资基金 聚焦医疗科创、数字经济、人工智能、智能制造等领域",
+          "url": "https://api3.cls.cn/share/article/2232684?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "美联储理事沃勒：缺乏人工智能的商业固定投资正在下滑。",
+          "url": "https://flash.jin10.com/detail/20251217215834614800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "市场消息：人工智能芯片初创公司Mythic融资1.25亿美元，以挑战英伟达(NVDA.O)。",
           "url": "https://flash.jin10.com/detail/20251217210102400800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -1416,8 +1246,247 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "【每日收评】创业板指放量涨超3%，算力硬件股集体反弹，大金融午后异动拉升",
+          "url": "https://www.cls.cn/detail/2232317",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时31分 ~ 22时22分]"
+        },
+        {
+          "title": "A股国产算力再添一员！沐曦股份登陆科创板 行业进入“拼产能、拼生态”关键阶段",
+          "url": "https://www.cls.cn/detail/2232260",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时51分 ~ 22时22分]"
+        },
+        {
+          "title": "南网数字(301638.SZ)：公司产品未直接应用于太空算力领域",
+          "url": "https://www.gelonghui.com/news/5136135",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
+          "title": "算力硬件股持续走强 联特科技、中瓷电子双双涨停",
+          "url": "https://api3.cls.cn/share/article/2231963?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 13时46分]"
+        },
+        {
+          "title": "上海市通信管理局副局长戴斌：上海将推动算网协同 引导算力中心向智算中心倾斜",
+          "url": "https://wallstreetcn.com/livenews/3022445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时22分]"
+        },
+        {
+          "title": "12月17日午间收评：创业板指半日涨1.21%，锂矿、算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3022105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 13时23分]"
+        },
+        {
+          "title": "埃森哲将收购人工智能数据中心工程与咨询公司DLB Associates 65%的股权。",
+          "url": "https://flash.jin10.com/detail/20251217002108283800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时27分]"
+        },
+        {
+          "title": "收评：三大指数集体反弹 算力硬件、锂电产业链爆发",
+          "url": "https://api3.cls.cn/share/article/2232097?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
+          "title": "创业板指大涨3.39%，算力硬件股集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3022226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 15时44分]"
+        },
+        {
+          "title": "上海落实“算力强基揭榜行动”最新成果：跨域异构算力调度完成商用验证",
+          "url": "https://wallstreetcn.com/livenews/3022440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时22分]"
+        },
+        {
+          "title": "协创数据：拟在广州开发区，投资光芯片、光模块研发和生产建设项目,主要从事利用自主芯片研发超低功耗光模块，适配AI算力中心、超算中心等高端场景业务。",
+          "url": "https://wallstreetcn.com/livenews/3022345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 19时20分]"
+        },
+        {
+          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
+          "url": "https://wallstreetcn.com/articles/3761532",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时22分]"
+        },
+        {
+          "title": "全球算力版图第三极：沙特AI热潮中的联想样本",
+          "url": "https://www.gelonghui.com/news/5136128",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
+          "title": "平治信息(300571.SZ)：子公司与内蒙古联通签订《2025年至2030年算力服务合同》",
+          "url": "https://www.gelonghui.com/news/5136239",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
+        },
+        {
+          "title": "创业板指涨超3%，沪指涨1.32%，深成指涨2.31%，算力硬件、锂电、大金融、大消费等方向涨幅居前，沪深京三市上涨个股超3300只。",
+          "url": "https://wallstreetcn.com/livenews/3022177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "明星资本扎堆加持！壁仞科技过港交所聆讯，冲刺港股GPU第一股",
+          "url": "https://www.gelonghui.com/news/5136152",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "【风口研报·洞察】AI算力带动多模、超低损光纤及空芯光纤需求激增，头部厂商反馈显示零售散纤价格已上涨15%-20%，短期内新增供给十分有限，供需错配或支撑价格持续向上；日本加息对全球流动性冲击影响",
+          "url": "https://api3.cls.cn/share/article/2232223?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "重庆：推动本地高性能智能算力基础设施建设 持续提质扩容重庆（新疆）算力基地",
+          "url": "https://api3.cls.cn/share/article/2231970?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "沪指涨幅扩大至1%，深成指涨1.81%，创业板指涨2.38%，算力硬件、有色金属、锂电、大金融等方向涨幅居前，沪深京三市上涨个股近2300只。",
+          "url": "https://wallstreetcn.com/livenews/3022169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.58%，深成指涨1.38%，锂矿、算力硬件、保险、大消费等方向涨幅居前，沪深京三市上涨个股超1600只。",
+          "url": "https://wallstreetcn.com/livenews/3022164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "机器人年终盘点③：爆发元年！产业链核心标的全梳理",
@@ -1442,8 +1511,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时51分 ~ 21时34分]"
+          "appearance_count": 9,
+          "time_info": "[17时51分 ~ 22时22分]"
+        },
+        {
+          "title": "【公告全知道】商业航天+无人驾驶+芯片+机器人+低空经济！公司已完成卫星通信芯片设计",
+          "url": "https://api3.cls.cn/share/article/2232602?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "【电报解读】香港大学、智元等联合研究团队提出人形机器人全身VLA框架！机构称机器人供应链海外产能建设持续推进下，量产脚步已渐行渐近，这家公司产品涵盖多种机器人领域核心部件",
@@ -1556,7 +1636,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -1567,7 +1647,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -1581,6 +1661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "全球首条！具身智能机器人在宁德时代电池产线实现规模化落地",
+          "url": "https://wallstreetcn.com/livenews/3022458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "长盈精密：目前公司在人形机器人业务上供应给客户的料号超过1000个",
@@ -1821,8 +1912,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时07分 ~ 21时34分]"
+          "appearance_count": 24,
+          "time_info": "[11时07分 ~ 22时22分]"
         },
         {
           "title": "美政府进一步限制外国公民入境 苹果据称拟扩大iPhone产品线 | 环球市场",
@@ -2152,6 +2243,79 @@
       ]
     },
     {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【风口研报·公司】继参股国产CPU后入局光芯片领域，这家公司有望开展“电+光”双轮布局发力第二曲线，加速产品从技术研发到市场应用全链条突破；AI细分产品需求有望爆发，英伟达是这家公司的重要客户",
+          "url": "https://api3.cls.cn/share/article/2232166?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "Nebius发布搭载英伟达Blackwell Ultra芯片新一代AI云平台",
+          "url": "https://wallstreetcn.com/livenews/3022466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "国台办回应岛内舆论担忧台积电先进技术外移",
+          "url": "https://api3.cls.cn/share/article/2231834?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "国台办回应岛内舆论担忧台积电先进技术外移",
+          "url": "https://wallstreetcn.com/livenews/3022085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时06分]"
+        },
+        {
+          "title": "星宸科技(301536.SZ)：目前与英伟达没有合作",
+          "url": "https://www.gelonghui.com/news/5136679",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "Nebius发布搭载英伟达Blackwell Ultra芯片新一代AI云平台",
+          "url": "https://api3.cls.cn/share/article/2232692?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
       "match_count": 4,
       "titles": [
@@ -2203,57 +2367,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 11时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【风口研报·公司】继参股国产CPU后入局光芯片领域，这家公司有望开展“电+光”双轮布局发力第二曲线，加速产品从技术研发到市场应用全链条突破；AI细分产品需求有望爆发，英伟达是这家公司的重要客户",
-          "url": "https://api3.cls.cn/share/article/2232166?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
-          "title": "国台办回应岛内舆论担忧台积电先进技术外移",
-          "url": "https://api3.cls.cn/share/article/2231834?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 11时08分]"
-        },
-        {
-          "title": "国台办回应岛内舆论担忧台积电先进技术外移",
-          "url": "https://wallstreetcn.com/livenews/3022085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 12时06分]"
-        },
-        {
-          "title": "星宸科技(301536.SZ)：目前与英伟达没有合作",
-          "url": "https://www.gelonghui.com/news/5136679",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
         }
       ]
     },
@@ -2428,11 +2541,12 @@
           "url": "https://www.gelonghui.com/news/5136683",
           "source": "格隆汇",
           "ranks": [
-            3
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时22分]"
         },
         {
           "title": "财联社12月17日电，隆基分布式事业群总裁蒋东宇认为，全球光伏市场前景依然广阔，未来十年仍拥有超过10000吉瓦的广阔空间，其中分布式市场增长潜力预计超过4700吉瓦，已成为能源转型的主力军。",
@@ -2543,6 +2657,35 @@
       ]
     },
     {
+      "keyword_group": "液冷",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【风口研报·行业】千亿液冷元年已至，分析师强call国产链随着英伟达开放供应商名录将加速入局，Rubin架构的推出更有望使这两个可选方案成为必选",
+          "url": "https://api3.cls.cn/share/article/2231901?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 13时46分]"
+        },
+        {
+          "title": "同飞股份：在数据中心领域 公司推出了冷板式液冷和浸没液冷全套解决方案",
+          "url": "https://api3.cls.cn/share/article/2232683?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
       "match_count": 2,
       "titles": [
@@ -2627,24 +2770,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时53分 ~ 13时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "液冷",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【风口研报·行业】千亿液冷元年已至，分析师强call国产链随着英伟达开放供应商名录将加速入局，Rubin架构的推出更有望使这两个可选方案成为必选",
-          "url": "https://api3.cls.cn/share/article/2231901?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 13时46分]"
         }
       ]
     },
