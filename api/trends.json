@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T07:20:22.580334+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2025-12-18T07:41:57.578462+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 07时41分]"
         },
         {
           "title": "协创数据(300857.SZ)：目前DreamworldAI(融梦AI)的新款人工智能眼镜预计2026年第一季度启动量产",
@@ -218,11 +219,35 @@
           "url": "https://api3.cls.cn/share/article/2232836?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            5
+            5,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时41分]"
+        },
+        {
+          "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
+          "url": "https://wallstreetcn.com/livenews/3022640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时41分]"
+        },
+        {
+          "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
+          "url": "https://flash.jin10.com/detail/20251218063011323800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时41分]"
         },
         {
           "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
@@ -235,28 +260,85 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时57分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 6,
+      "titles": [
         {
-          "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
-          "url": "https://wallstreetcn.com/livenews/3022640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
-          "url": "https://flash.jin10.com/detail/20251218063011323800",
+          "title": "文件显示：英伟达(NVDA.O)董事Harvey Jones在12月15日以177.3美元的平均价格，在公开市场出售了25万股公司普通股股票。",
+          "url": "https://flash.jin10.com/detail/20251218065520974800",
           "source": "金十数据",
           "ranks": [
-            10
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时41分]"
+        },
+        {
+          "title": "标普500指数跌幅扩大至1%，科技板块跌1.87%，工业板块跌1.4%，电信板块跌1.2%，能源板块涨1.3%。 道指跌0.4%，纳指跌1.6%，半导体指数跌3.6%。 英伟达目前维持3.2%的跌幅，此前一度跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3022570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 05时20分]"
+        },
+        {
+          "title": "英伟达董事哈维-琼斯出售持有三十多年的4,400万美元股票",
+          "url": "https://wallstreetcn.com/livenews/3022651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时41分"
+        },
+        {
+          "title": "芯片初创公司Mythic融资1.25亿美元，意欲挑战英伟达",
+          "url": "https://wallstreetcn.com/livenews/3022534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时32分]"
+        },
+        {
+          "title": "纳斯达克100指数跌1%，核电股CEG跌6.4%，博通跌4.9%，阿斯麦ADR跌3.5%，AMD跌3.3%，英伟达跌3%、 费城半导体指数跌超2.2%，标普500指数目前跌0.5%，道指转跌。",
+          "url": "https://wallstreetcn.com/livenews/3022516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时47分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
+          "url": "https://flash.jin10.com/detail/20251218050114407800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 05时42分]"
         }
       ]
     },
@@ -298,8 +380,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时41分]"
         },
         {
           "title": "美国加州核能初创公司Radiant Industries Inc.筹集超过3亿美元，用于将其小型反应堆设计商业化。 本轮D轮融资由Draper Associates和Boost VC领投，公司估值超过18亿美金。 Radiant正在研发一种1兆瓦级（1MW）微型反应堆，可由单个集装箱运输。目前，该公司已签署协议，向某美国军事基地及Equinix Inc.数据中心提供该技术。",
@@ -329,70 +411,57 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 5,
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 4,
       "titles": [
         {
-          "title": "标普500指数跌幅扩大至1%，科技板块跌1.87%，工业板块跌1.4%，电信板块跌1.2%，能源板块涨1.3%。 道指跌0.4%，纳指跌1.6%，半导体指数跌3.6%。 英伟达目前维持3.2%的跌幅，此前一度跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3022570",
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 07时41分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)下跌3.2%，前一交易日上涨3%。",
+          "url": "https://flash.jin10.com/detail/20251218023211737800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时20分 ~ 04时47分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
+          "url": "https://wallstreetcn.com/livenews/3022611",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
+            4,
             10,
-            20,
+            19,
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时20分 ~ 05时20分]"
+          "appearance_count": 4,
+          "time_info": "[05时42分 ~ 07时20分]"
         },
         {
-          "title": "文件显示：英伟达(NVDA.O)董事Harvey Jones在12月15日以177.3美元的平均价格，在公开市场出售了25万股公司普通股股票。",
-          "url": "https://flash.jin10.com/detail/20251218065520974800",
-          "source": "金十数据",
+          "title": "小米、华为、理想报案，警方抓获12人",
+          "url": "https://www.cls.cn/detail/2232721",
+          "source": "财联社热门",
           "ranks": [
-            4
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "芯片初创公司Mythic融资1.25亿美元，意欲挑战英伟达",
-          "url": "https://wallstreetcn.com/livenews/3022534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时32分]"
-        },
-        {
-          "title": "纳斯达克100指数跌1%，核电股CEG跌6.4%，博通跌4.9%，阿斯麦ADR跌3.5%，AMD跌3.3%，英伟达跌3%、 费城半导体指数跌超2.2%，标普500指数目前跌0.5%，道指转跌。",
-          "url": "https://wallstreetcn.com/livenews/3022516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时47分]"
-        },
-        {
-          "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
-          "url": "https://flash.jin10.com/detail/20251218050114407800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 05时42分]"
+          "time_info": "07时41分"
         }
       ]
     },
@@ -466,8 +535,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时20分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[06时20分 ~ 07时41分]"
         },
         {
           "title": "周三（8月6日）纽约尾盘，欧元兑美元跌0.04%，报1.1743，日内呈现出V形走势，北京时间15:24（欧股开盘之前）刷新刷新日低至1.1703。 英镑兑美元跌0.32%，报1.3381，16:05（英国CPI数据发布后）刷新日低至1.3312；欧元兑英镑涨0.28%，15:00出现一波显著的拉升行情。",
@@ -489,55 +558,92 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 07时41分]"
         }
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 3,
       "titles": [
         {
-          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
-          "source": "澎湃新闻",
+          "title": "机器人年终盘点④：是谁，迈入量产大门？",
+          "url": "https://www.cls.cn/detail/2232090",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            16
+            3
           ],
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时29分 ~ 07时20分]"
         },
         {
-          "title": "特斯拉(TSLA.O)下跌3.2%，前一交易日上涨3%。",
-          "url": "https://flash.jin10.com/detail/20251218023211737800",
-          "source": "金十数据",
+          "title": "卧安机器人(06600.HK)12月18日起招股 发售价将为每股63-81港元",
+          "url": "https://www.gelonghui.com/news/5136782",
+          "source": "格隆汇",
           "ranks": [
-            13,
-            24
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时20分 ~ 04时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
-          "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
-          "url": "https://wallstreetcn.com/livenews/3022611",
+          "title": "卧安机器人（OneRobotics）申请香港IPO。 拟发行2220万股股票。 发行价指导区间为每股63-81港元。 预计股票将于12月24日定价。",
+          "url": "https://wallstreetcn.com/livenews/3022647",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            10,
-            19,
-            27
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "优必选 商汤 华大基因",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "商汤-W(00020.HK)拟配售17.5亿股新B类股份 总筹31.5亿港元",
+          "url": "https://www.gelonghui.com/news/5136779",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "商汤拟折价逾8%配售股份筹资约31.5亿港元",
+          "url": "https://api3.cls.cn/share/article/2232839?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时42分 ~ 07时20分]"
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时41分]"
+        },
+        {
+          "title": "商汤拟折价逾8%配售股份筹资约31.5亿港元",
+          "url": "https://wallstreetcn.com/livenews/3022641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时41分]"
         }
       ]
     },
@@ -553,8 +659,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 07时41分]"
         },
         {
           "title": "星辰科技：已于2025年成功承接若干商业航天领域的订单 交付的产品已多次参与发射任务",
@@ -602,34 +708,6 @@
       ]
     },
     {
-      "keyword_group": "优必选 商汤 华大基因",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "商汤拟折价逾8%配售股份筹资约31.5亿港元",
-          "url": "https://api3.cls.cn/share/article/2232839?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "商汤拟折价逾8%配售股份筹资约31.5亿港元",
-          "url": "https://wallstreetcn.com/livenews/3022641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 1,
       "titles": [
@@ -642,25 +720,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时20分 ~ 07时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "机器人年终盘点④：是谁，迈入量产大门？",
-          "url": "https://www.cls.cn/detail/2232090",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[06时20分 ~ 07时41分]"
         }
       ]
     },
