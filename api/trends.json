@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T22:22:47.930461+08:00",
-  "total_titles_processed": 2374,
+  "generated_at": "2025-12-17T22:50:36.425147+08:00",
+  "total_titles_processed": 2443,
   "failed_sources": [],
   "trends": [
     {
@@ -285,6 +285,17 @@
           "time_info": "[11时07分 ~ 12时06分]"
         },
         {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时50分]"
+        },
+        {
           "title": "美国11月非农就业报告发布日，标普500指数初步收跌0.2%，能源板块跌2.8%，保健板块跌1.2%，科技板块涨0.5%。 纳斯达克100指数初步收涨0.3%，成分股中，康卡斯特初步收涨5.5%，Strategy涨3.7%，特斯拉涨3.4%，Palantir涨2.6%，核电股Constellation Energy涨2.6%，Arm控股则跌2.5%，Diamondback Energy跌2.9%，美国油服贝克休斯跌3.9%。",
           "url": "https://wallstreetcn.com/livenews/3021901",
           "source": "华尔街见闻-快讯",
@@ -352,17 +363,6 @@
           "time_info": "[02时31分 ~ 02时32分]"
         },
         {
-          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时22分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜特斯拉收涨3.1%，时隔一年再创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3021906",
           "source": "华尔街见闻-快讯",
@@ -410,7 +410,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "OpenAI应用业务首席执行官西莫（Simo）表示，包括Adobe、Airtable、Apple Music、Clay、Lovable、Salesforce在内的更多应用将登陆ChatGPT新应用目录。",
@@ -616,6 +616,17 @@
           "time_info": "[11时07分 ~ 11时08分]"
         },
         {
+          "title": "OpenAI、Anthropic 讨论与生物技术及其他公司的数据交易",
+          "url": "https://api3.cls.cn/share/article/2232717?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "腾讯宣布升级大模型研发架构 前OpenAI研究员姚顺雨任要职",
           "url": "https://api3.cls.cn/share/article/2232364?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -644,9 +655,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
+        },
+        {
+          "title": "外媒：OpenAI、Anthropic讨论与生物技术及其他公司的数据交易",
+          "url": "https://flash.jin10.com/detail/20251217223645174800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "美股异动丨亚马逊盘前涨超1% 据称拟投资OpenAI至少100亿美元并提供自研芯片",
@@ -971,7 +993,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1129,7 +1151,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1206,7 +1228,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1217,7 +1239,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1260,8 +1282,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时31分 ~ 22时22分]"
+          "appearance_count": 11,
+          "time_info": "[17时31分 ~ 22时50分]"
         },
         {
           "title": "A股国产算力再添一员！沐曦股份登陆科创板 行业进入“拼产能、拼生态”关键阶段",
@@ -1270,11 +1292,12 @@
           "ranks": [
             12,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时51分 ~ 22时22分]"
+          "appearance_count": 10,
+          "time_info": "[17时51分 ~ 22时50分]"
         },
         {
           "title": "南网数字(301638.SZ)：公司产品未直接应用于太空算力领域",
@@ -1310,6 +1333,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时34分 ~ 22时22分]"
+        },
+        {
+          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
+          "url": "https://wallstreetcn.com/articles/3761532",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时50分]"
         },
         {
           "title": "12月17日午间收评：创业板指半日涨1.21%，锂矿、算力硬件股集体走强",
@@ -1384,17 +1419,6 @@
           "time_info": "[18时50分 ~ 19时20分]"
         },
         {
-          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
-          "url": "https://wallstreetcn.com/articles/3761532",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时22分]"
-        },
-        {
           "title": "全球算力版图第三极：沙特AI热潮中的联想样本",
           "url": "https://www.gelonghui.com/news/5136128",
           "source": "格隆汇",
@@ -1445,7 +1469,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1511,19 +1535,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时51分 ~ 22时22分]"
-        },
-        {
-          "title": "【公告全知道】商业航天+无人驾驶+芯片+机器人+低空经济！公司已完成卫星通信芯片设计",
-          "url": "https://api3.cls.cn/share/article/2232602?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
+          "appearance_count": 10,
+          "time_info": "[17时51分 ~ 22时50分]"
         },
         {
           "title": "【电报解读】香港大学、智元等联合研究团队提出人形机器人全身VLA框架！机构称机器人供应链海外产能建设持续推进下，量产脚步已渐行渐近，这家公司产品涵盖多种机器人领域核心部件",
@@ -1536,6 +1549,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时20分 ~ 19时41分]"
+        },
+        {
+          "title": "【公告全知道】商业航天+无人驾驶+芯片+机器人+低空经济！公司已完成卫星通信芯片设计",
+          "url": "https://api3.cls.cn/share/article/2232602?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时50分]"
         },
         {
           "title": "工银投资等新设人工智能与机器人产业基金 出资额20亿元",
@@ -1584,6 +1609,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时44分 ~ 16时31分]"
+        },
+        {
+          "title": "全球首条！具身智能机器人在宁德时代电池产线实现规模化落地",
+          "url": "https://wallstreetcn.com/livenews/3022458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时50分]"
         },
         {
           "title": "西安：加快高端医学影像、生命支持设备、体外诊断、医用机器人等高端医疗设备的产业化与推广应用",
@@ -1661,17 +1698,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
-        },
-        {
-          "title": "全球首条！具身智能机器人在宁德时代电池产线实现规模化落地",
-          "url": "https://wallstreetcn.com/livenews/3022458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
         },
         {
           "title": "长盈精密：目前公司在人形机器人业务上供应给客户的料号超过1000个",
@@ -1912,8 +1938,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[11时07分 ~ 22时22分]"
+          "appearance_count": 25,
+          "time_info": "[11时07分 ~ 22时50分]"
         },
         {
           "title": "美政府进一步限制外国公民入境 苹果据称拟扩大iPhone产品线 | 环球市场",
@@ -2149,8 +2175,126 @@
       ]
     },
     {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "【风口研报·公司】继参股国产CPU后入局光芯片领域，这家公司有望开展“电+光”双轮布局发力第二曲线，加速产品从技术研发到市场应用全链条突破；AI细分产品需求有望爆发，英伟达是这家公司的重要客户",
+          "url": "https://api3.cls.cn/share/article/2232166?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "财联社12月17日电，英伟达下跌2%，股价触及三周低点。",
+          "url": "https://api3.cls.cn/share/article/2232723?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "Nebius发布搭载英伟达Blackwell Ultra芯片新一代AI云平台",
+          "url": "https://wallstreetcn.com/livenews/3022466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时50分]"
+        },
+        {
+          "title": "国台办回应岛内舆论担忧台积电先进技术外移",
+          "url": "https://api3.cls.cn/share/article/2231834?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "国台办回应岛内舆论担忧台积电先进技术外移",
+          "url": "https://wallstreetcn.com/livenews/3022085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时06分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)股价跌至三周低点，最新下跌2%。",
+          "url": "https://flash.jin10.com/detail/20251217224019956800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "英伟达美股盘初下跌1.58%。 甲骨文下跌3.1%。",
+          "url": "https://wallstreetcn.com/livenews/3022478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "星宸科技(301536.SZ)：目前与英伟达没有合作",
+          "url": "https://www.gelonghui.com/news/5136679",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "英伟达美股盘前跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3022475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "Nebius发布搭载英伟达Blackwell Ultra芯片新一代AI云平台",
+          "url": "https://api3.cls.cn/share/article/2232692?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
@@ -2239,79 +2383,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时20分 ~ 07时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "【风口研报·公司】继参股国产CPU后入局光芯片领域，这家公司有望开展“电+光”双轮布局发力第二曲线，加速产品从技术研发到市场应用全链条突破；AI细分产品需求有望爆发，英伟达是这家公司的重要客户",
-          "url": "https://api3.cls.cn/share/article/2232166?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
-          "title": "Nebius发布搭载英伟达Blackwell Ultra芯片新一代AI云平台",
-          "url": "https://wallstreetcn.com/livenews/3022466",
-          "source": "华尔街见闻-快讯",
+          "title": "美股开盘，道指开涨0.12%，标普500指数涨0.03%，纳指涨0.07%。奈飞(NFLX.O)开涨1.66%，此前华纳兄弟探索公司(WBD.O)董事会拒绝了派拉蒙影业的敌意收购要约，并继续推荐与奈飞进行交易；甲骨文(ORCL.N)开跌3.02%，有报道称，其100亿美元密歇根数据中心项目陷入僵局，但公司随后回应相关股权交易仍按计划推进。",
+          "url": "https://flash.jin10.com/detail/20251217223042134800",
+          "source": "金十数据",
           "ranks": [
-            4
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "国台办回应岛内舆论担忧台积电先进技术外移",
-          "url": "https://api3.cls.cn/share/article/2231834?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 11时08分]"
-        },
-        {
-          "title": "国台办回应岛内舆论担忧台积电先进技术外移",
-          "url": "https://wallstreetcn.com/livenews/3022085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 12时06分]"
-        },
-        {
-          "title": "星宸科技(301536.SZ)：目前与英伟达没有合作",
-          "url": "https://www.gelonghui.com/news/5136679",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "Nebius发布搭载英伟达Blackwell Ultra芯片新一代AI云平台",
-          "url": "https://api3.cls.cn/share/article/2232692?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
+          "time_info": "22时50分"
         }
       ]
     },
@@ -2451,6 +2533,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股异动丨锂矿股集体上涨，机构预测储能扩张将推动全球锂市明年供不应求",
+          "url": "https://www.gelonghui.com/news/5136708",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "中国中车：公司及下属企业近期签订合计533.1亿元合同 风电和储能设备销售合同约166.5亿元",
+          "url": "https://api3.cls.cn/share/article/2232381?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 18时25分]"
+        },
+        {
+          "title": "赣锋锂业：储能电芯产能目前处于满产状态",
+          "url": "https://api3.cls.cn/share/article/2232256?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
         }
       ]
     },
@@ -2679,7 +2802,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         }
@@ -2706,36 +2829,6 @@
           "source": "格隆汇",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国中车：公司及下属企业近期签订合计533.1亿元合同 风电和储能设备销售合同约166.5亿元",
-          "url": "https://api3.cls.cn/share/article/2232381?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时25分]"
-        },
-        {
-          "title": "赣锋锂业：储能电芯产能目前处于满产状态",
-          "url": "https://api3.cls.cn/share/article/2232256?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
