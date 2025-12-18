@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T03:18:36.741644+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2025-12-19T03:38:30.967790+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 03时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 03时38分]"
         },
         {
           "title": "财联社12月19日电，OpenAI推出GPT-5.2-Codex。",
@@ -24,33 +24,58 @@
           "source": "财联社电报",
           "ranks": [
             1,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 03时38分]"
+        },
+        {
+          "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
+          "url": "https://wallstreetcn.com/livenews/3023315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
+          "title": "OpenAI称正与美国能源部扩大在人工智能领域的合作。",
+          "url": "https://api3.cls.cn/share/article/2234063?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
           "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
           "url": "https://wallstreetcn.com/livenews/3023302",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 03时38分]"
         },
         {
           "title": "OpenAI：推出GPT-5.2-Codex。",
           "url": "https://wallstreetcn.com/livenews/3023301",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 03时38分]"
         },
         {
           "title": "谷歌：扩展内容透明度工具，帮助更轻松地识别人工智能生成内容。图像和视频验证现已在Gemini应用支持的所有语言和国家/地区可用。",
@@ -65,6 +90,17 @@
           "time_info": "[02时31分 ~ 03时18分]"
         },
         {
+          "title": "OpenAI：推出GPT-5.2-Codex。",
+          "url": "https://flash.jin10.com/detail/20251219022936685800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 03时38分]"
+        },
+        {
           "title": "谷歌：扩展内容透明度工具，帮助更轻松地识别人工智能生成内容。图像和视频验证现已在Gemini应用支持的所有语言和国家/地区可用。",
           "url": "https://flash.jin10.com/detail/20251219010932230800",
           "source": "金十数据",
@@ -74,17 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
-        },
-        {
-          "title": "OpenAI：推出GPT-5.2-Codex。",
-          "url": "https://flash.jin10.com/detail/20251219022936685800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
         },
         {
           "title": "OpenAI与美国高校密集合作，在AI教育赛道抢得头筹",
@@ -101,8 +126,30 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "英伟达(NVDA.O)：与美国政府将通过具有里程碑意义的“创世纪计划”，加大对人工智能基础设施和研发投资。与美国能源部签署谅解备忘录，以明确合作重点，助力加速科学发现。",
+          "url": "https://flash.jin10.com/detail/20251219030614228800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 03时38分]"
+        },
+        {
+          "title": "财联社12月19日电，英伟达与美国政府将通过具有里程碑意义的“创世纪计划”推动人工智能基础设施及研发投资，英伟达将向美国能源部（DOE）提供服务，以整合一个汇聚美国政府、产业界与学术界的发现平台。",
+          "url": "https://api3.cls.cn/share/article/2234064?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
         {
           "title": "美国国会山民主党成员们调查涉及商务部长卢特尼克的利益冲突问题。 他们询问，卢特尼克是否从人工智能（AI）数据中心渔利。 他们就此发函商务部监督机构，信件的落款日期为12月17日。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3023277",
@@ -113,17 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：与美国政府将通过具有里程碑意义的“创世纪计划”，加大对人工智能基础设施和研发投资。与美国能源部签署谅解备忘录，以明确合作重点，助力加速科学发现。",
-          "url": "https://flash.jin10.com/detail/20251219030614228800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
         },
         {
           "title": "财联社12月18日电，美股AI应用软件股走高，Palantir涨超5%，Reddit涨超7%，Applovin涨超6%。",
@@ -163,24 +199,24 @@
           "time_info": "[01时47分 ~ 02时31分]"
         },
         {
-          "title": "微软、谷歌等24家公司加入美国政府的人工智能“创世使命”",
-          "url": "https://api3.cls.cn/share/article/2234042?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
           "title": "网络安全公司Mandiant的创始人Kevin Mandia（该公司谷歌以54 亿美元收购）成立了一家名为Armadin的新公司，旨在应对人工智能黑客攻击带来的迫在眉睫的威胁。Armadin正寻求在A轮融资中筹集1亿美元或更多，融资轮估值可能高达6亿美元或更高。",
           "url": "https://flash.jin10.com/detail/20251219022756138800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 03时38分]"
+        },
+        {
+          "title": "微软、谷歌等24家公司加入美国政府的人工智能“创世使命”",
+          "url": "https://api3.cls.cn/share/article/2234042?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         }
@@ -198,8 +234,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 03时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 03时38分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌1.54%，暂报3566.29点，整体呈现出U形走势。 Solana目前涨3.12%，狗狗币涨1.39%，XRP涨1.74%。 最近24小时，MarketVector数字资产100涨1.34%，暂报18045.14点，北京时间21:00开始一波显著的上涨行情。 比特币目前涨2.41%，暂报88041.96美元，以太坊涨4.33%，报2944美元。",
@@ -220,11 +256,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 03时38分]"
         },
         {
           "title": "美国批评南非拘押美国官员，宣称不会容忍南非对美国官员的行为。 南非股指目前重新涨超0.1%，兰特兑美元短线走低，跌0.1%刷新日低至16.7946兰特。",
@@ -273,9 +310,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 03时38分]"
         }
       ]
     },
@@ -291,8 +328,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 03时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 03时38分]"
         },
         {
           "title": "财联社12月19日电，英伟达表示，英伟达RTX PRO 5000 72GB BLACKWELL GPU现已全面上市。",
@@ -334,8 +371,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 03时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 03时38分]"
         },
         {
           "title": "星链：卫星当前的飞行轨迹将使其位于国际空间站下方，不会对在轨实验室及其宇航员构成任何风险。",
@@ -375,8 +412,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 03时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 03时38分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，成分股美光科技涨11.3%，核电股Constellation Energy（CEG）涨7.7%，Applovin涨6.6%，拉姆研究涨6.2%，露露柠檬涨5.4%，特斯拉涨3.8%，Strategy（MSTR）涨3.7%，AMD涨3.2%。 标普500质素目前涨1.4%，道指涨448点涨幅超过0.9%，纳指涨1.9%，半导体指数涨3.5%，银行指数涨0.9%。",
@@ -415,9 +452,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 03时38分]"
         },
         {
           "title": "美国白宫关于私人行业AI合作伙伴关系的声明：亚马逊、谷歌等24家公司加入美国AI“Genesis Mission”。 英伟达、CoreWeave、AMD、Accenture也加入这个AI项目。",
@@ -457,8 +494,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 03时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 03时38分]"
         },
         {
           "title": "王力宏全球首个机器人舞台秀",
@@ -487,8 +524,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 03时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 03时38分]"
         }
       ]
     },
@@ -505,8 +542,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 03时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 03时38分]"
         }
       ]
     },
@@ -521,9 +558,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 03时38分]"
         }
       ]
     }
