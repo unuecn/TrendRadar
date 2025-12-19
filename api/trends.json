@@ -1,12 +1,74 @@
 {
-  "generated_at": "2025-12-20T00:52:03.855514+08:00",
-  "total_titles_processed": 259,
+  "generated_at": "2025-12-20T01:19:14.291160+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "财联社12月19日电，纳斯达克100指数涨幅扩大至1%。英伟达涨幅扩大至3.0%。",
+          "url": "https://api3.cls.cn/share/article/2235255?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 00时52分]"
+        },
+        {
+          "title": "美国联邦贸易委员会（FTC）：英伟达(NVDA.O)与英特尔(INTC.O)的交易已获美国反垄断机构批准。",
+          "url": "https://flash.jin10.com/detail/20251220004819249800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "伯恩斯坦：英伟达目前估值具有高回报潜力",
+          "url": "https://flash.jin10.com/detail/20251220004402276800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至1.2%，成分股美光科技涨7.9%，拼多多涨6%，AMD涨4.8%，Strategy涨3.8%，英伟达涨3.3%表现靠前，星巴克跌0.5%，Adobe跌0.7%，露露柠檬跌1%，Paychex跌3.5%。 标普500指数涨0.7%，道指涨264点涨幅0.55%，纳指涨230点涨幅超过1%。",
+          "url": "https://wallstreetcn.com/livenews/3024038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 2,
       "titles": [
+        {
+          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
+          "url": "https://wallstreetcn.com/articles/3761690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时19分]"
+        },
         {
           "title": "并行科技：拟采购算力服务器等资产",
           "url": "https://api3.cls.cn/share/article/2235249?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -18,17 +80,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 00时52分]"
-        },
-        {
-          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
-          "url": "https://wallstreetcn.com/articles/3761690",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
         }
       ]
     },
@@ -42,11 +93,12 @@
           "source": "财联社电报",
           "ranks": [
             2,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "联合国贸发会议：2033年人工智能将成最具主导性前沿技术",
@@ -63,35 +115,6 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "财联社12月19日电，纳斯达克100指数涨幅扩大至1%。英伟达涨幅扩大至3.0%。",
-          "url": "https://api3.cls.cn/share/article/2235255?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 00时52分]"
-        },
-        {
-          "title": "纳斯达克100指数涨幅扩大至1.2%，成分股美光科技涨7.9%，拼多多涨6%，AMD涨4.8%，Strategy涨3.8%，英伟达涨3.3%表现靠前，星巴克跌0.5%，Adobe跌0.7%，露露柠檬跌1%，Paychex跌3.5%。 标普500指数涨0.7%，道指涨264点涨幅0.55%，纳指涨230点涨幅超过1%。",
-          "url": "https://wallstreetcn.com/livenews/3024038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 黄金",
       "match_count": 1,
       "titles": [
@@ -103,8 +126,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌0.30%，暂报3552.51点，最近七天累计下跌9.01%，整体持续走低。 目前（周五纽约中午），Solana涨6.63%，狗狗币涨8.42%，XRP涨4.53%。 MarketVector数字资产100指数涨0.29%，暂报18057.99点，最近七天累跌2.86%。 比特币目前涨3.7%，报88071美元，以太坊涨6.4%，报2968.53美元。",
+          "url": "https://wallstreetcn.com/livenews/3024093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
         }
       ]
     },
@@ -117,11 +157,12 @@
           "url": "https://www.cls.cn/detail/2234804",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
         }
       ]
     },
@@ -137,8 +178,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
         }
       ]
     },
@@ -154,8 +195,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
         }
       ]
     },
