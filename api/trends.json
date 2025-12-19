@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T13:21:59.822011+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2025-12-19T13:46:01.879586+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时31分 ~ 07时41分]"
+        },
+        {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 13时46分]"
         },
         {
           "title": "OpenAI称正与美国能源部扩大在人工智能领域的合作。",
@@ -70,19 +83,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
-          "url": "https://www.cls.cn/detail/2234101",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时24分 ~ 13时21分]"
         },
         {
           "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
@@ -292,7 +292,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "财联社12月19日电，英伟达与美国政府将通过具有里程碑意义的“创世纪计划”推动人工智能基础设施及研发投资，英伟达将向美国能源部（DOE）提供服务，以整合一个汇聚美国政府、产业界与学术界的发现平台。",
@@ -307,6 +307,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时38分 ~ 05时40分]"
+        },
+        {
+          "title": "IBM(IBM.N)承诺到2030年为500万印度人提供人工智能、网络安全和量子技术技能培训。",
+          "url": "https://flash.jin10.com/detail/20251219132517022800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 13时46分]"
         },
         {
           "title": "据华尔街日报：Meta正在开发代号为“Mango”的新型人工智能图像及视频模型。",
@@ -825,11 +836,12 @@
           "url": "https://www.gelonghui.com/news/5137627",
           "source": "格隆汇",
           "ranks": [
-            2
+            2,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 13时46分]"
         },
         {
           "title": "英伟达(NVDA.O)：英伟达RTX PRO 5000 72GB BLACKWELL GPU现已全面上市。",
@@ -1141,8 +1153,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 13时21分]"
+          "appearance_count": 28,
+          "time_info": "[00时31分 ~ 13时46分]"
         },
         {
           "title": "雷达数据显示美军战机在委内瑞拉首都附近空域活动",
@@ -1150,11 +1162,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 13时46分]"
         },
         {
           "title": "雷达数据显示美军战机在委内瑞拉首都附近空域活动",
@@ -1162,11 +1175,90 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            24
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 13时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "富宝资讯：碳酸锂期货盘面震荡运行，富宝电池级碳酸锂报99550元/吨",
+          "url": "https://flash.jin10.com/detail/20251219132345078800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时21分]"
+          "time_info": "[13时45分 ~ 13时46分]"
+        },
+        {
+          "title": "财联社12月19日电，碳酸锂主力合约日内涨超4%。",
+          "url": "https://api3.cls.cn/share/article/2234475?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 13时46分]"
+        },
+        {
+          "title": "商品期货开盘，对二甲苯、钯、不锈钢、PTA主力合约涨超2%，沪镍、短纤、集运欧线、焦炭涨超1%。多晶硅跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3023439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "脑机接口医疗器械工作推进会召开",
+          "url": "https://wallstreetcn.com/livenews/3023603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "美好医疗(301363.SZ)：正与下游脑机接口客户深入开展产品合作",
+          "url": "https://www.gelonghui.com/news/5137572",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "国家药监局在北京召开脑机接口医疗器械工作推进会",
+          "url": "https://api3.cls.cn/share/article/2234382?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
         }
       ]
     },
@@ -1238,8 +1330,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 13时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时40分 ~ 13时46分]"
         }
       ]
     },
@@ -1256,8 +1348,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 13时46分]"
         },
         {
           "title": "安徽“十五五”规划建议：推动量子科技、氢能和核聚变能、脑机接口等成为新的经济增长点",
@@ -1283,11 +1375,12 @@
           "ranks": [
             3,
             6,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 13时46分]"
         },
         {
           "title": "ETF午评 ｜ 创新药板块领涨，港股医疗ETF、港股通医疗ETF涨3%",
@@ -1329,34 +1422,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美好医疗(301363.SZ)：正与下游脑机接口客户深入开展产品合作",
-          "url": "https://www.gelonghui.com/news/5137572",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "国家药监局在北京召开脑机接口医疗器械工作推进会",
-          "url": "https://api3.cls.cn/share/article/2234382?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
         }
       ]
     },
@@ -1408,23 +1473,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "商品期货开盘，对二甲苯、钯、不锈钢、PTA主力合约涨超2%，沪镍、短纤、集运欧线、焦炭涨超1%。多晶硅跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3023439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
         }
       ]
     },
