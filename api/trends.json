@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T22:46:58.259497+08:00",
-  "total_titles_processed": 2454,
+  "generated_at": "2025-12-19T23:22:21.308271+08:00",
+  "total_titles_processed": 2557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -83,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "美股异动丨甲骨文大涨超8%，与OpenAI在密歇根州数据中心电力供应获批",
+          "url": "https://www.gelonghui.com/news/5138339",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
@@ -1012,17 +1023,6 @@
           "time_info": "[00时31分 ~ 01时47分]"
         },
         {
-          "title": "并行科技：拟采购算力服务器等资产",
-          "url": "https://api3.cls.cn/share/article/2235249?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
           "title": "天数智芯通过港交所聆讯，港股迎来重磅通用GPU稀缺标的",
           "url": "https://www.gelonghui.com/news/5137627",
           "source": "格隆汇",
@@ -1057,6 +1057,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "并行科技：拟采购算力服务器等资产",
+          "url": "https://api3.cls.cn/share/article/2235249?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 23时22分]"
         },
         {
           "title": "太阳能(000591.SZ)：公司暂未涉及太空算力卫星服务",
@@ -1564,7 +1576,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -1582,118 +1594,9 @@
       ]
     },
     {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "【焦点复盘】沪指3连阳收复20日均线，全市场超4400股飘红，智能驾驶概念再度爆发",
-          "url": "https://www.cls.cn/detail/2234804",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时24分 ~ 22时46分]"
-        },
-        {
-          "title": "美股异动丨智能驾驶概念股盘前集体走强，小马智行涨超4%",
-          "url": "https://www.gelonghui.com/news/5137901",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时47分]"
-        },
-        {
-          "title": "岚图L3级自动驾驶完成11万公里实测，加速推进量产准入",
-          "url": "https://wallstreetcn.com/livenews/3024015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时46分]"
-        },
-        {
-          "title": "港股智能驾驶概念股集体走强，佑驾创新涨15%",
-          "url": "https://www.gelonghui.com/news/5137597",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "岚图L3级有条件自动驾驶进入实际道路测试",
-          "url": "https://api3.cls.cn/share/article/2235237?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "A股异动丨无人驾驶概念再度活跃，L3级自动驾驶法规正式落地将成明年行业发展关键催化剂",
-          "url": "https://www.gelonghui.com/news/5137592",
-          "source": "格隆汇",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "股汽车ETF、港股通汽车ETF、香港汽车ETF涨超3%，智能驾驶概念持续活跃",
-          "url": "https://www.gelonghui.com/news/5137642",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "小米汽车获L3级自动驾驶道路测试牌照",
-          "url": "https://api3.cls.cn/share/article/2235162?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "Bernstein： 英伟达估值较费城半导体指数出现历史性折让",
-          "url": "https://wallstreetcn.com/livenews/3024033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
         {
           "title": "英伟达(NVDA.O)：将为美国能源部提供服务，整合一个连接美国政府、产业界和学术界的探索平台。",
           "url": "https://flash.jin10.com/detail/20251219030701396800",
@@ -1705,6 +1608,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 04时21分]"
+        },
+        {
+          "title": "Bernstein： 英伟达估值较费城半导体指数出现历史性折让",
+          "url": "https://wallstreetcn.com/livenews/3024033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 23时22分]"
         },
         {
           "title": "神州数码：公司与英伟达保持着良好合作关系 经销多个系列的英伟达产品",
@@ -1754,6 +1669,17 @@
           "time_info": "[02时31分 ~ 03时18分]"
         },
         {
+          "title": "财联社12月19日电，纳斯达克100指数涨幅扩大至1%。英伟达涨幅扩大至3.0%。",
+          "url": "https://api3.cls.cn/share/article/2235255?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "美国贸易代表格里尔：英伟达(NVDA.O) H200出口是“单独”的事项。",
           "url": "https://flash.jin10.com/detail/20251219211951905800",
           "source": "金十数据",
@@ -1774,6 +1700,127 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至1.2%，成分股美光科技涨7.9%，拼多多涨6%，AMD涨4.8%，Strategy涨3.8%，英伟达涨3.3%表现靠前，星巴克跌0.5%，Adobe跌0.7%，露露柠檬跌1%，Paychex跌3.5%。 标普500指数涨0.7%，道指涨264点涨幅0.55%，纳指涨230点涨幅超过1%。",
+          "url": "https://wallstreetcn.com/livenews/3024038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "英伟达(NVDA.O)涨幅扩大至3.0%。",
+          "url": "https://flash.jin10.com/detail/20251219224408763800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指3连阳收复20日均线，全市场超4400股飘红，智能驾驶概念再度爆发",
+          "url": "https://www.cls.cn/detail/2234804",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[17时24分 ~ 23时22分]"
+        },
+        {
+          "title": "美股异动丨智能驾驶概念股盘前集体走强，小马智行涨超4%",
+          "url": "https://www.gelonghui.com/news/5137901",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时47分]"
+        },
+        {
+          "title": "岚图L3级自动驾驶完成11万公里实测，加速推进量产准入",
+          "url": "https://wallstreetcn.com/livenews/3024015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时46分]"
+        },
+        {
+          "title": "岚图L3级有条件自动驾驶进入实际道路测试",
+          "url": "https://api3.cls.cn/share/article/2235237?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 23时22分]"
+        },
+        {
+          "title": "港股智能驾驶概念股集体走强，佑驾创新涨15%",
+          "url": "https://www.gelonghui.com/news/5137597",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "A股异动丨无人驾驶概念再度活跃，L3级自动驾驶法规正式落地将成明年行业发展关键催化剂",
+          "url": "https://www.gelonghui.com/news/5137592",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "股汽车ETF、港股通汽车ETF、香港汽车ETF涨超3%，智能驾驶概念持续活跃",
+          "url": "https://www.gelonghui.com/news/5137642",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "小米汽车获L3级自动驾驶道路测试牌照",
+          "url": "https://api3.cls.cn/share/article/2235162?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         }
       ]
     },
@@ -1875,11 +1922,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时41分 ~ 22时46分]"
+          "appearance_count": 5,
+          "time_info": "[20时41分 ~ 23时22分]"
         },
         {
           "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。 预计2026年铜价的表现将优于铝价，预测在基准情景下，2026年铜价将盘整，平均价格为每吨11,400美元。 重申2035年铜价将达15,000美元的预测，并继续推荐做多铜、做空铝的交易策略。 预计到2026年底，铝价将从当前现货价格下跌19%，降至每吨2350美元。 预计到2026年底，铁矿石现货价格将下跌15%，至每吨88美元。",
@@ -2025,6 +2073,58 @@
       ]
     },
     {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "财联社12月19日电，比特币向下跌破85000美元，过去24小时内下跌1.26%。",
+          "url": "https://api3.cls.cn/share/article/2234066?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时21分 ~ 05时40分]"
+        },
+        {
+          "title": "比特币升破87000美元",
+          "url": "https://www.gelonghui.com/news/5137611",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "财联社12月19日电，比特币升破87000美元，日内涨1.6%。",
+          "url": "https://api3.cls.cn/share/article/2234367?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "比特币涨超3%，刷新日高至88467美元上方。",
+          "url": "https://wallstreetcn.com/livenews/3024041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "储能",
       "match_count": 3,
       "titles": [
@@ -2152,47 +2252,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时55分 ~ 13时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "财联社12月19日电，比特币向下跌破85000美元，过去24小时内下跌1.26%。",
-          "url": "https://api3.cls.cn/share/article/2234066?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时21分 ~ 05时40分]"
-        },
-        {
-          "title": "比特币升破87000美元",
-          "url": "https://www.gelonghui.com/news/5137611",
-          "source": "格隆汇",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
-        },
-        {
-          "title": "财联社12月19日电，比特币升破87000美元，日内涨1.6%。",
-          "url": "https://api3.cls.cn/share/article/2234367?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
         }
       ]
     },
@@ -2365,6 +2424,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时22分 ~ 15时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中关村科技租赁(01601.HK)作为出租人与山西蓝科途新材料科技订立融资租赁协议",
+          "url": "https://www.gelonghui.com/news/5138338",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
