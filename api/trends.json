@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T22:21:50.337891+08:00",
-  "total_titles_processed": 2403,
+  "generated_at": "2025-12-19T22:46:58.259497+08:00",
+  "total_titles_processed": 2454,
   "failed_sources": [],
   "trends": [
     {
@@ -464,6 +464,17 @@
           "time_info": "[19时18分 ~ 19时40分]"
         },
         {
+          "title": "格隆汇公告精选︱青岛港：拟投资90.97亿元建设董家口集装箱码头一期工程；华体科技：不涉及商业航天相关业务",
+          "url": "https://www.gelonghui.com/news/5138314",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时46分]"
+        },
+        {
           "title": "南京部分区域导航定位异常 当地卫星协会：卫星信号受到临时干扰",
           "url": "https://api3.cls.cn/share/article/2234869?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -474,17 +485,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时47分 ~ 18时23分]"
-        },
-        {
-          "title": "格隆汇公告精选︱青岛港：拟投资90.97亿元建设董家口集装箱码头一期工程；华体科技：不涉及商业航天相关业务",
-          "url": "https://www.gelonghui.com/news/5138314",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
         },
         {
           "title": "西部超导(688122.SH)：产品有应用于商业航天领域",
@@ -880,6 +880,18 @@
           "time_info": "[01时47分 ~ 02时31分]"
         },
         {
+          "title": "美国纽约联储主席威廉姆斯：预计2025年GDP增速为1%至1.5%，但明年将有所回升。 预计2025年GDP增速约为2.25%。 生产率提升对经济有利。 对经济基本情形感到相当乐观。 目前并不认为人工智能是金融体系的系统性风险。 美联储不应试图预判市场出现错误。",
+          "url": "https://wallstreetcn.com/livenews/3024001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时46分]"
+        },
+        {
           "title": "网络安全公司Mandiant的创始人Kevin Mandia（该公司谷歌以54 亿美元收购）成立了一家名为Armadin的新公司，旨在应对人工智能黑客攻击带来的迫在眉睫的威胁。Armadin正寻求在A轮融资中筹集1亿美元或更多，融资轮估值可能高达6亿美元或更高。",
           "url": "https://flash.jin10.com/detail/20251219022756138800",
           "source": "金十数据",
@@ -908,7 +920,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -933,17 +945,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：预计2025年GDP增速为1%至1.5%，但明年将有所回升。 预计2025年GDP增速约为2.25%。 生产率提升对经济有利。 对经济基本情形感到相当乐观。 目前并不认为人工智能是金融体系的系统性风险。 美联储不应试图预判市场出现错误。",
-          "url": "https://wallstreetcn.com/livenews/3024001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
         },
         {
           "title": "微软、谷歌等24家公司加入美国政府的人工智能“创世使命”",
@@ -977,6 +978,162 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "英威腾(002334.SZ)：公司暂无可以应用于太空算力的产品",
+          "url": "https://www.gelonghui.com/news/5137508",
+          "source": "格隆汇",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 06时44分]"
+        },
+        {
+          "title": "财联社12月19日电，英伟达表示，英伟达RTX PRO 5000 72GB BLACKWELL GPU现已全面上市。",
+          "url": "https://api3.cls.cn/share/article/2234023?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5,
+            8,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 01时47分]"
+        },
+        {
+          "title": "并行科技：拟采购算力服务器等资产",
+          "url": "https://api3.cls.cn/share/article/2235249?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "天数智芯通过港交所聆讯，港股迎来重磅通用GPU稀缺标的",
+          "url": "https://www.gelonghui.com/news/5137627",
+          "source": "格隆汇",
+          "ranks": [
+            2,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 14时32分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：英伟达RTX PRO 5000 72GB BLACKWELL GPU现已全面上市。",
+          "url": "https://flash.jin10.com/detail/20251219000902047800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 00时57分]"
+        },
+        {
+          "title": "科华数据(002335.SZ)：与沐曦股份已联合推出高密度液冷算力POD",
+          "url": "https://www.gelonghui.com/news/5137573",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "太阳能(000591.SZ)：公司暂未涉及太空算力卫星服务",
+          "url": "https://www.gelonghui.com/news/5137671",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "优刻得与海光信息深化算力合作，将共建联合实验室",
+          "url": "https://wallstreetcn.com/livenews/3023627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "【盘中宝】美国电力短缺已制约其AI发展，英伟达黄仁勋认为算力需求爆发将挑战传统能源供应，这家企业产品已进入海外供应体系",
+          "url": "https://api3.cls.cn/share/article/2234224?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "优刻得与海光信息深化算力合作 将共建联合实验室",
+          "url": "https://api3.cls.cn/share/article/2234505?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "全国首个高海拔岩洞式算力舱智算中心投运",
+          "url": "https://api3.cls.cn/share/article/2234324?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "【电报解读】又一GPU企业通过港交所上市聆讯，机构称国产厂商有望深度受益AI时代GPU快速扩张的需求，这家公司间接参股该GPU企业",
+          "url": "https://api3.cls.cn/share/article/2234315?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "联动科技：新产品QT-9800SoC测试系统已顺利完成实验室验证的工作",
+          "url": "https://api3.cls.cn/share/article/2234937?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         }
       ]
     },
@@ -1141,151 +1298,6 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "英威腾(002334.SZ)：公司暂无可以应用于太空算力的产品",
-          "url": "https://www.gelonghui.com/news/5137508",
-          "source": "格隆汇",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 06时44分]"
-        },
-        {
-          "title": "财联社12月19日电，英伟达表示，英伟达RTX PRO 5000 72GB BLACKWELL GPU现已全面上市。",
-          "url": "https://api3.cls.cn/share/article/2234023?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5,
-            8,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 01时47分]"
-        },
-        {
-          "title": "天数智芯通过港交所聆讯，港股迎来重磅通用GPU稀缺标的",
-          "url": "https://www.gelonghui.com/news/5137627",
-          "source": "格隆汇",
-          "ranks": [
-            2,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 14时32分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：英伟达RTX PRO 5000 72GB BLACKWELL GPU现已全面上市。",
-          "url": "https://flash.jin10.com/detail/20251219000902047800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 00时57分]"
-        },
-        {
-          "title": "科华数据(002335.SZ)：与沐曦股份已联合推出高密度液冷算力POD",
-          "url": "https://www.gelonghui.com/news/5137573",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "太阳能(000591.SZ)：公司暂未涉及太空算力卫星服务",
-          "url": "https://www.gelonghui.com/news/5137671",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 15时43分]"
-        },
-        {
-          "title": "优刻得与海光信息深化算力合作，将共建联合实验室",
-          "url": "https://wallstreetcn.com/livenews/3023627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "【盘中宝】美国电力短缺已制约其AI发展，英伟达黄仁勋认为算力需求爆发将挑战传统能源供应，这家企业产品已进入海外供应体系",
-          "url": "https://api3.cls.cn/share/article/2234224?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "优刻得与海光信息深化算力合作 将共建联合实验室",
-          "url": "https://api3.cls.cn/share/article/2234505?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "全国首个高海拔岩洞式算力舱智算中心投运",
-          "url": "https://api3.cls.cn/share/article/2234324?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "【电报解读】又一GPU企业通过港交所上市聆讯，机构称国产厂商有望深度受益AI时代GPU快速扩张的需求，这家公司间接参股该GPU企业",
-          "url": "https://api3.cls.cn/share/article/2234315?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "联动科技：新产品QT-9800SoC测试系统已顺利完成实验室验证的工作",
-          "url": "https://api3.cls.cn/share/article/2234937?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 12,
       "titles": [
@@ -1427,7 +1439,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1546,6 +1558,17 @@
           "time_info": "[17时24分 ~ 17时47分]"
         },
         {
+          "title": "行业ETF美股盘初多数上涨，半导体ETF涨2.1%，科技行业ETF、全球科技股指数ETF至多涨超1.3%，网络股指数ETF涨0.5%，可选消费ETF跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3024030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "美国批评南非拘押美国官员，宣称不会容忍南非对美国官员的行为。 南非股指目前重新涨超0.1%，兰特兑美元短线走低，跌0.1%刷新日低至16.7946兰特。",
           "url": "https://wallstreetcn.com/livenews/3023226",
           "source": "华尔街见闻-快讯",
@@ -1560,7 +1583,7 @@
     },
     {
       "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【焦点复盘】沪指3连阳收复20日均线，全市场超4400股飘红，智能驾驶概念再度爆发",
@@ -1573,8 +1596,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时24分 ~ 22时21分]"
+          "appearance_count": 11,
+          "time_info": "[17时24分 ~ 22时46分]"
         },
         {
           "title": "美股异动丨智能驾驶概念股盘前集体走强，小马智行涨超4%",
@@ -1592,11 +1615,12 @@
           "url": "https://wallstreetcn.com/livenews/3024015",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时46分]"
         },
         {
           "title": "港股智能驾驶概念股集体走强，佑驾创新涨15%",
@@ -1608,6 +1632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "岚图L3级有条件自动驾驶进入实际道路测试",
+          "url": "https://api3.cls.cn/share/article/2235237?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "A股异动丨无人驾驶概念再度活跃，L3级自动驾驶法规正式落地将成明年行业发展关键催化剂",
@@ -1646,8 +1681,19 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "Bernstein： 英伟达估值较费城半导体指数出现历史性折让",
+          "url": "https://wallstreetcn.com/livenews/3024033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
         {
           "title": "英伟达(NVDA.O)：将为美国能源部提供服务，整合一个连接美国政府、产业界和学术界的探索平台。",
           "url": "https://flash.jin10.com/detail/20251219030701396800",
@@ -1832,8 +1878,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 22时21分]"
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 22时46分]"
         },
         {
           "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。 预计2026年铜价的表现将优于铝价，预测在基准情景下，2026年铜价将盘整，平均价格为每吨11,400美元。 重申2035年铜价将达15,000美元的预测，并继续推荐做多铜、做空铝的交易策略。 预计到2026年底，铝价将从当前现货价格下跌19%，降至每吨2350美元。 预计到2026年底，铁矿石现货价格将下跌15%，至每吨88美元。",
