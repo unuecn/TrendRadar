@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T12:55:07.711919+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2025-12-19T13:21:59.822011+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
@@ -72,6 +72,19 @@
           "time_info": "06时20分"
         },
         {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 13时21分]"
+        },
+        {
           "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
           "url": "https://wallstreetcn.com/livenews/3023302",
           "source": "华尔街见闻-快讯",
@@ -98,18 +111,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时18分 ~ 04时43分]"
-        },
-        {
-          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
-          "url": "https://www.cls.cn/detail/2234101",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 12时55分]"
         },
         {
           "title": "财联社12月19日电，OpenAI计划以8300亿美元估值融资高达1000亿美元。",
@@ -790,6 +791,105 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "英威腾(002334.SZ)：公司暂无可以应用于太空算力的产品",
+          "url": "https://www.gelonghui.com/news/5137508",
+          "source": "格隆汇",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 06时44分]"
+        },
+        {
+          "title": "财联社12月19日电，英伟达表示，英伟达RTX PRO 5000 72GB BLACKWELL GPU现已全面上市。",
+          "url": "https://api3.cls.cn/share/article/2234023?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5,
+            8,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 01时47分]"
+        },
+        {
+          "title": "天数智芯通过港交所聆讯，港股迎来重磅通用GPU稀缺标的",
+          "url": "https://www.gelonghui.com/news/5137627",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：英伟达RTX PRO 5000 72GB BLACKWELL GPU现已全面上市。",
+          "url": "https://flash.jin10.com/detail/20251219000902047800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 00时57分]"
+        },
+        {
+          "title": "科华数据(002335.SZ)：与沐曦股份已联合推出高密度液冷算力POD",
+          "url": "https://www.gelonghui.com/news/5137573",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "【盘中宝】美国电力短缺已制约其AI发展，英伟达黄仁勋认为算力需求爆发将挑战传统能源供应，这家企业产品已进入海外供应体系",
+          "url": "https://api3.cls.cn/share/article/2234224?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "全国首个高海拔岩洞式算力舱智算中心投运",
+          "url": "https://api3.cls.cn/share/article/2234324?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "【电报解读】又一GPU企业通过港交所上市聆讯，机构称国产厂商有望深度受益AI时代GPU快速扩张的需求，这家公司间接参股该GPU企业",
+          "url": "https://api3.cls.cn/share/article/2234315?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 8,
       "titles": [
@@ -888,94 +988,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 01时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "英威腾(002334.SZ)：公司暂无可以应用于太空算力的产品",
-          "url": "https://www.gelonghui.com/news/5137508",
-          "source": "格隆汇",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 06时44分]"
-        },
-        {
-          "title": "财联社12月19日电，英伟达表示，英伟达RTX PRO 5000 72GB BLACKWELL GPU现已全面上市。",
-          "url": "https://api3.cls.cn/share/article/2234023?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5,
-            8,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 01时47分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：英伟达RTX PRO 5000 72GB BLACKWELL GPU现已全面上市。",
-          "url": "https://flash.jin10.com/detail/20251219000902047800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 00时57分]"
-        },
-        {
-          "title": "科华数据(002335.SZ)：与沐曦股份已联合推出高密度液冷算力POD",
-          "url": "https://www.gelonghui.com/news/5137573",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "【盘中宝】美国电力短缺已制约其AI发展，英伟达黄仁勋认为算力需求爆发将挑战传统能源供应，这家企业产品已进入海外供应体系",
-          "url": "https://api3.cls.cn/share/article/2234224?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "全国首个高海拔岩洞式算力舱智算中心投运",
-          "url": "https://api3.cls.cn/share/article/2234324?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "【电报解读】又一GPU企业通过港交所上市聆讯，机构称国产厂商有望深度受益AI时代GPU快速扩张的需求，这家公司间接参股该GPU企业",
-          "url": "https://api3.cls.cn/share/article/2234315?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
         }
       ]
     },
@@ -1129,30 +1141,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 12时55分]"
+          "appearance_count": 26,
+          "time_info": "[00时31分 ~ 13时21分]"
         },
         {
           "title": "雷达数据显示美军战机在委内瑞拉首都附近空域活动",
           "url": "https://flash.jin10.com/detail/20251219121721393800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 13时21分]"
         },
         {
           "title": "雷达数据显示美军战机在委内瑞拉首都附近空域活动",
           "url": "https://wallstreetcn.com/livenews/3023568",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 13时21分]"
         }
       ]
     },
@@ -1224,8 +1238,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 12时55分]"
+          "appearance_count": 7,
+          "time_info": "[09时40分 ~ 13时21分]"
         }
       ]
     },
@@ -1238,11 +1252,12 @@
           "url": "https://www.cls.cn/detail/2234188",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 13时21分]"
         },
         {
           "title": "安徽“十五五”规划建议：推动量子科技、氢能和核聚变能、脑机接口等成为新的经济增长点",
@@ -1267,11 +1282,12 @@
           "source": "格隆汇",
           "ranks": [
             3,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 13时21分]"
         },
         {
           "title": "ETF午评 ｜ 创新药板块领涨，港股医疗ETF、港股通医疗ETF涨3%",
@@ -1279,11 +1295,12 @@
           "source": "格隆汇",
           "ranks": [
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 13时21分]"
         }
       ]
     },
