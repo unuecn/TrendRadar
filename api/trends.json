@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T18:43:42.341615+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2025-12-20T19:16:27.556525+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 18时43分]"
+          "appearance_count": 11,
+          "time_info": "[14时31分 ~ 19时16分]"
         },
         {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
@@ -36,11 +36,12 @@
             13,
             17,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时20分 ~ 18时43分]"
+          "appearance_count": 13,
+          "time_info": "[13时20分 ~ 19时16分]"
         },
         {
           "title": "摩尔线程发布新一代GPU架构“花港”：能效提升10倍，支持十万卡以上智算集群",
@@ -153,11 +154,12 @@
           "source": "早报",
           "ranks": [
             2,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 18时43分]"
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 19时16分]"
         },
         {
           "title": "图灵量子与摩尔线程联合研发GPU与量子处理器（QPU）协同的计算架构",
@@ -168,11 +170,12 @@
             3,
             4,
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时47分 ~ 18时43分]"
+          "appearance_count": 6,
+          "time_info": "[16时47分 ~ 19时16分]"
         },
         {
           "title": "摩尔线程发布新一代GPU架构花港 支持10万卡以上规模智算集群",
@@ -216,8 +219,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时44分 ~ 18时43分]"
+          "appearance_count": 21,
+          "time_info": "[06时44分 ~ 19时16分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -231,8 +234,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时40分 ~ 18时43分]"
+          "appearance_count": 19,
+          "time_info": "[07时40分 ~ 19时16分]"
         },
         {
           "title": "美国FTC批准英伟达投资英特尔",
@@ -332,8 +335,24 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "付鹏：2026年将是AI应用的“证伪之年”，巨头们需证明自己",
+          "url": "https://wallstreetcn.com/livenews/3024250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            16,
+            19,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 19时16分]"
+        },
         {
           "title": "联合国贸发会议：2033年人工智能将成最具主导性前沿技术",
           "url": "https://api3.cls.cn/share/article/2235275?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -350,21 +369,6 @@
           "time_info": "[00时26分 ~ 02时30分]"
         },
         {
-          "title": "付鹏：2026年将是AI应用的“证伪之年”，巨头们需证明自己",
-          "url": "https://wallstreetcn.com/livenews/3024250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            16,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 18时43分]"
-        },
-        {
           "title": "消息人士：人工智能芯片公司Cerebras在推迟后即将提交美国IPO申请。",
           "url": "https://flash.jin10.com/detail/20251220020815230800",
           "source": "金十数据",
@@ -378,6 +382,17 @@
           "time_info": "[02时30分 ~ 03时38分]"
         },
         {
+          "title": "浙江：加快推动人工智能创新发展高地建设 全面实施“人工智能+”行动",
+          "url": "https://api3.cls.cn/share/article/2235506?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "财联社12月20日电，苹果据称为留任的人工智能研究员上调薪酬。",
           "url": "https://api3.cls.cn/share/article/2235313?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -389,6 +404,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时17分 ~ 04时44分]"
+        },
+        {
+          "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
+          "url": "https://wallstreetcn.com/livenews/3024278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "联合国贸发会议：2033年人工智能将成最具主导性前沿技术",
@@ -523,8 +549,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时26分 ~ 18时43分]"
+          "appearance_count": 36,
+          "time_info": "[00时26分 ~ 19时16分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -549,8 +575,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时43分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时16分]"
         }
       ]
     },
@@ -631,24 +657,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "马斯克转发宇树机器人伴舞视频并留言：印象深刻。",
-          "url": "https://flash.jin10.com/detail/20251220133230149800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2,
-            6,
-            10,
-            11,
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 18时43分]"
-        },
-        {
           "title": "马斯克转发宇树机器人伴舞视频：印象深刻",
           "url": "https://wallstreetcn.com/livenews/3024244",
           "source": "华尔街见闻-快讯",
@@ -666,6 +674,25 @@
           "time_info": "[13时45分 ~ 18时43分]"
         },
         {
+          "title": "马斯克转发宇树机器人伴舞视频并留言：印象深刻。",
+          "url": "https://flash.jin10.com/detail/20251220133230149800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            6,
+            10,
+            11,
+            15,
+            16,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时31分 ~ 19时16分]"
+        },
+        {
           "title": "养老机器人",
           "url": "https://s.weibo.com/weibo?q=%E5%85%BB%E8%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -675,8 +702,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时43分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时16分]"
         }
       ]
     },
@@ -764,8 +791,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时45分 ~ 18时43分]"
+          "appearance_count": 12,
+          "time_info": "[13时45分 ~ 19时16分]"
         }
       ]
     },
@@ -783,8 +810,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时59分 ~ 18时43分]"
+          "appearance_count": 17,
+          "time_info": "[10时59分 ~ 19时16分]"
         },
         {
           "title": "【焦点复盘】沪指3连阳收复20日均线，全市场超4400股飘红，智能驾驶概念再度爆发",
@@ -818,8 +845,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 18时43分]"
+          "appearance_count": 11,
+          "time_info": "[14时31分 ~ 19时16分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -830,8 +857,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 18时43分]"
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 19时16分]"
         }
       ]
     },
@@ -899,8 +926,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时26分 ~ 18时43分]"
+          "appearance_count": 36,
+          "time_info": "[00时26分 ~ 19时16分]"
         }
       ]
     }
