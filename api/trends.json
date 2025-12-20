@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T09:27:13.447050+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2025-12-20T10:59:50.700875+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时44分 ~ 09时27分]"
+          "appearance_count": 5,
+          "time_info": "[06时44分 ~ 10时59分]"
         },
         {
           "title": "美国FTC批准英伟达投资英特尔",
@@ -46,6 +46,18 @@
           "time_info": "[07时40分 ~ 09时27分]"
         },
         {
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时40分 ~ 10时59分]"
+        },
+        {
           "title": "财联社12月19日电，纳斯达克100指数涨幅扩大至1%。英伟达涨幅扩大至3.0%。",
           "url": "https://api3.cls.cn/share/article/2235255?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -69,25 +81,13 @@
           "time_info": "[05时19分 ~ 05时40分]"
         },
         {
-          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
-          "url": "https://www.cls.cn/detail/2235346",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 09时27分]"
-        },
-        {
           "title": "美股收盘：三大股指收涨 英伟达涨近4%",
           "url": "https://flash.jin10.com/detail/20251220080957264800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -276,50 +276,8 @@
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股异动丨甲骨文大涨超8%，与OpenAI在密歇根州数据中心电力供应获批",
-          "url": "https://www.gelonghui.com/news/5138339",
-          "source": "格隆汇",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 09时27分]"
-        },
-        {
-          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
-          "url": "https://wallstreetcn.com/articles/3761711",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 09时27分]"
-        },
-        {
-          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
-          "url": "https://wallstreetcn.com/livenews/3024206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -333,8 +291,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时51分 ~ 09时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 10时59分]"
+        },
+        {
+          "title": "摩尔线程发布新一代GPU架构“花港”：能效提升10倍，支持十万卡以上智算集群",
+          "url": "https://wallstreetcn.com/livenews/3024227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "摩尔线程发布新一代GPU架构花港 支持10万卡以上规模智算集群",
+          "url": "https://api3.cls.cn/share/article/2235405?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "并行科技：拟采购算力服务器等资产",
@@ -347,6 +327,80 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 00时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股异动丨甲骨文大涨超8%，与OpenAI在密歇根州数据中心电力供应获批",
+          "url": "https://www.gelonghui.com/news/5138339",
+          "source": "格隆汇",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 10时59分]"
+        },
+        {
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时20分 ~ 10时59分]"
+        },
+        {
+          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
+          "url": "https://wallstreetcn.com/livenews/3024206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 10时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指3连阳收复20日均线，全市场超4400股飘红，智能驾驶概念再度爆发",
+          "url": "https://www.cls.cn/detail/2234804",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 10时59分]"
+        },
+        {
+          "title": "Robotaxi为特斯拉注入新叙事 但自动驾驶技术路线仍未收敛",
+          "url": "https://www.cls.cn/detail/2234730",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
@@ -435,21 +489,19 @@
       ]
     },
     {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "keyword_group": "鸿蒙 OpenHarmony 昇腾",
       "match_count": 1,
       "titles": [
         {
-          "title": "【焦点复盘】沪指3连阳收复20日均线，全市场超4400股飘红，智能驾驶概念再度爆发",
-          "url": "https://www.cls.cn/detail/2234804",
-          "source": "财联社热门",
+          "title": "时代少年团鸿蒙星光盛典开场",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E9%B8%BF%E8%92%99%E6%98%9F%E5%85%89%E7%9B%9B%E5%85%B8%E5%BC%80%E5%9C%BA%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            9,
-            11
+            16
           ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 09时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
@@ -464,7 +516,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         }
@@ -483,8 +535,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 09时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 10时59分]"
         }
       ]
     }
