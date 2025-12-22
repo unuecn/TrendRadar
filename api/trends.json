@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T14:35:25.763918+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2025-12-22T15:24:46.347071+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "商业航天龙头月内股价涨超130% 梳理产业链价值量居前A股名单",
@@ -18,6 +18,21 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
+          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
+          "url": "https://wallstreetcn.com/articles/3761799",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 30,
+          "time_info": "[00时23分 ~ 15时24分]"
         },
         {
           "title": "美国“星链”一颗卫星或爆炸失联",
@@ -35,20 +50,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时23分 ~ 05时40分]"
-        },
-        {
-          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
-          "url": "https://wallstreetcn.com/articles/3761799",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时23分 ~ 14时35分]"
         },
         {
           "title": "美国“星链”一颗卫星或爆炸失联",
@@ -75,8 +76,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 14时35分]"
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 15时24分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -101,13 +102,24 @@
           "time_info": "09时45分"
         },
         {
+          "title": "日本导航卫星“引路5号”可能无法入轨",
+          "url": "https://www.zaochenbao.com/news/politics/202512/2260390.html",
+          "source": "早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "美星链卫星异常或威胁其他卫星",
           "url": "https://api3.cls.cn/share/article/2236253?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -255,7 +267,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国机器人在国际机器人格斗赛夺冠",
@@ -290,6 +302,17 @@
           "is_new": false,
           "appearance_count": 25,
           "time_info": "[00时23分 ~ 11时43分]"
+        },
+        {
+          "title": "现代汽车集团将阐述通过人机协作加速人工智能机器人商业化的战略。",
+          "url": "https://flash.jin10.com/detail/20251222150907994800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "A股机器人概念股异动拉升，首开股份直线涨停，景兴纸业、襄阳轴承、长盛轴承等冲高。",
@@ -383,6 +406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "大叶股份(300879.SZ)：公司目前已按时向欧盟提交割草机器人反倾销调查问卷",
+          "url": "https://www.gelonghui.com/news/5138545",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
@@ -390,6 +424,18 @@
       "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
       "match_count": 10,
       "titles": [
+        {
+          "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
+          "url": "https://www.cls.cn/detail/2235799",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时45分 ~ 15时24分]"
+        },
         {
           "title": "重庆发出中国首张L3自动驾驶专用正式牌号",
           "url": "https://www.zaochenbao.com/news/china/202512/2160345.html",
@@ -401,18 +447,6 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时23分 ~ 09时45分]"
-        },
-        {
-          "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
-          "url": "https://www.cls.cn/detail/2235799",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时45分 ~ 14时35分]"
         },
         {
           "title": "财联社12月22日电，马斯克表示，旧金山停电未对特斯拉自动驾驶出租车服务（ROBOTAXIS）造成影响。",
@@ -517,7 +551,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "周末要闻汇总：首块L3级自动驾驶牌照诞生；摩尔线程发布新一代GPU架构",
@@ -620,6 +654,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "A股收盘：沪指涨0.69%收复3900点，海南、算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3024766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "富宝资讯：碳酸锂期货盘面震荡走强，富宝电池级碳酸锂报102000元/吨",
+          "url": "https://flash.jin10.com/detail/20251222134320176800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。广期所钯、铂均封涨停板，沪银涨超6%，碳酸锂涨超5%，集运指数（欧线）涨超4%，PTA涨超3%。跌幅方面，塑料、玻璃、PVC跌近2%。",
+          "url": "https://flash.jin10.com/detail/20251222113057227800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 12时40分]"
+        },
+        {
+          "title": "内盘期货多数收涨，集运欧线涨近9%，钯、铂涨7%，沪银涨6%，沪镍涨逾4%，碳酸锂涨4%，线材、沥青、低硫燃油、原油、纸浆、沪金涨逾2%；塑料、多晶硅跌逾2%，玻璃、氧化铝跌逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3024765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "沪镍主力合约短线拉升，日内涨近3.00%，现报119190元/吨。碳酸锂主力合约日内涨超2.00%，现报112200元/吨。",
+          "url": "https://flash.jin10.com/detail/20251222090742106800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "交易所限仓情绪短期消退，碳酸锂远月预期向好不变，近期震荡偏强",
+          "url": "https://flash.jin10.com/detail/20251222090621433800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌互现。集运指数（欧线）涨超8%，广期所钯、铂均封涨停板，沪银涨超6%，沪镍、PTA涨超4%，对二甲苯（PX）、碳酸锂涨近4%。跌幅方面，塑料、多晶硅跌超2%。",
+          "url": "https://flash.jin10.com/detail/20251222150054714800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
@@ -666,8 +784,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时23分 ~ 14时35分]"
+          "appearance_count": 29,
+          "time_info": "[00时23分 ~ 15时24分]"
         },
         {
           "title": "OpenAI据悉今年付费产品计算利润率已提高到70% 高于2024年底的52%",
@@ -759,49 +877,48 @@
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "keyword_group": "苹果 比亚迪",
       "match_count": 4,
       "titles": [
         {
-          "title": "富宝资讯：碳酸锂期货盘面震荡走强，富宝电池级碳酸锂报102000元/吨",
-          "url": "https://flash.jin10.com/detail/20251222134320176800",
-          "source": "金十数据",
+          "title": "李成钢国际贸易谈判代表兼副部长会见美国苹果公司首席运营官萨比赫·汗",
+          "url": "https://api3.cls.cn/share/article/2236265?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            5
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
         {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。广期所钯、铂均封涨停板，沪银涨超6%，碳酸锂涨超5%，集运指数（欧线）涨超4%，PTA涨超3%。跌幅方面，塑料、玻璃、PVC跌近2%。",
-          "url": "https://flash.jin10.com/detail/20251222113057227800",
-          "source": "金十数据",
+          "title": "商务部国际贸易谈判代表兼副部长李成钢会见美国苹果公司首席运营官萨比赫·汗",
+          "url": "https://wallstreetcn.com/livenews/3024738",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时40分]"
-        },
-        {
-          "title": "沪镍主力合约短线拉升，日内涨近3.00%，现报119190元/吨。碳酸锂主力合约日内涨超2.00%，现报112200元/吨。",
-          "url": "https://flash.jin10.com/detail/20251222090742106800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "14时35分"
         },
         {
-          "title": "交易所限仓情绪短期消退，碳酸锂远月预期向好不变，近期震荡偏强",
-          "url": "https://flash.jin10.com/detail/20251222090621433800",
+          "title": "意大利反垄断监管机构因苹果涉嫌在应用“追踪透明度”政策中滥用市场支配地位，对其处以9800万欧元罚款。",
+          "url": "https://flash.jin10.com/detail/20251222150344819800",
           "source": "金十数据",
           "ranks": [
-            15
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "优刻得携手比亚迪精密共建联合实验室",
+          "url": "https://wallstreetcn.com/livenews/3024550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -851,59 +968,9 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "李成钢国际贸易谈判代表兼副部长会见美国苹果公司首席运营官萨比赫·汗",
-          "url": "https://api3.cls.cn/share/article/2236265?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "商务部国际贸易谈判代表兼副部长李成钢会见美国苹果公司首席运营官萨比赫·汗",
-          "url": "https://wallstreetcn.com/livenews/3024738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "优刻得携手比亚迪精密共建联合实验室",
-          "url": "https://wallstreetcn.com/livenews/3024550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "量子科技 量子计算 量子通信",
       "match_count": 2,
       "titles": [
-        {
-          "title": "张玉卓：接续发力新能源 超前谋划量子科技",
-          "url": "https://flash.jin10.com/detail/20251222071915956800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
-        },
         {
           "title": "张玉卓：接续发力新能源 超前谋划量子科技",
           "url": "https://www.cls.cn/detail/2235821",
@@ -914,8 +981,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 14时35分]"
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 15时24分]"
+        },
+        {
+          "title": "张玉卓：接续发力新能源 超前谋划量子科技",
+          "url": "https://flash.jin10.com/detail/20251222071915956800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时41分 ~ 07时42分]"
         }
       ]
     },
@@ -1001,6 +1079,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 11时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "鸿蒙 OpenHarmony 昇腾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "搭载鸿蒙5和鸿蒙6的终端设备数量已经突破3200万",
+          "url": "https://wallstreetcn.com/livenews/3024767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
