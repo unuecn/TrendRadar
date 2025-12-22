@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T21:35:09.493959+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2025-12-22T22:21:25.490908+08:00",
+  "total_titles_processed": 1857,
   "failed_sources": [],
   "trends": [
     {
@@ -61,8 +61,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[15时24分 ~ 21时35分]"
+          "appearance_count": 18,
+          "time_info": "[15时24分 ~ 22时21分]"
         },
         {
           "title": "美国“星链”一颗卫星或爆炸失联",
@@ -104,8 +104,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时51分 ~ 21时35分]"
+          "appearance_count": 12,
+          "time_info": "[17时51分 ~ 22时21分]"
+        },
+        {
+          "title": "日本导航卫星“引路5号”发射失败",
+          "url": "https://www.zaochenbao.com/news/politics/202512/2260414.html",
+          "source": "早报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时21分]"
         },
         {
           "title": "通宇通讯：控股子公司中洪通宇拟增资扩股引入投资者增强资本实力 满足其卫星通信产品研发及运营支出需求",
@@ -117,17 +128,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时55分 ~ 16时56分]"
-        },
-        {
-          "title": "日本导航卫星“引路5号”发射失败",
-          "url": "https://www.zaochenbao.com/news/politics/202512/2260414.html",
-          "source": "早报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -350,11 +350,12 @@
             13,
             9,
             8,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时29分 ~ 21时35分]"
+          "appearance_count": 13,
+          "time_info": "[17时29分 ~ 22时21分]"
         },
         {
           "title": "西媒：人形机器人融入中国工业生产",
@@ -594,7 +595,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "周末要闻汇总：首块L3级自动驾驶牌照诞生；摩尔线程发布新一代GPU架构",
@@ -626,19 +627,6 @@
           "time_info": "[00时23分 ~ 06时43分]"
         },
         {
-          "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
-          "url": "https://wallstreetcn.com/articles/3761811",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时30分 ~ 21时35分]"
-        },
-        {
           "title": "【早报】三部门发布《互联网平台价格行为规则》；摩尔线程发布新一代GPU架构花港",
           "url": "https://www.cls.cn/detail/2235553",
           "source": "财联社热门",
@@ -653,6 +641,20 @@
           "time_info": "[00时23分 ~ 09时45分]"
         },
         {
+          "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
+          "url": "https://wallstreetcn.com/articles/3761811",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[16时30分 ~ 22时21分]"
+        },
+        {
           "title": "【每日收评】沪指高开高走重返3900点！全市场超百股涨停，海南、算力硬件板块联袂领涨",
           "url": "https://www.cls.cn/detail/2236495",
           "source": "财联社热门",
@@ -660,11 +662,12 @@
             9,
             8,
             7,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时29分 ~ 21时35分]"
+          "appearance_count": 13,
+          "time_info": "[17时29分 ~ 22时21分]"
         },
         {
           "title": "低调的国产通用GPU巨头赴港IPO：天数智芯通过聆讯，加速驶向万亿蓝海",
@@ -762,6 +765,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "【公告全知道】CPO+商业航天+6G+芯片+算力+数据中心！公司参与低轨星座星载天线相关工作",
+          "url": "https://api3.cls.cn/share/article/2236896?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "南亚新材：拟募资不超过9亿元 用于基于AI算力的高阶高频高速覆铜板研发及产业化项目等",
@@ -1122,8 +1136,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时22分 ~ 21时35分]"
+          "appearance_count": 10,
+          "time_info": "[18时22分 ~ 22时21分]"
         },
         {
           "title": "意大利对苹果公司罚款9860万欧元 涉滥用市场支配地位",
@@ -1133,8 +1147,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时21分]"
         },
         {
           "title": "李成钢国际贸易谈判代表兼副部长会见美国苹果公司首席运营官萨比赫·汗",
@@ -1229,7 +1243,7 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
@@ -1239,8 +1253,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时21分]"
         },
         {
           "title": "英伟达美股盘前拉升， 现涨近2%。",
@@ -1279,6 +1293,17 @@
           "time_info": "20时42分"
         },
         {
+          "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2236882",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "【电报解读】英伟达Vera Rubin200预计明年四季度出货，机构称该细分领域是Rubin架构的核心需求，这家公司已建立相关技术储备和产品线，为国内外多家服务器企业提供全方位的管理综合解决方案",
           "url": "https://api3.cls.cn/share/article/2236817?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -1296,7 +1321,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -1387,6 +1412,81 @@
       ]
     },
     {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月22日（周一）富时中国A50指数成分股午盘收盘行情一览：成分股涨跌互现，半导体、光伏设备等板块飘红",
+          "url": "https://flash.jin10.com/detail/20251222113412914800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 12时40分]"
+        },
+        {
+          "title": "天洋新材：光伏封装胶膜项目相关子公司停产",
+          "url": "https://api3.cls.cn/share/article/2236559?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 17时52分]"
+        },
+        {
+          "title": "2025年光伏行业攻坚战：从价格厮杀到价值重构",
+          "url": "https://wallstreetcn.com/livenews/3024483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时42分]"
+        },
+        {
+          "title": "【风口研报·洞察】供应端波动刺激锂价突破11万元，当前锂盐厂库存已降至1.8万吨的极低水平，或难以支撑明年二季度的旺季需求，从而可能放大后续锂价向上的弹性；2026年A股增量资金展望",
+          "url": "https://api3.cls.cn/share/article/2236257?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "河南2025竞价启动：光伏0.121-0.349元/度 风电0.113-0.349元/度",
+          "url": "https://api3.cls.cn/share/article/2236543?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "五部门联合发布关于征集智能光伏典型案例的通知",
+          "url": "https://wallstreetcn.com/livenews/3024623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 5,
       "titles": [
@@ -1458,73 +1558,20 @@
       ]
     },
     {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 5,
       "titles": [
         {
-          "title": "金十图示：2025年12月22日（周一）富时中国A50指数成分股午盘收盘行情一览：成分股涨跌互现，半导体、光伏设备等板块飘红",
-          "url": "https://flash.jin10.com/detail/20251222113412914800",
+          "title": "洛克希德马丁(LMT.N)与ManTech合作，推进美国作战飞机机队基于人工智能的保障工作。",
+          "url": "https://flash.jin10.com/detail/20251222220740547800",
           "source": "金十数据",
           "ranks": [
-            3,
-            14
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时40分]"
-        },
-        {
-          "title": "天洋新材：光伏封装胶膜项目相关子公司停产",
-          "url": "https://api3.cls.cn/share/article/2236559?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 17时52分]"
-        },
-        {
-          "title": "2025年光伏行业攻坚战：从价格厮杀到价值重构",
-          "url": "https://wallstreetcn.com/livenews/3024483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时42分]"
-        },
-        {
-          "title": "河南2025竞价启动：光伏0.121-0.349元/度 风电0.113-0.349元/度",
-          "url": "https://api3.cls.cn/share/article/2236543?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "22时21分"
         },
-        {
-          "title": "五部门联合发布关于征集智能光伏典型案例的通知",
-          "url": "https://wallstreetcn.com/livenews/3024623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
-      "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-22）",
           "url": "https://flash.jin10.com/detail/20251222115948930800",
@@ -1595,11 +1642,12 @@
           "url": "https://wallstreetcn.com/livenews/3024986",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时21分]"
         },
         {
           "title": "兴源环境(300266.SZ)：公司已实质性开展储能业务",
