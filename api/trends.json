@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T15:45:14.147604+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2025-12-24T16:30:12.073723+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时27分 ~ 15时45分]"
+          "appearance_count": 34,
+          "time_info": "[00时27分 ~ 16时30分]"
         },
         {
           "title": "【每日收评】三大指数冲高回落小幅收红，锂电产业链集体走强，商业航天概念股批量重挫",
@@ -72,7 +72,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -102,6 +102,19 @@
           "time_info": "[12时10分 ~ 12时56分]"
         },
         {
+          "title": "A股收盘：沪指涨0.53%录得6连阳，商业航天概念集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3026053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时24分 ~ 16时30分]"
+        },
+        {
           "title": "12月24日午间收评：三大指数小幅上涨，商业航天概念再度爆发",
           "url": "https://wallstreetcn.com/livenews/3025965",
           "source": "华尔街见闻-快讯",
@@ -125,18 +138,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时55分 ~ 13时24分]"
-        },
-        {
-          "title": "A股收盘：沪指涨0.53%录得6连阳，商业航天概念集体爆发",
-          "url": "https://wallstreetcn.com/livenews/3026053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时45分]"
         },
         {
           "title": "印度已使用LVM3火箭将美国商业通信卫星BlueBird Block-2发射到近地轨道。印度总理莫迪称，印度的太空计划正变得越来越先进，影响越来越大。LVM3展现了可靠的重型运载性能，为未来的任务奠定了基础。",
@@ -229,198 +230,20 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 15,
       "titles": [
         {
-          "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 07时19分]"
-        },
-        {
-          "title": "华为尊界S800在华销量超过国际厂商竞品",
-          "url": "https://www.zaochenbao.com/news/china/202512/2460526.html",
-          "source": "早报",
-          "ranks": [
-            6,
-            16,
-            20,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 15时24分]"
-        },
-        {
-          "title": "财联社12月24日电，据报道，特斯拉、亚马逊、甲骨文拟投资玻利维亚数据中心。",
-          "url": "https://api3.cls.cn/share/article/2238221?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "硅业分会：本周国内多晶硅市场价格小幅上涨 主流签单企业数量环比上周小幅增加",
+          "url": "https://api3.cls.cn/share/article/2238885?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            4,
-            6,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时38分 ~ 05时20分]"
-        },
-        {
-          "title": "市场消息：特斯拉(TSLA.O)、亚马逊(AMZN.O)、甲骨文(ORCL.N)拟投资玻利维亚数据中心建设。",
-          "url": "https://flash.jin10.com/detail/20251224030840372800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时38分 ~ 05时20分]"
-        },
-        {
-          "title": "特斯拉、亚马逊、甲骨文将投资玻利维亚数据中心。（Paz）",
-          "url": "https://wallstreetcn.com/livenews/3025746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            7,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时39分 ~ 05时41分]"
-        },
-        {
-          "title": "财联社12月24日电，小米集团于12月24日斥资1.489亿港元回购380万股B类股票。",
-          "url": "https://api3.cls.cn/share/article/2238752?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "小米集团：于12月24日斥资1.489亿港元回购380万股B类股票。",
-          "url": "https://wallstreetcn.com/livenews/3026062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时45分]"
+          "time_info": "[16时29分 ~ 16时30分]"
         },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收涨3%，亚马逊、谷歌A至多涨超1.6%，特斯拉回撤超0.6%",
-          "url": "https://wallstreetcn.com/livenews/3025770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时41分 ~ 06时43分]"
-        },
-        {
-          "title": "小米集团(01810.HK)于12月24日斥资1.489亿港元回购380万股B类股票。",
-          "url": "https://flash.jin10.com/detail/20251224150258497800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时45分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.58%，报7638.99点。 热门中概股里，小马智行初步收跌2.9%，蔚来跌2.5%，腾讯、理想、小鹏、小米、文远知行跌超1%，阿里巴巴、拼多多、新东方涨超0.1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.52%，中国科技指数ETF（CQQQ）收跌0.50%。 XtrackersHarvest中证50（ASHS）收涨0.24%，德银嘉实沪深300指数ETF（ASHR）收涨0.34%。",
-          "url": "https://wallstreetcn.com/livenews/3025766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 06时43分]"
-        },
-        {
-          "title": "刘德华为非凡大师献唱",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%BA%E9%9D%9E%E5%87%A1%E5%A4%A7%E5%B8%88%E7%8C%AE%E5%94%B1%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.5%。 热门中概股里，小马智行初步收跌2.9%，蔚来跌2.5%，腾讯、理想、小鹏、小米、文远知行跌超1%，阿里巴巴、拼多多、新东方涨超0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3025766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "小米集团-W(01810.HK)12月24日耗资1.49亿港元回购380万股",
-          "url": "https://www.gelonghui.com/news/5140147",
-          "source": "格隆汇",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "小米17Ultra徕卡版机械变焦环",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Ultra%E5%BE%95%E5%8D%A1%E7%89%88%E6%9C%BA%E6%A2%B0%E5%8F%98%E7%84%A6%E7%8E%AF%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "小米17Ultra红标徕卡版",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Ultra%E7%BA%A2%E6%A0%87%E5%BE%95%E5%8D%A1%E7%89%88%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 14,
-      "titles": [
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。铂封涨停板，涨幅为7%，沪银、钯涨超6%，沪镍涨超4%，碳酸锂、乙二醇涨超3%。跌幅方面，多晶硅跌超2%，集运指数（欧线）、沪锡跌超1%。",
           "url": "https://flash.jin10.com/detail/20251224113049361800",
@@ -582,6 +405,331 @@
       ]
     },
     {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "华为尊界S800在华销量超过国际厂商竞品",
+          "url": "https://www.zaochenbao.com/news/china/202512/2460526.html",
+          "source": "早报",
+          "ranks": [
+            6,
+            16,
+            20,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时39分 ~ 15时24分]"
+        },
+        {
+          "title": "财联社12月24日电，据报道，特斯拉、亚马逊、甲骨文拟投资玻利维亚数据中心。",
+          "url": "https://api3.cls.cn/share/article/2238221?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            6,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时38分 ~ 05时20分]"
+        },
+        {
+          "title": "市场消息：特斯拉(TSLA.O)、亚马逊(AMZN.O)、甲骨文(ORCL.N)拟投资玻利维亚数据中心建设。",
+          "url": "https://flash.jin10.com/detail/20251224030840372800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时38分 ~ 05时20分]"
+        },
+        {
+          "title": "特斯拉、亚马逊、甲骨文将投资玻利维亚数据中心。（Paz）",
+          "url": "https://wallstreetcn.com/livenews/3025746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            7,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时39分 ~ 05时41分]"
+        },
+        {
+          "title": "财联社12月24日电，小米集团于12月24日斥资1.489亿港元回购380万股B类股票。",
+          "url": "https://api3.cls.cn/share/article/2238752?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "小米集团：于12月24日斥资1.489亿港元回购380万股B类股票。",
+          "url": "https://wallstreetcn.com/livenews/3026062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时24分 ~ 16时30分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收涨3%，亚马逊、谷歌A至多涨超1.6%，特斯拉回撤超0.6%",
+          "url": "https://wallstreetcn.com/livenews/3025770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 06时43分]"
+        },
+        {
+          "title": "小米集团(01810.HK)于12月24日斥资1.489亿港元回购380万股B类股票。",
+          "url": "https://flash.jin10.com/detail/20251224150258497800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时45分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.58%，报7638.99点。 热门中概股里，小马智行初步收跌2.9%，蔚来跌2.5%，腾讯、理想、小鹏、小米、文远知行跌超1%，阿里巴巴、拼多多、新东方涨超0.1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.52%，中国科技指数ETF（CQQQ）收跌0.50%。 XtrackersHarvest中证50（ASHS）收涨0.24%，德银嘉实沪深300指数ETF（ASHR）收涨0.34%。",
+          "url": "https://wallstreetcn.com/livenews/3025766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时43分]"
+        },
+        {
+          "title": "刘德华为非凡大师献唱",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%BA%E9%9D%9E%E5%87%A1%E5%A4%A7%E5%B8%88%E7%8C%AE%E5%94%B1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 12时56分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.5%。 热门中概股里，小马智行初步收跌2.9%，蔚来跌2.5%，腾讯、理想、小鹏、小米、文远知行跌超1%，阿里巴巴、拼多多、新东方涨超0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3025766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "小米集团-W(01810.HK)12月24日耗资1.49亿港元回购380万股",
+          "url": "https://www.gelonghui.com/news/5140147",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "小米17Ultra徕卡版机械变焦环",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Ultra%E5%BE%95%E5%8D%A1%E7%89%88%E6%9C%BA%E6%A2%B0%E5%8F%98%E7%84%A6%E7%8E%AF%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "小米17Ultra红标徕卡版",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Ultra%E7%BA%A2%E6%A0%87%E5%BE%95%E5%8D%A1%E7%89%88%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "中坚科技(002779.SZ)：截至目前公司尚未与1X机器人公司达成供应链等方面的正式合作协议",
+          "url": "https://www.gelonghui.com/news/5140003",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            2,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 07时40分]"
+        },
+        {
+          "title": "大学生团队格斗机器人赢得国际比赛 港媒：中国机器人“系统集成”实力增强",
+          "url": "https://ckxxapp.ckxx.net/pages/2025/12/24/72c805afabd1461b906c1c9eaecd74c4.html",
+          "source": "参考消息",
+          "ranks": [
+            7,
+            9,
+            17,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时24分 ~ 16时30分]"
+        },
+        {
+          "title": "北京市机器人产业协会将成立",
+          "url": "https://wallstreetcn.com/livenews/3026032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 15时24分]"
+        },
+        {
+          "title": "鹏辉能源：固态电池产品在中试阶段 锂电产品应用于新能源汽车及机器人",
+          "url": "https://api3.cls.cn/share/article/2238871?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
+          "title": "春光科技(603657.SH)：获得乐享科技OEM/ODM“W1”和“M1”机器人产品采购订单",
+          "url": "https://www.gelonghui.com/news/5140262",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
+          "title": "华勤技术：公司与维他动力已正式达成机器人整机制造战略合作",
+          "url": "https://api3.cls.cn/share/article/2238854?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
+          "title": "独家|北京市机器人产业协会将成立 由赛迪研究院等联合发起",
+          "url": "https://api3.cls.cn/share/article/2238528?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "研报掘金丨爱建证券：首予三花智控“买入”评级，机器人业务拓成长边界",
+          "url": "https://www.gelonghui.com/news/5140148",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "“杭州六小龙”云深处启动IPO 四足机器人紧追宇树科技",
+          "url": "https://www.cls.cn/detail/2238530",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "大亚圣象：参股基金投资七腾机器人 公司不参与具体经营",
+          "url": "https://api3.cls.cn/share/article/2238773?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "国家发改委：加力实施农机装备补短板行动 拓展大数据、农业机器人、人工智能等在农业农村领域应用场景",
+          "url": "https://wallstreetcn.com/livenews/3025901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 9,
       "titles": [
@@ -609,6 +757,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时56分 ~ 14时34分]"
+        },
+        {
+          "title": "北京市新增2款已完成备案的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/3026060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时24分 ~ 16时30分]"
         },
         {
           "title": "科技公司已利用华尔街投资者资助的特殊目的实体，将超过1200亿美元的数据中心支出从资产负债表上转移出去，这加剧了人们对他们在人工智能领域巨额投资所带来的财务风险的担忧。",
@@ -648,18 +809,6 @@
           "time_info": "[12时55分 ~ 13时48分]"
         },
         {
-          "title": "北京市新增2款已完成备案的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/3026060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时45分]"
-        },
-        {
           "title": "美国白宫国家经济委员会主任哈塞特：美国经济数据显示人工智能生产力正在蓬勃发展。",
           "url": "https://flash.jin10.com/detail/20251224000430869800",
           "source": "金十数据",
@@ -696,103 +845,98 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 8,
       "titles": [
         {
-          "title": "中坚科技(002779.SZ)：截至目前公司尚未与1X机器人公司达成供应链等方面的正式合作协议",
-          "url": "https://www.gelonghui.com/news/5140003",
-          "source": "格隆汇",
+          "title": "存储涨价潮蔓延！三星、海力士上调HBM报价20%",
+          "url": "https://www.cls.cn/detail/2238744",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            2,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 07时40分]"
-        },
-        {
-          "title": "大学生团队格斗机器人赢得国际比赛 港媒：中国机器人“系统集成”实力增强",
-          "url": "https://ckxxapp.ckxx.net/pages/2025/12/24/72c805afabd1461b906c1c9eaecd74c4.html",
-          "source": "参考消息",
-          "ranks": [
-            7,
-            9,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 15时45分]"
-        },
-        {
-          "title": "北京市机器人产业协会将成立",
-          "url": "https://wallstreetcn.com/livenews/3026032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时24分]"
+          "time_info": "[16时29分 ~ 16时30分]"
         },
         {
-          "title": "独家|北京市机器人产业协会将成立 由赛迪研究院等联合发起",
-          "url": "https://api3.cls.cn/share/article/2238528?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "三星、SK海力士上调明年HBM3E价格 涨幅近20%",
+          "url": "https://wallstreetcn.com/livenews/3026047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时45分]"
+        },
+        {
+          "title": "消息称三星电子放缓DDR4停产进程 将与客户签署不得取消或更改的长期协议",
+          "url": "https://wallstreetcn.com/livenews/3026044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时45分]"
+        },
+        {
+          "title": "存储芯片概念表现活跃 香农芯创、北京君正均涨超11%",
+          "url": "https://api3.cls.cn/share/article/2238504?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时10分"
+          "time_info": "11时24分"
         },
         {
-          "title": "研报掘金丨爱建证券：首予三花智控“买入”评级，机器人业务拓成长边界",
-          "url": "https://www.gelonghui.com/news/5140148",
-          "source": "格隆汇",
+          "title": "三星、SK海力士上调明年HBM3E价格 涨幅近20%",
+          "url": "https://api3.cls.cn/share/article/2238723?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            11
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
         {
-          "title": "“杭州六小龙”云深处启动IPO 四足机器人紧追宇树科技",
-          "url": "https://www.cls.cn/detail/2238530",
-          "source": "财联社热门",
+          "title": "富满微(300671.SZ)：没有存储芯片业务",
+          "url": "https://www.gelonghui.com/news/5140188",
+          "source": "格隆汇",
           "ranks": [
-            12
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
         {
-          "title": "大亚圣象：参股基金投资七腾机器人 公司不参与具体经营",
-          "url": "https://api3.cls.cn/share/article/2238773?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "消息称三星电子放缓DDR4停产进程 将与客户签署不得取消或更改的长期协议",
+          "url": "https://api3.cls.cn/share/article/2238717?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "15时24分"
         },
         {
-          "title": "国家发改委：加力实施农机装备补短板行动 拓展大数据、农业机器人、人工智能等在农业农村领域应用场景",
-          "url": "https://wallstreetcn.com/livenews/3025901",
-          "source": "华尔街见闻-快讯",
+          "title": "【电报解读】三星、SK海力士上调明年HBM3E价格提升近20%，机构预计2026年HBM市场规模将达460亿美元，这家公司参股企业HBM3/3e已完成前期预研和部分设计工作",
+          "url": "https://api3.cls.cn/share/article/2238763?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            26
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "15时45分"
         }
       ]
     },
@@ -994,91 +1138,6 @@
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "三星、SK海力士上调明年HBM3E价格 涨幅近20%",
-          "url": "https://wallstreetcn.com/livenews/3026047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时45分]"
-        },
-        {
-          "title": "消息称三星电子放缓DDR4停产进程 将与客户签署不得取消或更改的长期协议",
-          "url": "https://wallstreetcn.com/livenews/3026044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时45分]"
-        },
-        {
-          "title": "存储芯片概念表现活跃 香农芯创、北京君正均涨超11%",
-          "url": "https://api3.cls.cn/share/article/2238504?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "三星、SK海力士上调明年HBM3E价格 涨幅近20%",
-          "url": "https://api3.cls.cn/share/article/2238723?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "富满微(300671.SZ)：没有存储芯片业务",
-          "url": "https://www.gelonghui.com/news/5140188",
-          "source": "格隆汇",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "消息称三星电子放缓DDR4停产进程 将与客户签署不得取消或更改的长期协议",
-          "url": "https://api3.cls.cn/share/article/2238717?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "【电报解读】三星、SK海力士上调明年HBM3E价格提升近20%，机构预计2026年HBM市场规模将达460亿美元，这家公司参股企业HBM3/3e已完成前期预研和部分设计工作",
-          "url": "https://api3.cls.cn/share/article/2238763?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
       "match_count": 6,
       "titles": [
@@ -1155,6 +1214,67 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "研报掘金丨国盛证券：维持领益智造“买入”评级，收购立敏达，卡位AI算力黄金赛道",
+          "url": "https://www.gelonghui.com/news/5140113",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
+        },
+        {
+          "title": "江西：适度超前建设智算设施 优先在算力主要节点间建设高通量算力传输网络",
+          "url": "https://api3.cls.cn/share/article/2238855?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
+          "title": "【电报解读】多项关键图形技术迎来升级！摩尔线程发布新图形显卡驱动，机构称随着摩尔、沐曦为代表的算力企业陆续登陆资本市场，有望助力国产算力崛起，这家公司有序推进800G及更高速率光模块项目",
+          "url": "https://api3.cls.cn/share/article/2238160?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时53分]"
+        },
+        {
+          "title": "【盘中宝】技术革新方向，“AI算力需求爆发+政策支持”下该行业成为解决细分问题必然选择，明年有望迎来产业化放量元年，这家企业拥有完全自主核心技术",
+          "url": "https://api3.cls.cn/share/article/2238379?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "银河证券：国产GPU发展有望加速，带动集成电路制造以及设备和材料需求",
+          "url": "https://www.gelonghui.com/news/5140051",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 4,
       "titles": [
@@ -1207,56 +1327,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时45分 ~ 03时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "研报掘金丨国盛证券：维持领益智造“买入”评级，收购立敏达，卡位AI算力黄金赛道",
-          "url": "https://www.gelonghui.com/news/5140113",
-          "source": "格隆汇",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
-        },
-        {
-          "title": "【电报解读】多项关键图形技术迎来升级！摩尔线程发布新图形显卡驱动，机构称随着摩尔、沐曦为代表的算力企业陆续登陆资本市场，有望助力国产算力崛起，这家公司有序推进800G及更高速率光模块项目",
-          "url": "https://api3.cls.cn/share/article/2238160?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
-        },
-        {
-          "title": "【盘中宝】技术革新方向，“AI算力需求爆发+政策支持”下该行业成为解决细分问题必然选择，明年有望迎来产业化放量元年，这家企业拥有完全自主核心技术",
-          "url": "https://api3.cls.cn/share/article/2238379?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "银河证券：国产GPU发展有望加速，带动集成电路制造以及设备和材料需求",
-          "url": "https://www.gelonghui.com/news/5140051",
-          "source": "格隆汇",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
         }
       ]
     },
@@ -1367,8 +1437,19 @@
     },
     {
       "keyword_group": "液冷",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "华勤技术(603296.SH)：已于2021年取得液冷装置及设备的实用新型专利，并在多款液冷AI服务器中落地应用",
+          "url": "https://www.gelonghui.com/news/5140263",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
         {
           "title": "高澜股份(300499.SZ)：可提供冷板式与浸没式等多种液冷解决方案",
           "url": "https://www.gelonghui.com/news/5140050",
@@ -1379,6 +1460,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "超频三(300647.SZ)：散热领域涉及的散热产品主要包括消费电子散热配件等",
+          "url": "https://www.gelonghui.com/news/5140056",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "江西：加大具身智能、消费电子等领域传感器研发生产 加快智能穿戴、虚拟现实等领域产品创新",
+          "url": "https://api3.cls.cn/share/article/2238856?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "鸿蒙 OpenHarmony 昇腾",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "鸿蒙给开发者铺好了高速路",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E7%BB%99%E5%BC%80%E5%8F%91%E8%80%85%E9%93%BA%E5%A5%BD%E4%BA%86%E9%AB%98%E9%80%9F%E8%B7%AF%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
+          "title": "鲁豫说鸿蒙的可贵在于开放包容",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%B1%AB%E8%AF%B4%E9%B8%BF%E8%92%99%E7%9A%84%E5%8F%AF%E8%B4%B5%E5%9C%A8%E4%BA%8E%E5%BC%80%E6%94%BE%E5%8C%85%E5%AE%B9%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时48分]"
         }
       ]
     },
@@ -1414,40 +1551,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时10分 ~ 12时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费电子 智能穿戴 智能座舱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "超频三(300647.SZ)：散热领域涉及的散热产品主要包括消费电子散热配件等",
-          "url": "https://www.gelonghui.com/news/5140056",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "鸿蒙 OpenHarmony 昇腾",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "鲁豫说鸿蒙的可贵在于开放包容",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%B1%AB%E8%AF%B4%E9%B8%BF%E8%92%99%E7%9A%84%E5%8F%AF%E8%B4%B5%E5%9C%A8%E4%BA%8E%E5%BC%80%E6%94%BE%E5%8C%85%E5%AE%B9%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时48分]"
         }
       ]
     },
