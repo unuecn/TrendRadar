@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T12:10:48.219740+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2025-12-24T12:56:00.912080+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 12时10分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 12时56分]"
         },
         {
           "title": "【每日收评】三大指数冲高回落小幅收红，锂电产业链集体走强，商业航天概念股批量重挫",
@@ -44,26 +44,51 @@
           "time_info": "[04时44分 ~ 06时43分]"
         },
         {
-          "title": "佳讯飞鸿：在商业航天领域 公司已为中国卫星网络集团有限公司提供了专用通信会商系统",
-          "url": "https://api3.cls.cn/share/article/2238561?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
           "title": "A股午评：沪指涨0.24%，近3900股上涨！商业航天板块再度爆发",
           "url": "https://www.gelonghui.com/news/5140087",
           "source": "格隆汇",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 12时56分]"
+        },
+        {
+          "title": "佳讯飞鸿：在商业航天领域 公司已为中国卫星网络集团有限公司提供了专用通信会商系统",
+          "url": "https://api3.cls.cn/share/article/2238561?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 12时56分]"
+        },
+        {
+          "title": "12月24日午间收评：三大指数小幅上涨，商业航天概念再度爆发",
+          "url": "https://wallstreetcn.com/livenews/3025965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 12时56分]"
+        },
+        {
+          "title": "商业航天产业联盟科创基金启动 聚焦四大投资方向",
+          "url": "https://api3.cls.cn/share/article/2238575?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 12时56分]"
         },
         {
           "title": "武汉凡谷(002194.SZ)：持续深度参与我国卫星互联网建设，目前已有多款产品小批量交付运行中",
@@ -99,24 +124,13 @@
           "time_info": "09时39分"
         },
         {
-          "title": "12月24日午间收评：三大指数小幅上涨，商业航天概念再度爆发",
-          "url": "https://wallstreetcn.com/livenews/3025965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
           "title": "午评：沪指半日涨0.24% 商业航天概念集体爆发",
           "url": "https://api3.cls.cn/share/article/2238539?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -135,7 +149,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
@@ -197,11 +211,12 @@
           "source": "早报",
           "ranks": [
             6,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 12时10分]"
+          "appearance_count": 5,
+          "time_info": "[09时39分 ~ 12时56分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨3%，亚马逊、谷歌A至多涨超1.6%，特斯拉回撤超0.6%",
@@ -227,6 +242,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 06时43分]"
+        },
+        {
+          "title": "刘德华为非凡大师献唱",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%BA%E9%9D%9E%E5%87%A1%E5%A4%A7%E5%B8%88%E7%8C%AE%E5%94%B1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 12时56分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.5%。 热门中概股里，小马智行初步收跌2.9%，蔚来跌2.5%，腾讯、理想、小鹏、小米、文远知行跌超1%，阿里巴巴、拼多多、新东方涨超0.1%。",
@@ -265,8 +291,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 12时10分]"
+          "appearance_count": 5,
+          "time_info": "[09时39分 ~ 12时56分]"
         },
         {
           "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
@@ -279,8 +305,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时19分 ~ 12时10分]"
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 12时56分]"
         },
         {
           "title": "英伟达(NVDA.O)涨幅扩大至3%。",
@@ -324,7 +350,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -377,8 +403,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 12时10分]"
+          "appearance_count": 6,
+          "time_info": "[07时40分 ~ 12时56分]"
         },
         {
           "title": "智能驾驶概念走强 浙江世宝7天5板",
@@ -421,9 +447,82 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【英伟达放风春节前向中国客户交付H200芯片】英伟达已告知中国客户，计划于明年2月中旬，即中国农历春节前向中国客户交付其性能排名第二的人工智能（AI）芯片H200。其中两位消息人士称，英伟达计划动用库存履行首批订单，预计发货总量为5000至10000套芯片模组，相当于约4万至8万颗 H200芯片。（环球网）",
+          "url": "https://wallstreetcn.com/livenews/3025803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "上海市新增9款已完成登记的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/3025990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：美国经济数据显示人工智能生产力正在蓬勃发展。",
+          "url": "https://flash.jin10.com/detail/20251224000430869800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 01时21分]"
+        },
+        {
+          "title": "上海市新增9款已完成登记的生成式人工智能服务",
+          "url": "https://api3.cls.cn/share/article/2238597?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 12时56分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-24）",
+          "url": "https://flash.jin10.com/detail/20251224115857022800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 12时56分]"
+        },
+        {
+          "title": "韩国产业通商资源部周三表示，政府明年将投入7000亿韩元（约合4.78亿美元）用于支持制造业人工智能（AI）转型项目，包括开发设备端人工智能芯片和出口人工智能工厂。",
+          "url": "https://flash.jin10.com/detail/20251224103822372800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         }
       ]
     },
@@ -431,6 +530,18 @@
       "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 6,
       "titles": [
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。铂封涨停板，涨幅为7%，沪银、钯涨超6%，沪镍涨超4%，碳酸锂、乙二醇涨超3%。跌幅方面，多晶硅跌超2%，集运指数（欧线）、沪锡跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251224113049361800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 12时56分]"
+        },
         {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报116000元/吨，较上日16:30价格上涨3850元/吨。",
           "url": "https://wallstreetcn.com/livenews/3025932",
@@ -442,17 +553,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 12时10分]"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。铂封涨停板，涨幅为7%，沪银、钯涨超6%，沪镍涨超4%，碳酸锂、乙二醇涨超3%。跌幅方面，多晶硅跌超2%，集运指数（欧线）、沪锡跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251224113049361800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "多晶硅主力合约日内跌近3%，现报57460元/吨。",
@@ -592,17 +692,6 @@
           "time_info": "[04时44分 ~ 06时20分]"
         },
         {
-          "title": "印度10年期国债收益率下跌5个基点，报6.5848%。印度卢比兑美元开盘报89.56，较前一交易日收盘上涨0.1%。",
-          "url": "https://flash.jin10.com/detail/20251224113155148800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
           "title": "美股四连涨，标普500指数创收盘新高，中概指数跌0.58%",
           "url": "https://www.gelonghui.com/news/5140034",
           "source": "格隆汇",
@@ -612,6 +701,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "印度10年期国债收益率下跌5个基点，报6.5848%。印度卢比兑美元开盘报89.56，较前一交易日收盘上涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20251224113155148800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 12时56分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌2.70%，暂报3523.87点，期间持续走低，北京时间22:55刷新日低至3453.45点。 Solana目前涨0.18%，狗狗币跌0.46%，XRP跌0.34%。 MarketVector数字资产100指数跌1.95%，暂报18018.00点，22:57也曾刷新日低至17723.29点。 比特币目前跌0.16%，暂报88022美元；以太坊跌0.49%，暂报2959.77美元。",
@@ -655,8 +756,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 12时56分]"
         },
         {
           "title": "独家|北京市机器人产业协会将成立 由赛迪研究院等联合发起",
@@ -665,7 +766,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -717,6 +818,18 @@
           "time_info": "[02时56分 ~ 05时20分]"
         },
         {
+          "title": "花旗下调Gemini Space Station目标价至13美元",
+          "url": "https://www.gelonghui.com/news/5140080",
+          "source": "格隆汇",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 12时56分]"
+        },
+        {
           "title": "周三你需要知道的隔夜全球要闻：美财长建议美联储将通胀目标转为“区间制”；标普500指数收盘创新高；OpenAI等6家AI巨头遭版权侵权起诉",
           "url": "https://api3.cls.cn/share/article/2238247?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -727,17 +840,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时40分]"
-        },
-        {
-          "title": "花旗下调Gemini Space Station目标价至13美元",
-          "url": "https://www.gelonghui.com/news/5140080",
-          "source": "格隆汇",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         }
       ]
     },
@@ -765,11 +867,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时56分]"
         },
         {
           "title": "财联社12月23日电，现货黄金转跌，现下跌0.02%，报4442.51美元/盎司；此前一度上涨1.2%。",
@@ -821,46 +924,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【英伟达放风春节前向中国客户交付H200芯片】英伟达已告知中国客户，计划于明年2月中旬，即中国农历春节前向中国客户交付其性能排名第二的人工智能（AI）芯片H200。其中两位消息人士称，英伟达计划动用库存履行首批订单，预计发货总量为5000至10000套芯片模组，相当于约4万至8万颗 H200芯片。（环球网）",
-          "url": "https://wallstreetcn.com/livenews/3025803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：美国经济数据显示人工智能生产力正在蓬勃发展。",
-          "url": "https://flash.jin10.com/detail/20251224000430869800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时21分]"
-        },
-        {
-          "title": "韩国产业通商资源部周三表示，政府明年将投入7000亿韩元（约合4.78亿美元）用于支持制造业人工智能（AI）转型项目，包括开发设备端人工智能芯片和出口人工智能工厂。",
-          "url": "https://flash.jin10.com/detail/20251224103822372800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
         }
       ]
     },
@@ -924,11 +987,12 @@
           "url": "https://www.gelonghui.com/news/5140081",
           "source": "格隆汇",
           "ranks": [
-            12
+            12,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 12时56分]"
         }
       ]
     },
@@ -960,7 +1024,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         }
