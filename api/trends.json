@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T23:21:50.281425+08:00",
-  "total_titles_processed": 2164,
+  "generated_at": "2025-12-24T23:44:14.766156+08:00",
+  "total_titles_processed": 2193,
   "failed_sources": [],
   "trends": [
     {
@@ -92,11 +92,12 @@
           "url": "https://api3.cls.cn/share/article/2239326?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时44分]"
         },
         {
           "title": "A股午评：沪指涨0.24%，近3900股上涨！商业航天板块再度爆发",
@@ -317,11 +318,12 @@
           "ranks": [
             7,
             13,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时20分 ~ 23时21分]"
+          "appearance_count": 4,
+          "time_info": "[22时20分 ~ 23时44分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。铂封涨停板，涨幅为7%，沪银、钯涨超6%，沪镍涨超4%，碳酸锂、乙二醇涨超3%。跌幅方面，多晶硅跌超2%，集运指数（欧线）、沪锡跌超1%。",
@@ -600,8 +602,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时42分 ~ 23时21分]"
+          "appearance_count": 6,
+          "time_info": "[20时42分 ~ 23时44分]"
+        },
+        {
+          "title": "微创机器人-B(02252.HK)：独道电子支气管镜手术导航系统获得国家药品监督管理局注册批准",
+          "url": "https://www.gelonghui.com/news/5140693",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时44分]"
         },
         {
           "title": "格隆汇公告精选︱爱尔眼科：拟收购亳州爱尔、连云港爱尔等39家机构部分股权；胜通能源：不涉及机器人相关业务",
@@ -626,27 +639,17 @@
           "time_info": "18时22分"
         },
         {
-          "title": "微创机器人-B(02252.HK)：独道电子支气管镜手术导航系统获得国家药品监督管理局注册批准",
-          "url": "https://www.gelonghui.com/news/5140693",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
           "title": "【电报解读】重磅！“人形机器人第一股”优必选拟16.65亿元收购A股上市公司锋龙股份43%股权，机构看好人形机器人行业正由“技术展示期”迈向“产品化与订单验证期”，这家公司持有优必选股权",
           "url": "https://api3.cls.cn/share/article/2239304?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             2,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时21分]"
+          "appearance_count": 3,
+          "time_info": "[22时44分 ~ 23时44分]"
         },
         {
           "title": "北京市机器人产业协会将成立",
@@ -842,6 +845,17 @@
           "time_info": "[03时38分 ~ 05时20分]"
         },
         {
+          "title": "美股异动丨特斯拉跌1.3%，美国监管机构对Model 3展开缺陷调查",
+          "url": "https://www.gelonghui.com/news/5140695",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时44分]"
+        },
+        {
           "title": "特斯拉、亚马逊、甲骨文将投资玻利维亚数据中心。（Paz）",
           "url": "https://wallstreetcn.com/livenews/3025746",
           "source": "华尔街见闻-快讯",
@@ -855,17 +869,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时39分 ~ 05时41分]"
-        },
-        {
-          "title": "美股异动丨特斯拉跌1.3%，美国监管机构对Model 3展开缺陷调查",
-          "url": "https://www.gelonghui.com/news/5140695",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
         },
         {
           "title": "财联社12月24日电，小米集团于12月24日斥资1.489亿港元回购380万股B类股票。",
@@ -1110,6 +1113,19 @@
           "time_info": "[07时19分 ~ 07时40分]"
         },
         {
+          "title": "英特尔下跌3.9%，创12月25日以来最差盘中表现。媒体报道称，英伟达近期测试了所谓的18A制程生产工艺制造先进芯片，但随后停止推进相关工作。",
+          "url": "https://wallstreetcn.com/livenews/3026257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时44分 ~ 23时44分]"
+        },
+        {
           "title": "消息人士称，英伟达(NVDA.O)已暂停对英特尔18A制造工艺的测试。英特尔(INTC.O)盘前短线跳水转跌0.6%。",
           "url": "https://flash.jin10.com/detail/20251224190144005800",
           "source": "金十数据",
@@ -1120,18 +1136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时19分 ~ 19时40分]"
-        },
-        {
-          "title": "英特尔下跌3.9%，创12月25日以来最差盘中表现。媒体报道称，英伟达近期测试了所谓的18A制程生产工艺制造先进芯片，但随后停止推进相关工作。",
-          "url": "https://wallstreetcn.com/livenews/3026257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时21分]"
         },
         {
           "title": "英特尔美股盘前跌近1%，据报道，英伟达测试了英特尔的18A工艺，但已暂缓推进。",
@@ -1240,19 +1244,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时45分 ~ 23时21分]"
+          "appearance_count": 11,
+          "time_info": "[17时45分 ~ 23时44分]"
         },
         {
           "title": "【电报解读】国家算力互联网四川枢纽节点上线，机构称算力互联网是当前全球算力基础设施发展的核心方向，这家公司在高速光模块领域取得重要突破，产品主要应用于800G以太网、云计算网络等前沿领域",
           "url": "https://api3.cls.cn/share/article/2239287?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时44分]"
         },
         {
           "title": "国家算力互联网服务平台跨域体系暨四川枢纽服务节点正式上线",
@@ -1435,11 +1440,25 @@
           "ranks": [
             3,
             6,
-            16
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时20分 ~ 23时44分]"
+        },
+        {
+          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[22时20分 ~ 23时21分]"
+          "time_info": "[22时44分 ~ 23时44分]"
         },
         {
           "title": "花旗下调Gemini Space Station目标价至13美元",
@@ -1476,18 +1495,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时45分 ~ 18时22分]"
-        },
-        {
-          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3026250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时21分]"
         },
         {
           "title": "OpenAI考虑在ChatGPT中投放广告",
@@ -1529,8 +1536,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[16时29分 ~ 23时21分]"
+          "appearance_count": 16,
+          "time_info": "[16时29分 ~ 23时44分]"
         },
         {
           "title": "【风口研报·公司】稀缺DDR5内存配套芯片供应商，这家公司客户覆盖三星电子、海力士、美光科技等国际龙头，有望持续受益于高性能计算与AI需求；这家半导体设备公司在手订单结构明确指向存储晶圆厂扩产主线",
@@ -1557,6 +1564,17 @@
           "time_info": "[15时24分 ~ 15时45分]"
         },
         {
+          "title": "美股异动丨存储概念股上涨，此前三星、海力士上调HBM报价20%",
+          "url": "https://www.gelonghui.com/news/5140685",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时44分]"
+        },
+        {
           "title": "消息称三星电子放缓DDR4停产进程 将与客户签署不得取消或更改的长期协议",
           "url": "https://wallstreetcn.com/livenews/3026044",
           "source": "华尔街见闻-快讯",
@@ -1578,17 +1596,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
-        },
-        {
-          "title": "美股异动丨存储概念股上涨，此前三星、海力士上调HBM报价20%",
-          "url": "https://www.gelonghui.com/news/5140685",
-          "source": "格隆汇",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
         },
         {
           "title": "三星、SK海力士上调明年HBM3E价格 涨幅近20%",
@@ -1652,8 +1659,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时55分 ~ 23时21分]"
+          "appearance_count": 14,
+          "time_info": "[16时55分 ~ 23时44分]"
         },
         {
           "title": "【英伟达放风春节前向中国客户交付H200芯片】英伟达已告知中国客户，计划于明年2月中旬，即中国农历春节前向中国客户交付其性能排名第二的人工智能（AI）芯片H200。其中两位消息人士称，英伟达计划动用库存履行首批订单，预计发货总量为5000至10000套芯片模组，相当于约4万至8万颗 H200芯片。（环球网）",
@@ -1771,6 +1778,20 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "现货钯金跌5.2%，刷新日低，逼近1750美元，北京时间14:47还曾涨至1962.42美元，之后持续回撤。",
+          "url": "https://wallstreetcn.com/livenews/3026251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时20分 ~ 23时44分]"
+        },
+        {
           "title": "周二（12月23日）纽约尾盘，彭博谷物分类指数涨0.18%，报29.3763点。 CBOT玉米期货涨0.06%，CBOT小麦期货涨0.44%。 CBOT大豆期货跌0.12%，报10.63美元/蒲式耳，豆粕期货涨0.10%，豆油期货跌0.63%。 CBOT瘦肉猪期货涨0.82%，活牛期货跌0.61%，饲牛期货跌0.51%。",
           "url": "https://wallstreetcn.com/livenews/3025755",
           "source": "华尔街见闻-快讯",
@@ -1808,29 +1829,17 @@
           "time_info": "[12时10分 ~ 12时56分]"
         },
         {
-          "title": "现货钯金跌5.2%，刷新日低，逼近1750美元，北京时间14:47还曾涨至1962.42美元，之后持续回撤。",
-          "url": "https://wallstreetcn.com/livenews/3026251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时20分 ~ 23时21分]"
-        },
-        {
           "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
           "url": "https://wallstreetcn.com/livenews/3026259",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时21分]"
+          "appearance_count": 3,
+          "time_info": "[22时44分 ~ 23时44分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌2.70%，暂报3523.87点，期间持续走低，北京时间22:55刷新日低至3453.45点。 Solana目前涨0.18%，狗狗币跌0.46%，XRP跌0.34%。 MarketVector数字资产100指数跌1.95%，暂报18018.00点，22:57也曾刷新日低至17723.29点。 比特币目前跌0.16%，暂报88022美元；以太坊跌0.49%，暂报2959.77美元。",
@@ -1846,6 +1855,18 @@
           "time_info": "[01时45分 ~ 03时18分]"
         },
         {
+          "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
+          "url": "https://wallstreetcn.com/livenews/3026260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时44分]"
+        },
+        {
           "title": "美股开盘，道指跌0.1%，标普500指数跌0.03%，纳指跌0.02%。英特尔(INTC.O)跌3%，消息称英伟达暂停测试其18A制程工艺。耐克(NKE.N)涨3%，苹果CEO库克斥资约295万美元买入50000股耐克股票。德纳维制药(DVAX.O)涨38%，创四年来最大涨幅，赛诺菲斥资22亿美元收购德纳维制药。",
           "url": "https://flash.jin10.com/detail/20251224223029222800",
           "source": "金十数据",
@@ -1856,17 +1877,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时44分 ~ 23时21分]"
-        },
-        {
-          "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
-          "url": "https://wallstreetcn.com/livenews/3026260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
         }
       ]
     },
@@ -1967,88 +1977,8 @@
       ]
     },
     {
-      "keyword_group": "金价 黄金",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 12月23日（周二）晚盘收盘下跌0.06%报1005.21元/克；<br/>上海黄金交易所白银T+D 12月23日（周二）晚盘收盘上涨3.32%报16954.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251224023152940800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时18分 ~ 04时44分]"
-        },
-        {
-          "title": "现货钯金跌穿1700美元/盎司关口，日内跌超8.6%，北京时间14:47涨至1962.42美元之后持续回撤。 现货铂金跌向2202美元，目前跌3.8%。 现货黄金跌超0.4%，逼近4460美元，09:25还曾涨至4525.77美元创历史新高。 现货白银跌穿71美元，跌幅0.6%，脱离09:53所创历史最高位72.70美元。",
-          "url": "https://wallstreetcn.com/livenews/3026266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "现货黄金盘中转跌，现报4480.75美元/盎司，此前一度涨至4500美元上方。",
-          "url": "https://wallstreetcn.com/livenews/3025949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 12时56分]"
-        },
-        {
-          "title": "财联社12月23日电，现货黄金转跌，现下跌0.02%，报4442.51美元/盎司；此前一度上涨1.2%。",
-          "url": "https://api3.cls.cn/share/article/2238170?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时21分]"
-        },
-        {
-          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
-          "url": "https://wallstreetcn.com/livenews/3026240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时20分 ~ 23时21分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月24日（周三）晚盘盘初下跌0.16%报1008.0元/克；<br/>上海黄金交易所白银T+D 12月24日（周三）晚盘盘初上涨2.01%报17670.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251224200227809800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "北京发放首批L3级高速公路自动驾驶车辆专用号牌 三个路段可开启",
@@ -2119,6 +2049,98 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时40分 ~ 09时39分]"
+        },
+        {
+          "title": "亚马逊旗下自动驾驶汽车公司Zoox因软件问题召回332辆车",
+          "url": "https://wallstreetcn.com/livenews/3026274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 12月23日（周二）晚盘收盘下跌0.06%报1005.21元/克；<br/>上海黄金交易所白银T+D 12月23日（周二）晚盘收盘上涨3.32%报16954.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251224023152940800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时18分 ~ 04时44分]"
+        },
+        {
+          "title": "现货黄金盘中转跌，现报4480.75美元/盎司，此前一度涨至4500美元上方。",
+          "url": "https://wallstreetcn.com/livenews/3025949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时56分]"
+        },
+        {
+          "title": "现货钯金跌穿1700美元/盎司关口，日内跌超8.6%，北京时间14:47涨至1962.42美元之后持续回撤。 现货铂金跌向2202美元，目前跌3.8%。 现货黄金跌超0.4%，逼近4460美元，09:25还曾涨至4525.77美元创历史新高。 现货白银跌穿71美元，跌幅0.6%，脱离09:53所创历史最高位72.70美元。",
+          "url": "https://wallstreetcn.com/livenews/3026266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时44分]"
+        },
+        {
+          "title": "财联社12月23日电，现货黄金转跌，现下跌0.02%，报4442.51美元/盎司；此前一度上涨1.2%。",
+          "url": "https://api3.cls.cn/share/article/2238170?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 01时21分]"
+        },
+        {
+          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
+          "url": "https://wallstreetcn.com/livenews/3026240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时20分 ~ 23时21分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月24日（周三）晚盘盘初下跌0.16%报1008.0元/克；<br/>上海黄金交易所白银T+D 12月24日（周三）晚盘盘初上涨2.01%报17670.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251224200227809800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
@@ -2141,6 +2163,19 @@
           "time_info": "[18时22分 ~ 19时40分]"
         },
         {
+          "title": "耐克涨3.1%，苹果CEO库克入股该公司。",
+          "url": "https://wallstreetcn.com/livenews/3026256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时44分 ~ 23时44分]"
+        },
+        {
           "title": "财联社12月24日电，耐克盘前涨超2%，此前一份文件显示苹果首席执行官蒂姆·库克于12月22日购入价值295万美元的耐克股票。",
           "url": "https://api3.cls.cn/share/article/2239045?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -2153,27 +2188,16 @@
           "time_info": "[18时22分 ~ 18时46分]"
         },
         {
-          "title": "耐克涨3.1%，苹果CEO库克入股该公司。",
-          "url": "https://wallstreetcn.com/livenews/3026256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时21分]"
-        },
-        {
           "title": "苹果",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时21分]"
+          "appearance_count": 3,
+          "time_info": "[22时44分 ~ 23时44分]"
         },
         {
           "title": "耐克(NKE.N)盘前上涨2.3%，此前公司董事、苹果CEO库克购入约300万美元股票。",
@@ -2227,6 +2251,17 @@
           "time_info": "[22时44分 ~ 23时21分]"
         },
         {
+          "title": "美股三大指数小幅低开，英特尔跌3.8%",
+          "url": "https://www.gelonghui.com/news/5140682",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时44分]"
+        },
+        {
           "title": "接近英特尔(INTC.O)的消息人士质疑，首席执行官陈立武是否具备实现制造业务成功所需的技术专长。美国商务部一名官员表示，美国已给予英特尔一次成功的机会，但这家芯片制造商并非“大到不能倒”。",
           "url": "https://flash.jin10.com/detail/20251224190443376800",
           "source": "金十数据",
@@ -2247,17 +2282,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
-        },
-        {
-          "title": "美股三大指数小幅低开，英特尔跌3.8%",
-          "url": "https://www.gelonghui.com/news/5140682",
-          "source": "格隆汇",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
         }
       ]
     },
@@ -2343,9 +2367,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时44分]"
         },
         {
           "title": "【风口研报·公司】储能业务占比极高的电芯供应商，这家公司大储业务绑定阳光电源等龙头集成商、小储订单已锁至明年春节，在手订单能见度极高，自第三季度起产线已进入满产状态",
@@ -2427,11 +2451,12 @@
           "ranks": [
             4,
             7,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时20分 ~ 23时21分]"
+          "appearance_count": 4,
+          "time_info": "[22时20分 ~ 23时44分]"
         },
         {
           "title": "深圳发布低空经济与生物医药商业秘密保护指引",
@@ -2594,8 +2619,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时20分 ~ 23时21分]"
+          "appearance_count": 4,
+          "time_info": "[22时20分 ~ 23时44分]"
         }
       ]
     },
