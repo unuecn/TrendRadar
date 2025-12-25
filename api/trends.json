@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T09:41:27.536854+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2025-12-25T11:27:24.934488+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "英伟达(NVDA.O)：Groq 将继续作为独立公司存在。",
@@ -95,6 +95,18 @@
           "time_info": "[06时20分 ~ 07时41分]"
         },
         {
+          "title": "200亿美元，英伟达“史上最大收购”？英伟达“收编”Groq，“招安”TPU创始人",
+          "url": "https://wallstreetcn.com/articles/3762030",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 11时27分]"
+        },
+        {
           "title": "Groq与英伟达签订关于推理科技的非排他性许可协议。 公司仍将是一家独立运营的公司。 GroqCloud将继续运营。",
           "url": "https://wallstreetcn.com/livenews/3026350",
           "source": "华尔街见闻-快讯",
@@ -121,21 +133,21 @@
           "time_info": "[00时25分 ~ 00时49分]"
         },
         {
-          "title": "200亿美元，英伟达“史上最大收购”？英伟达“收编”Groq，“招安”TPU创始人",
-          "url": "https://wallstreetcn.com/articles/3762030",
+          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
+          "url": "https://wallstreetcn.com/articles/3762016",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时41分"
+          "time_info": "11时27分"
         }
       ]
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【每日收评】沪指涨0.53%实现6连阳，商业航天概念卷土重来，算力硬件方向反复活跃",
@@ -246,6 +258,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 06时44分]"
+        },
+        {
+          "title": "AI芯片海外限制缓解利好算力基础设施建设 国信证券建议关注联想、工业富联等",
+          "url": "https://www.gelonghui.com/news/5140763",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     },
@@ -358,6 +381,95 @@
       ]
     },
     {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "商业航天再起涨停潮 十余股封板",
+          "url": "https://api3.cls.cn/share/article/2239546?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "乌克兰称中国卫星或协助俄罗斯发动袭击",
+          "url": "https://www.zaochenbao.com/news/china/202512/2560614.html",
+          "source": "早报",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 11时27分]"
+        },
+        {
+          "title": "A股商业航天概念延续强势，神剑股份6连板，九鼎新材3连板，广联航空、天奥电子涨停，超捷股份、上海港湾、中国卫星等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3026430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 11时27分]"
+        },
+        {
+          "title": "广联航空：与文昌国际航天城签约合作 有望深度接入区域“火箭链、卫星链、数据链”产业生态",
+          "url": "https://api3.cls.cn/share/article/2239326?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15,
+            16,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 01时42分]"
+        },
+        {
+          "title": "突发！20CM涨停商业航天概念股近日遭控股股东减持97.44万股|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2239312",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 11时27分]"
+        },
+        {
+          "title": "“国家队”与民营航天并进，资金做多热情持续飙涨，卫星产业ETF（159218）早盘溢价涨近3%！",
+          "url": "https://www.gelonghui.com/news/5140764",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "商业航天持续走强 近20股涨停",
+          "url": "https://api3.cls.cn/share/article/2239611?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 6,
       "titles": [
@@ -366,11 +478,12 @@
           "url": "https://ckxxapp.ckxx.net/pages/2025/12/24/294f1a189577443d936a3e8074221e9d.html",
           "source": "参考消息",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 09时41分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 11时27分]"
         },
         {
           "title": "据CNBC：英伟达(NVDA.O)将以大约200亿美元收购人工智能芯片初创公司Groq，成为其有史以来最大的一笔收购交易。",
@@ -440,64 +553,129 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 5,
       "titles": [
         {
-          "title": "乌克兰称中国卫星或协助俄罗斯发动袭击",
-          "url": "https://www.zaochenbao.com/news/china/202512/2560614.html",
-          "source": "早报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "A股商业航天概念延续强势，神剑股份6连板，九鼎新材3连板，广联航空、天奥电子涨停，超捷股份、上海港湾、中国卫星等涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3026430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "商业航天再起涨停潮 十余股封板",
-          "url": "https://api3.cls.cn/share/article/2239546?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "广联航空：与文昌国际航天城签约合作 有望深度接入区域“火箭链、卫星链、数据链”产业生态",
-          "url": "https://api3.cls.cn/share/article/2239326?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15,
-            16,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时42分]"
-        },
-        {
-          "title": "突发！20CM涨停商业航天概念股近日遭控股股东减持97.44万股|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2239312",
+          "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
+          "url": "https://www.cls.cn/detail/2239208",
           "source": "财联社热门",
           "ranks": [
-            12
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 09时41分]"
+        },
+        {
+          "title": "微创机器人-B(02252.HK)：独道电子支气管镜手术导航系统获得国家药品监督管理局注册批准",
+          "url": "https://www.gelonghui.com/news/5140693",
+          "source": "格隆汇",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 07时41分]"
+        },
+        {
+          "title": "【研选】随着我国卫星入轨数量持续增长以及卫星性能的持续提升，卫星太阳翼或迎来量价齐升机遇；公司在人形机器人业务领域持续推进与国内头部机器人本体及零部件供应商的合作，有望开辟汽车业务以外的第二增长曲线",
+          "url": "https://api3.cls.cn/share/article/2238522?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 07时41分]"
+        },
+        {
+          "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
+          "url": "https://wallstreetcn.com/livenews/3026294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            14,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 03时17分]"
+        },
+        {
+          "title": "A股机器人概念股集体走强，巨轮智能直线涨停，泰尔股份、锋龙股份、天奇股份、万向钱潮此前封板，拓斯达大涨超18%，昊志机电涨超12%。",
+          "url": "https://wallstreetcn.com/livenews/3026457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "多晶硅主力合约短线拉升，日内涨幅扩大至3%，现报59635元/吨。",
+          "url": "https://flash.jin10.com/detail/20251225092841798800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "12月25日电池级碳酸锂早盘市场价格为115850元/吨 较上一工作日下调400元",
+          "url": "https://flash.jin10.com/detail/20251225110018102800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "碳酸锂主力合约日内跌幅达4.00%，现报118040元/吨。",
+          "url": "https://flash.jin10.com/detail/20251225090304618800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "商品期货开盘，钯主力合约跌近10%，铂跌超5%，碳酸锂跌超3%，沪锡跌超2%，沪镍、菜籽粕、焦炭跌超1%。乙二醇涨超2%，沪银、鸡蛋、白糖涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3026414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约涨跌不一。乙二醇（EG）涨超2%，沪银、丙烯、丁二烯橡胶、塑料、塑料月均价、白糖涨超1%。跌幅方面，钯跌超9%，铂跌超5%，碳酸锂跌超3%，沪锡跌超2%，沪镍、菜粕、氧化铝、焦炭跌超1%，纸浆、焦煤跌近1%。",
+          "url": "https://flash.jin10.com/detail/20251225090001752800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         }
@@ -578,107 +756,40 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 4,
+      "keyword_group": "储能",
+      "match_count": 3,
       "titles": [
         {
-          "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
-          "url": "https://www.cls.cn/detail/2239208",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 09时41分]"
-        },
-        {
-          "title": "微创机器人-B(02252.HK)：独道电子支气管镜手术导航系统获得国家药品监督管理局注册批准",
-          "url": "https://www.gelonghui.com/news/5140693",
+          "title": "卡姆丹克太阳能(00712.HK)：推进山西浮山150兆瓦飞轮储能项目",
+          "url": "https://www.gelonghui.com/news/5140692",
           "source": "格隆汇",
           "ranks": [
-            9,
-            10
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时25分 ~ 07时41分]"
         },
         {
-          "title": "【研选】随着我国卫星入轨数量持续增长以及卫星性能的持续提升，卫星太阳翼或迎来量价齐升机遇；公司在人形机器人业务领域持续推进与国内头部机器人本体及零部件供应商的合作，有望开辟汽车业务以外的第二增长曲线",
-          "url": "https://api3.cls.cn/share/article/2238522?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 07时41分]"
-        },
-        {
-          "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
-          "url": "https://wallstreetcn.com/livenews/3026294",
+          "title": "国家发改委：加大长时储能、绿电制氢氨醇、核聚变等技术攻关",
+          "url": "https://wallstreetcn.com/livenews/3026451",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            9,
-            14,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 03时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "多晶硅主力合约短线拉升，日内涨幅扩大至3%，现报59635元/吨。",
-          "url": "https://flash.jin10.com/detail/20251225092841798800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时41分"
+          "time_info": "11时27分"
         },
         {
-          "title": "碳酸锂主力合约日内跌幅达4.00%，现报118040元/吨。",
-          "url": "https://flash.jin10.com/detail/20251225090304618800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "商品期货开盘，钯主力合约跌近10%，铂跌超5%，碳酸锂跌超3%，沪锡跌超2%，沪镍、菜籽粕、焦炭跌超1%。乙二醇涨超2%，沪银、鸡蛋、白糖涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3026414",
+          "title": "国金证券：全球储能行业正开启增长新周期",
+          "url": "https://wallstreetcn.com/livenews/3026399",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "早盘开盘，国内期货主力合约涨跌不一。乙二醇（EG）涨超2%，沪银、丙烯、丁二烯橡胶、塑料、塑料月均价、白糖涨超1%。跌幅方面，钯跌超9%，铂跌超5%，碳酸锂跌超3%，沪锡跌超2%，沪镍、菜粕、氧化铝、焦炭跌超1%，纸浆、焦煤跌近1%。",
-          "url": "https://flash.jin10.com/detail/20251225090001752800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         }
@@ -732,6 +843,47 @@
       ]
     },
     {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时18分]"
+        },
+        {
+          "title": "耐克涨3.1%，苹果CEO库克入股该公司。",
+          "url": "https://wallstreetcn.com/livenews/3026256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时49分]"
+        },
+        {
+          "title": "耐克财报暴雷后库克出手：苹果CEO用重金投下信任票",
+          "url": "https://www.cls.cn/detail/2239371",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
       "match_count": 2,
       "titles": [
@@ -765,35 +917,6 @@
       ]
     },
     {
-      "keyword_group": "储能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "卡姆丹克太阳能(00712.HK)：推进山西浮山150兆瓦飞轮储能项目",
-          "url": "https://www.gelonghui.com/news/5140692",
-          "source": "格隆汇",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 07时41分]"
-        },
-        {
-          "title": "国金证券：全球储能行业正开启增长新周期",
-          "url": "https://wallstreetcn.com/livenews/3026399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 2,
       "titles": [
@@ -823,36 +946,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时18分]"
-        },
-        {
-          "title": "耐克涨3.1%，苹果CEO库克入股该公司。",
-          "url": "https://wallstreetcn.com/livenews/3026256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时49分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 1,
       "titles": [
@@ -863,7 +956,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         }
@@ -880,7 +973,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         }
@@ -901,8 +994,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 09时41分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 11时27分]"
         }
       ]
     },
@@ -917,9 +1010,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中芯国际部分产能涨价10% 国内半导体产业链迎黄金上升期",
+          "url": "https://www.cls.cn/detail/2239430",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     },
