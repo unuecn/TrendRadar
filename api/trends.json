@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T11:12:38.245850+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2025-12-27T12:07:52.194882+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
@@ -32,19 +32,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 11时12分]"
+          "appearance_count": 22,
+          "time_info": "[00时24分 ~ 12时07分]"
         },
         {
           "title": "美股三大指数收盘微跌，特斯拉跌超2%，中概指数涨0.72%",
           "url": "https://www.gelonghui.com/news/5141811",
           "source": "格隆汇",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 11时12分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 12时07分]"
+        },
+        {
+          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
+          "url": "https://wallstreetcn.com/articles/3762133",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 12时07分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -58,17 +70,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时18分 ~ 07时41分]"
-        },
-        {
-          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
-          "url": "https://wallstreetcn.com/articles/3762133",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 11时12分]"
         },
         {
           "title": "周五（12月26日），韩元兑美元最终涨0.31%，报1441.66韩元。 本周，韩元累计上涨2.43%，周一至周二维持微跌状态——交投于1480韩元附近，周三显著上涨，周四（和周五）在清淡行情中持稳。",
@@ -164,8 +165,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 11时12分]"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 12时07分]"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF、能源业ETF、网络股指数ETF、可选消费ETF至多跌0.47%，银行业ETF、半导体ETF、科技行业ETF至多涨0.23%。",
@@ -194,8 +195,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 11时12分]"
+          "appearance_count": 22,
+          "time_info": "[00时24分 ~ 12时07分]"
         },
         {
           "title": "美股三大指数收盘均微跌 特斯拉跌超2%",
@@ -260,11 +261,12 @@
           "url": "https://wallstreetcn.com/livenews/3027520",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 12时07分]"
         },
         {
           "title": "华为悬赏300万元求解AI难题",
@@ -273,7 +275,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         }
@@ -344,11 +346,12 @@
           "url": "https://www.gelonghui.com/news/5141812",
           "source": "格隆汇",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 11时12分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 12时07分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -386,6 +389,53 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时20分 ~ 09时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "我国首个百万千瓦级海上光伏项目全容量并网",
+          "url": "https://api3.cls.cn/share/article/2241655?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            7,
+            11,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时18分 ~ 04时43分]"
+        },
+        {
+          "title": "全球最大！我国首个百万千瓦级海上光伏项目全容量并网",
+          "url": "https://wallstreetcn.com/livenews/3027423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            17,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 04时43分]"
+        },
+        {
+          "title": "中国市监管总局要求光伏企业严禁价格欺诈",
+          "url": "https://www.zaochenbao.com/news/china/202512/2760774.html",
+          "source": "早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     },
@@ -444,19 +494,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 11时12分]"
+          "appearance_count": 22,
+          "time_info": "[00时24分 ~ 12时07分]"
         },
         {
           "title": "国家数据局：加快全国一体化算力网建设 打造支撑数据科技研发与验证的高性能算力体系",
           "url": "https://api3.cls.cn/share/article/2241744?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            12
+            12,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 12时07分]"
         }
       ]
     },
@@ -515,42 +566,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 01时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "我国首个百万千瓦级海上光伏项目全容量并网",
-          "url": "https://api3.cls.cn/share/article/2241655?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            7,
-            11,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时18分 ~ 04时43分]"
-        },
-        {
-          "title": "全球最大！我国首个百万千瓦级海上光伏项目全容量并网",
-          "url": "https://wallstreetcn.com/livenews/3027423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            17,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 04时43分]"
         }
       ]
     }
