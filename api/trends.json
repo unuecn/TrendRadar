@@ -1,896 +1,156 @@
 {
-  "generated_at": "2025-12-28T23:41:55.180321+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2025-12-29T00:25:13.204393+08:00",
+  "total_titles_processed": 228,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "证监会科技司刘铁斌：构建规范、健康的资本市场人工智能生态体系",
-          "url": "https://wallstreetcn.com/livenews/3027607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            6,
-            9,
-            10,
-            12,
-            14,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时24分 ~ 19时39分]"
-        },
-        {
-          "title": "广州在全国率先设立区级人工智能发展局",
-          "url": "https://flash.jin10.com/detail/20251228194152132800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15,
-            19,
-            23,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[20时39分 ~ 23时41分]"
-        },
-        {
-          "title": "2025江苏省人工智能产业发展大会召开",
-          "url": "https://wallstreetcn.com/livenews/3027570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            10,
-            15,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 12时44分]"
-        },
-        {
-          "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
-          "url": "https://www.cls.cn/detail/2241811",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 46,
-          "time_info": "[00时24分 ~ 23时41分]"
-        },
-        {
-          "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
-          "url": "https://api3.cls.cn/share/article/2241922?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13,
-            14,
-            15,
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 04时44分]"
-        },
-        {
-          "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
-          "url": "https://flash.jin10.com/detail/20251227211319753800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 09时50分]"
-        },
-        {
-          "title": "2025江苏省人工智能产业发展大会召开",
-          "url": "https://flash.jin10.com/detail/20251227205746692800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时24分 ~ 07时40分]"
-        },
-        {
-          "title": "中国人民银行科技司司长李伟：积极稳妥、安全有序推进人工智能金融应用",
-          "url": "https://wallstreetcn.com/livenews/3027626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            6,
-            12,
-            21,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时42分 ~ 21时48分]"
-        },
-        {
-          "title": "央行科技司李伟：积极稳妥、安全有序推进人工智能金融应用",
-          "url": "https://api3.cls.cn/share/article/2242149?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            4,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 20时40分]"
-        },
-        {
-          "title": "广州在全国率先设立区级人工智能发展局",
-          "url": "https://wallstreetcn.com/livenews/3027650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            12,
-            16,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时40分 ~ 23时41分]"
-        },
-        {
-          "title": "广州在全国率先设立区级人工智能发展局",
-          "url": "https://api3.cls.cn/share/article/2242173?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            13,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时39分 ~ 22时20分]"
-        },
-        {
-          "title": "2025江苏省人工智能产业发展大会召开",
-          "url": "https://api3.cls.cn/share/article/2241916?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16,
-            17,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 02时52分]"
-        },
-        {
-          "title": "央行科技司李伟：积极稳妥、安全有序推进人工智能金融应用",
-          "url": "https://flash.jin10.com/detail/20251228175513322800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时45分 ~ 20时40分]"
-        },
-        {
-          "title": "人工智能与食品安全研究成果发布会在北京举行",
-          "url": "https://api3.cls.cn/share/article/2241913?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时17分]"
-        },
-        {
-          "title": "国民财富发展研究合作平台理事长李剑阁：人工智能将催生金融新业态新模式",
-          "url": "https://api3.cls.cn/share/article/2242055?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 15时41分]"
-        },
-        {
-          "title": "证监会科技司刘铁斌：构建规范、健康的资本市场人工智能生态体系",
-          "url": "https://api3.cls.cn/share/article/2242025?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2241788",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6,
-            5,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[11时47分 ~ 23时41分]"
-        },
-        {
-          "title": "胜通能源(001331.SZ)：不涉及机器人相关业务",
-          "url": "https://www.gelonghui.com/news/5141839",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            3,
-            4,
-            7,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时26分 ~ 19时39分]"
-        },
-        {
-          "title": "首程控股（0697.HK）：两年，四倍！一份来自机器人赛道的超预期答卷",
-          "url": "https://www.gelonghui.com/news/5141824",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            4,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 15时41分]"
-        },
-        {
-          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
-          "url": "https://www.cls.cn/detail/2241816",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 50,
-          "time_info": "[00时24分 ~ 23时41分]"
-        },
-        {
-          "title": "近十家A股上市公司近三周披露机器人并购重组相关公告 胜通能源控股股东将变更为七腾机器人 锋龙股份控股股东拟变更为优必选",
-          "url": "https://api3.cls.cn/share/article/2242178?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11,
-            15,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时29分 ~ 22时44分]"
-        },
-        {
-          "title": "【电报解读】工信部人形机器人与具身智能标准化技术委员会成立！机构称Optimus定型量产渐进，特斯拉机器人投资方向应当聚焦“强确定性”和“以量产为导向的技术升级方向”，这家公司相关产品处于开发验证阶段",
-          "url": "https://api3.cls.cn/share/article/2242073?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 17时20分]"
-        },
-        {
-          "title": "美国人形机器人初创公司：连我们都觉得，外界吹得太过了",
-          "url": "https://wallstreetcn.com/articles/3762176",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "马斯克评论宇树机器人测试视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%84%E8%AE%BA%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "商业航天概念股赫然在列！12月接待机构调研次数居前热门股名单一览",
           "url": "https://www.cls.cn/detail/2241782",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2,
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 50,
-          "time_info": "[00时24分 ~ 23时41分]"
-        },
-        {
-          "title": "【电报解读】重磅！商业火箭企业适用科创板第五套上市标准细化规则发布，快速梳理8家商业航天企业IPO进程及相关参股或合作标的（附表）",
-          "url": "https://api3.cls.cn/share/article/2241923?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11,
-            12,
-            13,
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 04时44分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "新和成：商业航天订单处于开拓市场、稳步增长阶段",
           "url": "https://api3.cls.cn/share/article/2242214?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[23时19分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "伊朗：从俄罗斯发射三颗卫星到太空",
           "url": "https://wallstreetcn.com/livenews/3027666",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            5,
-            6,
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时48分 ~ 23时41分]"
-        },
-        {
-          "title": "【财联社早知道】商业航天再迎2大利好！2025年我国商业航天产业规模高达2.5-2.8万亿元，行业已驶入发展“快车道”，这家公司参与了低轨互联网卫星星载天线、星体结构、太阳翼等产品的配套",
-          "url": "https://api3.cls.cn/share/article/2241943?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 21时29分]"
-        },
-        {
-          "title": "航天发展：下属公司主要从事商业低轨卫星运营及数据应用服务 其前三季度营业收入占公司总营业收入的比例低于1%",
-          "url": "https://api3.cls.cn/share/article/2242082?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 16时49分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "算力突围的终极战场不在硅谷，而在太空轨道",
-          "url": "https://wallstreetcn.com/articles/3762182",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时24分 ~ 14时31分]"
-        },
-        {
-          "title": "英伟达1400亿“收购”，GPU拐点已现？",
-          "url": "https://wallstreetcn.com/articles/3762188",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时24分 ~ 17时20分]"
-        },
         {
           "title": "元旦周重磅日程：美联储主席或揭晓，巴菲特退休，“港股GPU第一股”挂牌",
           "url": "https://wallstreetcn.com/articles/3762120",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            5,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[16时26分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "【公告全知道】6G+商业航天+芯片+算力+低空经济+人工智能！公司深度参与我国低轨卫星互联网建设",
           "url": "https://api3.cls.cn/share/article/2241981?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1,
-            2,
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[22时19分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
     {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 4,
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 2,
       "titles": [
         {
-          "title": "东方日升：晶硅光伏电池正重新进入空天应用的视野 公司p型超薄异质结（HJT）系列产品具有综合优势",
-          "url": "https://api3.cls.cn/share/article/2242213?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2241788",
+          "source": "财联社热门",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[23时19分 ~ 23时41分]"
-        },
-        {
-          "title": "3天2板钧达股份：与尚翼光电签署的太空钙钛矿产品合作框架协议仅为初步合作意向",
-          "url": "https://api3.cls.cn/share/article/2242136?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            9,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 20时40分]"
-        },
-        {
-          "title": "亿晶光电：全椒县光伏项目无法按期推进 收到听证通知",
-          "url": "https://api3.cls.cn/share/article/2242129?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            12,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时42分 ~ 19时39分]"
-        },
-        {
-          "title": "光伏产业链价格企稳 “反内卷”成果显现",
-          "url": "https://api3.cls.cn/share/article/2242019?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            18
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "00时25分"
+        },
+        {
+          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
+          "url": "https://www.cls.cn/detail/2241816",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
+          "url": "https://www.cls.cn/detail/2241811",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "广州在全国率先设立区级人工智能发展局",
+          "url": "https://wallstreetcn.com/livenews/3027650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "小米集团：联合创始人林斌计划减持不超20亿美元公司B类普通股",
-          "url": "https://wallstreetcn.com/livenews/3027643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            15,
-            17,
-            21,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时17分 ~ 23时41分]"
-        },
         {
           "title": "小米副董事长拟套现不超20亿美元，知情人士：他想成立投资基金",
           "url": "https://flash.jin10.com/detail/20251228203142645800",
           "source": "金十数据",
           "ranks": [
-            7,
-            11,
-            15,
-            17,
-            22
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[21时29分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
-          "title": "小米集团：联合创始人林斌计划每12个月出售金额不超过5亿美元的公司B类普通股",
-          "url": "https://api3.cls.cn/share/article/2242168?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "小米集团：联合创始人林斌计划减持不超20亿美元公司B类普通股",
+          "url": "https://wallstreetcn.com/livenews/3027643",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            7,
-            16,
-            20
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时17分 ~ 21时48分]"
-        },
-        {
-          "title": "小米集团：公司联合创始人林斌计划累计出售不超过20亿美元公司B类普通股",
-          "url": "https://flash.jin10.com/detail/20251228190503620800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时17分 ~ 21时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "比特币一度“闪崩”超70%至24111美元！赵长鹏发文回应",
-          "url": "https://www.gelonghui.com/news/5141818",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            2,
-            5,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时24分 ~ 15时41分]"
-        },
-        {
-          "title": "贵金属今年暴涨 比特币却掉队",
-          "url": "https://www.gelonghui.com/news/5141812",
-          "source": "格隆汇",
-          "ranks": [
-            7,
-            8,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时24分 ~ 14时31分]"
-        },
-        {
-          "title": "金银狂飙，比特币掉队，自2014年以来首次与股票明显背离",
-          "url": "https://www.gelonghui.com/news/5141825",
-          "source": "格隆汇",
-          "ranks": [
-            3,
-            6,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时44分 ~ 16时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
-          "url": "https://wallstreetcn.com/articles/3762133",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 07时19分]"
-        },
-        {
-          "title": "美股三大指数收盘微跌，特斯拉跌超2%，中概指数涨0.72%",
-          "url": "https://www.gelonghui.com/news/5141811",
-          "source": "格隆汇",
-          "ranks": [
-            8,
-            9,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时24分 ~ 14时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "宁德时代：明年钠电池将在换电、乘用车、商用车、储能等领域大规模应用",
-          "url": "https://api3.cls.cn/share/article/2242141?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            6,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 20时40分]"
-        },
-        {
-          "title": "宁德时代：明年钠电池将在换电、乘用车、商用车、储能等领域大规模应用",
-          "url": "https://flash.jin10.com/detail/20251228181644467800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 20时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "雷达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2241810",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[12时44分 ~ 23时41分]"
-        },
-        {
-          "title": "【电报解读】中国首批L3级自动驾驶汽车开启规模化上路运行！我国正将高阶智驾技术推向量产应用背景下，机构看好B端Robotaxi商业化放量带来的投资机会，这家公司主要为Robotaxi提供激光雷达",
-          "url": "https://api3.cls.cn/share/article/2242089?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 18时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国法官裁定苹果公司智能手表可继续在美销售",
-          "url": "https://api3.cls.cn/share/article/2241930?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8,
-            9,
-            10,
-            12,
-            13,
-            14,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 06时43分]"
-        },
-        {
-          "title": "苹果煮水喝好处太多了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%85%AE%E6%B0%B4%E5%96%9D%E5%A5%BD%E5%A4%84%E5%A4%AA%E5%A4%9A%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 19时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "优必选 商汤 华大基因",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "优必选新中标超1.2亿元项目，2026年产能将达万台规模",
-          "url": "https://www.gelonghui.com/news/5141832",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            8,
-            10,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时20分 ~ 18时21分]"
-        },
-        {
-          "title": "3连板锋龙股份：控制权变更后公司仍以原有业务为主 优必选不存在通过上市公司重组上市的计划或安排",
-          "url": "https://api3.cls.cn/share/article/2242108?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 17时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "受台湾7级地震影响 台积电紧急疏散新竹部分厂区",
-          "url": "https://www.zaochenbao.com/news/taiwan/202512/2860842.html",
-          "source": "早报",
-          "ranks": [
-            11,
-            14,
-            17,
-            20,
-            23,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时47分 ~ 22时44分]"
-        },
-        {
-          "title": "英伟达800伏电压“革命”：全球数据中心面临史上最大规模基础设施改造",
-          "url": "https://wallstreetcn.com/articles/3762212",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[21时29分 ~ 23时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "液冷",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【风口研报·公司】硅光CW光源及1.6T光模块配套产品，这家公司具备稀缺“无源+有源”IDM双平台，同时开发液冷光缆、数据中心用光缆材料等新产品；另有家公司深度卡位机器人peek业务",
-          "url": "https://api3.cls.cn/share/article/2242059?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 17时42分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
@@ -903,31 +163,62 @@
           "url": "https://www.gelonghui.com/news/5141872",
           "source": "格隆汇",
           "ranks": [
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[22时19分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
     {
-      "keyword_group": "创新药 新药研发 临床三期",
+      "keyword_group": "储能",
       "match_count": 1,
       "titles": [
         {
-          "title": "翰森制药引入透析领域创新药 深化肾科领域布局",
-          "url": "https://www.gelonghui.com/news/5141857",
-          "source": "格隆汇",
+          "title": "能辉科技：海外储能市场已取得战略突破和项目落地",
+          "url": "https://api3.cls.cn/share/article/2242219?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            6,
-            14,
-            15
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时39分 ~ 21时48分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "雷达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2241810",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "东方日升：晶硅光伏电池正重新进入空天应用的视野 公司p型超薄异质结（HJT）系列产品具有综合优势",
+          "url": "https://api3.cls.cn/share/article/2242213?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
@@ -940,14 +231,28 @@
           "url": "https://api3.cls.cn/share/article/2242110?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1,
-            4,
-            5,
-            9
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[21时48分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达800伏电压“革命”：全球数据中心面临史上最大规模基础设施改造",
+          "url": "https://wallstreetcn.com/articles/3762212",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
@@ -960,17 +265,11 @@
           "url": "https://wallstreetcn.com/livenews/3027640",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            12,
-            19,
-            21,
-            25,
-            26,
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时17分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     }
