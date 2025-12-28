@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T15:41:20.978223+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2025-12-28T16:27:02.483973+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时24分 ~ 15时20分]"
+          "appearance_count": 30,
+          "time_info": "[00时24分 ~ 16时27分]"
         },
         {
           "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
@@ -82,11 +82,12 @@
           "ranks": [
             2,
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 15时41分]"
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 16时27分]"
         },
         {
           "title": "2025江苏省人工智能产业发展大会召开",
@@ -142,8 +143,23 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2241788",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时47分 ~ 16时27分]"
+        },
         {
           "title": "首程控股（0697.HK）：两年，四倍！一份来自机器人赛道的超预期答卷",
           "url": "https://www.gelonghui.com/news/5141824",
@@ -159,21 +175,6 @@
           "time_info": "[11时47分 ~ 15时41分]"
         },
         {
-          "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2241788",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 15时41分]"
-        },
-        {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
           "url": "https://www.cls.cn/detail/2241816",
           "source": "财联社热门",
@@ -183,8 +184,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时24分 ~ 15时41分]"
+          "appearance_count": 31,
+          "time_info": "[00时24分 ~ 16时27分]"
+        },
+        {
+          "title": "胜通能源(001331.SZ)：不涉及机器人相关业务",
+          "url": "https://www.gelonghui.com/news/5141839",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
+          "title": "【电报解读】工信部人形机器人与具身智能标准化技术委员会成立！机构称Optimus定型量产渐进，特斯拉机器人投资方向应当聚焦“强确定性”和“以量产为导向的技术升级方向”，这家公司相关产品处于开发验证阶段",
+          "url": "https://api3.cls.cn/share/article/2242073?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "美国人形机器人初创公司：连我们都觉得，外界吹得太过了",
@@ -207,6 +230,98 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "算力突围的终极战场不在硅谷，而在太空轨道",
+          "url": "https://wallstreetcn.com/articles/3762182",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[00时24分 ~ 14时31分]"
+        },
+        {
+          "title": "英伟达1400亿“收购”，GPU拐点已现？",
+          "url": "https://wallstreetcn.com/articles/3762188",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 31,
+          "time_info": "[00时24分 ~ 16时27分]"
+        },
+        {
+          "title": "元旦周重磅日程：美联储主席或揭晓，巴菲特退休，“港股GPU第一股”挂牌",
+          "url": "https://wallstreetcn.com/articles/3762120",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "商业航天概念股赫然在列！12月接待机构调研次数居前热门股名单一览",
+          "url": "https://www.cls.cn/detail/2241782",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 31,
+          "time_info": "[00时24分 ~ 16时27分]"
+        },
+        {
+          "title": "【电报解读】重磅！商业火箭企业适用科创板第五套上市标准细化规则发布，快速梳理8家商业航天企业IPO进程及相关参股或合作标的（附表）",
+          "url": "https://api3.cls.cn/share/article/2241923?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11,
+            12,
+            13,
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 04时44分]"
+        },
+        {
+          "title": "航天发展：下属公司主要从事商业低轨卫星运营及数据应用服务 其前三季度营业收入占公司总营业收入的比例低于1%",
+          "url": "https://api3.cls.cn/share/article/2242082?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
         }
       ]
     },
@@ -250,11 +365,12 @@
           "ranks": [
             3,
             6,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 15时41分]"
+          "appearance_count": 8,
+          "time_info": "[12时44分 ~ 16时27分]"
         }
       ]
     },
@@ -290,72 +406,48 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "优必选 商汤 华大基因",
       "match_count": 2,
       "titles": [
         {
-          "title": "算力突围的终极战场不在硅谷，而在太空轨道",
-          "url": "https://wallstreetcn.com/articles/3762182",
-          "source": "华尔街见闻",
+          "title": "3连板锋龙股份：控制权变更后公司仍以原有业务为主 优必选不存在通过上市公司重组上市的计划或安排",
+          "url": "https://api3.cls.cn/share/article/2242108?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            6,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时24分 ~ 14时31分]"
-        },
-        {
-          "title": "英伟达1400亿“收购”，GPU拐点已现？",
-          "url": "https://wallstreetcn.com/articles/3762188",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时24分 ~ 15时41分]"
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
+          "title": "优必选新中标超1.2亿元项目，2026年产能将达万台规模",
+          "url": "https://www.gelonghui.com/news/5141832",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 16时27分]"
         }
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 2,
+      "keyword_group": "液冷",
+      "match_count": 1,
       "titles": [
         {
-          "title": "商业航天概念股赫然在列！12月接待机构调研次数居前热门股名单一览",
-          "url": "https://www.cls.cn/detail/2241782",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时24分 ~ 15时41分]"
-        },
-        {
-          "title": "【电报解读】重磅！商业火箭企业适用科创板第五套上市标准细化规则发布，快速梳理8家商业航天企业IPO进程及相关参股或合作标的（附表）",
-          "url": "https://api3.cls.cn/share/article/2241923?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "【风口研报·公司】硅光CW光源及1.6T光模块配套产品，这家公司具备稀缺“无源+有源”IDM双平台，同时开发液冷光缆、数据中心用光缆材料等新产品；另有家公司深度卡位机器人peek业务",
+          "url": "https://api3.cls.cn/share/article/2242059?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            11,
-            12,
-            13,
-            15,
-            16,
-            17
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 04时44分]"
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
         }
       ]
     },
@@ -370,11 +462,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 15时41分]"
+          "appearance_count": 8,
+          "time_info": "[12时44分 ~ 16时27分]"
         }
       ]
     },
@@ -420,23 +513,6 @@
       ]
     },
     {
-      "keyword_group": "优必选 商汤 华大基因",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "优必选新中标超1.2亿元项目，2026年产能将达万台规模",
-          "url": "https://www.gelonghui.com/news/5141832",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时41分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
       "match_count": 1,
       "titles": [
@@ -452,8 +528,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 15时41分]"
+          "appearance_count": 10,
+          "time_info": "[11时47分 ~ 16时27分]"
         }
       ]
     }
