@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T06:19:50.033259+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2025-12-31T06:44:47.839428+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,36 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 06时44分]"
+        },
+        {
+          "title": "美股三大指数收盘均小幅下跌 大型科技股涨跌不一",
+          "url": "https://api3.cls.cn/share/article/2244723?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            6,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 06时44分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 百度涨超4%",
+          "url": "https://flash.jin10.com/detail/20251231050133467800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 06时44分]"
         },
         {
           "title": "周二（12月30日）纽约尾盘，欧元兑美元跌0.20%，英镑兑美元跌0.33%，美元兑瑞郎涨0.37%。 商品货币对中，澳元兑美元涨0.05%，纽元兑美元跌0.17%，美元兑加元涨0.02%。",
@@ -47,41 +74,17 @@
           "time_info": "[04时45分 ~ 06时19分]"
         },
         {
-          "title": "美股收盘：三大股指小幅收跌 百度涨超4%",
-          "url": "https://flash.jin10.com/detail/20251231050133467800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 06时19分]"
-        },
-        {
-          "title": "美股三大指数收盘均小幅下跌 大型科技股涨跌不一",
-          "url": "https://api3.cls.cn/share/article/2244723?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 06时19分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
           "url": "https://wallstreetcn.com/livenews/3028929",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时19分]"
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 06时44分]"
         },
         {
           "title": "生物科技ETF收跌将近1.1%，领跌美股行业ETF，能源ETF涨约0.8%",
@@ -89,11 +92,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            19
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 06时44分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.79%，报347.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.79%，报2469.28点，北京时间22:30美股开盘之前维持微幅下跌状态、之后“跳空”至2498.05点刷新日高又在极大程度上快速回吐这一波涨幅。 原材料指数跌0.17%，报228.42点。 金属与矿业指数跌0.29%，报217.41点。",
+          "url": "https://wallstreetcn.com/livenews/3028934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时19分]"
+          "time_info": "[06时19分 ~ 06时44分]"
         },
         {
           "title": "行业ETF美股盘初多数走低，可选消费ETF、生物科技指数ETF跌超0.4%，网络股指数ETF跌约0.3%，全球科技股指数ETF涨0.1%，半导体ETF涨超0.3%。",
@@ -106,140 +122,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时53分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.79%，报347.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.79%，报2469.28点，北京时间22:30美股开盘之前维持微幅下跌状态、之后“跳空”至2498.05点刷新日高又在极大程度上快速回吐这一波涨幅。 原材料指数跌0.17%，报228.42点。 金属与矿业指数跌0.29%，报217.41点。",
-          "url": "https://wallstreetcn.com/livenews/3028934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "小米：跨年直播将现场拆车",
-          "url": "https://www.zaochenbao.com/news/china/202512/3061039.html",
-          "source": "早报",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时19分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数高开低走，初步收跌0.2%。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3028919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "金山软件：与小米订立框架协议",
-          "url": "https://wallstreetcn.com/livenews/3028842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时21分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.27%，报7616.03点，全天呈现出高开低走状态。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.08%，德银嘉实沪深300指数ETF（ASHR）收涨0.58%。 中国科技指数ETF（CQQQ）收涨0.89%，中概互联网指数ETF（KWEB）收跌0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3028919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时19分]"
-        },
-        {
-          "title": "金山软件：与小米订立框架协议",
-          "url": "https://api3.cls.cn/share/article/2244636?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "多路游资联袂入场！机器人龙头剑指新高，相关ETF持续“吸金”，四成份额达历史峰值",
-          "url": "https://www.cls.cn/detail/2244256",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时19分]"
-        },
-        {
-          "title": "沪指10连阳，机器人、AI智能体爆发，恒科指涨近2%，半导体领涨，英矽智能港股IPO涨约25%，国投白银LOF震荡调整，在岸人民币破7",
-          "url": "https://wallstreetcn.com/articles/3762287",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时19分]"
-        },
-        {
-          "title": "【每日收评】沪指连收10日阳线！机器人概念午后再度爆发，商业航天分歧加剧",
-          "url": "https://www.cls.cn/detail/2244138",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时19分]"
-        },
-        {
-          "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
-          "url": "https://www.cls.cn/detail/2244180",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时17分 ~ 06时19分]"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "xAI就人工智能训练数据法起诉加州总检察长",
@@ -268,6 +156,17 @@
           "time_info": "[03时17分 ~ 05时20分]"
         },
         {
+          "title": "印度已邀请中国参加全球人工智能峰会",
+          "url": "https://api3.cls.cn/share/article/2244735?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
           "title": "英伟达正就收购以色列人工智能初创公司AI21 Labs展开深入谈判，交易金额预计至高达30亿美元。",
           "url": "https://flash.jin10.com/detail/20251231011253846800",
           "source": "金十数据",
@@ -293,6 +192,125 @@
       ]
     },
     {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "小米：跨年直播将现场拆车",
+          "url": "https://www.zaochenbao.com/news/china/202512/3061039.html",
+          "source": "早报",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 06时44分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数高开低走，初步收跌0.2%。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3028919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.27%，报7616.03点，全天呈现出高开低走状态。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.08%，德银嘉实沪深300指数ETF（ASHR）收涨0.58%。 中国科技指数ETF（CQQQ）收涨0.89%，中概互联网指数ETF（KWEB）收跌0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3028919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 06时44分]"
+        },
+        {
+          "title": "金山软件：与小米订立框架协议",
+          "url": "https://wallstreetcn.com/livenews/3028842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时21分]"
+        },
+        {
+          "title": "金山软件：与小米订立框架协议",
+          "url": "https://api3.cls.cn/share/article/2244636?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "多路游资联袂入场！机器人龙头剑指新高，相关ETF持续“吸金”，四成份额达历史峰值",
+          "url": "https://www.cls.cn/detail/2244256",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 06时44分]"
+        },
+        {
+          "title": "沪指10连阳，机器人、AI智能体爆发，恒科指涨近2%，半导体领涨，英矽智能港股IPO涨约25%，国投白银LOF震荡调整，在岸人民币破7",
+          "url": "https://wallstreetcn.com/articles/3762287",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 06时44分]"
+        },
+        {
+          "title": "【每日收评】沪指连收10日阳线！机器人概念午后再度爆发，商业航天分歧加剧",
+          "url": "https://www.cls.cn/detail/2244138",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 06时44分]"
+        },
+        {
+          "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
+          "url": "https://www.cls.cn/detail/2244180",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时17分 ~ 06时44分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 4,
       "titles": [
@@ -304,8 +322,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 06时44分]"
         },
         {
           "title": "扬子新材(002652.SZ)：暂未布局商业航天领域",
@@ -316,8 +334,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 06时44分]"
         },
         {
           "title": "“箭”已上弦：万亿商业航天产业迎来哪些新期待？",
@@ -325,11 +343,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 06时44分]"
         },
         {
           "title": "海南：抢抓商业航天发展战略机遇期 狠抓重大牵引性项目建设",
@@ -359,8 +378,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 06时44分]"
         },
         {
           "title": "xAI：拟建造第三个超大规模数据中心 将把训练算力规模提升至近2吉瓦",
@@ -379,11 +398,12 @@
           "url": "https://wallstreetcn.com/livenews/3028923",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 06时44分]"
         }
       ]
     },
@@ -397,11 +417,12 @@
           "source": "财联社电报",
           "ranks": [
             3,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时19分]"
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 06时44分]"
         },
         {
           "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
@@ -508,19 +529,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 06时44分]"
         },
         {
           "title": "周二（12月30日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.31%，报88710美元，在震荡上行行情中，北京时间00:22刷新日高至89960美元。 CME以太币期货DCR主力合约涨1.29%，报2978.50美元，22:53刷新日高至3023美元。",
           "url": "https://wallstreetcn.com/livenews/3028936",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 06时44分]"
         }
       ]
     },
@@ -535,9 +557,26 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 06时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【研选】聚酯链景气上行，行业供需预期改善，产品盈利有望修复；公司已成功打通全固态电池量产的全线工艺环节，有望将液态电池设备优势复刻到固态电池领域",
+          "url": "https://api3.cls.cn/share/article/2243612?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "06时44分"
         }
       ]
     },
@@ -609,8 +648,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 06时44分]"
         }
       ]
     },
@@ -626,8 +665,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 06时44分]"
         }
       ]
     }
