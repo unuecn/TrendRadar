@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T06:44:47.839428+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2025-12-31T07:19:27.862101+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -9,28 +9,18 @@
       "titles": [
         {
           "title": "美股三大指数收盘均小幅下跌 大型科技股涨跌不一",
-          "url": "https://www.gelonghui.com/news/5143681",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 06时44分]"
-        },
-        {
-          "title": "美股三大指数收盘均小幅下跌 大型科技股涨跌不一",
           "url": "https://api3.cls.cn/share/article/2244723?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             2,
             6,
             8,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时20分 ~ 06时44分]"
+          "appearance_count": 5,
+          "time_info": "[05时20分 ~ 07时19分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 百度涨超4%",
@@ -39,11 +29,24 @@
           "ranks": [
             4,
             21,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时20分 ~ 06时44分]"
+          "appearance_count": 5,
+          "time_info": "[05时20分 ~ 07时19分]"
+        },
+        {
+          "title": "美股三大指数收盘均小幅下跌 大型科技股涨跌不一",
+          "url": "https://www.gelonghui.com/news/5143681",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 07时19分]"
         },
         {
           "title": "周二（12月30日）纽约尾盘，欧元兑美元跌0.20%，英镑兑美元跌0.33%，美元兑瑞郎涨0.37%。 商品货币对中，澳元兑美元涨0.05%，纽元兑美元跌0.17%，美元兑加元涨0.02%。",
@@ -80,11 +83,12 @@
           "ranks": [
             3,
             13,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时41分 ~ 06时44分]"
+          "appearance_count": 4,
+          "time_info": "[05时41分 ~ 07时19分]"
         },
         {
           "title": "生物科技ETF收跌将近1.1%，领跌美股行业ETF，能源ETF涨约0.8%",
@@ -105,11 +109,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 06时44分]"
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 07时19分]"
         },
         {
           "title": "行业ETF美股盘初多数走低，可选消费ETF、生物科技指数ETF跌超0.4%，网络股指数ETF跌约0.3%，全球科技股指数ETF涨0.1%，半导体ETF涨超0.3%。",
@@ -127,7 +132,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "xAI就人工智能训练数据法起诉加州总检察长",
@@ -160,11 +165,12 @@
           "url": "https://api3.cls.cn/share/article/2244735?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 07时19分]"
         },
         {
           "title": "英伟达正就收购以色列人工智能初创公司AI21 Labs展开深入谈判，交易金额预计至高达30亿美元。",
@@ -177,6 +183,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时45分 ~ 02时31分]"
+        },
+        {
+          "title": "印度已邀请中国参加全球人工智能峰会",
+          "url": "https://wallstreetcn.com/livenews/3028952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "财联社12月30日电，Meta涨幅扩大至2%，消息面上，公司拟收购AI智能体平台Manus。",
@@ -193,7 +210,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "小米：跨年直播将现场拆车",
@@ -203,8 +220,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "特斯拉官网罕见发布悲观的分析师交付量预期 料同比降幅15%",
+          "url": "https://api3.cls.cn/share/article/2244748?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "纳斯达克金龙中国指数高开低走，初步收跌0.2%。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。",
@@ -269,8 +297,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "沪指10连阳，机器人、AI智能体爆发，恒科指涨近2%，半导体领涨，英矽智能港股IPO涨约25%，国投白银LOF震荡调整，在岸人民币破7",
@@ -281,8 +309,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "【每日收评】沪指连收10日阳线！机器人概念午后再度爆发，商业航天分歧加剧",
@@ -302,11 +330,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时17分 ~ 06时44分]"
+          "appearance_count": 10,
+          "time_info": "[03时17分 ~ 07时19分]"
         }
       ]
     },
@@ -319,11 +348,12 @@
           "url": "https://www.cls.cn/detail/2244252",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "扬子新材(002652.SZ)：暂未布局商业航天领域",
@@ -331,11 +361,12 @@
           "source": "格隆汇",
           "ranks": [
             3,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "“箭”已上弦：万亿商业航天产业迎来哪些新期待？",
@@ -347,8 +378,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "海南：抢抓商业航天发展战略机遇期 狠抓重大牵引性项目建设",
@@ -375,11 +406,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "xAI：拟建造第三个超大规模数据中心 将把训练算力规模提升至近2吉瓦",
@@ -418,11 +450,12 @@
           "ranks": [
             3,
             5,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时41分 ~ 06时44分]"
+          "appearance_count": 4,
+          "time_info": "[05时41分 ~ 07时19分]"
         },
         {
           "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
@@ -448,6 +481,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 06时44分]"
+        },
+        {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -526,11 +587,12 @@
           "source": "格隆汇",
           "ranks": [
             7,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "周二（12月30日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.31%，报88710美元，在震荡上行行情中，北京时间00:22刷新日高至89960美元。 CME以太币期货DCR主力合约涨1.29%，报2978.50美元，22:53刷新日高至3023美元。",
@@ -538,28 +600,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 06时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 06时44分]"
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 07时19分]"
         }
       ]
     },
@@ -572,11 +618,12 @@
           "url": "https://api3.cls.cn/share/article/2243612?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 07时19分]"
         }
       ]
     },
@@ -645,11 +692,12 @@
           "source": "格隆汇",
           "ranks": [
             1,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 07时19分]"
         }
       ]
     },
@@ -665,8 +713,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 06时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 07时19分]"
         }
       ]
     }
