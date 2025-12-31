@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T00:50:24.986114+08:00",
-  "total_titles_processed": 259,
+  "generated_at": "2026-01-01T01:19:10.875046+08:00",
+  "total_titles_processed": 280,
   "failed_sources": [],
   "trends": [
     {
@@ -8,23 +8,23 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "消息称中国需求激增 英伟达与台积电接洽H200订单",
+          "url": "https://www.zaochenbao.com/news/taiwan/202512/3161131.html",
+          "source": "早报",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
           "url": "https://wallstreetcn.com/livenews/3029406",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
-        },
-        {
-          "title": "消息称中国需求激增 英伟达与台积电接洽H200订单",
-          "url": "https://www.zaochenbao.com/news/taiwan/202512/3161131.html",
-          "source": "早报",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -44,6 +44,35 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF跌0.36%，网络股指数ETF跌0.2%，能源业ETF跌0.1%，科技行业ETF涨0.1%，全球科技股指数ETF涨0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3029404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时50分]"
+        },
+        {
+          "title": "比特币跌穿87600美元刷新日低，日内稍早持续震荡上行，北京时间22:09还曾涨至89081.91美元刷新日高，之后相对显著地持续下挫。 彭博数据显示，狗狗币短线跳水，日内整体跌超5.13%，刷新日低至0.1164美元。",
+          "url": "https://wallstreetcn.com/livenews/3029434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 2,
       "titles": [
@@ -55,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "图解12月大事件：商业航天概念股持续受追捧，两大国产GPU龙头相继上市",
@@ -66,8 +95,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
         }
       ]
     },
@@ -80,11 +109,12 @@
           "url": "https://api3.cls.cn/share/article/2245959?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "谷歌旗下自动驾驶公司Waymo：正为明年在伦敦的商业发布做准备。",
@@ -92,11 +122,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
         }
       ]
     },
@@ -112,19 +143,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "财联社12月31日电，据《The Information》报道，英伟达正在投资布鲁克菲尔德（BROOKFIELD）人工智能基础设施基金。",
           "url": "https://api3.cls.cn/share/article/2245934?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
         }
       ]
     },
@@ -137,29 +169,12 @@
           "url": "https://wallstreetcn.com/articles/3762305",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF跌0.36%，网络股指数ETF跌0.2%，能源业ETF跌0.1%，科技行业ETF涨0.1%，全球科技股指数ETF涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3029404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
         }
       ]
     },
@@ -175,8 +190,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
         }
       ]
     },
