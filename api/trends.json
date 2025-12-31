@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T04:44:41.158527+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-01-01T05:19:36.730640+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             5,
             8,
             10,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 04时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 05时19分]"
         },
         {
           "title": "比特币跌穿87600美元刷新日低，日内稍早持续震荡上行，北京时间22:09还曾涨至89081.91美元刷新日高，之后相对显著地持续下挫。 彭博数据显示，狗狗币短线跳水，日内整体跌超5.13%，刷新日低至0.1164美元。",
@@ -85,19 +86,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 04时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 05时19分]"
         },
         {
           "title": "财联社1月1日电，台积电声明，美国商务部已向台积电南京公司颁发美国出口管制物项的年度出口许可证。台积电表示，该许可证于现有经验证最终用户(VEU)授权于2025年12月31日到期前签发，可确保晶圆厂运营与产品交付不受影响。",
           "url": "https://api3.cls.cn/share/article/2245989?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            2
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时19分]"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
@@ -136,8 +138,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 04时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 05时19分]"
         },
         {
           "title": "图解12月大事件：商业航天概念股持续受追捧，两大国产GPU龙头相继上市",
@@ -147,8 +149,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 04时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 05时19分]"
         },
         {
           "title": "美国总统特朗普引用《纽约邮报》的文章在Truth Social上发文称，普京关于“攻击”的强硬言论表明，俄罗斯是和平进程的主要阻碍方。",
@@ -177,8 +179,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 04时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 05时19分]"
         },
         {
           "title": "财联社12月31日电，据《The Information》报道，英伟达正在投资布鲁克菲尔德（BROOKFIELD）人工智能基础设施基金。",
@@ -199,11 +201,41 @@
           "url": "https://flash.jin10.com/detail/20260101031526181800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 05时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 05时19分]"
+        },
+        {
+          "title": "2025收官日美国股债双杀，期银盘中跌超10%、仍携手黄金创1979年来最大年涨",
+          "url": "https://wallstreetcn.com/articles/3762386",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         }
       ]
     },
@@ -244,24 +276,6 @@
       ]
     },
     {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 04时44分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 1,
       "titles": [
@@ -288,11 +302,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 05时19分]"
         }
       ]
     },
