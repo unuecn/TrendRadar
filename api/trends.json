@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T09:51:42.529160+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-01-01T11:50:52.430897+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时45分 ~ 07时41分]"
+        },
+        {
+          "title": "美股三大指数小幅收跌，道指月线八连涨，中概指数跌1.13%",
+          "url": "https://www.gelonghui.com/news/5144670",
+          "source": "格隆汇",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时50分]"
         },
         {
           "title": "12月份，美元兑日元累计上涨0.18%，周三（12月31日）纽约尾盘报156.45日元，四季度累涨2.20%，2025年累跌将近0.48%，整体交投区间为139.89-158.87日元，呈现出V形走势。",
@@ -72,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
-        },
-        {
-          "title": "美股三大指数小幅收跌，道指月线八连涨，中概指数跌1.13%",
-          "url": "https://www.gelonghui.com/news/5144670",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
         },
         {
           "title": "周四你需要知道的隔夜全球要闻：美股三大指数连续三年录得超两位数涨幅；国际金银均创1979年以来最大年度涨幅；国际原油期货结算价创2020年以来最大年度跌幅",
@@ -163,8 +164,41 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "财联社1月1日电，小米集团董事长雷军表示，小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
+          "url": "https://api3.cls.cn/share/article/2246079?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "雷军：小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
+          "url": "https://wallstreetcn.com/livenews/3029559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "小米集团董事长雷军：小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
+          "url": "https://flash.jin10.com/detail/20260101112910886800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
         {
           "title": "财联社1月1日电，小米汽车2025年12月交付量超过5万台。",
           "url": "https://api3.cls.cn/share/article/2246037?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -172,7 +206,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -183,7 +217,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -194,7 +228,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -205,7 +239,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -216,7 +250,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -227,7 +261,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -235,7 +269,7 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "消息称中国需求激增 英伟达与台积电接洽H200订单",
@@ -284,11 +318,12 @@
           "url": "https://www.zaochenbao.com/news/opinion/202601/0161174.html",
           "source": "早报",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时50分]"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
@@ -312,12 +347,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "台积电获年度许可向南京厂输出美产芯片制造设备",
+          "url": "https://flash.jin10.com/detail/20260101105439491800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         }
       ]
     },
     {
       "keyword_group": "鸿蒙 OpenHarmony 昇腾",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "鸿蒙12月日均新增设备数超15万，注册开发者超过1000万，华为应用市场可获取的应用和元服务的数量超过35万。",
@@ -326,7 +372,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -337,7 +383,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -348,7 +394,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -359,7 +405,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -370,7 +416,68 @@
           "ranks": [
             30
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "与鸿蒙共赴下一个1000天",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8E%E9%B8%BF%E8%92%99%E5%85%B1%E8%B5%B4%E4%B8%8B%E4%B8%80%E4%B8%AA1000%E5%A4%A9%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "陈天桥再投资！押注中国首家超声波脑机接口公司",
+          "url": "https://wallstreetcn.com/livenews/3029555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "财联社1月1日电，马斯克称，Neuralink将于2026年开始大规模生产脑机接口设备，并转向精简、几乎完全自动化的手术流程。",
+          "url": "https://api3.cls.cn/share/article/2246022?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "马斯克：Neuralink将于2026年开始大规模生产脑机接口设备，并转向精简、几乎完全自动化的手术流程。",
+          "url": "https://wallstreetcn.com/livenews/3029510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "马斯克：Neuralink将于2026年开始大规模生产脑机接口设备，并转向精简、几乎完全自动化的手术流程。",
+          "url": "https://flash.jin10.com/detail/20260101075318731800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -399,11 +506,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 09时51分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 11时50分]"
         },
         {
           "title": "美国总统特朗普引用《纽约邮报》的文章在Truth Social上发文称，普京关于“攻击”的强硬言论表明，俄罗斯是和平进程的主要阻碍方。",
@@ -416,6 +524,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时16分 ~ 04时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "雷达",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "禾赛激光雷达2025全年交付量超160万台",
+          "url": "https://api3.cls.cn/share/article/2246052?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "禾赛科技公布，禾赛激光雷达2025全年交付量超160万台，其中ADAS产品全年交付量约140万台。",
+          "url": "https://wallstreetcn.com/livenews/3029540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "禾赛科技：禾赛激光雷达2025全年交付量超160万台，其中ADAS产品全年交付量约140万台。",
+          "url": "https://flash.jin10.com/detail/20260101103324062800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         }
       ]
     },
@@ -464,41 +611,42 @@
       ]
     },
     {
-      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 3,
       "titles": [
         {
-          "title": "财联社1月1日电，马斯克称，Neuralink将于2026年开始大规模生产脑机接口设备，并转向精简、几乎完全自动化的手术流程。",
-          "url": "https://api3.cls.cn/share/article/2246022?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "星链卫星曾两次危险抵近中国空间站",
+          "url": "https://www.cls.cn/detail/2245923",
+          "source": "财联社热门",
           "ranks": [
-            16
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 11时50分]"
         },
         {
-          "title": "马斯克：Neuralink将于2026年开始大规模生产脑机接口设备，并转向精简、几乎完全自动化的手术流程。",
-          "url": "https://wallstreetcn.com/livenews/3029510",
-          "source": "华尔街见闻-快讯",
+          "title": "美星链卫星被指危险抵近中国空间站 严重威胁航天员生命",
+          "url": "https://www.zaochenbao.com/news/china/202601/0161180.html",
+          "source": "早报",
           "ranks": [
-            20
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "11时50分"
         },
         {
-          "title": "马斯克：Neuralink将于2026年开始大规模生产脑机接口设备，并转向精简、几乎完全自动化的手术流程。",
-          "url": "https://flash.jin10.com/detail/20260101075318731800",
-          "source": "金十数据",
+          "title": "突发！300亿商业航天概念股涉嫌信息披露违法违规被证监会立案|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2245906",
+          "source": "财联社热门",
           "ranks": [
-            29
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "11时50分"
         }
       ]
     },
@@ -595,11 +743,12 @@
           "url": "https://wallstreetcn.com/articles/3762366",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时50分]"
         }
       ]
     },
@@ -621,24 +770,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时22分 ~ 06时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "星链卫星曾两次危险抵近中国空间站",
-          "url": "https://www.cls.cn/detail/2245923",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时19分 ~ 09时51分]"
         }
       ]
     },
