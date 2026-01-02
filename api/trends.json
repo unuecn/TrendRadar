@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T16:55:09.353862+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-01-02T17:25:11.609320+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
@@ -102,6 +102,18 @@
           "time_info": "[00时27分 ~ 03时17分]"
         },
         {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 17时25分]"
+        },
+        {
           "title": "深度求索发布新论文 梁文锋署名",
           "url": "https://www.zaochenbao.com/news/china/202601/0261255.html",
           "source": "早报",
@@ -115,15 +127,15 @@
           "time_info": "[11时40分 ~ 14时33分]"
         },
         {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 16时55分]"
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
         }
       ]
     },
@@ -279,6 +291,18 @@
           "time_info": "[14时33分 ~ 16时29分]"
         },
         {
+          "title": "星链疯狂扩张后，马斯克SpaceX宣布史上最大卫星降轨行动",
+          "url": "https://www.cls.cn/detail/2246325",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 17时25分]"
+        },
+        {
           "title": "星链计划于2026年降低卫星轨道高度 提升太空运行安全性",
           "url": "https://api3.cls.cn/share/article/2246240?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -301,17 +325,84 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时20分 ~ 07时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
+          "url": "https://wallstreetcn.com/articles/3762419",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 11时40分]"
         },
         {
-          "title": "星链疯狂扩张后，马斯克SpaceX宣布史上最大卫星降轨行动",
-          "url": "https://www.cls.cn/detail/2246325",
-          "source": "财联社热门",
+          "title": "财联社1月2日电，据葡萄牙汽车协会（ACAP），葡萄牙12月特斯拉新车注册量同比下降12.7%，2025年累计下降22.3%。",
+          "url": "https://api3.cls.cn/share/article/2246385?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            13
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时54分 ~ 16时55分]"
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "挪威道路联合会：12月特斯拉(TSLA.O)在挪威的新车注册量同比增长了89%。",
+          "url": "https://flash.jin10.com/detail/20260102152520172800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 16时55分]"
+        },
+        {
+          "title": "财联社1月2日电，挪威道路联合会数据显示，特斯拉在挪威的新车注册量在12月同比增长89%。",
+          "url": "https://api3.cls.cn/share/article/2246356?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 16时29分]"
+        },
+        {
+          "title": "瑞典出行数据显示，特斯拉12月在瑞典的新车注册量同比增长70.6%。",
+          "url": "https://flash.jin10.com/detail/20260102155843427800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 16时55分]"
+        },
+        {
+          "title": "葡萄牙汽车协会（ACAP）：葡萄牙12月特斯拉(TSLA.O)新车注册量同比下降12.7%，2025年累计下降22.3%。",
+          "url": "https://flash.jin10.com/detail/20260102164902604800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
         }
       ]
     },
@@ -327,8 +418,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时27分 ~ 16时55分]"
+          "appearance_count": 30,
+          "time_info": "[00时27分 ~ 17时25分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -342,8 +433,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时41分 ~ 16时55分]"
+          "appearance_count": 11,
+          "time_info": "[12时41分 ~ 17时25分]"
         },
         {
           "title": "“港股GPU第一股”壁仞科技港股上市首日开盘报35.7港元，涨幅82.14%，招股价为19.6港元。",
@@ -382,62 +473,6 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
-          "url": "https://wallstreetcn.com/articles/3762419",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 11时40分]"
-        },
-        {
-          "title": "挪威道路联合会：12月特斯拉(TSLA.O)在挪威的新车注册量同比增长了89%。",
-          "url": "https://flash.jin10.com/detail/20260102152520172800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 16时55分]"
-        },
-        {
-          "title": "财联社1月2日电，挪威道路联合会数据显示，特斯拉在挪威的新车注册量在12月同比增长89%。",
-          "url": "https://api3.cls.cn/share/article/2246356?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 16时29分]"
-        },
-        {
-          "title": "瑞典出行数据显示，特斯拉12月在瑞典的新车注册量同比增长70.6%。",
-          "url": "https://flash.jin10.com/detail/20260102155843427800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 16时55分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 4,
       "titles": [
@@ -453,8 +488,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 16时55分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 17时25分]"
         },
         {
           "title": "大行评级｜花旗：以旧换新补贴新政或令入门级车型市场加快整合 比亚迪、吉利等更具规模优势",
@@ -536,11 +571,12 @@
           "url": "https://api3.cls.cn/share/article/2246367?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 16时55分]"
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 17时25分]"
         }
       ]
     },
@@ -727,6 +763,35 @@
       ]
     },
     {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "加密货币深夜巨震 超10万人爆仓 比特币2个月重挫近30%",
+          "url": "https://www.gelonghui.com/news/5144680",
+          "source": "格隆汇",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 11时40分]"
+        },
+        {
+          "title": "嘉信理财：看好比特币今年表现，将受益于量化宽松、美联储购债等因素",
+          "url": "https://www.gelonghui.com/news/5144722",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 1,
       "titles": [
@@ -772,11 +837,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 16时55分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 17时25分]"
         }
       ]
     },
@@ -794,24 +860,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "加密货币深夜巨震 超10万人爆仓 比特币2个月重挫近30%",
-          "url": "https://www.gelonghui.com/news/5144680",
-          "source": "格隆汇",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 11时40分]"
         }
       ]
     }
