@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T09:51:56.376852+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-01-04T11:51:19.995792+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
@@ -86,8 +86,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 09时51分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 11时51分]"
         },
         {
           "title": "小米回应“绿化带战神”“关闭直播平台评论”",
@@ -133,13 +133,24 @@
           "time_info": "[00时24分 ~ 03时16分]"
         },
         {
+          "title": "雷军：小米汽车今年全年交付55万辆",
+          "url": "https://www.zaochenbao.com/news/china/202601/0461418.html",
+          "source": "早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "雷军称小米车轮子撞掉是丢轮保车",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%E8%BD%A6%E8%BD%AE%E5%AD%90%E6%92%9E%E6%8E%89%E6%98%AF%E4%B8%A2%E8%BD%AE%E4%BF%9D%E8%BD%A6%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -193,6 +204,102 @@
       ]
     },
     {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "机构：比特币今年有望强劲反弹，或将跑赢股市与黄金",
+          "url": "https://www.gelonghui.com/news/5144805",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时51分]"
+        },
+        {
+          "title": "比特币价格急跌或拖累Strategy第四季录得数十亿美元亏损",
+          "url": "https://www.gelonghui.com/news/5144804",
+          "source": "格隆汇",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时51分]"
+        },
+        {
+          "title": "比特币升破91000美元",
+          "url": "https://www.gelonghui.com/news/5144803",
+          "source": "格隆汇",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时51分]"
+        },
+        {
+          "title": "马杜罗被美国“闪击”，委内瑞拉“传说中的600亿美元比特币”会流向何方？",
+          "url": "https://wallstreetcn.com/articles/3762490",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美联储保尔森：人工智能的潜在应用可能导致强劲增长和就业创造乏力。",
+          "url": "https://flash.jin10.com/detail/20260104033259033800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[03时38分 ~ 07时41分]"
+        },
+        {
+          "title": "交通运输部：推动交通运输公共数据与企业数据融合应用，支撑“人工智能+交通运输”应用",
+          "url": "https://wallstreetcn.com/livenews/3030206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时51分]"
+        },
+        {
+          "title": "【电报解读】阿里云称2026年初AI应用将会再一次爆发，分析师看好当前AI应用商业模式正在快速从“概念验证”走向“收入闭环”，这家公司和阿里云在企业数智财税服务方面保持长期紧密的技术合作",
+          "url": "https://api3.cls.cn/share/article/2246745?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 3,
       "titles": [
@@ -205,8 +312,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 09时51分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 11时51分]"
         },
         {
           "title": "星链疯狂扩张后，马斯克SpaceX宣布史上最大卫星降轨行动",
@@ -227,46 +334,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "机构：比特币今年有望强劲反弹，或将跑赢股市与黄金",
-          "url": "https://www.gelonghui.com/news/5144805",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "比特币价格急跌或拖累Strategy第四季录得数十亿美元亏损",
-          "url": "https://www.gelonghui.com/news/5144804",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "比特币升破91000美元",
-          "url": "https://www.gelonghui.com/news/5144803",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -282,11 +350,12 @@
           "source": "格隆汇",
           "ranks": [
             5,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 09时51分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 11时51分]"
         },
         {
           "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
@@ -298,8 +367,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 09时51分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 11时51分]"
         }
       ]
     },
@@ -326,7 +395,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -356,42 +425,12 @@
           "source": "格隆汇",
           "ranks": [
             6,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时18分 ~ 09时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美联储保尔森：人工智能的潜在应用可能导致强劲增长和就业创造乏力。",
-          "url": "https://flash.jin10.com/detail/20260104033259033800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时38分 ~ 07时41分]"
-        },
-        {
-          "title": "交通运输部：推动交通运输公共数据与企业数据融合应用，支撑“人工智能+交通运输”应用",
-          "url": "https://wallstreetcn.com/livenews/3030206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "appearance_count": 20,
+          "time_info": "[01时18分 ~ 11时51分]"
         }
       ]
     },
@@ -406,7 +445,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -422,11 +461,46 @@
           "source": "格隆汇",
           "ranks": [
             2,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 09时51分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 11时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十期货1月4日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格与上日持平，中间价报117250元/吨。",
+          "url": "https://flash.jin10.com/detail/20260104103300741800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果“Apple 智能与 Siri”被曝已开启国行灰度测试，部分功能受限",
+          "url": "https://wallstreetcn.com/livenews/3030210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     },
