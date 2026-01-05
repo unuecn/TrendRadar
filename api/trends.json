@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T06:47:11.428001+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-01-06T07:20:46.019433+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -27,41 +27,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "财联社1月6日电，英伟达计划2027年测试一款无人驾驶出租车服务。",
           "url": "https://api3.cls.cn/share/article/2248631?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 06时47分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：亚马逊云服务(AWS)、谷歌云、微软、OCI将于2026年部署基于Vera Rubin的实例。",
-          "url": "https://flash.jin10.com/detail/20260106062451748800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 06时47分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：基于Rubin芯片架构的产品将于2026年下半年上市。",
-          "url": "https://flash.jin10.com/detail/20260106062404357800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 06时47分]"
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 07时20分]"
         },
         {
           "title": "英伟达(NVDA.O)宣布推出模型“Alpamayo”，用于智能车辆。",
@@ -82,11 +61,25 @@
           "source": "金十数据",
           "ranks": [
             3,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：发布NVIDIA COSMOS开放世界基础模型，实现类人推理能力。",
+          "url": "https://flash.jin10.com/detail/20260106060032858800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时21分 ~ 07时20分]"
         },
         {
           "title": "财联社1月6日电，英伟达为能够“思考”类交通工具推出Alpamayo模型。",
@@ -100,18 +93,6 @@
           "time_info": "[06时21分 ~ 06时22分]"
         },
         {
-          "title": "英伟达(NVDA.O)：发布NVIDIA COSMOS开放世界基础模型，实现类人推理能力。",
-          "url": "https://flash.jin10.com/detail/20260106060032858800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 06时47分]"
-        },
-        {
           "title": "英伟达为（能够）“思考”类交通工具推出Alpamayo模型。",
           "url": "https://wallstreetcn.com/livenews/3031109",
           "source": "华尔街见闻-快讯",
@@ -123,15 +104,28 @@
           "time_info": "05时43分"
         },
         {
-          "title": "黄仁勋：英伟达新款Rubin芯片进展顺利，助力加速AI进程",
-          "url": "https://wallstreetcn.com/livenews/3031135",
-          "source": "华尔街见闻-快讯",
+          "title": "英伟达(NVDA.O)：亚马逊云服务(AWS)、谷歌云、微软、OCI将于2026年部署基于Vera Rubin的实例。",
+          "url": "https://flash.jin10.com/detail/20260106062451748800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 07时20分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：基于Rubin芯片架构的产品将于2026年下半年上市。",
+          "url": "https://flash.jin10.com/detail/20260106062404357800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 07时20分]"
         },
         {
           "title": "英伟达(NVDA.O)：发布用于语音、多模态检索增强生成和安全领域的NEMOTRON模型。",
@@ -139,11 +133,24 @@
           "source": "金十数据",
           "ranks": [
             7,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "黄仁勋：英伟达新款Rubin芯片进展顺利，助力加速AI进程",
+          "url": "https://wallstreetcn.com/livenews/3031135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时20分]"
         },
         {
           "title": "英伟达CEO黄仁勋：模型“Alpamayo”是全球首款具备思考、推理和自主驾驶能力的智能汽车AI系统。该系统采用端到端训练模式，从摄像头输入到执行器输出实现全流程训练。",
@@ -162,152 +169,74 @@
           "url": "https://wallstreetcn.com/livenews/3031125",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时20分]"
         },
         {
           "title": "英伟达CEO黄仁勋：AI的复杂性推高需求。 新款Vera Rubin设计已经全面量产。 宣布面向Vera Rubin电脑的六款新芯片。 新款VeraCPU拥有88 Arm定制核。 公司现在是最大的网络公司。",
           "url": "https://wallstreetcn.com/livenews/3031124",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时20分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：多家顶尖交通与科技合作伙伴基于公司的L4级无人驾驶出租车就绪平台展开开发，平台由英伟达HALOS工具提供支持。",
+          "url": "https://flash.jin10.com/detail/20260106070010832800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
-          "url": "https://www.cls.cn/detail/2248455",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时47分]"
+          "time_info": "07时20分"
         },
         {
-          "title": "飞荣达(300602.SZ)：公司与优必选在人工智能领域有相关合作",
-          "url": "https://www.gelonghui.com/news/5145957",
-          "source": "格隆汇",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时47分]"
-        },
-        {
-          "title": "德媒：人工智能浪潮推动亚洲繁荣",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/01/05/d612ec38ba554880a104ab83c61a25e5.html",
-          "source": "参考消息",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时47分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：微软的“Fairwater”人工智能超级工厂将扩展至配备数十万块英伟达Vera Rubin超级芯片。",
-          "url": "https://flash.jin10.com/detail/20260106062543527800",
+          "title": "英伟达(NVDA.O)：Bluefield-4将于2026年下半年上市。",
+          "url": "https://flash.jin10.com/detail/20260106064348923800",
           "source": "金十数据",
           "ranks": [
-            1
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 06时47分]"
-        },
-        {
-          "title": "财联社1月6日电，英伟达CEO黄仁勋表示，推出NVIDIACosmos开放世界基础模型，该模型具备类人推理能力。推出新的克拉拉Clara人工智能模型，弥合数字发现与现实医疗之间的差距。",
-          "url": "https://api3.cls.cn/share/article/2248625?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 06时47分]"
-        },
-        {
-          "title": "财联社1月6日电，博世预计到下个十年初，其软件和服务业务销售额将超过60亿欧元。博世计划在2027年底前在人工智能领域投资逾25亿欧元。",
-          "url": "https://api3.cls.cn/share/article/2248582?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            8,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 03时21分]"
-        },
-        {
-          "title": "桥水基金创始人达利欧表示，人工智能热潮正处于早期泡沫阶段。",
-          "url": "https://flash.jin10.com/detail/20260106002257023800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "07时20分"
         },
         {
-          "title": "美国白宫：特朗普签署命令，启动“创世纪计划”，这是一项专门且协调一致的全国性举措，旨在开启一个由人工智能驱动的创新与发现的新时代，以解决本世纪面临的最严峻问题。",
-          "url": "https://flash.jin10.com/detail/20260106055021121800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 06时47分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：推出Vera Rubin平台，包含六款全新芯片，旨在打造一台人工智能超级计算机。",
-          "url": "https://flash.jin10.com/detail/20260106061624031800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 06时47分]"
-        },
-        {
-          "title": "【桥水创始人达利欧：AI热潮正处于泡沫初期阶段，美联储会进一步吹大泡沫】对冲基金经理雷伊・达利欧发文警告，曾推动华尔街科技股走高的人工智能（AI）热潮目前已进入泡沫初期阶段。他指出，2025年美国股市表现显著落后于非美股市及黄金资产。“显然，相较于美国股票，投资者更愿意配置非美股票；同理，他们也更倾向于持有非美债券，而非美国债券与美元现金。”“当然，未来美联储的政策走向以及生产力增速，都存在巨大的不确定性。” 达利欧表示。“种种迹象表明，新任美联储主席及联邦公开市场委员会，大概率会倾向于压低名义利率与实际利率。这一举措虽会对资产价格形成支撑，但也会进一步吹大泡沫。”",
-          "url": "https://wallstreetcn.com/livenews/3031028",
+          "title": "英伟达推出BlueField-4数据处理器，赋能新一代AI原生存储基础设施，开启AI新纪元",
+          "url": "https://wallstreetcn.com/livenews/3031139",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            21
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 02时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：英伟达Bluefield-4数据处理器为英伟达推理上下文内存存储平台提供支持。",
+          "url": "https://flash.jin10.com/detail/20260106064033337800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
@@ -319,8 +248,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "2nm、黄仁勋、中国机器人抱团出海，这是即将发生在CES上的故事",
@@ -334,8 +263,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -410,11 +339,12 @@
           "url": "https://api3.cls.cn/share/article/2248619?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 06时47分]"
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 07时20分]"
         },
         {
           "title": "LG在CES2026上推出了CLOiD，这是该展会上首个旨在实现家务自动化的机器人展示。",
@@ -426,6 +356,168 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "英伟达推出适用于自动驾驶汽车和机器人的全新AI工具",
+          "url": "https://flash.jin10.com/detail/20260106063939900800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "OpenAI支持的公司推家务机器人 售价2万美元",
+          "url": "https://flash.jin10.com/detail/20260106063634804800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
+          "url": "https://www.cls.cn/detail/2248455",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "飞荣达(300602.SZ)：公司与优必选在人工智能领域有相关合作",
+          "url": "https://www.gelonghui.com/news/5145957",
+          "source": "格隆汇",
+          "ranks": [
+            6,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "德媒：人工智能浪潮推动亚洲繁荣",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/01/05/d612ec38ba554880a104ab83c61a25e5.html",
+          "source": "参考消息",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "财联社1月6日电，英伟达CEO黄仁勋表示，推出NVIDIACosmos开放世界基础模型，该模型具备类人推理能力。推出新的克拉拉Clara人工智能模型，弥合数字发现与现实医疗之间的差距。",
+          "url": "https://api3.cls.cn/share/article/2248625?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "财联社1月6日电，博世预计到下个十年初，其软件和服务业务销售额将超过60亿欧元。博世计划在2027年底前在人工智能领域投资逾25亿欧元。",
+          "url": "https://api3.cls.cn/share/article/2248582?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            8,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 03时21分]"
+        },
+        {
+          "title": "桥水基金创始人达利欧表示，人工智能热潮正处于早期泡沫阶段。",
+          "url": "https://flash.jin10.com/detail/20260106002257023800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：微软的“Fairwater”人工智能超级工厂将扩展至配备数十万块英伟达Vera Rubin超级芯片。",
+          "url": "https://flash.jin10.com/detail/20260106062543527800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 07时20分]"
+        },
+        {
+          "title": "美国白宫：特朗普签署命令，启动“创世纪计划”，这是一项专门且协调一致的全国性举措，旨在开启一个由人工智能驱动的创新与发现的新时代，以解决本世纪面临的最严峻问题。",
+          "url": "https://flash.jin10.com/detail/20260106055021121800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时21分 ~ 06时47分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：推出Vera Rubin平台，包含六款全新芯片，旨在打造一台人工智能超级计算机。",
+          "url": "https://flash.jin10.com/detail/20260106061624031800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 07时20分]"
+        },
+        {
+          "title": "【桥水创始人达利欧：AI热潮正处于泡沫初期阶段，美联储会进一步吹大泡沫】对冲基金经理雷伊・达利欧发文警告，曾推动华尔街科技股走高的人工智能（AI）热潮目前已进入泡沫初期阶段。他指出，2025年美国股市表现显著落后于非美股市及黄金资产。“显然，相较于美国股票，投资者更愿意配置非美股票；同理，他们也更倾向于持有非美债券，而非美国债券与美元现金。”“当然，未来美联储的政策走向以及生产力增速，都存在巨大的不确定性。” 达利欧表示。“种种迹象表明，新任美联储主席及联邦公开市场委员会，大概率会倾向于压低名义利率与实际利率。这一举措虽会对资产价格形成支撑，但也会进一步吹大泡沫。”",
+          "url": "https://wallstreetcn.com/livenews/3031028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 02时32分]"
+        },
+        {
+          "title": "英伟达：新款Rubin芯片进展顺利，有助于加快人工智能的运行速度",
+          "url": "https://flash.jin10.com/detail/20260106065123141800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     },
@@ -441,8 +533,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "2026开门红！沪指重回4000点，创33年最长连阳纪录，脑机接口掀起涨停潮，恒指震荡微涨，快手涨超11%",
@@ -454,8 +546,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "炒热点还是真技术？国内脑机接口离量产仍有距离",
@@ -477,8 +569,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "【焦点复盘】沪指刷新33年来连阳纪录，两市成交额激增超5000亿，脑机接口概念掀批量涨停",
@@ -503,11 +595,12 @@
           "source": "格隆汇",
           "ranks": [
             2,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "南向资金追踪｜单日净买入超187亿港元创近阶段新高 减持腾讯加仓快手和小米",
@@ -567,11 +660,12 @@
           "url": "https://www.cls.cn/detail/2248463",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉涨3.1%，苹果跌约1.4%",
@@ -624,22 +718,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[06时21分 ~ 07时20分]"
         },
         {
           "title": "据CNBC：英伟达计划在2027年测试自动驾驶出租车服务，以推动自动驾驶发展。",
           "url": "https://flash.jin10.com/detail/20260106062020826800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 06时47分]"
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 07时20分]"
         },
         {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
@@ -647,11 +743,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 06时47分]"
+          "appearance_count": 3,
+          "time_info": "[06时22分 ~ 07时20分]"
         },
         {
           "title": "英伟达推出Alpamayo系列开源AI模型与工具，加速安全及基于推理的自动驾驶汽车开发",
@@ -725,50 +822,20 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
       "match_count": 3,
       "titles": [
         {
-          "title": "六大车企去年成绩单：比亚迪460万辆销量居首，上汽、吉利斩获两位数增幅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32313092",
-          "source": "澎湃新闻",
+          "title": "Uber(UBER.N)：在2026年国际消费电子展上，Lucid、Nuro与Uber将推出量产意向型车辆，这些车辆将用于其全球的自动驾驶出租车服务。",
+          "url": "https://flash.jin10.com/detail/20260106070228836800",
+          "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时47分]"
-        },
-        {
-          "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
-          "url": "https://www.cls.cn/detail/2248257",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时47分]"
-        },
-        {
-          "title": "标普500指数初步收涨0.6%，能源板块涨2.7%，金融板块涨2.1%，电信板块涨0.6%，科技版跌0.3%。 纳斯达克100指数初步收涨0.7%，成分股中，拉美电商MercadoLibre涨9%，科磊涨6.2%，Shopify涨5.9%，应用材料、阿斯麦ADR、拉姆研究涨超5%，安进、卡夫亨氏、吉利德科学、核电股CEG跌超2%，铿腾电子跌3.2%，Diamondback Energy跌3.4%。 雪佛龙初步收涨5.1%，高盛涨3.8%，卡特彼勒、亚马逊、霍尼韦尔涨超2%，领跑道指成分股，麦当劳、苹果、强生、可口可乐、安进则至少跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3031093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费电子 智能穿戴 智能座舱",
-      "match_count": 2,
-      "titles": [
+          "time_info": "07时20分"
+        },
         {
           "title": "LG在2026年国际消费电子展（CES）上发布W6壁纸电视，其厚度仅为9毫米。",
           "url": "https://wallstreetcn.com/livenews/3031038",
@@ -792,6 +859,75 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 02时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "六大车企去年成绩单：比亚迪460万辆销量居首，上汽、吉利斩获两位数增幅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32313092",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
+          "url": "https://www.cls.cn/detail/2248257",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.6%，能源板块涨2.7%，金融板块涨2.1%，电信板块涨0.6%，科技版跌0.3%。 纳斯达克100指数初步收涨0.7%，成分股中，拉美电商MercadoLibre涨9%，科磊涨6.2%，Shopify涨5.9%，应用材料、阿斯麦ADR、拉姆研究涨超5%，安进、卡夫亨氏、吉利德科学、核电股CEG跌超2%，铿腾电子跌3.2%，Diamondback Energy跌3.4%。 雪佛龙初步收涨5.1%，高盛涨3.8%，卡特彼勒、亚马逊、霍尼韦尔涨超2%，领跑道指成分股，麦当劳、苹果、强生、可口可乐、安进则至少跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3031093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "财联社1月6日电，根据SK海力士官网发布的声明，该公司在CES上首次展示了容量为48GB的16层HBM4，这是其新一代高带宽内存（HBM）产品。",
+          "url": "https://api3.cls.cn/share/article/2248639?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "SK海力士在CES展示16层HBM4",
+          "url": "https://wallstreetcn.com/livenews/3031143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     },
@@ -839,8 +975,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "财联社1月6日电，英伟达推出BlueField-4数据处理器，为英伟达推理上下文内存存储平台提供算力支持。Bluefield-4将于2026年下半年上市。",
+          "url": "https://api3.cls.cn/share/article/2248632?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     },
