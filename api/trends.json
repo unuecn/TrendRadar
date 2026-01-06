@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T15:46:55.753628+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-01-06T16:32:05.269554+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             1,
             3,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时29分 ~ 15时46分]"
+          "appearance_count": 10,
+          "time_info": "[11时29分 ~ 16时32分]"
         },
         {
           "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
@@ -43,19 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 15时46分]"
-        },
-        {
-          "title": "台积电股价创去年4月以来最大涨幅",
-          "url": "https://www.zaochenbao.com/news/taiwan/202601/0561513.html",
-          "source": "早报",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 16时32分]"
         },
         {
           "title": "英伟达：中国客户对H200晶片需求强劲",
@@ -68,8 +58,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时58分 ~ 15时46分]"
+          "appearance_count": 8,
+          "time_info": "[12时58分 ~ 16时32分]"
+        },
+        {
+          "title": "台积电股价创去年4月以来最大涨幅",
+          "url": "https://www.zaochenbao.com/news/taiwan/202601/0561513.html",
+          "source": "早报",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 07时43分]"
         },
         {
           "title": "财联社1月6日电，英伟达计划2027年测试一款无人驾驶出租车服务。",
@@ -358,8 +359,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时27分 ~ 15时46分]"
+          "appearance_count": 31,
+          "time_info": "[00时27分 ~ 16时32分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -406,7 +407,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -578,11 +579,12 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时27分 ~ 15时46分]"
+          "appearance_count": 31,
+          "time_info": "[00时27分 ~ 16时32分]"
         },
         {
           "title": "炒热点还是真技术？国内脑机接口离量产仍有距离",
@@ -689,7 +691,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -813,11 +815,12 @@
             14,
             19,
             21,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时27分 ~ 15时46分]"
+          "appearance_count": 31,
+          "time_info": "[00时27分 ~ 16时32分]"
         },
         {
           "title": "财联社1月6日电，英伟达CEO黄仁勋表示，推出NVIDIACosmos开放世界基础模型，该模型具备类人推理能力。推出新的克拉拉Clara人工智能模型，弥合数字发现与现实医疗之间的差距。",
@@ -961,7 +964,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         }
@@ -1144,11 +1147,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E7%A7%B0%E6%B0%B8%E4%B8%8D%E4%B8%8E%E5%A4%A7%E7%86%8A%E5%90%88%E4%BD%9C%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时46分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 16时32分]"
         },
         {
           "title": "特斯拉ModelYL首次推出5年0息",
@@ -1246,8 +1250,19 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "超颖电子：AI算力高阶印制电路板扩产项目投资金额变更为33.15亿元",
+          "url": "https://api3.cls.cn/share/article/2249310?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
         {
           "title": "财联社1月6日电，英特尔宣布推出新一代集成式GPU——英特尔ARC B390图形处理器。",
           "url": "https://api3.cls.cn/share/article/2248648?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -1634,7 +1649,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -1684,7 +1699,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -1812,6 +1827,70 @@
       ]
     },
     {
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "Uber(UBER.N)：在2026年国际消费电子展上，Lucid、Nuro与Uber将推出量产意向型车辆，这些车辆将用于其全球的自动驾驶出租车服务。",
+          "url": "https://flash.jin10.com/detail/20260106070228836800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时43分]"
+        },
+        {
+          "title": "LG在2026年国际消费电子展（CES）上发布W6壁纸电视，其厚度仅为9毫米。",
+          "url": "https://wallstreetcn.com/livenews/3031038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 02时32分]"
+        },
+        {
+          "title": "LG在2026年国际消费电子展（CES）上发布了W6壁纸电视，其厚度仅为9毫米。",
+          "url": "https://flash.jin10.com/detail/20260106012753570800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 02时32分]"
+        },
+        {
+          "title": "飞亚达(000026.SZ)：目前公司智能穿戴业务相关收入占总收入比重较小",
+          "url": "https://www.gelonghui.com/news/5146249",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
+          "title": "【研选】蓝箭航天正式冲刺“商业火箭第一股”，商业航天有望迎来黄金发展期；这家公司业绩有望迎来拐点，受益于未来三年消费电子行业产品升级、化合物半导体厂商扩产以及光伏业务出海等",
+          "url": "https://api3.cls.cn/share/article/2247523?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 4,
       "titles": [
@@ -1884,8 +1963,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时26分 ~ 15时46分]"
+          "appearance_count": 9,
+          "time_info": "[12时26分 ~ 16时32分]"
         },
         {
           "title": "道氏技术(300409.SZ)：钠离子电池前驱体已有批量出货",
@@ -1928,55 +2007,41 @@
       ]
     },
     {
-      "keyword_group": "消费电子 智能穿戴 智能座舱",
-      "match_count": 4,
+      "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
+      "match_count": 3,
       "titles": [
         {
-          "title": "Uber(UBER.N)：在2026年国际消费电子展上，Lucid、Nuro与Uber将推出量产意向型车辆，这些车辆将用于其全球的自动驾驶出租车服务。",
-          "url": "https://flash.jin10.com/detail/20260106070228836800",
-          "source": "金十数据",
+          "title": "云天励飞(688343.SH)：闪极AI眼镜搭载云天励飞自研大模型“云天天书”",
+          "url": "https://www.gelonghui.com/news/5146255",
+          "source": "格隆汇",
           "ranks": [
-            3,
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时43分]"
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
-          "title": "LG在2026年国际消费电子展（CES）上发布W6壁纸电视，其厚度仅为9毫米。",
-          "url": "https://wallstreetcn.com/livenews/3031038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 02时32分]"
-        },
-        {
-          "title": "LG在2026年国际消费电子展（CES）上发布了W6壁纸电视，其厚度仅为9毫米。",
-          "url": "https://flash.jin10.com/detail/20260106012753570800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 02时32分]"
-        },
-        {
-          "title": "【研选】蓝箭航天正式冲刺“商业火箭第一股”，商业航天有望迎来黄金发展期；这家公司业绩有望迎来拐点，受益于未来三年消费电子行业产品升级、化合物半导体厂商扩产以及光伏业务出海等",
-          "url": "https://api3.cls.cn/share/article/2247523?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "字节豆包AI眼镜第一代总规划数量约10万台 采用高通AR1芯片",
+          "url": "https://api3.cls.cn/share/article/2248750?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时43分"
+          "time_info": "09时43分"
+        },
+        {
+          "title": "协创数据：融梦AI眼镜由公司参股企业子公司推出 预计2026年第一季度启动量产",
+          "url": "https://api3.cls.cn/share/article/2248932?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     },
@@ -1991,11 +2056,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 15时46分]"
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 16时32分]"
         },
         {
           "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
@@ -2046,37 +2112,37 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         }
       ]
     },
     {
-      "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
+      "keyword_group": "储能",
       "match_count": 2,
       "titles": [
         {
-          "title": "字节豆包AI眼镜第一代总规划数量约10万台 采用高通AR1芯片",
-          "url": "https://api3.cls.cn/share/article/2248750?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "贵州：完善峰谷电价与推动储能参与市场 鼓励工商业配置储能",
+          "url": "https://api3.cls.cn/share/article/2249302?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
-          "title": "协创数据：融梦AI眼镜由公司参股企业子公司推出 预计2026年第一季度启动量产",
-          "url": "https://api3.cls.cn/share/article/2248932?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "【风口研报·公司】动力和储能电池需求旺盛，这家公司既着力光储又聚焦前沿材料，实现磷酸铁锂+磷酸二氢锂+五硫化二磷全产业链布局，有望在下一代电池技术中占据先发优势",
+          "url": "https://api3.cls.cn/share/article/2248851?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            13
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "11时29分"
         }
       ]
     },
@@ -2102,7 +2168,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         }
@@ -2151,23 +2217,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时27分 ~ 07时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【风口研报·公司】动力和储能电池需求旺盛，这家公司既着力光储又聚焦前沿材料，实现磷酸铁锂+磷酸二氢锂+五硫化二磷全产业链布局，有望在下一代电池技术中占据先发优势",
-          "url": "https://api3.cls.cn/share/article/2248851?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
         }
       ]
     },
@@ -2235,7 +2284,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         }
@@ -2252,11 +2301,29 @@
           "ranks": [
             5,
             7,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时29分 ~ 15时46分]"
+          "appearance_count": 10,
+          "time_info": "[11时29分 ~ 16时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "优必选 商汤 华大基因",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股收盘：恒生指数收涨1.38%，恒生科技指数收涨1.46%。券商、有色等板块涨幅居前。招商证券涨超12%，中铝国际涨超8%，商汤涨约6%。",
+          "url": "https://wallstreetcn.com/livenews/3031509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
