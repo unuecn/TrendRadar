@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-08T06:46:34.363689+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-01-08T07:21:03.818819+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股三大指数收盘涨跌不一 谷歌2019年以来首次市值超苹果公司",
           "url": "https://www.gelonghui.com/news/5147432",
           "source": "格隆汇",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时46分]"
+          "appearance_count": 4,
+          "time_info": "[06时21分 ~ 07时21分]"
         },
         {
           "title": "美股三大指数收盘涨跌不一 英特尔涨超6%",
@@ -92,6 +93,17 @@
           "time_info": "[05时43分 ~ 06时21分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
+          "url": "https://www.cls.cn/detail/2251170",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
           "title": "美股收盘：道指跌近1% 英特尔涨超6%",
           "url": "https://flash.jin10.com/detail/20260108050115354800",
           "source": "金十数据",
@@ -131,8 +143,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 06时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
@@ -143,8 +155,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 06时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "财联社1月8日电，公司高管称，Arm重组公司并成立物理人工智能部门，以扩大机器人芯片技术布局。",
@@ -219,6 +231,86 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 01时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "高盛(GS.N)宣布，将苹果信用卡项目过渡至摩根大通(JPM.N)，预计过渡将在大约24个月内完成。",
+          "url": "https://flash.jin10.com/detail/20260108065214356800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "时隔七年 谷歌市值重新超越苹果",
+          "url": "https://flash.jin10.com/detail/20260108054913345800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "消息人士称，摩根大通(JPM.N)达成协议接管苹果(AAPL.O)信用卡计划。",
+          "url": "https://flash.jin10.com/detail/20260108044010737800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 06时21分]"
+        },
+        {
+          "title": "财联社1月8日电，据报道，摩根大通达成一份协议，将接盘苹果信用卡业务。",
+          "url": "https://api3.cls.cn/share/article/2251155?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 06时21分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet市值超越苹果，为2019年以来首次",
+          "url": "https://wallstreetcn.com/livenews/3032700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时21分]"
+        },
+        {
+          "title": "摩根大通达成一份协议，将接盘苹果信用卡业务。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3032681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 05时43分]"
         }
       ]
     },
@@ -298,74 +390,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "消息人士称，摩根大通(JPM.N)达成协议接管苹果(AAPL.O)信用卡计划。",
-          "url": "https://flash.jin10.com/detail/20260108044010737800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 06时21分]"
-        },
-        {
-          "title": "财联社1月8日电，据报道，摩根大通达成一份协议，将接盘苹果信用卡业务。",
-          "url": "https://api3.cls.cn/share/article/2251155?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 06时21分]"
-        },
-        {
-          "title": "时隔七年 谷歌市值重新超越苹果",
-          "url": "https://flash.jin10.com/detail/20260108054913345800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时46分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet市值超越苹果，为2019年以来首次",
-          "url": "https://wallstreetcn.com/livenews/3032700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时21分]"
-        },
-        {
-          "title": "摩根大通达成一份协议，将接盘苹果信用卡业务。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3032681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 05时43分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 4,
       "titles": [
@@ -377,8 +401,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 06时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "新一代小米SU7开启小订 预计4月上市",
@@ -388,8 +412,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 06时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "一线|特斯拉推“超长贷”、小米新车涨价预售 2026车市开年即遭“抢单”",
@@ -426,11 +450,12 @@
           "source": "格隆汇",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 06时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "财联社1月7日电，英特尔股价上涨超过10%，创9月18日以来最大涨幅。",
@@ -482,8 +507,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 06时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "大陆博主购买卫星影像曝光“台独”顽固分子住处，国台办回应",
@@ -496,8 +521,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 06时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "【焦点复盘】沪指高位十字星续创连阳纪录，商业航天概念强势依旧，煤炭板块午后爆发",
@@ -507,8 +532,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 06时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时21分]"
         }
       ]
     },
@@ -556,8 +581,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 06时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "花旗：Vera Rubin将为英伟达带来5万亿美元人工智能机遇。",
@@ -583,11 +608,12 @@
           "url": "https://www.cls.cn/detail/2251000",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 06时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时21分]"
         }
       ]
     },
@@ -603,8 +629,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 06时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "钙钛矿成太空光伏潜在“优选”，新能源公司敏锐布局抢占先机",
+          "url": "https://wallstreetcn.com/livenews/3032743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     }
