@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T23:26:01.123308+08:00",
-  "total_titles_processed": 2478,
+  "generated_at": "2026-01-07T23:50:25.463060+08:00",
+  "total_titles_processed": 2497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
@@ -33,8 +33,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时42分 ~ 23时26分]"
+          "appearance_count": 25,
+          "time_info": "[09时42分 ~ 23时50分]"
         },
         {
           "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
@@ -111,6 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "大摩：英伟达散热方案评论冲击HVAC与电力板块",
+          "url": "https://wallstreetcn.com/livenews/3032575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
@@ -423,8 +434,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时46分 ~ 23时26分]"
+          "appearance_count": 16,
+          "time_info": "[15时46分 ~ 23时50分]"
         },
         {
           "title": "除冰机器人在线吃冰",
@@ -443,6 +454,20 @@
           "time_info": "[01时26分 ~ 07时42分]"
         },
         {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时42分 ~ 23时50分]"
+        },
+        {
           "title": "韩国总统李在明与中国机器人握手",
           "url": "https://www.zaochenbao.com/news/china/202601/0761697.html",
           "source": "早报",
@@ -454,20 +479,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[18时24分 ~ 22时51分]"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时42分 ~ 23时26分]"
         },
         {
           "title": "八部门：培育智能手机、电脑、平板、智能家居等人工智能终端 打造人形机器人标杆产线",
@@ -790,11 +801,12 @@
             10,
             9,
             17,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时42分 ~ 23时26分]"
+          "appearance_count": 25,
+          "time_info": "[09时42分 ~ 23时50分]"
         },
         {
           "title": "一线|特斯拉推“超长贷”、小米新车涨价预售 2026车市开年即遭“抢单”",
@@ -806,8 +818,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时24分 ~ 23时26分]"
+          "appearance_count": 10,
+          "time_info": "[18时24分 ~ 23时50分]"
         },
         {
           "title": "小米称此次事件严重伤害米粉感情",
@@ -922,6 +934,28 @@
           "time_info": "[22时24分 ~ 22时51分]"
         },
         {
+          "title": "比亚迪2025年在德英两国销量超越特斯拉",
+          "url": "https://www.zaochenbao.com/news/china/202601/0761721.html",
+          "source": "早报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[23时25分 ~ 23时50分]"
+        },
+        {
+          "title": "新一代小米SU7开启小订 预计4月上市",
+          "url": "https://www.zaochenbao.com/news/china/202601/0761720.html",
+          "source": "早报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[23时25分 ~ 23时50分]"
+        },
+        {
           "title": "特锐德：公司已与华为乾崑智驾开展车桩云协同方向的合作",
           "url": "https://api3.cls.cn/share/article/2250231?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -932,28 +966,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时27分 ~ 13时00分]"
-        },
-        {
-          "title": "比亚迪2025年在德英两国销量超越特斯拉",
-          "url": "https://www.zaochenbao.com/news/china/202601/0761721.html",
-          "source": "早报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时26分]"
-        },
-        {
-          "title": "新一代小米SU7开启小订 预计4月上市",
-          "url": "https://www.zaochenbao.com/news/china/202601/0761720.html",
-          "source": "早报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时26分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.8%。 热门中概股里，阿里巴巴初步收跌3.3%，小米跌2.9%，百度跌2.1%，理想跌2%，蔚来跌1.8%，新东方跌0.8%，腾讯跌0.1%，百胜中国涨1.6%，文远知行涨2.6%，拼多多涨3.3%，小马智行涨5.5%。",
@@ -1072,8 +1084,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时50分 ~ 23时26分]"
+          "appearance_count": 11,
+          "time_info": "[18时50分 ~ 23时50分]"
         },
         {
           "title": "财联社1月7日电，恩智浦半导体与通用电气医疗集团宣布合作，旨在引领边缘人工智能创新的新突破。",
@@ -1614,8 +1626,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时25分 ~ 23时26分]"
+          "appearance_count": 17,
+          "time_info": "[15时25分 ~ 23时50分]"
         },
         {
           "title": "【焦点复盘】大金融、顺周期合力做多，沪指光头长阳剑指4100点，商业航天概念火爆依旧",
@@ -1642,8 +1654,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时24分 ~ 23时26分]"
+          "appearance_count": 12,
+          "time_info": "[18时24分 ~ 23时50分]"
         },
         {
           "title": "沪指刷新逾十年新高，创史上最长连阳纪录，商业航天再爆发，恒科指涨超2%，有色金属大涨，沪银涨超8%",
@@ -1677,8 +1689,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时24分 ~ 23时26分]"
+          "appearance_count": 5,
+          "time_info": "[22时24分 ~ 23时50分]"
         },
         {
           "title": "【风口研报·公司】深度绑定中国电信的卫星互联网的“中枢大脑”，分析师强call公司有望受益于国内低轨卫星互联网加速组网，海外十亿级美元级订单将带来明显业绩弹性；另有公司年报预告充分展现6F涨价效应",
@@ -1856,6 +1868,19 @@
           "time_info": "11时29分"
         },
         {
+          "title": "【寻找年报预期差】SOC芯片+端侧，净利同比预增超350%！这家公司投资摩尔线程和沐曦股份取得的公允价值变动收益显著增加，旗下芯片平台完成了与火山方舟MaaS平台的对接，可提供适配豆包大模型的解决方案",
+          "url": "https://api3.cls.cn/share/article/2251032?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时51分 ~ 23时50分]"
+        },
+        {
           "title": "财联社1月7日电，利弗莫尔证券显示，国产通用GPU公司天数智芯港股暗盘涨近40%。",
           "url": "https://api3.cls.cn/share/article/2250570?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -1865,18 +1890,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "【寻找年报预期差】SOC芯片+端侧，净利同比预增超350%！这家公司投资摩尔线程和沐曦股份取得的公允价值变动收益显著增加，旗下芯片平台完成了与火山方舟MaaS平台的对接，可提供适配豆包大模型的解决方案",
-          "url": "https://api3.cls.cn/share/article/2251032?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时51分 ~ 23时26分]"
         },
         {
           "title": "工信部：强化工业智能算力供给，引导工业企业加快边缘一体机、智能网关等设备部署",
@@ -2022,8 +2035,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时39分 ~ 23时26分]"
+          "appearance_count": 7,
+          "time_info": "[21时39分 ~ 23时50分]"
         },
         {
           "title": "A股异动丨存储芯片股持续强势，兆易创新、普冉股份等多股创历史新高",
@@ -2455,6 +2468,83 @@
       ]
     },
     {
+      "keyword_group": "英特尔 高通",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股异动丨高通涨超3%，发布新款处理器瞄准中端笔记本电脑",
+          "url": "https://www.gelonghui.com/news/5146639",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 07时42分]"
+        },
+        {
+          "title": "英特尔涨逾10%，创去年9月18日以来最大盘中涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3032579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "美股异动丨英特尔涨5.3%，日前推出下一代PC平台处理器酷睿Ultra3",
+          "url": "https://www.gelonghui.com/news/5147396",
+          "source": "格隆汇",
+          "ranks": [
+            2,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时51分 ~ 23时50分]"
+        },
+        {
+          "title": "英特尔CEO陈立武：AI正在重塑整个软硬件市场的格局",
+          "url": "https://www.gelonghui.com/news/5146741",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "联想与高通宣布深化AI 原生可穿戴设备合作 杨元庆：市场规模有望突破十亿台",
+          "url": "https://www.gelonghui.com/news/5146745",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 12时27分]"
+        },
+        {
+          "title": "事关2nm制程竞争 高通有望时隔5年重启三星代工",
+          "url": "https://api3.cls.cn/share/article/2251038?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "创新药 新药研发 临床三期",
       "match_count": 5,
       "titles": [
@@ -2641,71 +2731,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英特尔 高通",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股异动丨高通涨超3%，发布新款处理器瞄准中端笔记本电脑",
-          "url": "https://www.gelonghui.com/news/5146639",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 07时42分]"
-        },
-        {
-          "title": "美股异动丨英特尔涨5.3%，日前推出下一代PC平台处理器酷睿Ultra3",
-          "url": "https://www.gelonghui.com/news/5147396",
-          "source": "格隆汇",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时51分 ~ 23时26分]"
-        },
-        {
-          "title": "英特尔CEO陈立武：AI正在重塑整个软硬件市场的格局",
-          "url": "https://www.gelonghui.com/news/5146741",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "联想与高通宣布深化AI 原生可穿戴设备合作 杨元庆：市场规模有望突破十亿台",
-          "url": "https://www.gelonghui.com/news/5146745",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时27分]"
-        },
-        {
-          "title": "事关2nm制程竞争 高通有望时隔5年重启三星代工",
-          "url": "https://api3.cls.cn/share/article/2251038?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         }
       ]
     },
@@ -2924,8 +2949,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时24分 ~ 23时26分]"
+          "appearance_count": 12,
+          "time_info": "[18时24分 ~ 23时50分]"
         },
         {
           "title": "京瓷公司：在2026年国际消费电子展上推出全新人工智能、物联网和传感器解决方案。",
