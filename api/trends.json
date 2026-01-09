@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T11:40:22.428801+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-01-09T12:40:50.108899+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时18分 ~ 11时40分]"
+          "appearance_count": 7,
+          "time_info": "[07时18分 ~ 12时40分]"
         },
         {
           "title": "美股三大指数收盘涨跌不一 存储概念普跌",
@@ -233,7 +233,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -304,7 +304,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -479,8 +479,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 11时40分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 12时40分]"
         },
         {
           "title": "A股早评：三大指数涨跌不一，军工、商业航天板块高开，中国石化涨停",
@@ -556,7 +556,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -567,7 +567,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         }
@@ -575,7 +575,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
@@ -615,6 +615,17 @@
           "time_info": "09时44分"
         },
         {
+          "title": "香港交易所称推出六只新的股票期权类别，涵盖紫金黄金国际、老铺黄金、地平线机器人等",
+          "url": "https://wallstreetcn.com/livenews/3033761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "小鹏2026年量产人形机器人和飞行汽车",
           "url": "https://www.zaochenbao.com/news/china/202601/0961840.html",
           "source": "早报",
@@ -648,12 +659,130 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "【掘金行业龙头】传感器+机器人，自研人形机器人传感器正在客户验证阶段，与长盈精密参股企业展开合作，这家公司产品已用于人形机器人关节和机器狗",
+          "url": "https://api3.cls.cn/share/article/2252742?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "机构报告：去年智元以5168台人形机器人出货量登顶全球榜首",
+          "url": "https://api3.cls.cn/share/article/2252767?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "野村：人工智能需求上升利好亚洲多国经济",
+          "url": "https://flash.jin10.com/detail/20260109122240989800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "利欧股份：已为部分业务岗位构建多个智能体并应用于实际业务 AI应用方面正探索将相关能力延伸至AI漫剧这一新赛道",
+          "url": "https://api3.cls.cn/share/article/2252369?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 00时59分]"
+        },
+        {
+          "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
+          "url": "https://wallstreetcn.com/livenews/3033439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时59分]"
+        },
+        {
+          "title": "【盘中宝·数据】商业航天+AI应用+小金属+可控核聚变+脑机接口，五大热点一周以来获融资净买入情况（附表）",
+          "url": "https://api3.cls.cn/share/article/2252301?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-09）",
+          "url": "https://flash.jin10.com/detail/20260109115848045800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "【盘中宝】上线即售罄，此前已进行多轮补货，该类AI应用产品契合年轻人“悦己”消费，未来市场规模或达千亿量级，这家企业已推出多款产品",
+          "url": "https://api3.cls.cn/share/article/2252741?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "AI应用端再度拉升 浙文互联等十余股涨停",
+          "url": "https://api3.cls.cn/share/article/2252730?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "深成指涨超1%，沪指涨0.7%，创业板指涨0.24%，北证50指数涨超2%，AI应用、商业航天、军工等方向涨幅居前，沪深京三市上涨个股近3700只。",
+          "url": "https://wallstreetcn.com/livenews/3033706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         }
       ]
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
@@ -672,11 +801,12 @@
           "source": "参考消息",
           "ranks": [
             21,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 11时40分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 12时40分]"
         },
         {
           "title": "“短缺终将导致过剩”！a16z安德森2026年展望：AI芯片将迎来产能爆发与价格崩塌",
@@ -704,6 +834,17 @@
           "time_info": "[07时18分 ~ 07时41分]"
         },
         {
+          "title": "资本“沪”航 “申”机勃发 解码上海GPU四小龙上市加速度",
+          "url": "https://www.cls.cn/detail/2252577",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "Eleveight AI在亚美尼亚部署英伟达B300 Blackwell GPUs。",
           "url": "https://wallstreetcn.com/livenews/3033430",
           "source": "华尔街见闻-快讯",
@@ -717,69 +858,6 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "利欧股份：已为部分业务岗位构建多个智能体并应用于实际业务 AI应用方面正探索将相关能力延伸至AI漫剧这一新赛道",
-          "url": "https://api3.cls.cn/share/article/2252369?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 00时59分]"
-        },
-        {
-          "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
-          "url": "https://wallstreetcn.com/livenews/3033439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时59分]"
-        },
-        {
-          "title": "【盘中宝】上线即售罄，此前已进行多轮补货，该类AI应用产品契合年轻人“悦己”消费，未来市场规模或达千亿量级，这家企业已推出多款产品",
-          "url": "https://api3.cls.cn/share/article/2252741?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "AI应用端再度拉升 浙文互联等十余股涨停",
-          "url": "https://api3.cls.cn/share/article/2252730?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "深成指涨超1%，沪指涨0.7%，创业板指涨0.24%，北证50指数涨超2%，AI应用、商业航天、军工等方向涨幅居前，沪深京三市上涨个股近3700只。",
-          "url": "https://wallstreetcn.com/livenews/3033706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 5,
       "titles": [
@@ -788,11 +866,12 @@
           "url": "https://flash.jin10.com/detail/20260109113055726800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时40分]"
         },
         {
           "title": "国内商品期货多数收跌 多晶硅跌超7%",
@@ -801,7 +880,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -812,7 +891,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -834,7 +913,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         }
@@ -849,11 +928,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时40分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.09%，报7796.71点。 热门中概股里，阿里巴巴初步收涨5.3%，新东方涨5.6%，小鹏涨3.1%，京东涨2.2%，小米、文远知行、百胜中国、小马智行至少涨0.7%，理想跌0.7%，腾讯跌0.8%，蔚来跌1%，美团跌2%，百度跌3.9%。 ETF中，中概互联网指数ETF（KWEB）收涨1.13%，中国科技指数ETF（CQQQ）收涨0.67%。 XtrackersHarvest中证50（ASHS）收涨0.88%，德银嘉实沪深300指数ETF（ASHR）收跌0.03%。",
@@ -884,7 +964,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         }
@@ -1045,7 +1125,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         }
@@ -1097,7 +1177,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         }
