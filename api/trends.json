@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-10T09:40:44.175446+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-01-10T11:25:41.772558+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "英特尔 高通",
       "match_count": 9,
       "titles": [
+        {
+          "title": "道指、标普500指数创收盘新高，英特尔涨超10%，中概指数跌1.3%",
+          "url": "https://www.gelonghui.com/news/5148753",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 11时25分]"
+        },
         {
           "title": "英特尔日内涨幅扩大至10% 创2024年3月以来新高",
           "url": "https://api3.cls.cn/share/article/2253677?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -20,17 +31,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时43分 ~ 04时25分]"
-        },
-        {
-          "title": "道指、标普500指数创收盘新高，英特尔涨超10%，中概指数跌1.3%",
-          "url": "https://www.gelonghui.com/news/5148753",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
         },
         {
           "title": "纳斯达克100指数涨超1%，英特尔涨10.4%领跑，拉姆研究涨8.4%，阿斯麦ADR涨6.9%，应用材料涨5.9%，科磊涨5.7%。 标普500指数涨超0.7%，道指涨0.5%，半导体指数涨2.8%，银行指数微跌。",
@@ -124,7 +124,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "财联社1月10日电，OpenAI和软银对合作伙伴SB Energy投资10亿美元。",
@@ -152,6 +152,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时20分 ~ 04时25分]"
+        },
+        {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 11时25分]"
         },
         {
           "title": "SB ENERGY：OpenAI、软银集团和公司还建立了一种非排他性的首选合作伙伴关系，以开发数据中心建设的新模式。",
@@ -192,18 +205,6 @@
           "time_info": "[03时41分 ~ 04时25分]"
         },
         {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 09时40分]"
-        },
-        {
           "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
           "url": "https://flash.jin10.com/detail/20260110030422872800",
           "source": "金十数据",
@@ -214,6 +215,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 03时41分]"
+        },
+        {
+          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
+          "url": "https://flash.jin10.com/detail/20260110094533475800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     },
@@ -230,8 +242,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 09时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -240,11 +252,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 09时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -266,8 +279,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 09时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
@@ -289,11 +302,12 @@
           "ranks": [
             2,
             4,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 09时40分]"
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 11时25分]"
         },
         {
           "title": "美联储巴尔金：在医疗保健或人工智能领域之外，很难找到正在招聘的公司。",
@@ -310,7 +324,7 @@
     },
     {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "两部门发布公告，4月起取消光伏等产品增值税出口退税",
@@ -321,8 +335,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 09时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "财政部：4月起取消光伏等249种产品增值税出口退税，明年起取消电池产品增值税出口退税",
@@ -331,11 +345,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 09时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "两部门：4月1日起，取消光伏等产品增值税出口退税",
@@ -344,22 +359,24 @@
           "ranks": [
             13,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 09时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "【早报】两部门发文！取消光伏等产品增值税出口退税；天普股份被证监会立案调查",
           "url": "https://www.cls.cn/detail/2253721",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 11时25分]"
         },
         {
           "title": "我国科研团队研究成果为提升钙钛矿电池稳定性提供新思路",
@@ -385,6 +402,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 00时56分]"
+        },
+        {
+          "title": "中国4月起取消光伏等产品增值税出口退税",
+          "url": "https://www.zaochenbao.com/news/china/202601/1061928.html",
+          "source": "早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     },
@@ -481,8 +509,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 09时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "台积电2025年营收首破3万亿新台币创新高",
@@ -581,8 +609,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 09时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "铭利达(301268.SZ)：截止目前，公司尚未进入特斯拉机器人的供应链",
@@ -594,8 +622,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 09时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "英首相府指责聊天机器人“格罗克”整改具“侮辱性”",
@@ -626,8 +654,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 09时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "深康佳Ａ(000016.SZ)：目前没有产品应用在AI眼镜领域",
@@ -639,8 +667,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 09时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "亚世光电(002952.SZ)：目前没有产品应用在AI眼镜领域",
@@ -652,14 +680,14 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 09时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 11时25分]"
         }
       ]
     },
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华塑控股(000509.SZ)：公司当前并未布局商业航天领域",
@@ -671,8 +699,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 09时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "美国联邦通信委员会（FCC）批准马斯克旗下太空探索SpaceX下一代卫星星座。 授权SpaceX推进星链系统。",
@@ -687,6 +715,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时45分 ~ 09时40分]"
+        },
+        {
+          "title": "长盈精密：公司有为便携式卫星通讯接收站提供结构件产品 营收比重极小",
+          "url": "https://api3.cls.cn/share/article/2253757?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     },
@@ -704,8 +743,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 09时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "美畅股份(300861.SZ)：目前公司与特斯拉没有业务往来",
@@ -717,8 +756,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 09时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 11时25分]"
         }
       ]
     },
