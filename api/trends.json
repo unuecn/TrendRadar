@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T12:09:30.426470+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-01-10T12:55:19.367363+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 12时55分]"
         },
         {
           "title": "英特尔日内涨幅扩大至10% 创2024年3月以来新高",
@@ -127,6 +127,19 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 12时55分]"
+        },
+        {
           "title": "财联社1月10日电，OpenAI和软银对合作伙伴SB Energy投资10亿美元。",
           "url": "https://api3.cls.cn/share/article/2253684?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -139,19 +152,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时20分 ~ 04时46分]"
-        },
-        {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 12时09分]"
         },
         {
           "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
@@ -222,17 +222,18 @@
           "source": "金十数据",
           "ranks": [
             8,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 12时55分]"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
@@ -257,8 +258,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 12时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 12时55分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -311,6 +312,17 @@
           "time_info": "[07时21分 ~ 11时25分]"
         },
         {
+          "title": "福建：用好人工智能新一轮增量政策 推动人工智能赋能千行百业",
+          "url": "https://api3.cls.cn/share/article/2253778?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "美联储巴尔金：在医疗保健或人工智能领域之外，很难找到正在招聘的公司。",
           "url": "https://flash.jin10.com/detail/20260110021600074800",
           "source": "金十数据",
@@ -336,8 +348,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 12时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 12时55分]"
         },
         {
           "title": "财政部：4月起取消光伏等249种产品增值税出口退税，明年起取消电池产品增值税出口退税",
@@ -350,8 +362,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 12时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 12时55分]"
         },
         {
           "title": "两部门：4月1日起，取消光伏等产品增值税出口退税",
@@ -364,8 +376,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 12时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 12时55分]"
         },
         {
           "title": "【早报】两部门发文！取消光伏等产品增值税出口退税；天普股份被证监会立案调查",
@@ -376,8 +388,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 12时55分]"
         },
         {
           "title": "我国科研团队研究成果为提升钙钛矿电池稳定性提供新思路",
@@ -397,11 +409,12 @@
           "url": "https://www.zaochenbao.com/news/china/202601/1061928.html",
           "source": "早报",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 12时55分]"
         },
         {
           "title": "我国科研团队研究成果为提升钙钛矿电池稳定性提供新思路",
@@ -510,8 +523,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 12时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 12时55分]"
         },
         {
           "title": "台积电2025年营收首破3万亿新台币创新高",
@@ -610,8 +623,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 12时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 12时55分]"
         },
         {
           "title": "铭利达(301268.SZ)：截止目前，公司尚未进入特斯拉机器人的供应链",
@@ -623,8 +636,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 12时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 12时55分]"
         },
         {
           "title": "英首相府指责聊天机器人“格罗克”整改具“侮辱性”",
@@ -655,8 +668,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 12时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 12时55分]"
         },
         {
           "title": "深康佳Ａ(000016.SZ)：目前没有产品应用在AI眼镜领域",
@@ -668,8 +681,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 12时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 12时55分]"
         },
         {
           "title": "亚世光电(002952.SZ)：目前没有产品应用在AI眼镜领域",
@@ -681,8 +694,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 12时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 12时55分]"
         }
       ]
     },
@@ -700,8 +713,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 12时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 12时55分]"
         },
         {
           "title": "美国联邦通信委员会（FCC）批准马斯克旗下太空探索SpaceX下一代卫星星座。 授权SpaceX推进星链系统。",
@@ -723,11 +736,12 @@
           "source": "财联社电报",
           "ranks": [
             8,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 12时55分]"
         }
       ]
     },
@@ -745,8 +759,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 12时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 12时55分]"
         },
         {
           "title": "美畅股份(300861.SZ)：目前公司与特斯拉没有业务往来",
@@ -758,8 +772,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 12时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 12时55分]"
         }
       ]
     },
@@ -777,6 +791,40 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时28分 ~ 07时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "存储“超级周期”下终端消费电子领域提价潮蔓延：笔本、国产手机等集体调价",
+          "url": "https://api3.cls.cn/share/article/2253777?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "又一地明确价格！脑机接口收费路径逐渐清晰 有望催化成熟产业链",
+          "url": "https://www.cls.cn/detail/2253011",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         }
       ]
     }
