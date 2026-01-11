@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T21:49:43.842080+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-01-11T22:19:44.165387+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,21 @@
           "time_info": "[00时24分 ~ 15时42分]"
         },
         {
+          "title": "周末要闻汇总： 我国新增20万颗卫星申请，“天马-1000”无人运输机成功首飞",
+          "url": "https://www.cls.cn/detail/2254023",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时21分 ~ 22时19分]"
+        },
+        {
           "title": "加速布局！Space X获批再部署7500颗星链卫星，总数达1.5万颗",
           "url": "https://wallstreetcn.com/articles/3763021",
           "source": "华尔街见闻",
@@ -34,21 +49,6 @@
           "is_new": false,
           "appearance_count": 34,
           "time_info": "[00时24分 ~ 17时43分]"
-        },
-        {
-          "title": "周末要闻汇总： 我国新增20万颗卫星申请，“天马-1000”无人运输机成功首飞",
-          "url": "https://www.cls.cn/detail/2254023",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时21分 ~ 21时49分]"
         },
         {
           "title": "华塑控股(000509.SZ)：公司当前并未布局商业航天领域",
@@ -74,8 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[12时47分 ~ 21时49分]"
+          "appearance_count": 21,
+          "time_info": "[12时47分 ~ 22时19分]"
         },
         {
           "title": "【风口研报·公司】公司在投资端具备国企优势，已布局商业航天并成为某遥感卫星系统企业的前五大股东，主业项目结转加速带动营收利润大幅提升；另有一先进半导体材料龙头兼具业绩高增长和成长性",
@@ -391,8 +391,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时49分]"
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时19分]"
         },
         {
           "title": "“死了么”下载费用从一元涨至八元，曾被苹果AppStore多次清榜",
@@ -400,17 +400,18 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时49分]"
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时19分]"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -428,8 +429,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 40,
-          "time_info": "[01时18分 ~ 21时49分]"
+          "appearance_count": 41,
+          "time_info": "[01时18分 ~ 22时19分]"
         },
         {
           "title": "体验经济在人工智能时代崛起",
@@ -477,6 +478,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时47分 ~ 15时42分]"
+        },
+        {
+          "title": "财联社1月11日电，家得宝与谷歌云达成合作，引入人工智能工具。",
+          "url": "https://api3.cls.cn/share/article/2254165?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "亚洲领跑全球人工智能竞赛 2026年股市强势开局",
@@ -577,8 +589,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 43,
-          "time_info": "[00时24分 ~ 21时49分]"
+          "appearance_count": 44,
+          "time_info": "[00时24分 ~ 22时19分]"
         },
         {
           "title": "汉威科技：公司近年来对无创柔性脑机接口材料的研发及用于复杂脑信息协同监测等关键技术有所突破",
@@ -626,8 +638,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[14时32分 ~ 21时49分]"
+          "appearance_count": 18,
+          "time_info": "[14时32分 ~ 22时19分]"
         },
         {
           "title": "又一地明确价格！脑机接口收费路径逐渐清晰 有望催化成熟产业链",
@@ -704,6 +716,56 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "太空光伏与“轨道数据中心”：为什么下一代能源与算力的战场，会在800km的高空？",
+          "url": "https://wallstreetcn.com/articles/3763035",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[15时21分 ~ 22时19分]"
+        },
+        {
+          "title": "【电报解读】DeepSeek将于2月发布其最新旗舰AI模型，AI产业链投资逻辑正由“算力竞赛”向“应用价值”迁移，2026年模型与应用将百花齐放，这家公司发布了基于DeepSeek的可控大模型服务",
+          "url": "https://api3.cls.cn/share/article/2253878?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10,
+            11,
+            12,
+            14,
+            17,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 04时22分]"
+        },
+        {
+          "title": "【风口研报·洞察】国内互联网大厂IDC招投标活动重启，分析师看好当前芯片供给边际改善+国产AI应用需求爆发，算力落地需求将带动IDC订单修复与业绩兑现；沪指16连阳后如何应对",
+          "url": "https://api3.cls.cn/share/article/2254052?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
       "match_count": 3,
       "titles": [
@@ -742,45 +804,6 @@
           "is_new": false,
           "appearance_count": 33,
           "time_info": "[00时24分 ~ 17时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "太空光伏与“轨道数据中心”：为什么下一代能源与算力的战场，会在800km的高空？",
-          "url": "https://wallstreetcn.com/articles/3763035",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时21分 ~ 21时49分]"
-        },
-        {
-          "title": "【电报解读】DeepSeek将于2月发布其最新旗舰AI模型，AI产业链投资逻辑正由“算力竞赛”向“应用价值”迁移，2026年模型与应用将百花齐放，这家公司发布了基于DeepSeek的可控大模型服务",
-          "url": "https://api3.cls.cn/share/article/2253878?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            11,
-            12,
-            14,
-            17,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 04时22分]"
         }
       ]
     },
@@ -830,8 +853,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时51分 ~ 21时49分]"
+          "appearance_count": 24,
+          "time_info": "[09时51分 ~ 22时19分]"
         },
         {
           "title": "【风口研报·公司】AI服务器+工控光储+消费电子，这家公司电流检测元件已切入高通、英伟达、台达等头部客户，成功构建“测量+保护+监测”三位一体的产品矩阵；周策略：开门红行情还有演绎空间",
