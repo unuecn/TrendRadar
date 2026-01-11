@@ -1,8 +1,131 @@
 {
-  "generated_at": "2026-01-11T17:21:08.018257+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-01-11T17:43:32.068638+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "中国新增20万颗卫星申请，专家：卫星频轨资源申请已上升至国家战略层面",
+          "url": "https://wallstreetcn.com/articles/3763017",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 29,
+          "time_info": "[00时24分 ~ 15时42分]"
+        },
+        {
+          "title": "加速布局！Space X获批再部署7500颗星链卫星，总数达1.5万颗",
+          "url": "https://wallstreetcn.com/articles/3763021",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 34,
+          "time_info": "[00时24分 ~ 17时43分]"
+        },
+        {
+          "title": "华塑控股(000509.SZ)：公司当前并未布局商业航天领域",
+          "url": "https://www.gelonghui.com/news/5148722",
+          "source": "格隆汇",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 33,
+          "time_info": "[00时24分 ~ 17时21分]"
+        },
+        {
+          "title": "星链规模再扩容！美FCC批准SpaceX部署7500颗第二代卫星",
+          "url": "https://www.cls.cn/detail/2253914",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时47分 ~ 17时43分]"
+        },
+        {
+          "title": "长光卫星：国内首张甚高分辨率彩色夜光遥感卫星影像发布",
+          "url": "https://wallstreetcn.com/livenews/3034626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            15,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 15时42分]"
+        },
+        {
+          "title": "【研选】卫星激光通信+航天3D打印+太空清道夫，公司依托央企背景，是集团布局太空经济的前沿阵地与核心资本平台；公司固体发动机与弹药双轮驱动，受益远程火箭弹与导弹行业需求随作战形态持续释放",
+          "url": "https://api3.cls.cn/share/article/2252616?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            10,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时25分 ~ 15时42分]"
+        },
+        {
+          "title": "【风口研报·公司】公司在投资端具备国企优势，已布局商业航天并成为某遥感卫星系统企业的前五大股东，主业项目结转加速带动营收利润大幅提升；另有一先进半导体材料龙头兼具业绩高增长和成长性",
+          "url": "https://api3.cls.cn/share/article/2254016?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "长光卫星：国内首张甚高分辨率彩色夜光遥感卫星影像发布",
+          "url": "https://api3.cls.cn/share/article/2253983?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 14时32分]"
+        },
+        {
+          "title": "【电报解读】卫星频轨资源战略地位凸显，中国新增20.4万颗卫星申请，机构称商业航天已成为全球科技竞争关键领域，这家公司深度参与国内低轨卫星产业建设",
+          "url": "https://api3.cls.cn/share/article/2254077?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        }
+      ]
+    },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 7,
@@ -17,11 +140,12 @@
             17,
             20,
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时24分 ~ 17时21分]"
+          "appearance_count": 34,
+          "time_info": "[00时24分 ~ 17时43分]"
         },
         {
           "title": "中国扫地机器人扫全球",
@@ -94,107 +218,6 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "中国新增20万颗卫星申请，专家：卫星频轨资源申请已上升至国家战略层面",
-          "url": "https://wallstreetcn.com/articles/3763017",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时24分 ~ 15时42分]"
-        },
-        {
-          "title": "加速布局！Space X获批再部署7500颗星链卫星，总数达1.5万颗",
-          "url": "https://wallstreetcn.com/articles/3763021",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时24分 ~ 17时21分]"
-        },
-        {
-          "title": "华塑控股(000509.SZ)：公司当前并未布局商业航天领域",
-          "url": "https://www.gelonghui.com/news/5148722",
-          "source": "格隆汇",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时24分 ~ 17时21分]"
-        },
-        {
-          "title": "星链规模再扩容！美FCC批准SpaceX部署7500颗第二代卫星",
-          "url": "https://www.cls.cn/detail/2253914",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时47分 ~ 17时21分]"
-        },
-        {
-          "title": "长光卫星：国内首张甚高分辨率彩色夜光遥感卫星影像发布",
-          "url": "https://wallstreetcn.com/livenews/3034626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            15,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时47分 ~ 15时42分]"
-        },
-        {
-          "title": "【研选】卫星激光通信+航天3D打印+太空清道夫，公司依托央企背景，是集团布局太空经济的前沿阵地与核心资本平台；公司固体发动机与弹药双轮驱动，受益远程火箭弹与导弹行业需求随作战形态持续释放",
-          "url": "https://api3.cls.cn/share/article/2252616?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            10,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 15时42分]"
-        },
-        {
-          "title": "长光卫星：国内首张甚高分辨率彩色夜光遥感卫星影像发布",
-          "url": "https://api3.cls.cn/share/article/2253983?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 14时32分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 5,
       "titles": [
@@ -208,11 +231,12 @@
             15,
             18,
             20,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时24分 ~ 17时21分]"
+          "appearance_count": 34,
+          "time_info": "[00时24分 ~ 17时43分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -228,8 +252,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[01时18分 ~ 17时21分]"
+          "appearance_count": 31,
+          "time_info": "[01时18分 ~ 17时43分]"
         },
         {
           "title": "Grok人工智能色情图片争议升级，马斯克诟骂英国政府“法西斯”",
@@ -285,8 +309,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时24分 ~ 17时21分]"
+          "appearance_count": 34,
+          "time_info": "[00时24分 ~ 17时43分]"
         },
         {
           "title": "中国光伏出口补贴4月退场 分析：平衡贸易象征意义大于实效",
@@ -358,8 +382,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时24分 ~ 17时21分]"
+          "appearance_count": 34,
+          "time_info": "[00时24分 ~ 17时43分]"
         },
         {
           "title": "汉威科技：公司近年来对无创柔性脑机接口材料的研发及用于复杂脑信息协同监测等关键技术有所突破",
@@ -406,8 +430,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时24分 ~ 17时21分]"
+          "appearance_count": 32,
+          "time_info": "[00时24分 ~ 17时43分]"
         },
         {
           "title": "机构密集调研脑机接口概念股！龙头股价单周涨超六成，近一月接待量居前热门股名单来了",
@@ -419,14 +443,14 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时32分 ~ 17时21分]"
+          "appearance_count": 8,
+          "time_info": "[14时32分 ~ 17时43分]"
         }
       ]
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "比亚迪汽车： 2026款宋Pro DM-i 220km长续航版汽车上市，售价11.98万起。",
@@ -455,17 +479,6 @@
           "time_info": "[09时51分 ~ 15时21分]"
         },
         {
-          "title": "印度拟要求智能手机制造商向政府共享源代码 遭苹果三星等反对",
-          "url": "https://api3.cls.cn/share/article/2254070?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
-        },
-        {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
           "url": "https://wallstreetcn.com/livenews/3034579",
           "source": "华尔街见闻-快讯",
@@ -476,6 +489,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时20分 ~ 09时52分]"
+        },
+        {
+          "title": "印度拟要求智能手机制造商向政府共享源代码 遭苹果三星等反对",
+          "url": "https://api3.cls.cn/share/article/2254070?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 17时43分]"
+        },
+        {
+          "title": "苹果脆片",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E8%84%86%E7%89%87&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         }
       ]
     },
@@ -552,8 +588,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 17时21分]"
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 17时43分]"
         }
       ]
     },
@@ -578,11 +614,12 @@
           "source": "财联社电报",
           "ranks": [
             11,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 17时43分]"
         }
       ]
     },
@@ -595,11 +632,29 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C%E6%AF%94%E9%BB%84%E9%87%91%E6%9B%B4%E5%88%BA%E6%BF%80%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 17时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "财联社1月11日电，挪威可再生能源公司Scatec与埃及签署购电协议，涵盖1.95吉瓦太阳能及3.9吉瓦时储能系统容量。",
+          "url": "https://api3.cls.cn/share/article/2254078?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         }
       ]
     },
@@ -617,8 +672,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时51分 ~ 17时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时51分 ~ 17时43分]"
         }
       ]
     },
@@ -655,11 +710,12 @@
             18,
             21,
             23,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时24分 ~ 17时21分]"
+          "appearance_count": 34,
+          "time_info": "[00时24分 ~ 17时43分]"
         }
       ]
     },
