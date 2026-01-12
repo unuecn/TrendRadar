@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T02:33:17.320363+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-01-13T03:21:10.114283+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时21分]"
         },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
@@ -119,8 +119,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时21分]"
         },
         {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
@@ -130,8 +130,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时21分]"
         },
         {
           "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
@@ -142,8 +142,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时21分]"
         },
         {
           "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
@@ -154,8 +154,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时21分]"
         },
         {
           "title": "港媒展望：全球人工智能竞赛的三种前景",
@@ -165,8 +165,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时21分]"
         },
         {
           "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
@@ -197,7 +197,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         }
@@ -259,8 +259,19 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "财联社1月13日电，马斯克评价苹果与谷歌的合作称，鉴于谷歌已拥有安卓和Chrome，这种合作似乎使其权力得到了不合理集中。",
+          "url": "https://api3.cls.cn/share/article/2255508?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
+        },
         {
           "title": "财联社1月13日电，谷歌称与苹果达成了一项为期多年的合作协定。",
           "url": "https://api3.cls.cn/share/article/2255453?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -289,6 +300,34 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
+          "url": "https://flash.jin10.com/detail/20260113024637591800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
+        },
+        {
+          "title": "Meta下跌1%，消息面上Meta公司拟成立“Meta Compute”计划，以构建千兆瓦级算力。",
+          "url": "https://flash.jin10.com/detail/20260113024247215800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 1,
       "titles": [
@@ -300,8 +339,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时21分]"
         }
       ]
     },
@@ -317,8 +356,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时21分]"
         }
       ]
     },
@@ -334,8 +373,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时21分]"
         }
       ]
     },
@@ -352,8 +391,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时21分]"
         }
       ]
     },
