@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T04:22:07.914406+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-01-15T04:45:27.053232+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 04时45分]"
         },
         {
           "title": "财联社1月15日电，Anthropic与OpenAI据称已采取上市的早期步骤。",
@@ -103,8 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 04时45分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -115,8 +115,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 04时45分]"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
@@ -168,7 +168,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "财联社1月15日电，OpenAI与Cerebras达成价值超过100亿美元的算力协议。",
@@ -186,22 +186,24 @@
           "url": "https://flash.jin10.com/detail/20260115041052630800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 04时45分]"
         },
         {
           "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
           "url": "https://wallstreetcn.com/livenews/3037274",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时45分]"
         },
         {
           "title": "据华尔街日报：OpenAI将在三年内从初创公司Cerebras购买多达750兆瓦的算力。",
@@ -213,6 +215,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 04时22分]"
+        },
+        {
+          "title": "财联社1月15日电，OpenAI与Cerebras达成价值超过100亿美元的算力协议，承诺购买至多750MW算力。",
+          "url": "https://api3.cls.cn/share/article/2258132?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股三大指数集体低开，美国银行绩后跌超3%，阿里巴巴涨超3%",
+          "url": "https://www.gelonghui.com/news/5151027",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 04时45分]"
+        },
+        {
+          "title": "财联社1月15日电，布伦特原油期货跌幅扩大至3%，报63.498美元/桶，此前曾上涨2%。",
+          "url": "https://api3.cls.cn/share/article/2258137?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         }
       ]
     },
@@ -229,8 +270,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 04时45分]"
         },
         {
           "title": "下午察：中国申报20万颗卫星频轨资源剑指美国？",
@@ -240,8 +281,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 04时45分]"
         }
       ]
     },
@@ -300,23 +341,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股三大指数集体低开，美国银行绩后跌超3%，阿里巴巴涨超3%",
-          "url": "https://www.gelonghui.com/news/5151027",
-          "source": "格隆汇",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时22分]"
         }
       ]
     },
