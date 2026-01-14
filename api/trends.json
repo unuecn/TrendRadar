@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T03:41:56.502276+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-01-15T04:22:07.914406+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "BBC走进Google量子电脑的冰封虎穴，中国“祖冲之3.0”的劲敌？",
@@ -15,8 +15,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 04时22分]"
         },
         {
           "title": "财联社1月15日电，Anthropic与OpenAI据称已采取上市的早期步骤。",
@@ -57,6 +57,17 @@
           "time_info": "[02时34分 ~ 03时41分]"
         },
         {
+          "title": "据华尔街日报：OpenAI与初创公司Cerebras达成计算合作，OpenAI将使用Cerebras设计的芯片为ChatGPT提供动力。OpenAI与Cerebras的交易价值超过100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115040037235800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时22分]"
+        },
+        {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
           "url": "https://wallstreetcn.com/livenews/3037200",
           "source": "华尔街见闻-快讯",
@@ -92,8 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 04时22分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -104,8 +115,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 03时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 04时22分]"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
@@ -156,6 +167,56 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "财联社1月15日电，OpenAI与Cerebras达成价值超过100亿美元的算力协议。",
+          "url": "https://api3.cls.cn/share/article/2258132?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时22分]"
+        },
+        {
+          "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
+          "url": "https://flash.jin10.com/detail/20260115041052630800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时22分]"
+        },
+        {
+          "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
+          "url": "https://wallstreetcn.com/livenews/3037274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI将在三年内从初创公司Cerebras购买多达750兆瓦的算力。",
+          "url": "https://flash.jin10.com/detail/20260115040115164800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时22分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 2,
       "titles": [
@@ -168,8 +229,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 04时22分]"
         },
         {
           "title": "下午察：中国申报20万颗卫星频轨资源剑指美国？",
@@ -179,8 +240,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 04时22分]"
         }
       ]
     },
@@ -254,8 +315,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 04时22分]"
         }
       ]
     },
