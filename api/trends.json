@@ -1,515 +1,197 @@
 {
-  "generated_at": "2026-01-17T23:42:04.550428+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-01-18T00:23:46.727485+08:00",
+  "total_titles_processed": 228,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 11,
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 4,
       "titles": [
         {
-          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
-          "url": "https://wallstreetcn.com/livenews/3039069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            13,
-            14,
-            20,
-            24,
-            26,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 15时40分]"
-        },
-        {
-          "title": "【电报解读】OpenAI拟在ChatGPT中测试定向广告加码营收增长计划！机构称GEO市场将随着大模型流量增长持续上行，2030年市场规模有望破千亿美元，GEO是这家公司与阿里在AI领域深度合作的延伸",
-          "url": "https://api3.cls.cn/share/article/2261210?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            8,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[21时47分 ~ 23时42分]"
-        },
-        {
-          "title": "OpenAI拟在ChatGPT中测试定向广告加码营收增长计划",
-          "url": "https://api3.cls.cn/share/article/2260959?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时20分 ~ 05时21分]"
-        },
-        {
-          "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
-          "url": "https://flash.jin10.com/detail/20260117020334950800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时33分 ~ 04时44分]"
-        },
-        {
-          "title": "财联社1月17日电，OpenAI宣布ChatGPT Go将在所有ChatGPT服务覆盖地区全面上线。在美国市场，Go方案的定价为每月8美元。",
-          "url": "https://api3.cls.cn/share/article/2260943?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时33分 ~ 04时44分]"
-        },
-        {
-          "title": "OpenAI：计划很快在美国开始对免费版的广告以及ChatGPT Go进行测试。",
-          "url": "https://flash.jin10.com/detail/20260117020324542800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时33分 ~ 04时44分]"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
-          "url": "https://flash.jin10.com/detail/20260117020212481800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时33分 ~ 04时44分]"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
-          "url": "https://wallstreetcn.com/livenews/3038964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时33分 ~ 04时44分]"
-        },
-        {
-          "title": "马斯克就 \"不当得利 \"向 OpenAI和微软索赔高达1340亿美元",
-          "url": "https://wallstreetcn.com/livenews/3039109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时44分 ~ 20时39分]"
-        },
-        {
-          "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
-          "url": "https://flash.jin10.com/detail/20260117021136642800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 04时44分]"
-        },
-        {
-          "title": "财联社1月17日电，据报道，OpenAI 联合创始人格雷格・布罗克曼称，马斯克曾表示他需要持有OpenAI 的多数股权。",
-          "url": "https://api3.cls.cn/share/article/2261047?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 11时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "中国实践三十二号卫星发射失利",
-          "url": "https://www.zaochenbao.com/news/china/202601/1762547.html",
-          "source": "早报",
-          "ranks": [
-            3,
-            5,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时52分 ~ 17时42分]"
-        },
-        {
-          "title": "又一商业航天企业，IPO有新进展",
-          "url": "https://www.cls.cn/detail/2261073",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[12时52分 ~ 23时42分]"
-        },
-        {
-          "title": "实践三十二号卫星发射失利",
-          "url": "https://flash.jin10.com/detail/20260117102211619800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            6,
-            10,
-            12,
-            13,
-            18,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 15时40分]"
-        },
-        {
-          "title": "商业航天企业中科宇航完成上市辅导",
-          "url": "https://wallstreetcn.com/livenews/3039075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            8,
-            14,
-            18,
-            20,
-            22,
-            24,
-            25,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时23分 ~ 17时21分]"
-        },
-        {
-          "title": "实践三十二号卫星发射失利",
-          "url": "https://wallstreetcn.com/livenews/3039073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            10,
-            16,
-            20,
-            22,
-            24,
-            26,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 16时49分]"
-        },
-        {
-          "title": "美国卫星通信公司AST SpaceMobile大涨超12%，创历史新高",
-          "url": "https://www.gelonghui.com/news/5152639",
+          "title": "首程控股机器人投资组合回报超四倍，多个明星项目实现超十倍收益",
+          "url": "https://www.gelonghui.com/news/5152698",
           "source": "格隆汇",
-          "ranks": [
-            7,
-            8,
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 47,
-          "time_info": "[00时29分 ~ 23时42分]"
-        },
-        {
-          "title": "商业航天企业中科宇航完成上市辅导",
-          "url": "https://flash.jin10.com/detail/20260117155020536800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            7,
-            11,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时26分 ~ 18时44分]"
-        },
-        {
-          "title": "【谷神星二号民营商业运载火箭首次飞行试验任务失利】1月17日12时08分，谷神星二号民营商业运载火箭在酒泉卫星发射中心点火升空，火箭飞行异常，首次飞行试验任务失利。具体原因正在进一步分析排查。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3039093",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时55分"
+          "time_info": "00时23分"
         },
         {
-          "title": "商业航天企业中科宇航完成上市辅导",
-          "url": "https://api3.cls.cn/share/article/2261070?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "匈牙利政府及企业家代表团到访天奇股份，考察具身智能机器人工业应用",
+          "url": "https://wallstreetcn.com/livenews/3039142",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 12时52分]"
-        },
-        {
-          "title": "实践三十二号卫星发射失利",
-          "url": "https://api3.cls.cn/share/article/2261064?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 12时52分]"
-        },
-        {
-          "title": "实践三十二号卫星发射失利",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9E%E8%B7%B5%E4%B8%89%E5%8D%81%E4%BA%8C%E5%8F%B7%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E5%A4%B1%E5%88%A9%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "00时23分"
+        },
+        {
+          "title": "2026年春晚今日完成首次彩排 机器人将再度登上春晚舞台",
+          "url": "https://api3.cls.cn/share/article/2261214?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "2026年春晚今日完成首次彩排 机器人将再度登上春晚舞台",
+          "url": "https://flash.jin10.com/detail/20260117214942857800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股小幅收跌，美光科技涨超7%，中概指数跌1.15%",
           "url": "https://www.gelonghui.com/news/5152694",
           "source": "格隆汇",
           "ranks": [
-            1,
-            2,
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[09时39分 ~ 23时42分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
           "url": "https://www.cls.cn/detail/2260993",
           "source": "财联社热门",
           "ranks": [
-            12,
-            8,
-            3,
-            4,
-            5,
-            6,
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[07时21分 ~ 23时42分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "美股三大指数小幅收跌 美光收涨近8%",
-          "url": "https://flash.jin10.com/detail/20260117050027802800",
-          "source": "金十数据",
+          "title": "哈塞特“出局”，但美债为何“不涨反跌”？",
+          "url": "https://wallstreetcn.com/articles/3763504",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            25
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时21分 ~ 09时39分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "又一商业航天企业，IPO有新进展",
+          "url": "https://www.cls.cn/detail/2261073",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
-          "url": "https://wallstreetcn.com/livenews/3039039",
-          "source": "华尔街见闻-快讯",
+          "title": "美国卫星通信公司AST SpaceMobile大涨超12%，创历史新高",
+          "url": "https://www.gelonghui.com/news/5152639",
+          "source": "格隆汇",
           "ranks": [
-            5,
-            11,
-            13,
-            19,
-            30
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时21分 ~ 09时39分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "美股七巨头收盘播报｜周五（1月16日），美国科技股七巨头（Magnificent 7）指数跌0.30%，报204.59点，本周累计下跌1.58%。 “超大”市值科技股指数涨0.12%，报392.82点，本周累跌0.54%。",
-          "url": "https://wallstreetcn.com/livenews/3039026",
-          "source": "华尔街见闻-快讯",
+          "title": "“HBM之父”：高带宽闪存（HBF）商业化进程超预期，或将在2-3年内集成到GPU，市场规模将超HBM",
+          "url": "https://wallstreetcn.com/articles/3763511",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            17,
-            23,
-            25
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时43分 ~ 07时21分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "网络股ETF收跌将近0.9%，领跌美股行业ETF，半导体ETF涨1%",
-          "url": "https://wallstreetcn.com/livenews/3039017",
-          "source": "华尔街见闻-快讯",
+          "title": "美光科技拟以18亿美元收购力积电位于中国台湾的一处晶圆设施 以扩充其存储芯片产能",
+          "url": "https://api3.cls.cn/share/article/2261216?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            2,
-            13,
-            25
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 06时21分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.58%，暂报4084.85点，最近连续天累计上涨0.07%，整体大致持稳，1月11日北京时间22:10前后出现一波尖锐的冲高回落行情——最高达到6268.44点。 MarketVectorTM数字资产100中盘指数跌2.22%，报3725.95点，最近七天累跌1.99%，整体冲高回落。 MarketVector数字资产100指数跌1.72%，报19592.12点，最近七天累涨2.99%。 最近七天，比特币累涨4.92%，目前报94872美元；以太坊累涨6.40%，暂报3279美元；Solana累涨4.40%，狗狗币累跌2.99%，XRP累跌2.22%。",
-          "url": "https://wallstreetcn.com/livenews/3038945",
-          "source": "华尔街见闻-快讯",
+          "title": "【电报解读】OpenAI拟在ChatGPT中测试定向广告加码营收增长计划！机构称GEO市场将随着大模型流量增长持续上行，2030年市场规模有望破千亿美元，GEO是这家公司与阿里在AI领域深度合作的延伸",
+          "url": "https://api3.cls.cn/share/article/2261210?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            6,
-            13,
-            23
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 02时33分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "福特拟海外混动车用比亚迪电池 引发美国反弹",
+          "url": "https://www.zaochenbao.com/news/politics/202601/1762572.html",
+          "source": "早报",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 07时42分]"
-        },
-        {
-          "title": "英媒：中国阻止发货后 英伟达H200零部件供应商停止生产",
-          "url": "https://www.zaochenbao.com/news/china/202601/1762545.html",
-          "source": "早报",
-          "ranks": [
-            1,
-            5,
-            7,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时23分 ~ 17时42分]"
-        },
-        {
-          "title": "老黄“领先一步”，当所有人都在争夺台积电产能，英伟达在“抢地”",
-          "url": "https://wallstreetcn.com/articles/3763432",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 09时39分]"
-        },
-        {
-          "title": "台积电高层：扩大投资美国 最先进技术留在台湾",
-          "url": "https://www.zaochenbao.com/news/taiwan/202601/1662510.html",
-          "source": "早报",
-          "ranks": [
-            7,
-            23,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 12时52分]"
-        },
-        {
-          "title": "据英国《金融时报》：英伟达(NVDA.O)供应商暂停H200芯片关键组件的生产。",
-          "url": "https://flash.jin10.com/detail/20260117093435565800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            13,
-            17,
-            19,
-            20,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时23分 ~ 14时55分]"
-        },
         {
           "title": "台积电计划加大在台投资",
           "url": "https://www.zaochenbao.com/news/taiwan/202601/1762584.html",
@@ -518,457 +200,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[23时19分 ~ 23时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "首程控股机器人投资组合回报超四倍，多个明星项目实现超十倍收益",
-          "url": "https://www.gelonghui.com/news/5152698",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[13时21分 ~ 23时42分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
-          "url": "https://www.cls.cn/detail/2260421",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 07时42分]"
-        },
-        {
-          "title": "2026年春晚今日完成首次彩排 机器人将再度登上春晚舞台",
-          "url": "https://flash.jin10.com/detail/20260117214942857800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[22时19分 ~ 23时42分]"
-        },
-        {
-          "title": "2026年春晚今日完成首次彩排 机器人将再度登上春晚舞台",
-          "url": "https://api3.cls.cn/share/article/2261214?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[22时19分 ~ 23时42分]"
-        },
-        {
-          "title": "匈牙利政府及企业家代表团到访天奇股份，考察具身智能机器人工业应用",
-          "url": "https://wallstreetcn.com/livenews/3039142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时43分 ~ 23时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "李家超吁充分利用人工智能力量 建立多元韧性社会",
-          "url": "https://www.zaochenbao.com/news/hkMacao/202601/1662513.html",
-          "source": "早报",
-          "ranks": [
-            4,
-            20,
-            26,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时29分 ~ 14时55分]"
-        },
-        {
-          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
-          "url": "https://www.cls.cn/detail/2260348",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 05时43分]"
-        },
-        {
-          "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
-          "url": "https://wallstreetcn.com/livenews/3039052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            24,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时42分 ~ 12时52分]"
-        },
-        {
-          "title": "财联社1月17日电，人工智能初创公司ElevenLabs据悉正进行融资谈判，公司估值达到110亿美元。",
-          "url": "https://api3.cls.cn/share/article/2260982?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 06时21分]"
-        },
-        {
-          "title": "世界人工智能大会首次在港举办",
-          "url": "https://wallstreetcn.com/livenews/3038912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周五（1月16日）纽约尾盘，现货黄金跌0.44%，报4595.23美元/盎司，特朗普淡化白宫顾问贝森特担任美联储主席可能性之后快速跳水，本周累计上涨1.91%，绝大部分时间高位震荡。 COMEX黄金期货跌0.57%，报4597美元/盎司，本周累涨2.12%。",
-          "url": "https://wallstreetcn.com/livenews/3039034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 07时42分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 1月16日（周五）晚盘收盘上涨0.03%报1031.0元/克；<br/>上海黄金交易所白银T+D 1月16日（周五）晚盘收盘下跌3.03%报22018.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260117023026141800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 04时44分]"
-        },
-        {
-          "title": "现货黄金日内跌幅达1.5%，报4546.43美元/盎司。 纽约银日内跌幅达6.0%，报86.81美元/盎司。 纽蒙特矿业跌2.3%。 标普跌0.18%，纳指跌0.2%，半导体指数涨幅收窄至0.8%。 两年期美债收益率涨幅扩大至2.6个基点，刷新日高至3.59%上方。 美元指数短线从99.20点下方反弹，重返99.33一线。 特朗普称，希望哈塞特继续担任白宫顾问。",
-          "url": "https://wallstreetcn.com/livenews/3038910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国商务部长：韩国存储芯片企业若不在美国投资，可能面临高达100%的关税",
-          "url": "https://wallstreetcn.com/livenews/3039083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            12,
-            14,
-            16,
-            17,
-            19,
-            21,
-            23,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时21分 ~ 18时44分]"
-        },
-        {
-          "title": "美商务部长威胁：关于建设存储芯片（产能）要么在美国本土建设、要么支付100%关税",
-          "url": "https://api3.cls.cn/share/article/2261179?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            6,
-            8,
-            13,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时44分 ~ 21时48分]"
-        },
-        {
-          "title": "美光科技拟以18亿美元收购力积电位于中国台湾的一处晶圆设施 以扩充其存储芯片产能",
-          "url": "https://api3.cls.cn/share/article/2261216?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[22时19分 ~ 23时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "西安电子科技大学科研团队取得新突破，涉及智能驾驶",
-          "url": "https://wallstreetcn.com/livenews/3039087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            8,
-            10,
-            12,
-            13,
-            15,
-            17,
-            19,
-            21,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时21分 ~ 19时17分]"
-        },
-        {
-          "title": "新城市志｜剑指高级别自动驾驶引领区，上海底气何来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32406619",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[20时39分 ~ 23时20分]"
-        },
-        {
-          "title": "西安电子科技大学科研团队取得新突破 涉及智能驾驶",
-          "url": "https://api3.cls.cn/share/article/2261111?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            6,
-            14,
-            17,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时21分 ~ 15时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763470",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时39分 ~ 19时17分]"
-        },
-        {
-          "title": "“HBM之父”：高带宽闪存（HBF）商业化进程超预期，或将在2-3年内集成到GPU，市场规模将超HBM",
-          "url": "https://wallstreetcn.com/articles/3763511",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[19时39分 ~ 23时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【电报解读】全固态电池迈向工程化验证关键期，业内一致预期2027年有望实现小批量生产，将对现有材料体系、装备体系产生颠覆，这家公司固态电池膜材料目前处于下游客户验证中",
-          "url": "https://api3.cls.cn/share/article/2261193?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            6,
-            9,
-            15,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[20时39分 ~ 23时42分]"
-        },
-        {
-          "title": "全固态电池迈向工程化验证关键期",
-          "url": "https://api3.cls.cn/share/article/2261027?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "福特拟海外混动车用比亚迪电池 引发美国反弹",
-          "url": "https://www.zaochenbao.com/news/politics/202601/1762572.html",
-          "source": "早报",
-          "ranks": [
-            2,
-            6,
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[18时20分 ~ 23时42分]"
-        },
-        {
-          "title": "本周，标普累跌0.2%，道指累跌0.2%，纳指累跌0.5%，半导体指数涨3.9%，科技股七巨头指数跌1.4%，华尔街大行拉开四季度业绩报告序幕之际，银行指数跌1.6%。 周五当天，标普500指数初步微幅收跌，房地产板块涨1.2%，科技板块涨0.2%，电信板块跌0.7%。 纳斯达克100指数初步微幅收跌，成分股中，核电股CEG跌9.6%，Atlassian跌6.4%，Applovin跌6.4%，Palantir跌3.3%，博通涨2.6%，吉利德科学涨3.1%，美光科技涨7.4%。 Salesforce初步收跌2.8%，联合健康、3M跌超2%，领跌道指成分股，苹果跌1%，微软涨0.7%，霍尼韦尔、美国运通、IBM涨超2%。 费城半导体指数涨1.1%，银行指数跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3039002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "沪指险守4100点，两市ETF成交再创历史天量，电网设备走强，半导体产业链爆发，碳酸锂跌停",
-          "url": "https://wallstreetcn.com/articles/3763433",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时29分 ~ 16时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "白银暴涨，光伏流泪",
-          "url": "https://wallstreetcn.com/articles/3763442",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时39分 ~ 13时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.1%，本周累涨0.4%，整体“高开”低走。 热门中概股里，小米初步收跌3.5%，阿里跌3%，美团跌2%，腾讯、京东、理想跌超1%，拼多多跌0.6%，网易涨1.3%，蔚来涨1.4%，文远知行涨1.5%，华住涨1.9%，小马智行涨2.4%。",
-          "url": "https://wallstreetcn.com/livenews/3039004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 05时43分]"
+          "time_info": "00时23分"
         }
       ]
     }
