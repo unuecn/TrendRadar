@@ -1,8 +1,152 @@
 {
-  "generated_at": "2026-01-17T14:31:35.853473+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-01-17T14:55:49.116370+08:00",
+  "total_titles_processed": 886,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美国卫星通信公司AST SpaceMobile大涨超12%，创历史新高",
+          "url": "https://www.gelonghui.com/news/5152639",
+          "source": "格隆汇",
+          "ranks": [
+            7,
+            8,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 14时55分]"
+        },
+        {
+          "title": "实践三十二号卫星发射失利",
+          "url": "https://flash.jin10.com/detail/20260117102211619800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            6,
+            10,
+            12,
+            13,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 14时55分]"
+        },
+        {
+          "title": "中国实践三十二号卫星发射失利",
+          "url": "https://www.zaochenbao.com/news/china/202601/1762547.html",
+          "source": "早报",
+          "ranks": [
+            3,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 14时55分]"
+        },
+        {
+          "title": "商业航天企业中科宇航完成上市辅导",
+          "url": "https://wallstreetcn.com/livenews/3039075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            8,
+            14,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 14时55分]"
+        },
+        {
+          "title": "实践三十二号卫星发射失利",
+          "url": "https://wallstreetcn.com/livenews/3039073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            10,
+            16,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 14时55分]"
+        },
+        {
+          "title": "又一商业航天企业，IPO有新进展",
+          "url": "https://www.cls.cn/detail/2261073",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 14时55分]"
+        },
+        {
+          "title": "【谷神星二号民营商业运载火箭首次飞行试验任务失利】1月17日12时08分，谷神星二号民营商业运载火箭在酒泉卫星发射中心点火升空，火箭飞行异常，首次飞行试验任务失利。具体原因正在进一步分析排查。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3039093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "商业航天企业中科宇航完成上市辅导",
+          "url": "https://api3.cls.cn/share/article/2261070?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 12时52分]"
+        },
+        {
+          "title": "实践三十二号卫星发射失利",
+          "url": "https://api3.cls.cn/share/article/2261064?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 12时52分]"
+        },
+        {
+          "title": "实践三十二号卫星发射失利",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9E%E8%B7%B5%E4%B8%89%E5%8D%81%E4%BA%8C%E5%8F%B7%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E5%A4%B1%E5%88%A9%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 9,
@@ -17,11 +161,12 @@
             13,
             14,
             20,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时39分 ~ 14时31分]"
+          "appearance_count": 8,
+          "time_info": "[09时39分 ~ 14时55分]"
         },
         {
           "title": "OpenAI拟在ChatGPT中测试定向广告加码营收增长计划",
@@ -128,134 +273,6 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美国卫星通信公司AST SpaceMobile大涨超12%，创历史新高",
-          "url": "https://www.gelonghui.com/news/5152639",
-          "source": "格隆汇",
-          "ranks": [
-            7,
-            8,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 14时31分]"
-        },
-        {
-          "title": "中国实践三十二号卫星发射失利",
-          "url": "https://www.zaochenbao.com/news/china/202601/1762547.html",
-          "source": "早报",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 14时31分]"
-        },
-        {
-          "title": "实践三十二号卫星发射失利",
-          "url": "https://flash.jin10.com/detail/20260117102211619800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            6,
-            10,
-            12,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 14时31分]"
-        },
-        {
-          "title": "商业航天企业中科宇航完成上市辅导",
-          "url": "https://wallstreetcn.com/livenews/3039075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            8,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 14时31分]"
-        },
-        {
-          "title": "实践三十二号卫星发射失利",
-          "url": "https://wallstreetcn.com/livenews/3039073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            10,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 14时31分]"
-        },
-        {
-          "title": "又一商业航天企业，IPO有新进展",
-          "url": "https://www.cls.cn/detail/2261073",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 14时31分]"
-        },
-        {
-          "title": "商业航天企业中科宇航完成上市辅导",
-          "url": "https://api3.cls.cn/share/article/2261070?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 12时52分]"
-        },
-        {
-          "title": "实践三十二号卫星发射失利",
-          "url": "https://api3.cls.cn/share/article/2261064?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 12时52分]"
-        },
-        {
-          "title": "实践三十二号卫星发射失利",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9E%E8%B7%B5%E4%B8%89%E5%8D%81%E4%BA%8C%E5%8F%B7%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E5%A4%B1%E5%88%A9%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 美股 美元",
       "match_count": 7,
       "titles": [
@@ -269,8 +286,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时39分 ~ 14时31分]"
+          "appearance_count": 10,
+          "time_info": "[09时39分 ~ 14时55分]"
         },
         {
           "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
@@ -285,8 +302,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时21分 ~ 14时31分]"
+          "appearance_count": 12,
+          "time_info": "[07时21分 ~ 14时55分]"
         },
         {
           "title": "美股三大指数小幅收跌 美光收涨近8%",
@@ -373,8 +390,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 14时31分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 14时55分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
@@ -453,11 +470,12 @@
           "ranks": [
             1,
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 14时31分]"
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 14时55分]"
         },
         {
           "title": "老黄“领先一步”，当所有人都在争夺台积电产能，英伟达在“抢地”",
@@ -497,11 +515,12 @@
             17,
             19,
             20,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 14时31分]"
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 14时55分]"
         }
       ]
     },
@@ -573,8 +592,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 14时55分]"
         }
       ]
     },
@@ -583,29 +602,31 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "西安电子科技大学科研团队取得新突破，涉及智能驾驶",
-          "url": "https://wallstreetcn.com/livenews/3039087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 14时31分]"
-        },
-        {
           "title": "西安电子科技大学科研团队取得新突破 涉及智能驾驶",
           "url": "https://api3.cls.cn/share/article/2261111?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             4,
             6,
-            14
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 14时55分]"
+        },
+        {
+          "title": "西安电子科技大学科研团队取得新突破，涉及智能驾驶",
+          "url": "https://wallstreetcn.com/livenews/3039087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时21分 ~ 14时31分]"
+          "time_info": "[13时21分 ~ 14时55分]"
         }
       ]
     },
@@ -622,8 +643,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时39分 ~ 14时31分]"
+          "appearance_count": 10,
+          "time_info": "[09时39分 ~ 14时55分]"
         }
       ]
     },
@@ -637,11 +658,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 14时31分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 14时55分]"
         }
       ]
     },
@@ -677,8 +699,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 14时31分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 14时55分]"
         }
       ]
     },
