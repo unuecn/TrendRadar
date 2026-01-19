@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T09:49:32.196885+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-01-19T11:51:05.099495+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "涉及商业航天，两大央企定调",
@@ -46,11 +46,12 @@
           "url": "https://www.cls.cn/detail/2261562",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 11时51分]"
         },
         {
           "title": "风云三号卫星监测显示世界最大冰山迎来崩解最后阶段",
@@ -101,7 +102,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -115,12 +116,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "神舟二十三号飞船已运抵酒泉卫星发射中心",
+          "url": "https://wallstreetcn.com/livenews/3039466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "中国儒意(00136.HK)拟1420万美元投资AIsphere 携手爱诗科技推进影视流媒体游戏AI应用",
@@ -178,13 +190,35 @@
           "time_info": "[06时44分 ~ 07时20分]"
         },
         {
+          "title": "胡润发布中国人工智能50强 寒武纪以6300亿元价值居首",
+          "url": "https://api3.cls.cn/share/article/2261844?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "胡润发布中国人工智能50强，寒武纪以6300亿元价值居首",
+          "url": "https://wallstreetcn.com/livenews/3039492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "部分港股AI应用概念股走弱 MINIMAX跌超5%",
           "url": "https://api3.cls.cn/share/article/2261699?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         }
@@ -192,7 +226,7 @@
     },
     {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】事关存储芯片！美商务部长100%关税威慑；我国芯片制造核心装备取得重要突破",
@@ -220,6 +254,19 @@
           "time_info": "[00时24分 ~ 07时42分]"
         },
         {
+          "title": "拟新增存储芯片封测年产能84.96万片 存储芯片概念股涨停 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2261495",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 11时51分]"
+        },
+        {
           "title": "【公告全知道】商业航天+存储芯片+第三代半导体！公司相关导电浆料产品已用于商业航天卫星太阳翼",
           "url": "https://api3.cls.cn/share/article/2261427?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -234,16 +281,26 @@
           "time_info": "[00时24分 ~ 01时42分]"
         },
         {
-          "title": "拟新增存储芯片封测年产能84.96万片 存储芯片概念股涨停 本周机构密集调研相关上市公司",
-          "url": "https://www.cls.cn/detail/2261495",
-          "source": "财联社热门",
+          "title": "财联社1月19日电，美光预计前所未有的存储芯片短缺将持续到2026年之后。",
+          "url": "https://api3.cls.cn/share/article/2261848?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            12,
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时42分 ~ 09时49分]"
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "美光预计，存储芯片短缺将持续到2026年之后。",
+          "url": "https://wallstreetcn.com/livenews/3039499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     },
@@ -260,19 +317,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 09时49分]"
-        },
-        {
-          "title": "外媒：马斯克向微软和OpenAI提出巨额索赔",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/01/18/4533885ca51f4c45b00afa8991acaffe.html",
-          "source": "参考消息",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 09时49分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 11时51分]"
         },
         {
           "title": "没有商业模式--DeepSeek最坚固的“护城河”",
@@ -280,11 +326,24 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 09时49分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 11时51分]"
+        },
+        {
+          "title": "外媒：马斯克向微软和OpenAI提出巨额索赔",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/01/18/4533885ca51f4c45b00afa8991acaffe.html",
+          "source": "参考消息",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 11时51分]"
         },
         {
           "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
@@ -293,7 +352,143 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。沪银涨超2%，低硫燃料油（LU）、沪金、纯苯涨超1%。跌幅方面，沪锡跌超5%，碳酸锂跌近4%，铁矿石、玻璃、丁二烯橡胶、集运指数（欧线）、菜粕、沪铅跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260119113056146800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "财联社1月19日电，碳酸锂期货主力合约日内跌超6%，报143860元/吨。",
+          "url": "https://api3.cls.cn/share/article/2261673?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "商品期货开盘，钯主力合约涨超3%，沪银涨超2%，原油、苯乙烯、LU燃油、焦炭、纯苯涨超1%。沪锡跌超7%，碳酸锂跌超3%，集运欧线、菜粕跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3039383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "最高亏损达百亿元 九家光伏龙头齐发预亏公告 哪家“减亏”更胜一筹？",
+          "url": "https://www.cls.cn/detail/2261449",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 11时51分]"
+        },
+        {
+          "title": "十余家光伏设备上市公司披露2025年业绩预告 隆基绿能、大全能源、TCL中环、爱旭股份等4股预计同比减亏",
+          "url": "https://api3.cls.cn/share/article/2261472?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时48分]"
+        },
+        {
+          "title": "工信部等五部门：分阶段梯度培育建设零碳工厂，到2027年推进至汽车、光伏等行业",
+          "url": "https://wallstreetcn.com/livenews/3039482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "格陵兰引发美欧关税战风险，纳指期货跌超1%，黄金大涨逼近4700关口，白银再创新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "美股期货低开，标普500指数期货跌0.8%，纳指期货跌1.1%。 美国10年期国债期货上涨5个点，30年期国债期货亦上涨5个点。 现货黄金涨超0.9%，现货白银涨1.4%重返91美元上方。",
+          "url": "https://wallstreetcn.com/livenews/3039331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
+          "url": "https://wallstreetcn.com/articles/3763537",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "中信证券：看好国产算力芯片及国产系统级厂商投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3039379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         }
@@ -331,59 +526,33 @@
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "keyword_group": "小米 特斯拉 华为",
       "match_count": 2,
       "titles": [
         {
-          "title": "财联社1月19日电，碳酸锂期货主力合约日内跌超6%，报143860元/吨。",
-          "url": "https://api3.cls.cn/share/article/2261673?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "小米集团董事长雷军：新一代SU7已经开始小订。",
+          "url": "https://flash.jin10.com/detail/20260118224930026800",
+          "source": "金十数据",
           "ranks": [
-            20
+            4,
+            15,
+            23,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 05时40分]"
         },
         {
-          "title": "商品期货开盘，钯主力合约涨超3%，沪银涨超2%，原油、苯乙烯、LU燃油、焦炭、纯苯涨超1%。沪锡跌超7%，碳酸锂跌超3%，集运欧线、菜粕跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3039383",
-          "source": "华尔街见闻-快讯",
+          "title": "小米新SU7刷新24小时耐力挑战纪录",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0SU7%E5%88%B7%E6%96%B024%E5%B0%8F%E6%97%B6%E8%80%90%E5%8A%9B%E6%8C%91%E6%88%98%E7%BA%AA%E5%BD%95%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "十余家光伏设备上市公司披露2025年业绩预告 隆基绿能、大全能源、TCL中环、爱旭股份等4股预计同比减亏",
-          "url": "https://api3.cls.cn/share/article/2261472?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            17,
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时48分]"
-        },
-        {
-          "title": "最高亏损达百亿元 九家光伏龙头齐发预亏公告 哪家“减亏”更胜一筹？",
-          "url": "https://www.cls.cn/detail/2261449",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "[11时50分 ~ 11时51分]"
         }
       ]
     },
@@ -415,26 +584,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股期货低开，标普500指数期货跌0.8%，纳指期货跌1.1%。 美国10年期国债期货上涨5个点，30年期国债期货亦上涨5个点。 现货黄金涨超0.9%，现货白银涨1.4%重返91美元上方。",
-          "url": "https://wallstreetcn.com/livenews/3039331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时42分"
+          "time_info": "09时49分"
         }
       ]
     },
@@ -449,24 +601,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中信证券：看好国产算力芯片及国产系统级厂商投资机遇",
-          "url": "https://wallstreetcn.com/livenews/3039379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         }
@@ -483,29 +618,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米集团董事长雷军：新一代SU7已经开始小订。",
-          "url": "https://flash.jin10.com/detail/20260118224930026800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 05时40分]"
         }
       ]
     }
