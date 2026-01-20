@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T05:43:58.400150+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-01-21T06:23:31.674766+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
@@ -80,7 +80,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "纳斯达克100指数跌幅收窄至不足1%。 成分股Strategy目前跌6.6%，FAST跌4%，Shopify跌3.9%，博通跌3.5%跌幅第四大，英伟达跌2.9%、特斯拉跌2.8%、铿腾电子（芯片软件设计/EDA公司）跌2.8%、科磊跌2.8%跌幅居前，美光科技则涨3.3%，西部数据涨3.4%，英特尔涨5.3%。",
@@ -98,33 +98,47 @@
           "url": "https://wallstreetcn.com/livenews/3040684",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 05时43分]"
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 06时23分]"
         },
         {
           "title": "纳指收跌2.4% 英伟达、特斯拉跌超4%",
           "url": "https://api3.cls.cn/share/article/2264288?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 05时43分]"
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 06时23分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.45%，报7608.38点。 热门中概股里，小马智行初步收跌6.4%，小米跌5%，文远知行跌4.4%，比亚迪、小鹏、腾讯跌超3%，百度涨超0.3%。 ETF中，中国科技指数ETF（CQQQ）收跌2.87%，中概互联网指数ETF（KWEB）收跌2.07%。 XtrackersHarvest中证50（ASHS）收跌0.48%，德银嘉实沪深300指数ETF（ASHR）收跌0.24%。",
           "url": "https://wallstreetcn.com/livenews/3040678",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 05时43分]"
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 06时23分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌将近4.4%，特斯拉跌约4.2%，苹果和亚马逊至少跌3.4%",
+          "url": "https://wallstreetcn.com/livenews/3040693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         }
       ]
     },
@@ -235,8 +249,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 05时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 06时23分]"
         },
         {
           "title": "中国商业航天发射次数去年占宇航发射总数逾一半",
@@ -246,8 +260,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 05时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 06时23分]"
         },
         {
           "title": "【每日收评】市场热点高低切轮动，化工股逆势爆发，商业航天概念再遭重创",
@@ -257,8 +271,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 05时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 06时23分]"
         }
       ]
     },
@@ -266,6 +280,18 @@
       "keyword_group": "美债 美股 美元",
       "match_count": 2,
       "titles": [
+        {
+          "title": "财联社1月21日电，波音股价有望抹去自2024年舱门脱落事故以来的跌幅。截至目前，波音上涨0.6%，报249.30美元。波音今年累计涨幅近15%。",
+          "url": "https://api3.cls.cn/share/article/2264286?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 06时23分]"
+        },
         {
           "title": "LME期铜收跌212美元，报12754美元/吨。 LME期铝收跌51美元，报3108美元/吨。 LME期锌收跌48美元，报3173美元/吨。 LME期铅收跌32美元，报2028美元/吨。 LME期镍收跌519美元，报17614美元/吨。 LME期锡收涨154美元，报49412美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3040627",
@@ -277,17 +303,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 04时12分]"
-        },
-        {
-          "title": "财联社1月21日电，波音股价有望抹去自2024年舱门脱落事故以来的跌幅。截至目前，波音上涨0.6%，报249.30美元。波音今年累计涨幅近15%。",
-          "url": "https://api3.cls.cn/share/article/2264286?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 05时43分]"
         }
       ]
     },
@@ -304,8 +319,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 05时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 06时23分]"
         },
         {
           "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
@@ -332,8 +347,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 05时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 06时23分]"
         },
         {
           "title": "美股存储芯片股逆势大涨，美光、希捷、闪迪等股集体刷新记录新高",
@@ -389,8 +404,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 05时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 06时23分]"
         }
       ]
     },
