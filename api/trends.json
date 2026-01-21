@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T22:31:53.952816+08:00",
-  "total_titles_processed": 2301,
+  "generated_at": "2026-01-21T23:01:58.306587+08:00",
+  "total_titles_processed": 2392,
   "failed_sources": [],
   "trends": [
     {
@@ -370,8 +370,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时29分 ~ 22时31分]"
+          "appearance_count": 9,
+          "time_info": "[18时29分 ~ 23时01分]"
         },
         {
           "title": "复现并升级人类手部动作 “巧手机器人”实现双面抓握与自主爬行",
@@ -789,8 +789,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时29分 ~ 22时31分]"
+          "appearance_count": 9,
+          "time_info": "[18时29分 ~ 23时01分]"
         },
         {
           "title": "财联社1月21日电，OpenAI在ChatGPT上推出年龄预测功能，以帮助确定账户所有者是否可能未满18岁。",
@@ -1442,8 +1442,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时29分 ~ 22时31分]"
+          "appearance_count": 9,
+          "time_info": "[18时29分 ~ 23时01分]"
         },
         {
           "title": "【研选】台积电积极扩产彰显信心，高度重视先进封装，供需持续紧张；磷酸铁锂龙头业绩超预期，产品供不应求涨价落地，盈利弹性可观",
@@ -1640,7 +1640,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1659,7 +1659,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "财联社1月21日电，波音股价有望抹去自2024年舱门脱落事故以来的跌幅。截至目前，波音上涨0.6%，报249.30美元。波音今年累计涨幅近15%。",
@@ -1707,6 +1707,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.12%，标普500指数涨0.2%，纳指涨0.25%。奈飞(NFLX.O)跌超5%，公司Q1业绩指引逊于预期，暂停股票回购。强生(JNJ.N)跌2.9%，公司业绩展望低于预期。",
+          "url": "https://flash.jin10.com/detail/20260121223021772800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         }
       ]
     },
@@ -1814,6 +1825,56 @@
       ]
     },
     {
+      "keyword_group": "英特尔 高通",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "财联社1月21日电，英特尔股价攀升6.7%，触及逾三年高点；伯恩斯坦公司将目标股价从35美元上调至36美元。",
+          "url": "https://api3.cls.cn/share/article/2265631?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
+          "title": "英国国家统计局首席经济学家Grant Fitzner：12月通胀率小幅攀升，部分原因在于烟草价格上涨，此前政府刚刚提高了相关消费税。机票价格也推高了通胀，涨幅超过去年同期水平，这很可能与圣诞节和新年期间往返航班的时间安排有关。食品成本上涨，尤其是面包和谷物价格上涨，同样是推高通胀的因素。",
+          "url": "https://flash.jin10.com/detail/20260121150130006800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "财联社1月20日电，英特尔涨幅扩大至6%。汇丰银行将英特尔目标价从26美元大幅上调至50美元，评级由“减持”上调至“持有”。",
+          "url": "https://api3.cls.cn/share/article/2264203?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "英特尔(INTC.O)上涨5.7%，至少两家券商上调该股评级。",
+          "url": "https://flash.jin10.com/detail/20260120234644478800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "消费电子 智能穿戴 智能座舱",
       "match_count": 3,
       "titles": [
@@ -1890,45 +1951,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英特尔 高通",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "英国国家统计局首席经济学家Grant Fitzner：12月通胀率小幅攀升，部分原因在于烟草价格上涨，此前政府刚刚提高了相关消费税。机票价格也推高了通胀，涨幅超过去年同期水平，这很可能与圣诞节和新年期间往返航班的时间安排有关。食品成本上涨，尤其是面包和谷物价格上涨，同样是推高通胀的因素。",
-          "url": "https://flash.jin10.com/detail/20260121150130006800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "财联社1月20日电，英特尔涨幅扩大至6%。汇丰银行将英特尔目标价从26美元大幅上调至50美元，评级由“减持”上调至“持有”。",
-          "url": "https://api3.cls.cn/share/article/2264203?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "英特尔(INTC.O)上涨5.7%，至少两家券商上调该股评级。",
-          "url": "https://flash.jin10.com/detail/20260120234644478800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
         }
       ]
     },
