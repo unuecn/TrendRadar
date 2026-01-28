@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-01-29T03:53:14.189975+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-01-29T04:31:37.721041+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "英国寻求利用人工智能提升生产力 以弥补失业损失",
+          "url": "https://flash.jin10.com/detail/20260129014249845800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 02时38分]"
+        },
+        {
+          "title": "财联社1月29日电，美联储主席鲍威尔表示，短期内可能会看到因人工智能赋能而出现的岗位被取代，但其总体影响尚不清楚。",
+          "url": "https://api3.cls.cn/share/article/2273365?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "鲍威尔：短期内可能会看到人工智能（AI）消除就业岗位/AI导致岗位被淘汰。",
+          "url": "https://wallstreetcn.com/livenews/3045805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美联储主席鲍威尔：最近大学毕业生的低就业率似乎与人工智能存在某种关联。",
+          "url": "https://flash.jin10.com/detail/20260129040422836800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美联储主席鲍威尔：短期内，我们可能会看到一些工作岗位因人工智能技术的应用而被取代，但尚不清楚整体影响。",
+          "url": "https://flash.jin10.com/detail/20260129040407090800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美联储主席鲍威尔：（经济）受益于人工智能支出。",
+          "url": "https://flash.jin10.com/detail/20260129040018734800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "金价 黄金",
       "match_count": 5,
@@ -16,8 +88,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 03时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时31分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡分化涨跌不一，全市场超3600股飘绿，黄金、油气等周期股持续爆发",
+          "url": "https://www.cls.cn/detail/2272713",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时31分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月28日（周三）晚盘收盘上涨2.39%报1190.75元/克；<br/>上海黄金交易所白银T+D 1月28日（周三）晚盘收盘下跌0.13%报28981.0元/千克。",
@@ -29,18 +113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 02时38分]"
-        },
-        {
-          "title": "【每日收评】三大指数震荡分化涨跌不一，全市场超3600股飘绿，黄金、油气等周期股持续爆发",
-          "url": "https://www.cls.cn/detail/2272713",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 03时53分]"
         },
         {
           "title": "现货黄金涨1.80%，暂报5274.50美元；COMEX黄金期货涨3.71%。 现货白银跌0.65%，纽约期银涨5.15%。 COMEX铜期货涨0.96%。 WTI原油期货涨1.17%，布油涨1.01%。",
@@ -61,7 +133,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         }
@@ -121,6 +193,57 @@
       ]
     },
     {
+      "keyword_group": "英特尔 高通",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股异动丨获公司CFO增持，英特尔大涨超10%，今年累涨超31%",
+          "url": "https://www.gelonghui.com/news/5159393",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时31分]"
+        },
+        {
+          "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
+          "url": "https://wallstreetcn.com/livenews/3045718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 02时38分]"
+        },
+        {
+          "title": "美国总统特朗普称赞优步和英特尔为“特朗普账户”捐款。",
+          "url": "https://flash.jin10.com/detail/20260129004214872800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "英特尔涨幅达12％。",
+          "url": "https://wallstreetcn.com/livenews/3045796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "台积电 英伟达",
       "match_count": 3,
       "titles": [
@@ -157,46 +280,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时33分 ~ 02时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英特尔 高通",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股异动丨获公司CFO增持，英特尔大涨超10%，今年累涨超31%",
-          "url": "https://www.gelonghui.com/news/5159393",
-          "source": "格隆汇",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 03时53分]"
-        },
-        {
-          "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
-          "url": "https://wallstreetcn.com/livenews/3045718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 02时38分]"
-        },
-        {
-          "title": "美国总统特朗普称赞优步和英特尔为“特朗普账户”捐款。",
-          "url": "https://flash.jin10.com/detail/20260129004214872800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
         }
       ]
     },
@@ -244,25 +327,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 03时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英国寻求利用人工智能提升生产力 以弥补失业损失",
-          "url": "https://flash.jin10.com/detail/20260129014249845800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 02时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时31分]"
         }
       ]
     },
@@ -315,8 +381,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 03时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时31分]"
         }
       ]
     }
