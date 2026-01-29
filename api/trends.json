@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T01:38:08.271480+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-01-30T02:45:06.828694+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时45分]"
         },
         {
           "title": "小摩：将特斯拉目标价下调至145美元",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时45分]"
         },
         {
           "title": "特斯拉(TSLA.O)：我们会继续为Model S和X项目提供支持，只要人们还拥有这些车辆。",
@@ -44,7 +44,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
@@ -56,6 +56,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "LME期铜收涨532美元，报13618美元/吨。 LME期铝收跌38美元，报3218美元/吨。 LME期锌收涨48美元，报3412美元/吨。 LME期铅收跌3美元，报2014美元/吨。 LME期镍收涨99美元，报18369美元/吨。 LME期锡收跌869美元，报55084美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3046638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "财联社1月30日电，苹果据悉以接近20亿美元的估值收购以色列初创公司Q.AI。",
+          "url": "https://api3.cls.cn/share/article/2274810?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
+        },
+        {
+          "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130013359793800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时45分]"
         }
       ]
     },
@@ -71,8 +110,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时45分]"
         }
       ]
     },
@@ -89,8 +128,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时45分]"
         }
       ]
     },
@@ -106,8 +145,25 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3046630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         }
       ]
     },
@@ -123,8 +179,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 02时45分]"
         }
       ]
     },
