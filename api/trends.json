@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T14:07:37.395578+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-01-29T15:14:47.388228+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -65,6 +65,18 @@
           "time_info": "[07时27分 ~ 07时50分]"
         },
         {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 15时14分]"
+        },
+        {
           "title": "财联社1月29日电，特斯拉表示已于1月16日签署协议，投资约20亿美元收购xAI的优先股。",
           "url": "https://api3.cls.cn/share/article/2273387?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -78,6 +90,17 @@
           "time_info": "[05时55分 ~ 06时55分]"
         },
         {
+          "title": "财联社1月29日电，财报公布后，Meta在法兰克福市场股价上涨6.9%；特斯拉股价在法兰克福盘前上涨1.8%。",
+          "url": "https://api3.cls.cn/share/article/2273994?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，新东方初步收涨4.9%，比亚迪、理想涨超2%，阿里、网易、小米、美团涨超1%，蔚来跌超0.7%，文远知行跌1.9%，拼多多跌3.8%。 ETF中，CQQQ涨0.1%，KWEB涨0.5%。",
           "url": "https://wallstreetcn.com/livenews/3045827",
           "source": "华尔街见闻-快讯",
@@ -89,16 +112,15 @@
           "time_info": "05时29分"
         },
         {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
+          "title": "财联社1月29日电，加通贝祥将特斯拉目标价从551美元下调至520美元。",
+          "url": "https://api3.cls.cn/share/article/2273989?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            7,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 14时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "财联社1月29日电，特斯拉首席执行官马斯克表示，预计新款Roadster车型将于4月首次亮相。",
@@ -479,7 +501,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -637,7 +659,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -662,6 +684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "财联社1月29日电，诺基亚首席执行官称，仍在对业务组合进行转型，以更聚焦于人工智能和云领域。",
+          "url": "https://api3.cls.cn/share/article/2273965?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "三星电子：将加大人工智能相关芯片的比重。",
@@ -736,13 +769,27 @@
           "time_info": "[02时37分 ~ 02时38分]"
         },
         {
+          "title": "评论：美议员称英伟达助深度求索强化的AI模型 被中国军方使用",
+          "url": "https://www.zaochenbao.com/news/opinion/202601/2963506.html",
+          "source": "早报",
+          "ranks": [
+            4,
+            8,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 15时14分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：当然会与台积电首席执行官会面。",
           "url": "https://flash.jin10.com/detail/20260129133946583800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -753,22 +800,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
-        },
-        {
-          "title": "评论：美议员称英伟达助深度求索强化的AI模型 被中国军方使用",
-          "url": "https://www.zaochenbao.com/news/opinion/202601/2963506.html",
-          "source": "早报",
-          "ranks": [
-            4,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 14时07分]"
         },
         {
           "title": "标普500指数初步大致收平，能源板块涨0.8%，科技板块涨0.6%，保健板块跌0.7%，房地产板块跌0.8%。 纳斯达克100指数初步收涨0.4%，成分股中，希捷科技初步收涨超19%，英特尔涨10.9%，西部数据涨10%，德州仪器、微芯科技、MPWR、美光科技、恩智浦至少涨超4.6%，拼多多则跌超3%，Arm控股跌4.4%，Palantir跌4.8%，AXON跌9.5%。 联合健康收盘初步反弹4%，英伟达、强生、SHW涨超1%，领跑道指成分股，波音则跌0.9%，家得宝跌1.3%，霍尼韦尔跌1.8%，安进跌2.5%。",
@@ -793,6 +827,20 @@
           "time_info": "01时33分"
         },
         {
+          "title": "美议员称英伟达助深度求索强化的AI模型被中国军方使用",
+          "url": "https://www.zaochenbao.com/news/china/202601/2963504.html",
+          "source": "早报",
+          "ranks": [
+            6,
+            10,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 15时14分]"
+        },
+        {
           "title": "据路透社报道：英伟达CEO黄仁勋抵达台北。",
           "url": "https://flash.jin10.com/detail/20260129132152692800",
           "source": "金十数据",
@@ -803,19 +851,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 14时07分]"
-        },
-        {
-          "title": "美议员称英伟达助深度求索强化的AI模型被中国军方使用",
-          "url": "https://www.zaochenbao.com/news/china/202601/2963504.html",
-          "source": "早报",
-          "ranks": [
-            6,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 14时07分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上赞赏英伟达的捐款。",
@@ -836,7 +871,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -847,7 +882,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -858,7 +893,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -869,7 +904,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -880,7 +915,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -891,7 +926,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -902,7 +937,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -913,7 +948,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -924,7 +959,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -935,7 +970,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         }
@@ -943,7 +978,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "宇树等机器人企业扎堆上春晚，谁是去年全球出货量第一？",
@@ -959,6 +994,18 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时37分 ~ 07时50分]"
+        },
+        {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 15时14分]"
         },
         {
           "title": "通光线缆：公司柔性电缆产品尚未应用于人形机器人",
@@ -983,17 +1030,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时55分 ~ 06时27分]"
-        },
-        {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 14时07分]"
         },
         {
           "title": "特斯拉(TSLA.O)：将进一步投资自主机器人基础设施。",
@@ -1048,7 +1084,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -1084,6 +1120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "据华尔街日报：阿里巴巴(09988.HK)将与九识智能共同运营价值20亿美元的机器人自动化业务。",
+          "url": "https://flash.jin10.com/detail/20260129143957150800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         }
       ]
     },
@@ -1233,11 +1280,12 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 14时07分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 15时14分]"
         },
         {
           "title": "我国商业航天明确“五个一流”新目标！资金盘中抢筹航空航天ETF天弘（159241），已连续5日“吸金”",
@@ -1408,6 +1456,67 @@
       ]
     },
     {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
+          "url": "https://flash.jin10.com/detail/20260129071859575800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时50分]"
+        },
+        {
+          "title": "美媒：英伟达微软亚马逊洽谈投资OpenAI",
+          "url": "https://www.zaochenbao.com/news/politics/202601/2963518.html",
+          "source": "早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
+          "url": "https://flash.jin10.com/detail/20260129071311535800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时50分]"
+        },
+        {
+          "title": "财联社1月29日电，英伟达CEO黄仁勋表示，非常愿意投资OpenAI。",
+          "url": "https://api3.cls.cn/share/article/2273864?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        },
+        {
+          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3046051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 5,
       "titles": [
@@ -1421,17 +1530,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
-        },
-        {
-          "title": "中国工信部：坚决破除光伏行业内卷式竞争",
-          "url": "https://www.zaochenbao.com/news/china/202601/2963514.html",
-          "source": "早报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时07分"
         },
         {
           "title": "秀强股份(300160.SZ)：目前暂未针对钙钛矿领域开展专项研发",
@@ -1454,8 +1552,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 14时07分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 15时14分]"
+        },
+        {
+          "title": "中国工信部：坚决破除光伏行业内卷式竞争",
+          "url": "https://www.zaochenbao.com/news/china/202601/2963514.html",
+          "source": "早报",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 15时14分]"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -1467,6 +1577,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "亿田智能(300911.SZ)：目前庆阳智算中心可以提供算力服务",
+          "url": "https://www.gelonghui.com/news/5160111",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：我们计划在2026年上半年将位于德克萨斯州的本地计算规模（以H100等效算力计）扩大一倍以上。",
+          "url": "https://flash.jin10.com/detail/20260129050532661800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 05时56分]"
+        },
+        {
+          "title": "蓝箭电子：公司先进封装技术尚未直接应用于AI芯片、高性能计算芯片的封装",
+          "url": "https://api3.cls.cn/share/article/2273762?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "算力硬件股震荡走强 可川科技10天5板续创历史新高",
+          "url": "https://api3.cls.cn/share/article/2273599?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     },
@@ -1517,56 +1677,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
-          "url": "https://flash.jin10.com/detail/20260129071859575800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时50分]"
-        },
-        {
-          "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
-          "url": "https://flash.jin10.com/detail/20260129071311535800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时50分]"
-        },
-        {
-          "title": "财联社1月29日电，英伟达CEO黄仁勋表示，非常愿意投资OpenAI。",
-          "url": "https://api3.cls.cn/share/article/2273864?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3046051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         }
       ]
     },
@@ -1623,41 +1733,30 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 2,
       "titles": [
         {
-          "title": "特斯拉(TSLA.O)：我们计划在2026年上半年将位于德克萨斯州的本地计算规模（以H100等效算力计）扩大一倍以上。",
-          "url": "https://flash.jin10.com/detail/20260129050532661800",
+          "title": "早盘收盘，国内期货主力合约大面积飘红，沪金涨超7%，沪铜、国际铜涨超6%，沪银涨近6%，燃油涨超4%，SC原油、低硫燃料油（LU）、沪铝涨超3%，沥青、沪锌涨近3%，钯、橡胶、20号胶、铂、焦炭涨超2%。跌幅方面，多晶硅跌近3%，碳酸锂跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260129113115255800",
           "source": "金十数据",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时29分 ~ 05时56分]"
-        },
-        {
-          "title": "蓝箭电子：公司先进封装技术尚未直接应用于AI芯片、高性能计算芯片的封装",
-          "url": "https://api3.cls.cn/share/article/2273762?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时11分 ~ 12时12分]"
         },
         {
-          "title": "算力硬件股震荡走强 可川科技10天5板续创历史新高",
-          "url": "https://api3.cls.cn/share/article/2273599?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "内盘期货多数收涨，沪银收涨逾8%，沪金涨近8%，国际铜涨7%，沪铜涨逾6%，燃油涨4%，焦煤、原油、沥青、焦炭、低硫燃油涨逾3%；多晶硅收跌逾4%，碳酸锂跌逾3%。",
+          "url": "https://wallstreetcn.com/livenews/3046206",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "15时14分"
         }
       ]
     },
@@ -1774,23 +1873,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "早盘收盘，国内期货主力合约大面积飘红，沪金涨超7%，沪铜、国际铜涨超6%，沪银涨近6%，燃油涨超4%，SC原油、低硫燃料油（LU）、沪铝涨超3%，沥青、沪锌涨近3%，钯、橡胶、20号胶、铂、焦炭涨超2%。跌幅方面，多晶硅跌近3%，碳酸锂跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260129113115255800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
         }
       ]
     },
