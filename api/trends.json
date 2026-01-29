@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T04:56:57.952258+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-01-30T05:28:56.923238+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "英伟达被指协助DeepSeek改进AI模型",
@@ -15,36 +15,71 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 05时28分]"
         },
         {
           "title": "财联社1月30日电，亚马逊据悉正洽谈对OpenAI投资至多500亿美元。",
           "url": "https://api3.cls.cn/share/article/2274898?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时28分]"
+        },
+        {
+          "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
+          "url": "https://flash.jin10.com/detail/20260130044452824800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时56分"
+          "time_info": "05时28分"
+        },
+        {
+          "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
+          "url": "https://wallstreetcn.com/livenews/3046688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3046674",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时28分]"
+        },
+        {
+          "title": "亚马逊正商谈向OpenAI投资高达500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130043431786800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时56分"
+          "time_info": "05时28分"
         }
       ]
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -54,8 +89,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 05时28分]"
         },
         {
           "title": "小摩：将特斯拉目标价下调至145美元",
@@ -65,8 +100,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 05时28分]"
         },
         {
           "title": "特斯拉(TSLA.O)：我们会继续为Model S和X项目提供支持，只要人们还拥有这些车辆。",
@@ -78,13 +113,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 01时38分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，蔚来初步收涨3.8%，百胜中国涨1%，腾讯、新东方、理想、小米、美团至多涨超0.9%，阿里跌0.7%，网易跌1.3%，文远知行跌4.5%，小马智行跌7.9%。 ETF中，ASHR涨0.9%，KWEB涨0.5%，CQQQ跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3046683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美股三大指数收盘涨跌不一，纳指跌0.72%，标普500指数跌0.13%，道指涨0.11%。",
+          "url": "https://api3.cls.cn/share/article/2274900?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
         {
           "title": "LME期铜收涨532美元，报13618美元/吨。 LME期铝收跌38美元，报3218美元/吨。 LME期锌收涨48美元，报3412美元/吨。 LME期铅收跌3美元，报2014美元/吨。 LME期镍收涨99美元，报18369美元/吨。 LME期锡收跌869美元，报55084美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3046638",
@@ -125,8 +182,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 05时28分]"
         },
         {
           "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
@@ -134,11 +191,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时31分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时31分 ~ 05时28分]"
         }
       ]
     },
@@ -187,8 +245,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 04时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 05时28分]"
         }
       ]
     },
@@ -220,11 +278,12 @@
           "url": "https://www.cls.cn/detail/2274616",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时37分 ~ 04时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时37分 ~ 05时28分]"
         }
       ]
     },
@@ -258,11 +317,12 @@
             5,
             10,
             13,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时31分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时31分 ~ 05时28分]"
         }
       ]
     },
