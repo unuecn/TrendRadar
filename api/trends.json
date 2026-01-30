@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T12:16:52.192391+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-01-30T13:32:04.113454+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "美股异动｜苹果盘后一度涨超3%，Q1营收高于预期",
@@ -19,6 +19,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时56分 ~ 07时51分]"
+        },
+        {
+          "title": "摩根大通：将苹果(AAPL.O)目标价从315美元上调至325美元。",
+          "url": "https://flash.jin10.com/detail/20260130130704259800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "小摩：将苹果目标价上调至325美元",
+          "url": "https://www.gelonghui.com/news/5161142",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
           "title": "财联社1月30日电，苹果CEO库克表示，内存价格将在第二财季利润率上“产生更大一些的影响”。公司将“考虑一系列选项”来应对不断上涨的内存成本。",
@@ -457,6 +479,17 @@
           "time_info": "[07时28分 ~ 07时51分]"
         },
         {
+          "title": "财联社1月30日电，摩根大通将苹果目标价从315美元上调至325美元。",
+          "url": "https://api3.cls.cn/share/article/2275360?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
           "title": "苹果(AAPL.O)CEO库克：第一财季iPhone系列产品深受客户追捧，热情“非同寻常”。",
           "url": "https://flash.jin10.com/detail/20260130061124613800",
           "source": "金十数据",
@@ -563,7 +596,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -998,6 +1031,95 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "“若GPU管够，增速早超40%！”微软电话会回应市场担忧：我们缺产能，不缺订单",
+          "url": "https://wallstreetcn.com/articles/3764421",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 10时01分]"
+        },
+        {
+          "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
+          "url": "https://flash.jin10.com/detail/20260130032628040800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时31分 ~ 05时28分]"
+        },
+        {
+          "title": "黄仁勋：下一代AI芯片Rubin需求“极其强劲”！科创芯片设计ETF天弘(589070)标的指数盘中拉升3%",
+          "url": "https://www.gelonghui.com/news/5161141",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "A股算力硬件股午后持续走高，杰普特、致尚科技20cm涨停，天孚通信大涨14%创历史新高，新易盛、罗博特科、德科立涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3046999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "算力股大幅走强 创业板指涨逾1%",
+          "url": "https://api3.cls.cn/share/article/2275351?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "算力租赁概念震荡走强 宏景科技涨超10%续创历史新高",
+          "url": "https://api3.cls.cn/share/article/2275103?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "午评：创业板指V型反弹涨0.8% 算力硬件概念逆势爆发",
+          "url": "https://api3.cls.cn/share/article/2275261?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 7,
       "titles": [
@@ -1021,9 +1143,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "报道：字节跳动、阿里巴巴将于春节前后推出新的人工智能模型",
+          "url": "https://wallstreetcn.com/articles/3764501",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 13时32分]"
         },
         {
           "title": "消息人士称，美国国防部与Anthropic公司在人工智能模型军事用途的安全保障方面存在分歧。",
@@ -1049,17 +1183,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时45分 ~ 03时55分]"
-        },
-        {
-          "title": "报道：字节跳动、阿里巴巴将于春节前后推出新的人工智能模型",
-          "url": "https://wallstreetcn.com/articles/3764501",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 12时16分]"
         },
         {
           "title": "人工智能初创公司Perplexity与微软(MSFT.O)公司达成7.5亿美元交易。",
@@ -1129,7 +1252,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -1140,7 +1263,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -1151,7 +1274,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -1162,63 +1285,70 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 5,
       "titles": [
         {
-          "title": "“若GPU管够，增速早超40%！”微软电话会回应市场担忧：我们缺产能，不缺订单",
-          "url": "https://wallstreetcn.com/articles/3764421",
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
+            6,
             7,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 10时01分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 07时28分]"
         },
         {
-          "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
-          "url": "https://flash.jin10.com/detail/20260130032628040800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时31分 ~ 05时28分]"
-        },
-        {
-          "title": "算力租赁概念震荡走强 宏景科技涨超10%续创历史新高",
-          "url": "https://api3.cls.cn/share/article/2275103?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "宇树科技王兴兴：谁能把机器人用的大模型做出来 谁就是全世界最厉害的AI公司和机器人公司",
+          "url": "https://api3.cls.cn/share/article/2275298?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            12
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "12时16分"
         },
         {
-          "title": "午评：创业板指V型反弹涨0.8% 算力硬件概念逆势爆发",
-          "url": "https://api3.cls.cn/share/article/2275261?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "A股机器人概念股午后震荡拉升，天奇股份、百达精工涨停，欧科亿涨超10%，华依科技、卡倍亿、绿的谐波跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3047001",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            2
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "人形机器人概念午后活跃 天奇股份5天3板",
+          "url": "https://api3.cls.cn/share/article/2275363?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "浙大系机器人公司迦智科技冲刺港股IPO，字节跳动、联想加持",
+          "url": "https://www.gelonghui.com/news/5161118",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
@@ -1249,7 +1379,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -1260,7 +1390,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -1278,43 +1408,86 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 3,
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
       "titles": [
         {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
+          "title": "创业板V型反弹涨0.8%，算力硬件逆势反弹，有色金属集体大跌，黄金股跌停，恒科指跌超1%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3764538",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            7,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 07时28分]"
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
-          "title": "宇树科技王兴兴：谁能把机器人用的大模型做出来 谁就是全世界最厉害的AI公司和机器人公司",
-          "url": "https://api3.cls.cn/share/article/2275298?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "现货黄金收复逾300美元的跌幅转涨",
+          "url": "https://flash.jin10.com/detail/20260130052733883800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "液冷",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股液冷服务器概念震荡走强，科创新源20cm涨停，淳中科技、英维克、捷邦科技、飞荣达、飞龙股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3047004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "液冷服务器概念震荡走强 科创新源20cm涨停",
+          "url": "https://api3.cls.cn/share/article/2275369?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            2
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "北京君正：公司存储芯片、计算芯片部分产品陆续调价",
+          "url": "https://wallstreetcn.com/livenews/3046986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "13时32分"
         },
         {
-          "title": "浙大系机器人公司迦智科技冲刺港股IPO，字节跳动、联想加持",
-          "url": "https://www.gelonghui.com/news/5161118",
-          "source": "格隆汇",
+          "title": "存储芯片概念反复活跃 恒烁股份涨超10%续创历史新高",
+          "url": "https://api3.cls.cn/share/article/2275089?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            9
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "10时01分"
         }
       ]
     },
@@ -1341,7 +1514,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
@@ -1408,40 +1581,6 @@
       ]
     },
     {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货黄金收复逾300美元的跌幅转涨",
-          "url": "https://flash.jin10.com/detail/20260130052733883800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "存储芯片概念反复活跃 恒烁股份涨超10%续创历史新高",
-          "url": "https://api3.cls.cn/share/article/2275089?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "储能",
       "match_count": 1,
       "titles": [
@@ -1452,9 +1591,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢能 质子交换膜 IV型储氢瓶 甲醇重整制氢",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "氢能概念午后异动 华电科工直线涨停",
+          "url": "https://api3.cls.cn/share/article/2275377?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         }
       ]
     },
@@ -1469,9 +1625,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时32分]"
         }
       ]
     },
