@@ -1,53 +1,61 @@
 {
-  "generated_at": "2026-01-31T04:58:40.931226+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-01-31T05:33:47.161489+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
+      "keyword_group": "美债 美股 美元",
+      "match_count": 4,
       "titles": [
         {
-          "title": "市场消息：苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
-          "url": "https://flash.jin10.com/detail/20260131025804033800",
-          "source": "金十数据",
+          "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            12
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时32分 ~ 04时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时33分]"
         },
         {
-          "title": "财联社1月31日电，据报道，苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
-          "url": "https://api3.cls.cn/share/article/2276341?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "半导体ETF收跌约3.4%，领跌美股行业ETF，1月份能源业ETF涨约14.2%、半导体ETF涨12%紧随其后",
+          "url": "https://wallstreetcn.com/livenews/3047588",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            11,
-            14
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时32分 ~ 04时58分]"
-        },
-        {
-          "title": "财联社1月30日电，特斯拉涨超4%。SpaceX正在考虑与特斯拉进行潜在的合并，同时也在评估另一种方案——与人工智能公司xAI进行整合。",
-          "url": "https://api3.cls.cn/share/article/2276251?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时39分"
+          "time_info": "05时33分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（1月30日），美国科技股七巨头（Magnificent 7）指数跌0.37%，报206.96点，本周累计上涨0.84%，本周累计下跌0.87%，1月12-27日呈现出V形反转行情。 “超大”市值科技股指数跌0.76%，报393.21点，本周累计下跌0.53%，1月份累跌1.43%。",
+          "url": "https://wallstreetcn.com/livenews/3047586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "美元指数创2025年5月份以来最大单日涨幅，1月份仍然累跌约1.3%",
+          "url": "https://wallstreetcn.com/livenews/3047570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         }
       ]
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
@@ -58,8 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时32分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时32分 ~ 05时33分]"
         },
         {
           "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
@@ -83,6 +91,60 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时32分 ~ 04时58分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌2.3%。 热门中概股里，比亚迪初步收跌4.4%，小马智行、腾讯、理想、小鹏跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3047575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "市场消息：苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
+          "url": "https://flash.jin10.com/detail/20260131025804033800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时32分 ~ 05时33分]"
+        },
+        {
+          "title": "财联社1月31日电，据报道，苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
+          "url": "https://api3.cls.cn/share/article/2276341?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            11,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时32分 ~ 05时33分]"
+        },
+        {
+          "title": "财联社1月30日电，特斯拉涨超4%。SpaceX正在考虑与特斯拉进行潜在的合并，同时也在评估另一种方案——与人工智能公司xAI进行整合。",
+          "url": "https://api3.cls.cn/share/article/2276251?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
         }
       ]
     },
@@ -116,6 +178,34 @@
       ]
     },
     {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特斯拉(TSLA.O)涨超5%；此前特斯拉CEO埃隆·马斯克旗下其他公司正就IPO与SpaceX进行合并谈判。",
+          "url": "https://flash.jin10.com/detail/20260130235532816800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "1月份，标普累涨1.2%，道指涨1.7%，纳指涨0.8%。 周五当天，标普500指数初步收跌0.4%，原材料板块跌1.9%，科技板块跌1.3%，能源板块涨1%。 纳斯达克100指数初步收跌1.3%，成分股中，Applovin重挫17.3%，西部数据跌10%，希捷科技跌9.1%，AMD跌6.2%，应用材料跌5.4%，特斯拉涨3.3%，Strategy涨4.8%，特许通讯涨7.9%。 Visa初步收跌2.9%，3M、美国运通、联合健康、耐克、卡特彼勒、亚马逊跌超1%，领跌道指成分股，可口可乐则涨2%，雪佛龙涨3%，VZ涨11.9%。 半导体指数跌3.9%，银行指数跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3047573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
       "match_count": 1,
       "titles": [
@@ -127,25 +217,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
-          "url": "https://wallstreetcn.com/articles/3764541",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时33分]"
         }
       ]
     },
@@ -161,25 +234,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉(TSLA.O)涨超5%；此前特斯拉CEO埃隆·马斯克旗下其他公司正就IPO与SpaceX进行合并谈判。",
-          "url": "https://flash.jin10.com/detail/20260130235532816800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时33分]"
         }
       ]
     },
