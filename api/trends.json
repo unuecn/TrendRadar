@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T16:39:00.131069+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-01-30T17:38:32.318948+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "美股异动｜苹果盘后一度涨超3%，Q1营收高于预期",
@@ -151,6 +151,18 @@
           "time_info": "[13时31分 ~ 14时49分]"
         },
         {
+          "title": "苹果公司在中国东山再起 创四年来最高季度销售额",
+          "url": "https://www.zaochenbao.com/news/china/202601/3063611.html",
+          "source": "早报",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时49分 ~ 17时38分]"
+        },
+        {
           "title": "财联社1月30日电，苹果据悉以接近20亿美元的估值收购以色列初创公司Q.AI。",
           "url": "https://api3.cls.cn/share/article/2274810?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -202,18 +214,6 @@
           "time_info": "[06时28分 ~ 07时28分]"
         },
         {
-          "title": "苹果公司在中国东山再起 创四年来最高季度销售额",
-          "url": "https://www.zaochenbao.com/news/china/202601/3063611.html",
-          "source": "早报",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时49分 ~ 16时39分]"
-        },
-        {
           "title": "苹果被问及印度市场，CEO库克称：苹果在12月那个财季于印度市场创收入历史新高。 其中，iPhone、Mac、iPad创历史新高。 地区服务也创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3046738",
           "source": "华尔街见闻-快讯",
@@ -248,6 +248,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 07时51分]"
+        },
+        {
+          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764518",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 17时38分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：客户对AirPods Pro 3反应积极。",
@@ -369,17 +380,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时27分 ~ 07时51分]"
-        },
-        {
-          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764518",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 16时39分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：如果不是因为供应限制，可穿戴设备业务在第一财季本应实现增长。",
@@ -625,6 +625,17 @@
           "time_info": "[07时27分 ~ 07时28分]"
         },
         {
+          "title": "苹果(AAPL.O)盘前跌0.1%，此前公布了第一季度财报。",
+          "url": "https://flash.jin10.com/detail/20260130172657423800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "苹果被问及是否会因为存储成本上涨而涨价，CEO库克称自己不希望（外界）臆测。",
           "url": "https://wallstreetcn.com/livenews/3046732",
           "source": "华尔街见闻-快讯",
@@ -826,6 +837,128 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "“若GPU管够，增速早超40%！”微软电话会回应市场担忧：我们缺产能，不缺订单",
+          "url": "https://wallstreetcn.com/articles/3764421",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 10时01分]"
+        },
+        {
+          "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
+          "url": "https://flash.jin10.com/detail/20260130032628040800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时31分 ~ 05时28分]"
+        },
+        {
+          "title": "黄仁勋：下一代AI芯片Rubin需求“极其强劲”！科创芯片设计ETF天弘(589070)标的指数盘中拉升3%",
+          "url": "https://www.gelonghui.com/news/5161141",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "A股算力硬件股午后持续走高，杰普特、致尚科技20cm涨停，天孚通信大涨14%创历史新高，新易盛、罗博特科、德科立涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3046999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "算力股大幅走强 创业板指涨逾1%",
+          "url": "https://api3.cls.cn/share/article/2275351?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "马斯克被曝筹划推进太空算力",
+          "url": "https://api3.cls.cn/share/article/2275629?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "【每日收评】创业板指探底回升涨超1%，算力硬件股集体爆发，资源类周期股批量跌停",
+          "url": "https://www.cls.cn/detail/2275668",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "算力租赁概念震荡走强 宏景科技涨超10%续创历史新高",
+          "url": "https://api3.cls.cn/share/article/2275103?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "午评：创业板指V型反弹涨0.8% 算力硬件概念逆势爆发",
+          "url": "https://api3.cls.cn/share/article/2275261?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "A股收盘：创业板指探底回升涨1.27%，算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3047070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         }
       ]
     },
@@ -1066,117 +1199,6 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "“若GPU管够，增速早超40%！”微软电话会回应市场担忧：我们缺产能，不缺订单",
-          "url": "https://wallstreetcn.com/articles/3764421",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 10时01分]"
-        },
-        {
-          "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
-          "url": "https://flash.jin10.com/detail/20260130032628040800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时31分 ~ 05时28分]"
-        },
-        {
-          "title": "黄仁勋：下一代AI芯片Rubin需求“极其强劲”！科创芯片设计ETF天弘(589070)标的指数盘中拉升3%",
-          "url": "https://www.gelonghui.com/news/5161141",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "A股算力硬件股午后持续走高，杰普特、致尚科技20cm涨停，天孚通信大涨14%创历史新高，新易盛、罗博特科、德科立涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3046999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "算力股大幅走强 创业板指涨逾1%",
-          "url": "https://api3.cls.cn/share/article/2275351?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "马斯克被曝筹划推进太空算力",
-          "url": "https://api3.cls.cn/share/article/2275629?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
-        },
-        {
-          "title": "算力租赁概念震荡走强 宏景科技涨超10%续创历史新高",
-          "url": "https://api3.cls.cn/share/article/2275103?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "午评：创业板指V型反弹涨0.8% 算力硬件概念逆势爆发",
-          "url": "https://api3.cls.cn/share/article/2275261?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "A股收盘：创业板指探底回升涨1.27%，算力硬件股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3047070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 8,
       "titles": [
@@ -1284,8 +1306,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 16时39分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 17时38分]"
         },
         {
           "title": "财联社1月30日电，人工智能初创公司Perplexity与微软公司达成7.5亿美元交易。",
@@ -1361,6 +1383,80 @@
       ]
     },
     {
+      "keyword_group": "金价 黄金",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "沪指跌1%，创业板V型反弹涨超1%，算力硬件反弹，黄金、基本金属掀跌停潮，恒指跌2%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3764538",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 17时38分]"
+        },
+        {
+          "title": "创业板V型反弹涨0.8%，算力硬件逆势反弹，有色金属集体大跌，黄金股跌停，恒科指跌超1%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3764538",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 14时49分]"
+        },
+        {
+          "title": "创业板V型反弹涨超1%，算力硬件逆势反弹，有色金属集体大跌，黄金股跌停，恒指跌2%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3764538",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
+          "url": "https://www.cls.cn/detail/2275439",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 17时38分]"
+        },
+        {
+          "title": "现货黄金收复逾300美元的跌幅转涨",
+          "url": "https://flash.jin10.com/detail/20260130052733883800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "美股盘前：闪迪涨约21%，黄金股大跌",
+          "url": "https://wallstreetcn.com/livenews/3047198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 6,
       "titles": [
@@ -1384,7 +1480,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -1458,11 +1554,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 16时39分]"
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 17时38分]"
         },
         {
           "title": "南山智尚：公司正积极与商业航天、卫星制造及配套企业开展相关产品的对接工作",
@@ -1511,64 +1608,85 @@
       ]
     },
     {
-      "keyword_group": "金价 黄金",
-      "match_count": 5,
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 3,
       "titles": [
         {
-          "title": "沪指跌1%，创业板V型反弹涨超1%，算力硬件反弹，黄金、基本金属掀跌停潮，恒指跌2%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3764538",
-          "source": "华尔街见闻",
+          "title": "悦达投资(600805.SH)：控股子公司悦海新能源公司向其控股子公司增资2.08亿元用于投资建设灌东盐场310MW渔光互补光伏项目",
+          "url": "https://www.gelonghui.com/news/5161520",
+          "source": "格隆汇",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
-          "title": "创业板V型反弹涨0.8%，算力硬件逆势反弹，有色金属集体大跌，黄金股跌停，恒科指跌超1%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3764538",
-          "source": "华尔街见闻",
+          "title": "ST京机：已针对太空光伏方向进行技术储备",
+          "url": "https://api3.cls.cn/share/article/2274737?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
             7,
-            5
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时31分 ~ 14时49分]"
+          "time_info": "[00时44分 ~ 01时38分]"
         },
         {
-          "title": "创业板V型反弹涨超1%，算力硬件逆势反弹，有色金属集体大跌，黄金股跌停，恒指跌2%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3764538",
-          "source": "华尔街见闻",
+          "title": "沪指、深成指均跌超2%，创业板指跌1.22%，贵金属、锂矿、稀土永磁、光伏设备等方向跌幅居前，沪深京三市下跌个股超4500只。",
+          "url": "https://wallstreetcn.com/livenews/3046928",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时40分"
-        },
+          "time_info": "12时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
-          "url": "https://www.cls.cn/detail/2275439",
-          "source": "财联社热门",
+          "title": "英伟达与梅赛德斯奔驰集团推进既定的无人驾驶出租车计划。",
+          "url": "https://wallstreetcn.com/livenews/3046656",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5,
+            10,
+            13,
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
+          "appearance_count": 5,
+          "time_info": "[03时31分 ~ 05时28分]"
         },
         {
-          "title": "现货黄金收复逾300美元的跌幅转涨",
-          "url": "https://flash.jin10.com/detail/20260130052733883800",
-          "source": "金十数据",
+          "title": "阿里旗下平头哥推出自研AI晶片“真武” 可与英伟达H20比肩",
+          "url": "https://www.zaochenbao.com/news/china/202601/3063567.html",
+          "source": "早报",
           "ranks": [
-            21
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美股大型科技股盘前多数下跌 英伟达跌1.5%",
+          "url": "https://api3.cls.cn/share/article/2275760?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         }
       ]
     },
@@ -1669,8 +1787,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时16分 ~ 16时39分]"
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 17时38分]"
         },
         {
           "title": "际华集团(601718.SH)：公司的智能穿戴暂未应用到航天服上",
@@ -1712,67 +1830,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "ST京机：已针对太空光伏方向进行技术储备",
-          "url": "https://api3.cls.cn/share/article/2274737?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时38分]"
-        },
-        {
-          "title": "沪指、深成指均跌超2%，创业板指跌1.22%，贵金属、锂矿、稀土永磁、光伏设备等方向跌幅居前，沪深京三市下跌个股超4500只。",
-          "url": "https://wallstreetcn.com/livenews/3046928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达与梅赛德斯奔驰集团推进既定的无人驾驶出租车计划。",
-          "url": "https://wallstreetcn.com/livenews/3046656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            13,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时31分 ~ 05时28分]"
-        },
-        {
-          "title": "阿里旗下平头哥推出自研AI晶片“真武” 可与英伟达H20比肩",
-          "url": "https://www.zaochenbao.com/news/china/202601/3063567.html",
-          "source": "早报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
         }
       ]
     },
