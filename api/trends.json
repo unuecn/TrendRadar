@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T07:51:26.880976+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2026-01-30T10:01:27.209446+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
@@ -759,11 +759,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202601/2963552.html",
           "source": "早报",
           "ranks": [
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时44分 ~ 07时51分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 10时01分]"
         },
         {
           "title": "财联社1月30日电，亚马逊据悉正洽谈对OpenAI投资至多500亿美元。",
@@ -847,7 +848,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -858,7 +859,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -869,7 +870,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         }
@@ -957,7 +958,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -987,7 +988,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "财联社1月30日电，人工智能初创公司Perplexity与微软公司达成7.5亿美元交易。",
@@ -1039,6 +1040,17 @@
           "time_info": "[06时56分 ~ 06时57分]"
         },
         {
+          "title": "报道：字节跳动、阿里巴巴将于春节前后推出新的人工智能模型",
+          "url": "https://wallstreetcn.com/articles/3764501",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "苹果(AAPL.O)收购以色列人工智能初创公司Q.ai。",
           "url": "https://flash.jin10.com/detail/20260130050039950800",
           "source": "金十数据",
@@ -1053,7 +1065,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“若GPU管够，增速早超40%！”微软电话会回应市场担忧：我们缺产能，不缺订单",
@@ -1067,8 +1079,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时44分 ~ 07时51分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 10时01分]"
         },
         {
           "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
@@ -1082,6 +1094,147 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时31分 ~ 05时28分]"
+        },
+        {
+          "title": "算力租赁概念震荡走强 宏景科技涨超10%续创历史新高",
+          "url": "https://api3.cls.cn/share/article/2275103?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "碳酸锂主力合约日内跌超8.00%，现报153000元/吨。",
+          "url": "https://flash.jin10.com/detail/20260130094955345800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "财联社1月30日电，多晶硅期货主力合约日内跌超6%，现报47300元/吨。",
+          "url": "https://api3.cls.cn/share/article/2275114?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "财联社1月30日电，碳酸锂主力合约日内跌超8%，现报153000元/吨。",
+          "url": "https://api3.cls.cn/share/article/2275111?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际首次实现！中国团队新成果，或将人造卫星寿命延长到30年",
+          "url": "https://www.cls.cn/detail/2274616",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[01时37分 ~ 10时01分]"
+        },
+        {
+          "title": "速率超百G！我国星地激光通信业务化应用能力迈上新台阶",
+          "url": "https://wallstreetcn.com/livenews/3046829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达与梅赛德斯奔驰集团推进既定的无人驾驶出租车计划。",
+          "url": "https://wallstreetcn.com/livenews/3046656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            13,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时31分 ~ 05时28分]"
+        },
+        {
+          "title": "阿里旗下平头哥推出自研AI晶片“真武” 可与英伟达H20比肩",
+          "url": "https://www.zaochenbao.com/news/china/202601/3063567.html",
+          "source": "早报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "财联社1月30日电，比特币向下触及82000美元，日内跌超3%。",
+          "url": "https://api3.cls.cn/share/article/2275096?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
+          "url": "https://wallstreetcn.com/livenews/3046568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
         }
       ]
     },
@@ -1099,6 +1252,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "存储芯片概念反复活跃 恒烁股份涨超10%续创历史新高",
+          "url": "https://api3.cls.cn/share/article/2275089?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
@@ -1141,21 +1311,19 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
       "match_count": 1,
       "titles": [
         {
-          "title": "国际首次实现！中国团队新成果，或将人造卫星寿命延长到30年",
-          "url": "https://www.cls.cn/detail/2274616",
-          "source": "财联社热门",
+          "title": "中瓷电子(003031.SZ)：碳化硅器件已通过验证，在不同应用领域均有订单，且批量供货",
+          "url": "https://www.gelonghui.com/news/5161089",
+          "source": "格隆汇",
           "ranks": [
-            13,
-            12,
-            11
+            12
           ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时37分 ~ 07时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
@@ -1174,44 +1342,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 01时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达与梅赛德斯奔驰集团推进既定的无人驾驶出租车计划。",
-          "url": "https://wallstreetcn.com/livenews/3046656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            13,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时31分 ~ 05时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
-          "url": "https://wallstreetcn.com/livenews/3046568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
         }
       ]
     }
