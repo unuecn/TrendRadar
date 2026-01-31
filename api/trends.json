@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T15:51:17.414311+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-01-31T16:31:40.412474+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 15时51分]"
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 16时31分]"
         },
         {
           "title": "美股1月收官：道指月线9连涨！七巨头涨跌不一，甲骨文大跌逾15%，微软跌超11%",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 15时51分]"
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 16时31分]"
         },
         {
           "title": "鹰派预期抬升，美股指齐跌，闪迪冲高回落仍涨7%，商品遭遇黑色星期五，地缘风险撑原油收涨",
@@ -178,21 +178,8 @@
     },
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "习近平同阿尔及利亚总统特本就阿尔及利亚遥感三号卫星发射成功互致贺电",
-          "url": "https://wallstreetcn.com/livenews/3047651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 15时51分]"
-        },
         {
           "title": "怕输给“星链”？法国政府阻止欧洲通信卫星公司出售天线资产",
           "url": "https://wallstreetcn.com/livenews/3047639",
@@ -203,11 +190,26 @@
             9,
             12,
             13,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时06分 ~ 15时51分]"
+          "appearance_count": 7,
+          "time_info": "[12时06分 ~ 16时31分]"
+        },
+        {
+          "title": "习近平同阿尔及利亚总统特本就阿尔及利亚遥感三号卫星发射成功互致贺电",
+          "url": "https://wallstreetcn.com/livenews/3047651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 16时31分]"
         },
         {
           "title": "我国成功发射阿尔及利亚遥感三号卫星B星",
@@ -218,11 +220,23 @@
             6,
             9,
             10,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 15时51分]"
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 16时31分]"
+        },
+        {
+          "title": "SpaceX申请部署100万颗卫星，打造太空数据中心",
+          "url": "https://wallstreetcn.com/livenews/3047657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "我国成功发射阿尔及利亚遥感三号卫星B星",
@@ -242,11 +256,101 @@
           "url": "https://api3.cls.cn/share/article/2276507?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时51分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 16时31分]"
+        },
+        {
+          "title": "SpaceX申请部署百万颗卫星，欲建轨道AI数据中心网络",
+          "url": "https://flash.jin10.com/detail/20260131153449024800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "美国FCC：SpaceX申请部署百万颗卫星 欲建轨道AI数据中心网络",
+          "url": "https://api3.cls.cn/share/article/2276517?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "市场消息：苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
+          "url": "https://flash.jin10.com/detail/20260131025804033800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[03时32分 ~ 09时55分]"
+        },
+        {
+          "title": "美“毅力”号火星车在火星表面首次完成人工智能规划的行驶任务",
+          "url": "https://api3.cls.cn/share/article/2276526?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "财联社1月31日电，据报道，苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
+          "url": "https://api3.cls.cn/share/article/2276341?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            11,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时32分 ~ 05时33分]"
+        },
+        {
+          "title": "国产RPU人工智能芯片公司清微智能完成股改",
+          "url": "https://api3.cls.cn/share/article/2276500?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 15时51分]"
+        },
+        {
+          "title": "财联社1月30日电，特斯拉涨超4%。SpaceX正在考虑与特斯拉进行潜在的合并，同时也在评估另一种方案——与人工智能公司xAI进行整合。",
+          "url": "https://api3.cls.cn/share/article/2276251?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
         }
       ]
     },
@@ -316,62 +420,6 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "市场消息：苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
-          "url": "https://flash.jin10.com/detail/20260131025804033800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时32分 ~ 09时55分]"
-        },
-        {
-          "title": "财联社1月31日电，据报道，苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
-          "url": "https://api3.cls.cn/share/article/2276341?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            11,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时32分 ~ 05时33分]"
-        },
-        {
-          "title": "国产RPU人工智能芯片公司清微智能完成股改",
-          "url": "https://api3.cls.cn/share/article/2276500?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 15时51分]"
-        },
-        {
-          "title": "财联社1月30日电，特斯拉涨超4%。SpaceX正在考虑与特斯拉进行潜在的合并，同时也在评估另一种方案——与人工智能公司xAI进行整合。",
-          "url": "https://api3.cls.cn/share/article/2276251?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        }
-      ]
-    },
-    {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 3,
       "titles": [
@@ -383,11 +431,12 @@
             1,
             4,
             5,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时00分 ~ 15时51分]"
+          "appearance_count": 5,
+          "time_info": "[14时00分 ~ 16时31分]"
         },
         {
           "title": "银价推涨光伏组件报价 下游企业承压涨价至近1元/瓦",
@@ -429,8 +478,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 15时51分]"
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 16时31分]"
         },
         {
           "title": "特斯拉(TSLA.O)涨超5%；此前特斯拉CEO埃隆·马斯克旗下其他公司正就IPO与SpaceX进行合并谈判。",
@@ -470,8 +519,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时39分 ~ 15时51分]"
+          "appearance_count": 23,
+          "time_info": "[00时39分 ~ 16时31分]"
         },
         {
           "title": "周五（1月30日）纽约尾盘，现货黄金重挫9%，报4891.43美元/盎司，全天持续走低，北京时间02:39逼近4690美元，1月份累涨12.95%，1月29日亚太午盘曾涨至5595.47美元。 COMEX黄金期货下跌8.88%，报4846.20美元/盎司，1月份累涨11.93%，29日也曾达到5586.29美元。",
@@ -516,8 +565,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时59分 ~ 15时51分]"
+          "appearance_count": 6,
+          "time_info": "[13时59分 ~ 16时31分]"
         }
       ]
     },
