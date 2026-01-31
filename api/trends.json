@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T21:41:13.253839+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-01-31T22:25:07.831740+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时55分 ~ 21时41分]"
+          "appearance_count": 21,
+          "time_info": "[09时55分 ~ 22时25分]"
         },
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时55分 ~ 21时41分]"
+          "appearance_count": 21,
+          "time_info": "[09时55分 ~ 22时25分]"
         },
         {
           "title": "鹰派预期抬升，美股指齐跌，闪迪冲高回落仍涨7%，商品遭遇黑色星期五，地缘风险撑原油收涨",
@@ -273,33 +273,24 @@
           "url": "https://api3.cls.cn/share/article/2276615?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时25分]"
         },
         {
           "title": "北京经济技术开发区：积极部署人工智能安全体系 重点突破深度伪造识别、生成内容合规检测等技术",
           "url": "https://api3.cls.cn/share/article/2276614?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "北京经济技术开发区：实施智能网联领航行动 强化人工智能在智能网联领域的数据驱动与技术引领作用",
-          "url": "https://api3.cls.cn/share/article/2276613?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时25分]"
         },
         {
           "title": "国产RPU人工智能芯片公司清微智能完成股改",
@@ -314,17 +305,30 @@
           "time_info": "[14时54分 ~ 15时51分]"
         },
         {
+          "title": "北京经济技术开发区：实施智能网联领航行动 强化人工智能在智能网联领域的数据驱动与技术引领作用",
+          "url": "https://api3.cls.cn/share/article/2276613?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时25分]"
+        },
+        {
           "title": "雄安发布“极数”数据大模型，加速构建“人工智能+”创新生态",
           "url": "https://wallstreetcn.com/livenews/3047685",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
             8,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[19时44分 ~ 22时25分]"
         },
         {
           "title": "财联社1月30日电，特斯拉涨超4%。SpaceX正在考虑与特斯拉进行潜在的合并，同时也在评估另一种方案——与人工智能公司xAI进行整合。",
@@ -341,7 +345,7 @@
     },
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "习近平同阿尔及利亚总统特本就阿尔及利亚遥感三号卫星发射成功互致贺电",
@@ -361,6 +365,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时54分 ~ 19时21分]"
+        },
+        {
+          "title": "中国成功发射阿尔及利亚卫星 两国元首互致贺电",
+          "url": "https://www.zaochenbao.com/news/china/202601/3163693.html",
+          "source": "早报",
+          "ranks": [
+            8,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时24分 ~ 22时25分]"
         },
         {
           "title": "怕输给“星链”？法国政府阻止欧洲通信卫星公司出售天线资产",
@@ -418,17 +435,26 @@
           "time_info": "[16时31分 ~ 19时44分]"
         },
         {
-          "title": "中国成功发射阿尔及利亚卫星 两国元首互致贺电",
-          "url": "https://www.zaochenbao.com/news/china/202601/3163693.html",
-          "source": "早报",
+          "title": "【电报解读】需求转旺！多家3D打印设备头部企业积极扩充产能，机构称3D打印设备已经具备了在商业航天领域加速提高渗透率的技术基础，这家公司已与主流民营火箭企业构建了合作关系",
+          "url": "https://api3.cls.cn/share/article/2276623?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            8,
-            12,
-            18
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时24分 ~ 21时41分]"
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
+        },
+        {
+          "title": "SpaceX申请部署百万颗卫星",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/01/31/4bd67bb84c4c4e709f13c4dadfd3c1f7.html",
+          "source": "参考消息",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "SpaceX申请部署百万颗卫星，欲建轨道AI数据中心网络",
@@ -483,6 +509,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时31分 ~ 17时33分]"
+        },
+        {
+          "title": "SpaceX申请部署100万颗卫星，打造太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764657",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
         }
       ]
     },
@@ -498,11 +535,12 @@
             2,
             3,
             12,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 21时41分]"
+          "appearance_count": 7,
+          "time_info": "[19时20分 ~ 22时25分]"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -527,11 +565,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 22时25分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -539,11 +578,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 22时25分]"
         },
         {
           "title": "黄仁勋：英伟达一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
@@ -551,11 +591,12 @@
           "source": "财联社电报",
           "ranks": [
             1,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 22时25分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -563,22 +604,24 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 22时25分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
           "url": "https://wallstreetcn.com/livenews/3047693",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时25分]"
         },
         {
           "title": "财联社1月31日电，英伟达和OpenAI之间价值1000亿美元的合作交易谈判陷入停滞。",
@@ -673,8 +716,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时55分 ~ 21时41分]"
+          "appearance_count": 21,
+          "time_info": "[09时55分 ~ 22时25分]"
         },
         {
           "title": "小米SU7 Ultra月销量跌至45辆",
@@ -731,8 +774,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时59分 ~ 21时41分]"
+          "appearance_count": 18,
+          "time_info": "[13时59分 ~ 22时25分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨超1%，算力硬件股集体爆发，资源类周期股批量跌停",
@@ -907,6 +950,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 13时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
+          "url": "https://wallstreetcn.com/livenews/3047705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     },
