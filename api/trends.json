@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T20:49:50.576076+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-02-01T21:43:56.441023+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
           "url": "https://flash.jin10.com/detail/20260201204302915800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 21时43分]"
         },
         {
           "title": "福特否认与小米合作传闻",
@@ -236,11 +237,12 @@
             3,
             6,
             8,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时55分 ~ 20时49分]"
+          "appearance_count": 7,
+          "time_info": "[17时55分 ~ 21时43分]"
         },
         {
           "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
@@ -251,11 +253,12 @@
             5,
             11,
             13,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时49分]"
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 21时43分]"
         },
         {
           "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
@@ -266,11 +269,24 @@
             7,
             13,
             15,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时49分]"
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 21时43分]"
+        },
+        {
+          "title": "黄仁勋否认对OpenAI不满 透露将巨额投资",
+          "url": "https://api3.cls.cn/share/article/2276868?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 21时43分]"
         },
         {
           "title": "黄仁勋：英伟达一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
@@ -283,17 +299,151 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "SpaceX申请部署100万颗卫星，打造太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764657",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 15时55分]"
         },
         {
-          "title": "黄仁勋否认对OpenAI不满 透露将巨额投资",
-          "url": "https://api3.cls.cn/share/article/2276868?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "SpaceX申请部署100万颗卫星！欲构建轨道数据中心网络蓝图",
+          "url": "https://www.cls.cn/detail/2276547",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            3,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 32,
+          "time_info": "[00时29分 ~ 21时43分]"
+        },
+        {
+          "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
+          "url": "https://www.cls.cn/detail/2276655",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[10时23分 ~ 21时43分]"
+        },
+        {
+          "title": "SpaceX申请部署百万颗卫星",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/01/31/4bd67bb84c4c4e709f13c4dadfd3c1f7.html",
+          "source": "参考消息",
+          "ranks": [
+            2,
+            8,
+            11,
+            12,
+            15,
+            17,
+            22,
+            25,
+            26,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 32,
+          "time_info": "[00时29分 ~ 21时43分]"
+        },
+        {
+          "title": "【电报解读】需求转旺！多家3D打印设备头部企业积极扩充产能，机构称3D打印设备已经具备了在商业航天领域加速提高渗透率的技术基础，这家公司已与主流民营火箭企业构建了合作关系",
+          "url": "https://api3.cls.cn/share/article/2276623?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            7
+            6,
+            7,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 06时49分]"
+        },
+        {
+          "title": "中国成功发射阿尔及利亚卫星 两国元首互致贺电",
+          "url": "https://www.zaochenbao.com/news/china/202601/3163693.html",
+          "source": "早报",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 07时22分]"
+        },
+        {
+          "title": "周末要闻汇总：SpaceX申请部署100万颗卫星；黄金、白银迎史诗级暴跌",
+          "url": "https://www.cls.cn/detail/2276774",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时55分 ~ 21时43分]"
+        },
+        {
+          "title": "隆华科技：目前已与多家业内主要商业航天企业建立配套合作关系",
+          "url": "https://api3.cls.cn/share/article/2276886?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时49分"
+          "time_info": "21时43分"
+        },
+        {
+          "title": "马斯克也转了！SpaceX申请部署100万颗卫星",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32508583",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 15时02分]"
         }
       ]
     },
@@ -421,139 +571,6 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "SpaceX申请部署100万颗卫星，打造太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3764657",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时29分 ~ 15时55分]"
-        },
-        {
-          "title": "SpaceX申请部署100万颗卫星！欲构建轨道数据中心网络蓝图",
-          "url": "https://www.cls.cn/detail/2276547",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            3,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时29分 ~ 20时49分]"
-        },
-        {
-          "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
-          "url": "https://www.cls.cn/detail/2276655",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时23分 ~ 20时49分]"
-        },
-        {
-          "title": "SpaceX申请部署百万颗卫星",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/01/31/4bd67bb84c4c4e709f13c4dadfd3c1f7.html",
-          "source": "参考消息",
-          "ranks": [
-            2,
-            8,
-            11,
-            12,
-            15,
-            17,
-            22,
-            25,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时29分 ~ 20时49分]"
-        },
-        {
-          "title": "【电报解读】需求转旺！多家3D打印设备头部企业积极扩充产能，机构称3D打印设备已经具备了在商业航天领域加速提高渗透率的技术基础，这家公司已与主流民营火箭企业构建了合作关系",
-          "url": "https://api3.cls.cn/share/article/2276623?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            7,
-            9,
-            11,
-            12,
-            13,
-            14,
-            15,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 06时49分]"
-        },
-        {
-          "title": "中国成功发射阿尔及利亚卫星 两国元首互致贺电",
-          "url": "https://www.zaochenbao.com/news/china/202601/3163693.html",
-          "source": "早报",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 07时22分]"
-        },
-        {
-          "title": "周末要闻汇总：SpaceX申请部署100万颗卫星；黄金、白银迎史诗级暴跌",
-          "url": "https://www.cls.cn/detail/2276774",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时55分 ~ 20时49分]"
-        },
-        {
-          "title": "马斯克也转了！SpaceX申请部署100万颗卫星",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32508583",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 15时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 6,
       "titles": [
@@ -617,11 +634,12 @@
           "ranks": [
             4,
             6,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 20时49分]"
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 21时43分]"
         },
         {
           "title": "比亚迪：1月份乘用车销量205518辆",
@@ -630,11 +648,12 @@
           "ranks": [
             3,
             8,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 20时49分]"
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 21时43分]"
         }
       ]
     },
@@ -642,6 +661,20 @@
       "keyword_group": "比特币 以太坊",
       "match_count": 4,
       "titles": [
+        {
+          "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509153",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时32分 ~ 21时43分]"
+        },
         {
           "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
           "url": "https://wallstreetcn.com/articles/3764674",
@@ -652,21 +685,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时40分 ~ 20时49分]"
-        },
-        {
-          "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509153",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时32分 ~ 20时49分]"
+          "appearance_count": 14,
+          "time_info": "[12时40分 ~ 21时43分]"
         },
         {
           "title": "比特币跌破8万美元关口，创去年4月以来最低",
@@ -801,11 +821,12 @@
             2,
             5,
             7,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 20时49分]"
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 21时43分]"
         },
         {
           "title": "全球首次机器人极寒行走13万步",
@@ -866,8 +887,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时32分 ~ 20时49分]"
+          "appearance_count": 9,
+          "time_info": "[16时32分 ~ 21时43分]"
         },
         {
           "title": "【电报解读】SpaceX欲建轨道AI数据中心网络，机构称发射效率、太空光伏及性能需求正推动太阳翼成为全链条最优通胀环节，这家公司是太阳翼用相关材料的主力供应商",
@@ -961,8 +982,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时40分 ~ 20时49分]"
+          "appearance_count": 14,
+          "time_info": "[12时40分 ~ 21时43分]"
         }
       ]
     }
