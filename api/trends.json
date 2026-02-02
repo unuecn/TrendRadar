@@ -1,24 +1,45 @@
 {
-  "generated_at": "2026-02-03T01:41:53.521597+08:00",
-  "total_titles_processed": 260,
-  "failed_sources": [
-    "wallstreetcn-quick"
-  ],
+  "generated_at": "2026-02-03T02:46:05.146076+08:00",
+  "total_titles_processed": 326,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "财联社2月3日电，OpenAI称，Codex应用今日在MacOS上线。",
+          "url": "https://api3.cls.cn/share/article/2278338?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时46分]"
+        },
         {
           "title": "财联社2月3日电，消息人士称，英伟达与OpenAI的交易仍在讨论中。",
           "url": "https://api3.cls.cn/share/article/2278330?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 02时46分]"
+        },
+        {
+          "title": "OpenAI：Codex应用今日在MacOS上线。",
+          "url": "https://wallstreetcn.com/livenews/3048502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         },
         {
           "title": "美股异动丨英伟达跌2% 据称对OpenAI投资计划搁置",
@@ -28,8 +49,58 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 02时46分]"
+        },
+        {
+          "title": "OpenAI：通过使用Codex，人们可以轻松实现多任务处理，比如并行处理多个代理，并通过工作树隔离代理之间的变更；建立并运用技能，如将工具和规范整合为可重复使用的功能模块；设置自动化流程，如将重复性工作委托给Codex，并通过后台的定时工作流来完成。",
+          "url": "https://flash.jin10.com/detail/20260203021332925800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时41分]"
+          "time_info": "[02时44分 ~ 02时46分]"
+        },
+        {
+          "title": "OpenAI：Codex应用今日在MacOS上线。",
+          "url": "https://flash.jin10.com/detail/20260203020942519800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 02时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：借助云运行服务支持英伟达RTX PRO 6000 Blackwell服务器版GPU，为高端推理带来无服务器体验。",
+          "url": "https://flash.jin10.com/detail/20260203010817118800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 01时41分]"
+        },
+        {
+          "title": "谷歌公司：借助云运行服务支持英伟达RTX PRO 6000 Blackwell服务器版GPU，为高端推理带来无服务器体验。",
+          "url": "https://wallstreetcn.com/livenews/3048483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         }
       ]
     },
@@ -46,8 +117,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时46分]"
         }
       ]
     },
@@ -63,25 +134,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 02时46分]"
         }
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌(GOOG.O)：借助云运行服务支持英伟达RTX PRO 6000 Blackwell服务器版GPU，为高端推理带来无服务器体验。",
-          "url": "https://flash.jin10.com/detail/20260203010817118800",
-          "source": "金十数据",
+          "title": "智元机器人：不参加春晚，研发优先",
+          "url": "https://wallstreetcn.com/livenews/3048468",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         }
       ]
     },
@@ -97,8 +168,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 02时46分]"
         }
       ]
     },
@@ -114,8 +185,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时46分]"
         }
       ]
     },
@@ -148,8 +219,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 02时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳指100涨1%，西数涨约8%，英特尔涨约6%，希捷、美光涨超5%",
+          "url": "https://wallstreetcn.com/livenews/3048479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         }
       ]
     },
@@ -162,11 +250,12 @@
           "url": "https://api3.cls.cn/share/article/2278322?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 02时46分]"
         }
       ]
     }
