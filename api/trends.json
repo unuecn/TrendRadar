@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-02-03T00:53:55.775249+08:00",
-  "total_titles_processed": 228,
-  "failed_sources": [],
+  "generated_at": "2026-02-03T01:41:53.521597+08:00",
+  "total_titles_processed": 260,
+  "failed_sources": [
+    "wallstreetcn-quick"
+  ],
   "trends": [
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "财联社2月3日电，消息人士称，英伟达与OpenAI的交易仍在讨论中。",
+          "url": "https://api3.cls.cn/share/article/2278330?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 01时41分]"
+        },
+        {
+          "title": "美股异动丨英伟达跌2% 据称对OpenAI投资计划搁置",
+          "url": "https://www.gelonghui.com/news/5163137",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时41分]"
+        }
+      ]
+    },
     {
       "keyword_group": "金价 黄金",
       "match_count": 1,
@@ -12,11 +42,12 @@
           "url": "https://www.cls.cn/detail/2277923",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时41分]"
         }
       ]
     },
@@ -32,25 +63,42 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时41分]"
         }
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股异动丨英伟达跌2% 据称对OpenAI投资计划搁置",
-          "url": "https://www.gelonghui.com/news/5163137",
-          "source": "格隆汇",
+          "title": "谷歌(GOOG.O)：借助云运行服务支持英伟达RTX PRO 6000 Blackwell服务器版GPU，为高端推理带来无服务器体验。",
+          "url": "https://flash.jin10.com/detail/20260203010817118800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 01时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "低空经济 eVTOL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "十部门联合发布《低空经济标准体系建设指南（2025年版）》",
+          "url": "https://www.cls.cn/detail/2277867",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 01时41分]"
         }
       ]
     },
@@ -66,8 +114,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "意大利交通部：特斯拉(TSLA.O)1月份在意大利的新车注册量同比增长0.5%。",
+          "url": "https://flash.jin10.com/detail/20260203010649552800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 01时41分]"
         }
       ]
     },
@@ -83,8 +148,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比特币跌破心理防线 一场高风险押注被推向风口浪尖",
+          "url": "https://api3.cls.cn/share/article/2278322?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 01时41分]"
         }
       ]
     }
