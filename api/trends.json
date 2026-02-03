@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T04:50:58.140765+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-02-04T05:34:52.089153+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
@@ -24,11 +24,12 @@
           "source": "财联社电报",
           "ranks": [
             2,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时50分]"
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 05时34分]"
         },
         {
           "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
@@ -36,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时50分]"
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 05时34分]"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
@@ -122,13 +124,35 @@
           "time_info": "02时13分"
         },
         {
+          "title": "OpenAI：ChatGPT当前存在一些问题。",
+          "url": "https://wallstreetcn.com/livenews/3049318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "用户报告称，OpenAI出现故障。（DownDetector）",
+          "url": "https://wallstreetcn.com/livenews/3049313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
           "url": "https://flash.jin10.com/detail/20260204033430684800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -139,7 +163,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -153,6 +177,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "OpenAI谈ChatGPT故障问题：我们正在努力实施缓解措施。",
+          "url": "https://flash.jin10.com/detail/20260204044011737800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示OpenAI出现问题。",
+          "url": "https://flash.jin10.com/detail/20260204043502987800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         }
       ]
     },
@@ -166,22 +212,12 @@
           "source": "财联社电报",
           "ranks": [
             1,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时50分]"
-        },
-        {
-          "title": "英伟达跌幅扩大至5%。",
-          "url": "https://wallstreetcn.com/livenews/3049306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 05时34分]"
         },
         {
           "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
@@ -194,6 +230,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时13分 ~ 03时32分]"
+        },
+        {
+          "title": "英伟达跌幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3049306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时34分]"
         },
         {
           "title": "财联社2月4日电，达索与英伟达构建合作伙伴关系，将打造工业AI平台。",
@@ -224,7 +272,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -329,7 +377,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
@@ -339,8 +387,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时34分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -351,8 +399,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时34分]"
         },
         {
           "title": "财联社2月4日电，英特尔首席执行官表示，公司未来将致力于生产图形处理单元（GPU）。",
@@ -376,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "美国总统特朗普在Truth Social平台上发布白宫宴会厅效果图。",
+          "url": "https://flash.jin10.com/detail/20260204045232753800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         },
         {
           "title": "英特尔：存储芯片制造商称供应紧张要2028年才会缓解，公司将生产GPUs",
@@ -512,6 +571,45 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股三大指数涨跌不一，英特尔涨超5%，Palantir绩后涨超10%",
+          "url": "https://www.gelonghui.com/news/5164802",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时34分]"
+        },
+        {
+          "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
+          "url": "https://wallstreetcn.com/livenews/3049332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3049320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
       "match_count": 2,
       "titles": [
@@ -524,8 +622,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时34分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -552,25 +650,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股三大指数涨跌不一，英特尔涨超5%，Palantir绩后涨超10%",
-          "url": "https://www.gelonghui.com/news/5164802",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时34分]"
         }
       ]
     },
@@ -603,8 +684,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时34分]"
         }
       ]
     },
@@ -637,8 +718,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时34分]"
         }
       ]
     },
@@ -654,8 +735,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时34分]"
         }
       ]
     },
