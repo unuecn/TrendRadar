@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T18:40:14.140957+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-02-03T19:35:12.648313+08:00",
+  "total_titles_processed": 1510,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 19时35分]"
         },
         {
           "title": "谷歌(GOOG.O)：借助云运行服务支持英伟达RTX PRO 6000 Blackwell服务器版GPU，为高端推理带来无服务器体验。",
@@ -275,6 +275,18 @@
           "time_info": "[16时37分 ~ 17时41分]"
         },
         {
+          "title": "中央一号文件：促进人工智能与农业发展相结合，拓展无人机、物联网、机器人等应用场景，加快农业生物制造关键技术创新",
+          "url": "https://wallstreetcn.com/livenews/3049050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时35分]"
+        },
+        {
           "title": "智元机器人等在上海成立觅蜂具身智能科技公司",
           "url": "https://api3.cls.cn/share/article/2278967?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -295,17 +307,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
-        },
-        {
-          "title": "中央一号文件：促进人工智能与农业发展相结合，拓展无人机、物联网、机器人等应用场景，加快农业生物制造关键技术创新",
-          "url": "https://wallstreetcn.com/livenews/3049050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "阿童木机器人冲击港股，聚焦工业机器人产品，净利润连续两年亏损",
@@ -366,7 +367,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "财联社2月3日电，OpenAI称，Codex应用今日在MacOS上线。",
@@ -390,6 +391,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时40分 ~ 02时46分]"
+        },
+        {
+          "title": "OpenAI多名资深研究人员离职",
+          "url": "https://api3.cls.cn/share/article/2279380?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
         },
         {
           "title": "美股异动丨英伟达跌2% 据称对OpenAI投资计划搁置",
@@ -630,7 +642,7 @@
     },
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "【每日收评】三大指数探底回升均涨超1%，全市场超4800股飘红，商业航天概念卷土重来",
@@ -641,8 +653,30 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 19时35分]"
+        },
+        {
+          "title": "航天发展：下属公司商业低轨卫星运营及数据应用服务对公司整体业绩影响极小",
+          "url": "https://wallstreetcn.com/livenews/3049095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "航天发展(000547.SZ)：下属航天天目公司主要从事商业低轨卫星运营及数据应用服务",
+          "url": "https://www.gelonghui.com/news/5164073",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时40分]"
+          "time_info": "[19时34分 ~ 19时35分]"
         },
         {
           "title": "A股午评：三大指数集体上涨，超4400股上涨！光伏、商业航天概念领涨",
@@ -825,6 +859,67 @@
       ]
     },
     {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "据港交所文件，小米集团(01810.HK)于2月3日以1.043亿港元回购300万B类股份。",
+          "url": "https://flash.jin10.com/detail/20260203185129297800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
+        },
+        {
+          "title": "意大利交通部：特斯拉(TSLA.O)1月份在意大利的新车注册量同比增长0.5%。",
+          "url": "https://flash.jin10.com/detail/20260203010649552800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 01时41分]"
+        },
+        {
+          "title": "“试驾小米SU7 Max后，再也不想买美国车了” 美媒专栏作家爱上中国电动汽车",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/02/03/e5783fa34bb5495dbcf6de5053f198ee.html",
+          "source": "参考消息",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
+        },
+        {
+          "title": "财联社2月3日电，港交所文件显示，小米集团于2月3日以1.043亿港元回购300万B类股份。",
+          "url": "https://api3.cls.cn/share/article/2279348?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
+        },
+        {
+          "title": "官网显示，特斯拉在美国将Model Y全轮驱动版的售价定为41,990美元。",
+          "url": "https://flash.jin10.com/detail/20260203093651376800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
       "match_count": 4,
       "titles": [
@@ -861,8 +956,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 19时35分]"
         },
         {
           "title": "上金所出手！调整黄金、白银部分合约保证金水平和涨跌停板比例",
@@ -992,8 +1087,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时27分 ~ 18时40分]"
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 19时35分]"
         },
         {
           "title": "存储芯片概念震荡回暖 中微半导涨超10%",
@@ -1070,11 +1165,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32521589",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 19时35分]"
         },
         {
           "title": "市场消息：Alphabet(GOOG.O)旗下自动驾驶公司Waymo融资160亿美元，投后估值达1260亿美元。",
@@ -1138,34 +1234,6 @@
           "source": "财联社电报",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "意大利交通部：特斯拉(TSLA.O)1月份在意大利的新车注册量同比增长0.5%。",
-          "url": "https://flash.jin10.com/detail/20260203010649552800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
-        },
-        {
-          "title": "官网显示，特斯拉在美国将Model Y全轮驱动版的售价定为41,990美元。",
-          "url": "https://flash.jin10.com/detail/20260203093651376800",
-          "source": "金十数据",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
