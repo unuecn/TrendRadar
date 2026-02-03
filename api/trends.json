@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T05:34:52.089153+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-02-04T06:30:54.497843+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
@@ -25,11 +25,12 @@
           "ranks": [
             2,
             6,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 05时34分]"
+          "appearance_count": 4,
+          "time_info": "[04时01分 ~ 06时30分]"
         },
         {
           "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
@@ -130,7 +131,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -141,9 +142,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：Dylan Scandinaro加盟本公司，担任Preparedness（筹备）部门主管。",
+          "url": "https://wallstreetcn.com/livenews/3049343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：非常高兴地欢迎迪伦·斯坎迪纳罗（Dylan Scandinaro）加入OpenAI，担任我们的应变准备（Preparedness）主管。",
+          "url": "https://flash.jin10.com/detail/20260204053929054800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
@@ -185,7 +208,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -196,9 +219,94 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
+          "url": "https://wallstreetcn.com/articles/3764803",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时30分]"
+        },
+        {
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时30分]"
+        },
+        {
+          "title": "财联社2月4日电，英特尔首席执行官表示，公司未来将致力于生产图形处理单元（GPU）。",
+          "url": "https://api3.cls.cn/share/article/2279668?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时32分 ~ 04时01分]"
+        },
+        {
+          "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
+          "url": "https://wallstreetcn.com/articles/3764782",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "AMD第四财季来自中国的MI308 AI芯片销售额为3.9亿美元。 剔除MI380的中国销售为98亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3049341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "美国总统特朗普在Truth Social平台上发布白宫宴会厅效果图。",
+          "url": "https://flash.jin10.com/detail/20260204045232753800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "英特尔：存储芯片制造商称供应紧张要2028年才会缓解，公司将生产GPUs",
+          "url": "https://wallstreetcn.com/livenews/3049264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时32分"
         }
       ]
     },
@@ -213,11 +321,12 @@
           "ranks": [
             1,
             5,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 05时34分]"
+          "appearance_count": 4,
+          "time_info": "[04时01分 ~ 06时30分]"
         },
         {
           "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
@@ -376,82 +485,8 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
-          "url": "https://wallstreetcn.com/articles/3764803",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时34分]"
-        },
-        {
-          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
-          "url": "https://www.cls.cn/detail/2279363",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时34分]"
-        },
-        {
-          "title": "财联社2月4日电，英特尔首席执行官表示，公司未来将致力于生产图形处理单元（GPU）。",
-          "url": "https://api3.cls.cn/share/article/2279668?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时01分]"
-        },
-        {
-          "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
-          "url": "https://wallstreetcn.com/articles/3764782",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "美国总统特朗普在Truth Social平台上发布白宫宴会厅效果图。",
-          "url": "https://flash.jin10.com/detail/20260204045232753800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "英特尔：存储芯片制造商称供应紧张要2028年才会缓解，公司将生产GPUs",
-          "url": "https://wallstreetcn.com/livenews/3049264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "财联社2月4日电，英伟达首席执行官表示，人工智能将促使能源成本降低。",
@@ -500,6 +535,17 @@
           "time_info": "02时13分"
         },
         {
+          "title": "AMD的CEO苏姿丰：服务器CPU需求“非常强劲”。 AI业务正在加速。 十大人工智能公司中有八家使用Instinct芯片来支持生产工作负载。 超大规模企业正扩展基础设施，以满足人工智能领域不断增长的云服务需求。 数据中心、游戏和个人电脑领域的需求加速增长。",
+          "url": "https://wallstreetcn.com/livenews/3049358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
           "title": "黑石集团总裁乔恩·格雷：我们正在将人工智能方法融入“我们所做的一切”。",
           "url": "https://flash.jin10.com/detail/20260203225931960800",
           "source": "金十数据",
@@ -509,6 +555,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股三大指数涨跌不一，英特尔涨超5%，Palantir绩后涨超10%",
+          "url": "https://www.gelonghui.com/news/5164802",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时30分]"
+        },
+        {
+          "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
+          "url": "https://wallstreetcn.com/livenews/3049332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "美股三大指数集体收跌 热门科技股普跌 贵金属板块逆势大涨",
+          "url": "https://api3.cls.cn/share/article/2279695?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3049320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         }
       ]
     },
@@ -571,45 +667,6 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股三大指数涨跌不一，英特尔涨超5%，Palantir绩后涨超10%",
-          "url": "https://www.gelonghui.com/news/5164802",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时34分]"
-        },
-        {
-          "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
-          "url": "https://wallstreetcn.com/livenews/3049332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
-          "url": "https://wallstreetcn.com/livenews/3049320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
       "match_count": 2,
       "titles": [
@@ -622,8 +679,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时30分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -650,8 +707,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时30分]"
         }
       ]
     },
@@ -684,8 +741,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时30分]"
         }
       ]
     },
@@ -707,6 +764,23 @@
       ]
     },
     {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "光伏逆变器供应商Enphase Energy Inc.四季度营收3.433亿美元，分析师预期3.365亿美元。 四季度电池发货量150.1 MWH，分析师预期151.08 MWH。 一季度为APP推出AI助理。 一季度是2026年需求的“低点”。 预计将在荷兰获得20亿美元电池机会。 预计将在2026年四季度启动新款电池的发货。 公司接近发布第五代电池。",
+          "url": "https://wallstreetcn.com/livenews/3049344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
       "match_count": 1,
       "titles": [
@@ -718,8 +792,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时30分]"
         }
       ]
     },
@@ -735,8 +809,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时30分]"
         }
       ]
     },
