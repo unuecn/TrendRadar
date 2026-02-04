@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T22:06:44.403337+08:00",
-  "total_titles_processed": 1997,
+  "generated_at": "2026-02-04T23:08:54.965404+08:00",
+  "total_titles_processed": 2122,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "马斯克团队据报走访多家中国光伏企业 相关股价直线飙升",
@@ -26,11 +26,38 @@
           "url": "https://www.cls.cn/detail/2280542",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时33分 ~ 22时06分]"
+          "appearance_count": 5,
+          "time_info": "[19时33分 ~ 23时08分]"
+        },
+        {
+          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
+          "url": "https://www.cls.cn/detail/2280373",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时43分 ~ 23时08分]"
+        },
+        {
+          "title": "光伏“上天”？多只热门概念股密集回应相关业务情况",
+          "url": "https://www.cls.cn/detail/2280635",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 23时08分]"
         },
         {
           "title": "光伏股午后集体拉升，光伏ETF基金、光伏50ETF、光伏ETF上涨",
@@ -44,28 +71,28 @@
           "time_info": "[14时52分 ~ 14时53分]"
         },
         {
-          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
-          "url": "https://www.cls.cn/detail/2280373",
+          "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
+          "url": "https://www.cls.cn/detail/2280661",
           "source": "财联社热门",
           "ranks": [
-            7,
             6,
-            8
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时43分 ~ 22时06分]"
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 23时08分]"
         },
         {
-          "title": "光伏“上天”？多只热门概念股密集回应相关业务情况",
-          "url": "https://www.cls.cn/detail/2280635",
-          "source": "财联社热门",
+          "title": "高测股份：目前尚未开展太空光伏相关业务 未与马斯克团队开展合作",
+          "url": "https://api3.cls.cn/share/article/2280839?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 22时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "A股太空光伏概念再度拉升，晶科能源20cm涨停，双良节能、国晟科技、泽润新能、中来股份等多股此前封板，时创能源、晶盛机电、海泰新能等涨超10%。",
@@ -85,7 +112,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -143,18 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
-        },
-        {
-          "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
-          "url": "https://www.cls.cn/detail/2280661",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 22时06分]"
         },
         {
           "title": "马斯克团队密访中国多家光伏企业？晶科能源：公司有与考察团接触",
@@ -249,6 +264,17 @@
           "time_info": "[06时30分 ~ 07时00分]"
         },
         {
+          "title": "高测股份：目前尚未开展太空光伏相关业务，未与马斯克团队开展合作",
+          "url": "https://wallstreetcn.com/livenews/3049964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "国晟科技：公司目前不涉及太空光伏业务。",
           "url": "https://wallstreetcn.com/livenews/3049720",
           "source": "华尔街见闻-快讯",
@@ -266,9 +292,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "中国光伏行业协会：太空光伏技术仍处于探索和验证的初期阶段",
+          "url": "https://www.cls.cn/detail/2280775",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "知情人士：马斯克团队近期“摸底”中国光伏产业链 已有异质结设备厂签单",
@@ -288,7 +325,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -321,7 +358,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -354,7 +391,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -406,7 +443,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
@@ -607,6 +644,17 @@
           "time_info": "02时13分"
         },
         {
+          "title": "OpenAI或为亚马逊AI产品开发定制化模型",
+          "url": "https://api3.cls.cn/share/article/2280809?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
           "url": "https://flash.jin10.com/detail/20260204013101107800",
           "source": "金十数据",
@@ -709,7 +757,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-04）",
@@ -937,7 +985,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -973,6 +1021,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
+        },
+        {
+          "title": "消息人士：亚马逊计划利用人工智能加快电影和电视剧制作流程，人类将全程参与创意过程的每一个环节，AI工作室计划旨在降低成本并简化创作流程。",
+          "url": "https://flash.jin10.com/detail/20260204224515790800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "黑石集团总裁乔恩·格雷：我们正在将人工智能方法融入“我们所做的一切”。",
@@ -1030,6 +1089,20 @@
           "time_info": "[00时12分 ~ 07时37分]"
         },
         {
+          "title": "【焦点复盘】金融地产板块护盘拉升股指，算力产业链全天低迷，贵州茅台强势收复1500元大关",
+          "url": "https://www.cls.cn/detail/2280411",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时43分 ~ 23时08分]"
+        },
+        {
           "title": "创业板指跌逾2% 算力硬件领跌",
           "url": "https://api3.cls.cn/share/article/2279872?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -1050,19 +1123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
-        },
-        {
-          "title": "【焦点复盘】金融地产板块护盘拉升股指，算力产业链全天低迷，贵州茅台强势收复1500元大关",
-          "url": "https://www.cls.cn/detail/2280411",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时43分 ~ 22时06分]"
         },
         {
           "title": "天融信(002212.SZ)：公司暂未布局太空算力",
@@ -1240,7 +1300,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -1284,7 +1344,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -1317,7 +1377,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -1446,7 +1506,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -1498,7 +1558,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股三大指数涨跌不一，英特尔涨超5%，Palantir绩后涨超10%",
@@ -1560,6 +1620,18 @@
           "time_info": "[19时33分 ~ 19时34分]"
         },
         {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 23时08分]"
+        },
+        {
           "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
           "url": "https://wallstreetcn.com/livenews/3049332",
           "source": "华尔街见闻-快讯",
@@ -1582,17 +1654,6 @@
           "time_info": "07时37分"
         },
         {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
           "title": "美股三大指数集体收跌 热门科技股普跌 贵金属板块逆势大涨",
           "url": "https://api3.cls.cn/share/article/2279695?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -1613,6 +1674,130 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "区域银行ETF涨2.47%，银行业ETF涨1.91%，能源业ETF涨1.34%，领跑美股行业ETF，半导体ETF跌1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3049948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "英媒：受美国安全审查影响 英伟达对华AI晶片销售停滞",
+          "url": "https://www.zaochenbao.com/news/politics/202602/0463959.html",
+          "source": "早报",
+          "ranks": [
+            3,
+            15,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时32分 ~ 19时34分]"
+        },
+        {
+          "title": "英伟达股价跌幅扩大至5%，创11月25日以来盘中最大跌幅。",
+          "url": "https://api3.cls.cn/share/article/2279688?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            5,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时01分 ~ 06时30分]"
+        },
+        {
+          "title": "纳指跳水跌超1%，英伟达(NVDA.O)跌2%，亚马逊(AMZN.O)跌1.6%。",
+          "url": "https://flash.jin10.com/detail/20260204230254915800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
+          "url": "https://wallstreetcn.com/livenews/3049265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 03时32分]"
+        },
+        {
+          "title": "英伟达跌幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3049306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时34分]"
+        },
+        {
+          "title": "财联社2月4日电，达索与英伟达构建合作伙伴关系，将打造工业AI平台。",
+          "url": "https://api3.cls.cn/share/article/2279633?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 01时29分]"
+        },
+        {
+          "title": "达索系统与英伟达构建合作伙伴关系，将打造工业AI平台。 将为跨行业的AI打造架构。 达索系统的OutScale AI Factories将应用英伟达的基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3049227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "英伟达(NVDA.O)股价跌幅扩大至5%。",
+          "url": "https://flash.jin10.com/detail/20260204035244033800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "英伟达(NVDA.O)股价下跌3.1%。",
+          "url": "https://flash.jin10.com/detail/20260204012623552800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
         }
       ]
     },
@@ -1678,6 +1863,18 @@
           "time_info": "[14时52分 ~ 14时53分]"
         },
         {
+          "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532774",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 23时08分]"
+        },
+        {
           "title": "段永平：对马斯克本人看法没大改变，“投资”特斯拉基本看“市梦率”",
           "url": "https://wallstreetcn.com/livenews/3049621",
           "source": "华尔街见闻-快讯",
@@ -1687,17 +1884,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
-        },
-        {
-          "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532774",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
         },
         {
           "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关。（澎湃）",
@@ -1804,108 +1990,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "英媒：受美国安全审查影响 英伟达对华AI晶片销售停滞",
-          "url": "https://www.zaochenbao.com/news/politics/202602/0463959.html",
-          "source": "早报",
-          "ranks": [
-            3,
-            15,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时32分 ~ 19时34分]"
-        },
-        {
-          "title": "英伟达股价跌幅扩大至5%，创11月25日以来盘中最大跌幅。",
-          "url": "https://api3.cls.cn/share/article/2279688?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            5,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时01分 ~ 06时30分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
-          "url": "https://wallstreetcn.com/livenews/3049265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 03时32分]"
-        },
-        {
-          "title": "英伟达跌幅扩大至5%。",
-          "url": "https://wallstreetcn.com/livenews/3049306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时34分]"
-        },
-        {
-          "title": "财联社2月4日电，达索与英伟达构建合作伙伴关系，将打造工业AI平台。",
-          "url": "https://api3.cls.cn/share/article/2279633?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 01时29分]"
-        },
-        {
-          "title": "达索系统与英伟达构建合作伙伴关系，将打造工业AI平台。 将为跨行业的AI打造架构。 达索系统的OutScale AI Factories将应用英伟达的基础设施。",
-          "url": "https://wallstreetcn.com/livenews/3049227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "英伟达(NVDA.O)股价跌幅扩大至5%。",
-          "url": "https://flash.jin10.com/detail/20260204035244033800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "英伟达(NVDA.O)股价下跌3.1%。",
-          "url": "https://flash.jin10.com/detail/20260204012623552800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
         }
       ]
     },
@@ -2045,7 +2129,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -2176,11 +2260,12 @@
             20,
             24,
             25,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时16分 ~ 22时06分]"
+          "appearance_count": 15,
+          "time_info": "[12时16分 ~ 23时08分]"
         },
         {
           "title": "比特币出现V型走势，在跌穿7.3万美元之后“直线”回升，目前收复7.5万美元关口，当前跌幅不足4.3%。",
@@ -2389,8 +2474,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时59分 ~ 22时06分]"
+          "appearance_count": 19,
+          "time_info": "[06时59分 ~ 23时08分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
