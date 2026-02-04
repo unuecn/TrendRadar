@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T07:37:58.515604+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-02-04T10:01:34.545941+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -114,6 +114,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我确实担心美国在开源人工智能领域没有处于领先地位。",
@@ -250,9 +261,151 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 9,
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 11,
       "titles": [
+        {
+          "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
+          "url": "https://wallstreetcn.com/articles/3764803",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 10时01分]"
+        },
+        {
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时37分]"
+        },
+        {
+          "title": "创业板指跌逾2% 算力硬件领跌",
+          "url": "https://api3.cls.cn/share/article/2279872?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指涨0.11%，深成指跌0.84%，算力硬件、半导体芯片、AI应用等方向跌幅居前，沪深京三市下跌个股近2400只。",
+          "url": "https://wallstreetcn.com/livenews/3049455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "财联社2月4日电，英特尔首席执行官表示，公司未来将致力于生产图形处理单元（GPU）。",
+          "url": "https://api3.cls.cn/share/article/2279668?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时32分 ~ 04时01分]"
+        },
+        {
+          "title": "AMD第四财季来自中国的MI308 AI芯片销售额为3.9亿美元。 剔除MI380的中国销售为98亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3049341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时00分]"
+        },
+        {
+          "title": "爱芯元智(0600.HK)招股：国产化浪潮下的稀缺资产，深耕边端侧AI芯片潜力可期",
+          "url": "https://www.gelonghui.com/news/5166903",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
+          "url": "https://wallstreetcn.com/articles/3764782",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "AMD(AMD.O)CEO苏姿丰：不认为公司在下半年扩大AI芯片产能时会面临供应限制。",
+          "url": "https://flash.jin10.com/detail/20260204065927401800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "美国总统特朗普在Truth Social平台上发布白宫宴会厅效果图。",
+          "url": "https://flash.jin10.com/detail/20260204045232753800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "英特尔：存储芯片制造商称供应紧张要2028年才会缓解，公司将生产GPUs",
+          "url": "https://wallstreetcn.com/livenews/3049264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "创业板指跌超1%，沪指跌0.07%，深成指跌0.45%，半导体芯片、白酒、AI应用等方向跌幅居前，沪深京三市下跌个股近2800只。",
+          "url": "https://wallstreetcn.com/livenews/3049445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
         {
           "title": "财联社2月4日电，英伟达首席执行官表示，人工智能将促使能源成本降低。",
           "url": "https://api3.cls.cn/share/article/2279665?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -361,104 +514,6 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
-          "url": "https://wallstreetcn.com/articles/3764803",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 07时37分]"
-        },
-        {
-          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
-          "url": "https://www.cls.cn/detail/2279363",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 07时37分]"
-        },
-        {
-          "title": "财联社2月4日电，英特尔首席执行官表示，公司未来将致力于生产图形处理单元（GPU）。",
-          "url": "https://api3.cls.cn/share/article/2279668?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时01分]"
-        },
-        {
-          "title": "AMD第四财季来自中国的MI308 AI芯片销售额为3.9亿美元。 剔除MI380的中国销售为98亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3049341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时00分]"
-        },
-        {
-          "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
-          "url": "https://wallstreetcn.com/articles/3764782",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "AMD(AMD.O)CEO苏姿丰：不认为公司在下半年扩大AI芯片产能时会面临供应限制。",
-          "url": "https://flash.jin10.com/detail/20260204065927401800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "美国总统特朗普在Truth Social平台上发布白宫宴会厅效果图。",
-          "url": "https://flash.jin10.com/detail/20260204045232753800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "英特尔：存储芯片制造商称供应紧张要2028年才会缓解，公司将生产GPUs",
-          "url": "https://wallstreetcn.com/livenews/3049264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 美股 美元",
       "match_count": 7,
       "titles": [
@@ -517,7 +572,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -720,6 +775,58 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "大洋集团(01991.HK)拟成立合资聚焦X-Mart品牌AI潮玩陪伴机器人的研发、生产、全球销售",
+          "url": "https://www.gelonghui.com/news/5164975",
+          "source": "格隆汇",
+          "ranks": [
+            4,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时37分]"
+        },
+        {
+          "title": "半导体设备&机器人明星股绩后再创新高 财报全面碾压预期",
+          "url": "https://www.cls.cn/detail/2279679",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "开创电气(301448.SZ)：燕谷机器人公司跟清华大学合作正常进展中",
+          "url": "https://www.gelonghui.com/news/5166904",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "扬杰科技(300373.SZ)：目前已围绕无人机等低空经济、储能、人形机器人、AI 服务器等新兴领域业务已成立专项小组",
+          "url": "https://www.gelonghui.com/news/5166902",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "比特币 以太坊",
       "match_count": 4,
       "titles": [
@@ -778,6 +885,46 @@
       ]
     },
     {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Anthropic PBC：苹果公司的xCode现在支持Claude Agent SDK。",
+          "url": "https://wallstreetcn.com/livenews/3049272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时32分 ~ 04时01分]"
+        },
+        {
+          "title": "买苹果树发现苹果是插上的报警",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%B0%E8%8B%B9%E6%9E%9C%E6%A0%91%E5%8F%91%E7%8E%B0%E8%8B%B9%E6%9E%9C%E6%98%AF%E6%8F%92%E4%B8%8A%E7%9A%84%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "恒指低开0.14%，报26797.05点；恒生科技指数跌0.87%。美团、快手、腾讯控股、华虹半导体、比亚迪股份等跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3049437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
       "match_count": 2,
       "titles": [
@@ -800,8 +947,36 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时59分 ~ 07时37分]"
+          "appearance_count": 4,
+          "time_info": "[06时59分 ~ 10时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英特尔：我们专注于14A（芯片）。 客户对18A感兴趣。 预计某些客户将在下半年作出（18A采购）承诺。 存储芯片制造商们告诉我，供应紧张问题要到2028年才会出现缓解。",
+          "url": "https://wallstreetcn.com/livenews/3049264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "少量订单支撑LPDDR4X及部分行业SSD、内存条价格上涨 年关渐近整体市场交易偏淡",
+          "url": "https://api3.cls.cn/share/article/2279842?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
@@ -819,8 +994,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 07时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 10时01分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -836,38 +1011,31 @@
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 1,
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 2,
       "titles": [
         {
-          "title": "英特尔：我们专注于14A（芯片）。 客户对18A感兴趣。 预计某些客户将在下半年作出（18A采购）承诺。 存储芯片制造商们告诉我，供应紧张问题要到2028年才会出现缓解。",
-          "url": "https://wallstreetcn.com/livenews/3049264",
+          "title": "光伏板块继续走强，双良节能2连板，明冠新材、通灵股份、金辰股份、奥特维、亚玛顿等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3049449",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 1,
-      "titles": [
+          "time_info": "10时01分"
+        },
         {
-          "title": "大洋集团(01991.HK)拟成立合资聚焦X-Mart品牌AI潮玩陪伴机器人的研发、生产、全球销售",
-          "url": "https://www.gelonghui.com/news/5164975",
-          "source": "格隆汇",
+          "title": "光伏逆变器供应商Enphase Energy Inc.四季度营收3.433亿美元，分析师预期3.365亿美元。 四季度电池发货量150.1 MWH，分析师预期151.08 MWH。 一季度为APP推出AI助理。 一季度是2026年需求的“低点”。 预计将在荷兰获得20亿美元电池机会。 预计将在2026年四季度启动新款电池的发货。 公司接近发布第五代电池。",
+          "url": "https://wallstreetcn.com/livenews/3049344",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            5,
-            8
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 07时37分]"
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时00分]"
         }
       ]
     },
@@ -889,20 +1057,70 @@
       ]
     },
     {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "keyword_group": "创新药 新药研发 临床三期",
       "match_count": 1,
       "titles": [
         {
-          "title": "光伏逆变器供应商Enphase Energy Inc.四季度营收3.433亿美元，分析师预期3.365亿美元。 四季度电池发货量150.1 MWH，分析师预期151.08 MWH。 一季度为APP推出AI助理。 一季度是2026年需求的“低点”。 预计将在荷兰获得20亿美元电池机会。 预计将在2026年四季度启动新款电池的发货。 公司接近发布第五代电池。",
-          "url": "https://wallstreetcn.com/livenews/3049344",
-          "source": "华尔街见闻-快讯",
+          "title": "诺和诺德发布2025年财报：司美格鲁肽销售额361亿美元 创新药管线可期",
+          "url": "https://api3.cls.cn/share/article/2279871?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            20,
-            23
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时00分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "量子科技 量子计算 量子通信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "量子科技概念异动拉升 格尔软件直线涨停",
+          "url": "https://api3.cls.cn/share/article/2279864?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "将37颗卫星送上太空的航天界“拼多多” 要IPO",
+          "url": "https://www.cls.cn/detail/2279609",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "齐翔腾达(002408.SZ)：目前8000吨/年催化新材料项目已进入试运行阶段",
+          "url": "https://www.gelonghui.com/news/5166900",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
@@ -937,26 +1155,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 07时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic PBC：苹果公司的xCode现在支持Claude Agent SDK。",
-          "url": "https://wallstreetcn.com/livenews/3049272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 10时01分]"
         }
       ]
     }
