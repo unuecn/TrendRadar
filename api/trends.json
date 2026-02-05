@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T22:26:28.385910+08:00",
-  "total_titles_processed": 1970,
+  "generated_at": "2026-02-05T23:11:33.381909+08:00",
+  "total_titles_processed": 2081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -113,7 +113,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -148,11 +148,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时26分]"
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 23时11分]"
         },
         {
           "title": "【焦点复盘】金融权重股午后护盘，沪指缩量震荡收十字星，太空光伏概念大面积退潮",
@@ -160,11 +161,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时26分]"
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 23时11分]"
         },
         {
           "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
@@ -300,6 +302,17 @@
           "time_info": "15时54分"
         },
         {
+          "title": "天合光能：公司未与SpaceX开展任何合作 未有涉及“太空光伏”的相关订单收入",
+          "url": "https://wallstreetcn.com/livenews/3050742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "易天股份(300812.SZ)：暂未涉及光伏行业",
           "url": "https://www.gelonghui.com/news/5168215",
           "source": "格隆汇",
@@ -379,247 +392,8 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "台美贸易协议水落石出 台积电大规模投资美国能为台湾换回什么",
-          "url": "https://www.zaochenbao.com/news/taiwan/202602/0564048.html",
-          "source": "早报",
-          "ranks": [
-            1,
-            2,
-            15,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时54分 ~ 22时26分]"
-        },
-        {
-          "title": "知情人士：台积电敲定日本熊本二厂量产3纳米芯片",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/02/05/bd084f193fe64ea08f3698d6bf82fd0f.html",
-          "source": "参考消息",
-          "ranks": [
-            4,
-            9,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时27分 ~ 19时36分]"
-        },
-        {
-          "title": "台积电董事长与高市会面 宣布熊本厂直攻3纳米",
-          "url": "https://www.zaochenbao.com/news/taiwan/202602/0564059.html",
-          "source": "早报",
-          "ranks": [
-            4,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时40分 ~ 22时26分]"
-        },
-        {
-          "title": "评论：英伟达据报尚未接受对字节跳动出售H200晶片条件",
-          "url": "https://www.zaochenbao.com/news/opinion/202602/0564031.html",
-          "source": "早报",
-          "ranks": [
-            2,
-            8,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 17时44分]"
-        },
-        {
-          "title": "钧崴电子(301458.SZ)：近期并未有与英伟达团队相关的接待或参观安排",
-          "url": "https://www.gelonghui.com/news/5168757",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "财联社2月5日电，英伟达据称将推迟发布新款游戏芯片。",
-          "url": "https://api3.cls.cn/share/article/2282104?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "知情人士：台积电拟在日投产3纳米先进制程",
-          "url": "https://flash.jin10.com/detail/20260205093330499800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
-          "url": "https://flash.jin10.com/detail/20260205051339983800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时33分 ~ 07时28分]"
-        },
-        {
-          "title": "台积电将在日本熊本生产3纳米芯片。（读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3050119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时28分 ~ 07时53分]"
-        },
-        {
-          "title": "据日本读卖新闻：台积电(TSM.N)在熊本工厂的投资将增至2.6万亿日元。",
-          "url": "https://flash.jin10.com/detail/20260205055427415800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时28分]"
-        },
-        {
-          "title": "据日本读卖新闻：台积电(TSM.N)将在日本熊本工厂生产3纳米芯片。",
-          "url": "https://flash.jin10.com/detail/20260205055402487800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时28分]"
-        },
-        {
-          "title": "胡润中国500强非国有企业发布：台积电、腾讯、字节位列前三",
-          "url": "https://wallstreetcn.com/livenews/3050340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时38分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)股价跌至一个多月来的低点，最新下跌3.8%。",
-          "url": "https://flash.jin10.com/detail/20260205020639695800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 03时58分]"
-        },
-        {
-          "title": "美股半导体和芯片设备股票盘前上涨，因Alphabet(GOOG.O)表示其2026年的资本支出可能翻一番。博通(AVGO.O)涨5%，AMD(AMD.O)、英伟达(NVDA.O)涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260205173627035800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "美股异动丨Tower半导体盘前一度飙升超19%，将与英伟达合作开发先进硅光子技术",
-          "url": "https://www.gelonghui.com/news/5168804",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "AMD跌幅扩大至16%，创2018年以来最大盘中跌幅。 应用材料跌6.4%，恐创2025年8月以来最大单日跌幅。 英伟达跌3%。 费城半导体指数跌4.1%。 标普500指数重新跌超0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3050006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "日本首相高市早苗将于日本时间11:00会见台积电CEO。",
-          "url": "https://wallstreetcn.com/livenews/3050212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "台积电(TSM.N)：将在熊本的第二座日本晶圆厂生产3纳米先进芯片。",
-          "url": "https://flash.jin10.com/detail/20260205112556420800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "英伟达服务器需求持续强劲 鸿海1月营收飙升35%超预期",
-          "url": "https://flash.jin10.com/detail/20260205155859096800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 美股 美元",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
@@ -647,6 +421,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "可选消费ETF跌1.39%，能源业ETF跌1.15%，网络股指数ETF跌1.05%，科技行业ETF跌0.59%，在美股盘初领跌行业ETF，生物科技指数ETF涨0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3050756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "周三（2月4日）纽约尾盘，现货白银涨3.62%，报88.2660美元/盎司，北京时间22:05刷新日高至92.2043美元，随后回吐涨幅，逼近07:08刷新的日低83.2961美元。 COMEX白银期货涨5.11%，报87.555美元/盎司，22:06刷新日高至92.015美元。 COMEX铜期货跌2.77%，报5.9420美元/磅，22:00-02:00持续扩大跌幅。 现货铂金涨0.60%，现货钯金涨1.05%。",
@@ -786,6 +571,17 @@
           "time_info": "05时33分"
         },
         {
+          "title": "财联社2月5日电，美股罗素2000指数转涨，现涨0.2%，此前下跌0.7%。",
+          "url": "https://api3.cls.cn/share/article/2282140?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "周四亚太盘初，纳指期货涨超0.3%，标普股指期货与罗素2000股指期货涨超0.2%，道指期货微跌不到0.1%。 当前（美股盘后），博通涨5.67%，美光科技涨3.05%，Snap涨2.37%，AMD反弹2.19%，英伟达、台积电涨超1%，恩智浦跌约0.4%，微软跌超0.7%，谷歌A跌1.2%，高通跌9.2%。",
           "url": "https://wallstreetcn.com/livenews/3050140",
           "source": "华尔街见闻-快讯",
@@ -806,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "德国10年期国债收益率短线反弹，重回2.095%上方，日内整体转涨，欧洲央行行长拉加德新闻发布会开始后，一度跌至2.078%刷新日低。 欧元兑美元一度刷新日高至1.1820上方。 欧元兑英镑涨0.7%，有望创2025年8月份以来最大单日涨幅，报0.8709。",
+          "url": "https://wallstreetcn.com/livenews/3050739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "分析师警示关税滞后效应 美债长端收益率易涨难跌",
@@ -830,6 +637,17 @@
           "time_info": "21时02分"
         },
         {
+          "title": "美股开盘，道指跌0.55%，标普500指数跌0.87%，纳指跌1.3%。Alphabet(GOOG.O)跌6.6%，公司2026年资本支出指引远超预期。蔚来汽车(NIO.N)涨7.9%，公司预计Q4将首次实现单季度盈利。叮咚买菜(DDL.N)跌12%，美团拟7.17亿美元收购叮咚买菜。",
+          "url": "https://flash.jin10.com/detail/20260205223029069800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.9408，较上一交易日官方收盘价跌32点，较上日夜盘收盘涨42点。",
           "url": "https://wallstreetcn.com/livenews/3050514",
           "source": "华尔街见闻-快讯",
@@ -839,6 +657,417 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "台美贸易协议水落石出 台积电大规模投资美国能为台湾换回什么",
+          "url": "https://www.zaochenbao.com/news/taiwan/202602/0564048.html",
+          "source": "早报",
+          "ranks": [
+            1,
+            2,
+            15,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时54分 ~ 22时26分]"
+        },
+        {
+          "title": "知情人士：台积电敲定日本熊本二厂量产3纳米芯片",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/02/05/bd084f193fe64ea08f3698d6bf82fd0f.html",
+          "source": "参考消息",
+          "ranks": [
+            4,
+            9,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 19时36分]"
+        },
+        {
+          "title": "台积电董事长与高市会面 宣布熊本厂直攻3纳米",
+          "url": "https://www.zaochenbao.com/news/taiwan/202602/0564059.html",
+          "source": "早报",
+          "ranks": [
+            4,
+            8,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时40分 ~ 23时11分]"
+        },
+        {
+          "title": "评论：英伟达据报尚未接受对字节跳动出售H200晶片条件",
+          "url": "https://www.zaochenbao.com/news/opinion/202602/0564031.html",
+          "source": "早报",
+          "ranks": [
+            2,
+            8,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 17时44分]"
+        },
+        {
+          "title": "钧崴电子(301458.SZ)：近期并未有与英伟达团队相关的接待或参观安排",
+          "url": "https://www.gelonghui.com/news/5168757",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "财联社2月5日电，英伟达据称将推迟发布新款游戏芯片。",
+          "url": "https://api3.cls.cn/share/article/2282104?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "知情人士：台积电拟在日投产3纳米先进制程",
+          "url": "https://flash.jin10.com/detail/20260205093330499800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
+          "url": "https://flash.jin10.com/detail/20260205051339983800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时33分 ~ 07时28分]"
+        },
+        {
+          "title": "台积电将在日本熊本生产3纳米芯片。（读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3050119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时28分 ~ 07时53分]"
+        },
+        {
+          "title": "据日本读卖新闻：台积电(TSM.N)在熊本工厂的投资将增至2.6万亿日元。",
+          "url": "https://flash.jin10.com/detail/20260205055427415800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 07时28分]"
+        },
+        {
+          "title": "据日本读卖新闻：台积电(TSM.N)将在日本熊本工厂生产3纳米芯片。",
+          "url": "https://flash.jin10.com/detail/20260205055402487800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 07时28分]"
+        },
+        {
+          "title": "胡润中国500强非国有企业发布：台积电、腾讯、字节位列前三",
+          "url": "https://wallstreetcn.com/livenews/3050340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时38分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)股价跌至一个多月来的低点，最新下跌3.8%。",
+          "url": "https://flash.jin10.com/detail/20260205020639695800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 03时58分]"
+        },
+        {
+          "title": "美股半导体和芯片设备股票盘前上涨，因Alphabet(GOOG.O)表示其2026年的资本支出可能翻一番。博通(AVGO.O)涨5%，AMD(AMD.O)、英伟达(NVDA.O)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260205173627035800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
+          "url": "https://wallstreetcn.com/articles/3765006",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "美股异动丨Tower半导体盘前一度飙升超19%，将与英伟达合作开发先进硅光子技术",
+          "url": "https://www.gelonghui.com/news/5168804",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "AMD跌幅扩大至16%，创2018年以来最大盘中跌幅。 应用材料跌6.4%，恐创2025年8月以来最大单日跌幅。 英伟达跌3%。 费城半导体指数跌4.1%。 标普500指数重新跌超0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3050006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "日本首相高市早苗将于日本时间11:00会见台积电CEO。",
+          "url": "https://wallstreetcn.com/livenews/3050212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "台积电(TSM.N)：将在熊本的第二座日本晶圆厂生产3纳米先进芯片。",
+          "url": "https://flash.jin10.com/detail/20260205112556420800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "英伟达服务器需求持续强劲 鸿海1月营收飙升35%超预期",
+          "url": "https://flash.jin10.com/detail/20260205155859096800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "美银下调高通目标价至155美元",
+          "url": "https://www.gelonghui.com/news/5168814",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美股异动｜高通盘后跌逾8%，本财季业绩展望平淡，有迹象显示手机芯片需求不稳",
+          "url": "https://www.gelonghui.com/news/5168089",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时53分]"
+        },
+        {
+          "title": "高通Q1营收122.5亿美元 同比增长5%",
+          "url": "https://api3.cls.cn/share/article/2280950?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 06时55分]"
+        },
+        {
+          "title": "高通(QCOM.O)CFO：预计第二财季手机芯片收入约为60亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205060524377800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "高通第一财季调整后营收122.5亿美元，分析师预期122亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3050102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时28分]"
+        },
+        {
+          "title": "高通(QCOM.O)盘后财报发布后下跌1.6%。",
+          "url": "https://flash.jin10.com/detail/20260205050153659800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时28分]"
+        },
+        {
+          "title": "高通(QCOM.O)：近期手机市场前景受到全行业内存供应短缺的影响。",
+          "url": "https://flash.jin10.com/detail/20260205050136423800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时28分]"
+        },
+        {
+          "title": "高通(QCOM.O)2026财年第二季度营收展望为102-110亿美元，市场预期111.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050118583800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时28分]"
+        },
+        {
+          "title": "高通(QCOM.O)2026财年Q1营收122.5亿美元，市场预期121.65亿美元，上年同期116.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050033498800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时28分]"
+        },
+        {
+          "title": "高通本财季业绩展望平淡，有迹象显示手机芯片需求不稳",
+          "url": "https://wallstreetcn.com/livenews/3050102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时28分]"
+        },
+        {
+          "title": "高通低开11%，创2023年以来最差盘中表现。 该公司在2026财年第一季度营收123亿美元，非GAAP每股收益达3.50 美元，均创公司历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3050750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "高通(QCOM.O)盘前下跌11.5%，公司第二季度营收和利润预期低于市场预期。",
+          "url": "https://flash.jin10.com/detail/20260205170500490800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "高通(QCOM.O)股价开盘暴跌11%，创2023年以来最大跌幅。",
+          "url": "https://flash.jin10.com/detail/20260205223104294800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         }
       ]
     },
@@ -975,140 +1204,243 @@
       ]
     },
     {
-      "keyword_group": "英特尔 高通",
-      "match_count": 11,
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 10,
       "titles": [
         {
-          "title": "美银下调高通目标价至155美元",
-          "url": "https://www.gelonghui.com/news/5168814",
-          "source": "格隆汇",
+          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
+          "url": "https://www.cls.cn/detail/2281407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时54分 ~ 21时02分]"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时54分 ~ 23时11分]"
+        },
+        {
+          "title": "Gemini跌5%，该公司计划裁员，关闭多地的账号。",
+          "url": "https://wallstreetcn.com/livenews/3050752",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时11分"
         },
         {
-          "title": "美股异动｜高通盘后跌逾8%，本财季业绩展望平淡，有迹象显示手机芯片需求不稳",
-          "url": "https://www.gelonghui.com/news/5168089",
-          "source": "格隆汇",
+          "title": "Alphabet(GOOGL.O)：Q4谷歌服务营收增长了14%，达到959亿美元，主要由Google搜索及其他业务（增长17%）、订阅与平台设备业务（增长17%）及YouTube广告业务（增长9%）驱动。",
+          "url": "https://flash.jin10.com/detail/20260205050719759800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 07时53分]"
-        },
-        {
-          "title": "高通Q1营收122.5亿美元 同比增长5%",
-          "url": "https://api3.cls.cn/share/article/2280950?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            8,
-            15
+            5,
+            14,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时33分 ~ 06时55分]"
         },
         {
-          "title": "高通(QCOM.O)CFO：预计第二财季手机芯片收入约为60亿美元。",
-          "url": "https://flash.jin10.com/detail/20260205060524377800",
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260205013400830800",
           "source": "金十数据",
           "ranks": [
-            11,
-            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 02时10分]"
+        },
+        {
+          "title": "Alphabet公司CEO：将基于Gemini技术与苹果公司联合开发下一代苹果基础模型",
+          "url": "https://api3.cls.cn/share/article/2281513?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "Alphabet公司CEO：2025年将Gemini服务单位成本降低了78%",
+          "url": "https://api3.cls.cn/share/article/2281508?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "Gemini Space Station Inc.计划裁员200人，该公司将继续在美国和新加坡运营。",
+          "url": "https://wallstreetcn.com/livenews/3050744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "财联社2月5日电，受裁员和关闭部分账户计划影响，双子座空间站公司（Gemini Space Station）股价下跌5%。",
+          "url": "https://api3.cls.cn/share/article/2282138?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "市场消息：Gemini Space Station将结束在欧盟、英国和澳大利亚的运营，并裁员25%。",
+          "url": "https://flash.jin10.com/detail/20260205223251600800",
+          "source": "金十数据",
+          "ranks": [
             25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "我国生成式人工智能用户规模达6.02亿人",
+          "url": "https://api3.cls.cn/share/article/2281136?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-05）",
+          "url": "https://flash.jin10.com/detail/20260205115645206800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "我国互联网普及率突破80%，生成式人工智能用户规模超6亿人",
+          "url": "https://wallstreetcn.com/livenews/3050252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)高管：将继续在人工智能和云服务等关键投资领域招聘人员。",
+          "url": "https://flash.jin10.com/detail/20260205060749357800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时55分 ~ 07时53分]"
         },
         {
-          "title": "高通第一财季调整后营收122.5亿美元，分析师预期122亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3050102",
+          "title": "健麾信息：拟7371万元收购AI应用公司博科国信38%股权",
+          "url": "https://api3.cls.cn/share/article/2281778?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
+        },
+        {
+          "title": "中电港(001287.SZ)：目前公司自研方案覆盖人工智能、新能源等应用领域",
+          "url": "https://www.gelonghui.com/news/5168805",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美国得克萨斯州电力可靠性委员会（ERCOT）考虑重新评估某些与人工智能（AI）相关的数据中心项目。 此前，当地电力监管部门因新用户激增而批准了多个数据中心项目。",
+          "url": "https://wallstreetcn.com/livenews/3049978",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        },
+        {
+          "title": "工信部等八部门：运用人工智能、大数据等新一代信息技术 构建特色方剂知识图谱和图神经网络",
+          "url": "https://wallstreetcn.com/livenews/3050530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
-          "title": "高通(QCOM.O)盘后财报发布后下跌1.6%。",
-          "url": "https://flash.jin10.com/detail/20260205050153659800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
-        },
-        {
-          "title": "高通(QCOM.O)：近期手机市场前景受到全行业内存供应短缺的影响。",
-          "url": "https://flash.jin10.com/detail/20260205050136423800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
-        },
-        {
-          "title": "高通(QCOM.O)2026财年第二季度营收展望为102-110亿美元，市场预期111.2亿美元。",
-          "url": "https://flash.jin10.com/detail/20260205050118583800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
-        },
-        {
-          "title": "高通(QCOM.O)2026财年Q1营收122.5亿美元，市场预期121.65亿美元，上年同期116.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260205050033498800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
-        },
-        {
-          "title": "高通本财季业绩展望平淡，有迹象显示手机芯片需求不稳",
-          "url": "https://wallstreetcn.com/livenews/3050102",
+          "title": "英国央行行长贝利：在AI应用方面，看到了一些招聘减少的初步迹象。 并不欢迎失业，这不是值得付出的代价。",
+          "url": "https://wallstreetcn.com/livenews/3050705",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时28分]"
-        },
-        {
-          "title": "高通(QCOM.O)盘前下跌11.5%，公司第二季度营收和利润预期低于市场预期。",
-          "url": "https://flash.jin10.com/detail/20260205170500490800",
-          "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时44分"
+          "time_info": "22时26分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：投资热潮与人工智能及一切与人工智能相关的事物有关。需要一些时间才能看出这对生产力和通胀的影响。",
+          "url": "https://flash.jin10.com/detail/20260205222621799800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         }
       ]
     },
@@ -1236,107 +1568,112 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 9,
       "titles": [
         {
-          "title": "我国生成式人工智能用户规模达6.02亿人",
-          "url": "https://api3.cls.cn/share/article/2281136?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时38分 ~ 19时36分]"
+        },
+        {
+          "title": "【机构龙虎榜解读】液冷+机器人，数据中心液冷业务已覆盖GPU芯片冷板、冷却塔等，部分品类已进入逐步放量阶段，部分品类处在验证阶段，同时还形成了1+4+N具身智能产品体系，机构大额净买入这家公司超4亿",
+          "url": "https://api3.cls.cn/share/article/2281765?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-02-05）",
-          "url": "https://flash.jin10.com/detail/20260205115645206800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "我国互联网普及率突破80%，生成式人工智能用户规模超6亿人",
-          "url": "https://wallstreetcn.com/livenews/3050252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)高管：将继续在人工智能和云服务等关键投资领域招聘人员。",
-          "url": "https://flash.jin10.com/detail/20260205060749357800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 07时53分]"
-        },
-        {
-          "title": "健麾信息：拟7371万元收购AI应用公司博科国信38%股权",
-          "url": "https://api3.cls.cn/share/article/2281778?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时40分 ~ 18时41分]"
         },
         {
-          "title": "中电港(001287.SZ)：目前公司自研方案覆盖人工智能、新能源等应用领域",
-          "url": "https://www.gelonghui.com/news/5168805",
+          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
+          "url": "https://www.cls.cn/detail/2281019",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 16时42分]"
+        },
+        {
+          "title": "【电报解读】刚刚！全球功率半导体巨头英飞凌发布调价函，机构建议在新一轮价格调整周期开启下，关注功率器件、模拟、MCU、SoC四大细分领域，这家公司是以MCU为核心的平台型芯片设计企业",
+          "url": "https://api3.cls.cn/share/article/2282000?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "美国财长贝森特：金融稳定监管委员会（FSOC）在气候问题上的一切工作都是“败坏名声的”。",
+          "url": "https://wallstreetcn.com/livenews/3050059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 04时41分]"
+        },
+        {
+          "title": "【焦点复盘】金融地产板块护盘拉升股指，算力产业链全天低迷，贵州茅台强势收复1500元大关",
+          "url": "https://www.cls.cn/detail/2280411",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 00时13分]"
+        },
+        {
+          "title": "【大佬持仓跟踪】算力+AI+业绩预增，创新研发算力服务平台可满足多种智算需求，产品落地300多个算力云边缘机房，这家公司合作伙伴包括阿里、腾讯、字节",
+          "url": "https://api3.cls.cn/share/article/2281273?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "西子洁能(002534.SZ)：与清微智能正式签署战略合作协议，将围绕人工智能数据中心(AIDC)建设，推动算力和能源建设等全方位合作",
+          "url": "https://www.gelonghui.com/news/5168835",
           "source": "格隆汇",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时11分"
         },
         {
-          "title": "美国得克萨斯州电力可靠性委员会（ERCOT）考虑重新评估某些与人工智能（AI）相关的数据中心项目。 此前，当地电力监管部门因新用户激增而批准了多个数据中心项目。",
-          "url": "https://wallstreetcn.com/livenews/3049978",
-          "source": "华尔街见闻-快讯",
+          "title": "【公告全知道】商业航天+算力租赁+AI应用+芯片+数据中心！公司合作构建航天数据产业链平台",
+          "url": "https://api3.cls.cn/share/article/2282007?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "工信部等八部门：运用人工智能、大数据等新一代信息技术 构建特色方剂知识图谱和图神经网络",
-          "url": "https://wallstreetcn.com/livenews/3050530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "英国央行行长贝利：在AI应用方面，看到了一些招聘减少的初步迹象。 并不欢迎失业，这不是值得付出的代价。",
-          "url": "https://wallstreetcn.com/livenews/3050705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "22时26分"
         }
@@ -1452,181 +1789,176 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "比特币 以太坊",
       "match_count": 8,
       "titles": [
         {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
+          "title": "评论：比特币跌至特朗普重返白宫以来最低水平",
+          "url": "https://www.zaochenbao.com/news/opinion/202602/0463952.html",
+          "source": "早报",
           "ranks": [
-            13,
-            10,
-            7
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时38分 ~ 19时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 07时53分]"
         },
         {
-          "title": "【机构龙虎榜解读】液冷+机器人，数据中心液冷业务已覆盖GPU芯片冷板、冷却塔等，部分品类已进入逐步放量阶段，部分品类处在验证阶段，同时还形成了1+4+N具身智能产品体系，机构大额净买入这家公司超4亿",
-          "url": "https://api3.cls.cn/share/article/2281765?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "美股盘前三大股指齐跌，纳指期货跌逾1%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时40分 ~ 18时41分]"
+          "time_info": "[22时26分 ~ 23时11分]"
         },
         {
-          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
-          "url": "https://www.cls.cn/detail/2281019",
-          "source": "财联社热门",
+          "title": "科技股抛售潮暂缓，纳指期货涨0.1%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时02分 ~ 16时42分]"
-        },
-        {
-          "title": "【电报解读】刚刚！全球功率半导体巨头英飞凌发布调价函，机构建议在新一轮价格调整周期开启下，关注功率器件、模拟、MCU、SoC四大细分领域，这家公司是以MCU为核心的平台型芯片设计企业",
-          "url": "https://api3.cls.cn/share/article/2282000?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时01分 ~ 21时02分]"
         },
         {
-          "title": "美国财长贝森特：金融稳定监管委员会（FSOC）在气候问题上的一切工作都是“败坏名声的”。",
-          "url": "https://wallstreetcn.com/livenews/3050059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 04时41分]"
-        },
-        {
-          "title": "【焦点复盘】金融地产板块护盘拉升股指，算力产业链全天低迷，贵州茅台强势收复1500元大关",
-          "url": "https://www.cls.cn/detail/2280411",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 00时13分]"
-        },
-        {
-          "title": "【大佬持仓跟踪】算力+AI+业绩预增，创新研发算力服务平台可满足多种智算需求，产品落地300多个算力云边缘机房，这家公司合作伙伴包括阿里、腾讯、字节",
-          "url": "https://api3.cls.cn/share/article/2281273?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "比特币向下跌破69000美元",
+          "url": "https://api3.cls.cn/share/article/2282150?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "【公告全知道】商业航天+算力租赁+AI应用+芯片+数据中心！公司合作构建航天数据产业链平台",
-          "url": "https://api3.cls.cn/share/article/2282007?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 6,
-      "titles": [
+          "time_info": "23时11分"
+        },
         {
-          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
-          "url": "https://www.cls.cn/detail/2281407",
+          "title": "Strategy跌7%，Coinbase跌4.9%，2月5日稍早，比特币跌穿70000美元整数位心理关口。",
+          "url": "https://wallstreetcn.com/livenews/3050754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "币圈信仰崩塌？比特币一度失守7万关口 预测市场押注继续下挫",
+          "url": "https://www.cls.cn/detail/2281946",
           "source": "财联社热门",
           "ranks": [
             8,
-            3,
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时54分 ~ 21时02分]"
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时11分]"
         },
         {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
+          "title": "Strategy的比特币持仓目前浮亏超46亿美元",
+          "url": "https://api3.cls.cn/share/article/2281997?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            10,
-            9,
-            7
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时54分 ~ 22时26分]"
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
-          "title": "Alphabet(GOOGL.O)：Q4谷歌服务营收增长了14%，达到959亿美元，主要由Google搜索及其他业务（增长17%）、订阅与平台设备业务（增长17%）及YouTube广告业务（增长9%）驱动。",
-          "url": "https://flash.jin10.com/detail/20260205050719759800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时33分 ~ 06时55分]"
-        },
-        {
-          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
-          "url": "https://flash.jin10.com/detail/20260205013400830800",
-          "source": "金十数据",
+          "title": "比特币持续下跌 加密市场正陷入一场“信仰危机”",
+          "url": "https://www.cls.cn/detail/2281264",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 02时10分]"
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
+          "url": "https://wallstreetcn.com/articles/3764989",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[10时02分 ~ 23时11分]"
         },
         {
-          "title": "Alphabet公司CEO：将基于Gemini技术与苹果公司联合开发下一代苹果基础模型",
-          "url": "https://api3.cls.cn/share/article/2281513?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "存储芯片荒难解！惠普等PC大厂据称首次考虑中国大陆供应商",
+          "url": "https://www.cls.cn/detail/2281678",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时40分 ~ 23时11分]"
+        },
+        {
+          "title": "机构：DDR4和DDR5部分颗粒延续小幅下跌",
+          "url": "https://api3.cls.cn/share/article/2281607?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时54分"
+          "time_info": "16时42分"
         },
         {
-          "title": "Alphabet公司CEO：2025年将Gemini服务单位成本降低了78%",
-          "url": "https://api3.cls.cn/share/article/2281508?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "由于存储芯片短缺问题，英伟达将推迟发布新款游戏芯片。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3050727",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时54分"
+          "time_info": "22时26分"
+        },
+        {
+          "title": "华硕：存储芯片缺货恐延续至2027下半年",
+          "url": "https://api3.cls.cn/share/article/2281442?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "报道：英伟达因存储芯片短缺推迟新款游戏芯片发布",
+          "url": "https://wallstreetcn.com/livenews/3050727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         }
       ]
     },
@@ -1704,144 +2036,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "评论：比特币跌至特朗普重返白宫以来最低水平",
-          "url": "https://www.zaochenbao.com/news/opinion/202602/0463952.html",
-          "source": "早报",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时11分 ~ 07时53分]"
-        },
-        {
-          "title": "科技股抛售潮暂缓，纳指期货涨0.1%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "美股盘前三大股指齐跌，纳指期货跌逾1%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "Strategy的比特币持仓目前浮亏超46亿美元",
-          "url": "https://api3.cls.cn/share/article/2281997?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "币圈信仰崩塌？比特币一度失守7万关口 预测市场押注继续下挫",
-          "url": "https://www.cls.cn/detail/2281946",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "比特币持续下跌 加密市场正陷入一场“信仰危机”",
-          "url": "https://www.cls.cn/detail/2281264",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
-          "url": "https://wallstreetcn.com/articles/3764989",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时02分 ~ 22时26分]"
-        },
-        {
-          "title": "存储芯片荒难解！惠普等PC大厂据称首次考虑中国大陆供应商",
-          "url": "https://www.cls.cn/detail/2281678",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时40分 ~ 22时26分]"
-        },
-        {
-          "title": "机构：DDR4和DDR5部分颗粒延续小幅下跌",
-          "url": "https://api3.cls.cn/share/article/2281607?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "由于存储芯片短缺问题，英伟达将推迟发布新款游戏芯片。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3050727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "华硕：存储芯片缺货恐延续至2027下半年",
-          "url": "https://api3.cls.cn/share/article/2281442?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
         }
       ]
     },
@@ -2049,6 +2243,34 @@
       ]
     },
     {
+      "keyword_group": "低空经济 eVTOL",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球首款！峰飞航空5吨级eVTOL天际龙来了，可搭载10人",
+          "url": "https://wallstreetcn.com/livenews/3050491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "最远能飞1500公里！峰飞航空上新5吨级eVTOL",
+          "url": "https://www.cls.cn/detail/2281815",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "液冷",
       "match_count": 1,
       "titles": [
@@ -2059,7 +2281,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         }
@@ -2133,23 +2355,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时28分 ~ 07时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "低空经济 eVTOL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球首款！峰飞航空5吨级eVTOL天际龙来了，可搭载10人",
-          "url": "https://wallstreetcn.com/livenews/3050491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
         }
       ]
     },
