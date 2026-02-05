@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T02:10:44.614162+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2026-02-06T03:14:14.867642+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "比特币 以太坊",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "币圈信仰崩塌？比特币一度失守7万关口 预测市场押注继续下挫",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时14分]"
         },
         {
           "title": "比特币向下跌破67000美元",
@@ -56,6 +56,17 @@
           "time_info": "[00时07分 ~ 01时25分]"
         },
         {
+          "title": "比特币跌幅扩大至10%，逼近6.5万美元和2024年10月10日底部58892.78美元。",
+          "url": "https://wallstreetcn.com/livenews/3050837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
           "title": "比特币向下跌破69000美元",
           "url": "https://api3.cls.cn/share/article/2282150?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -65,6 +76,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "财联社2月6日电，比特币跌幅扩大至10%，触及65500美元。",
+          "url": "https://api3.cls.cn/share/article/2282211?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "比特币跌破7万美元，超20万人爆仓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32541853",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "Strategy跌7%，Coinbase跌4.9%，2月5日稍早，比特币跌穿70000美元整数位心理关口。",
@@ -80,6 +113,139 @@
       ]
     },
     {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
+          "url": "https://wallstreetcn.com/livenews/3050854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "OpenAI推出新平台 助力企业部署“AI同事”",
+          "url": "https://api3.cls.cn/share/article/2282197?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时14分]"
+        },
+        {
+          "title": "OpenAI推出新平台Frontier，助力企业部署“AI同事”",
+          "url": "https://wallstreetcn.com/livenews/3050813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        },
+        {
+          "title": "OpenAI创始人Altman：GPT-5.3-Codex来了！ 它拥有最佳编码性能，任务执行过程中的可操控性和实时更新功能，对于相同任务处理量，它仅需5.2-Codex一半的tokens，单 token处理速度提升25%以上，此外，它将能高效利用计算机资源。",
+          "url": "https://wallstreetcn.com/livenews/3050836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "财联社2月6日电，OpenAI首席执行官表示，GPT-5.3-Codex正式发布。完成同等任务所需令牌量较5.2-Codex减少超一半，单令牌处理速度提升超25%。",
+          "url": "https://api3.cls.cn/share/article/2282210?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
+          "url": "https://wallstreetcn.com/livenews/3050847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "美国财长贝森特：金融领域临时人工智能护栏的想法很有趣。",
+          "url": "https://flash.jin10.com/detail/20260205233500490800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
+        {
+          "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
+          "url": "https://wallstreetcn.com/livenews/3050826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：加拿大企业对人工智能的采用程度仍然很低。",
+          "url": "https://flash.jin10.com/detail/20260206012934439800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：人工智能的兴起有可能将经济推向更高轨道并提高生活水平；但迄今为止，几乎没有证据表明人工智能正在提高生产力。",
+          "url": "https://flash.jin10.com/detail/20260206012842466800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英特尔 高通",
       "match_count": 4,
       "titles": [
@@ -91,8 +257,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时14分]"
         },
         {
           "title": "高通(QCOM.O)首席执行官：这不是需求问题，也不是内存供应问题。",
@@ -127,84 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI推出新平台 助力企业部署“AI同事”",
-          "url": "https://api3.cls.cn/share/article/2282197?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时10分]"
-        },
-        {
-          "title": "OpenAI推出新平台Frontier，助力企业部署“AI同事”",
-          "url": "https://wallstreetcn.com/livenews/3050813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国财长贝森特：金融领域临时人工智能护栏的想法很有趣。",
-          "url": "https://flash.jin10.com/detail/20260205233500490800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：加拿大企业对人工智能的采用程度仍然很低。",
-          "url": "https://flash.jin10.com/detail/20260206012934439800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：人工智能的兴起有可能将经济推向更高轨道并提高生活水平；但迄今为止，几乎没有证据表明人工智能正在提高生产力。",
-          "url": "https://flash.jin10.com/detail/20260206012842466800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时10分"
         }
       ]
     },
@@ -248,8 +336,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时14分]"
         },
         {
           "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
@@ -259,8 +347,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时14分]"
         }
       ]
     },
@@ -277,8 +365,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时14分]"
         },
         {
           "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
@@ -288,8 +376,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时14分]"
         }
       ]
     },
@@ -302,11 +390,12 @@
           "url": "https://wallstreetcn.com/articles/3765006",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时14分]"
         },
         {
           "title": "台积电董事长与高市会面 宣布熊本厂直攻3纳米",
@@ -316,8 +405,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时14分]"
         }
       ]
     },
@@ -334,8 +423,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时14分]"
         }
       ]
     },
@@ -349,11 +438,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时14分]"
         }
       ]
     }
