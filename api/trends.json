@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T10:02:24.625926+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-02-05T12:27:25.290301+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -68,8 +68,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 12时27分]"
         },
         {
           "title": "【早报】央行部署2026年信贷市场工作；多只光伏概念股密集回应相关业务情况",
@@ -80,8 +80,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 10时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 12时27分]"
         },
         {
           "title": "【研选】马斯克团队近期“摸底”中国光伏产业链，太空光伏需求有望持续高增，分析师看好光伏设备供应商；第三方车载高压电源系统头部企业，迎来业绩高速增长通道",
@@ -119,13 +119,24 @@
           "time_info": "[07时28分 ~ 07时53分]"
         },
         {
+          "title": "A股异动丨提示风险，双良节能跌停，尚未开展太空光伏业务",
+          "url": "https://www.gelonghui.com/news/5168163",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "A股异动丨行业协会“泼冷水”，太空光伏股集体回调，金辰股份跌停，晶科能源跌超8%",
           "url": "https://www.gelonghui.com/news/5168135",
           "source": "格隆汇",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -136,9 +147,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "A股午评：创业板指跌1.94%，超3600股下跌，黄金、光伏股集体回调",
+          "url": "https://www.gelonghui.com/news/5168161",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "2月5日投资避雷针：双良节能、国晟科技等人气股密集澄清 目前未涉及太空光伏业务",
+          "url": "https://www.cls.cn/detail/2281035",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "A股太空光伏概念集体调整，钧达股份、金辰股份接近跌停，奥特维跌超10%，迈为股份、东方日升、晶盛机电、晶科能源跌超7%。",
@@ -147,7 +180,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -158,7 +191,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -169,9 +202,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "高测股份：目前尚未开展太空光伏相关业务，未与马斯克团队开展合作",
@@ -183,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "中国光伏行业协会：预计2026年中国光伏新增装机规模180-240GW",
+          "url": "https://wallstreetcn.com/livenews/3050290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         }
       ]
     },
@@ -356,6 +411,155 @@
       ]
     },
     {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "胡润中国500强非国有企业发布：台积电、腾讯、字节位列前三",
+          "url": "https://wallstreetcn.com/livenews/3050340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "评论：英伟达据报尚未接受对字节跳动出售H200晶片条件",
+          "url": "https://www.zaochenbao.com/news/opinion/202602/0564031.html",
+          "source": "早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "知情人士：台积电敲定日本熊本二厂量产3纳米芯片",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/02/05/bd084f193fe64ea08f3698d6bf82fd0f.html",
+          "source": "参考消息",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "知情人士：台积电拟在日投产3纳米先进制程",
+          "url": "https://flash.jin10.com/detail/20260205093330499800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
+          "url": "https://flash.jin10.com/detail/20260205051339983800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时33分 ~ 07时28分]"
+        },
+        {
+          "title": "台积电将在日本熊本生产3纳米芯片。（读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3050119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时28分 ~ 07时53分]"
+        },
+        {
+          "title": "据日本读卖新闻：台积电(TSM.N)在熊本工厂的投资将增至2.6万亿日元。",
+          "url": "https://flash.jin10.com/detail/20260205055427415800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 07时28分]"
+        },
+        {
+          "title": "据日本读卖新闻：台积电(TSM.N)将在日本熊本工厂生产3纳米芯片。",
+          "url": "https://flash.jin10.com/detail/20260205055402487800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 07时28分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)股价跌至一个多月来的低点，最新下跌3.8%。",
+          "url": "https://flash.jin10.com/detail/20260205020639695800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 03时58分]"
+        },
+        {
+          "title": "AMD跌幅扩大至16%，创2018年以来最大盘中跌幅。 应用材料跌6.4%，恐创2025年8月以来最大单日跌幅。 英伟达跌3%。 费城半导体指数跌4.1%。 标普500指数重新跌超0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3050006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "日本首相高市早苗将于日本时间11:00会见台积电CEO。",
+          "url": "https://wallstreetcn.com/livenews/3050212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "台积电(TSM.N)：将在熊本的第二座日本晶圆厂生产3纳米先进芯片。",
+          "url": "https://flash.jin10.com/detail/20260205112556420800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英特尔 高通",
       "match_count": 9,
       "titles": [
@@ -472,113 +676,8 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "知情人士：台积电拟在日投产3纳米先进制程",
-          "url": "https://flash.jin10.com/detail/20260205093330499800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
-          "url": "https://flash.jin10.com/detail/20260205051339983800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时33分 ~ 07时28分]"
-        },
-        {
-          "title": "台积电将在日本熊本生产3纳米芯片。（读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3050119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时28分 ~ 07时53分]"
-        },
-        {
-          "title": "据日本读卖新闻：台积电(TSM.N)在熊本工厂的投资将增至2.6万亿日元。",
-          "url": "https://flash.jin10.com/detail/20260205055427415800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时28分]"
-        },
-        {
-          "title": "据日本读卖新闻：台积电(TSM.N)将在日本熊本工厂生产3纳米芯片。",
-          "url": "https://flash.jin10.com/detail/20260205055402487800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时28分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)股价跌至一个多月来的低点，最新下跌3.8%。",
-          "url": "https://flash.jin10.com/detail/20260205020639695800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 03时58分]"
-        },
-        {
-          "title": "AMD跌幅扩大至16%，创2018年以来最大盘中跌幅。 应用材料跌6.4%，恐创2025年8月以来最大单日跌幅。 英伟达跌3%。 费城半导体指数跌4.1%。 标普500指数重新跌超0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3050006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "日本首相高市早苗将于日本时间11:00会见台积电CEO。",
-          "url": "https://wallstreetcn.com/livenews/3050212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "我国生成式人工智能用户规模达6.02亿人",
@@ -587,9 +686,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-05）",
+          "url": "https://flash.jin10.com/detail/20260205115645206800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "我国互联网普及率突破80%，生成式人工智能用户规模超6亿人",
@@ -598,7 +708,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -630,7 +740,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
@@ -644,8 +754,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时11分 ~ 10时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时11分 ~ 12时27分]"
         },
         {
           "title": "比亚迪德国市场销量暴增1,000%，进一步拉开与特斯拉差距",
@@ -682,12 +792,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 03时58分]"
+        },
+        {
+          "title": "大行评级丨里昂：预计今年中国互联网行业涨势延续，首选腾讯、小米和阿里等",
+          "url": "https://www.gelonghui.com/news/5168157",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         }
       ]
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国财长贝森特：金融稳定监管委员会（FSOC）在气候问题上的一切工作都是“败坏名声的”。",
@@ -703,6 +824,18 @@
           "time_info": "[03时14分 ~ 04时41分]"
         },
         {
+          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
+          "url": "https://www.cls.cn/detail/2281019",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 12时27分]"
+        },
+        {
           "title": "【焦点复盘】金融地产板块护盘拉升股指，算力产业链全天低迷，贵州茅台强势收复1500元大关",
           "url": "https://www.cls.cn/detail/2280411",
           "source": "财联社热门",
@@ -714,63 +847,21 @@
           "time_info": "[00时11分 ~ 00时13分]"
         },
         {
-          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
-          "url": "https://www.cls.cn/detail/2281019",
-          "source": "财联社热门",
+          "title": "【大佬持仓跟踪】算力+AI+业绩预增，创新研发算力服务平台可满足多种智算需求，产品落地300多个算力云边缘机房，这家公司合作伙伴包括阿里、腾讯、字节",
+          "url": "https://api3.cls.cn/share/article/2281273?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
-          "url": "https://flash.jin10.com/detail/20260205055519813800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时28分 ~ 07时53分]"
-        },
-        {
-          "title": "标普500指数初步收跌0.5%，科技板块跌1.8%，电信板块跌1.7%，可选消费板块跌1.2%，保健、房地产、原材料板块涨超1%，能源板块涨2.2%。 纳斯达克100指数初步收跌1.7%，成分股中，AMD初步收跌16.6%，Applovin跌16%，Palantir跌11.6%，美光科技、西部数据、核电股CEG、应用材料、希捷科技至少跌6%，Diamondback Energy则涨3.6%，安进涨8%。 耐克涨5.3%，3M涨5%，迪士尼涨3.1%，苹果涨2.7%，和安静领跑道指成分股，英伟达跌3.3%表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3050097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        },
-        {
-          "title": "评论：比亚迪1月份在德国销量同比暴增10倍",
-          "url": "https://www.zaochenbao.com/news/opinion/202602/0564015.html",
-          "source": "早报",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "12时27分"
         }
       ]
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "微创机器人-B(02252.HK)就申请建议实行H股全流通获证监会发出备案通知书",
@@ -796,6 +887,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅收窄至0.4%，此前一度跌超1.8%。地平线机器人、比亚迪股份、联想集团、理想汽车涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3050286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "人民日报刊文：商业航天何以“一飞冲天”",
+          "url": "https://www.cls.cn/detail/2280997",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 12时27分]"
+        },
+        {
+          "title": "总投资约10亿元 人民星云卫星大数据产业基地落地郑州",
+          "url": "https://api3.cls.cn/share/article/2281263?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "商业航天IPO竞速，券商资本悄然入局",
+          "url": "https://wallstreetcn.com/livenews/3050203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
+          "url": "https://flash.jin10.com/detail/20260205055519813800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时28分 ~ 07时53分]"
+        },
+        {
+          "title": "评论：比亚迪1月份在德国销量同比暴增10倍",
+          "url": "https://www.zaochenbao.com/news/opinion/202602/0564015.html",
+          "source": "早报",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 12时27分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.5%，科技板块跌1.8%，电信板块跌1.7%，可选消费板块跌1.2%，保健、房地产、原材料板块涨超1%，能源板块涨2.2%。 纳斯达克100指数初步收跌1.7%，成分股中，AMD初步收跌16.6%，Applovin跌16%，Palantir跌11.6%，美光科技、西部数据、核电股CEG、应用材料、希捷科技至少跌6%，Diamondback Energy则涨3.6%，安进涨8%。 耐克涨5.3%，3M涨5%，迪士尼涨3.1%，苹果涨2.7%，和安静领跑道指成分股，英伟达跌3.3%表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3050097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         }
       ]
     },
@@ -830,30 +1015,30 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 2,
       "titles": [
         {
-          "title": "人民日报刊文：商业航天何以“一飞冲天”",
-          "url": "https://www.cls.cn/detail/2280997",
-          "source": "财联社热门",
+          "title": "早盘收盘，国内期货主力合约跌多涨少，沪银跌近12%，碳酸锂跌近11%，铂跌超9%，沪锡跌超7%，钯跌超5%，BR橡胶、菜籽跌超4%，国际铜、沪铜跌超3%，焦煤、沪金、铁矿石跌超2%。涨幅方面，集运欧线涨超4%，燃料油、低硫燃料油、SC原油涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260205113057642800",
+          "source": "金十数据",
           "ranks": [
-            13
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "12时27分"
         },
         {
-          "title": "商业航天IPO竞速，券商资本悄然入局",
-          "url": "https://wallstreetcn.com/livenews/3050203",
+          "title": "碳酸锂期货主力合约盘中触及跌停，沪银主力合约跌超7%，铂主力合约跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3050289",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "12时27分"
         }
       ]
     },
@@ -868,7 +1053,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -879,7 +1064,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
@@ -914,9 +1099,43 @@
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 12时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "长安汽车联合宁德时代引入钠离子电池 2026年落地多款车型",
+          "url": "https://api3.cls.cn/share/article/2281265?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "12时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际首套、单机功率最大压缩空气储能压缩机研发取得突破",
+          "url": "https://api3.cls.cn/share/article/2281290?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         }
       ]
     },
@@ -951,7 +1170,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
