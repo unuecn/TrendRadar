@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T07:50:22.518106+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-02-06T10:02:11.313854+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "比特币 以太坊",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "币圈信仰崩塌？比特币一度失守7万关口 预测市场押注继续下挫",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时07分 ~ 07时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时07分 ~ 10时02分]"
         },
         {
           "title": "比特币跌破7万美元，超20万人爆仓",
@@ -25,11 +25,24 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时14分 ~ 07时50分]"
+          "appearance_count": 13,
+          "time_info": "[03时14分 ~ 10时02分]"
+        },
+        {
+          "title": "【早报】深夜，贵金属、原油、比特币全线重挫；八部门发文！事关中药工业高质量发展",
+          "url": "https://www.cls.cn/detail/2282271",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 10时02分]"
         },
         {
           "title": "财联社2月6日电，Strategy2025财年Q4净亏损为124亿美元，去年同期为净亏损6.708亿美元；持有713502枚比特币，总价值542.6亿美元。",
@@ -68,15 +81,16 @@
           "time_info": "[04时37分 ~ 04时38分]"
         },
         {
-          "title": "【早报】深夜，贵金属、原油、比特币全线重挫；八部门发文！事关中药工业高质量发展",
-          "url": "https://www.cls.cn/detail/2282271",
-          "source": "财联社热门",
+          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
+          "url": "https://wallstreetcn.com/articles/3765079",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 10时02分]"
         },
         {
           "title": "比特币向下跌破67000美元",
@@ -142,6 +156,28 @@
           "time_info": "[00时07分 ~ 01时25分]"
         },
         {
+          "title": "白银、科技股、比特币！华尔街哪里最拥挤 哪里踩踏就最惨烈……",
+          "url": "https://www.cls.cn/detail/2282354",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "黄金白银比特币暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%AF%94%E7%89%B9%E5%B8%81%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
           "title": "比特币跌穿6.7万美元。",
           "url": "https://wallstreetcn.com/livenews/3050779",
           "source": "华尔街见闻-快讯",
@@ -190,17 +226,6 @@
           "time_info": "[05时29分 ~ 05时55分]"
         },
         {
-          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
-          "url": "https://wallstreetcn.com/articles/3765079",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
           "title": "比特币向下跌破69000美元",
           "url": "https://api3.cls.cn/share/article/2282150?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -221,6 +246,126 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "比特币盘中一度跌至60033美元，逼近6万美元大关。",
+          "url": "https://wallstreetcn.com/livenews/3050976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "Anthropic发布擅长金融研究的新人工智能模型 金融服务股应声下跌",
+          "url": "https://api3.cls.cn/share/article/2282225?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时57分 ~ 05时29分]"
+        },
+        {
+          "title": "A股三大指数均跌超1%，贵金属、AI应用、油气、零售等方向跌幅居前，沪深京三市下跌个股近4500只。",
+          "url": "https://wallstreetcn.com/livenews/3051015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
+          "url": "https://wallstreetcn.com/livenews/3050847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 04时38分]"
+        },
+        {
+          "title": "AI应用端震荡下挫 遥望科技、浙文互联双双跌停",
+          "url": "https://api3.cls.cn/share/article/2282409?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "港股AI应用股走弱 MINIMAX跌近8%",
+          "url": "https://api3.cls.cn/share/article/2282390?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "美国财长贝森特：金融领域临时人工智能护栏的想法很有趣。",
+          "url": "https://flash.jin10.com/detail/20260205233500490800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
+        {
+          "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
+          "url": "https://wallstreetcn.com/livenews/3050826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：加拿大企业对人工智能的采用程度仍然很低。",
+          "url": "https://flash.jin10.com/detail/20260206012934439800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：人工智能的兴起有可能将经济推向更高轨道并提高生活水平；但迄今为止，几乎没有证据表明人工智能正在提高生产力。",
+          "url": "https://flash.jin10.com/detail/20260206012842466800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时10分"
         }
       ]
     },
@@ -331,85 +476,20 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "keyword_group": "美债 美股 美元",
       "match_count": 6,
       "titles": [
         {
-          "title": "Anthropic发布擅长金融研究的新人工智能模型 金融服务股应声下跌",
-          "url": "https://api3.cls.cn/share/article/2282225?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            7,
-            13
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时57分 ~ 05时29分]"
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
-        {
-          "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
-          "url": "https://wallstreetcn.com/livenews/3050847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 04时38分]"
-        },
-        {
-          "title": "美国财长贝森特：金融领域临时人工智能护栏的想法很有趣。",
-          "url": "https://flash.jin10.com/detail/20260205233500490800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
-          "url": "https://wallstreetcn.com/livenews/3050826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：加拿大企业对人工智能的采用程度仍然很低。",
-          "url": "https://flash.jin10.com/detail/20260206012934439800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：人工智能的兴起有可能将经济推向更高轨道并提高生活水平；但迄今为止，几乎没有证据表明人工智能正在提高生产力。",
-          "url": "https://flash.jin10.com/detail/20260206012842466800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 5,
-      "titles": [
         {
           "title": "AI恐慌蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
           "url": "https://wallstreetcn.com/articles/3765023",
@@ -417,7 +497,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -468,6 +548,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "存储芯片荒难解！惠普等PC大厂据称首次考虑中国大陆供应商",
+          "url": "https://www.cls.cn/detail/2281678",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 07时50分]"
+        },
+        {
+          "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
+          "url": "https://wallstreetcn.com/articles/3764989",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 04时38分]"
+        },
+        {
+          "title": "三星据悉将扩大用于HBM4的DRAM产能",
+          "url": "https://api3.cls.cn/share/article/2282285?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "“HBM之父”：到2038年HBF的存储需求将超越HBM",
+          "url": "https://api3.cls.cn/share/article/2282387?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "据媒体报道：三星将扩大用于HBM4的DRAM的产能。",
+          "url": "https://wallstreetcn.com/livenews/3050922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         }
       ]
     },
@@ -534,52 +675,111 @@
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "keyword_group": "苹果 比亚迪",
       "match_count": 4,
       "titles": [
         {
-          "title": "存储芯片荒难解！惠普等PC大厂据称首次考虑中国大陆供应商",
-          "url": "https://www.cls.cn/detail/2281678",
+          "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
+          "url": "https://www.cls.cn/detail/2281879",
           "source": "财联社热门",
           "ranks": [
-            2
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 06时28分]"
+        },
+        {
+          "title": "报道：苹果挤压虚拟健康教练计划",
+          "url": "https://wallstreetcn.com/livenews/3050916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 07时50分]"
+        },
+        {
+          "title": "苹果CEO库克发誓，要针对美国总统特朗普的移民问题向国会山展开游说。",
+          "url": "https://wallstreetcn.com/livenews/3050859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时57分 ~ 05时29分]"
+        },
+        {
+          "title": "评论：比亚迪市值蒸发600亿美元 显示中国电动车行业动荡加剧",
+          "url": "https://www.zaochenbao.com/news/opinion/202602/0664098.html",
+          "source": "早报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
+          "url": "https://wallstreetcn.com/articles/3765006",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时07分 ~ 07时50分]"
         },
         {
-          "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
-          "url": "https://wallstreetcn.com/articles/3764989",
-          "source": "华尔街见闻",
+          "title": "台积电董事长与高市会面 宣布熊本厂直攻3纳米",
+          "url": "https://www.zaochenbao.com/news/taiwan/202602/0564059.html",
+          "source": "早报",
           "ranks": [
-            5
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 04时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 07时50分]"
         },
         {
-          "title": "三星据悉将扩大用于HBM4的DRAM产能",
-          "url": "https://api3.cls.cn/share/article/2282285?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "全球最大矿业合并案告吹 英伟达新游戏显卡据传全面跳票 | 环球市场",
+          "url": "https://www.cls.cn/detail/2282311",
+          "source": "财联社热门",
           "ranks": [
-            5
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "据媒体报道：三星将扩大用于HBM4的DRAM的产能。",
-          "url": "https://wallstreetcn.com/livenews/3050922",
-          "source": "华尔街见闻-快讯",
+          "title": "台积电计划在日本量产3纳米晶片",
+          "url": "https://www.zaochenbao.com/news/taiwan/202602/0664086.html",
+          "source": "早报",
           "ranks": [
-            8
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         }
       ]
     },
@@ -627,46 +827,32 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 3,
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 2,
       "titles": [
         {
-          "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
-          "url": "https://www.cls.cn/detail/2281879",
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
           "source": "财联社热门",
           "ranks": [
             12,
-            11,
-            13
+            9,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时28分]"
+          "appearance_count": 5,
+          "time_info": "[06时59分 ~ 10时02分]"
         },
         {
-          "title": "报道：苹果挤压虚拟健康教练计划",
-          "url": "https://wallstreetcn.com/livenews/3050916",
-          "source": "华尔街见闻-快讯",
+          "title": "小马智行与摩尔线程达成战略合作，以国产AI算力加速中国自动驾驶规模化落地",
+          "url": "https://www.gelonghui.com/news/5168897",
+          "source": "格隆汇",
           "ranks": [
-            4,
-            13
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时50分]"
-        },
-        {
-          "title": "苹果CEO库克发誓，要针对美国总统特朗普的移民问题向国会山展开游说。",
-          "url": "https://wallstreetcn.com/livenews/3050859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时57分 ~ 05时29分]"
+          "time_info": "[10时01分 ~ 10时02分]"
         }
       ]
     },
@@ -682,11 +868,12 @@
             7,
             6,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时07分 ~ 07时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时07分 ~ 10时02分]"
         },
         {
           "title": "【焦点复盘】金融权重股午后护盘，沪指缩量震荡收十字星，太空光伏概念大面积退潮",
@@ -704,52 +891,36 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 2,
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
       "titles": [
         {
-          "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
-          "url": "https://wallstreetcn.com/articles/3765006",
-          "source": "华尔街见闻",
+          "title": "现货白银转涨，稍早一度跌超8%。 现货黄金日内跌幅收窄至0.5%，重返4750美元关口上方。",
+          "url": "https://wallstreetcn.com/livenews/3050994",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8,
-            7,
-            5,
-            4
+            15
           ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时07分 ~ 07时50分]"
-        },
-        {
-          "title": "台积电董事长与高市会面 宣布熊本厂直攻3纳米",
-          "url": "https://www.zaochenbao.com/news/taiwan/202602/0564059.html",
-          "source": "早报",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时07分 ~ 07时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "创新药 新药研发 临床三期",
       "match_count": 1,
       "titles": [
         {
-          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
-          "url": "https://www.cls.cn/detail/2282247",
-          "source": "财联社热门",
+          "title": "A股中药股开盘大涨，盘龙药业、特一药业竞价涨停，生物谷、粤万年青、陇神戎发涨超10%，大唐药业、新光药业、佛慈制药等多股高开，消息上，工信部等八部门印发《中药工业高质量发展实施方案（2026—2030年）》，推动一批中药创新药获批上市，新培育10个中成药大品种，推动一批医疗机构中药制剂转化为中药创新药。",
+          "url": "https://wallstreetcn.com/livenews/3051009",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            9
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时59分 ~ 07时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
@@ -774,6 +945,23 @@
       ]
     },
     {
+      "keyword_group": "量子科技 量子计算 量子通信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "量子科技持续发酵 德美化工涨停",
+          "url": "https://api3.cls.cn/share/article/2282412?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 1,
       "titles": [
@@ -789,6 +977,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时37分 ~ 05时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "碳酸锂主力合约日内跌幅达8%。",
+          "url": "https://wallstreetcn.com/livenews/3050991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     }
