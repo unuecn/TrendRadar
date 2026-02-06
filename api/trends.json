@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T03:14:04.047111+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-02-07T03:56:22.190864+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -113,7 +113,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股人工智能相关股多数上涨，超微电脑(SMCI.O)、Arm(ARM.O)大涨10%，AMD(AMD.O)涨超8%，英伟达(NVDA.O)涨超7%。",
@@ -131,22 +131,24 @@
           "url": "https://flash.jin10.com/detail/20260207023122582800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 03时56分]"
         },
         {
           "title": "Gen Digital首席执行官：由于人工智能的兴起，网络安全威胁正变得日益复杂。",
           "url": "https://flash.jin10.com/detail/20260207023110526800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 03时56分]"
         },
         {
           "title": "英伟达CEO黄仁勋：最担心的事情是人工智能的有效性。",
@@ -158,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "黄仁勋：人工智能领域的资本支出是合理且可持续的",
+          "url": "https://flash.jin10.com/detail/20260207032153127800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "美国银行：从轻资产模式转向重资产模式意味着所谓美股科技七巨头的主导地位面临“重大威胁”。 今年大型科技公司在人工智能领域的资本开支预计约为6700亿美元，相当于其现金流的96%，而2023年这一比例仅为40%。 不再是拥有最佳资产负债表的公司，也不再是进行大规模股票回购的公司。",
@@ -207,8 +220,19 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
         {
           "title": "英伟达涨幅扩大至5.9%，刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3051531",
@@ -293,81 +317,31 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时14分]"
-        },
-        {
-          "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时14分]"
-        },
-        {
-          "title": "财联社2月6日电，比特币价格涨破68000美元，延续了周四暴跌后的反弹势头。",
-          "url": "https://api3.cls.cn/share/article/2283499?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时12分]"
-        },
-        {
-          "title": "比特币涨超9%，刷新日高至69151.50美元，北京时间08:15还曾跌至60033美元——短时呈现出V形反转，随后逐步走高。",
-          "url": "https://wallstreetcn.com/livenews/3051539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "美元/加元日内跌幅达0.5%，报1.3643。 英镑兑美元涨0.5%，报1.3602。",
-          "url": "https://wallstreetcn.com/livenews/3051498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "比特币 以太坊",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
           "url": "https://wallstreetcn.com/articles/3765079",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 03时56分]"
+        },
+        {
+          "title": "比特币重返70,000美元上方 几乎收复周四全部失地",
+          "url": "https://api3.cls.cn/share/article/2283555?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "比特币概念股Strategy涨幅扩大至20%",
@@ -419,6 +393,118 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 03时56分]"
+        },
+        {
+          "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 03时14分]"
+        },
+        {
+          "title": "财联社2月6日电，比特币价格涨破68000美元，延续了周四暴跌后的反弹势头。",
+          "url": "https://api3.cls.cn/share/article/2283499?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时12分]"
+        },
+        {
+          "title": "比特币涨超9%，刷新日高至69151.50美元，北京时间08:15还曾跌至60033美元——短时呈现出V形反转，随后逐步走高。",
+          "url": "https://wallstreetcn.com/livenews/3051539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美元/加元日内跌幅达0.5%，报1.3643。 英镑兑美元涨0.5%，报1.3602。",
+          "url": "https://wallstreetcn.com/livenews/3051498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "港媒：中国机器人投资重点转向“大脑”研发",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/02/06/729fbab2c2584921a3a6c4d65f489ff1.html",
+          "source": "参考消息",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 03时56分]"
+        },
+        {
+          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 03时56分]"
+        },
+        {
+          "title": "苹果计划允许外部语音控制型人工智能聊天机器人接入CarPlay系统。",
+          "url": "https://api3.cls.cn/share/article/2283557?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
+          "url": "https://flash.jin10.com/detail/20260207032751728800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 3,
       "titles": [
@@ -439,11 +525,12 @@
           "url": "https://flash.jin10.com/detail/20260207023101423800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 03时56分]"
         },
         {
           "title": "据Politico：美国议员就移民与海关执法局追踪应用调查司法部，寻求获取司法部与苹果、谷歌的通信记录。",
@@ -470,8 +557,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时56分]"
         },
         {
           "title": "英伟达CEO黄仁勋：6年前出售的GPU正在涨价。",
@@ -487,34 +574,6 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "港媒：中国机器人投资重点转向“大脑”研发",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/02/06/729fbab2c2584921a3a6c4d65f489ff1.html",
-          "source": "参考消息",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时14分]"
-        },
-        {
-          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时14分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 2,
       "titles": [
@@ -524,11 +583,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 03时56分]"
         },
         {
           "title": "小米YU7 GT完成申报",
@@ -570,11 +630,12 @@
           "url": "https://www.cls.cn/detail/2282967",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 03时56分]"
         }
       ]
     },
@@ -590,8 +651,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 03时56分]"
         }
       ]
     }
