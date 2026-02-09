@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T10:09:27.556365+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-02-09T12:39:16.201778+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -54,11 +54,12 @@
           "url": "https://ckxxapp.ckxx.net/pages/2026/02/08/52f1e4febf9747f3ac5773ab91ae6a4b.html",
           "source": "参考消息",
           "ranks": [
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 10时09分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 12时39分]"
         },
         {
           "title": "成都人形机器人参与写春联活动",
@@ -78,9 +79,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 12时39分]"
         },
         {
           "title": "【电报解读】“机器人奇妙夜”擎天租上线“999元全民机器人体验计划”，机构称人形机器人量产推动下，上游材料将显著受益，这家公司联合智元成立合资企业，进军智能机器人领域",
@@ -95,13 +96,24 @@
           "time_info": "[00时31分 ~ 00时59分]"
         },
         {
+          "title": "阿里云计算入股自变量机器人科技公司",
+          "url": "https://wallstreetcn.com/livenews/3052056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "深圳集成电路、工业机器人等39种工业产品产量占全国比重超10%",
           "url": "https://api3.cls.cn/share/article/2284192?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
@@ -109,7 +121,7 @@
     },
     {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -129,9 +141,42 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "财联社2月9日电，阳光电源在互动平台表示，公司暂不涉及太空光伏产品。",
+          "url": "https://api3.cls.cn/share/article/2284343?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "A股午评：创业板指涨3.11%，超4400股上涨！光伏设备、AI硬件板块领涨",
+          "url": "https://www.gelonghui.com/news/5169708",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "阳光电源在互动平台表示，公司暂不涉及太空光伏产品。",
+          "url": "https://wallstreetcn.com/livenews/3052048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "光伏概念表现活跃 金晶科技涨停",
@@ -140,7 +185,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -151,7 +196,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -162,15 +207,87 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "A股CPO等算力硬件股延续强势，天孚通信大涨近10%，股价再创历史新高，天通股份、智立方、太辰光、杰普特等多股高开。",
+          "url": "https://wallstreetcn.com/livenews/3051975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "算力租赁概念延续强势 大位科技、恒润股份双双涨停",
+          "url": "https://api3.cls.cn/share/article/2284194?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "同有科技(300302.SZ)：公司产品已规模化应用于智算中心等应用场景",
+          "url": "https://www.gelonghui.com/news/5169669",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "创业板指涨逾3% 算力硬件、光伏等方向持续领涨",
+          "url": "https://api3.cls.cn/share/article/2284298?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "2月9日午间收评：创业板指半日涨超3%，算力硬件、光伏板块集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3052037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "创业板指涨超3%，深成指涨逾2%，沪指涨1.17%，CPO、光伏、算力硬件、影视、化工等板块涨幅居前，沪深京三市上涨个股超4500只。天孚通信、光库科技20cm涨停。",
+          "url": "https://wallstreetcn.com/livenews/3052026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "报道：苹果计划于2月23日当周向开发者发布iOS 26.4测试版",
@@ -216,6 +333,17 @@
           "time_info": "[00时31分 ~ 04时54分]"
         },
         {
+          "title": "古尔曼：未来几周苹果将密集推出新产品",
+          "url": "https://api3.cls.cn/share/article/2284335?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "马克・古尔曼：苹果计划于2月23日当周发布iOS 26.4测试版",
           "url": "https://api3.cls.cn/share/article/2283994?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -227,6 +355,141 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 01时36分]"
+        },
+        {
+          "title": "苹果最便宜新机要来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%96%B0%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
+          "url": "https://wallstreetcn.com/livenews/3051816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时54分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-09）",
+          "url": "https://flash.jin10.com/detail/20260209120019975800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "ETF午评 | CPO板块大爆发，创业板人工智能ETF大成涨7%",
+          "url": "https://www.gelonghui.com/news/5169713",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "AI应用端开盘大涨，荣信文化、中文在线、掌阅科技、海看股份、风语筑等多股竞价涨停，当虹科技涨超10%，消息面上，开源证券发布研报称，字节跳动在即梦平台上线Seedance2.0视频生成模型，引发AI产业界广泛测评与讨论，且实测效果惊艳。",
+          "url": "https://wallstreetcn.com/livenews/3051971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "AI应用端大幅高开 荣信文化等多股涨停",
+          "url": "https://api3.cls.cn/share/article/2284183?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "马斯克表示，特斯拉Semi卡车将于今年启动大规模量产。",
+          "url": "https://api3.cls.cn/share/article/2284016?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            4,
+            7,
+            9,
+            11,
+            12,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 06时27分]"
+        },
+        {
+          "title": "马斯克：特斯拉电动半挂卡车今年将开始大规模量产。",
+          "url": "https://flash.jin10.com/detail/20260209002305259800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            8,
+            9,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时28分 ~ 06时57分]"
+        },
+        {
+          "title": "华为哈勃入股大模型推理服务商趋境科技",
+          "url": "https://wallstreetcn.com/livenews/3052055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "太原多部门约谈MCN机构，重点整治针对小米、理想等车企的恶意贬损乱象",
+          "url": "https://wallstreetcn.com/livenews/3052023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         }
       ]
     },
@@ -263,11 +526,12 @@
           "url": "https://ckxxapp.ckxx.net/pages/2026/02/07/39c6d435c5654e52bc7ec0693dc3915c.html",
           "source": "参考消息",
           "ranks": [
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 10时09分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 12时39分]"
         },
         {
           "title": "比特币涨至71000美元，日内涨超2%。",
@@ -285,81 +549,48 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
       "match_count": 3,
       "titles": [
         {
-          "title": "A股CPO等算力硬件股延续强势，天孚通信大涨近10%，股价再创历史新高，天通股份、智立方、太辰光、杰普特等多股高开。",
-          "url": "https://wallstreetcn.com/livenews/3051975",
+          "title": "2026中国全固态电池产学研协同创新平台年会召开",
+          "url": "https://wallstreetcn.com/livenews/3051837",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5,
+            11,
+            14,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 05时52分]"
         },
         {
-          "title": "算力租赁概念延续强势 大位科技、恒润股份双双涨停",
-          "url": "https://api3.cls.cn/share/article/2284194?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "2026中国全固态电池产学研协同创新平台年会召开",
+          "url": "https://api3.cls.cn/share/article/2283999?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "同有科技(300302.SZ)：公司产品已规模化应用于智算中心等应用场景",
-          "url": "https://www.gelonghui.com/news/5169669",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
-          "url": "https://wallstreetcn.com/livenews/3051816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            28
+            10,
+            12,
+            15,
+            18,
+            20
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时54分]"
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
-          "title": "AI应用端开盘大涨，荣信文化、中文在线、掌阅科技、海看股份、风语筑等多股竞价涨停，当虹科技涨超10%，消息面上，开源证券发布研报称，字节跳动在即梦平台上线Seedance2.0视频生成模型，引发AI产业界广泛测评与讨论，且实测效果惊艳。",
-          "url": "https://wallstreetcn.com/livenews/3051971",
-          "source": "华尔街见闻-快讯",
+          "title": "突发！300亿固态电池概念股实控人拟变更为安徽省国资委|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2283952",
+          "source": "财联社热门",
           "ranks": [
-            9
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "AI应用端大幅高开 荣信文化等多股涨停",
-          "url": "https://api3.cls.cn/share/article/2284183?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "12时39分"
         }
       ]
     },
@@ -401,84 +632,65 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
       ]
     },
     {
-      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
+      "keyword_group": "创新药 新药研发 临床三期",
       "match_count": 2,
       "titles": [
         {
-          "title": "2026中国全固态电池产学研协同创新平台年会召开",
-          "url": "https://wallstreetcn.com/livenews/3051837",
-          "source": "华尔街见闻-快讯",
+          "title": "众生药业(002317.SZ)控股子公司一类创新药昂拉地韦项目两项 III 期临床试验获得顶线分析数据结果",
+          "url": "https://www.gelonghui.com/news/5169633",
+          "source": "格隆汇",
           "ranks": [
-            5,
-            11,
-            14,
-            26
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 05时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 06时57分]"
         },
         {
-          "title": "2026中国全固态电池产学研协同创新平台年会召开",
-          "url": "https://api3.cls.cn/share/article/2283999?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "超88亿美元！信达生物携手礼来，布局肿瘤免疫新药研发",
+          "url": "https://wallstreetcn.com/livenews/3052060",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            12,
-            15,
-            18,
-            20
+            5
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         }
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 2,
       "titles": [
         {
-          "title": "马斯克表示，特斯拉Semi卡车将于今年启动大规模量产。",
-          "url": "https://api3.cls.cn/share/article/2284016?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            4,
-            7,
-            9,
-            11,
-            12,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 06时27分]"
-        },
-        {
-          "title": "马斯克：特斯拉电动半挂卡车今年将开始大规模量产。",
-          "url": "https://flash.jin10.com/detail/20260209002305259800",
+          "title": "早盘收盘，国内期货主力合约涨跌互现。铂涨超10%，沪银涨超8%，钯涨超6%，沪锡涨超4%，沪金、碳酸锂涨超3%，烧碱涨超2%；跌幅方面，原木跌超2%，焦炭、焦煤、低硫燃料油（LU）跌超1%，沥青、生猪跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260209113053482800",
           "source": "金十数据",
           "ranks": [
-            1,
-            6,
-            8,
-            9,
-            12,
-            16
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "商品期货开盘，铂主力合约涨超9%，钯涨超7%，沪银涨超6%，碳酸锂涨超5%，沪金涨超4%，沪锡、国际铜、沪铜涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3051952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时28分 ~ 06时57分]"
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -533,19 +745,53 @@
       ]
     },
     {
-      "keyword_group": "创新药 新药研发 临床三期",
+      "keyword_group": "储能",
       "match_count": 1,
       "titles": [
         {
-          "title": "众生药业(002317.SZ)控股子公司一类创新药昂拉地韦项目两项 III 期临床试验获得顶线分析数据结果",
-          "url": "https://www.gelonghui.com/news/5169633",
+          "title": "登榜全球第二，海辰储能以三重优势叩响资本市场大门",
+          "url": "https://www.gelonghui.com/news/5169707",
           "source": "格隆汇",
           "ranks": [
-            15
+            12
           ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 06时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "夸克AI眼镜全系列升级：S1新增直播功能，G1推超级夜景模式",
+          "url": "https://wallstreetcn.com/livenews/3052041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月09日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股走势分化、保险、证券、消费电子、半导体、全线上扬",
+          "url": "https://flash.jin10.com/detail/20260209113302948800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         }
       ]
     },
@@ -569,19 +815,19 @@
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
       "match_count": 1,
       "titles": [
         {
-          "title": "商品期货开盘，铂主力合约涨超9%，钯涨超7%，沪银涨超6%，碳酸锂涨超5%，沪金涨超4%，沪锡、国际铜、沪铜涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3051952",
-          "source": "华尔街见闻-快讯",
+          "title": "我国首次完成脑机接口太空在轨验证",
+          "url": "https://api3.cls.cn/share/article/2284301?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            22
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "12时39分"
         }
       ]
     }
