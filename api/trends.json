@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T04:44:38.993247+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-02-11T05:42:06.913711+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "美股异动丨特斯拉一度涨近2%，马斯克称100万亿美元市值“并非不可能”",
+          "url": "https://www.gelonghui.com/news/5171083",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时42分]"
+        },
+        {
           "title": "财联社2月11日电，特斯拉500英里续航电动半挂卡车定价29万美元。",
           "url": "https://api3.cls.cn/share/article/2286456?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 02时01分]"
-        },
-        {
-          "title": "美股异动丨特斯拉一度涨近2%，马斯克称100万亿美元市值“并非不可能”",
-          "url": "https://www.gelonghui.com/news/5171083",
-          "source": "格隆汇",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 04时44分]"
         },
         {
           "title": "据汽车新闻网站Electrek：特斯拉(TSLA.O)500英里续航电动半挂卡车定价29万美元。",
@@ -165,8 +165,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时42分]"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
@@ -227,6 +227,46 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股三大指数收盘涨跌不一 存储、加密货币概念股跌幅居前",
+          "url": "https://api3.cls.cn/share/article/2286506?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 05时42分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 西部数据跌8%",
+          "url": "https://flash.jin10.com/detail/20260211050115262800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 05时42分]"
+        },
+        {
+          "title": "LME期铜收跌68美元，报13108美元/吨。 LME期铝收跌32美元，报3093美元/吨。 LME期锌收涨20美元，报3395美元/吨。 LME期铅收涨5美元，报1974美元/吨。 LME期镍收涨141美元，报17490美元/吨。 LME期锡收涨185美元，报49283美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3053194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时44分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 3,
       "titles": [
@@ -238,8 +278,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时42分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
@@ -251,8 +291,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时42分]"
         },
         {
           "title": "美媒：中国全力以赴发展人形机器人",
@@ -262,8 +302,48 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中芯国际2025年度收入创新高 折旧致毛利率承压 全年资本开支达81亿美元",
+          "url": "https://www.cls.cn/detail/2286255",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时42分]"
+        },
+        {
+          "title": "中芯国际：2025年第四季度净利润12.23亿元 同比增长23.2%",
+          "url": "https://www.cls.cn/detail/2286051",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时42分]"
+        },
+        {
+          "title": "中芯国际第四季度净利润12.2亿元，同比增长23.2%，26年资本开支预计与25年持平",
+          "url": "https://wallstreetcn.com/articles/3765405",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 05时42分]"
         }
       ]
     },
@@ -320,8 +400,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时42分]"
         },
         {
           "title": "1145亿市值！今年首个商业航天IPO落户科创板",
@@ -332,37 +412,36 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时42分]"
         }
       ]
     },
     {
-      "keyword_group": "中芯国际",
+      "keyword_group": "苹果 比亚迪",
       "match_count": 2,
       "titles": [
         {
-          "title": "中芯国际2025年度收入创新高 折旧致毛利率承压 全年资本开支达81亿美元",
-          "url": "https://www.cls.cn/detail/2286255",
-          "source": "财联社热门",
+          "title": "外媒：比亚迪起诉美政府要求退还加征关税",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/02/10/c84939418db0493e9184ff34ac6547ef.html",
+          "source": "参考消息",
           "ranks": [
-            4
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时42分]"
         },
         {
-          "title": "中芯国际：2025年第四季度净利润12.23亿元 同比增长23.2%",
-          "url": "https://www.cls.cn/detail/2286051",
-          "source": "财联社热门",
+          "title": "纳斯达克金龙中国指数初步收涨0.9%。 热门中概股里，理想初步收涨2.9%，比亚迪、阿里巴巴涨超2%，蔚来、小鹏、新东方、京东涨超1%，腾讯跌1.4%，美团跌2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3053240",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            8
+            7
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 04时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     },
@@ -378,26 +457,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 04时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "LME期铜收跌68美元，报13108美元/吨。 LME期铝收跌32美元，报3093美元/吨。 LME期锌收涨20美元，报3395美元/吨。 LME期铅收涨5美元，报1974美元/吨。 LME期镍收涨141美元，报17490美元/吨。 LME期锡收涨185美元，报49283美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3053194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时42分]"
         }
       ]
     },
@@ -414,8 +475,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时42分]"
         }
       ]
     },
@@ -438,23 +499,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "外媒：比亚迪起诉美政府要求退还加征关税",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/02/10/c84939418db0493e9184ff34ac6547ef.html",
-          "source": "参考消息",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 04时44分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
       "match_count": 1,
       "titles": [
@@ -466,8 +510,25 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普500指数初步收跌0.3%，电信、金融板块跌0.8%，科技板块跌0.6%。 纳斯达克100指数初步收跌0.5%，成分股中，西部数据跌8%，希捷科技跌5.8%，英特尔跌6.3%，Strategy跌3.7%，Datadog则涨13.8%。 安进初步收跌2.9%，沃尔玛跌1.8%，可口可乐跌1.4%，领跌道指成分股，Travelers Companies Inc.涨2.1%，迪士尼涨2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3053237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     }
