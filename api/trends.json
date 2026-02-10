@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T02:02:00.014009+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-02-11T03:39:29.362136+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "芝商所（CME）：新增现金结算期货合约，将纳入包括Alphabet、Meta、英伟达和特斯拉在内的50多只美国顶级个股。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -38,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         },
         {
           "title": "据汽车新闻网站Electrek：特斯拉(TSLA.O)500英里续航电动半挂卡车定价29万美元。",
@@ -92,7 +92,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -119,21 +119,43 @@
           "time_info": "00时39分"
         },
         {
+          "title": "财联社2月11日电，芝商所（CME）新增现金结算期货合约，将纳入包括Alphabet、Meta、英伟达和特斯拉在内的50多只美国顶级个股。",
+          "url": "https://api3.cls.cn/share/article/2286478?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
           "title": "特斯拉领导层最新变动：任命欧洲高管负责全球电动汽车销售",
           "url": "https://wallstreetcn.com/livenews/3053168",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "美国芝商所（CME）：计划于今年夏季开始推出个股期货。 新增现金结算期货合约，将纳入包括Alphabet、Meta、英伟达和特斯拉在内的50多只美国顶级个股。",
+          "url": "https://wallstreetcn.com/livenews/3053190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
@@ -143,19 +165,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时01分]"
-        },
-        {
-          "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
-          "url": "https://wallstreetcn.com/livenews/3053191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
@@ -164,9 +175,43 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
+          "url": "https://wallstreetcn.com/livenews/3053191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 03时39分]"
+        },
+        {
+          "title": "美联储洛根：如果人工智能带来的生产率提升来得较晚，经济可能比提前提升时更加过热。",
+          "url": "https://flash.jin10.com/detail/20260211024215900800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "美联储洛根：人工智能数据中心建设对电力的需求很大，但并没有想象中那么大。",
+          "url": "https://flash.jin10.com/detail/20260211024100542800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "美国商务部长卢特尼克：美国对人工智能芯片需求巨大，我们不希望采取任何阻碍其发展的措施。",
@@ -193,8 +238,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
@@ -202,11 +247,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         },
         {
           "title": "美媒：中国全力以赴发展人形机器人",
@@ -216,8 +262,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         }
       ]
     },
@@ -232,7 +278,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -243,7 +289,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -269,11 +315,12 @@
           "url": "https://www.cls.cn/detail/2286396",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         },
         {
           "title": "1145亿市值！今年首个商业航天IPO落户科创板",
@@ -283,8 +330,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         }
       ]
     },
@@ -300,19 +347,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         },
         {
           "title": "中芯国际：2025年第四季度净利润12.23亿元 同比增长23.2%",
           "url": "https://www.cls.cn/detail/2286051",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         }
       ]
     },
@@ -328,8 +376,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "LME期铜收跌68美元，报13108美元/吨。 LME期铝收跌32美元，报3093美元/吨。 LME期锌收涨20美元，报3395美元/吨。 LME期铅收涨5美元，报1974美元/吨。 LME期镍收涨141美元，报17490美元/吨。 LME期锡收涨185美元，报49283美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3053194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         }
       ]
     },
@@ -345,8 +410,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         }
       ]
     },
@@ -380,8 +445,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         }
       ]
     },
@@ -397,8 +462,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         }
       ]
     }
