@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T12:41:12.761433+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-02-11T14:08:50.494657+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股异动丨特斯拉一度涨近2%，马斯克称100万亿美元市值“并非不可能”",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "大行评级丨大摩：特斯拉太阳能制造布局具战略意义，目标价415美元",
+          "url": "https://www.gelonghui.com/news/5171218",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "财联社2月11日电，特斯拉500英里续航电动半挂卡车定价29万美元。",
@@ -126,7 +137,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -167,7 +178,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
@@ -221,11 +232,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 12时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时15分 ~ 14时08分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-11）",
@@ -234,7 +246,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -245,9 +257,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        },
+        {
+          "title": "字节跳动正在研发人工智能芯片 并与三星就芯片制造事宜进行谈判",
+          "url": "https://api3.cls.cn/share/article/2286892?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "美联储洛根：如果人工智能带来的生产率提升来得较晚，经济可能比提前提升时更加过热。",
@@ -297,7 +320,7 @@
     },
     {
       "keyword_group": "中芯国际",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中芯国际2025年度收入创新高 折旧致毛利率承压 全年资本开支达81亿美元",
@@ -333,30 +356,43 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时41分 ~ 12时41分]"
+          "appearance_count": 7,
+          "time_info": "[05时41分 ~ 14时08分]"
+        },
+        {
+          "title": "大行评级丨里昂：中芯国际去年第四季收入增长超过指引，评级“跑赢大市”",
+          "url": "https://www.gelonghui.com/news/5171217",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "中芯国际赵海军：中芯国际的存储器相关产品在涨价，BCD供不应求",
           "url": "https://wallstreetcn.com/livenews/3053430",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 14时08分]"
         },
         {
           "title": "中芯国际赵海军：预计今年月产能增量折合12英寸晶圆约4万片",
           "url": "https://wallstreetcn.com/livenews/3053428",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 14时08分]"
         },
         {
           "title": "中芯国际赵海军：与AI、存储、中高端应用相关订单增加",
@@ -398,6 +434,19 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
+          "url": "https://www.cls.cn/detail/2286520",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时37分 ~ 14时08分]"
+        },
+        {
           "title": "美股三大指数收盘涨跌不一 存储、加密货币概念股跌幅居前",
           "url": "https://www.gelonghui.com/news/5171133",
           "source": "格隆汇",
@@ -408,19 +457,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时39分 ~ 07时38分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
-          "url": "https://www.cls.cn/detail/2286520",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时37分 ~ 12时41分]"
         },
         {
           "title": "美股三大指数收盘涨跌不一 存储、加密货币概念股跌幅居前",
@@ -473,6 +509,79 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指横盘整理报收十字星，Seedance概念多股实现二连板，算力硬件端现高低切",
+          "url": "https://www.cls.cn/detail/2286019",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时38分]"
+        },
+        {
+          "title": "【金牌纪要库·风口会议】Seedance具有顶尖分镜设计与叙事能力，能够显著降低传统漫剧人力和算力成本，这些漫剧及影视企业有望大幅降本，另外，也有望为众多游戏行业带来颠覆性变化",
+          "url": "https://api3.cls.cn/share/article/2286817?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "算力租赁概念再度走强 南兴股份涨停",
+          "url": "https://api3.cls.cn/share/article/2286675?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "讯飞星火X2发布：基于全国产算力 、直面行业刚需硬核升级",
+          "url": "https://wallstreetcn.com/livenews/3053448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "消息人士：字节跳动自研AI芯片 与三星洽谈代工事宜",
+          "url": "https://flash.jin10.com/detail/20260211125408785800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "据路透援引消息人士，字节跳动正在研发一款AI芯片，并正与三星洽谈代工事宜，字节跳动计划今年生产10万至30万颗该款AI芯片。",
+          "url": "https://flash.jin10.com/detail/20260211124843503800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 6,
       "titles": [
@@ -483,11 +592,24 @@
           "ranks": [
             10,
             11,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 12时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 14时08分]"
+        },
+        {
+          "title": "杰富瑞将比亚迪A股评级从落后大盘上调至持有，目标价88元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3053420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 14时08分]"
         },
         {
           "title": "福特汽车全球销量首次落后于比亚迪",
@@ -512,24 +634,13 @@
           "time_info": "05时42分"
         },
         {
-          "title": "杰富瑞将比亚迪A股评级从落后大盘上调至持有，目标价88元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3053420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
           "title": "港股异动丨比亚迪股份盘中涨超4% 录得5连升 花旗予其“买入”评级看高至174港元",
           "url": "https://www.gelonghui.com/news/5171186",
           "source": "格隆汇",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -555,11 +666,12 @@
           "url": "https://wallstreetcn.com/livenews/3053431",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 14时08分]"
         },
         {
           "title": "中芯国际赵海军：HBM缺货将持续 但手机、电脑下行趋势三季度或反转",
@@ -568,7 +680,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -590,7 +702,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -604,6 +716,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "阿里巴巴发布具身智能大脑模型RynnBrain 进军机器人AI",
+          "url": "https://www.zaochenbao.com/news/china/202602/1064454.html",
+          "source": "早报",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 10时15分]"
+        },
+        {
+          "title": "美媒：中国全力以赴发展人形机器人",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/02/10/3a0b657592b34527aa2f6ffcbd863e8c.html",
+          "source": "参考消息",
+          "ranks": [
+            14,
+            15,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 14时08分]"
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
+          "url": "https://www.cls.cn/detail/2285961",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 06时39分]"
+        },
+        {
+          "title": "极智嘉（2590.HK）端到端无人仓方案推出, 人形机器人加速落地",
+          "url": "https://www.gelonghui.com/news/5171219",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "港股异动丨商汤一度涨超8%，获纳入MSCI中国指数+大晓机器人完成天使轮融资",
+          "url": "https://www.gelonghui.com/news/5171189",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
@@ -629,7 +808,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -651,7 +830,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -662,64 +841,48 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         }
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 4,
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 3,
       "titles": [
         {
-          "title": "阿里巴巴发布具身智能大脑模型RynnBrain 进军机器人AI",
-          "url": "https://www.zaochenbao.com/news/china/202602/1064454.html",
-          "source": "早报",
+          "title": "OpenAI创始人奥尔特曼：今天我们在ChatGPT中更新了GPT-5.2（即时模型）。虽然变化不大，但希望您觉得有所改进。",
+          "url": "https://flash.jin10.com/detail/20260211131557627800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 10时15分]"
-        },
-        {
-          "title": "美媒：中国全力以赴发展人形机器人",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/02/10/3a0b657592b34527aa2f6ffcbd863e8c.html",
-          "source": "参考消息",
-          "ranks": [
-            14,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 12时41分]"
-        },
-        {
-          "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
-          "url": "https://www.cls.cn/detail/2285961",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时39分]"
-        },
-        {
-          "title": "港股异动丨商汤一度涨超8%，获纳入MSCI中国指数+大晓机器人完成天使轮融资",
-          "url": "https://www.gelonghui.com/news/5171189",
-          "source": "格隆汇",
-          "ranks": [
-            12
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "14时08分"
+        },
+        {
+          "title": "OpenAI创始人Altman：今天我们在ChatGPT中更新了GPT-5.2（即时模型）。虽然变化不大，但希望您觉得有所改进。",
+          "url": "https://wallstreetcn.com/livenews/3053451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "韩国科学部长：OpenAI、三星和SK将于3月在韩国启动数据中心建设。",
+          "url": "https://flash.jin10.com/detail/20260211093843055800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         }
       ]
     },
@@ -807,35 +970,6 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【焦点复盘】沪指横盘整理报收十字星，Seedance概念多股实现二连板，算力硬件端现高低切",
-          "url": "https://www.cls.cn/detail/2286019",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时38分]"
-        },
-        {
-          "title": "算力租赁概念再度走强 南兴股份涨停",
-          "url": "https://api3.cls.cn/share/article/2286675?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "优必选 商汤 华大基因",
       "match_count": 2,
       "titles": [
@@ -846,7 +980,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -884,11 +1018,12 @@
           "url": "https://www.zaochenbao.com/news/Chronicles/202602/1164486.html",
           "source": "早报",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 14时08分]"
         }
       ]
     },
@@ -968,8 +1103,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时37分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[07时37分 ~ 14时08分]"
         }
       ]
     },
@@ -984,26 +1119,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国科学部长：OpenAI、三星和SK将于3月在韩国启动数据中心建设。",
-          "url": "https://flash.jin10.com/detail/20260211093843055800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "12时41分"
         }
       ]
     },
@@ -1018,7 +1136,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         }
