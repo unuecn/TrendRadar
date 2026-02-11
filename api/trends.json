@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T05:04:22.132570+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-02-12T05:59:11.112180+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时59分]"
         },
         {
           "title": "财联社2月11日电，白宫经济顾问哈塞特表示，人工智能的蓬勃发展可以推动生产力提升和经济增长。",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时03分 ~ 05时04分]"
+        },
+        {
+          "title": "思科(CSCO.O)：来自超大规模厂商的人工智能基础设施订单总额达21亿美元，反映出增长显著加速。",
+          "url": "https://flash.jin10.com/detail/20260212051118010800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 05时59分]"
         },
         {
           "title": "德国总理默茨：由于规则复杂，欧盟企业在人工智能领域落后。",
@@ -109,11 +120,12 @@
           "source": "财联社电报",
           "ranks": [
             3,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时03分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[04时03分 ~ 05时59分]"
         },
         {
           "title": "苹果(AAPL.O)股价短线小幅跳水，涨幅现收窄至1%以内。",
@@ -152,26 +164,141 @@
           "time_info": "[04时03分 ~ 05时04分]"
         },
         {
+          "title": "苹果新版Siri发布再遇阻：技术瓶颈导致功能推迟",
+          "url": "https://wallstreetcn.com/livenews/3053943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时59分]"
+        },
+        {
           "title": "古尔曼：苹果Siri升级陷僵局 部分功能或推迟至9月发布",
           "url": "https://flash.jin10.com/detail/20260212040119925800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
+          "url": "https://wallstreetcn.com/livenews/3053953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时59分]"
         },
         {
-          "title": "苹果新版Siri发布再遇阻：技术瓶颈导致功能推迟",
-          "url": "https://wallstreetcn.com/livenews/3053943",
+          "title": "芝加哥小麦期货涨超1.6%，纽约可可期货跌向3800美元",
+          "url": "https://wallstreetcn.com/livenews/3053947",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时59分]"
+        },
+        {
+          "title": "美股三大指数小幅收跌 热门科技股涨跌不一",
+          "url": "https://api3.cls.cn/share/article/2287782?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 05时59分]"
+        },
+        {
+          "title": "财联社2月12日电，美股AI应用软件股普跌，Shopify跌超12%回吐盘初涨幅，Atlassian、Reddit跌超6%，Adobe跌近3%。",
+          "url": "https://api3.cls.cn/share/article/2287740?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时03分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅下跌 美光科技涨近10%",
+          "url": "https://flash.jin10.com/detail/20260212050137995800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 05时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
+          "url": "https://www.cls.cn/detail/2287578",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时59分]"
+        },
+        {
+          "title": "边问边买，谷歌将AI购物功能嵌入搜索与Gemini",
+          "url": "https://wallstreetcn.com/livenews/3053878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "DeepSeek新模型来了？",
+          "url": "https://wallstreetcn.com/articles/3765514",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "05时59分"
+        },
+        {
+          "title": "边问边买 谷歌将AI购物功能嵌入搜索与Gemini",
+          "url": "https://api3.cls.cn/share/article/2287733?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         }
       ]
     },
@@ -226,46 +353,6 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
-          "url": "https://wallstreetcn.com/livenews/3053953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "芝加哥小麦期货涨超1.6%，纽约可可期货跌向3800美元",
-          "url": "https://wallstreetcn.com/livenews/3053947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "财联社2月12日电，美股AI应用软件股普跌，Shopify跌超12%回吐盘初涨幅，Atlassian、Reddit跌超6%，Adobe跌近3%。",
-          "url": "https://api3.cls.cn/share/article/2287740?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时03分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 3,
       "titles": [
@@ -278,19 +365,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时59分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
           "url": "https://wallstreetcn.com/articles/3765457",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时59分]"
         },
         {
           "title": "豫能控股：对先天算力增资金额预计不超过14亿元 不会合并先天算力财务报表",
@@ -306,47 +394,8 @@
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
-          "url": "https://www.cls.cn/detail/2287578",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时04分]"
-        },
-        {
-          "title": "边问边买，谷歌将AI购物功能嵌入搜索与Gemini",
-          "url": "https://wallstreetcn.com/livenews/3053878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "边问边买 谷歌将AI购物功能嵌入搜索与Gemini",
-          "url": "https://api3.cls.cn/share/article/2287733?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股异动丨特斯拉涨2.5%，大摩指特斯拉太阳能制造布局具战略意义",
@@ -356,8 +405,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时59分]"
         },
         {
           "title": "美国三大股指悉数转跌，道指跌超百点，纳指跌0.5%，半导体指数涨幅收窄至0.9%，生物科技指数跌0.9%，特斯拉跌0.4%。 纳斯达克金龙中国指数跌超1%。",
@@ -369,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.65%，报7834.34点。 热门中概股里，文远知行初步收跌5.5%，网易跌4%，百胜中国、百度、腾讯、阿里、美团跌超1%，小鹏则涨1.6%，理想涨1.8%，蔚来涨2.1%，比亚迪涨2.8%，小米涨3.9%。 ETF中，中概互联网指数ETF（KWEB）收跌0.61%，中国科技指数ETF（CQQQ）收跌0.15%。 德银嘉实沪深300指数ETF（ASHR）收跌0.06%，XtrackersHarvest中证50（ASHS）收涨0.43%。",
+          "url": "https://wallstreetcn.com/livenews/3053956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         }
       ]
     },
@@ -386,8 +446,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时59分]"
         }
       ]
     },
@@ -421,8 +481,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时59分]"
         }
       ]
     },
@@ -472,8 +532,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时59分]"
         }
       ]
     },
@@ -489,8 +549,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时59分]"
         }
       ]
     }
