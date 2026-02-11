@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T18:51:21.254377+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-02-11T19:44:45.611898+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股异动丨特斯拉一度涨近2%，马斯克称100万亿美元市值“并非不可能”",
@@ -195,12 +195,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "小米车主遭特斯拉车主别车辱骂",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%BD%A6%E4%B8%BB%E9%81%AD%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%88%AB%E8%BD%A6%E8%BE%B1%E9%AA%82%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
@@ -306,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        },
+        {
+          "title": "据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。",
+          "url": "https://flash.jin10.com/detail/20260211190914598800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "A股午评：沪指涨0.22%，有色金属、化工板块领涨，AI应用概念股回调",
@@ -638,6 +660,101 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指横盘整理报收十字星，Seedance概念多股实现二连板，算力硬件端现高低切",
+          "url": "https://www.cls.cn/detail/2286019",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时38分]"
+        },
+        {
+          "title": "【金牌纪要库·风口会议】Seedance具有顶尖分镜设计与叙事能力，能够显著降低传统漫剧人力和算力成本，这些漫剧及影视企业有望大幅降本，另外，也有望为众多游戏行业带来颠覆性变化",
+          "url": "https://api3.cls.cn/share/article/2286817?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "算力租赁概念再度走强 南兴股份涨停",
+          "url": "https://api3.cls.cn/share/article/2286675?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "讯飞星火X2发布：基于全国产算力 、直面行业刚需硬核升级",
+          "url": "https://wallstreetcn.com/livenews/3053448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "消息人士：字节跳动自研AI芯片 与三星洽谈代工事宜",
+          "url": "https://flash.jin10.com/detail/20260211125408785800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "据路透援引消息人士，字节跳动正在研发一款AI芯片，并正与三星洽谈代工事宜，字节跳动计划今年生产10万至30万颗该款AI芯片。",
+          "url": "https://flash.jin10.com/detail/20260211124843503800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "平治信息：拟定增募资不超过10亿元 用于国产智能算力中心建设项目",
+          "url": "https://api3.cls.cn/share/article/2287453?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "3连板大位科技：主营业务未发生重大变化 张北数据中心项目不涉及算力租赁业务",
+          "url": "https://api3.cls.cn/share/article/2287196?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 8,
       "titles": [
@@ -731,93 +848,96 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         }
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "苹果 比亚迪",
       "match_count": 7,
       "titles": [
         {
-          "title": "【焦点复盘】沪指横盘整理报收十字星，Seedance概念多股实现二连板，算力硬件端现高低切",
-          "url": "https://www.cls.cn/detail/2286019",
-          "source": "财联社热门",
+          "title": "外媒：比亚迪起诉美政府要求退还加征关税",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/02/10/c84939418db0493e9184ff34ac6547ef.html",
+          "source": "参考消息",
           "ranks": [
+            10,
             11,
-            12
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 14时08分]"
         },
         {
-          "title": "【金牌纪要库·风口会议】Seedance具有顶尖分镜设计与叙事能力，能够显著降低传统漫剧人力和算力成本，这些漫剧及影视企业有望大幅降本，另外，也有望为众多游戏行业带来颠覆性变化",
-          "url": "https://api3.cls.cn/share/article/2286817?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "算力租赁概念再度走强 南兴股份涨停",
-          "url": "https://api3.cls.cn/share/article/2286675?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "讯飞星火X2发布：基于全国产算力 、直面行业刚需硬核升级",
-          "url": "https://wallstreetcn.com/livenews/3053448",
+          "title": "杰富瑞将比亚迪A股评级从落后大盘上调至持有，目标价88元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3053420",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 14时08分]"
         },
         {
-          "title": "消息人士：字节跳动自研AI芯片 与三星洽谈代工事宜",
-          "url": "https://flash.jin10.com/detail/20260211125408785800",
-          "source": "金十数据",
+          "title": "福特汽车全球销量首次落后于比亚迪",
+          "url": "https://wallstreetcn.com/livenews/3053280",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "07时38分"
         },
         {
-          "title": "据路透援引消息人士，字节跳动正在研发一款AI芯片，并正与三星洽谈代工事宜，字节跳动计划今年生产10万至30万颗该款AI芯片。",
-          "url": "https://flash.jin10.com/detail/20260211124843503800",
-          "source": "金十数据",
+          "title": "纳斯达克金龙中国指数初步收涨0.9%。 热门中概股里，理想初步收涨2.9%，比亚迪、阿里巴巴涨超2%，蔚来、小鹏、新东方、京东涨超1%，腾讯跌1.4%，美团跌2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3053240",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "05时42分"
         },
         {
-          "title": "3连板大位科技：主营业务未发生重大变化 张北数据中心项目不涉及算力租赁业务",
-          "url": "https://api3.cls.cn/share/article/2287196?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "比亚迪宣布与曼城足球俱乐部达成深度战略合作，成为曼城足球俱乐部官方合作伙伴。",
+          "url": "https://wallstreetcn.com/livenews/3053686",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "港股异动丨比亚迪股份盘中涨超4% 录得5连升 花旗予其“买入”评级看高至174港元",
+          "url": "https://www.gelonghui.com/news/5171186",
+          "source": "格隆汇",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "12时41分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.87%，报7885.55点。 热门中概股里，理想初步收涨2.9%，比亚迪、阿里巴巴涨超2%，蔚来、小鹏、新东方、京东涨超1%，腾讯跌1.4%，美团跌2.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.09%，中国科技指数ETF（CQQQ）收跌0.13%。 德银嘉实沪深300指数ETF（ASHR）收跌0.21%，XtrackersHarvest中证50（ASHS）收跌0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3053240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时39分"
         }
       ]
     },
@@ -978,82 +1098,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "外媒：比亚迪起诉美政府要求退还加征关税",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/02/10/c84939418db0493e9184ff34ac6547ef.html",
-          "source": "参考消息",
-          "ranks": [
-            10,
-            11,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 14时08分]"
-        },
-        {
-          "title": "杰富瑞将比亚迪A股评级从落后大盘上调至持有，目标价88元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3053420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 14时08分]"
-        },
-        {
-          "title": "福特汽车全球销量首次落后于比亚迪",
-          "url": "https://wallstreetcn.com/livenews/3053280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.9%。 热门中概股里，理想初步收涨2.9%，比亚迪、阿里巴巴涨超2%，蔚来、小鹏、新东方、京东涨超1%，腾讯跌1.4%，美团跌2.8%。",
-          "url": "https://wallstreetcn.com/livenews/3053240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "港股异动丨比亚迪股份盘中涨超4% 录得5连升 花旗予其“买入”评级看高至174港元",
-          "url": "https://www.gelonghui.com/news/5171186",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.87%，报7885.55点。 热门中概股里，理想初步收涨2.9%，比亚迪、阿里巴巴涨超2%，蔚来、小鹏、新东方、京东涨超1%，腾讯跌1.4%，美团跌2.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.09%，中国科技指数ETF（CQQQ）收跌0.13%。 德银嘉实沪深300指数ETF（ASHR）收跌0.21%，XtrackersHarvest中证50（ASHS）收跌0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3053240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 5,
       "titles": [
@@ -1117,7 +1161,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：今天我们在ChatGPT中更新了GPT-5.2（即时模型）。虽然变化不大，但希望您觉得有所改进。",
@@ -1162,6 +1206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        },
+        {
+          "title": "DeepSeek更新 上下文达百万级token",
+          "url": "https://api3.cls.cn/share/article/2287436?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
@@ -1178,11 +1233,12 @@
             9,
             22,
             23,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时41分 ~ 18时51分]"
+          "appearance_count": 8,
+          "time_info": "[12时41分 ~ 19时44分]"
         },
         {
           "title": "美股三大指数集体高开，台积电涨超2%续刷新高",
@@ -1204,8 +1260,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时35分 ~ 18时51分]"
+          "appearance_count": 6,
+          "time_info": "[15时35分 ~ 19时44分]"
         }
       ]
     },
@@ -1437,11 +1493,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时37分 ~ 18时51分]"
+          "appearance_count": 11,
+          "time_info": "[07时37分 ~ 19时44分]"
         }
       ]
     },
@@ -1455,11 +1512,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时51分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 19时44分]"
         }
       ]
     },
