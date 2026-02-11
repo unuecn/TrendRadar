@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T10:15:18.841334+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-02-11T12:41:12.761433+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股异动丨特斯拉一度涨近2%，马斯克称100万亿美元市值“并非不可能”",
@@ -120,6 +120,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "大行评级丨高盛：上调金山云目标价至15.6美元，料受惠于小米持续对AI发展投资",
+          "url": "https://www.gelonghui.com/news/5171187",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "财联社2月11日电，芝商所（CME）新增现金结算期货合约，将纳入包括Alphabet、Meta、英伟达和特斯拉在内的50多只美国顶级个股。",
           "url": "https://api3.cls.cn/share/article/2286478?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -156,7 +167,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
@@ -188,7 +199,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -209,11 +220,34 @@
           "url": "https://www.cls.cn/detail/2286616",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 12时41分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-11）",
+          "url": "https://flash.jin10.com/detail/20260211114707238800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "12时41分"
+        },
+        {
+          "title": "A股午评：沪指涨0.22%，有色金属、化工板块领涨，AI应用概念股回调",
+          "url": "https://www.gelonghui.com/news/5171190",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "美联储洛根：如果人工智能带来的生产率提升来得较晚，经济可能比提前提升时更加过热。",
@@ -255,7 +289,105 @@
           "ranks": [
             27
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "中芯国际2025年度收入创新高 折旧致毛利率承压 全年资本开支达81亿美元",
+          "url": "https://www.cls.cn/detail/2286255",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 10时15分]"
+        },
+        {
+          "title": "中芯国际：2025年第四季度净利润12.23亿元 同比增长23.2%",
+          "url": "https://www.cls.cn/detail/2286051",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时38分]"
+        },
+        {
+          "title": "中芯国际第四季度净利润12.2亿元，同比增长23.2%，26年资本开支预计与25年持平",
+          "url": "https://wallstreetcn.com/articles/3765405",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时41分 ~ 12时41分]"
+        },
+        {
+          "title": "中芯国际赵海军：中芯国际的存储器相关产品在涨价，BCD供不应求",
+          "url": "https://wallstreetcn.com/livenews/3053430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "中芯国际赵海军：预计今年月产能增量折合12英寸晶圆约4万片",
+          "url": "https://wallstreetcn.com/livenews/3053428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "中芯国际赵海军：与AI、存储、中高端应用相关订单增加",
+          "url": "https://wallstreetcn.com/livenews/3053347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "中芯国际赵海军：2025年资本开支高于年初预期，主要是应对客户强劲需求",
+          "url": "https://wallstreetcn.com/livenews/3053340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "中芯国际赵海军：去年四季度淡季不淡，12英寸整体接近满载",
+          "url": "https://wallstreetcn.com/livenews/3053339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         }
@@ -283,11 +415,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 10时15分]"
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 12时41分]"
         },
         {
           "title": "美股三大指数收盘涨跌不一 存储、加密货币概念股跌幅居前",
@@ -340,84 +473,8 @@
       ]
     },
     {
-      "keyword_group": "中芯国际",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "中芯国际2025年度收入创新高 折旧致毛利率承压 全年资本开支达81亿美元",
-          "url": "https://www.cls.cn/detail/2286255",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 10时15分]"
-        },
-        {
-          "title": "中芯国际：2025年第四季度净利润12.23亿元 同比增长23.2%",
-          "url": "https://www.cls.cn/detail/2286051",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时38分]"
-        },
-        {
-          "title": "中芯国际第四季度净利润12.2亿元，同比增长23.2%，26年资本开支预计与25年持平",
-          "url": "https://wallstreetcn.com/articles/3765405",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时38分]"
-        },
-        {
-          "title": "中芯国际赵海军：与AI、存储、中高端应用相关订单增加",
-          "url": "https://wallstreetcn.com/livenews/3053347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "中芯国际赵海军：2025年资本开支高于年初预期，主要是应对客户强劲需求",
-          "url": "https://wallstreetcn.com/livenews/3053340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "中芯国际赵海军：去年四季度淡季不淡，12英寸整体接近满载",
-          "url": "https://wallstreetcn.com/livenews/3053339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "外媒：比亚迪起诉美政府要求退还加征关税",
@@ -425,11 +482,12 @@
           "source": "参考消息",
           "ranks": [
             10,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 10时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 12时41分]"
         },
         {
           "title": "福特汽车全球销量首次落后于比亚迪",
@@ -454,6 +512,28 @@
           "time_info": "05时42分"
         },
         {
+          "title": "杰富瑞将比亚迪A股评级从落后大盘上调至持有，目标价88元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3053420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "港股异动丨比亚迪股份盘中涨超4% 录得5连升 花旗予其“买入”评级看高至174港元",
+          "url": "https://www.gelonghui.com/news/5171186",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.87%，报7885.55点。 热门中概股里，理想初步收涨2.9%，比亚迪、阿里巴巴涨超2%，蔚来、小鹏、新东方、京东涨超1%，腾讯跌1.4%，美团跌2.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.09%，中国科技指数ETF（CQQQ）收跌0.13%。 德银嘉实沪深300指数ETF（ASHR）收跌0.21%，XtrackersHarvest中证50（ASHS）收跌0.30%。",
           "url": "https://wallstreetcn.com/livenews/3053240",
           "source": "华尔街见闻-快讯",
@@ -467,8 +547,130 @@
       ]
     },
     {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "中芯国际赵海军：HBM缺货将持续",
+          "url": "https://wallstreetcn.com/livenews/3053431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "中芯国际赵海军：HBM缺货将持续 但手机、电脑下行趋势三季度或反转",
+          "url": "https://api3.cls.cn/share/article/2286836?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "三星抹去2.3%的早盘跌幅，其首席技术官称该公司HBM4技术处于行业顶端。",
+          "url": "https://wallstreetcn.com/livenews/3053352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "三星称凭HBM4重回内存行业巅峰 计划本月量产",
+          "url": "https://flash.jin10.com/detail/20260211110836278800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "三星电子首席技术官称其HBM4技术处于行业顶端。",
+          "url": "https://wallstreetcn.com/livenews/3053332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "碳酸锂主力合约日内涨幅扩大至4.00%，现报143180元/吨。",
+          "url": "https://flash.jin10.com/detail/20260211094110735800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "金十期货·碳酸锂专题",
+          "url": "https://flash.jin10.com/detail/20260211114502809800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "碳酸锂主力合约日内涨幅扩大至3.00%，现报141960元/吨。",
+          "url": "https://flash.jin10.com/detail/20260211093657016800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少。碳酸锂、沪镍涨超4%，沪锡、铂、不锈钢（SS）、低硫燃料油（LU）、丙烯、菜粕涨超2%，丁二烯橡胶、20号胶、橡胶涨超1%；跌幅方面，集运欧线、玻璃小幅下跌。",
+          "url": "https://flash.jin10.com/detail/20260211113030279800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "碳酸锂主力合约涨超5%，现报144500元/吨。沪镍主力合约日内大涨4.00%，现报139350.00元/吨。",
+          "url": "https://flash.jin10.com/detail/20260211111104207800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "阿里巴巴发布具身智能大脑模型RynnBrain 进军机器人AI",
@@ -488,11 +690,12 @@
           "source": "参考消息",
           "ranks": [
             14,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 10时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 12时41分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
@@ -506,6 +709,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时39分 ~ 06时39分]"
+        },
+        {
+          "title": "港股异动丨商汤一度涨超8%，获纳入MSCI中国指数+大晓机器人完成天使轮融资",
+          "url": "https://www.gelonghui.com/news/5171189",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
@@ -547,7 +761,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         }
@@ -615,65 +829,66 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         }
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "keyword_group": "优必选 商汤 华大基因",
       "match_count": 2,
       "titles": [
         {
-          "title": "三星抹去2.3%的早盘跌幅，其首席技术官称该公司HBM4技术处于行业顶端。",
-          "url": "https://wallstreetcn.com/livenews/3053352",
-          "source": "华尔街见闻-快讯",
+          "title": "MSCI开启季度指数调整，商汤科技与宁德时代、腾讯同列中国指数",
+          "url": "https://www.gelonghui.com/news/5171188",
+          "source": "格隆汇",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "12时41分"
         },
         {
-          "title": "三星电子首席技术官称其HBM4技术处于行业顶端。",
-          "url": "https://wallstreetcn.com/livenews/3053332",
+          "title": "恒指高开0.23%，报27246.18点；恒生科技指数涨0.21%。腾讯音乐涨超3%，商汤涨超2%，哔哩哔哩、蔚来、快手等涨超1%；中芯国际跌2.4%，此前公布财报。",
+          "url": "https://wallstreetcn.com/livenews/3053342",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         }
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "keyword_group": "台积电 英伟达",
       "match_count": 2,
       "titles": [
         {
-          "title": "碳酸锂主力合约日内涨幅扩大至4.00%，现报143180元/吨。",
-          "url": "https://flash.jin10.com/detail/20260211094110735800",
-          "source": "金十数据",
+          "title": "美股三大指数集体高开，台积电涨超2%续刷新高",
+          "url": "https://www.gelonghui.com/news/5171080",
+          "source": "格隆汇",
           "ranks": [
-            8
+            14,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 06时39分]"
         },
         {
-          "title": "碳酸锂主力合约日内涨幅扩大至3.00%，现报141960元/吨。",
-          "url": "https://flash.jin10.com/detail/20260211093657016800",
-          "source": "金十数据",
+          "title": "美商务部长：英伟达须接受对华销售AI晶片限制",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202602/1164486.html",
+          "source": "早报",
           "ranks": [
-            12
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "12时41分"
         }
       ]
     },
@@ -688,7 +903,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -749,11 +964,29 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 10时15分]"
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 12时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "低空经济 eVTOL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【掘金行业龙头】染料+新材料+低空经济，多种产品用于染料生产，碳纤维树脂固化剂最终应用于波音、空客机型，这家公司参股企业飞行汽车正在研发中",
+          "url": "https://api3.cls.cn/share/article/2286810?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
@@ -768,9 +1001,26 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "量子科技 量子计算 量子通信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国量子计算公司PsiQuantum任命前AMD总裁彭文迪为临时CEO",
+          "url": "https://api3.cls.cn/share/article/2286833?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
@@ -803,7 +1053,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         }
@@ -820,44 +1070,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "优必选 商汤 华大基因",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恒指高开0.23%，报27246.18点；恒生科技指数涨0.21%。腾讯音乐涨超3%，商汤涨超2%，哔哩哔哩、蔚来、快手等涨超1%；中芯国际跌2.4%，此前公布财报。",
-          "url": "https://wallstreetcn.com/livenews/3053342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股三大指数集体高开，台积电涨超2%续刷新高",
-          "url": "https://www.gelonghui.com/news/5171080",
-          "source": "格隆汇",
-          "ranks": [
-            14,
-            15
-          ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时39分]"
+          "appearance_count": 1,
+          "time_info": "10时15分"
         }
       ]
     }
