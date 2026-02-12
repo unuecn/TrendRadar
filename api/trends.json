@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T05:33:33.629071+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-02-13T06:33:33.672326+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "Deepseek被指变冷淡了",
@@ -19,19 +19,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 05时33分]"
-        },
-        {
-          "title": "Yelp与OpenAI构建合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3054731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -44,6 +33,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时59分]"
+        },
+        {
+          "title": "Yelp与OpenAI构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3054731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时33分]"
         },
         {
           "title": "OpenAI推出首款搭载英伟达竞争对手Cerebras芯片的AI模型",
@@ -67,6 +68,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 03时58分]"
+        },
+        {
+          "title": "市场消息：OpenAI 正在发布 GPT-5.3-Codex-Spark 的研究预览版。",
+          "url": "https://flash.jin10.com/detail/20260213054809093800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -127,7 +139,7 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
@@ -137,19 +149,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时33分]"
+        },
+        {
+          "title": "比亚迪与吉利竞购日产位于墨西哥的工厂。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3054754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "美股收盘：三大指数收跌 苹果大跌5%",
           "url": "https://flash.jin10.com/detail/20260213050029671800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时33分]"
         },
         {
           "title": "苹果混合头显Vision Pro在上市两年后终于迎来YouTube官方应用",
@@ -211,6 +235,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "美股七巨头收盘播报｜苹果创4月份以来最差单日表现",
+          "url": "https://wallstreetcn.com/livenews/3054738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "美国联邦贸易委员会（FTC）主席Andrew N. Ferguson给苹果公司CEO库克发信。 该官员警告称，如果苹果错误地展示新闻服务Apple News、或违反其服务条款，该公司可能就违反FTC法令。",
           "url": "https://wallstreetcn.com/livenews/3054612",
           "source": "华尔街见闻-快讯",
@@ -235,8 +270,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "美国商业地产股重挫 人工智能恐慌进一步扩散",
@@ -299,6 +334,56 @@
       ]
     },
     {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "英伟达将租赁由38亿美元垃圾债券融资建设的数据中心",
+          "url": "https://flash.jin10.com/detail/20260213060904251800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "英伟达将租赁由38亿美元垃圾债融资建设的数据中心",
+          "url": "https://wallstreetcn.com/livenews/3054757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "财联社2月12日电，英伟达持仓概念股NEBIUS绩后低开高走，现转涨，此前一度跌超9%。",
+          "url": "https://api3.cls.cn/share/article/2288931?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        },
+        {
+          "title": "Anthropic：本轮融资还包含此前宣布的来自微软和英伟达的投资部分。",
+          "url": "https://flash.jin10.com/detail/20260213030246759800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 3,
       "titles": [
@@ -307,22 +392,24 @@
           "url": "https://wallstreetcn.com/livenews/3054725",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时33分]"
         },
         {
           "title": "芝加哥小麦期货涨超2.7%，纽约可可期货跌穿3700美元——较历史峰值回撤将近60%",
           "url": "https://wallstreetcn.com/livenews/3054720",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时33分]"
         },
         {
           "title": "LME期铜收跌291美元，报12876美元/吨。 LME期铝收跌3美元，报3100美元/吨。 LME期锌收跌32美元，报3374美元/吨。 LME期铅收跌16美元，报1978美元/吨。 LME期镍收跌452美元，报17428美元/吨。 LME期锡收涨28美元，报49663美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -350,8 +437,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "创业板涨超1%，算力硬件股全线大涨，恒科指跌超1%，智谱狂飙近30%、MINIMAX-WP暴涨15%，人民币升破6.9关口",
@@ -362,8 +449,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "再购110亿元服务器！协创数据去年逾200亿投入算力 但净利增速不及前两年|速读公告",
@@ -373,8 +460,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[01时59分 ~ 06时33分]"
         }
       ]
     },
@@ -387,11 +474,12 @@
           "url": "https://www.gelonghui.com/news/5172855",
           "source": "格隆汇",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "雷军公布小米机器人最新进展：兼具视觉语言理解与实时执行能力",
@@ -403,8 +491,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "中国人形机器人推广抢滩“春节档”",
@@ -414,8 +502,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时33分]"
         }
       ]
     },
@@ -431,8 +519,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "财联社2月12日电，美国参议院商业委员会批准了一项法案，旨在加快对新卫星发射项目的审批进程。",
@@ -463,6 +551,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "“特斯拉劲敌”Rivian四季度营收12.9亿美元，分析师预期12.6亿美元。 四季度每股亏损0.66美元，上年同期亏损0.70美元。 四季度调整后每股亏损0.54美元，分析师预期亏损0.69美元。 四季度车辆交付9,745辆，分析师预期9,964辆。 四季度产量10,974辆，分析师预期10,698辆。 预计2026年交付62,000-67,000辆，分析师预期63,402辆。 预计2026年调整后EBITDA亏损18亿-21亿美元，分析师预期亏损18亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3054729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时33分]"
+        },
+        {
           "title": "33岁男子开特斯拉跑货拉拉",
           "url": "https://s.weibo.com/weibo?q=%2333%E5%B2%81%E7%94%B7%E5%AD%90%E5%BC%80%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%91%E8%B4%A7%E6%8B%89%E6%8B%89%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -473,45 +573,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时59分]"
-        },
-        {
-          "title": "“特斯拉劲敌”Rivian四季度营收12.9亿美元，分析师预期12.6亿美元。 四季度每股亏损0.66美元，上年同期亏损0.70美元。 四季度调整后每股亏损0.54美元，分析师预期亏损0.69美元。 四季度车辆交付9,745辆，分析师预期9,964辆。 四季度产量10,974辆，分析师预期10,698辆。 预计2026年交付62,000-67,000辆，分析师预期63,402辆。 预计2026年调整后EBITDA亏损18亿-21亿美元，分析师预期亏损18亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3054729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "财联社2月12日电，英伟达持仓概念股NEBIUS绩后低开高走，现转涨，此前一度跌超9%。",
-          "url": "https://api3.cls.cn/share/article/2288931?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "Anthropic：本轮融资还包含此前宣布的来自微软和英伟达的投资部分。",
-          "url": "https://flash.jin10.com/detail/20260213030246759800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
         }
       ]
     },
@@ -524,11 +585,12 @@
           "url": "https://flash.jin10.com/detail/20260213043133216800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时33分]"
         },
         {
           "title": "欧洲央行管委Nagel：地缘政治问题可能会推高通胀。",
@@ -537,7 +599,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         }
@@ -555,8 +617,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时33分]"
         }
       ]
     },
@@ -572,8 +634,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时33分]"
         }
       ]
     }
