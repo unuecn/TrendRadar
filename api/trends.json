@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-14T19:46:13.488028+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-02-14T20:47:49.621634+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时10分 ~ 20时47分]"
+        },
         {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
           "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
@@ -19,8 +33,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时04分 ~ 19时46分]"
+          "appearance_count": 15,
+          "time_info": "[10时04分 ~ 20时47分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -34,21 +48,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时21分 ~ 19时46分]"
-        },
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://wallstreetcn.com/articles/3765730",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时10分 ~ 19时46分]"
+          "appearance_count": 14,
+          "time_info": "[12时21分 ~ 20时47分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -106,6 +107,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时35分 ~ 07时56分]"
+        },
+        {
+          "title": "财联社2月14日电，据报道，谷歌母公司Alphabet的首席执行官桑达尔·皮查伊和OpenAI的CEO Sam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://api3.cls.cn/share/article/2290433?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "陈婧：中国将迎来下一个DeepSeek时刻？",
@@ -181,12 +193,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://wallstreetcn.com/livenews/3055539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "财联社2月14日电，据报道，谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEO Sam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://api3.cls.cn/share/article/2290427?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "武汉：支持人工智能领域人才在汉创办OPC 最高资助100万元",
@@ -202,24 +236,13 @@
           "time_info": "[18时27分 ~ 19时46分]"
         },
         {
-          "title": "市场消息：英伟达首席执行官黄仁勋将不出席下周的印度人工智能峰会。",
-          "url": "https://flash.jin10.com/detail/20260214190015581800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
           "title": "财联社2月14日电，英伟达首席执行官黄仁勋下周将不出席印度人工智能峰会。",
           "url": "https://api3.cls.cn/share/article/2290408?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -230,7 +253,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -256,6 +279,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时56分 ~ 10时04分]"
+        },
+        {
+          "title": "市场消息：英伟达首席执行官黄仁勋将不出席下周的印度人工智能峰会。",
+          "url": "https://flash.jin10.com/detail/20260214190015581800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时47分]"
         },
         {
           "title": "据悉美国劳工部寻求加强员工人工智能培训。",
@@ -317,6 +352,17 @@
           "time_info": "[00时10分 ~ 00时11分]"
         },
         {
+          "title": "人工智能助力蛋白质“按需定制”",
+          "url": "https://api3.cls.cn/share/article/2290424?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "财联社2月13日电，人工智能初创企业Anthropic据称准备最早于今年上市。",
           "url": "https://api3.cls.cn/share/article/2289996?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -331,7 +377,7 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "台媒：台积电营收创单月历史新高",
@@ -445,6 +491,133 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时33分 ~ 07时56分]"
+        },
+        {
+          "title": "因“不可预见的情况”，英伟达CEO黄仁勋取消下周的印度AI峰会行程",
+          "url": "https://wallstreetcn.com/livenews/3055529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "评论：比亚迪吉利汽车据报入围竞购日产墨西哥厂终选名单",
+          "url": "https://www.zaochenbao.com/news/opinion/202602/1464714.html",
+          "source": "早报",
+          "ranks": [
+            4,
+            6,
+            17,
+            18,
+            23,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[12时21分 ~ 20时47分]"
+        },
+        {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时10分 ~ 07时31分]"
+        },
+        {
+          "title": "比亚迪、吉利或竞购墨西哥工厂再拓版图",
+          "url": "https://api3.cls.cn/share/article/2290436?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "财联社2月14日电，巴克莱13F报告显示，四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。减持英伟达、微软、摩根大通、百事、苹果。重仓英伟达、微软、苹果、亚马逊、谷歌A。",
+          "url": "https://api3.cls.cn/share/article/2290114?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 07时56分]"
+        },
+        {
+          "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
+          "url": "https://wallstreetcn.com/livenews/3055390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 07时56分]"
+        },
+        {
+          "title": "比亚迪、吉利或竞购墨西哥工厂，乘联分会崔东树：墨西哥为2025年中国汽车第一大出口国",
+          "url": "https://wallstreetcn.com/livenews/3055543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "财联社2月14日电，苹果和谷歌再次在针对美国专利审查政策的法庭挑战中败诉。",
+          "url": "https://api3.cls.cn/share/article/2290062?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 03时23分]"
+        },
+        {
+          "title": "给iPhone7配二手苹果表担心来路不正",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%99iPhone7%E9%85%8D%E4%BA%8C%E6%89%8B%E8%8B%B9%E6%9E%9C%E8%A1%A8%E6%8B%85%E5%BF%83%E6%9D%A5%E8%B7%AF%E4%B8%8D%E6%AD%A3%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "蚂蚁阿福下载量冲上苹果应用总榜第一",
+          "url": "https://wallstreetcn.com/livenews/3055432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         }
       ]
     },
@@ -459,11 +632,12 @@
           "ranks": [
             1,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时33分 ~ 19时46分]"
+          "appearance_count": 19,
+          "time_info": "[06时33分 ~ 20时47分]"
         },
         {
           "title": "美股三大指数收盘涨跌不一 热门科技股多数下跌",
@@ -545,101 +719,8 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "评论：比亚迪吉利汽车据报入围竞购日产墨西哥厂终选名单",
-          "url": "https://www.zaochenbao.com/news/opinion/202602/1464714.html",
-          "source": "早报",
-          "ranks": [
-            4,
-            6,
-            17,
-            18,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时21分 ~ 19时46分]"
-        },
-        {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时10分 ~ 07时31分]"
-        },
-        {
-          "title": "财联社2月14日电，巴克莱13F报告显示，四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。减持英伟达、微软、摩根大通、百事、苹果。重仓英伟达、微软、苹果、亚马逊、谷歌A。",
-          "url": "https://api3.cls.cn/share/article/2290114?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 07时56分]"
-        },
-        {
-          "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
-          "url": "https://wallstreetcn.com/livenews/3055390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时33分 ~ 07时56分]"
-        },
-        {
-          "title": "财联社2月14日电，苹果和谷歌再次在针对美国专利审查政策的法庭挑战中败诉。",
-          "url": "https://api3.cls.cn/share/article/2290062?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 03时23分]"
-        },
-        {
-          "title": "给iPhone7配二手苹果表担心来路不正",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%99iPhone7%E9%85%8D%E4%BA%8C%E6%89%8B%E8%8B%B9%E6%9E%9C%E8%A1%A8%E6%8B%85%E5%BF%83%E6%9D%A5%E8%B7%AF%E4%B8%8D%E6%AD%A3%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "蚂蚁阿福下载量冲上苹果应用总榜第一",
-          "url": "https://wallstreetcn.com/livenews/3055432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "卧安机器人(06600.HK)获纳入恒生综合指数成份股",
@@ -697,6 +778,17 @@
           "time_info": "[15时10分 ~ 16时32分]"
         },
         {
+          "title": "北航新研究登上《自然-通讯》，或让机器人具备人眼级视觉能力",
+          "url": "https://wallstreetcn.com/livenews/3055538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "跨界投入 腾笼换鸟 汽车企业加速布局机器人赛道",
           "url": "https://wallstreetcn.com/livenews/3055404",
           "source": "华尔街见闻-快讯",
@@ -722,8 +814,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时10分 ~ 19时46分]"
+          "appearance_count": 11,
+          "time_info": "[15时10分 ~ 20时47分]"
         },
         {
           "title": "中国卫星网络集团注册资本增至109亿元",
@@ -789,11 +881,12 @@
           "ranks": [
             7,
             10,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 19时46分]"
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 20时47分]"
         },
         {
           "title": "“特斯拉劲敌”Rivian涨28%，创2024年以来最大盘中涨幅。 该公司四季度营收12.9亿美元，高于分析师预期的12.7亿美元。",
@@ -818,11 +911,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时56分 ~ 19时46分]"
+          "appearance_count": 16,
+          "time_info": "[07时56分 ~ 20时47分]"
         },
         {
           "title": "财联社2月14日电，COMEX黄金期货收涨2.33%，报5063.8美元/盎司，本周累计上涨1.51%；COMEX白银期货收涨2.1%，报77.27美元/盎司，本周累计下跌0.33%。",
@@ -853,8 +947,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时21分 ~ 19时46分]"
+          "appearance_count": 14,
+          "time_info": "[12时21分 ~ 20时47分]"
         },
         {
           "title": "武汉：对人工智能OPC当年支持周期内使用算力服务费用的50％给予最高20万元补助",
@@ -881,11 +975,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时46分]"
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 20时47分]"
         }
       ]
     },
