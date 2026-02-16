@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T04:59:07.146404+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-02-17T05:37:01.966332+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时37分]"
         },
         {
           "title": "今年春晚，机器人刷屏了",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时37分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -41,8 +41,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时37分]"
+        },
+        {
+          "title": "宇树机器人今年央视春晚表演武术",
+          "url": "https://www.zaochenbao.com/news/china/202602/1664854.html",
+          "source": "早报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时37分]"
+        },
+        {
+          "title": "英国将收紧AI监管 强制聊天机器人遵守在线安全法案",
+          "url": "https://www.zaochenbao.com/news/politics/202602/1664848.html",
+          "source": "早报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时37分]"
         },
         {
           "title": "马年春晚带动机器人卖爆了：机器人搜索量环比增长超300%",
@@ -61,28 +83,6 @@
           "time_info": "[00时06分 ~ 04时59分]"
         },
         {
-          "title": "宇树机器人今年央视春晚表演武术",
-          "url": "https://www.zaochenbao.com/news/china/202602/1664854.html",
-          "source": "早报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时59分]"
-        },
-        {
-          "title": "英国将收紧AI监管 强制聊天机器人遵守在线安全法案",
-          "url": "https://www.zaochenbao.com/news/politics/202602/1664848.html",
-          "source": "早报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时59分]"
-        },
-        {
           "title": "张万森 下机器人了",
           "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%20%E4%B8%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%86&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -93,8 +93,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 03时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时10分 ~ 05时37分]"
         },
         {
           "title": "马年春晚带动机器人卖爆了：机器人搜索量环比增长超300%",
@@ -146,21 +146,122 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 6,
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 9,
       "titles": [
         {
-          "title": "苹果发力视频播客：正面挑战YouTube和Spotify",
-          "url": "https://wallstreetcn.com/livenews/3055825",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
+            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 04时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时37分]"
         },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时37分]"
+        },
+        {
+          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时37分]"
+        },
+        {
+          "title": "财联社2月17日电，OpenAI目前正遭遇某些问题，购物搜索功能宕机。",
+          "url": "https://api3.cls.cn/share/article/2291022?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 05时37分]"
+        },
+        {
+          "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
+          "url": "https://api3.cls.cn/share/article/2290971?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            11,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 03时53分]"
+        },
+        {
+          "title": "OpenAI：系统（恢复）全面运作。",
+          "url": "https://wallstreetcn.com/livenews/3055842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
+          "url": "https://flash.jin10.com/detail/20260216233255611800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 01时11分]"
+        },
+        {
+          "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
+          "url": "https://flash.jin10.com/detail/20260217050055263800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 05时37分]"
+        },
+        {
+          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
+          "url": "https://wallstreetcn.com/livenews/3055834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 6,
+      "titles": [
         {
           "title": "财联社2月17日电，苹果公司推出Apple Podcasts上的新视频podcast体验。",
           "url": "https://api3.cls.cn/share/article/2291014?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -168,11 +269,25 @@
           "ranks": [
             2,
             5,
-            6
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 05时37分]"
+        },
+        {
+          "title": "苹果发力视频播客：正面挑战YouTube和Spotify",
+          "url": "https://wallstreetcn.com/livenews/3055825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[03时10分 ~ 04时59分]"
+          "time_info": "[03时10分 ~ 05时37分]"
         },
         {
           "title": "苹果革新视频播客功能，顺应行业视觉化浪潮",
@@ -180,11 +295,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[04时31分 ~ 05时37分]"
         },
         {
           "title": "财联社2月16日电，苹果公司将于3月4日在纽约举行产品发布会。",
@@ -223,71 +339,44 @@
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 5,
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 3,
       "titles": [
         {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
+          "title": "据法新社：法国总统马克龙周二将开始对印度为期三天的访问，重点讨论人工智能合作以及可能达成的数十亿美元达索猎鹰战斗机交易。",
+          "url": "https://flash.jin10.com/detail/20260217051608443800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时59分]"
-        },
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/articles/3765786",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时59分]"
-        },
-        {
-          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时59分]"
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 05时37分]"
         },
         {
-          "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
-          "url": "https://api3.cls.cn/share/article/2290971?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
+          "url": "https://www.cls.cn/detail/2290485",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            11,
-            15,
-            19
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时03分]"
         },
         {
-          "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
-          "url": "https://flash.jin10.com/detail/20260216233255611800",
+          "title": "高盛：人工智能基建热潮引爆亚洲股市，对冲基金扫货力度创近十年之最",
+          "url": "https://flash.jin10.com/detail/20260217010521987800",
           "source": "金十数据",
           "ranks": [
-            7,
-            22
+            11,
+            22,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时11分]"
+          "time_info": "[02时03分 ~ 03时53分]"
         }
       ]
     },
@@ -322,37 +411,6 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
-          "url": "https://www.cls.cn/detail/2290485",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时03分]"
-        },
-        {
-          "title": "高盛：人工智能基建热潮引爆亚洲股市，对冲基金扫货力度创近十年之最",
-          "url": "https://flash.jin10.com/detail/20260217010521987800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 03时53分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
       "match_count": 2,
       "titles": [
@@ -364,8 +422,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时37分]"
         },
         {
           "title": "与英伟达争夺印度市场份额：AMD与塔塔咨询服务合作",
@@ -374,11 +432,12 @@
           "ranks": [
             6,
             14,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时03分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[02时03分 ~ 05时37分]"
         }
       ]
     },
@@ -393,11 +452,12 @@
           "ranks": [
             1,
             9,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时03分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[02时03分 ~ 05时37分]"
         }
       ]
     },
@@ -413,8 +473,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时37分]"
         }
       ]
     }
