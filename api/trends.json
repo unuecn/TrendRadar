@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T17:41:08.130228+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-02-20T18:37:49.177788+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时39分 ~ 17时41分]"
+          "appearance_count": 15,
+          "time_info": "[03时39分 ~ 18时37分]"
         },
         {
           "title": "速腾聚创预计首次实现单季度盈利6000万 机器人业务超预期兑现盈利预期",
@@ -66,11 +66,12 @@
             20,
             22,
             25,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时53分 ~ 17时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 18时37分]"
         },
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -81,8 +82,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 17时41分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 18时37分]"
+        },
+        {
+          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
+          "url": "https://wallstreetcn.com/articles/3765892",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 18时37分]"
         },
         {
           "title": "港股异动丨春晚机器人出圈，相关概念股集体大涨，优必选涨近9%",
@@ -98,17 +111,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时27分 ~ 16时40分]"
-        },
-        {
-          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
-          "url": "https://wallstreetcn.com/articles/3765892",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，机器人延续涨势",
@@ -277,7 +279,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "港股异动丨AI应用股集体走强，五一视界、MINIMAX-WP涨超5%",
@@ -442,6 +444,17 @@
           "time_info": "[07时30分 ~ 07时56分]"
         },
         {
+          "title": "印度总理莫迪：在与联合国秘书长古特雷斯的会议中，我们讨论了如何让人工智能更加包容，以及联合国在这方面可以发挥的建设性作用。",
+          "url": "https://flash.jin10.com/detail/20260220175614458800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "港股AI应用股走强 海致科技集团涨15%",
           "url": "https://api3.cls.cn/share/article/2291963?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -478,7 +491,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -492,17 +505,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时53分 ~ 10时06分]"
-        },
-        {
-          "title": "财联社2月20日电，谷歌美股盘前涨1.5%。消息面上，公司此前发布Gemini 3.1 Pro，核心推理性能直接翻倍。",
-          "url": "https://api3.cls.cn/share/article/2292088?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
         },
         {
           "title": "财联社2月20日电，Applovin盘后涨超4%。有消息称OpenAI拟与Applovin展开合作，通过广告实现商业化。",
@@ -526,6 +528,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 01时51分]"
+        },
+        {
+          "title": "财联社2月20日电，谷歌美股盘前涨1.5%。消息面上，公司此前发布Gemini 3.1 Pro，核心推理性能直接翻倍。",
+          "url": "https://api3.cls.cn/share/article/2292088?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 18时37分]"
         },
         {
           "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
@@ -554,6 +568,18 @@
           "time_info": "[02时51分 ~ 04时32分]"
         },
         {
+          "title": "谷歌美股盘前涨超1%，此前发布Gemini 3.1 Pro，核心推理性能直接翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3056911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 18时37分]"
+        },
+        {
           "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
           "url": "https://wallstreetcn.com/livenews/3056737",
           "source": "华尔街见闻-快讯",
@@ -578,17 +604,6 @@
           "time_info": "[10时06分 ~ 12时27分]"
         },
         {
-          "title": "谷歌美股盘前涨超1%，此前发布Gemini 3.1 Pro，核心推理性能直接翻倍。",
-          "url": "https://wallstreetcn.com/livenews/3056911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
           "title": "OpenAI称将“睁着一只眼睡觉” 全力确保芯片供应",
           "url": "https://flash.jin10.com/detail/20260220071214744800",
           "source": "金十数据",
@@ -600,6 +615,17 @@
           "time_info": "07时56分"
         },
         {
+          "title": "财联社2月20日电，AI应用股Applovin美股盘前涨超6%。消息面上，公司拟与OpenAI展开合作，通过广告实现商业化。",
+          "url": "https://api3.cls.cn/share/article/2292094?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "谷歌Gemini3.1Pro正式发布",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8CGemini3.1Pro%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -609,6 +635,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“这很难，但我相信你们”！黄仁勋上周宴请SK海力士工程师，亲自敬酒，敦促“无延迟交付HBM4”",
+          "url": "https://wallstreetcn.com/articles/3765865",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 10时06分]"
+        },
+        {
+          "title": "“存储荒”愈演愈烈！三星HBM4据称涨价30% 韩国“芯片双雄”积极扩产",
+          "url": "https://www.cls.cn/detail/2291781",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 18时37分]"
+        },
+        {
+          "title": "三星电子股价飙至历史新高！报道：公司HBM4芯片拟大幅提价30%",
+          "url": "https://wallstreetcn.com/articles/3765873",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     },
@@ -677,41 +749,6 @@
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“这很难，但我相信你们”！黄仁勋上周宴请SK海力士工程师，亲自敬酒，敦促“无延迟交付HBM4”",
-          "url": "https://wallstreetcn.com/articles/3765865",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 10时06分]"
-        },
-        {
-          "title": "“存储荒”愈演愈烈！三星HBM4据称涨价30% 韩国“芯片双雄”积极扩产",
-          "url": "https://www.cls.cn/detail/2291781",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时53分 ~ 17时41分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
       "match_count": 2,
       "titles": [
@@ -723,8 +760,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 17时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 18时37分]"
         },
         {
           "title": "美股三大指数集体收涨，英伟达、奈飞、亚马逊涨超1%",
@@ -846,6 +883,23 @@
       ]
     },
     {
+      "keyword_group": "鸿蒙 OpenHarmony 昇腾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科技汽车就选鸿蒙智行",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E6%B1%BD%E8%BD%A6%E5%B0%B1%E9%80%89%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 1,
       "titles": [
@@ -875,8 +929,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时53分 ~ 17时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 18时37分]"
         }
       ]
     },
@@ -896,8 +950,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 17时41分]"
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 18时37分]"
         }
       ]
     }
