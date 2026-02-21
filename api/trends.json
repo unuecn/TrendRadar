@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T19:46:32.109643+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-02-21T20:47:05.108647+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
@@ -138,8 +138,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时01分 ~ 19时46分]"
+          "appearance_count": 32,
+          "time_info": "[00时01分 ~ 20时47分]"
         },
         {
           "title": "国际人形机器人论坛探讨机器人应用发展趋势",
@@ -167,11 +167,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时01分 ~ 19时46分]"
+          "appearance_count": 32,
+          "time_info": "[00时01分 ~ 20时47分]"
         },
         {
           "title": "马年春晚机器人让外国网民“破防”：“西方仍处于中世纪”",
@@ -180,9 +181,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时46分 ~ 20时47分]"
         },
         {
           "title": "国际人形机器人论坛探讨机器人应用发展趋势",
@@ -200,67 +201,8 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
-          "url": "https://wallstreetcn.com/livenews/3057134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7,
-            13,
-            24,
-            26,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 15时07分]"
-        },
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 19时46分]"
-        },
-        {
-          "title": "OpenAI下调算力支出目标至6000亿美元 推进新一轮巨额融资",
-          "url": "https://api3.cls.cn/share/article/2292254?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 12时09分]"
-        },
-        {
-          "title": "谷歌公司探索多种方法，从而为自家AI芯片扩大市场。 谷歌考虑将TPU部门重组为一个单独的部门，但还没有相应的计划。 谷歌洽谈对初创公司FluidStack投资大约1亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3057039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克称星舰每年将发射超过1万颗卫星",
@@ -296,17 +238,40 @@
           "time_info": "[12时09分 ~ 16时31分]"
         },
         {
+          "title": "SpaceX：猎鹰9号火箭发射25颗星链卫星",
+          "url": "https://wallstreetcn.com/livenews/3057192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "SpaceX：确认最新部署25颗星链卫星。",
           "url": "https://flash.jin10.com/detail/20260221181048907800",
           "source": "金十数据",
           "ranks": [
             8,
             16,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 19时46分]"
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 20时47分]"
+        },
+        {
+          "title": "财联社2月21日电，SpaceX表示，猎鹰9号火箭从加州发射了25颗星链卫星。",
+          "url": "https://api3.cls.cn/share/article/2292366?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
         },
         {
           "title": "马斯克称星舰每年将发射超过1万颗卫星",
@@ -318,6 +283,66 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时25分 ~ 20时47分]"
+        },
+        {
+          "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3057134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            13,
+            24,
+            26,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时29分 ~ 15时07分]"
+        },
+        {
+          "title": "OpenAI下调算力支出目标至6000亿美元 推进新一轮巨额融资",
+          "url": "https://api3.cls.cn/share/article/2292254?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 12时09分]"
+        },
+        {
+          "title": "谷歌公司探索多种方法，从而为自家AI芯片扩大市场。 谷歌考虑将TPU部门重组为一个单独的部门，但还没有相应的计划。 谷歌洽谈对初创公司FluidStack投资大约1亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3057039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时48分"
         }
       ]
     },
@@ -368,6 +393,46 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时09分 ~ 14时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "今年以来港股市场回购金额超254亿港元 腾讯、小米等集中回购",
+          "url": "https://wallstreetcn.com/livenews/3057190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "没有方向盘、没有脚踏板，特斯拉新车来了",
+          "url": "https://www.cls.cn/detail/2292285",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时46分 ~ 20时47分]"
+        },
+        {
+          "title": "今年以来港股市场回购金额超254亿港元 腾讯、小米等集中回购",
+          "url": "https://api3.cls.cn/share/article/2292369?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
         }
       ]
     },
@@ -503,25 +568,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时01分 ~ 19时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "没有方向盘、没有脚踏板，特斯拉新车来了",
-          "url": "https://www.cls.cn/detail/2292285",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
+          "appearance_count": 32,
+          "time_info": "[00时01分 ~ 20时47分]"
         }
       ]
     },
@@ -541,8 +589,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时01分 ~ 19时46分]"
+          "appearance_count": 32,
+          "time_info": "[00时01分 ~ 20时47分]"
         }
       ]
     }
