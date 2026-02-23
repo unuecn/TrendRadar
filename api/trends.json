@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T00:14:34.646796+08:00",
-  "total_titles_processed": 227,
+  "generated_at": "2026-02-24T01:38:44.086974+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
+          "url": "https://www.cls.cn/detail/2292720",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 01时38分]"
+        },
+        {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
           "url": "https://www.cls.cn/detail/2292433",
           "source": "财联社热门",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
-          "url": "https://www.cls.cn/detail/2292720",
-          "source": "财联社热门",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,25 +38,26 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 01时38分]"
         },
         {
           "title": "押风口！这些基金经理四季度就预测机器人板块火爆",
           "url": "https://www.cls.cn/detail/2292558",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 01时38分]"
         }
       ]
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI：正在调查面向商业和企业客户的ChatGPT对话中错误率升高的问题。",
@@ -76,8 +78,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 01时38分]"
+        },
+        {
+          "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
+          "url": "https://flash.jin10.com/detail/20260224001507325800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "01时38分"
         }
       ]
     },
@@ -93,8 +106,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 01时38分]"
         }
       ]
     },
@@ -110,8 +123,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 01时38分]"
         }
       ]
     },
@@ -127,8 +140,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 01时38分]"
         }
       ]
     },
@@ -144,8 +157,59 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 01时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "可控核聚变，能否复制商业航天的奇迹？",
+          "url": "https://www.cls.cn/detail/2292938",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "01时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "分析师：英伟达芯片出货量预计将提振第四季度业绩",
+          "url": "https://flash.jin10.com/detail/20260224011244274800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "数字货币市场周一亚太早盘出现一波V形下跌行情，比特币目前跌约3%",
+          "url": "https://wallstreetcn.com/livenews/3057586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
         }
       ]
     }
