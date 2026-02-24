@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T10:04:41.350643+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-02-24T12:31:14.058349+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
@@ -51,7 +51,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -86,7 +86,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -108,7 +108,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -119,7 +119,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -130,7 +130,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -141,9 +141,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "机器人股价",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%82%A1%E4%BB%B7&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
@@ -158,11 +169,12 @@
           "ranks": [
             9,
             16,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 12时31分]"
         },
         {
           "title": "财联社2月24日电，加拿大人工智能部长将于周二会见OpenAI安全团队。",
@@ -228,7 +240,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "Seedance 2.0: 这款中国AI应用程式令好莱坞陷入恐慌",
@@ -242,6 +254,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时14分 ~ 10时04分]"
+        },
+        {
+          "title": "受Citrini人工智能恐慌报告影响，印度Nifty IT指数下跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3057864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-24）",
+          "url": "https://flash.jin10.com/detail/20260224115748549800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "拉加德：欧洲仍能极大受益于人工智能",
@@ -277,6 +311,112 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "佑驾创新(02431.HK)与地上铁及壁虎科技达成战略合作协定，推动自动驾驶技术在城市物流领域的规模化应用",
+          "url": "https://www.gelonghui.com/news/5173991",
+          "source": "格隆汇",
+          "ranks": [
+            12,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时54分]"
+        },
+        {
+          "title": "特斯拉起诉美国加利福尼亚州机动车管理局（DMV），要求推翻加州关于“特斯拉涉嫌全自动驾驶（FSD）虚假广告”的判决。",
+          "url": "https://wallstreetcn.com/livenews/3057671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 07时08分]"
+        },
+        {
+          "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑”，让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
+          "url": "https://wallstreetcn.com/livenews/3057847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑” 让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
+          "url": "https://api3.cls.cn/share/article/2293312?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "目标交付30万辆！越南\"特斯拉\"背后有哪些中国上市公司在供货？|新春观察",
+          "url": "https://www.cls.cn/detail/2292692",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时08分 ~ 07时54分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
+          "url": "https://wallstreetcn.com/livenews/3057665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 07时08分]"
+        },
+        {
+          "title": "华为2025年销售收入超过8800亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3057836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.95%，报7478.41点。 热门中概股里，网易初步收跌1.7%，百度、小马智行、新东方至少跌约1%，阿里跌0.8%，腾讯、拼多多、小米、理想则至多涨0.9%，比亚迪、美团、百胜中国、文远知行、蔚来至多涨4.5%。 ETF中，中概互联网指数ETF（KWEB）收跌1.28%，中国科技指数ETF（CQQQ）收跌0.50%。 德银嘉实沪深300指数ETF（ASHR）收跌0.26%，XtrackersHarvest中证50（ASHS）收涨0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3057650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         }
       ]
     },
@@ -323,81 +463,47 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 3,
       "titles": [
         {
-          "title": "目标交付30万辆！越南\"特斯拉\"背后有哪些中国上市公司在供货？|新春观察",
-          "url": "https://www.cls.cn/detail/2292692",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时08分 ~ 07时54分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
-          "url": "https://wallstreetcn.com/livenews/3057665",
+          "title": "商品期货开盘，沪银主力合约涨超12%，碳酸锂涨超7%，铂涨5%，LU燃油涨近5%，原油、沪金、钯涨超4%，集运欧线涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3057747",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时09分 ~ 07时08分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.95%，报7478.41点。 热门中概股里，网易初步收跌1.7%，百度、小马智行、新东方至少跌约1%，阿里跌0.8%，腾讯、拼多多、小米、理想则至多涨0.9%，比亚迪、美团、百胜中国、文远知行、蔚来至多涨4.5%。 ETF中，中概互联网指数ETF（KWEB）收跌1.28%，中国科技指数ETF（CQQQ）收跌0.50%。 德银嘉实沪深300指数ETF（ASHR）收跌0.26%，XtrackersHarvest中证50（ASHS）收涨0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3057650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "佑驾创新(02431.HK)与地上铁及壁虎科技达成战略合作协定，推动自动驾驶技术在城市物流领域的规模化应用",
-          "url": "https://www.gelonghui.com/news/5173991",
-          "source": "格隆汇",
-          "ranks": [
-            12,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时54分]"
+          "time_info": "10时04分"
         },
         {
-          "title": "特斯拉起诉美国加利福尼亚州机动车管理局（DMV），要求推翻加州关于“特斯拉涉嫌全自动驾驶（FSD）虚假广告”的判决。",
-          "url": "https://wallstreetcn.com/livenews/3057671",
+          "title": "早盘收盘，国内期货主力合约多数上涨。沪银涨近12%，集运欧线涨超9%，碳酸锂涨超7%，低硫燃料油（LU）、SC原油涨超6%，铂、钯、橡胶、丁二烯橡胶、20号胶（NR）、苯乙烯（EB）、PX涨超4%。跌幅方面，生猪、烧碱跌超2%，焦炭、苹果、铁矿石、焦煤跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260224113059401800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报153050元/吨，较上日16:30价格上涨7500元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3057816",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            20
+            28
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时09分 ~ 07时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "分析师：英伟达芯片出货量预计将提振第四季度业绩",
@@ -421,6 +527,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时48分 ~ 04时07分]"
+        },
+        {
+          "title": "新加坡电信将优先获得部分英伟达下一代芯片。",
+          "url": "https://flash.jin10.com/detail/20260224114613721800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "新加坡电信与英伟达将在新加坡推出应用人工智能中心，与英伟达合作设计数据中心，以兼容新款英伟达GPU。",
+          "url": "https://flash.jin10.com/detail/20260224114552966800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "国产算力破局 摩尔线程打通端到端智驾仿真体系",
+          "url": "https://api3.cls.cn/share/article/2293299?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
@@ -460,6 +605,40 @@
       ]
     },
     {
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月24日（周二）富时中国A50指数成分股：成分股多数上涨，煤炭、工业金属、消费电子、通信设备等板块涨幅居前，白酒、保险板块小幅走低",
+          "url": "https://flash.jin10.com/detail/20260224114203887800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "鸿蒙 OpenHarmony 昇腾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为董事长梁华：鸿蒙终端设备数突破4000万",
+          "url": "https://api3.cls.cn/share/article/2293314?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 1,
       "titles": [
@@ -473,28 +652,12 @@
             9,
             8,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时38分 ~ 10时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "商品期货开盘，沪银主力合约涨超12%，碳酸锂涨超7%，铂涨5%，LU燃油涨近5%，原油、沪金、钯涨超4%，集运欧线涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/3057747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "appearance_count": 11,
+          "time_info": "[01时38分 ~ 12时31分]"
         }
       ]
     },
@@ -509,7 +672,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         }
