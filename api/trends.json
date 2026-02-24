@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T22:34:53.861586+08:00",
-  "total_titles_processed": 1750,
+  "generated_at": "2026-02-24T23:59:43.050120+08:00",
+  "total_titles_processed": 1876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
@@ -85,6 +85,22 @@
           "time_info": "[03时48分 ~ 05时10分]"
         },
         {
+          "title": "新媒：中国机器人走进生活令人期待",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/02/24/5c8d278c28c84ea7be3624d00bc9392c.html",
+          "source": "参考消息",
+          "ranks": [
+            12,
+            16,
+            17,
+            18,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时52分 ~ 23时59分]"
+        },
+        {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
           "url": "https://www.cls.cn/detail/2292433",
           "source": "财联社热门",
@@ -118,19 +134,15 @@
           "time_info": "21时05分"
         },
         {
-          "title": "新媒：中国机器人走进生活令人期待",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/02/24/5c8d278c28c84ea7be3624d00bc9392c.html",
-          "source": "参考消息",
+          "title": "歌尔股份(002241.SZ)：目前暂未涉及人形机器人整机制造等相关领域业务",
+          "url": "https://www.gelonghui.com/news/5174607",
+          "source": "格隆汇",
           "ranks": [
-            12,
-            16,
-            17,
-            18,
-            19
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时52分 ~ 22时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "何小鹏内部信：要实现全球首个高阶人形机器人量产",
@@ -261,7 +273,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -279,8 +291,232 @@
       ]
     },
     {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "Seedance 2.0: 这款中国AI应用程式令好莱坞陷入恐慌",
+          "url": "https://www.zaochenbao.com/news/china/202602/2365281.html",
+          "source": "早报",
+          "ranks": [
+            8,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 10时04分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-24）",
+          "url": "https://flash.jin10.com/detail/20260224115748549800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
+          "url": "https://www.cls.cn/detail/2293574",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时50分 ~ 23时59分]"
+        },
+        {
+          "title": "受Citrini人工智能恐慌报告影响，印度Nifty IT指数下跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3057864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时04分]"
+        },
+        {
+          "title": "拉加德：欧洲仍能极大受益于人工智能",
+          "url": "https://wallstreetcn.com/livenews/3057615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时48分 ~ 05时10分]"
+        },
+        {
+          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
+          "url": "https://wallstreetcn.com/livenews/3057967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时52分]"
+        },
+        {
+          "title": "美称中国一人工智能企业违反美出口管制 外交部：中方已多次表明原则立场",
+          "url": "https://api3.cls.cn/share/article/2293566?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 16时04分]"
+        },
+        {
+          "title": "美联储理事沃勒：美联储在将人工智能融入运营中非常谨慎。",
+          "url": "https://flash.jin10.com/detail/20260224221556882800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙在摩根大通投资者日发表讲话：考虑到人工智能，已制定重新部署员工的计划。关于AI导致大规模裁员的讨论，目前其实并没有发生。",
+          "url": "https://wallstreetcn.com/livenews/3057705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "普华永道美国将部署Anthropic企业级人工智能插件",
+          "url": "https://api3.cls.cn/share/article/2294053?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "美联储理事沃勒：美联储正在采用全系统共享标准的人工智能。",
+          "url": "https://flash.jin10.com/detail/20260224221550285800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "美联储理事沃勒：人工智能可能带来风险，包括数据保护方面的风险。",
+          "url": "https://flash.jin10.com/detail/20260224221528560800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "Anthropic的Claude AI模型产品负责人Scott White：公司的目标是消除人们使用人工智能（AI）回答工作相关查询的方式与他们从事具体工作所用的工具之间的隔阂。 将市场表现与单一产品发布联系起来“有点过度解读或反应过度了”，公司的AI模型正在帮助企业客户实现增长。",
+          "url": "https://wallstreetcn.com/livenews/3058226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "普华永道美国将部署Anthropic企业级人工智能插件",
+          "url": "https://wallstreetcn.com/livenews/3058221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
+          "url": "https://wallstreetcn.com/livenews/3057672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "美联储博斯蒂克：向人工智能的过渡可能令美联储难以理解。",
+          "url": "https://flash.jin10.com/detail/20260224190953033800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "苹果(AAPL.O)：休斯顿人工智能服务器的生产提前完成。",
+          "url": "https://flash.jin10.com/detail/20260224190631079800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "市场消息：Meta Platforms(META.O)与AMD(AMD.O)达成重磅协议，斥资数十亿美元采购人工智能设备。",
+          "url": "https://flash.jin10.com/detail/20260224200244367800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "报道：美国考虑利用五角大楼人工智能项目进行关键矿产定价",
+          "url": "https://wallstreetcn.com/livenews/3058153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "雷军：十五五小米将重点攻坚芯片、AI、操作系统等底层核心技术",
@@ -388,6 +624,17 @@
           "time_info": "18时50分"
         },
         {
+          "title": "小米起诉自媒体侵权，获赔500万",
+          "url": "https://www.cls.cn/detail/2293852",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "小米集团-W(01810.HK)2月24日耗资9999.8万港元回购279.4万股",
           "url": "https://www.gelonghui.com/news/5174459",
           "source": "格隆汇",
@@ -478,196 +725,6 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "Seedance 2.0: 这款中国AI应用程式令好莱坞陷入恐慌",
-          "url": "https://www.zaochenbao.com/news/china/202602/2365281.html",
-          "source": "早报",
-          "ranks": [
-            8,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 10时04分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-02-24）",
-          "url": "https://flash.jin10.com/detail/20260224115748549800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "受Citrini人工智能恐慌报告影响，印度Nifty IT指数下跌2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3057864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 14时04分]"
-        },
-        {
-          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
-          "url": "https://www.cls.cn/detail/2293574",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时50分 ~ 22时34分]"
-        },
-        {
-          "title": "拉加德：欧洲仍能极大受益于人工智能",
-          "url": "https://wallstreetcn.com/livenews/3057615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时48分 ~ 05时10分]"
-        },
-        {
-          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
-          "url": "https://wallstreetcn.com/livenews/3057967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时04分 ~ 16时52分]"
-        },
-        {
-          "title": "美称中国一人工智能企业违反美出口管制 外交部：中方已多次表明原则立场",
-          "url": "https://api3.cls.cn/share/article/2293566?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 16时04分]"
-        },
-        {
-          "title": "美联储理事沃勒：美联储在将人工智能融入运营中非常谨慎。",
-          "url": "https://flash.jin10.com/detail/20260224221556882800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "摩根大通CEO戴蒙在摩根大通投资者日发表讲话：考虑到人工智能，已制定重新部署员工的计划。关于AI导致大规模裁员的讨论，目前其实并没有发生。",
-          "url": "https://wallstreetcn.com/livenews/3057705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "美联储理事沃勒：美联储正在采用全系统共享标准的人工智能。",
-          "url": "https://flash.jin10.com/detail/20260224221550285800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "美联储理事沃勒：人工智能可能带来风险，包括数据保护方面的风险。",
-          "url": "https://flash.jin10.com/detail/20260224221528560800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
-          "url": "https://wallstreetcn.com/livenews/3057672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "美联储博斯蒂克：向人工智能的过渡可能令美联储难以理解。",
-          "url": "https://flash.jin10.com/detail/20260224190953033800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "苹果(AAPL.O)：休斯顿人工智能服务器的生产提前完成。",
-          "url": "https://flash.jin10.com/detail/20260224190631079800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "市场消息：Meta Platforms(META.O)与AMD(AMD.O)达成重磅协议，斥资数十亿美元采购人工智能设备。",
-          "url": "https://flash.jin10.com/detail/20260224200244367800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "报道：美国考虑利用五角大楼人工智能项目进行关键矿产定价",
-          "url": "https://wallstreetcn.com/livenews/3058153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 11,
       "titles": [
@@ -722,7 +779,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -791,6 +848,129 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时01分 ~ 22时34分]"
+        },
+        {
+          "title": "分析师：英伟达芯片出货量预计将提振第四季度业绩",
+          "url": "https://flash.jin10.com/detail/20260224011244274800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国高官指控深度求索 利用英伟达最先进晶片训练新AI模型",
+          "url": "https://www.zaochenbao.com/news/politics/202602/2465317.html",
+          "source": "早报",
+          "ranks": [
+            11,
+            12,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时01分 ~ 19时40分]"
+        },
+        {
+          "title": "台积电(TSM.N)美股盘前涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260224183649162800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "财联社2月24日电，台积电美股盘前涨2%。",
+          "url": "https://api3.cls.cn/share/article/2293825?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "DA Davidson：维持英伟达(NVDA.O)买入评级，目标价250美元。",
+          "url": "https://flash.jin10.com/detail/20260224031916035800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时48分 ~ 04时07分]"
+        },
+        {
+          "title": "汇丰：将英伟达(NVDA.O)目标价从320美元下调至310美元。",
+          "url": "https://flash.jin10.com/detail/20260224152512534800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 16时04分]"
+        },
+        {
+          "title": "新加坡电信将优先获得部分英伟达下一代芯片。",
+          "url": "https://flash.jin10.com/detail/20260224114613721800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
+          "url": "https://wallstreetcn.com/articles/3766076",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "【风口研报·洞察】稀缺性溢价持续释放，PCB铜箔进入涨价通道，英伟达、谷歌新一代AI硬件体系带动HVLP-4铜箔进入加速渗透期，预计2026至2028年间的供需缺口可达24%至40%；节后科技风格再来",
+          "url": "https://api3.cls.cn/share/article/2293706?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     },
@@ -900,118 +1080,6 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
-          "url": "https://www.cls.cn/detail/2293343",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时01分 ~ 22时34分]"
-        },
-        {
-          "title": "分析师：英伟达芯片出货量预计将提振第四季度业绩",
-          "url": "https://flash.jin10.com/detail/20260224011244274800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "美国高官指控深度求索 利用英伟达最先进晶片训练新AI模型",
-          "url": "https://www.zaochenbao.com/news/politics/202602/2465317.html",
-          "source": "早报",
-          "ranks": [
-            11,
-            12,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时01分 ~ 19时40分]"
-        },
-        {
-          "title": "台积电(TSM.N)美股盘前涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260224183649162800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
-          "title": "财联社2月24日电，台积电美股盘前涨2%。",
-          "url": "https://api3.cls.cn/share/article/2293825?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
-          "title": "DA Davidson：维持英伟达(NVDA.O)买入评级，目标价250美元。",
-          "url": "https://flash.jin10.com/detail/20260224031916035800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时48分 ~ 04时07分]"
-        },
-        {
-          "title": "汇丰：将英伟达(NVDA.O)目标价从320美元下调至310美元。",
-          "url": "https://flash.jin10.com/detail/20260224152512534800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 16时04分]"
-        },
-        {
-          "title": "新加坡电信将优先获得部分英伟达下一代芯片。",
-          "url": "https://flash.jin10.com/detail/20260224114613721800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "【风口研报·洞察】稀缺性溢价持续释放，PCB铜箔进入涨价通道，英伟达、谷歌新一代AI硬件体系带动HVLP-4铜箔进入加速渗透期，预计2026至2028年间的供需缺口可达24%至40%；节后科技风格再来",
-          "url": "https://api3.cls.cn/share/article/2293706?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 8,
       "titles": [
@@ -1115,6 +1183,107 @@
       ]
     },
     {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "可控核聚变，能否复制商业航天的奇迹？",
+          "url": "https://www.cls.cn/detail/2292938",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            8,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时38分 ~ 12时31分]"
+        },
+        {
+          "title": "众合科技(000925.SZ)：公司参股公司玄度时空云尚不涉及商业卫星领域",
+          "url": "https://www.gelonghui.com/news/5174108",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "马斯克设想从月球电磁弹射AI卫星",
+          "url": "https://wallstreetcn.com/livenews/3058106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时05分]"
+        },
+        {
+          "title": "马斯克设想从月球电磁弹射AI卫星",
+          "url": "https://api3.cls.cn/share/article/2293855?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "道氏技术(300409.SZ)：公司业务暂未直接涉及到商业航天领域",
+          "url": "https://www.gelonghui.com/news/5174103",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "航发控制(000738.SZ)：暂不涉及火箭、卫星业务",
+          "url": "https://www.gelonghui.com/news/5174601",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "马斯克设想从月球电磁弹射AI卫星",
+          "url": "https://flash.jin10.com/detail/20260224191851131800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "中密控股(300470.SZ)：公司的高速机械密封产品已应用于商业航天领域",
+          "url": "https://www.gelonghui.com/news/5174599",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 7,
       "titles": [
@@ -1194,85 +1363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "可控核聚变，能否复制商业航天的奇迹？",
-          "url": "https://www.cls.cn/detail/2292938",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            8,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时38分 ~ 12时31分]"
-        },
-        {
-          "title": "众合科技(000925.SZ)：公司参股公司玄度时空云尚不涉及商业卫星领域",
-          "url": "https://www.gelonghui.com/news/5174108",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
-          "title": "马斯克设想从月球电磁弹射AI卫星",
-          "url": "https://wallstreetcn.com/livenews/3058106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 21时05分]"
-        },
-        {
-          "title": "马斯克设想从月球电磁弹射AI卫星",
-          "url": "https://api3.cls.cn/share/article/2293855?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "道氏技术(300409.SZ)：公司业务暂未直接涉及到商业航天领域",
-          "url": "https://www.gelonghui.com/news/5174103",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
-          "title": "马斯克设想从月球电磁弹射AI卫星",
-          "url": "https://flash.jin10.com/detail/20260224191851131800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
         }
       ]
     },
@@ -1470,7 +1560,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股异动丨诺和诺德大跌近16%，礼来涨超4%",
@@ -1484,6 +1574,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时14分 ~ 07时54分]"
+        },
+        {
+          "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "LME期铜收跌96美元，报12868美元/吨。 LME期铝收跌13美元，报3090美元/吨。 LME期锌收跌28美元，报3354美元/吨。 LME期铅收跌14美元，报1951美元/吨。 LME期镍收跌67美元，报17283美元/吨。 LME期锡收涨1159美元，报47718美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -1507,6 +1608,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【公告全知道】存储芯片+CPO+机器人+无人驾驶+华为！公司存储芯片封装已量产",
+          "url": "https://api3.cls.cn/share/article/2293915?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "【闪迪遭香橼做空，股价盘中跌超5％】知名做空机构香橼称正在做空闪迪，指当前存储芯片市场繁荣为“供应幻象”。闪迪股价跌5.4％，报630美元/股。",
+          "url": "https://wallstreetcn.com/livenews/3058227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "财联社2月24日电，闪迪股价跌超5%。知名做空机构香橼称正在做空闪迪，指当前存储芯片市场繁荣为“供应幻象”。",
+          "url": "https://api3.cls.cn/share/article/2294046?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         }
       ]
     },
@@ -1655,23 +1795,6 @@
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【公告全知道】存储芯片+CPO+机器人+无人驾驶+华为！公司存储芯片封装已量产",
-          "url": "https://api3.cls.cn/share/article/2293915?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "五轴联动数控 超高精度光栅尺 工业母机",
       "match_count": 1,
       "titles": [
@@ -1770,8 +1893,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时03分 ~ 22时34分]"
+          "appearance_count": 8,
+          "time_info": "[16时03分 ~ 23时59分]"
         }
       ]
     },
@@ -1807,6 +1930,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宜安科技(300328.SZ)：公司暂未涉及脑机接口相关产品",
+          "url": "https://www.gelonghui.com/news/5174602",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         }
       ]
     }
