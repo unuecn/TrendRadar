@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T14:19:40.394847+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-02-25T15:15:02.500953+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
@@ -221,7 +221,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -230,11 +230,24 @@
           "url": "https://www.zaochenbao.com/news/politics/202602/2565402.html",
           "source": "早报",
           "ranks": [
-            6
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 15时15分]"
+        },
+        {
+          "title": "A股商业航天板块震荡走高，航天发展午后涨停，科顺股份、星环科技涨超15%，神剑股份、航天宏图跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3058634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时32分 ~ 14时19分]"
+          "time_info": "[14时19分 ~ 15时15分]"
         },
         {
           "title": "【香港：已要求港交所审视相关上市规定，便利和吸引更多航天企业来港上市】香港特区政府财政司司长陈茂波今日（25日）发表2026至2027财政年度政府财政预算案。陈茂波表示，国家“十五五”规划建议提出加快建设航天强国，国家航天局亦提出推动商业航天企业有序出海。香港可协助内地航天产业与全球市场对接，并提供科研、融资、风险管理和法律等专业服务。引进办将牵头物色合适的航天企业来港发展。同时，我们已要求香港交易及结算所有限公司（港交所）审视相关上市规定，便利和吸引更多航天企业来港上市。",
@@ -265,18 +278,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "A股商业航天板块震荡走高，航天发展午后涨停，科顺股份、星环科技涨超15%，神剑股份、航天宏图跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3058634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -294,82 +296,8 @@
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "存储芯片涨价或将贯穿全年 中国产业崛起成“胜负手”",
-          "url": "https://api3.cls.cn/share/article/2294128?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "2月25日投资避雷针：知名机构出手做空 称当前存储芯片市场繁荣为“供应幻象”",
-          "url": "https://www.cls.cn/detail/2294175",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 14时19分]"
-        },
-        {
-          "title": "闪存巨头突遭“空袭”！闪迪股价一度跳水超8% NAND需求神话还能否继续？",
-          "url": "https://www.cls.cn/detail/2294237",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 14时19分]"
-        },
-        {
-          "title": "消息称三星电子1c DRAM良率超80% HBM4良率接近60%",
-          "url": "https://api3.cls.cn/share/article/2294260?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
-          "url": "https://wallstreetcn.com/livenews/3058381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "业内人士：存储芯片涨价或将贯穿全年，中国产业崛起成“胜负手”",
-          "url": "https://wallstreetcn.com/livenews/3058379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "苹果(AAPL.O)CEO库克：公司仍计划每年提高股息。",
@@ -420,6 +348,17 @@
           "time_info": "[06时06分 ~ 06时34分]"
         },
         {
+          "title": "苹果股东否决中国业务审计提案",
+          "url": "https://www.zaochenbao.com/news/china/202602/2565409.html",
+          "source": "早报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
+        },
+        {
           "title": "苹果公司配备触摸屏的MacBook Pro机型将于今年秋季推出",
           "url": "https://wallstreetcn.com/livenews/3058337",
           "source": "华尔街见闻-快讯",
@@ -445,58 +384,84 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 6,
       "titles": [
         {
-          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
-          "url": "https://www.cls.cn/detail/2294141",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 14时19分]"
-        },
-        {
-          "title": "四川：扩容省级“算力券” 探索制定“场景券”“模型券”政策",
-          "url": "https://wallstreetcn.com/livenews/3058659",
-          "source": "华尔街见闻-快讯",
+          "title": "存储芯片涨价或将贯穿全年 中国产业崛起成“胜负手”",
+          "url": "https://api3.cls.cn/share/article/2294128?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "07时34分"
         },
         {
-          "title": "四川：扩容省级“算力券” 探索制定“场景券”“模型券”政策",
-          "url": "https://api3.cls.cn/share/article/2294555?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "2月25日投资避雷针：知名机构出手做空 称当前存储芯片市场繁荣为“供应幻象”",
+          "url": "https://www.cls.cn/detail/2294175",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 15时15分]"
+        },
+        {
+          "title": "闪存巨头突遭“空袭”！闪迪股价一度跳水超8% NAND需求神话还能否继续？",
+          "url": "https://www.cls.cn/detail/2294237",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 15时15分]"
+        },
+        {
+          "title": "消息称三星电子1c DRAM良率超80% HBM4良率接近60%",
+          "url": "https://api3.cls.cn/share/article/2294260?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "美股异动丨AMD收涨近9%，获Meta五年AI芯片订单",
-          "url": "https://www.gelonghui.com/news/5174639",
-          "source": "格隆汇",
-          "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
+          "url": "https://wallstreetcn.com/livenews/3058381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "业内人士：存储芯片涨价或将贯穿全年，中国产业崛起成“胜负手”",
+          "url": "https://wallstreetcn.com/livenews/3058379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         }
       ]
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "歌尔股份(002241.SZ)：目前暂未涉及人形机器人整机制造等相关领域业务",
@@ -534,6 +499,17 @@
           "time_info": "10时06分"
         },
         {
+          "title": "A股异动丨百达精工跌逾7% 机器人业务收入占公司营收比例极低",
+          "url": "https://www.gelonghui.com/news/5174699",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
+        },
+        {
           "title": "消息人士称，现代汽车集团将宣布在韩国西海岸的新万金地区（SAEMANGEUM）进行大规模投资，建设数据中心、机器人工厂等项目。",
           "url": "https://flash.jin10.com/detail/20260225093037819800",
           "source": "金十数据",
@@ -548,7 +524,7 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
@@ -563,19 +539,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时13分 ~ 14时19分]"
+          "appearance_count": 14,
+          "time_info": "[01时13分 ~ 15时15分]"
         },
         {
           "title": "台股创新高 台积电股价破2000新台币",
           "url": "https://www.zaochenbao.com/news/taiwan/202602/2565390.html",
           "source": "早报",
           "ranks": [
-            18
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 15时15分]"
+        },
+        {
+          "title": "英伟达明晨将临“大考”：四大看点提前把握！",
+          "url": "https://www.cls.cn/detail/2294480",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 15时15分]"
+        },
+        {
+          "title": "【盘中宝】AI浪潮拉动需求增长，该行业相关厂商全年营收均创历史新高，头部大厂已有订单周期拉长至2028年，这家企业客户包括英伟达、谷歌",
+          "url": "https://api3.cls.cn/share/article/2294596?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时32分 ~ 14时19分]"
+          "time_info": "[15时14分 ~ 15时15分]"
         },
         {
           "title": "美国官员称中国尚未获得任何英伟达H200晶片",
@@ -587,17 +587,112 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 4,
+      "titles": [
         {
-          "title": "英伟达明晨将临“大考”：四大看点提前把握！",
-          "url": "https://www.cls.cn/detail/2294480",
+          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
+          "url": "https://www.cls.cn/detail/2294141",
           "source": "财联社热门",
           "ranks": [
-            10
+            1
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 15时15分]"
+        },
+        {
+          "title": "四川：扩容省级“算力券” 探索制定“场景券”“模型券”政策",
+          "url": "https://api3.cls.cn/share/article/2294555?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "四川：扩容省级“算力券” 探索制定“场景券”“模型券”政策",
+          "url": "https://wallstreetcn.com/livenews/3058659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 15时15分]"
+        },
+        {
+          "title": "美股异动丨AMD收涨近9%，获Meta五年AI芯片订单",
+          "url": "https://www.gelonghui.com/news/5174639",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "小米起诉自媒体侵权，获赔500万",
+          "url": "https://www.cls.cn/detail/2293852",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时13分 ~ 10时06分]"
+        },
+        {
+          "title": "财联社2月25日电，特斯拉称，电动皮卡Cybertruck双电机四驱版价格将于2月28日后上调。",
+          "url": "https://api3.cls.cn/share/article/2294101?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时49分 ~ 06时06分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：电动皮卡Cybertruck双电机四驱版价格将于2月28日后上调。",
+          "url": "https://flash.jin10.com/detail/20260225031303146800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时49分 ~ 04时36分]"
+        },
+        {
+          "title": "昊志机电(300503.SZ)：公司与优必选、华为暂未发生交易",
+          "url": "https://www.gelonghui.com/news/5174700",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
         }
       ]
     },
@@ -765,50 +860,6 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "小米起诉自媒体侵权，获赔500万",
-          "url": "https://www.cls.cn/detail/2293852",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时13分 ~ 10时06分]"
-        },
-        {
-          "title": "财联社2月25日电，特斯拉称，电动皮卡Cybertruck双电机四驱版价格将于2月28日后上调。",
-          "url": "https://api3.cls.cn/share/article/2294101?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 06时06分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：电动皮卡Cybertruck双电机四驱版价格将于2月28日后上调。",
-          "url": "https://flash.jin10.com/detail/20260225031303146800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时49分 ~ 04时36分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 2,
       "titles": [
@@ -845,11 +896,12 @@
           "url": "https://flash.jin10.com/detail/20260225134726005800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 15时15分]"
         },
         {
           "title": "商品期货开盘，20号胶、碳酸锂主力合约涨超2%，沪锡、纯碱、棉花、橡胶涨近2%。液化气、多晶硅跌超1%。",
@@ -904,11 +956,29 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 14时19分]"
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 15时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药 新药研发 临床三期",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "创新药概念局部异动 长春高新涨停",
+          "url": "https://api3.cls.cn/share/article/2294591?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
         }
       ]
     },
