@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T07:24:33.075944+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-03-02T07:47:36.334348+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://api3.cls.cn/share/article/2296735?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时47分]"
         },
         {
           "title": "【电报解读】华为首次海外发布超节点产品！超节点新增scale up互联需求下，光、液冷、供电、芯片等环节将迎来升级，这家公司与阿里、腾讯在IDC算力服务、云服务等方面有合作",
@@ -34,6 +35,34 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
+          "url": "https://www.cls.cn/detail/2298678",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 07时47分]"
+        },
+        {
+          "title": "机器人企业大额融资频现，产业化进程全面提速",
+          "url": "https://wallstreetcn.com/livenews/3061319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 2,
       "titles": [
@@ -43,11 +72,12 @@
           "source": "格隆汇",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 07时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 07时47分]"
         },
         {
           "title": "环球下周看点：中东战火走向何处 美国非农数据、苹果新品亮相",
@@ -59,8 +89,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 07时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 07时47分]"
         }
       ]
     },
@@ -73,28 +103,46 @@
           "url": "https://wallstreetcn.com/livenews/3061313",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时47分]"
         }
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "keyword_group": "美债 美股 美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
-          "url": "https://www.cls.cn/detail/2298678",
+          "title": "美国和以色列袭击伊朗后 国际油价跳涨 美股期货下跌",
+          "url": "https://api3.cls.cn/share/article/2299146?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】哈梅内伊遇害，外交部发声；国家发改委回应存储芯片价格上涨",
+          "url": "https://www.cls.cn/detail/2299148",
           "source": "财联社热门",
           "ranks": [
-            5
+            12
           ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 07时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         }
       ]
     },
@@ -111,8 +159,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 07时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 07时47分]"
         }
       ]
     },
@@ -129,8 +177,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 07时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 07时47分]"
         }
       ]
     },
@@ -147,8 +195,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 07时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 07时47分]"
         }
       ]
     },
