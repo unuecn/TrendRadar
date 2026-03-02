@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T03:12:12.708536+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-03-03T03:57:56.764749+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "惠誉评级：人工智能颠覆使另类投资管理软件风险敞口备受关注。",
@@ -19,26 +19,61 @@
           "time_info": "02时04分"
         },
         {
-          "title": "美媒：美国民主党酝酿立法回应五角大楼人工智能之争",
-          "url": "https://flash.jin10.com/detail/20260303030140542800",
-          "source": "金十数据",
+          "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
+          "url": "https://wallstreetcn.com/livenews/3062119",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "03时57分"
         },
         {
-          "title": "据AXIOS网站：美国民主党计划对五角大楼的人工智能斗争采取立法回应。",
-          "url": "https://flash.jin10.com/detail/20260303025633752800",
+          "title": "摩根大通CEO戴蒙：人工智能可能将工作周缩短至四天，呼吁政府为人工智能时代重新培训工人。",
+          "url": "https://flash.jin10.com/detail/20260303032802983800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "03时57分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：人工智能的推动不会是赢家通吃的局面。",
+          "url": "https://flash.jin10.com/detail/20260303032754746800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "美媒：美国民主党酝酿立法回应五角大楼人工智能之争",
+          "url": "https://flash.jin10.com/detail/20260303030140542800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 03时57分]"
+        },
+        {
+          "title": "据AXIOS网站：美国民主党计划对五角大楼的人工智能斗争采取立法回应。",
+          "url": "https://flash.jin10.com/detail/20260303025633752800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 03时57分]"
         },
         {
           "title": "财联社3月3日电，据报道，英伟达支持的“开放”人工智能初创公司Reflection AI以逾200亿美元估值吸引投资者。Reflection AI正寻求在新一轮融资中至少筹集20亿美元。",
@@ -66,37 +101,20 @@
       ]
     },
     {
-      "keyword_group": "金价 黄金",
-      "match_count": 2,
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 3,
       "titles": [
         {
-          "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
+          "title": "星链与德国电信联手，在欧洲推出卫星移动服务",
+          "url": "https://wallstreetcn.com/livenews/3062118",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时12分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月2日（周一）晚盘收盘上涨0.36%报1181.03元/克；<br/>上海黄金交易所白银T+D 3月2日（周一）晚盘收盘下跌4.69%报22388.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260303023242543800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 2,
-      "titles": [
+          "time_info": "03时57分"
+        },
         {
           "title": "据报道，SpaceX计划在2027年年中为新款星链（Starlink）卫星的发射工作做好准备。",
           "url": "https://api3.cls.cn/share/article/2300418?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -118,6 +136,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时57分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月2日（周一）晚盘收盘上涨0.36%报1181.03元/克；<br/>上海黄金交易所白银T+D 3月2日（周一）晚盘收盘下跌4.69%报22388.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260303023242543800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     },
@@ -161,8 +207,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时57分]"
         }
       ]
     },
@@ -178,8 +224,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时57分]"
         }
       ]
     },
@@ -195,8 +241,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时57分]"
         }
       ]
     }
