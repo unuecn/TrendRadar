@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T13:36:07.083180+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-03-02T14:58:33.611660+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "比亚迪股份(01211.HK)：2月新能源汽车销量合计为19.019万辆",
@@ -40,7 +40,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -60,11 +60,12 @@
           "url": "https://www.zaochenbao.com/news/opinion/202603/0265793.html",
           "source": "早报",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 13时36分]"
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 14时58分]"
         },
         {
           "title": "比亚迪：将于3月5日召开颠覆性技术发布会",
@@ -84,15 +85,26 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
+        },
+        {
+          "title": "比亚迪AH股齐涨，公司即将于2026年3月5日召开颠覆性技术发布会",
+          "url": "https://wallstreetcn.com/livenews/3061572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         }
       ]
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
@@ -104,6 +116,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时27分 ~ 07时47分]"
+        },
+        {
+          "title": "丰茂股份(301459.SZ)：公司空气弹簧业务暂未涉足人形机器人领域",
+          "url": "https://www.gelonghui.com/news/5177326",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "特斯拉官方微博称，人形机器人持续迭代，Cybercab量产工作加速推进。",
@@ -154,7 +177,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -178,6 +201,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时26分 ~ 13时36分]"
+        },
+        {
+          "title": "伊朗危机冲击全球市场：美股三大股指期货均跌0.7%，巴基斯坦触发熔断，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
@@ -206,7 +240,7 @@
     },
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "哈梅内伊住所遭袭的前后卫星图公布",
@@ -238,6 +272,98 @@
           "source": "财联社电报",
           "ranks": [
             6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "中东冲突+可回收火箭密集排队首飞，卫星ETF易方达(563530)大涨3.55%，冲击四连阳",
+          "url": "https://www.gelonghui.com/news/5177315",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【研选】AI带动巨量电力需求，美国现场发电需求旺盛，分析师看好发电板块上下游均有望受益；国内领先的大数据与AI基础软件厂商，其GPU原生认知数据库性能跃升20倍，实现营收增速回升与亏损收窄的双重拐点",
+          "url": "https://api3.cls.cn/share/article/2296735?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时47分]"
+        },
+        {
+          "title": "【电报解读】华为首次海外发布超节点产品！超节点新增scale up互联需求下，光、液冷、供电、芯片等环节将迎来升级，这家公司与阿里、腾讯在IDC算力服务、云服务等方面有合作",
+          "url": "https://api3.cls.cn/share/article/2299061?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 01时47分]"
+        },
+        {
+          "title": "【盘中宝】可助力AI算力集群功耗降低30%以上，AI变革推动该新技术快速发展，这家企业前瞻布局新一代产品，相关产品订单超8000万",
+          "url": "https://api3.cls.cn/share/article/2299613?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "液冷",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "研报掘金丨太平洋：维持拓普集团“买入”评级，特斯拉Optimus V3亮相在即，发力液冷+商业航天",
+          "url": "https://www.gelonghui.com/news/5177327",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "【机构调研】这家液冷系统服务商在服务器与数据中心等领域部分产品实现批量交付",
+          "url": "https://api3.cls.cn/share/article/2299483?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 13时36分]"
+        },
+        {
+          "title": "液冷服务器概念反复走强 飞龙股份涨停创历史新高",
+          "url": "https://api3.cls.cn/share/article/2299317?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -286,65 +412,6 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【研选】AI带动巨量电力需求，美国现场发电需求旺盛，分析师看好发电板块上下游均有望受益；国内领先的大数据与AI基础软件厂商，其GPU原生认知数据库性能跃升20倍，实现营收增速回升与亏损收窄的双重拐点",
-          "url": "https://api3.cls.cn/share/article/2296735?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 07时47分]"
-        },
-        {
-          "title": "【电报解读】华为首次海外发布超节点产品！超节点新增scale up互联需求下，光、液冷、供电、芯片等环节将迎来升级，这家公司与阿里、腾讯在IDC算力服务、云服务等方面有合作",
-          "url": "https://api3.cls.cn/share/article/2299061?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 01时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "液冷",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【机构调研】这家液冷系统服务商在服务器与数据中心等领域部分产品实现批量交付",
-          "url": "https://api3.cls.cn/share/article/2299483?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 13时36分]"
-        },
-        {
-          "title": "液冷服务器概念反复走强 飞龙股份涨停创历史新高",
-          "url": "https://api3.cls.cn/share/article/2299317?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
       "match_count": 2,
       "titles": [
@@ -366,7 +433,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         }
@@ -383,11 +450,12 @@
           "ranks": [
             15,
             16,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 13时36分]"
+          "appearance_count": 23,
+          "time_info": "[00时27分 ~ 14时58分]"
         },
         {
           "title": "DeepSeek V4下周上线？原生多模态架构 技术报告同步开放",
@@ -413,11 +481,12 @@
           "ranks": [
             16,
             17,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 13时36分]"
+          "appearance_count": 23,
+          "time_info": "[00时27分 ~ 14时58分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-02）",
@@ -429,6 +498,62 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 12时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "财联社3月2日电，上海钢联发布数据显示，今日电池级碳酸锂（早盘）中间价较前一日下跌1150元，均价报172950元/吨。",
+          "url": "https://api3.cls.cn/share/article/2299462?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 13时36分]"
+        },
+        {
+          "title": "富宝资讯：碳酸锂期货盘面震荡下跌，富宝电池级碳酸锂报170000元/吨",
+          "url": "https://flash.jin10.com/detail/20260302142737560800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "摩根士丹利将英伟达列为半导体板块首选 取代美光科技",
+          "url": "https://api3.cls.cn/share/article/2299650?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "摩根士丹利将英伟达列为半导体板块首选 取代美光科技",
+          "url": "https://wallstreetcn.com/livenews/3061605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         }
       ]
     },
@@ -462,8 +587,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时47分 ~ 13时36分]"
+          "appearance_count": 7,
+          "time_info": "[07时47分 ~ 14时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "储能概念震荡拉升 德业股份涨停",
+          "url": "https://api3.cls.cn/share/article/2299626?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         }
       ]
     },
@@ -502,23 +644,6 @@
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "财联社3月2日电，上海钢联发布数据显示，今日电池级碳酸锂（早盘）中间价较前一日下跌1150元，均价报172950元/吨。",
-          "url": "https://api3.cls.cn/share/article/2299462?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 13时36分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 1,
       "titles": [
@@ -532,6 +657,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 12时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "爱立信与英特尔携手合作，旨在加速迈向商业化的原生AI 6G技术之路。",
+          "url": "https://flash.jin10.com/detail/20260302141521033800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         }
       ]
     }
