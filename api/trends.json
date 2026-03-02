@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T14:58:33.611660+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2026-03-02T15:52:26.992892+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,19 @@
           "time_info": "[00时27分 ~ 07时47分]"
         },
         {
+          "title": "评论：比亚迪2月汽车销量暴跌41%",
+          "url": "https://www.zaochenbao.com/news/opinion/202603/0265793.html",
+          "source": "早报",
+          "ranks": [
+            7,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 15时52分]"
+        },
+        {
           "title": "比亚迪3月2日在互动平台表示，公司即将于2026年3月5日召开颠覆性技术发布会。",
           "url": "https://wallstreetcn.com/livenews/3061528",
           "source": "华尔街见闻-快讯",
@@ -54,18 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
-        },
-        {
-          "title": "评论：比亚迪2月汽车销量暴跌41%",
-          "url": "https://www.zaochenbao.com/news/opinion/202603/0265793.html",
-          "source": "早报",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 14时58分]"
         },
         {
           "title": "比亚迪：将于3月5日召开颠覆性技术发布会",
@@ -96,7 +97,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         }
@@ -104,7 +105,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
@@ -124,9 +125,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "荣耀推出首款人形机器人和机器人手机",
+          "url": "https://www.zaochenbao.com/news/china/202603/0265811.html",
+          "source": "早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "特斯拉官方微博称，人形机器人持续迭代，Cybercab量产工作加速推进。",
@@ -177,7 +189,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -209,9 +221,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "伊朗危机冲击全球市场：欧美股市齐跌，巴基斯坦股市触及熔断，布油涨8%，黄金逼近5400关口",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
@@ -284,9 +307,59 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "摩根士丹利将英伟达列为半导体板块首选 取代美光科技",
+          "url": "https://api3.cls.cn/share/article/2299650?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "摩根士丹利将英伟达列为半导体板块首选 取代美光科技",
+          "url": "https://wallstreetcn.com/livenews/3061605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "大行评级丨交银国际：上调英伟达目标价至260美元，上调今明财年收入及盈利预测",
+          "url": "https://www.gelonghui.com/news/5177362",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "国力电子(688103.SH)：关于英伟达芯片采用的钻石散热方案，公司暂无直接产品应用",
+          "url": "https://www.gelonghui.com/news/5177359",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         }
       ]
     },
@@ -326,7 +399,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         }
@@ -343,7 +416,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -368,6 +441,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "财联社3月2日电，上海钢联发布数据显示，今日电池级碳酸锂（早盘）中间价较前一日下跌1150元，均价报172950元/吨。",
+          "url": "https://api3.cls.cn/share/article/2299462?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 13时36分]"
+        },
+        {
+          "title": "财联社3月2日电，广期所品种仓单及变化如下：碳酸锂期货仓单38196手，环比上个交易日减少265手；多晶硅期货仓单9510手，环比上个交易日持平；工业硅期货仓单20786手，环比上个交易日减少31手。",
+          "url": "https://api3.cls.cn/share/article/2299745?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "富宝资讯：碳酸锂期货盘面震荡下跌，富宝电池级碳酸锂报170000元/吨",
+          "url": "https://flash.jin10.com/detail/20260302142737560800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         }
       ]
     },
@@ -440,6 +552,34 @@
       ]
     },
     {
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科博达(603786.SH)：自动驾驶领域，公司已完成核心技术布局",
+          "url": "https://www.gelonghui.com/news/5177360",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "滴滴自动驾驶成立深穹远航实验室，携手清华大学开展前沿研究",
+          "url": "https://wallstreetcn.com/livenews/3061478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 2,
       "titles": [
@@ -451,11 +591,12 @@
             15,
             16,
             18,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 14时58分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 15时52分]"
         },
         {
           "title": "DeepSeek V4下周上线？原生多模态架构 技术报告同步开放",
@@ -482,11 +623,12 @@
             16,
             17,
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 14时58分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 15时52分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-02）",
@@ -498,62 +640,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 12时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "财联社3月2日电，上海钢联发布数据显示，今日电池级碳酸锂（早盘）中间价较前一日下跌1150元，均价报172950元/吨。",
-          "url": "https://api3.cls.cn/share/article/2299462?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 13时36分]"
-        },
-        {
-          "title": "富宝资讯：碳酸锂期货盘面震荡下跌，富宝电池级碳酸锂报170000元/吨",
-          "url": "https://flash.jin10.com/detail/20260302142737560800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "摩根士丹利将英伟达列为半导体板块首选 取代美光科技",
-          "url": "https://api3.cls.cn/share/article/2299650?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "摩根士丹利将英伟达列为半导体板块首选 取代美光科技",
-          "url": "https://wallstreetcn.com/livenews/3061605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时58分"
         }
       ]
     },
@@ -587,8 +673,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时47分 ~ 14时58分]"
+          "appearance_count": 8,
+          "time_info": "[07时47分 ~ 15时52分]"
         }
       ]
     },
@@ -603,26 +689,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "滴滴自动驾驶成立深穹远航实验室，携手清华大学开展前沿研究",
-          "url": "https://wallstreetcn.com/livenews/3061478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时27分"
+          "time_info": "14时58分"
         }
       ]
     },
@@ -671,7 +740,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         }
