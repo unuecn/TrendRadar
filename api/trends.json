@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T10:06:22.045581+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2026-03-03T12:26:46.838599+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
@@ -120,6 +120,19 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
+          "url": "https://www.cls.cn/detail/2300479",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 12时26分]"
+        },
+        {
           "title": "美股三大指数收盘涨跌不一 加密货币概念股走高",
           "url": "https://www.gelonghui.com/news/5178147",
           "source": "格隆汇",
@@ -131,18 +144,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时55分 ~ 07时51分]"
-        },
-        {
-          "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
-          "url": "https://www.cls.cn/detail/2300479",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 10时06分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌0.24%，报469.27点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.25%，报3307.75点，勉强再创收盘历史新高。 在美股时段交易的原材料指数收涨0.64%，金属与矿业指数收涨1.56%。",
@@ -198,6 +199,132 @@
       ]
     },
     {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "星链与德国电信联手，在欧洲推出卫星移动服务",
+          "url": "https://wallstreetcn.com/livenews/3062118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时57分 ~ 05时34分]"
+        },
+        {
+          "title": "据报道，SpaceX计划在2027年年中为新款星链（Starlink）卫星的发射工作做好准备。",
+          "url": "https://api3.cls.cn/share/article/2300418?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美媒：卫星图像显示中国正加速扩充核力量",
+          "url": "https://www.zaochenbao.com/news/china/202603/0365872.html",
+          "source": "早报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX计划在2027年年中为新款星链（Starlink）卫星的发射工作做好准备。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3062067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国遥感卫星运营商万拓：新的高分辨率卫星图像显示，沙特阿拉伯拉斯坦乌拉石油设施在伊朗无人机袭击后遭受严重损坏。",
+          "url": "https://flash.jin10.com/detail/20260303033055744800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "苹果商讨由谷歌托管新版Siri",
+          "url": "https://api3.cls.cn/share/article/2300507?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 12时26分]"
+        },
+        {
+          "title": "中国2月份车市疲弱 比亚迪销量创六年来最大跌幅",
+          "url": "https://www.zaochenbao.com/news/china/202603/0365846.html",
+          "source": "早报",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时06分]"
+        },
+        {
+          "title": "苹果发布iPhone 17e：4499元起售 较16e“加量不加价”",
+          "url": "https://www.cls.cn/detail/2300445",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "苹果推出大量粉色配件",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA%E5%A4%A7%E9%87%8F%E7%B2%89%E8%89%B2%E9%85%8D%E4%BB%B6%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 4,
       "titles": [
@@ -227,128 +354,75 @@
           "time_info": "[05时34分 ~ 06时55分]"
         },
         {
+          "title": "雷军公布小米机器人最新进展：已在汽车工厂实习，初步实现部分场景自主工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684245",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 12时26分]"
+        },
+        {
           "title": "中信建投：首个国家级人形机器人标准体系发布 聚焦优质环节把握确定性和灵巧手等核心变化",
           "url": "https://www.gelonghui.com/news/5178155",
           "source": "格隆汇",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "雷军公布小米机器人最新进展：已在汽车工厂实习，初步实现部分场景自主工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684245",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         }
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 4,
       "titles": [
         {
-          "title": "星链与德国电信联手，在欧洲推出卫星移动服务",
-          "url": "https://wallstreetcn.com/livenews/3062118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时57分 ~ 05时34分]"
-        },
-        {
-          "title": "据报道，SpaceX计划在2027年年中为新款星链（Starlink）卫星的发射工作做好准备。",
-          "url": "https://api3.cls.cn/share/article/2300418?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "碳酸锂主力合约日内跌超10%，现报156020元/吨。",
+          "url": "https://flash.jin10.com/detail/20260303095507278800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "10时06分"
         },
         {
-          "title": "马斯克旗下太空探索公司SpaceX计划在2027年年中为新款星链（Starlink）卫星的发射工作做好准备。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3062067",
-          "source": "华尔街见闻-快讯",
+          "title": "早盘收盘，国内期货主力合约涨跌互现，集运欧线、燃油、SC原油封涨停，低硫燃料油（LU）涨超11%，甲醇涨近11%，液化石油气（LPG）涨超8%，丙烯涨超7%，聚丙烯、乙二醇（EG）、纯苯、塑料涨近6%。跌幅方面，碳酸锂跌超11%，沪锡跌超7%，铂跌超4%，沪银跌超3%，钯跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260303113116299800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "财联社3月3日电，碳酸锂主力合约日内跌幅达8%，报159460元/吨。",
+          "url": "https://api3.cls.cn/share/article/2300670?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "碳酸锂主力合约日内跌幅达8.00%，现报159460元/吨。",
+          "url": "https://flash.jin10.com/detail/20260303094901150800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国遥感卫星运营商万拓：新的高分辨率卫星图像显示，沙特阿拉伯拉斯坦乌拉石油设施在伊朗无人机袭击后遭受严重损坏。",
-          "url": "https://flash.jin10.com/detail/20260303033055744800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "苹果商讨由谷歌托管新版Siri",
-          "url": "https://api3.cls.cn/share/article/2300507?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 10时06分]"
-        },
-        {
-          "title": "中国2月份车市疲弱 比亚迪销量创六年来最大跌幅",
-          "url": "https://www.zaochenbao.com/news/china/202603/0365846.html",
-          "source": "早报",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 10时06分]"
-        },
-        {
-          "title": "苹果推出大量粉色配件",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA%E5%A4%A7%E9%87%8F%E7%B2%89%E8%89%B2%E9%85%8D%E4%BB%B6%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时06分"
         }
@@ -396,41 +470,85 @@
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 3,
       "titles": [
         {
-          "title": "碳酸锂主力合约日内跌超10%，现报156020元/吨。",
-          "url": "https://flash.jin10.com/detail/20260303095507278800",
-          "source": "金十数据",
+          "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
+          "url": "https://wallstreetcn.com/livenews/3062140",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            22,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 06时55分]"
         },
         {
-          "title": "财联社3月3日电，碳酸锂主力合约日内跌幅达8%，报159460元/吨。",
-          "url": "https://api3.cls.cn/share/article/2300670?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "OpenAI与美国军方合作引发用户反对：ChatGPT卸载量增加295% 一星评价激增775%",
+          "url": "https://api3.cls.cn/share/article/2300798?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "OpenAI奥特曼：正与国防部合作，对合约进行一些补充。 新增内容将使“原则变得非常清晰”。 国防情报机构不会使用OpenAI的服务。 人工智能系统不应用于国内监控。",
+          "url": "https://wallstreetcn.com/livenews/3062280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股异动｜英伟达涨超2% 战略加码40亿美元布局光通信赛道",
+          "url": "https://www.gelonghui.com/news/5178090",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时51分]"
+        },
+        {
+          "title": "美国拟限制英伟达H200对中国单一客户销售数量",
+          "url": "https://www.zaochenbao.com/news/politics/202603/0365863.html",
+          "source": "早报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "10时06分"
         },
         {
-          "title": "碳酸锂主力合约日内跌幅达8.00%，现报159460元/吨。",
-          "url": "https://flash.jin10.com/detail/20260303094901150800",
-          "source": "金十数据",
+          "title": "英伟达扩张生态圈：分别向两家光学技术公司投资20亿美元",
+          "url": "https://www.cls.cn/detail/2300388",
+          "source": "财联社热门",
           "ranks": [
-            17
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "12时26分"
         }
       ]
     },
@@ -495,63 +613,62 @@
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
       "match_count": 2,
       "titles": [
         {
-          "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
-          "url": "https://wallstreetcn.com/livenews/3062140",
-          "source": "华尔街见闻-快讯",
+          "title": "千问AI眼镜今开启预约 3月8日中国市场现货发售",
+          "url": "https://www.zaochenbao.com/news/china/202603/0265823.html",
+          "source": "早报",
           "ranks": [
-            11,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时34分 ~ 06时55分]"
-        },
-        {
-          "title": "OpenAI奥特曼：正与国防部合作，对合约进行一些补充。 新增内容将使“原则变得非常清晰”。 国防情报机构不会使用OpenAI的服务。 人工智能系统不应用于国内监控。",
-          "url": "https://wallstreetcn.com/livenews/3062280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股异动｜英伟达涨超2% 战略加码40亿美元布局光通信赛道",
-          "url": "https://www.gelonghui.com/news/5178090",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            2,
-            3,
-            4
+            21,
+            24
           ],
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时02分 ~ 07时51分]"
         },
         {
-          "title": "美国拟限制英伟达H200对中国单一客户销售数量",
-          "url": "https://www.zaochenbao.com/news/politics/202603/0365863.html",
-          "source": "早报",
+          "title": "千问AI眼镜真机曝光：首秀MWC2026，全球观众排队试戴",
+          "url": "https://www.gelonghui.com/news/5178192",
+          "source": "格隆汇",
           "ranks": [
-            1
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "12时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "恒生科技指数日内再次跌超1%，零跑汽车跌超5%，小鹏汽车、蔚来跌超4%，华虹半导体、小米跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3062398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.08%，报7198.52点。 热门中概股里，金山云初步收跌4.9%，再鼎医药、小米跌4.1%，文远知行、美团、唯品会、万国数据至多跌3.6%，晶科能源涨2.1%，贝壳涨2.2%，比亚迪涨5%，奇富科技涨5.8%，斗鱼涨7.2%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.32%。 XtrackersHarvest中证50（ASHS）收跌0.76%，德银嘉实沪深300指数ETF（ASHR）收涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3062148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时34分 ~ 07时26分]"
         }
       ]
     },
@@ -594,27 +711,43 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         }
       ]
     },
     {
-      "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
+      "keyword_group": "储能",
       "match_count": 1,
       "titles": [
         {
-          "title": "千问AI眼镜今开启预约 3月8日中国市场现货发售",
-          "url": "https://www.zaochenbao.com/news/china/202603/0265823.html",
-          "source": "早报",
+          "title": "沪指、创业板指双双翻红，此前均一度跌超1%，深成指跌幅同步收窄，油气、储能、天然气、航运等方向领涨，沪深京三市上涨个股超1600只。",
+          "url": "https://wallstreetcn.com/livenews/3062367",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
-            24
+            25
           ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 07时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月03日（周二）富时中国A50指数成分股午盘收盘行情一览：石油、航运港口、银行股集体上攻，消费电子、白酒板块涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260303113633150800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     },
@@ -630,28 +763,25 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 10时06分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 12时26分]"
         }
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 1,
       "titles": [
         {
-          "title": "纳斯达克金龙中国指数收跌1.08%，报7198.52点。 热门中概股里，金山云初步收跌4.9%，再鼎医药、小米跌4.1%，文远知行、美团、唯品会、万国数据至多跌3.6%，晶科能源涨2.1%，贝壳涨2.2%，比亚迪涨5%，奇富科技涨5.8%，斗鱼涨7.2%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.32%。 XtrackersHarvest中证50（ASHS）收跌0.76%，德银嘉实沪深300指数ETF（ASHR）收涨0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3062148",
+          "title": "六部门：加快研究制定废旧光伏组件综合利用行业规范条件",
+          "url": "https://wallstreetcn.com/livenews/3062372",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            17,
-            23,
-            28
+            21
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时34分 ~ 07时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     },
@@ -666,7 +796,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         }
