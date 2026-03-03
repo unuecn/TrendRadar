@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T18:39:29.467749+08:00",
-  "total_titles_processed": 1683,
+  "generated_at": "2026-03-03T19:32:41.288629+08:00",
+  "total_titles_processed": 1805,
   "failed_sources": [],
   "trends": [
     {
@@ -245,7 +245,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "雷军公布小米机器人最新进展：已在汽车工厂实习，初步实现部分场景自主工作",
@@ -286,17 +286,15 @@
           "time_info": "[14时52分 ~ 14时53分]"
         },
         {
-          "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260303052851593800",
-          "source": "金十数据",
+          "title": "机器人上春晚 松延动力完成B轮近10亿元融资",
+          "url": "https://www.zaochenbao.com/news/china/202603/0365917.html",
+          "source": "早报",
           "ranks": [
-            2,
-            13,
-            21
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时34分 ~ 06时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
@@ -308,8 +306,21 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时39分]"
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 19时32分]"
+        },
+        {
+          "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260303052851593800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 06时55分]"
         },
         {
           "title": "据CNBC：高通(QCOM.O)CEO表示，未来两年内，机器人技术将成为高通公司的一个“更大机遇”。",
@@ -442,11 +453,12 @@
           "ranks": [
             3,
             4,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时52分 ~ 18时39分]"
+          "appearance_count": 8,
+          "time_info": "[14时52分 ~ 19时32分]"
         },
         {
           "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
@@ -454,11 +466,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时39分]"
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 19时32分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
@@ -509,6 +522,83 @@
       ]
     },
     {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[07时51分 ~ 19时32分]"
+        },
+        {
+          "title": "《苹果日报》英文版前总编辑冯伟光不服刑罚提上诉",
+          "url": "https://www.zaochenbao.com/news/china/202603/0365918.html",
+          "source": "早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "苹果商讨由谷歌托管新版Siri",
+          "url": "https://api3.cls.cn/share/article/2300507?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "苹果发布iPhone 17e：4499元起售 较16e“加量不加价”",
+          "url": "https://www.cls.cn/detail/2300445",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 14时53分]"
+        },
+        {
+          "title": "中国2月份车市疲弱 比亚迪销量创六年来最大跌幅",
+          "url": "https://www.zaochenbao.com/news/china/202603/0365846.html",
+          "source": "早报",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时06分]"
+        },
+        {
+          "title": "苹果推出大量粉色配件",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA%E5%A4%A7%E9%87%8F%E7%B2%89%E8%89%B2%E9%85%8D%E4%BB%B6%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "台积电 英伟达",
       "match_count": 6,
       "titles": [
@@ -547,8 +637,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时39分]"
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 19时32分]"
         },
         {
           "title": "英伟达扩张生态圈：分别向两家光学技术公司投资20亿美元",
@@ -772,72 +862,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时51分 ~ 18时39分]"
-        },
-        {
-          "title": "苹果商讨由谷歌托管新版Siri",
-          "url": "https://api3.cls.cn/share/article/2300507?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "苹果发布iPhone 17e：4499元起售 较16e“加量不加价”",
-          "url": "https://www.cls.cn/detail/2300445",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 14时53分]"
-        },
-        {
-          "title": "中国2月份车市疲弱 比亚迪销量创六年来最大跌幅",
-          "url": "https://www.zaochenbao.com/news/china/202603/0365846.html",
-          "source": "早报",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 10时06分]"
-        },
-        {
-          "title": "苹果推出大量粉色配件",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA%E5%A4%A7%E9%87%8F%E7%B2%89%E8%89%B2%E9%85%8D%E4%BB%B6%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
         }
       ]
     },
