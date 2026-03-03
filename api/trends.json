@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T22:03:20.028184+08:00",
-  "total_titles_processed": 2034,
+  "generated_at": "2026-03-03T23:12:35.718185+08:00",
+  "total_titles_processed": 2149,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
           "source": "早报",
           "ranks": [
             2,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时32分 ~ 22时03分]"
+          "appearance_count": 4,
+          "time_info": "[19时32分 ~ 23时12分]"
         },
         {
           "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
@@ -90,11 +91,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 22时03分]"
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 23时12分]"
         },
         {
           "title": "据CNBC：高通(QCOM.O)CEO表示，未来两年内，机器人技术将成为高通公司的一个“更大机遇”。",
@@ -125,7 +127,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -147,7 +149,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -158,7 +160,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         }
@@ -281,7 +283,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -309,7 +311,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -377,7 +379,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -399,7 +401,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -429,7 +431,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
@@ -521,6 +523,17 @@
           "time_info": "[16时41分 ~ 17时41分]"
         },
         {
+          "title": "全球航空业ETF跌4.22%，半导体ETF跌4.03%，在美股盘初领跌行业ETF，全球科技股指数ETF跌3.24%，科技行业ETF跌2.13%，能源业ETF涨0.90%。 标普500能源指数高开0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3062849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美股盘前：明星科技股普跌，英伟达跌3%，英特尔、AMD均跌超3%，美光科技跌超4%；美股油气股普涨，Battalion Oil暴涨超50%，美国能源涨超12%，西方石油涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3062628",
           "source": "华尔街见闻-快讯",
@@ -546,7 +559,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI与五角大楼修订协议 确保AI不用于美国监控",
@@ -557,11 +570,12 @@
             4,
             14,
             15,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时52分 ~ 22时03分]"
+          "appearance_count": 11,
+          "time_info": "[14时52分 ~ 23时12分]"
         },
         {
           "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
@@ -589,6 +603,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时34分 ~ 06时55分]"
+        },
+        {
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "OpenAI与美国军方合作引发用户反对：ChatGPT卸载量增加295% 一星评价激增775%",
@@ -630,9 +655,200 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美股异动｜英伟达涨超2% 战略加码40亿美元布局光通信赛道",
+          "url": "https://www.gelonghui.com/news/5178090",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时51分]"
+        },
+        {
+          "title": "伊朗风险爆发，“台积电、三星和海力士”在内，今年大赚的新兴市场交易面临变局？",
+          "url": "https://wallstreetcn.com/articles/3766573",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时40分 ~ 23时12分]"
+        },
+        {
+          "title": "美国拟限制英伟达H200对中国单一客户销售数量",
+          "url": "https://www.zaochenbao.com/news/politics/202603/0365863.html",
+          "source": "早报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "英伟达扩张生态圈：分别向两家光学技术公司投资20亿美元",
+          "url": "https://www.cls.cn/detail/2300388",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时34分]"
+        },
+        {
+          "title": "英伟达联合电信巨头共建6G基建，黄仁勋：电信行业是下一个重点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683281",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
+        },
+        {
+          "title": "【风口研报·公司】英伟达豪掷40亿美元布局光通信，公司产品与光模块需求配比为1:1或2:1，且已应用于英伟达等北美用户，有望带动业绩有力释放；另有公司手握中重稀土原材料供应链",
+          "url": "https://api3.cls.cn/share/article/2301117?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "财联社3月3日电，台积电美股盘初跌5.4%，阿斯麦跌5.5%。",
+          "url": "https://api3.cls.cn/share/article/2301743?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "英伟达宣布：将于3月16-19日在美国加州举办2026年GTC。",
+          "url": "https://wallstreetcn.com/livenews/3062833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[07时51分 ~ 22时03分]"
+        },
+        {
+          "title": "《苹果日报》英文版前总编辑冯伟光不服刑罚提上诉",
+          "url": "https://www.zaochenbao.com/news/china/202603/0365918.html",
+          "source": "早报",
+          "ranks": [
+            1,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时32分 ~ 23时12分]"
+        },
+        {
+          "title": "苹果商讨由谷歌托管新版Siri",
+          "url": "https://api3.cls.cn/share/article/2300507?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "苹果发布iPhone 17e：4499元起售 较16e“加量不加价”",
+          "url": "https://www.cls.cn/detail/2300445",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 14时53分]"
+        },
+        {
+          "title": "中国2月份车市疲弱 比亚迪销量创六年来最大跌幅",
+          "url": "https://www.zaochenbao.com/news/china/202603/0365846.html",
+          "source": "早报",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时06分]"
+        },
+        {
+          "title": "苹果推出升级版MacBook Pro、Air、以及新款Studio显示器",
+          "url": "https://wallstreetcn.com/livenews/3062834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "苹果推出大量粉色配件",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA%E5%A4%A7%E9%87%8F%E7%B2%89%E8%89%B2%E9%85%8D%E4%BB%B6%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
@@ -710,163 +926,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时51分 ~ 22时03分]"
-        },
-        {
-          "title": "《苹果日报》英文版前总编辑冯伟光不服刑罚提上诉",
-          "url": "https://www.zaochenbao.com/news/china/202603/0365918.html",
-          "source": "早报",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时32分 ~ 22时03分]"
-        },
-        {
-          "title": "苹果商讨由谷歌托管新版Siri",
-          "url": "https://api3.cls.cn/share/article/2300507?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "苹果发布iPhone 17e：4499元起售 较16e“加量不加价”",
-          "url": "https://www.cls.cn/detail/2300445",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 14时53分]"
-        },
-        {
-          "title": "中国2月份车市疲弱 比亚迪销量创六年来最大跌幅",
-          "url": "https://www.zaochenbao.com/news/china/202603/0365846.html",
-          "source": "早报",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 10时06分]"
-        },
-        {
-          "title": "苹果推出大量粉色配件",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA%E5%A4%A7%E9%87%8F%E7%B2%89%E8%89%B2%E9%85%8D%E4%BB%B6%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股异动｜英伟达涨超2% 战略加码40亿美元布局光通信赛道",
-          "url": "https://www.gelonghui.com/news/5178090",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 07时51分]"
-        },
-        {
-          "title": "伊朗风险爆发，“台积电、三星和海力士”在内，今年大赚的新兴市场交易面临变局？",
-          "url": "https://wallstreetcn.com/articles/3766573",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时40分 ~ 22时03分]"
-        },
-        {
-          "title": "美国拟限制英伟达H200对中国单一客户销售数量",
-          "url": "https://www.zaochenbao.com/news/politics/202603/0365863.html",
-          "source": "早报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "英伟达扩张生态圈：分别向两家光学技术公司投资20亿美元",
-          "url": "https://www.cls.cn/detail/2300388",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 13时34分]"
-        },
-        {
-          "title": "英伟达联合电信巨头共建6G基建，黄仁勋：电信行业是下一个重点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683281",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 16时41分]"
-        },
-        {
-          "title": "【风口研报·公司】英伟达豪掷40亿美元布局光通信，公司产品与光模块需求配比为1:1或2:1，且已应用于英伟达等北美用户，有望带动业绩有力释放；另有公司手握中重稀土原材料供应链",
-          "url": "https://api3.cls.cn/share/article/2301117?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
         }
       ]
     },
@@ -1109,7 +1168,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         }
@@ -1306,7 +1365,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         }
@@ -1323,7 +1382,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         }
@@ -1340,7 +1399,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         }
@@ -1360,6 +1419,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股异动丨费城半导体指数跌超4%，英特尔、美光跌超7%",
+          "url": "https://www.gelonghui.com/news/5178669",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     }
