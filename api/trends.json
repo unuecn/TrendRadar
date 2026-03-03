@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T06:56:10.539534+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2026-03-04T07:28:20.362480+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
@@ -81,6 +81,19 @@
           "time_info": "[06时29分 ~ 06时56分]"
         },
         {
+          "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3063025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时29分 ~ 07时28分]"
+        },
+        {
           "title": "据华尔街日报：消息人士称，新闻集团与Meta Platforms(META.O)达成多年期人工智能授权协议，协议将至少持续三年，Meta每年将向新闻集团支付高达5000万美元的费用，以获得内容授权用于训练和内容输出。",
           "url": "https://flash.jin10.com/detail/20260304053702894800",
           "source": "金十数据",
@@ -89,18 +102,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时29分 ~ 06时56分]"
-        },
-        {
-          "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3063025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
           "time_info": "[06时29分 ~ 06时56分]"
         },
         {
@@ -140,8 +141,19 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
+          "url": "https://wallstreetcn.com/livenews/3063046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
         {
           "title": "OpenAI推出GPT‑5.3即时网站",
           "url": "https://api3.cls.cn/share/article/2301851?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -179,6 +191,28 @@
           "time_info": "[03时23分 ~ 03时58分]"
         },
         {
+          "title": "OpenAI正开发GitHub的替代品。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3063042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "据The Information：OpenAI正在开发微软GitHub的替代品。",
+          "url": "https://flash.jin10.com/detail/20260304064514298800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "谷歌推出GEMINI 3.1 FLASH-LITE模型",
           "url": "https://api3.cls.cn/share/article/2301827?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -204,8 +238,19 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
         {
           "title": "德意志银行：如果石油和天然气价格继续飙涨，进而冲击到欧洲经济，欧元兑美元恐怕会跌至1.13创2025年5月份以来最低。",
           "url": "https://wallstreetcn.com/livenews/3062884",
@@ -304,8 +349,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 06时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 07时28分]"
         },
         {
           "title": "贾跃亭成功做出机器人！法拉第未来已向美国高端酒店交付产品",
@@ -358,11 +403,12 @@
           "source": "格隆汇",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 06时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 07时28分]"
         },
         {
           "title": "《苹果日报》英文版前总编辑冯伟光不服刑罚提上诉",
@@ -372,8 +418,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 06时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 07时28分]"
         }
       ]
     },
@@ -438,8 +484,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 06时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 07时28分]"
         }
       ]
     }
