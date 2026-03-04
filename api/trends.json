@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T10:00:18.788456+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-03-04T12:14:57.450693+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
@@ -255,6 +255,17 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 12时14分]"
+        },
+        {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
@@ -264,17 +275,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 07时52分]"
-        },
-        {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
         },
         {
           "title": "德意志银行：如果石油和天然气价格继续飙涨，进而冲击到欧洲经济，欧元兑美元恐怕会跌至1.13创2025年5月份以来最低。",
@@ -496,6 +496,90 @@
       ]
     },
     {
+      "keyword_group": "液冷",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "液冷服务器概念震荡拉升 川润股份封涨停",
+          "url": "https://api3.cls.cn/share/article/2302069?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 10时00分]"
+        },
+        {
+          "title": "【掘金行业龙头】液冷+华为，拥有CPU液冷技术及两种液冷IDC解决方案，布局液冷边缘计算柜，这家公司客户包括华为、三大电信运营商",
+          "url": "https://api3.cls.cn/share/article/2302192?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "深成指、创业板指拉升翻红，沪指跌0.8%，农业、储能、电网设备、存储芯片等方向领涨，沪深京三市上涨个股超2000只。",
+          "url": "https://wallstreetcn.com/livenews/3063173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时00分"
+        },
+        {
+          "title": "伯恩斯坦：存储芯片涨势或在年底前后放缓",
+          "url": "https://flash.jin10.com/detail/20260304111207081800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "新材料首次将储能与释氢合二为一",
+          "url": "https://api3.cls.cn/share/article/2301923?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "大行评级丨里昂：上调宁德时代AH股目标价，上调全球储能系统增长预测",
+          "url": "https://www.gelonghui.com/news/5178750",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "雷达",
       "match_count": 2,
       "titles": [
@@ -601,57 +685,6 @@
       ]
     },
     {
-      "keyword_group": "液冷",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "液冷服务器概念震荡拉升 川润股份封涨停",
-          "url": "https://api3.cls.cn/share/article/2302069?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "深成指、创业板指拉升翻红，沪指跌0.8%，农业、储能、电网设备、存储芯片等方向领涨，沪深京三市上涨个股超2000只。",
-          "url": "https://wallstreetcn.com/livenews/3063173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "新材料首次将储能与释氢合二为一",
-          "url": "https://api3.cls.cn/share/article/2301923?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "氢能 质子交换膜 IV型储氢瓶 甲醇重整制氢",
       "match_count": 1,
       "titles": [
@@ -665,6 +698,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时59分 ~ 10时00分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "低空经济 eVTOL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "盛路通信：低空经济领域相关天线产品已量产交付",
+          "url": "https://api3.cls.cn/share/article/2302239?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌不一，集运欧线涨超15%，SC原油、燃油涨近10%，低硫燃料油（LU）涨近7%，聚丙烯（PP）涨近3%，液化石油气（LPG）、塑料、沪铝涨超2%。跌幅方面，铂、沪银跌超5%，多晶硅跌近5%，沪锡、碳酸锂跌超4%，钯跌3%，沪金跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260304113123207800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         }
       ]
     }
