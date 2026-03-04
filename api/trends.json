@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T04:32:13.359433+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-03-05T05:34:58.732618+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：将投资300亿美元于OpenAI 1000亿美元不在考虑之中",
@@ -61,7 +61,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -72,9 +72,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：公司近期对OpenAI的300亿美元投资",
+          "url": "https://api3.cls.cn/share/article/2303122?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         },
         {
           "title": "据华尔街日报：知情人士称，前OpenAI首席研究官正为一家人工智能初创公司筹集7000万美元资金，该初创公司正开发一款软件，以帮助工厂实现自主运行。",
@@ -90,60 +101,31 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 4,
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 5,
       "titles": [
         {
-          "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
-          "url": "https://www.cls.cn/detail/2302661",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时32分]"
-        },
-        {
-          "title": "亚马逊在机器人部门裁员。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3063839",
+          "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
+          "url": "https://wallstreetcn.com/livenews/3063863",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时32分"
+          "time_info": "05时34分"
         },
         {
-          "title": "人形机器人和外交成中国两会两大热点话题",
-          "url": "https://www.zaochenbao.com/news/china/202603/0466025.html",
-          "source": "早报",
+          "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，蔚来涨5.5%，小马智行、文远知行、小米涨超4%，新东方涨2.7%，小鹏、网易、腾讯、美团涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3063859",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         },
-        {
-          "title": "市场消息：亚马逊机器人部门裁员，人数不明。",
-          "url": "https://flash.jin10.com/detail/20260305032852963800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 3,
-      "titles": [
         {
           "title": "财联社3月5日电，特斯拉2月英国电动车新车销量同比下降45.21%至2208辆。",
           "url": "https://api3.cls.cn/share/article/2303109?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -184,6 +166,211 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
+          "url": "https://www.cls.cn/detail/2302661",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时34分]"
+        },
+        {
+          "title": "人形机器人和外交成中国两会两大热点话题",
+          "url": "https://www.zaochenbao.com/news/china/202603/0466025.html",
+          "source": "早报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时34分]"
+        },
+        {
+          "title": "市场消息：亚马逊机器人部门裁员，人数不明。",
+          "url": "https://flash.jin10.com/detail/20260305032852963800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时32分]"
+        },
+        {
+          "title": "亚马逊在机器人部门裁员。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3063839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 05时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "雷达",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
+          "url": "https://www.cls.cn/detail/2302544",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时34分]"
+        },
+        {
+          "title": "伊军袭击以国防部大楼与本·古里安国际机场 摧毁7套雷达系统",
+          "url": "https://api3.cls.cn/share/article/2303143?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "伊军袭击以国防部大楼与本·古里安国际机场，摧毁7套雷达系统",
+          "url": "https://wallstreetcn.com/livenews/3063862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "伊军称袭击以国防部大楼与本·古里安国际机场 摧毁7套雷达系统",
+          "url": "https://flash.jin10.com/detail/20260305050523611800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "加拿大总理卡尼：今天在悉尼会见了商业领袖，旨在建立新的合作伙伴关系，为我们的能源、关键矿产和人工智能领域创造数千个高薪职业。",
+          "url": "https://flash.jin10.com/detail/20260305034744133800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "财联社3月5日电，Meta Platforms计划开发硅芯片以训练人工智能模型，旨在提升AI能力。",
+          "url": "https://api3.cls.cn/share/article/2303138?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "美国参议院Ron Wyden就特朗普政府在国内实施监控（国内间谍）的政策施压多家人工智能（AI）公司。",
+          "url": "https://wallstreetcn.com/livenews/3063848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "市场消息：美国参议员就监控政策问题向人工智能公司施压。",
+          "url": "https://flash.jin10.com/detail/20260305043153960800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股三大指数集体收涨 英特尔涨超5%",
+          "url": "https://api3.cls.cn/share/article/2303140?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "英特尔一度涨超5.5%，该公司CFO谈及芯片供应短缺等问题。",
+          "url": "https://wallstreetcn.com/livenews/3063789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时51分]"
+        },
+        {
+          "title": "英特尔CFO：服务器CPU市场将在2026年显著增长",
+          "url": "https://api3.cls.cn/share/article/2303099?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时51分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.8%，可选消费板块涨2.2%，科技板块涨1.3%，能源板块跌0.8%。 纳斯达克100指数初步收涨1.5%，成分股中，AppLovin涨10.4%，Strategy涨10.3%，罗斯百货涨8%，英特尔涨5.9%，Datadog涨5.9%，Axon跌1.5%，Atlassian跌2%，微芯科技跌2.2%，KDP跌2.3%，贝克休斯跌2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3063857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 2,
       "titles": [
@@ -195,8 +382,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时34分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -206,8 +393,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时34分]"
         }
       ]
     },
@@ -223,8 +410,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时34分]"
         },
         {
           "title": "英特尔CFO：服务器CPU市场将在2026年大幅增长。 （大范围的）服务器需求强劲。 到2027年，供应都将是一个更大的挑战。 芯片行业全面遭遇供应短缺问题。 预计存储芯片供应短缺这个问题将持续至2027年。 我们的工厂超负荷运转。",
@@ -250,11 +437,12 @@
           "ranks": [
             12,
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时34分]"
         },
         {
           "title": "比亚迪英国2月电动汽车新车销量同比增长40.90%至968辆。",
@@ -266,71 +454,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英特尔 高通",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英特尔一度涨超5.5%，该公司CFO谈及芯片供应短缺等问题。",
-          "url": "https://wallstreetcn.com/livenews/3063789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时51分]"
-        },
-        {
-          "title": "英特尔CFO：服务器CPU市场将在2026年显著增长",
-          "url": "https://api3.cls.cn/share/article/2303099?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "雷达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
-          "url": "https://www.cls.cn/detail/2302544",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "加拿大总理卡尼：今天在悉尼会见了商业领袖，旨在建立新的合作伙伴关系，为我们的能源、关键矿产和人工智能领域创造数千个高薪职业。",
-          "url": "https://flash.jin10.com/detail/20260305034744133800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时32分"
         }
       ]
     },
@@ -363,8 +486,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时34分]"
         }
       ]
     },
