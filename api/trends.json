@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T19:55:35.721505+08:00",
-  "total_titles_processed": 1995,
+  "generated_at": "2026-03-04T20:56:38.744473+08:00",
+  "total_titles_processed": 2097,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "财联社3月4日电，据报道，Meta将开辟新的AI应用工程组织，Meta Applied AI工程组织将隶属于Reality Labs部门。",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时57分 ~ 05时34分]"
+        },
+        {
+          "title": "财联社3月4日电，云计算公司CoreWeave股价盘前上涨3.5%，消息面上，人工智能公司Perplexity已签约使用该公司的数据中心。",
+          "url": "https://api3.cls.cn/share/article/2302908?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "备忘录称，新成立的应用人工智能工程团队将由Reality Labs部门的萨巴领导。",
@@ -177,8 +188,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时07分 ~ 19时55分]"
+          "appearance_count": 10,
+          "time_info": "[14时07分 ~ 20时56分]"
         },
         {
           "title": "机器人上春晚 松延动力完成B轮近10亿元融资",
@@ -201,19 +212,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 19时55分]"
-        },
-        {
-          "title": "投出字节小米的顶级资本，为何集体押注“全球ACR箱式仓储机器人第一股”",
-          "url": "https://www.gelonghui.com/news/5178733",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 20时56分]"
         },
         {
           "title": "雷军两会建言：加快推动人形机器人“上岗” 关注智驾时代安全体系与人才培育",
@@ -225,8 +225,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时50分 ~ 19时55分]"
+          "appearance_count": 7,
+          "time_info": "[16时50分 ~ 20时56分]"
+        },
+        {
+          "title": "投出字节小米的顶级资本，为何集体押注“全球ACR箱式仓储机器人第一股”",
+          "url": "https://www.gelonghui.com/news/5178733",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 10时00分]"
         },
         {
           "title": "机器人概念午后异动 瑞纳智能直线涨停",
@@ -299,7 +310,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
@@ -407,13 +418,24 @@
           "time_info": "01时12分"
         },
         {
+          "title": "紫光股份(000938.SZ)：控股子公司新华三与DeepSeek在大模型训练等领域保持持续深度的常态化沟通和技术合作",
+          "url": "https://www.gelonghui.com/news/5179172",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "OpenAI高管：自主性是开发AI智能体的关键",
           "url": "https://flash.jin10.com/detail/20260304194354289800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         }
@@ -421,8 +443,19 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "消息称特斯拉计划就大幅提升AI6芯片产能规模与三星电子磋商",
+          "url": "https://api3.cls.cn/share/article/2302899?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
         {
           "title": "小米计划每年推出一款新的智能手机处理器芯片。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3063605",
@@ -527,7 +560,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -538,8 +571,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时59分 ~ 19时55分]"
+          "appearance_count": 15,
+          "time_info": "[09时59分 ~ 20时56分]"
         },
         {
           "title": "市场评估特朗普“护航”计划，美股期指转涨，德股涨超1%，韩股历史性暴跌12%，油价再涨3%，白银涨5%",
@@ -563,6 +596,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 07时52分]"
+        },
+        {
+          "title": "风险资产全线反弹，美股期指转涨，美油转跌，断供影响伦铝创四年新高",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "德意志银行：如果石油和天然气价格继续飙涨，进而冲击到欧洲经济，欧元兑美元恐怕会跌至1.13创2025年5月份以来最低。",
@@ -637,8 +681,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时50分 ~ 19时55分]"
+          "appearance_count": 7,
+          "time_info": "[16时50分 ~ 20时56分]"
         },
         {
           "title": "尊界首搭双光路图像级激光雷达",
@@ -851,11 +895,12 @@
           "url": "https://www.zaochenbao.com/news/china/202603/0466010.html",
           "source": "早报",
           "ranks": [
-            3
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时55分]"
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 20时56分]"
         },
         {
           "title": "新材料首次将储能与释氢合二为一",
@@ -887,7 +932,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         }
@@ -999,47 +1044,8 @@
       ]
     },
     {
-      "keyword_group": "液冷",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "同星科技(301252.SZ)：在液冷微通道换热器方面具备相应的技术储备和生产能力",
-          "url": "https://www.gelonghui.com/news/5178795",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "液冷服务器概念震荡拉升 川润股份封涨停",
-          "url": "https://api3.cls.cn/share/article/2302069?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
-        },
-        {
-          "title": "【掘金行业龙头】液冷+华为，拥有CPU液冷技术及两种液冷IDC解决方案，布局液冷边缘计算柜，这家公司客户包括华为、三大电信运营商",
-          "url": "https://api3.cls.cn/share/article/2302192?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗风险爆发，“台积电、三星和海力士”在内，今年大赚的新兴市场交易面临变局？",
@@ -1075,6 +1081,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "【电报解读】英伟达GB300、AMD MI300等新一代AI服务器平台大规模部署催生需求，国巨9个月内第三次上调聚合物钽电容价格，这家业内巨头已于去年末正式发布相关产品的涨价函",
+          "url": "https://api3.cls.cn/share/article/2302871?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "液冷",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "同星科技(301252.SZ)：在液冷微通道换热器方面具备相应的技术储备和生产能力",
+          "url": "https://www.gelonghui.com/news/5178795",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "液冷服务器概念震荡拉升 川润股份封涨停",
+          "url": "https://api3.cls.cn/share/article/2302069?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 10时00分]"
+        },
+        {
+          "title": "【掘金行业龙头】液冷+华为，拥有CPU液冷技术及两种液冷IDC解决方案，布局液冷边缘计算柜，这家公司客户包括华为、三大电信运营商",
+          "url": "https://api3.cls.cn/share/article/2302192?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         }
       ]
     },
@@ -1117,6 +1173,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时34分 ~ 06时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "强一股份：1-2月合并营业收入同比增长158% AI算力需求爆发高端MEMS探针卡业务增长迅猛",
+          "url": "https://api3.cls.cn/share/article/2302741?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 18时37分]"
+        },
+        {
+          "title": "紫光股份(000938.SZ)：具备支撑超大规模智算中心建设与大模型产业化落地的综合能力",
+          "url": "https://www.gelonghui.com/news/5179175",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     },
@@ -1218,23 +1302,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时07分 ~ 06时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "强一股份：1-2月合并营业收入同比增长158% AI算力需求爆发高端MEMS探针卡业务增长迅猛",
-          "url": "https://api3.cls.cn/share/article/2302741?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
         }
       ]
     },
