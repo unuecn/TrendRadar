@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-03-05T19:34:04.141240+08:00",
-  "total_titles_processed": 1698,
-  "failed_sources": [],
+  "generated_at": "2026-03-05T21:01:07.714295+08:00",
+  "total_titles_processed": 1807,
+  "failed_sources": [
+    "gelonghui"
+  ],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-05）",
@@ -41,15 +43,17 @@
           "time_info": "07时39分"
         },
         {
-          "title": "香港监管机构推出GenA.I.沙盒++以促进金融服务领域的人工智能创新",
-          "url": "https://wallstreetcn.com/livenews/3064454",
-          "source": "华尔街见闻-快讯",
+          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            20,
+            16,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时39分 ~ 21时01分]"
         },
         {
           "title": "欧洲央行监管委员会成员Donnery：正评估伊朗局势对银行系统的间接冲击风险。 欧盟银行业对伊朗冲突的直接风险敞口有限。 银行尚未出现利用人工智能取代岗位的现象。",
@@ -64,16 +68,16 @@
           "time_info": "[16时41分 ~ 17时42分]"
         },
         {
-          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
-          "source": "澎湃新闻",
+          "title": "香港监管机构推出GenA.I.沙盒++以促进金融服务领域的人工智能创新",
+          "url": "https://wallstreetcn.com/livenews/3064454",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            16
+            4,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 19时34分]"
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 21时01分]"
         },
         {
           "title": "财联社3月5日电，Meta Platforms计划开发硅芯片以训练人工智能模型，旨在提升AI能力。",
@@ -97,6 +101,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "财联社3月5日电，Meta据悉将允许人工智能竞争对手接入WhatsApp，以避免欧盟采取行动。",
+          "url": "https://api3.cls.cn/share/article/2304257?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时01分]"
         },
         {
           "title": "工信部部长李乐成：全力推进新一代人工智能产品的攻关和迭代更新",
@@ -419,8 +434,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时34分]"
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 21时01分]"
+        },
+        {
+          "title": "荣耀机器人手机亮相巴塞罗那",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/03/05/9106a8100fe749ba8e4658df6d6b46a6.html",
+          "source": "参考消息",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 21时01分]"
         },
         {
           "title": "财联社3月5日电，亚马逊机器人部门裁员至少100人。",
@@ -467,18 +494,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时34分]"
-        },
-        {
-          "title": "荣耀机器人手机亮相巴塞罗那",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/03/05/9106a8100fe749ba8e4658df6d6b46a6.html",
-          "source": "参考消息",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时34分]"
         },
         {
           "title": "浙江华远(301535.SZ)：公司相关产品没有在人形机器人领域应用",
@@ -640,6 +655,118 @@
       ]
     },
     {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "苹果发布会",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            17,
+            14,
+            13,
+            15,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 12时24分]"
+        },
+        {
+          "title": "比亚迪王传福：第二代刀片电池9分钟“充饱”",
+          "url": "https://wallstreetcn.com/livenews/3064459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 21时01分]"
+        },
+        {
+          "title": "比亚迪闪充零下30度12分钟充饱",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%97%AA%E5%85%85%E9%9B%B6%E4%B8%8B30%E5%BA%A612%E5%88%86%E9%92%9F%E5%85%85%E9%A5%B1%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时01分]"
+        },
+        {
+          "title": "比亚迪计划到2026年年底建设落成2万个闪充站",
+          "url": "https://api3.cls.cn/share/article/2304236?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时01分]"
+        },
+        {
+          "title": "比亚迪英国2月电动汽车新车销量同比增长40.90%至968辆。",
+          "url": "https://flash.jin10.com/detail/20260305012308521800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "比亚迪第二代刀片电池首搭10款车型",
+          "url": "https://wallstreetcn.com/livenews/3064483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "比亚迪计划到2026年年底建设落成2万个闪充站",
+          "url": "https://wallstreetcn.com/livenews/3064482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "不到4600元！苹果推出最平价笔记本MacBook Neo，首次以iPhone芯片杀入低端PC市场",
+          "url": "https://wallstreetcn.com/articles/3766737",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "商品期货收盘，烧碱主力合约涨停，原油、纯苯涨超6%，苯乙烯涨近6%，苹果涨超4%，BR橡胶、对二甲苯涨超3%。液化气、甲醇、集运欧线跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3064291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英特尔 高通",
       "match_count": 9,
       "titles": [
@@ -763,8 +890,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时39分 ~ 19时34分]"
+          "appearance_count": 15,
+          "time_info": "[07时39分 ~ 21时01分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -796,8 +923,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 21时01分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收涨0.47%，报433.38点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌0.22%，报3046.92点。 在美股时段交易的原材料指数收跌0.06%，金属与矿业指数收涨0.04%。",
@@ -920,6 +1047,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "量子科技 量子计算 量子通信",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "首场“委员通道”聚焦什么？“苏超”、量子科技和硅基生产力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32700250",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[10时02分 ~ 21时01分]"
+        },
+        {
+          "title": "量子科技概念震荡拉升 神州信息涨停",
+          "url": "https://api3.cls.cn/share/article/2303372?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "成都华微与循态量子达成战略合作 加速量子通信产业化落地",
+          "url": "https://api3.cls.cn/share/article/2303640?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "中国将着力培育发展量子科技、具身智能等未来产业",
+          "url": "https://www.zaochenbao.com/news/china/202603/0566064.html",
+          "source": "早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 13时32分]"
+        },
+        {
+          "title": "【焦点复盘】市场全天现普涨反弹，电网设备板块强势依旧，量子科技等未来产业轮动活跃",
+          "url": "https://www.cls.cn/detail/2303998",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时01分]"
+        },
+        {
+          "title": "政府工作报告丨培育发展未来能源、量子科技、6G等未来产业",
+          "url": "https://wallstreetcn.com/livenews/3064042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
@@ -1065,138 +1267,8 @@
       ]
     },
     {
-      "keyword_group": "量子科技 量子计算 量子通信",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "首场“委员通道”聚焦什么？“苏超”、量子科技和硅基生产力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32700250",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时02分 ~ 19时34分]"
-        },
-        {
-          "title": "量子科技概念震荡拉升 神州信息涨停",
-          "url": "https://api3.cls.cn/share/article/2303372?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
-        },
-        {
-          "title": "成都华微与循态量子达成战略合作 加速量子通信产业化落地",
-          "url": "https://api3.cls.cn/share/article/2303640?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "中国将着力培育发展量子科技、具身智能等未来产业",
-          "url": "https://www.zaochenbao.com/news/china/202603/0566064.html",
-          "source": "早报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 13时32分]"
-        },
-        {
-          "title": "政府工作报告丨培育发展未来能源、量子科技、6G等未来产业",
-          "url": "https://wallstreetcn.com/livenews/3064042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "苹果发布会",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            17,
-            14,
-            13,
-            15,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 12时24分]"
-        },
-        {
-          "title": "比亚迪王传福：第二代刀片电池9分钟“充饱”",
-          "url": "https://wallstreetcn.com/livenews/3064459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "比亚迪英国2月电动汽车新车销量同比增长40.90%至968辆。",
-          "url": "https://flash.jin10.com/detail/20260305012308521800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "不到4600元！苹果推出最平价笔记本MacBook Neo，首次以iPhone芯片杀入低端PC市场",
-          "url": "https://wallstreetcn.com/articles/3766737",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "商品期货收盘，烧碱主力合约涨停，原油、纯苯涨超6%，苯乙烯涨近6%，苹果涨超4%，BR橡胶、对二甲苯涨超3%。液化气、甲醇、集运欧线跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3064291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股异动丨存储概念股齐涨，机构预计NAND闪存本季或再涨价90%",
@@ -1225,6 +1297,17 @@
           "time_info": "[06时31分 ~ 07时39分]"
         },
         {
+          "title": "【风口研报·公司】存储芯片设备+钙钛矿+固态电池激光设备，这家公司已获头部客户首个国产量产订单，或将随客户扩产转化为显著的业绩弹性；第三代石英电子布供需紧张，这家公司投资加码切入且具备协同优势",
+          "url": "https://api3.cls.cn/share/article/2303920?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时01分]"
+        },
+        {
           "title": "英特尔CFO：服务器CPU市场将在2026年大幅增长。 （大范围的）服务器需求强劲。 到2027年，供应都将是一个更大的挑战。 芯片行业全面遭遇供应短缺问题。 预计存储芯片供应短缺这个问题将持续至2027年。 我们的工厂超负荷运转。",
           "url": "https://wallstreetcn.com/livenews/3063783",
           "source": "华尔街见闻-快讯",
@@ -1234,6 +1317,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中企新石器在阿联酋暂停自动驾驶车辆运营",
+          "url": "https://www.zaochenbao.com/news/china/202603/0566102.html",
+          "source": "早报",
+          "ranks": [
+            2,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 21时01分]"
+        },
+        {
+          "title": "广安爱众：参与设立投资基金 投资于低空无人机领域、自动驾驶领域等",
+          "url": "https://api3.cls.cn/share/article/2304229?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时01分]"
+        },
+        {
+          "title": "中国自动驾驶科技公司初速度Momenta据悉申请10亿美元香港IPO。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3064378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         }
       ]
     },
@@ -1335,35 +1459,6 @@
       ]
     },
     {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中企新石器在阿联酋暂停自动驾驶车辆运营",
-          "url": "https://www.zaochenbao.com/news/china/202603/0566102.html",
-          "source": "早报",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时34分]"
-        },
-        {
-          "title": "中国自动驾驶科技公司初速度Momenta据悉申请10亿美元香港IPO。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3064378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "低空经济 eVTOL",
       "match_count": 2,
       "titles": [
@@ -1388,6 +1483,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本商业航天公司小型火箭发射第三度失败",
+          "url": "https://www.zaochenbao.com/news/politics/202603/0566114.html",
+          "source": "早报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时01分]"
+        },
+        {
+          "title": "日本商业航天公司小型火箭“凯洛斯”3号发射失败",
+          "url": "https://wallstreetcn.com/livenews/3064154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
@@ -1467,23 +1590,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日本商业航天公司小型火箭“凯洛斯”3号发射失败",
-          "url": "https://wallstreetcn.com/livenews/3064154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时24分"
         }
       ]
     },
