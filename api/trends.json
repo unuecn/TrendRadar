@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T06:31:39.053520+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-03-06T07:51:34.080144+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
@@ -134,8 +134,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时51分]"
         },
         {
           "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
@@ -143,11 +143,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时27分 ~ 06时31分]"
+          "appearance_count": 7,
+          "time_info": "[02时27分 ~ 07时51分]"
         },
         {
           "title": "市场消息：马斯克的xAI未能阻止加州人工智能透明度法案实施。",
@@ -213,7 +214,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         }
@@ -236,28 +237,6 @@
           "time_info": "[00时10分 ~ 05时35分]"
         },
         {
-          "title": "卫星图像显示美军部署在约旦的反导雷达遭袭 或已被摧毁",
-          "url": "https://wallstreetcn.com/livenews/3064682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "卫星图像显示美军部署在约旦的反导雷达遭袭 或已被摧毁",
-          "url": "https://api3.cls.cn/share/article/2304481?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
           "title": "美以超7套先进雷达系统被摧毁",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E8%B6%857%E5%A5%97%E5%85%88%E8%BF%9B%E9%9B%B7%E8%BE%BE%E7%B3%BB%E7%BB%9F%E8%A2%AB%E6%91%A7%E6%AF%81%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -272,14 +251,39 @@
         },
         {
           "title": "卫星图像显示美军部署在约旦的反导雷达遭袭 或已被摧毁",
+          "url": "https://wallstreetcn.com/livenews/3064682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时51分]"
+        },
+        {
+          "title": "卫星图像显示美军部署在约旦的反导雷达遭袭 或已被摧毁",
+          "url": "https://api3.cls.cn/share/article/2304481?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时51分]"
+        },
+        {
+          "title": "卫星图像显示美军部署在约旦的反导雷达遭袭 或已被摧毁",
           "url": "https://flash.jin10.com/detail/20260306061045750800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时51分]"
         }
       ]
     },
@@ -340,28 +344,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
-          "url": "https://wallstreetcn.com/livenews/3064683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
-          "url": "https://api3.cls.cn/share/article/2304473?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
           "title": "并行科技：拟不超8066万元采购GPU算力服务器和存储设备",
           "url": "https://api3.cls.cn/share/article/2304401?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -371,6 +353,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
+          "url": "https://wallstreetcn.com/livenews/3064683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时51分]"
+        },
+        {
+          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
+          "url": "https://api3.cls.cn/share/article/2304473?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时51分]"
         },
         {
           "title": "市场消息：美国考虑制定规则，为寻求美国AI芯片的国家设立四个等级，美国考虑新的框架以监管人工智能芯片出口，出口超过20万个美国AI芯片可能需要对美国AI数据中心或安全进行投资。",
@@ -399,8 +405,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时51分]"
         },
         {
           "title": "【焦点复盘】市场全天现普涨反弹，电网设备板块强势依旧，量子科技等未来产业轮动活跃",
@@ -411,8 +417,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时51分]"
         },
         {
           "title": "IBM与高校研究人员共同合成一种前所未见的分子，并利用量子计算证实其奇异特性。",
@@ -428,6 +434,45 @@
       ]
     },
     {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "日本商业航天公司小型火箭发射第三度失败",
+          "url": "https://www.zaochenbao.com/news/politics/202603/0566114.html",
+          "source": "早报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 06时31分]"
+        },
+        {
+          "title": "220吨级液氧甲烷火箭发动机“蓝焱”完成整机试车",
+          "url": "https://api3.cls.cn/share/article/2304487?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "220吨级液氧甲烷火箭发动机“蓝焱”完成整机试车",
+          "url": "https://wallstreetcn.com/livenews/3064693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 2,
       "titles": [
@@ -439,8 +484,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时51分]"
         },
         {
           "title": "荣耀机器人手机亮相巴塞罗那",
@@ -450,8 +495,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时51分]"
         }
       ]
     },
@@ -468,8 +513,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时51分]"
         },
         {
           "title": "比亚迪全球首创闪充桩来了",
@@ -489,6 +534,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美股七巨头收盘播报｜英伟达收盘转涨0.16%",
+          "url": "https://wallstreetcn.com/livenews/3064665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 07时51分]"
+        },
+        {
           "title": "费城半导体指数下挫2.1%。英伟达股价跌至盘中低点，跌幅1.3%。 AMD跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3064621",
           "source": "华尔街见闻-快讯",
@@ -499,35 +557,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时44分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收盘转涨0.16%",
-          "url": "https://wallstreetcn.com/livenews/3064665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时31分]"
         }
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "keyword_group": "小米 特斯拉 华为",
       "match_count": 1,
       "titles": [
         {
-          "title": "日本商业航天公司小型火箭发射第三度失败",
-          "url": "https://www.zaochenbao.com/news/politics/202603/0566114.html",
-          "source": "早报",
+          "title": "武林外传小米演员已经坚持施粥5年",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%E5%B0%8F%E7%B1%B3%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E5%9D%9A%E6%8C%81%E6%96%BD%E7%B2%A55%E5%B9%B4%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            16
+            13
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         }
       ]
     },
