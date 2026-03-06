@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T22:38:14.013566+08:00",
-  "total_titles_processed": 2036,
+  "generated_at": "2026-03-06T23:37:19.491602+08:00",
+  "total_titles_processed": 2143,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时02分 ~ 22时38分]"
+          "appearance_count": 17,
+          "time_info": "[10时02分 ~ 23时37分]"
         },
         {
           "title": "财联社3月6日电，软银据悉寻求最高400亿美元贷款，用于投资OpenAI。",
@@ -383,7 +383,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
@@ -447,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "美国芝加哥联储主席Goolsbee：并不认为人工智能（AI）的应用解释了生产力数据。",
+          "url": "https://wallstreetcn.com/livenews/3065348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "国家发展改革委主任：“十五五”末人工智能相关产业规模将增长到10万亿元以上",
@@ -557,8 +568,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时10分 ~ 22时38分]"
+          "appearance_count": 25,
+          "time_info": "[00时10分 ~ 23时37分]"
         },
         {
           "title": "荣耀机器人手机亮相巴塞罗那",
@@ -904,11 +915,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 22时38分]"
+          "appearance_count": 3,
+          "time_info": "[21时56分 ~ 23时37分]"
         },
         {
           "title": "ETF收评 | A股全线上涨，港股创新药领涨，港股通创新药ETF汇添富、港股通创新药ETF华宝涨超4%",
@@ -953,6 +965,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 06时31分]"
+        },
+        {
+          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 06时31分]"
+        },
+        {
+          "title": "美股下跌之际中概股逆势走强 京东以5.5%涨幅领涨",
+          "url": "https://api3.cls.cn/share/article/2305803?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "周四（3月5日）纽约尾盘，美元兑日元涨0.52%，报157.84日元，日内交投区间为156.454-157.84日元。 欧元兑日元跌0.02%，英镑兑日元涨0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3064654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时31分]"
+        },
+        {
+          "title": "彭博美元指数转跌，（快速）回吐美国非农就业报告发布以来这一波涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3065349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "全球航空业ETF跌2.03%，在美股盘初领跌行业ETF，医疗保健ETF跌1.57%，标普日常消费ETF跌1.28%，房地产精选ETF跌1.20%。 标普油气ETF则涨1.7%，北美科技股软件ETF涨2.0%。",
+          "url": "https://wallstreetcn.com/livenews/3064564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
         }
       ]
     },
@@ -1020,58 +1106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时31分]"
-        },
-        {
-          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
-          "url": "https://wallstreetcn.com/articles/3766668",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时31分]"
-        },
-        {
-          "title": "周四（3月5日）纽约尾盘，美元兑日元涨0.52%，报157.84日元，日内交投区间为156.454-157.84日元。 欧元兑日元跌0.02%，英镑兑日元涨0.14%。",
-          "url": "https://wallstreetcn.com/livenews/3064654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时31分]"
-        },
-        {
-          "title": "全球航空业ETF跌2.03%，在美股盘初领跌行业ETF，医疗保健ETF跌1.57%，标普日常消费ETF跌1.28%，房地产精选ETF跌1.20%。 标普油气ETF则涨1.7%，北美科技股软件ETF涨2.0%。",
-          "url": "https://wallstreetcn.com/livenews/3064564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
         }
       ]
     },
@@ -1200,7 +1234,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -1425,7 +1459,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -1490,6 +1524,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时34分 ~ 18时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢能 质子交换膜 IV型储氢瓶 甲醇重整制氢",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国富氢能(02582.HK)附属签订5500万元制氢设备销售协议 助力绿电制氢合成氨项目",
+          "url": "https://www.gelonghui.com/news/5180473",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         }
       ]
     },
