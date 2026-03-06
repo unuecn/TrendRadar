@@ -1,11 +1,73 @@
 {
-  "generated_at": "2026-03-07T01:35:47.010186+08:00",
-  "total_titles_processed": 295,
+  "generated_at": "2026-03-07T02:44:38.233408+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
+          "url": "https://wallstreetcn.com/livenews/3065420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "财联社3月7日电，OpenAI推出了一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
+          "url": "https://api3.cls.cn/share/article/2305837?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时44分]"
+        },
+        {
+          "title": "OpenAI发布AI代理安全工具 或冲击传统网络安全公司",
+          "url": "https://flash.jin10.com/detail/20260307021349560800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "市场消息：OpenAI推出了一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
+          "url": "https://flash.jin10.com/detail/20260307021106759800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股下跌之际中概股逆势走强 京东以5.5%涨幅领涨",
@@ -17,6 +79,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "LME期铜收跌40美元，报12862美元/吨。 LME期铝收涨150美元，报3446美元/吨。 LME期锌收涨71美元，报3298美元/吨。 LME期铅收涨12美元，报1953美元/吨。 LME期镍收涨251美元，报17469美元/吨。 LME期锡收涨164美元，报50065美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3065410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         },
         {
           "title": "彭博美元指数转跌，（快速）回吐美国非农就业报告发布以来这一波涨幅。",
@@ -40,11 +113,12 @@
           "url": "https://wallstreetcn.com/livenews/3065406",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 02时44分]"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee：并不认为人工智能（AI）的应用解释了生产力数据。",
@@ -71,8 +145,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时44分]"
         }
       ]
     },
@@ -88,8 +162,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时44分]"
         }
       ]
     },
@@ -105,26 +179,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时44分]"
         }
       ]
     },
@@ -137,11 +193,12 @@
           "url": "https://wallstreetcn.com/livenews/3065391",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 02时44分]"
         }
       ]
     }
