@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T07:51:34.080144+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-03-06T10:03:06.617053+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型 支持高达100万token的上下文窗口",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时44分 ~ 04时38分]"
+        },
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -131,11 +142,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 10时03分]"
         },
         {
           "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
@@ -144,11 +156,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时27分 ~ 07时51分]"
+          "appearance_count": 9,
+          "time_info": "[02时27分 ~ 10时03分]"
         },
         {
           "title": "市场消息：马斯克的xAI未能阻止加州人工智能透明度法案实施。",
@@ -217,6 +230,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "并行科技：拟不超8066万元采购GPU算力服务器和存储设备",
+          "url": "https://api3.cls.cn/share/article/2304401?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "A股算力租赁概念震荡走强，美利云2连板，城地香江涨停，中贝通信、海天瑞声、云赛智联、铜牛信息跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3064779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
+          "url": "https://wallstreetcn.com/livenews/3064683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时51分]"
+        },
+        {
+          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
+          "url": "https://api3.cls.cn/share/article/2304473?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时51分]"
+        },
+        {
+          "title": "市场消息：美国考虑制定规则，为寻求美国AI芯片的国家设立四个等级，美国考虑新的框架以监管人工智能芯片出口，出口超过20万个美国AI芯片可能需要对美国AI数据中心或安全进行投资。",
+          "url": "https://flash.jin10.com/detail/20260306050651902800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
@@ -340,54 +416,54 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "苹果 比亚迪",
       "match_count": 4,
       "titles": [
         {
-          "title": "并行科技：拟不超8066万元采购GPU算力服务器和存储设备",
-          "url": "https://api3.cls.cn/share/article/2304401?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
-          "url": "https://wallstreetcn.com/livenews/3064683",
-          "source": "华尔街见闻-快讯",
+          "title": "电动化上半场完美收官：比亚迪发布第二代刀片电池及闪充技术",
+          "url": "https://www.gelonghui.com/news/5179858",
+          "source": "格隆汇",
           "ranks": [
             1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时51分]"
-        },
-        {
-          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
-          "url": "https://api3.cls.cn/share/article/2304473?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
             2,
-            9
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 10时03分]"
+        },
+        {
+          "title": "比亚迪计划年底前在中国建成2万座闪充站",
+          "url": "https://www.zaochenbao.com/news/china/202603/0666150.html",
+          "source": "早报",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时51分]"
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "市场消息：美国考虑制定规则，为寻求美国AI芯片的国家设立四个等级，美国考虑新的框架以监管人工智能芯片出口，出口超过20万个美国AI芯片可能需要对美国AI数据中心或安全进行投资。",
-          "url": "https://flash.jin10.com/detail/20260306050651902800",
-          "source": "金十数据",
+          "title": "比亚迪王传福：第二代刀片电池9分钟“充饱”，到年底建成20000座闪充站",
+          "url": "https://wallstreetcn.com/articles/3766820",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "比亚迪全球首创闪充桩来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%A8%E7%90%83%E9%A6%96%E5%88%9B%E9%97%AA%E5%85%85%E6%A1%A9%E6%9D%A5%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时35分"
+          "time_info": "02时27分"
         }
       ]
     },
@@ -405,8 +481,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 10时03分]"
         },
         {
           "title": "【焦点复盘】市场全天现普涨反弹，电网设备板块强势依旧，量子科技等未来产业轮动活跃",
@@ -455,7 +531,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -466,7 +542,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         }
@@ -484,8 +560,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 10时03分]"
         },
         {
           "title": "荣耀机器人手机亮相巴塞罗那",
@@ -495,37 +571,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "电动化上半场完美收官：比亚迪发布第二代刀片电池及闪充技术",
-          "url": "https://www.gelonghui.com/news/5179858",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时51分]"
-        },
-        {
-          "title": "比亚迪全球首创闪充桩来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%A8%E7%90%83%E9%A6%96%E5%88%9B%E9%97%AA%E5%85%85%E6%A1%A9%E6%9D%A5%E4%BA%86%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 10时03分]"
         }
       ]
     },
@@ -561,6 +608,40 @@
       ]
     },
     {
+      "keyword_group": "液冷",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高澜股份(300499.SZ)：公司特高压直流输电液冷业务已覆盖海内外市场",
+          "url": "https://www.gelonghui.com/news/5179890",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "脑机接口概念逆势活跃 国际医学涨停",
+          "url": "https://api3.cls.cn/share/article/2304640?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 1,
       "titles": [
@@ -571,7 +652,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         }
