@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-11T07:29:58.380182+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-03-11T07:52:52.911210+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "周二（3月10日）纽约尾盘，欧元兑美元跌0.22%，英镑兑美元跌0.14%，美元兑瑞郎涨0.12%。 商品货币对中，澳元兑美元涨0.61%，纽元兑美元跌0.09%，美元兑加元跌0.07%。 瑞典克朗兑美元跌0.51%，挪威克朗兑美元跌0.43%，丹麦克朗兑美元跌0.24%。 波兰兹罗提兑美元跌0.56%，匈牙利福林兑美元跌0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3067584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 07时52分]"
+        },
         {
           "title": "美股三大指数收盘涨跌不一",
           "url": "https://www.gelonghui.com/news/5181921",
@@ -18,6 +32,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时29分]"
+        },
+        {
+          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
+          "url": "https://www.cls.cn/detail/2309059",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时56分 ~ 07时52分]"
         },
         {
           "title": "周二（3月10日）纽约尾盘，ICE美元指数涨0.11%，报98.842点，日内交投区间为98.939-98.492点，整体呈现出W形走势。 彭博美元指数跌0.11%，报1200.15点，日内交投区间为1202.24-1195.63点。",
@@ -32,19 +59,6 @@
           "time_info": "[03时38分 ~ 04时34分]"
         },
         {
-          "title": "周二（3月10日）纽约尾盘，欧元兑美元跌0.22%，英镑兑美元跌0.14%，美元兑瑞郎涨0.12%。 商品货币对中，澳元兑美元涨0.61%，纽元兑美元跌0.09%，美元兑加元跌0.07%。 瑞典克朗兑美元跌0.51%，挪威克朗兑美元跌0.43%，丹麦克朗兑美元跌0.24%。 波兰兹罗提兑美元跌0.56%，匈牙利福林兑美元跌0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3067584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时29分 ~ 07时29分]"
-        },
-        {
           "title": "美股三大指数收盘涨跌不一",
           "url": "https://api3.cls.cn/share/article/2309037?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -57,16 +71,17 @@
           "time_info": "[04时33分 ~ 05时53分]"
         },
         {
-          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
-          "url": "https://www.cls.cn/detail/2309059",
-          "source": "财联社热门",
+          "title": "WTI原油日内涨幅达4.0%，报85.54美元/桶。 纽约银日内跌幅达1.0%，报88.5美元/盎司。 纽约金日内跌幅达0.5%，报5194.7美元/盎司。 标普500股指期货、纳指期货涨0.1%，罗素2000股指期货跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3067590",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7
+            13,
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时29分]"
+          "appearance_count": 3,
+          "time_info": "[06时56分 ~ 07时52分]"
         },
         {
           "title": "LME期铜收涨186美元，报13140美元/吨。 LME期铝收涨20美元，报3406美元/吨。 LME期锌收涨17美元，报3346美元/吨。 LME期铅收涨7美元，报1944美元/吨。 LME期镍收涨19美元，报17488美元/吨。 LME期锡收跌246美元，报50439美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -79,18 +94,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 03时38分]"
-        },
-        {
-          "title": "WTI原油日内涨幅达4.0%，报85.54美元/桶。 纽约银日内跌幅达1.0%，报88.5美元/盎司。 纽约金日内跌幅达0.5%，报5194.7美元/盎司。 标普500股指期货、纳指期货涨0.1%，罗素2000股指期货跌0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3067590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时29分]"
         },
         {
           "title": "美股周二收盘，道指初步收跌0.07%，标普500指数跌0.2%，纳指微涨。纳斯达克中国金龙指数收涨近2%，蔚来汽车(NIO.N)涨15%。",
@@ -113,6 +116,104 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "美股三大指数涨跌不一，闪迪涨超5%，中概指数涨1.96%，蔚来涨超15%",
+          "url": "https://www.gelonghui.com/news/5181921",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
+          "url": "https://wallstreetcn.com/articles/3767089",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时52分]"
+        },
+        {
+          "title": "【研选】“龙虾热“正系统性重塑云计算的供需结构，云厂商正逐步掌控下一代AI应用的底层分发权；国内创新型生物医药企业，核心产品医保续约成功，多个核心适应症将在2026年达到终点",
+          "url": "https://api3.cls.cn/share/article/2308017?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时52分]"
+        },
+        {
+          "title": "亚马逊在网站和APP推出健康AI智能体。",
+          "url": "https://wallstreetcn.com/livenews/3067481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时46分]"
+        },
+        {
+          "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
+          "url": "https://flash.jin10.com/detail/20260311035704540800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 04时34分]"
+        },
+        {
+          "title": "五角大楼备忘录命令在180天内移除Anthropic人工智能工具，该备忘录日期为3月6日。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3067615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "安大略省教师退休基金（OTPP）公共与私人投资首席投资官Gillian Brown：由于人工智能（AI）的不确定性，我们对软件类资产进行了调整。 而在医疗保健领域，我们认为该行业在特定时期内存在过度购买，从而产生了‘投资年份风险’（vintage risk），因此也进行了估值下修。 除此之外，其他调整更多是属于公司特有的风险。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "财联社3月11日电，美国国防部备忘录命令在180天内移除ANTHROPIC人工智能工具。",
+          "url": "https://api3.cls.cn/share/article/2309085?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         }
       ]
     },
@@ -184,59 +285,6 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
-          "url": "https://wallstreetcn.com/articles/3767089",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 07时29分]"
-        },
-        {
-          "title": "【研选】“龙虾热“正系统性重塑云计算的供需结构，云厂商正逐步掌控下一代AI应用的底层分发权；国内创新型生物医药企业，核心产品医保续约成功，多个核心适应症将在2026年达到终点",
-          "url": "https://api3.cls.cn/share/article/2308017?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "亚马逊在网站和APP推出健康AI智能体。",
-          "url": "https://wallstreetcn.com/livenews/3067481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 02时46分]"
-        },
-        {
-          "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
-          "url": "https://flash.jin10.com/detail/20260311035704540800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 04时34分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 3,
       "titles": [
@@ -267,11 +315,12 @@
           "url": "https://wallstreetcn.com/livenews/3067605",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时52分]"
         }
       ]
     },
@@ -286,11 +335,12 @@
           "ranks": [
             3,
             4,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时52分]"
         },
         {
           "title": "伊朗称打击以色列一处军事中心及卫星信息接收中心",
@@ -314,6 +364,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数收涨1.96%，报7222.96点。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。 ETF中，中概互联网指数ETF（KWEB）收涨1.47%，中国科技指数ETF（CQQQ）收涨1.37%。 XtrackersHarvest中证50（ASHS）收涨1.16%，德银嘉实沪深300指数ETF（ASHR）收涨0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3067547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 05时53分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨1.9%。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3067547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "苹果最便宜手机来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%89%8B%E6%9C%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         }
       ]
     },
@@ -346,34 +435,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数收涨1.96%，报7222.96点。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。 ETF中，中概互联网指数ETF（KWEB）收涨1.47%，中国科技指数ETF（CQQQ）收涨1.37%。 XtrackersHarvest中证50（ASHS）收涨1.16%，德银嘉实沪深300指数ETF（ASHR）收涨0.51%。",
-          "url": "https://wallstreetcn.com/livenews/3067547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 05时53分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨1.9%。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3067547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
       "match_count": 2,
       "titles": [
@@ -385,8 +446,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时52分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超1.1%，Meta涨1%",
@@ -430,11 +491,12 @@
           "url": "https://www.gelonghui.com/news/5181925",
           "source": "格隆汇",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时52分]"
         }
       ]
     },
@@ -452,6 +514,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "业内人士谈小米汽车被销售嘲讽",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%B0%88%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%A2%AB%E9%94%80%E5%94%AE%E5%98%B2%E8%AE%BD%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         }
       ]
     },
