@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-11T07:52:52.911210+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-03-11T09:58:17.449925+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
       "match_count": 10,
       "titles": [
+        {
+          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
+          "url": "https://www.cls.cn/detail/2309059",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时56分 ~ 09时58分]"
+        },
         {
           "title": "周二（3月10日）纽约尾盘，欧元兑美元跌0.22%，英镑兑美元跌0.14%，美元兑瑞郎涨0.12%。 商品货币对中，澳元兑美元涨0.61%，纽元兑美元跌0.09%，美元兑加元跌0.07%。 瑞典克朗兑美元跌0.51%，挪威克朗兑美元跌0.43%，丹麦克朗兑美元跌0.24%。 波兰兹罗提兑美元跌0.56%，匈牙利福林兑美元跌0.09%。",
           "url": "https://wallstreetcn.com/livenews/3067584",
@@ -32,19 +46,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时29分]"
-        },
-        {
-          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
-          "url": "https://www.cls.cn/detail/2309059",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时56分 ~ 07时52分]"
         },
         {
           "title": "周二（3月10日）纽约尾盘，ICE美元指数涨0.11%，报98.842点，日内交投区间为98.939-98.492点，整体呈现出W形走势。 彭博美元指数跌0.11%，报1200.15点，日内交投区间为1202.24-1195.63点。",
@@ -124,7 +125,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
@@ -132,7 +133,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -146,6 +147,28 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时34分 ~ 07时52分]"
+        },
+        {
+          "title": "港股异动丨腾讯高开4.4%，据报秘密开发微信AI智能体，年内或对全用户开放",
+          "url": "https://www.gelonghui.com/news/5181949",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "港股早评：三大指数高开，科技股、AI应用概念股继续活跃，腾讯续涨4.4%",
+          "url": "https://www.gelonghui.com/news/5181948",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "【研选】“龙虾热“正系统性重塑云计算的供需结构，云厂商正逐步掌控下一代AI应用的底层分发权；国内创新型生物医药企业，核心产品医保续约成功，多个核心适应症将在2026年达到终点",
@@ -189,7 +212,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -200,7 +223,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -211,15 +234,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "原工信部部长苗圩：完善新就业形态下的社会保障网，落实和优化休假制度，让人工智能发展红利为全社会所共享",
+          "url": "https://wallstreetcn.com/livenews/3067648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "【焦点复盘】市场全天现缩量普涨，英伟达链卷土重来，机器人概念现久违涨势",
@@ -233,6 +267,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 07时29分]"
+        },
+        {
+          "title": "乌克兰部署将武装机器人投入战场",
+          "url": "https://www.zaochenbao.com/news/politics/202603/1166569.html",
+          "source": "早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "财联社3月11日电，据报道，OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot等多家公司的机器人聊天工具获准在美国参议院使用。",
@@ -272,6 +317,17 @@
           "time_info": "[05时29分 ~ 06时29分]"
         },
         {
+          "title": "300万套定点落地！地平线携手鉴智机器人 解锁普惠智驾里程碑",
+          "url": "https://www.gelonghui.com/news/5181939",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "亚马逊赢得美国法庭禁令，封杀Perplexity AI购物机器人",
           "url": "https://wallstreetcn.com/livenews/3067538",
           "source": "华尔街见闻-快讯",
@@ -286,7 +342,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "【每日收评】创业板指震荡走高涨超3%，全市场逾4500股飘红，CPO等算力硬件股集体爆发",
@@ -311,6 +367,28 @@
           "time_info": "06时56分"
         },
         {
+          "title": "创业板指涨逾1% 算力硬件继续领涨",
+          "url": "https://api3.cls.cn/share/article/2309228?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指跌0.08%，深成指涨0.45%，培育钻石、工业母机、算力硬件等方向涨幅居前，沪深京三市上涨个股近2600只。",
+          "url": "https://wallstreetcn.com/livenews/3067689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "新加坡普林斯顿数字集团（PDG）联合创始人兼首席执行Rangu Salgame：我们正处于AI投资的“超级周期”之中。 对AI的长期需求以及即将到来的创新，正在驱动对数据中心容量的需求。 我们与超大规模云厂商（Hyperscalers）拥有极其稳固的合同，平均租期为10-12年。 （对于怀疑论者质疑AI类协议是否在人为地夸大对AI芯片的需求）这些担忧并未影响公司获得融资的能力。",
           "url": "https://wallstreetcn.com/livenews/3067605",
           "source": "华尔街见闻-快讯",
@@ -321,6 +399,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时29分 ~ 07时52分]"
+        },
+        {
+          "title": "A股CPO等算力硬件股延续强势，瑞斯康达2连板，迅捷兴涨近10%，长飞光纤冲击涨停，光迅科技、博敏电子、德科立跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3067680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "五轴联动数控 超高精度光栅尺 工业母机",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股早评：三大指数集体高开，工业母机、贵金属板块盘初活跃",
+          "url": "https://www.gelonghui.com/news/5181950",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "A股工业母机概念开盘活跃，华东数控一字涨停，恒进感应涨超15%，华中数控涨近10%，宇环数控、纽威数控、乔锋智能等多股高开。",
+          "url": "https://wallstreetcn.com/livenews/3067675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "工业母机概念盘初活跃 华东数控涨停",
+          "url": "https://api3.cls.cn/share/article/2309202?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
@@ -372,6 +500,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "苹果最便宜手机来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%89%8B%E6%9C%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 09时58分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨1.96%，报7222.96点。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。 ETF中，中概互联网指数ETF（KWEB）收涨1.47%，中国科技指数ETF（CQQQ）收涨1.37%。 XtrackersHarvest中证50（ASHS）收涨1.16%，德银嘉实沪深300指数ETF（ASHR）收涨0.51%。",
           "url": "https://wallstreetcn.com/livenews/3067547",
           "source": "华尔街见闻-快讯",
@@ -392,17 +532,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
-        },
-        {
-          "title": "苹果最便宜手机来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%89%8B%E6%9C%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
         }
       ]
     },
@@ -483,6 +612,23 @@
       ]
     },
     {
+      "keyword_group": "液冷",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "液冷服务器概念走强 大元泵业涨停",
+          "url": "https://api3.cls.cn/share/article/2309223?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "氢能 质子交换膜 IV型储氢瓶 甲醇重整制氢",
       "match_count": 1,
       "titles": [
@@ -497,6 +643,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时29分 ~ 07时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "雷达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "富临精工(300432.SZ)：公司目前没有毫米波雷达相关产品",
+          "url": "https://www.gelonghui.com/news/5181944",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
@@ -526,11 +689,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%B0%88%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%A2%AB%E9%94%80%E5%94%AE%E5%98%B2%E8%AE%BD%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 09时58分]"
         }
       ]
     },
