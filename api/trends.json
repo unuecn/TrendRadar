@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T07:28:31.928506+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-03-13T07:52:10.818778+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
@@ -21,37 +21,30 @@
           "time_info": "[00时36分 ~ 07时28分]"
         },
         {
-          "title": "我国成功发射试验三十号卫星03、04星",
-          "url": "https://wallstreetcn.com/livenews/3069198",
-          "source": "华尔街见闻-快讯",
+          "title": "我国成功发射卫星互联网低轨20组卫星",
+          "url": "https://flash.jin10.com/detail/20260313054606757800",
+          "source": "金十数据",
           "ranks": [
-            3
+            6,
+            13,
+            21,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时26分 ~ 07时52分]"
         },
         {
           "title": "我国成功发射试验三十号卫星03、04星",
           "url": "https://api3.cls.cn/share/article/2311471?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            4
+            4,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "我国成功发射试验三十号卫星03、04星",
-          "url": "https://flash.jin10.com/detail/20260313070341719800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 07时52分]"
         },
         {
           "title": "伊朗公布袭击美军基地卫星图像",
@@ -67,17 +60,16 @@
           "time_info": "[05时33分 ~ 06时54分]"
         },
         {
-          "title": "我国成功发射卫星互联网低轨20组卫星",
-          "url": "https://flash.jin10.com/detail/20260313054606757800",
+          "title": "我国成功发射试验三十号卫星03、04星",
+          "url": "https://flash.jin10.com/detail/20260313070341719800",
           "source": "金十数据",
           "ranks": [
-            6,
-            13,
-            21
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时26分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 07时52分]"
         },
         {
           "title": "我国成功发射卫星互联网低轨20组卫星",
@@ -93,17 +85,30 @@
           "time_info": "[06时26分 ~ 07时28分]"
         },
         {
+          "title": "我国成功发射试验三十号卫星03、04星",
+          "url": "https://wallstreetcn.com/livenews/3069198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时52分]"
+        },
+        {
           "title": "我国成功发射卫星互联网低轨20组卫星",
           "url": "https://wallstreetcn.com/livenews/3069176",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
             8,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时27分 ~ 07时28分]"
+          "appearance_count": 4,
+          "time_info": "[06时27分 ~ 07时52分]"
         },
         {
           "title": "伊朗公布袭击美军基地卫星图像",
@@ -207,8 +212,19 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
           "url": "https://wallstreetcn.com/articles/3767295",
@@ -216,7 +232,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -259,30 +275,107 @@
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 3,
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 5,
       "titles": [
         {
-          "title": "报道：三星与英伟达加速研发下一代NAND闪存",
-          "url": "https://wallstreetcn.com/livenews/3069199",
+          "title": "黄河实业(00318.HK)就人工智能领域潜在投资与独立第三方进行讨论",
+          "url": "https://www.gelonghui.com/news/5183311",
+          "source": "格隆汇",
+          "ranks": [
+            3,
+            4,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 07时52分]"
+        },
+        {
+          "title": "财联社3月13日电，META据悉推迟推出新人工智能模型。",
+          "url": "https://api3.cls.cn/share/article/2311491?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "财联社3月13日电，Meta在Facebook市场推出全新Meta人工智能驱动的功能。",
+          "url": "https://api3.cls.cn/share/article/2311376?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "META推迟推出新的人工智能模型。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3069209",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "07时52分"
+        },
+        {
+          "title": "MetaPlatforms(META.O)：在Facebook Marketplace上推出全新Meta公司人工智能功能。",
+          "url": "https://flash.jin10.com/detail/20260313000215736800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "三星据悉与英伟达合作加速研发下一代NAND闪存",
+          "url": "https://flash.jin10.com/detail/20260313073007406800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
           "title": "三星据悉与英伟达合作加速研发下一代NAND闪存",
           "url": "https://api3.cls.cn/share/article/2311472?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 07时52分]"
+        },
+        {
+          "title": "报道：三星与英伟达加速研发下一代NAND闪存",
+          "url": "https://wallstreetcn.com/livenews/3069199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时52分]"
         },
         {
           "title": "周四（3月12日），存储芯片与硬件供应链指数跌4.03%，报104.12点，跳空低开之后，整体低位震荡。 北美科技软件股指数ETF收跌0.87%。 信息科技指数跌2.70%，人工智能（AI）赢家指数跌2.55%，AI软件先驱指数跌1.00%。",
@@ -300,49 +393,8 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "黄河实业(00318.HK)就人工智能领域潜在投资与独立第三方进行讨论",
-          "url": "https://www.gelonghui.com/news/5183311",
-          "source": "格隆汇",
-          "ranks": [
-            3,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 07时28分]"
-        },
-        {
-          "title": "财联社3月13日电，Meta在Facebook市场推出全新Meta人工智能驱动的功能。",
-          "url": "https://api3.cls.cn/share/article/2311376?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "MetaPlatforms(META.O)：在Facebook Marketplace上推出全新Meta公司人工智能功能。",
-          "url": "https://flash.jin10.com/detail/20260313000215736800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "科创板128家集成电路企业预计净利增83%，算力、存储、光芯片等业绩突出",
@@ -354,6 +406,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时36分 ~ 02时55分]"
+        },
+        {
+          "title": "中信建投：AI算力驱动散热架构升级 液冷一次侧设备迎来价值重估",
+          "url": "https://api3.cls.cn/share/article/2311480?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
           "title": "【VIP资讯星推官】“龙虾”催化是否已经耗尽？电力、算力热门题材再解析",
@@ -396,9 +459,26 @@
           "ranks": [
             18
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 07时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达支持的NScale正洽谈在IPO前收购美国一处大型数据中心园区。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3069210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "07时52分"
         }
       ]
     },
