@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T19:32:09.956274+08:00",
-  "total_titles_processed": 1782,
+  "generated_at": "2026-03-12T20:59:48.129309+08:00",
+  "total_titles_processed": 1903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -74,6 +74,17 @@
           "time_info": "[00时11分 ~ 07时50分]"
         },
         {
+          "title": "中国人工智能产业发展联盟：持续跟踪OpenClaw安全风险动态 编制企业级OpenClaw部署风险管理指南",
+          "url": "https://wallstreetcn.com/livenews/3068940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "深演智能冲刺港股：决策AI智能体如何兑现商业价值？",
           "url": "https://www.gelonghui.com/news/5182657",
           "source": "格隆汇",
@@ -91,7 +102,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -768,7 +779,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【金牌纪要库·风口会议】国内数据中心使用率有望翻倍，这家企业同时为腾讯和字节两家大厂提供算力租赁服务",
@@ -868,6 +879,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "【风口研报·公司】在运营数据中心总容量近800MW+规划容量4GW，公司通过收购成功扎根“东数西算”枢纽节点和算力核心圈，有望开启算电协同新篇章；另有公司四季度在光通信产业竞争加剧影响下仍录得高增速",
+          "url": "https://api3.cls.cn/share/article/2310844?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         }
       ]
     },
@@ -909,8 +931,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时42分 ~ 19时32分]"
+          "appearance_count": 7,
+          "time_info": "[16时42分 ~ 20时59分]"
         },
         {
           "title": "德恩精工(300780.SZ)：公司目前没有生产火箭发动机",
@@ -966,6 +988,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美国自动驾驶初创公司Nuro在日本东京启动测试。",
+          "url": "https://wallstreetcn.com/livenews/3068377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时50分]"
+        },
+        {
+          "title": "黄仁勋亲测英伟达自动驾驶平台 全程无人工接管",
+          "url": "https://api3.cls.cn/share/article/2310587?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 13时35分]"
+        },
+        {
+          "title": "宝马暂时放弃L3级自动驾驶",
+          "url": "https://wallstreetcn.com/livenews/3068932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "宝马暂时放弃L3级自动驾驶",
+          "url": "https://api3.cls.cn/share/article/2311224?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "优步：WAYVE、优步与日产签署合作备忘录，共同推进自动驾驶出租车研发。",
+          "url": "https://flash.jin10.com/detail/20260312090248635800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "优步、Wayve与日产汽车公司宣布合作研发自动驾驶出租车。",
+          "url": "https://wallstreetcn.com/livenews/3068450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     },
@@ -1095,57 +1190,6 @@
       ]
     },
     {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国自动驾驶初创公司Nuro在日本东京启动测试。",
-          "url": "https://wallstreetcn.com/livenews/3068377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时50分]"
-        },
-        {
-          "title": "黄仁勋亲测英伟达自动驾驶平台 全程无人工接管",
-          "url": "https://api3.cls.cn/share/article/2310587?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 13时35分]"
-        },
-        {
-          "title": "优步：WAYVE、优步与日产签署合作备忘录，共同推进自动驾驶出租车研发。",
-          "url": "https://flash.jin10.com/detail/20260312090248635800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "优步、Wayve与日产汽车公司宣布合作研发自动驾驶出租车。",
-          "url": "https://wallstreetcn.com/livenews/3068450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 黄金",
       "match_count": 3,
       "titles": [
@@ -1180,9 +1224,51 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
+          "url": "https://www.cls.cn/detail/2310365",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时25分 ~ 17时43分]"
+        },
+        {
+          "title": "美股盘前要点 | IEA大幅下调石油供应增长预期，特斯拉第三代人形机器人亮相",
+          "url": "https://www.gelonghui.com/news/5183209",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "菜鸟将在海外部署大规模机器人仓储网络",
+          "url": "https://wallstreetcn.com/livenews/3068712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     },
@@ -1269,29 +1355,26 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 2,
       "titles": [
         {
-          "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
-          "url": "https://www.cls.cn/detail/2310365",
-          "source": "财联社热门",
+          "title": "中远通(301516.SZ)：子公司拟与合作伙伴共同投资开发并建设威珀自有工业园区屋顶光伏及光储充电站项目",
+          "url": "https://www.gelonghui.com/news/5183210",
+          "source": "格隆汇",
           "ranks": [
-            13,
-            11,
-            4,
-            3
+            7
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 17时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
-          "title": "菜鸟将在海外部署大规模机器人仓储网络",
-          "url": "https://wallstreetcn.com/livenews/3068712",
-          "source": "华尔街见闻-快讯",
+          "title": "太空光伏需求有望迎指数级增长 中国光伏厂商打开全新成长空间",
+          "url": "https://www.cls.cn/detail/2310278",
+          "source": "财联社热门",
           "ranks": [
-            29
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1484,23 +1567,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "太空光伏需求有望迎指数级增长 中国光伏厂商打开全新成长空间",
-          "url": "https://www.cls.cn/detail/2310278",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
         }
       ]
     },
