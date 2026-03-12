@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-03-12T22:07:30.287031+08:00",
-  "total_titles_processed": 2012,
-  "failed_sources": [],
+  "generated_at": "2026-03-12T23:30:52.608743+08:00",
+  "total_titles_processed": 2135,
+  "failed_sources": [
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -72,6 +74,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时11分 ~ 07时50分]"
+        },
+        {
+          "title": "黄河实业(00318.HK)就人工智能领域潜在投资与独立第三方进行讨论",
+          "url": "https://www.gelonghui.com/news/5183311",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "中国人工智能产业发展联盟：持续跟踪OpenClaw安全风险动态 编制企业级OpenClaw部署风险管理指南",
@@ -173,6 +186,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
+          "title": "德国总理默茨：应赋予德国警方权力，能够以特定目的开展基于人工智能的自动化数据分析。",
+          "url": "https://flash.jin10.com/detail/20260312224753678800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "长亮科技：公司2025年已在AI智能体上有相关研发与布局 未来将稳步推进智能体产品进一步落地应用",
@@ -288,8 +312,30 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "财联社3月12日电，Stellantis正与小米、小鹏就欧洲业务合作事宜进行谈判。",
+          "url": "https://api3.cls.cn/share/article/2311350?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
+          "title": "市场消息：据悉斯特兰蒂斯正与小米、小鹏就欧洲合作事宜进行洽谈。",
+          "url": "https://flash.jin10.com/detail/20260312232200498800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
         {
           "title": "特斯拉中国制造电动车销量2月同比大增91%",
           "url": "https://www.zaochenbao.com/news/china/202603/1266671.html",
@@ -313,6 +359,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
+          "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis与小米、小鹏洽谈欧洲协议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3069033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "特斯拉获准进军英国电力零售市场 欲复刻得州模式",
@@ -771,7 +828,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -826,6 +883,17 @@
           "time_info": "07时50分"
         },
         {
+          "title": "科创板128家集成电路企业预计净利增83%，算力、存储、光芯片等业绩突出",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32752476",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时47分 ~ 23时30分]"
+        },
+        {
           "title": "美国海上石油生产商Sable(SOC.N)现涨21%，报道称特朗普将援引一项紧急法支持该公司，为南加州海岸恢复石油生产铺平道路。",
           "url": "https://flash.jin10.com/detail/20260312031639157800",
           "source": "金十数据",
@@ -835,17 +903,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
-        },
-        {
-          "title": "科创板128家集成电路企业预计净利增83%，算力、存储、光芯片等业绩突出",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32752476",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时47分 ~ 17时43分]"
         },
         {
           "title": "机构：算力扩张带来电力需求快速增长",
@@ -906,7 +963,7 @@
     },
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "华如科技(301302.SZ)：公司研发的技术成果可以应用于卫星通讯领域，在该领域已签订实质订单",
@@ -955,6 +1012,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "格隆汇公告精选︱胜宏科技：2025年净利润同比增长273.52% 拟10股派20元；天通股份：不生产商业卫星，也不生产光模块产品",
+          "url": "https://www.gelonghui.com/news/5183306",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "中国卫星公司发布太空实拍船只视频",
@@ -1246,7 +1314,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         }
@@ -1288,7 +1356,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -1600,6 +1668,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "优必选 商汤 华大基因",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "商汤小浣熊“OpenClaw双路径赋能方案”亮相AWE",
+          "url": "https://wallstreetcn.com/livenews/3069003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         }
       ]
     },
