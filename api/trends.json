@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T04:34:38.921217+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-03-14T05:33:12.454756+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "英伟达GTC亮点抢先看：“龙虾”乐园即将开张 资本市场翘首以待",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "微软(MSFT.O)CEO：我们是首家部署英伟达Vera Rubin NVL72系统进行验证的云服务提供商，这是与英伟达(NVDA.O)合作构建下一代AI基础设施的又一重要里程碑。",
@@ -39,6 +39,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时00分 ~ 02时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国官员：自与伊朗开战以来，军方已向中东部署近10,000架人工智能无人机。",
+          "url": "https://flash.jin10.com/detail/20260314041906690800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "市场消息：亚马逊将使用人工智能公司Cerebras的巨型芯片来帮助运行AI模型。",
+          "url": "https://flash.jin10.com/detail/20260313230351040800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     },
@@ -55,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "脑机接口第一城，上海底气何来？",
@@ -68,8 +96,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时33分]"
         }
       ]
     },
@@ -84,7 +112,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -127,28 +155,46 @@
           "url": "https://flash.jin10.com/detail/20260314040028174800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时33分]"
         }
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 1,
       "titles": [
         {
-          "title": "市场消息：亚马逊将使用人工智能公司Cerebras的巨型芯片来帮助运行AI模型。",
-          "url": "https://flash.jin10.com/detail/20260313230351040800",
-          "source": "金十数据",
+          "title": "美国针对Sable Offshore Corp.（SOC）启用“国防生产法案”（DPA）。",
+          "url": "https://wallstreetcn.com/livenews/3070027",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "05时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周五（3月13日），存储芯片与硬件供应链指数涨3.42%，报107.71点，本周劣迹上涨11.60%，周一显著上涨，随后持续高位震荡。 信息科技指数涨0.44%，本周累涨2.59%。 人工智能（AI）赢家指数跌0.14%，本周累涨3.39%，周一和周二持续上涨，随后高位震荡。 AI软件先驱指数跌1.66%，本周累跌4.78%，周四和周五加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3070007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         }
       ]
     },
@@ -164,8 +210,25 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国科技股七巨头指数陷入回调区间，Meta逾四个月最大单日跌幅，微软、特斯拉、亚马逊今年已跌超10%",
+          "url": "https://wallstreetcn.com/livenews/3070003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         }
       ]
     },
