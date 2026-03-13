@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T07:52:10.818778+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-03-13T10:02:08.342408+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "格隆汇公告精选︱胜宏科技：2025年净利润同比增长273.52% 拟10股派20元；天通股份：不生产商业卫星，也不生产光模块产品",
@@ -134,12 +134,24 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时33分]"
+        },
+        {
+          "title": "伊朗公布袭击美军基地卫星图像",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         }
       ]
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
@@ -207,6 +219,164 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "雷军：新一代小米SU7研发进度非常顺利，本月即将正式发布。",
+          "url": "https://wallstreetcn.com/livenews/3069259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "科创板128家集成电路企业预计净利增83%，算力、存储、光芯片等业绩突出",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32752476",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时55分]"
+        },
+        {
+          "title": "中信建投：AI算力驱动散热架构升级 液冷一次侧设备迎来价值重估",
+          "url": "https://api3.cls.cn/share/article/2311480?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "四维图新(002405.SZ)：杰发科技作为头部国产自研车规芯片供应商，持续稳固MCU与SoC累计销量双破亿的市场地位",
+          "url": "https://www.gelonghui.com/news/5183393",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "算力租赁概念震荡下挫 美利云触及跌停",
+          "url": "https://api3.cls.cn/share/article/2311621?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "机构：关注AI算力产业链相关投资机遇",
+          "url": "https://www.gelonghui.com/news/5183385",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "【VIP资讯星推官】“龙虾”催化是否已经耗尽？电力、算力热门题材再解析",
+          "url": "https://www.cls.cn/detail/2310679",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "黄河实业(00318.HK)就人工智能领域潜在投资与独立第三方进行讨论",
+          "url": "https://www.gelonghui.com/news/5183311",
+          "source": "格隆汇",
+          "ranks": [
+            3,
+            4,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 07时52分]"
+        },
+        {
+          "title": "财联社3月13日电，META据悉推迟推出新人工智能模型。",
+          "url": "https://api3.cls.cn/share/article/2311491?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "财联社3月13日电，Meta在Facebook市场推出全新Meta人工智能驱动的功能。",
+          "url": "https://api3.cls.cn/share/article/2311376?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "META推迟推出新的人工智能模型。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3069209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "今年加快研究人工智能立法",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8A%A0%E5%BF%AB%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AB%8B%E6%B3%95%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "MetaPlatforms(META.O)：在Facebook Marketplace上推出全新Meta公司人工智能功能。",
+          "url": "https://flash.jin10.com/detail/20260313000215736800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     },
@@ -222,8 +392,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 10时02分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
@@ -271,70 +441,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "黄河实业(00318.HK)就人工智能领域潜在投资与独立第三方进行讨论",
-          "url": "https://www.gelonghui.com/news/5183311",
-          "source": "格隆汇",
-          "ranks": [
-            3,
-            4,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 07时52分]"
-        },
-        {
-          "title": "财联社3月13日电，META据悉推迟推出新人工智能模型。",
-          "url": "https://api3.cls.cn/share/article/2311491?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
-        },
-        {
-          "title": "财联社3月13日电，Meta在Facebook市场推出全新Meta人工智能驱动的功能。",
-          "url": "https://api3.cls.cn/share/article/2311376?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "META推迟推出新的人工智能模型。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3069209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "MetaPlatforms(META.O)：在Facebook Marketplace上推出全新Meta公司人工智能功能。",
-          "url": "https://flash.jin10.com/detail/20260313000215736800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
         }
       ]
     },
@@ -393,41 +499,70 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 4,
       "titles": [
         {
-          "title": "科创板128家集成电路企业预计净利增83%，算力、存储、光芯片等业绩突出",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32752476",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时55分]"
-        },
-        {
-          "title": "中信建投：AI算力驱动散热架构升级 液冷一次侧设备迎来价值重估",
-          "url": "https://api3.cls.cn/share/article/2311480?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "《科创板日报》13日讯，消息称三星已拿下苹果首款折叠手机iPhone Fold高达2000万块的面板订单，并预估于2026年5月开始量产。",
+          "url": "https://api3.cls.cn/share/article/2311623?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            7
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "【VIP资讯星推官】“龙虾”催化是否已经耗尽？电力、算力热门题材再解析",
-          "url": "https://www.cls.cn/detail/2310679",
-          "source": "财联社热门",
+          "title": "比亚迪被曝正考虑进军F1，收购现有车队为潜在路径",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32748625",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            18
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 07时52分]"
+        },
+        {
+          "title": "苹果税下调",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%A8%8E%E4%B8%8B%E8%B0%83%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "苹果公司宣布降低中国App Store佣金率",
+          "url": "https://wallstreetcn.com/livenews/3069254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "10时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒指低开0.52%，报25583.55点；恒生科技指数跌0.42%。理想汽车、地平线机器人、比亚迪电子等跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3069268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
@@ -449,19 +584,36 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 1,
       "titles": [
         {
-          "title": "比亚迪被曝正考虑进军F1，收购现有车队为潜在路径",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32748625",
-          "source": "澎湃新闻",
+          "title": "财联社3月13日电，多晶硅主力合约日内涨幅达4%，报44660元/吨。",
+          "url": "https://api3.cls.cn/share/article/2311604?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 07时52分]"
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "京东方Ａ(000725.SZ)：钙钛矿光伏在该领域具有较大应用潜力 公司会重点关注并调研相关场景的应用",
+          "url": "https://www.gelonghui.com/news/5183392",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         }
       ]
     },
@@ -476,7 +628,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
