@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-03-18T01:48:38.896871+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-03-18T03:02:31.766543+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "英伟达CEO黄仁勋：Groq可能会为数据中心市场带来25%的增长空间。",
+          "url": "https://flash.jin10.com/detail/20260318025427767800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
         {
           "title": "财联社3月18日电，英伟达计划将50%的自由现金流用于回报投资者；预计将在下半年回购股票，并派息。",
           "url": "https://api3.cls.cn/share/article/2316077?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            3
+            3,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时02分]"
         },
         {
           "title": "欧莱雅与英伟达扩大AI合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3071829",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时02分]"
         },
         {
           "title": "推理时代加速到来！英伟达力推LPU，哪些上市公司有望吃到百万出货红利？",
@@ -38,19 +51,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时02分]"
         },
         {
           "title": "英伟达：公司计划将50%的自由现金流（FCF）返还给投资者。 预计将在下半年回购股票，并派息。",
           "url": "https://wallstreetcn.com/livenews/3071825",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时02分]"
+        },
+        {
+          "title": "惠与（HPE）推出由英伟达产品支持的HPE AI Grid。",
+          "url": "https://wallstreetcn.com/livenews/3071844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时02分"
         },
         {
           "title": "财联社3月18日电，英伟达CEO黄仁勋表示，对1万亿美元+的收入预期具有强烈的“能见度”；这样的预期还仅仅包含了Blackwell和Rubin芯片；这个预期还不包括即将发布的新品。",
@@ -59,7 +84,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -70,7 +95,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -81,7 +106,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -92,7 +117,68 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "亚马逊股价走高，最新上涨1%，报214美元以上，此前报道称，该公司首席执行官预计到2036年，人工智能将使亚马逊云服务的销售额翻一番，达到6000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260318024409341800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)首席执行官：到2036年，人工智能将使亚马逊云服务销售额翻倍至6000亿美元（此前预计为3000亿美元）。",
+          "url": "https://flash.jin10.com/detail/20260318024011419800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "欧莱雅：与英伟达携手，借助预测性人工智能科学加速美妆研发。",
+          "url": "https://flash.jin10.com/detail/20260318011537189800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "财联社3月17日电，五角大楼官员称，在人工智能争端中，五角大楼正着手替换ANTHROPIC系统；他们正在“积极寻求”人为替代方案。",
+          "url": "https://api3.cls.cn/share/article/2316053?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：AT&T与思科和英伟达合作，为物联网构建人工智能网格",
+          "url": "https://flash.jin10.com/detail/20260318010657215800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         }
@@ -107,22 +193,24 @@
           "url": "https://api3.cls.cn/share/article/2316078?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时02分]"
         },
         {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
           "url": "https://wallstreetcn.com/livenews/3071826",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时02分]"
         },
         {
           "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
@@ -131,7 +219,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -142,48 +230,89 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         }
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "keyword_group": "美债 美股 美元",
       "match_count": 3,
       "titles": [
         {
-          "title": "欧莱雅：与英伟达携手，借助预测性人工智能科学加速美妆研发。",
-          "url": "https://flash.jin10.com/detail/20260318011537189800",
-          "source": "金十数据",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.58%，暂报2771.72点，北京时间12:00前后出现一波显著的下挫行情，随后持续低位震荡。 MarketVectorTM数字资产100中盘指数跌0.86%，报3002.22点。 MarketVector数字资产100指数涨0.64%，报15001.15点。 目前，Solana跌0.63%，狗狗币跌1.99%，XRP跌0.66%。 比特币涨0.27%，暂报74255.79美元；以太坊跌0.04%，暂报2331.63美元。",
+          "url": "https://wallstreetcn.com/livenews/3071821",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            11,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时02分]"
         },
         {
-          "title": "财联社3月17日电，五角大楼官员称，在人工智能争端中，五角大楼正着手替换ANTHROPIC系统；他们正在“积极寻求”人为替代方案。",
-          "url": "https://api3.cls.cn/share/article/2316053?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "财联社3月18日电，LME期铜收跌80美元，报12775美元/吨。LME期铝收涨4美元，报3400美元/吨。LME期锌收跌42美元，报3228美元/吨。",
+          "url": "https://api3.cls.cn/share/article/2316085?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            19
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时02分"
         },
         {
-          "title": "英伟达(NVDA.O)：AT&T与思科和英伟达合作，为物联网构建人工智能网格",
-          "url": "https://flash.jin10.com/detail/20260318010657215800",
-          "source": "金十数据",
+          "title": "LME期铜收跌80美元，报12775美元/吨。 LME期铝收涨4美元，报3400美元/吨。 LME期锌收跌42美元，报3228美元/吨。 LME期铅收涨24美元，报1930美元/吨。 LME期镍收跌270美元，报17195美元/吨。 LME期锡收跌1540美元，报46725美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3071841",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据知情人士透露，联合利华为食品资产潜在的分离研究诸多选项。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3071858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "富特科技(301607.SZ)：目前公司为蔚来、小米、广汽、零跑、雷诺等多个主机厂配套相关产品",
+          "url": "https://www.gelonghui.com/news/5186738",
+          "source": "格隆汇",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时02分]"
+        },
+        {
+          "title": "华为发布新一代AI数据基础设施",
+          "url": "https://www.zaochenbao.com/news/china/202603/1767084.html",
+          "source": "早报",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时02分]"
         }
       ]
     },
@@ -200,8 +329,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时02分]"
         },
         {
           "title": "英媒记者走进中国人形机器人训练实验室",
@@ -211,54 +340,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "富特科技(301607.SZ)：目前公司为蔚来、小米、广汽、零跑、雷诺等多个主机厂配套相关产品",
-          "url": "https://www.gelonghui.com/news/5186738",
-          "source": "格隆汇",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时48分]"
-        },
-        {
-          "title": "华为发布新一代AI数据基础设施",
-          "url": "https://www.zaochenbao.com/news/china/202603/1767084.html",
-          "source": "早报",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.58%，暂报2771.72点，北京时间12:00前后出现一波显著的下挫行情，随后持续低位震荡。 MarketVectorTM数字资产100中盘指数跌0.86%，报3002.22点。 MarketVector数字资产100指数涨0.64%，报15001.15点。 目前，Solana跌0.63%，狗狗币跌1.99%，XRP跌0.66%。 比特币涨0.27%，暂报74255.79美元；以太坊跌0.04%，暂报2331.63美元。",
-          "url": "https://wallstreetcn.com/livenews/3071821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时02分]"
         }
       ]
     },
@@ -292,8 +375,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时02分]"
         }
       ]
     },
@@ -310,8 +393,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时02分]"
         }
       ]
     },
@@ -327,8 +410,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时02分]"
         }
       ]
     },
@@ -361,8 +444,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时02分]"
         }
       ]
     }
