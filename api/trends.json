@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T17:28:32.858360+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-03-17T18:27:05.867989+08:00",
+  "total_titles_processed": 1583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "东杰智能(300486.SZ)：没有与英伟达合作过",
@@ -39,11 +39,25 @@
             8,
             6,
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 17时28分]"
+          "appearance_count": 6,
+          "time_info": "[13时44分 ~ 18时27分]"
+        },
+        {
+          "title": "LPU出货高增长预定？英伟达发布Vera Rubin平台 每机柜配备256个",
+          "url": "https://www.cls.cn/detail/2315029",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时29分 ~ 18时27分]"
         },
         {
           "title": "英伟达涨幅扩大至4.7%，刷新日高。黄仁勋预计，2027年收入将至少达到1万亿美元。 纳斯达克100指数涨幅扩大至1.7%，刷新日高。 标普500指数涨超1.2%，道指涨459点涨幅0.99%。",
@@ -192,19 +206,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时33分 ~ 07时32分]"
-        },
-        {
-          "title": "LPU出货高增长预定？英伟达发布Vera Rubin平台 每机柜配备256个",
-          "url": "https://www.cls.cn/detail/2315029",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 17时28分]"
         },
         {
           "title": "财联社3月17日电，英伟达CEO黄仁勋表示，60% 的业务将来自超大规模云服务商。",
@@ -411,6 +412,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时39分]"
+        },
+        {
+          "title": "鹏鼎控股：关于英伟达通过台企入股的传闻不属实",
+          "url": "https://api3.cls.cn/share/article/2315687?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
         },
         {
           "title": "IBM股价涨幅迅速扩大至2.3%，该公司在数据处理领域和英伟达合作。",
@@ -807,7 +819,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -889,6 +901,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 07时32分]"
+        },
+        {
+          "title": "德意志银行首席执行官：我们能清楚地看到哪些企业将在人工智能领域胜出，以及在哪些方面应更加谨慎。",
+          "url": "https://flash.jin10.com/detail/20260317181603672800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
         },
         {
           "title": "Salesforce与英伟达就AI智能体（AI Agents）合作。",
@@ -1031,7 +1054,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1050,7 +1073,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "最火的芯片研究机构！SemiAnalysis创始人：算力瓶颈从CoWoS转移到EUV，存储吃掉30%资本开支",
@@ -1132,6 +1155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时33分]"
+        },
+        {
+          "title": "【机构龙虎榜解读】存储芯片+昇腾+算力租赁，已推出DDR5内存、PCIe 5.0固态硬盘，与宝德等伙伴的业务合作内容涵盖鲲鹏、昇腾全系产品，已签订小批量服务器订单并实现部分交付，这家公司获净买入",
+          "url": "https://api3.cls.cn/share/article/2315666?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
         },
         {
           "title": "英伟达CEO黄仁勋：Vera Rubin Ultra服务器将搭载144颗GPU。",
@@ -1286,6 +1320,31 @@
           "time_info": "[05时39分 ~ 06时33分]"
         },
         {
+          "title": "“芯荒”难解！SK集团董事长：存储芯片短缺或持续至2030年",
+          "url": "https://www.cls.cn/detail/2315141",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时07分 ~ 18时27分]"
+        },
+        {
+          "title": "存储芯片供应即将暴雷？三星史上最大规模罢工已迫在眉睫",
+          "url": "https://www.cls.cn/detail/2315232",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时27分]"
+        },
+        {
           "title": "创业板涨超1%，存储芯片大爆发，华虹半导体直线拉升，农业白酒等“老登股”大涨，恒科指大涨逾2%",
           "url": "https://wallstreetcn.com/articles/3767578",
           "source": "华尔街见闻",
@@ -1308,18 +1367,6 @@
           "time_info": "[07时31分 ~ 07时32分]"
         },
         {
-          "title": "“芯荒”难解！SK集团董事长：存储芯片短缺或持续至2030年",
-          "url": "https://www.cls.cn/detail/2315141",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时07分 ~ 17时28分]"
-        },
-        {
           "title": "财联社3月17日电，英伟达CEO黄仁勋表示，Feynman架构将采用定制高带宽内存（HBM）。",
           "url": "https://api3.cls.cn/share/article/2314832?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -1340,17 +1387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
-        },
-        {
-          "title": "存储芯片供应即将暴雷？三星史上最大规模罢工已迫在眉睫",
-          "url": "https://www.cls.cn/detail/2315232",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "美光科技生产与英伟达Vera Rubin相关的HBM4。",
@@ -1420,9 +1456,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时27分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，比亚迪初步收涨8.2%，小米涨5.4%，理想涨5.3%，蔚来涨3.1%，美团、网易、百胜中国、腾讯、拼多多、阿里巴巴至多涨约2.9%。",
@@ -1530,6 +1566,20 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "香港高院撤销苹果日报有限公司清盘案",
+          "url": "https://www.zaochenbao.com/news/hkMacao/202603/1767057.html",
+          "source": "早报",
+          "ranks": [
+            10,
+            19,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时29分 ~ 18时27分]"
+        },
+        {
           "title": "苹果首席运营官Sabih Khan现身深圳",
           "url": "https://flash.jin10.com/detail/20260317155733418800",
           "source": "金十数据",
@@ -1574,20 +1624,6 @@
           "time_info": "16时07分"
         },
         {
-          "title": "香港高院撤销苹果日报有限公司清盘案",
-          "url": "https://www.zaochenbao.com/news/hkMacao/202603/1767057.html",
-          "source": "早报",
-          "ranks": [
-            10,
-            19,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 17时28分]"
-        },
-        {
           "title": "苹果首席运营官Sabih Khan现身深圳",
           "url": "https://api3.cls.cn/share/article/2315451?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -1627,7 +1663,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
@@ -1637,17 +1673,6 @@
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 8,
       "titles": [
-        {
-          "title": "中国机器人开始打网球了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%89%93%E7%BD%91%E7%90%83%E4%BA%86%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 15时04分]"
-        },
         {
           "title": "英媒记者走进中国人形机器人训练实验室",
           "url": "https://ckxxapp.ckxx.net/pages/2026/03/17/80fd6a7a2530496ca359b164c82f8b90.html",
@@ -1660,8 +1685,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 17时28分]"
+          "appearance_count": 7,
+          "time_info": "[12时29分 ~ 18时27分]"
+        },
+        {
+          "title": "中国机器人开始打网球了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%89%93%E7%BD%91%E7%90%83%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 15时04分]"
         },
         {
           "title": "北京：聚焦机器人、合成生物、脑机接口、智能终端、绿色能源等重点领域 完善行政许可等管理制度和规则",
@@ -1733,6 +1769,91 @@
       ]
     },
     {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
+          "url": "https://wallstreetcn.com/articles/3767569",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 07时32分]"
+        },
+        {
+          "title": "财联社3月17日电，马斯克称，OpenAI诉讼任何胜诉所得都将捐给慈善机构。绝不会让自己获利。",
+          "url": "https://api3.cls.cn/share/article/2314887?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时32分]"
+        },
+        {
+          "title": "马斯克：OpenAI诉讼任何胜诉所得都将捐给慈善机构。我绝不会让自己获利。",
+          "url": "https://flash.jin10.com/detail/20260317071109761800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时32分]"
+        },
+        {
+          "title": "马斯克：若告赢OpenAI 上千亿美元收益全部捐给慈善机构",
+          "url": "https://api3.cls.cn/share/article/2315672?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
+        },
+        {
+          "title": "马斯克：若告赢OpenAI，上千亿美元收益全部捐给慈善机构。",
+          "url": "https://wallstreetcn.com/livenews/3071571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "财联社3月17日电，谷歌宣布在Google AI Studio中推出项目支出上限功能；这将有助于掌控月度Gemini API开销。",
+          "url": "https://api3.cls.cn/share/article/2314763?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
+          "url": "https://wallstreetcn.com/livenews/3071045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
       "match_count": 5,
       "titles": [
@@ -1790,69 +1911,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
-          "url": "https://wallstreetcn.com/articles/3767569",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 07时32分]"
-        },
-        {
-          "title": "财联社3月17日电，马斯克称，OpenAI诉讼任何胜诉所得都将捐给慈善机构。绝不会让自己获利。",
-          "url": "https://api3.cls.cn/share/article/2314887?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时32分]"
-        },
-        {
-          "title": "马斯克：OpenAI诉讼任何胜诉所得都将捐给慈善机构。我绝不会让自己获利。",
-          "url": "https://flash.jin10.com/detail/20260317071109761800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时32分]"
-        },
-        {
-          "title": "财联社3月17日电，谷歌宣布在Google AI Studio中推出项目支出上限功能；这将有助于掌控月度Gemini API开销。",
-          "url": "https://api3.cls.cn/share/article/2314763?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
-          "url": "https://wallstreetcn.com/livenews/3071045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
         }
       ]
     },
@@ -1947,8 +2005,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[10时04分 ~ 18时27分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -2003,6 +2061,34 @@
       ]
     },
     {
+      "keyword_group": "储能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "南都电源获澳大利亚储能项目订单",
+          "url": "https://flash.jin10.com/detail/20260317180949995800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
+        },
+        {
+          "title": "【风口研报·行业】储能需求超预期带动锂电新周期到来，分析师看好这个环节今年下半年出现短缺，龙头公司有望迎来盈利重塑",
+          "url": "https://api3.cls.cn/share/article/2315142?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "氢能 质子交换膜 IV型储氢瓶 甲醇重整制氢",
       "match_count": 2,
       "titles": [
@@ -2015,8 +2101,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时33分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[06时33分 ~ 18时27分]"
         },
         {
           "title": "氢能产业化提速 三部门启动应用试点 单个城市群最高奖励16亿元",
@@ -2095,23 +2181,6 @@
       ]
     },
     {
-      "keyword_group": "储能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【风口研报·行业】储能需求超预期带动锂电新周期到来，分析师看好这个环节今年下半年出现短缺，龙头公司有望迎来盈利重塑",
-          "url": "https://api3.cls.cn/share/article/2315142?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "创新药 新药研发 临床三期",
       "match_count": 1,
       "titles": [
@@ -2139,7 +2208,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
