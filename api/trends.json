@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-03-17T19:14:58.386179+08:00",
-  "total_titles_processed": 1684,
+  "generated_at": "2026-03-17T20:03:03.202932+08:00",
+  "total_titles_processed": 1795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
       "match_count": 70,
       "titles": [
+        {
+          "title": "“光进铜退”步子太大！英伟达新机架或“光铜并举” 这两个板块上演“冰火两重天”",
+          "url": "https://www.cls.cn/detail/2315123",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时44分 ~ 20时03分]"
+        },
         {
           "title": "东杰智能(300486.SZ)：没有与英伟达合作过",
           "url": "https://www.gelonghui.com/news/5185826",
@@ -20,19 +35,17 @@
           "time_info": "[00时05分 ~ 07时32分]"
         },
         {
-          "title": "“光进铜退”步子太大！英伟达新机架或“光铜并举” 这两个板块上演“冰火两重天”",
-          "url": "https://www.cls.cn/detail/2315123",
+          "title": "LPU出货高增长预定？英伟达发布Vera Rubin平台 每机柜配备256个",
+          "url": "https://www.cls.cn/detail/2315029",
           "source": "财联社热门",
           "ranks": [
-            8,
-            6,
-            5,
-            2,
-            3
+            9,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时44分 ~ 19时14分]"
+          "appearance_count": 10,
+          "time_info": "[12时29分 ~ 20时03分]"
         },
         {
           "title": "民主党议员再警告 批准英伟达晶片出口危及国安",
@@ -45,19 +58,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时05分 ~ 10时04分]"
-        },
-        {
-          "title": "LPU出货高增长预定？英伟达发布Vera Rubin平台 每机柜配备256个",
-          "url": "https://www.cls.cn/detail/2315029",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时29分 ~ 19时14分]"
         },
         {
           "title": "英伟达涨幅扩大至4.7%，刷新日高。黄仁勋预计，2027年收入将至少达到1万亿美元。 纳斯达克100指数涨幅扩大至1.7%，刷新日高。 标普500指数涨超1.2%，道指涨459点涨幅0.99%。",
@@ -819,7 +819,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -892,6 +892,17 @@
           "time_info": "[07时31分 ~ 07时32分]"
         },
         {
+          "title": "马斯克对所有人工智能公司放狠话",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AF%B9%E6%89%80%E6%9C%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8%E6%94%BE%E7%8B%A0%E8%AF%9D%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
           "title": "英国承诺加速AI应用以提振经济增长",
           "url": "https://flash.jin10.com/detail/20260317065413762800",
           "source": "金十数据",
@@ -926,6 +937,17 @@
           "time_info": "[05时39分 ~ 06时33分]"
         },
         {
+          "title": "1月至2月新增48款生成式人工智能服务在国家网信办完成备案",
+          "url": "https://api3.cls.cn/share/article/2315821?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
           "title": "摩根士丹利：预计人工智能（AI）数据中心将在市政债券市场激发1000亿美元债券发行。",
           "url": "https://wallstreetcn.com/livenews/3071100",
           "source": "华尔街见闻-快讯",
@@ -955,7 +977,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1084,7 +1106,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "最火的芯片研究机构！SemiAnalysis创始人：算力瓶颈从CoWoS转移到EUV，存储吃掉30%资本开支",
@@ -1166,6 +1188,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时33分]"
+        },
+        {
+          "title": "【机构调研】这家电子元件制造商聚焦AI算力核心赛道，已导入国内AI服务器头部客户供应链",
+          "url": "https://api3.cls.cn/share/article/2315812?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
         },
         {
           "title": "【机构龙虎榜解读】存储芯片+昇腾+算力租赁，已推出DDR5内存、PCIe 5.0固态硬盘，与宝德等伙伴的业务合作内容涵盖鲲鹏、昇腾全系产品，已签订小批量服务器订单并实现部分交付，这家公司获净买入",
@@ -1292,7 +1325,7 @@
     },
     {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "“芯荒”难解！SK集团董事长：存储芯片短缺或持续至2030年",
@@ -1304,8 +1337,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时07分 ~ 19时14分]"
+          "appearance_count": 7,
+          "time_info": "[16时07分 ~ 20时03分]"
+        },
+        {
+          "title": "存储现货倒挂加剧 本周行业低容量SSD及内存条、LPDDR4X产品价格上调",
+          "url": "https://api3.cls.cn/share/article/2315843?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
+          "title": "存储芯片供应即将暴雷？三星史上最大规模罢工已迫在眉睫",
+          "url": "https://www.cls.cn/detail/2315232",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 20时03分]"
         },
         {
           "title": "AI拉动需求劲增，存储芯片全年涨价“无悬念”",
@@ -1330,18 +1387,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时39分]"
-        },
-        {
-          "title": "存储芯片供应即将暴雷？三星史上最大规模罢工已迫在眉睫",
-          "url": "https://www.cls.cn/detail/2315232",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 19时14分]"
         },
         {
           "title": "财联社3月17日电，美光科技生产与英伟达Vera Rubin相关的HBM4。",
@@ -1459,11 +1504,12 @@
             9,
             12,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时29分 ~ 19时14分]"
+          "appearance_count": 10,
+          "time_info": "[12时29分 ~ 20时03分]"
         },
         {
           "title": "中国机器人开始打网球了",
@@ -1477,17 +1523,6 @@
           "time_info": "[12时29分 ~ 15时04分]"
         },
         {
-          "title": "自变量机器人与58集团战略合作，全球首个机器人保洁员进入家庭服务",
-          "url": "https://wallstreetcn.com/livenews/3071629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
           "title": "北京：聚焦机器人、合成生物、脑机接口、智能终端、绿色能源等重点领域 完善行政许可等管理制度和规则",
           "url": "https://api3.cls.cn/share/article/2315231?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -1497,6 +1532,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "自变量机器人与58集团战略合作，全球首个机器人保洁员进入家庭服务",
+          "url": "https://wallstreetcn.com/livenews/3071629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时03分]"
         },
         {
           "title": "财联社3月17日电，Nebius就机器人和实物AI与英伟达构建合作伙伴关系。",
@@ -1550,7 +1597,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1561,7 +1608,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1599,11 +1646,12 @@
           "source": "早报",
           "ranks": [
             1,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 19时14分]"
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 20时03分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，比亚迪初步收涨8.2%，小米涨5.4%，理想涨5.3%，蔚来涨3.1%，美团、网易、百胜中国、腾讯、拼多多、阿里巴巴至多涨约2.9%。",
@@ -1962,6 +2010,56 @@
       ]
     },
     {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【数据看盘】机构、量化资金的活跃度大幅降低，北向资金联手一线游资抢筹太空光伏人气股",
+          "url": "https://www.cls.cn/detail/2315651",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
+          "title": "A股光伏设备板块开盘走强，华民股份涨超12%，迈为股份涨逾7%，国晟科技、晶澳科技、双良节能、奥特维跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3071296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "A股光伏设备板块盘初拉升，迈为股份、国晟科技双双涨超5%，华民股份、奥特维、钧达股份、晶澳科技等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260317093121887800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "太空光伏概念异动拉升 协鑫集成、雅博科技涨停",
+          "url": "https://api3.cls.cn/share/article/2315042?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 3,
       "titles": [
@@ -2001,45 +2099,6 @@
       ]
     },
     {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股光伏设备板块开盘走强，华民股份涨超12%，迈为股份涨逾7%，国晟科技、晶澳科技、双良节能、奥特维跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3071296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "A股光伏设备板块盘初拉升，迈为股份、国晟科技双双涨超5%，华民股份、奥特维、钧达股份、晶澳科技等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260317093121887800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "太空光伏概念异动拉升 协鑫集成、雅博科技涨停",
-          "url": "https://api3.cls.cn/share/article/2315042?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "比特币 以太坊",
       "match_count": 3,
       "titles": [
@@ -2052,8 +2111,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 19时14分]"
+          "appearance_count": 11,
+          "time_info": "[10时04分 ~ 20时03分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -2108,6 +2167,34 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元兑日元回吐涨幅，跌0.1%至158.97，创日内新低。",
+          "url": "https://wallstreetcn.com/livenews/3071641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "LME期铜收涨75美元，报12856美元/吨。 LME期铝收跌44美元，报3396美元/吨。 LME期锌收跌26美元，报3270美元/吨。 LME期铅收跌2美元，报1905美元/吨。 LME期镍收涨199美元，报17465美元/吨。 LME期锡收涨1206美元，报48265美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3071094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "储能",
       "match_count": 2,
       "titles": [
@@ -2145,11 +2232,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时33分 ~ 19时14分]"
+          "appearance_count": 13,
+          "time_info": "[06时33分 ~ 20时03分]"
         },
         {
           "title": "氢能产业化提速 三部门启动应用试点 单个城市群最高奖励16亿元",
@@ -2190,23 +2278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "LME期铜收涨75美元，报12856美元/吨。 LME期铝收跌44美元，报3396美元/吨。 LME期锌收跌26美元，报3270美元/吨。 LME期铅收跌2美元，报1905美元/吨。 LME期镍收涨199美元，报17465美元/吨。 LME期锡收涨1206美元，报48265美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3071094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
         }
       ]
     },
@@ -2279,6 +2350,23 @@
       ]
     },
     {
+      "keyword_group": "优必选 商汤 华大基因",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "优必选(09880.HK)拟3月31日举行董事会会议审批年度业绩",
+          "url": "https://www.gelonghui.com/news/5186597",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "中芯国际",
       "match_count": 1,
       "titles": [
@@ -2306,7 +2394,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         }
