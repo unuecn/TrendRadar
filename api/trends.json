@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T16:51:19.347773+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-03-18T17:55:09.171518+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "百度智能云发布AI算力、存储等产品调价公告 最高上涨30%",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "【风口研报·公司】转型算力服务商带动业绩猛增近500%，公司不仅与英伟达开展深度合作，且凭借稳定供应链构建了稀缺性，持续打开盈利空间；另有公司受益核心客户优衣库集中放量，业绩超预期且经营逐季改善",
+          "url": "https://api3.cls.cn/share/article/2316744?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
         },
         {
           "title": "德国计划大幅提升AI算力",
@@ -146,7 +157,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -605,7 +616,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -633,11 +644,12 @@
           "ranks": [
             9,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时08分 ~ 16时51分]"
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 17时55分]"
         },
         {
           "title": "财联社3月18日电，OpenAI正筹备上市，可能在今年年底前完成。",
@@ -688,6 +700,19 @@
           "time_info": "[05时05分 ~ 06时20分]"
         },
         {
+          "title": "神秘AI模型现身 外界猜测或为DeepSeek新一代系统",
+          "url": "https://www.zaochenbao.com/news/china/202603/1867151.html",
+          "source": "早报",
+          "ranks": [
+            13,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 17时55分]"
+        },
+        {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
           "url": "https://wallstreetcn.com/livenews/3071826",
           "source": "华尔街见闻-快讯",
@@ -698,18 +723,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 03时02分]"
-        },
-        {
-          "title": "神秘AI模型现身 外界猜测或为DeepSeek新一代系统",
-          "url": "https://www.zaochenbao.com/news/china/202603/1867151.html",
-          "source": "早报",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 16时51分]"
         },
         {
           "title": "微软考虑就亚马逊与OpenAI达成的500亿美元云交易采取法律行动。 (英国金融时报)",
@@ -748,7 +761,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "富特科技(301607.SZ)：目前公司为蔚来、小米、广汽、零跑、雷诺等多个主机厂配套相关产品",
@@ -776,6 +789,17 @@
           "time_info": "[00时09分 ~ 07时41分]"
         },
         {
+          "title": "小米新SU7",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%96%B0SU7&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时51分 ~ 17时55分]"
+        },
+        {
           "title": "据知情人士透露，联合利华为食品资产潜在的分离研究诸多选项。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3071858",
           "source": "华尔街见闻-快讯",
@@ -785,17 +809,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
-        },
-        {
-          "title": "小米新SU7",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%96%B0SU7&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
         },
         {
           "title": "小米超强钢获得国家级科技一等奖",
@@ -823,15 +836,38 @@
           "time_info": "[07时41分 ~ 12时35分]"
         },
         {
+          "title": "南向资金今日净买入12.17亿元。港股通（沪）方面，小米集团-W、阿里巴巴-W分别获净买入6.28亿港元、6.28亿港元；腾讯控股净卖出额居首，金额为7.08亿港元；港股通（深）方面，阿里巴巴-W、长飞光纤光缆分别获净买入9.08亿港元、4.24亿港元；中芯国际净卖出额居首，金额为2.78亿港元。",
+          "url": "https://flash.jin10.com/detail/20260318173116479800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
+        },
+        {
           "title": "华为渠道服异常致玩家账号无法登录，客服回应：已修复",
           "url": "https://wallstreetcn.com/livenews/3072268",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时55分]"
+        },
+        {
+          "title": "吉利汽车桂生悦：吉利今年内有望达到特斯拉FSD的智驾水平",
+          "url": "https://api3.cls.cn/share/article/2316877?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
         },
         {
           "title": "港股新能源车企股回调，小鹏汽车(09868.HK)、理想汽车(02015.HK)双双跌超3%，吉利汽车(00175.HK)、零跑汽车(09863.HK)、比亚迪股份(01211.HK)、小米集团(01810.HK)等个股跟跌。",
@@ -926,7 +962,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -1095,7 +1131,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "万里扬(002434.SZ)：有收到机器人公司的关节模组的样机订单",
@@ -1127,11 +1163,23 @@
           "url": "https://ckxxapp.ckxx.net/pages/2026/03/18/ffbf466ea92747f981f74dc18ba72d8a.html",
           "source": "参考消息",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时51分 ~ 17时55分]"
+        },
+        {
+          "title": "澳门街头现“人机纠纷” 女子被人形机器人吓到不适入院",
+          "url": "https://www.zaochenbao.com/news/china/202603/1867170.html",
+          "source": "早报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
         },
         {
           "title": "北京打造全球首个机器人养老驿站",
@@ -1139,11 +1187,12 @@
           "source": "早报",
           "ranks": [
             14,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 16时51分]"
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 17时55分]"
         },
         {
           "title": "智元机器人获颁国家高新技术企业认证",
@@ -1152,7 +1201,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }
@@ -1220,6 +1269,56 @@
       ]
     },
     {
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "韩政府研究组赴华考察自动驾驶政策",
+          "url": "https://www.zaochenbao.com/news/china/202603/1867165.html",
+          "source": "早报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
+        },
+        {
+          "title": "韩媒：韩政府派跨部门研究组赴华考察自动驾驶政策",
+          "url": "https://wallstreetcn.com/livenews/3072146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "韩政府派跨部门研究组赴华考察自动驾驶政策",
+          "url": "https://api3.cls.cn/share/article/2316526?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "“首次”！韩媒：韩政府派跨部门研究组赴华考察自动驾驶政策",
+          "url": "https://flash.jin10.com/detail/20260318133323679800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 4,
       "titles": [
@@ -1269,45 +1368,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "韩媒：韩政府派跨部门研究组赴华考察自动驾驶政策",
-          "url": "https://wallstreetcn.com/livenews/3072146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "韩政府派跨部门研究组赴华考察自动驾驶政策",
-          "url": "https://api3.cls.cn/share/article/2316526?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "“首次”！韩媒：韩政府派跨部门研究组赴华考察自动驾驶政策",
-          "url": "https://flash.jin10.com/detail/20260318133323679800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
         }
       ]
     },
@@ -1435,8 +1495,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时41分 ~ 16时51分]"
+          "appearance_count": 8,
+          "time_info": "[07时41分 ~ 17时55分]"
         }
       ]
     },
@@ -1454,6 +1514,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "红星发展：光电新材料项目碳酸锶产线已点火试生产",
+          "url": "https://api3.cls.cn/share/article/2316890?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
         }
       ]
     },
