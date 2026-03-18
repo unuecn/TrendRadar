@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T10:08:56.365118+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-03-18T12:35:29.858551+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "推理时代加速到来！英伟达力推LPU，哪些上市公司有望吃到百万出货红利？",
@@ -20,17 +20,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时09分 ~ 10时08分]"
-        },
-        {
-          "title": "消息：英伟达拟推出可在华销售Groq晶片",
-          "url": "https://www.zaochenbao.com/news/politics/202603/1867131.html",
-          "source": "早报",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
         },
         {
           "title": "英伟达CEO黄仁勋：Groq可能会为数据中心市场带来25%的增长空间。",
@@ -69,6 +58,18 @@
           "time_info": "[01时48分 ~ 03时02分]"
         },
         {
+          "title": "消息：英伟达拟推出可在华销售Groq晶片",
+          "url": "https://www.zaochenbao.com/news/politics/202603/1867131.html",
+          "source": "早报",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 12时35分]"
+        },
+        {
           "title": "财联社3月18日电，英伟达CEO黄仁勋表示，Groq可能会为数据中心市场带来25%的增长空间。",
           "url": "https://api3.cls.cn/share/article/2316096?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -91,6 +92,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 03时02分]"
+        },
+        {
+          "title": "黄仁勋：英伟达重启生产面向中国市场的H200晶片",
+          "url": "https://www.zaochenbao.com/news/china/202603/1867127.html",
+          "source": "早报",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 12时35分]"
         },
         {
           "title": "惠与（HPE）推出由英伟达产品支持的HPE AI Grid。",
@@ -117,15 +130,15 @@
           "time_info": "[04时03分 ~ 05时05分]"
         },
         {
-          "title": "黄仁勋：英伟达重启生产面向中国市场的H200晶片",
-          "url": "https://www.zaochenbao.com/news/china/202603/1867127.html",
+          "title": "知情人士：中国批准多家企业采购英伟达H200晶片",
+          "url": "https://www.zaochenbao.com/news/china/202603/1867142.html",
           "source": "早报",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "12时35分"
         },
         {
           "title": "英伟达CEO黄仁勋：回购和分红将是一个非常大的数字。",
@@ -208,7 +221,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "橡树资本联合创始人Howard Marks：投资者低估了人工智能（AI）。 AI让世界变得更难预测。 赋予AI重要性的“力量”也让AI未来会做些什么变得难以预料。",
@@ -276,7 +289,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -287,9 +300,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "ETF午评 | A股表现震荡，AI硬件板块走高，创业板人工智能ETF华宝涨超3%",
+          "url": "https://www.gelonghui.com/news/5186873",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "欧莱雅：与英伟达携手，借助预测性人工智能科学加速美妆研发。",
@@ -303,13 +327,24 @@
           "time_info": "01时48分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-18）",
+          "url": "https://flash.jin10.com/detail/20260318115825379800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "三星电子芯片业务负责人：需对人工智能市场前景保持审慎态度。",
           "url": "https://flash.jin10.com/detail/20260318095255891800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -331,7 +366,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -401,6 +436,18 @@
           "time_info": "[05时05分 ~ 06时20分]"
         },
         {
+          "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
+          "url": "https://www.cls.cn/detail/2316213",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 12时35分]"
+        },
+        {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
           "url": "https://wallstreetcn.com/livenews/3071826",
           "source": "华尔街见闻-快讯",
@@ -411,17 +458,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 03时02分]"
-        },
-        {
-          "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
-          "url": "https://www.cls.cn/detail/2316213",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
         },
         {
           "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
@@ -525,69 +561,8 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "算力租赁概念反复活跃 世纪恒通、东方国信涨近15%",
-          "url": "https://api3.cls.cn/share/article/2316342?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "【研选】LPU为本次GTC大会全新亮点，PCB材料升级+层数提升为确定性升级方向，市场空间将持续扩容；国内领先的企业级大数据与AI解决方案提供商，智算中心订单落地，算力服务开启第二增长曲线",
-          "url": "https://api3.cls.cn/share/article/2315382?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "A股早评：三大指数集体高开，算力硬件股盘初反弹",
-          "url": "https://www.gelonghui.com/news/5186846",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "中恒电气(002364.SZ)：公司面向数据中心、智算中心等应用场景提供HVDC电源、预制化Panama电力模组、精密配电等智能供电产品",
-          "url": "https://www.gelonghui.com/news/5186841",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "超紧凑AI芯片能以光速完成计算",
-          "url": "https://api3.cls.cn/share/article/2316146?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "富特科技(301607.SZ)：目前公司为蔚来、小米、广汽、零跑、雷诺等多个主机厂配套相关产品",
@@ -626,16 +601,28 @@
           "time_info": "03时02分"
         },
         {
+          "title": "小米超强钢获得国家级科技一等奖",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%B6%85%E5%BC%BA%E9%92%A2%E8%8E%B7%E5%BE%97%E5%9B%BD%E5%AE%B6%E7%BA%A7%E7%A7%91%E6%8A%80%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "华为“第一境”落地！启境制定三年规划 首款车型预埋L3级架构",
           "url": "https://www.cls.cn/detail/2316013",
           "source": "财联社热门",
           "ranks": [
             13,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 10时08分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 12时35分]"
         },
         {
           "title": "港股新能源车企股回调，小鹏汽车(09868.HK)、理想汽车(02015.HK)双双跌超3%，吉利汽车(00175.HK)、零跑汽车(09863.HK)、比亚迪股份(01211.HK)、小米集团(01810.HK)等个股跟跌。",
@@ -644,7 +631,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         }
@@ -652,7 +639,7 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "苹果公司居家设备工程主管Brian Lynch离职，将跳槽至Oura。",
@@ -702,21 +689,93 @@
           "time_info": "00时09分"
         },
         {
+          "title": "库克宣布苹果在华节水550亿升",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E5%AE%A3%E5%B8%83%E8%8B%B9%E6%9E%9C%E5%9C%A8%E5%8D%8E%E8%8A%82%E6%B0%B4550%E4%BA%BF%E5%8D%87%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "库克称不要过度使用苹果产品",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E7%A7%B0%E4%B8%8D%E8%A6%81%E8%BF%87%E5%BA%A6%E4%BD%BF%E7%94%A8%E8%8B%B9%E6%9E%9C%E4%BA%A7%E5%93%81%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         }
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "算力租赁概念反复活跃 世纪恒通、东方国信涨近15%",
+          "url": "https://api3.cls.cn/share/article/2316342?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "【研选】LPU为本次GTC大会全新亮点，PCB材料升级+层数提升为确定性升级方向，市场空间将持续扩容；国内领先的企业级大数据与AI解决方案提供商，智算中心订单落地，算力服务开启第二增长曲线",
+          "url": "https://api3.cls.cn/share/article/2315382?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "A股早评：三大指数集体高开，算力硬件股盘初反弹",
+          "url": "https://www.gelonghui.com/news/5186846",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "中恒电气(002364.SZ)：公司面向数据中心、智算中心等应用场景提供HVDC电源、预制化Panama电力模组、精密配电等智能供电产品",
+          "url": "https://www.gelonghui.com/news/5186841",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "超紧凑AI芯片能以光速完成计算",
+          "url": "https://api3.cls.cn/share/article/2316146?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "存储芯片供应即将暴雷？三星史上最大规模罢工已迫在眉睫",
@@ -737,9 +796,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "3月18日午间收评：创业板指半日涨0.89%，存储芯片板块再度爆发",
+          "url": "https://wallstreetcn.com/livenews/3072095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "三星电子芯片业务负责人：存储芯片市场正经历前所未有的超级周期。",
@@ -748,7 +818,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         }
@@ -779,7 +849,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -790,7 +860,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         }
@@ -818,7 +888,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         }
@@ -856,42 +926,8 @@
       ]
     },
     {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
-          "url": "https://wallstreetcn.com/articles/3767701",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 10时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "低空经济 eVTOL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "菲媒：低空经济或成中国制造业新护城河",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/03/18/983a3c74a13441b185df81caab5436b4.html",
-          "source": "参考消息",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【数据看盘】机构、量化资金的活跃度大幅降低，北向资金联手一线游资抢筹太空光伏人气股",
@@ -905,6 +941,53 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时09分 ~ 07时41分]"
+        },
+        {
+          "title": "华润电力：2026年计划新增5450兆瓦并网风能和光伏发电装机容量",
+          "url": "https://api3.cls.cn/share/article/2316467?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 12时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "低空经济 eVTOL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "菲媒：低空经济或成中国制造业新护城河",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/03/18/983a3c74a13441b185df81caab5436b4.html",
+          "source": "参考消息",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 12时35分]"
         }
       ]
     },
