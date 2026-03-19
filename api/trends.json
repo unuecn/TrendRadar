@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T17:11:45.440683+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2026-03-19T18:07:38.714331+08:00",
+  "total_titles_processed": 1642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
@@ -18,8 +18,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 17时11分]"
+          "appearance_count": 8,
+          "time_info": "[10时09分 ~ 18时07分]"
         },
         {
           "title": "Coinbase为AI智能体支付酝酿基础设施。（The Information）",
@@ -195,7 +195,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -222,6 +222,17 @@
           "time_info": "12时35分"
         },
         {
+          "title": "阿里巴巴(09988.HK)：阿里云收入同比加速增长36%；C端旗舰AI应用千问app实现真实世界大规模办事能力，千问C端应用月活跃用户数突破3亿。",
+          "url": "https://flash.jin10.com/detail/20260319173700429800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "据The Information：Meta Platforms(META.O)的AI智能体将敏感的公司和用户数据泄露给了未经授权的员工。",
           "url": "https://flash.jin10.com/detail/20260319053348018800",
           "source": "金十数据",
@@ -239,9 +250,163 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
+          "url": "https://www.cls.cn/detail/2316793",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时56分]"
+        },
+        {
+          "title": "美股异动丨金山云涨超17%，AI算力需求爆发，多家云厂商集体宣布涨价",
+          "url": "https://www.gelonghui.com/news/5187680",
+          "source": "格隆汇",
+          "ranks": [
+            7,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时56分]"
+        },
+        {
+          "title": "胜宏科技(300476.SZ)：公司新增产能主要面向AI算力、AI服务器等领域",
+          "url": "https://www.gelonghui.com/news/5187802",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "算力硬件概念震荡回升 瑞斯康达8天5板",
+          "url": "https://api3.cls.cn/share/article/2317664?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
+          "url": "https://wallstreetcn.com/livenews/3072731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时56分]"
+        },
+        {
+          "title": "Token调用量暴增，阿里云宣布AI算力和存储产品最高涨价34%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787960",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "阿里巴巴：平头哥自主研发的GPU已实现规模化量产",
+          "url": "https://wallstreetcn.com/livenews/3073164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "【研选】阿里云AI算力和存储产品最高涨价34%，行业涨价持续超预期，韩国存储巨头称短缺或持续至2030年；国内编解码芯片龙头，积极拓展存储芯片、汽车电子、边缘AI等新领域，直接受益存储涨价",
+          "url": "https://api3.cls.cn/share/article/2316489?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "A股算力租赁板块盘初冲高，宏景科技涨超10%创新高，奥瑞德2连板，金开新能、贵广网络、亚康股份、利通电子、铜牛信息跟涨。日前，百度智能云发布AI算力、存储等产品调价公告；京东云宣布，明确拒绝跟风涨价，现有云主机、AI算力、存储、网络等全系核心产品价格保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260319094112725800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "算力租赁概念反复走强 美利云2连板",
+          "url": "https://api3.cls.cn/share/article/2317638?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "阿里巴巴：已将自研的平头哥GPU大规模投入生产",
+          "url": "https://api3.cls.cn/share/article/2318332?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "【大佬持仓跟踪】液冷+储能，液冷产品切入英伟达供应链，数据中心客户包括字节、阿里、腾讯等，这家公司产品获主流算力芯片厂商、头部算力设备制造商认可",
+          "url": "https://api3.cls.cn/share/article/2317773?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "港股伊登软件(01147.HK)涨超49%，公司附属与超聚变进行战略合作，推动算力与企业AI落地场景的结合。",
+          "url": "https://flash.jin10.com/detail/20260319093034610800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -386,140 +551,8 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
-          "url": "https://www.cls.cn/detail/2316793",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 07时56分]"
-        },
-        {
-          "title": "美股异动丨金山云涨超17%，AI算力需求爆发，多家云厂商集体宣布涨价",
-          "url": "https://www.gelonghui.com/news/5187680",
-          "source": "格隆汇",
-          "ranks": [
-            7,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 07时56分]"
-        },
-        {
-          "title": "胜宏科技(300476.SZ)：公司新增产能主要面向AI算力、AI服务器等领域",
-          "url": "https://www.gelonghui.com/news/5187802",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "算力硬件概念震荡回升 瑞斯康达8天5板",
-          "url": "https://api3.cls.cn/share/article/2317664?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
-          "url": "https://wallstreetcn.com/livenews/3072731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时56分]"
-        },
-        {
-          "title": "Token调用量暴增，阿里云宣布AI算力和存储产品最高涨价34%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32787960",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
-        },
-        {
-          "title": "【研选】阿里云AI算力和存储产品最高涨价34%，行业涨价持续超预期，韩国存储巨头称短缺或持续至2030年；国内编解码芯片龙头，积极拓展存储芯片、汽车电子、边缘AI等新领域，直接受益存储涨价",
-          "url": "https://api3.cls.cn/share/article/2316489?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "A股算力租赁板块盘初冲高，宏景科技涨超10%创新高，奥瑞德2连板，金开新能、贵广网络、亚康股份、利通电子、铜牛信息跟涨。日前，百度智能云发布AI算力、存储等产品调价公告；京东云宣布，明确拒绝跟风涨价，现有云主机、AI算力、存储、网络等全系核心产品价格保持稳定。",
-          "url": "https://flash.jin10.com/detail/20260319094112725800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "算力租赁概念反复走强 美利云2连板",
-          "url": "https://api3.cls.cn/share/article/2317638?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "【大佬持仓跟踪】液冷+储能，液冷产品切入英伟达供应链，数据中心客户包括字节、阿里、腾讯等，这家公司产品获主流算力芯片厂商、头部算力设备制造商认可",
-          "url": "https://api3.cls.cn/share/article/2317773?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "港股伊登软件(01147.HK)涨超49%，公司附属与超聚变进行战略合作，推动算力与企业AI落地场景的结合。",
-          "url": "https://flash.jin10.com/detail/20260319093034610800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【焦点复盘】科技股爆发引领情绪回暖，存储芯片股热度居高不下，化工等周期股逆势领跌",
@@ -545,6 +578,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时09分 ~ 06时32分]"
+        },
+        {
+          "title": "盛景微(603375.SH)：存储芯片相关产品EEPROM已实现量产，暂不直接对外销售",
+          "url": "https://www.gelonghui.com/news/5188266",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "美光CEO：人形机器人有望为存储芯片带来新需求",
@@ -690,8 +734,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时06分 ~ 17时11分]"
+          "appearance_count": 4,
+          "time_info": "[15时06分 ~ 18时07分]"
         },
         {
           "title": "机构：预测苹果将在2026年取得28%的市场份额 逼近三星的领先位置",
@@ -733,7 +777,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         }
@@ -817,7 +861,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         }
@@ -906,11 +950,12 @@
           "ranks": [
             2,
             5,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时06分 ~ 17时11分]"
+          "appearance_count": 4,
+          "time_info": "[15时06分 ~ 18时07分]"
         },
         {
           "title": "美联储主席鲍威尔：短期来看，建设数据中心在边际上推高通胀。",
@@ -941,7 +986,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1045,7 +1090,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1056,7 +1101,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1067,7 +1112,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         }
@@ -1107,7 +1152,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         }
@@ -1135,11 +1180,12 @@
           "url": "https://www.cls.cn/detail/2317724",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时06分 ~ 17时11分]"
+          "appearance_count": 4,
+          "time_info": "[15时06分 ~ 18时07分]"
         }
       ]
     },
