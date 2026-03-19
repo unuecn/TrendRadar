@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T10:09:45.298700+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2026-03-19T12:35:42.282845+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "Coinbase为AI智能体支付酝酿基础设施。（The Information）",
@@ -52,6 +52,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 04时42分]"
+        },
+        {
+          "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32789587",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 12时35分]"
         },
         {
           "title": "上个月，当Anthropic公司与美国国防部就人工智能在战争中的应用发生冲突时，谷歌(GOOG.O)的一位高管悄悄地与五角大楼官员会面，力荐该公司成为完美的国防合作伙伴。",
@@ -142,15 +154,26 @@
           "time_info": "03时52分"
         },
         {
-          "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32789587",
-          "source": "澎湃新闻",
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-19）",
+          "url": "https://flash.jin10.com/detail/20260319115517174800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "12时35分"
+        },
+        {
+          "title": "财联社3月19日电，港股AI应用概念股回落，MiniMax跌幅扩大至13%，智谱跌近10%，滴普科技跌超8%，海致科技集团跌超7%，腾讯跌近6%，快手跌超5%。",
+          "url": "https://api3.cls.cn/share/article/2317791?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)的AI智能体将敏感的公司和用户数据泄露给了未经授权的员工。",
@@ -162,6 +185,127 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
+          "url": "https://www.cls.cn/detail/2316793",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时56分]"
+        },
+        {
+          "title": "美股异动丨金山云涨超17%，AI算力需求爆发，多家云厂商集体宣布涨价",
+          "url": "https://www.gelonghui.com/news/5187680",
+          "source": "格隆汇",
+          "ranks": [
+            7,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时56分]"
+        },
+        {
+          "title": "胜宏科技(300476.SZ)：公司新增产能主要面向AI算力、AI服务器等领域",
+          "url": "https://www.gelonghui.com/news/5187802",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "算力硬件概念震荡回升 瑞斯康达8天5板",
+          "url": "https://api3.cls.cn/share/article/2317664?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
+          "url": "https://wallstreetcn.com/livenews/3072731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时56分]"
+        },
+        {
+          "title": "【研选】阿里云AI算力和存储产品最高涨价34%，行业涨价持续超预期，韩国存储巨头称短缺或持续至2030年；国内编解码芯片龙头，积极拓展存储芯片、汽车电子、边缘AI等新领域，直接受益存储涨价",
+          "url": "https://api3.cls.cn/share/article/2316489?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "A股算力租赁板块盘初冲高，宏景科技涨超10%创新高，奥瑞德2连板，金开新能、贵广网络、亚康股份、利通电子、铜牛信息跟涨。日前，百度智能云发布AI算力、存储等产品调价公告；京东云宣布，明确拒绝跟风涨价，现有云主机、AI算力、存储、网络等全系核心产品价格保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260319094112725800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "算力租赁概念反复走强 美利云2连板",
+          "url": "https://api3.cls.cn/share/article/2317638?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "【大佬持仓跟踪】液冷+储能，液冷产品切入英伟达供应链，数据中心客户包括字节、阿里、腾讯等，这家公司产品获主流算力芯片厂商、头部算力设备制造商认可",
+          "url": "https://api3.cls.cn/share/article/2317773?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "港股伊登软件(01147.HK)涨超49%，公司附属与超聚变进行战略合作，推动算力与企业AI落地场景的结合。",
+          "url": "https://flash.jin10.com/detail/20260319093034610800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -201,7 +345,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -248,7 +392,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -270,7 +414,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -281,117 +425,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
-          "url": "https://www.cls.cn/detail/2316793",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 07时56分]"
-        },
-        {
-          "title": "美股异动丨金山云涨超17%，AI算力需求爆发，多家云厂商集体宣布涨价",
-          "url": "https://www.gelonghui.com/news/5187680",
-          "source": "格隆汇",
-          "ranks": [
-            7,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 07时56分]"
-        },
-        {
-          "title": "胜宏科技(300476.SZ)：公司新增产能主要面向AI算力、AI服务器等领域",
-          "url": "https://www.gelonghui.com/news/5187802",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "算力硬件概念震荡回升 瑞斯康达8天5板",
-          "url": "https://api3.cls.cn/share/article/2317664?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
-          "url": "https://wallstreetcn.com/livenews/3072731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时56分]"
-        },
-        {
-          "title": "【研选】阿里云AI算力和存储产品最高涨价34%，行业涨价持续超预期，韩国存储巨头称短缺或持续至2030年；国内编解码芯片龙头，积极拓展存储芯片、汽车电子、边缘AI等新领域，直接受益存储涨价",
-          "url": "https://api3.cls.cn/share/article/2316489?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "A股算力租赁板块盘初冲高，宏景科技涨超10%创新高，奥瑞德2连板，金开新能、贵广网络、亚康股份、利通电子、铜牛信息跟涨。日前，百度智能云发布AI算力、存储等产品调价公告；京东云宣布，明确拒绝跟风涨价，现有云主机、AI算力、存储、网络等全系核心产品价格保持稳定。",
-          "url": "https://flash.jin10.com/detail/20260319094112725800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "算力租赁概念反复走强 美利云2连板",
-          "url": "https://api3.cls.cn/share/article/2317638?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "港股伊登软件(01147.HK)涨超49%，公司附属与超聚变进行战略合作，推动算力与企业AI落地场景的结合。",
-          "url": "https://flash.jin10.com/detail/20260319093034610800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
@@ -399,7 +433,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "小米大模型MiMo-V2-Pro发布",
@@ -411,6 +445,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "华为企业级智能体开发平台AgentArts将于4月30日公测",
+          "url": "https://api3.cls.cn/share/article/2317822?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "小米汽车 舒淇",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%20%E8%88%92%E6%B7%87&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 12时35分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.06%，报7015.70点，微幅高开之后，整体持续走低。 热门中概股里，微博初步收跌10.8%，腾讯音乐跌9.4%，奇富科技跌8.3%，理想跌5.1%，腾讯控股跌4.7%，拼多多跌3.5%，比亚迪、文远知行、百胜中国、小鹏、小马智行、美团、小米集团、网易至少跌超1%，阿特斯太阳能、世纪互联则至多收涨1.5%，新东方涨3.6%，中通快递涨7.3%，金山云涨12.6%。 ETF中，中概互联网指数ETF（KWEB）收跌3.19%，中国科技指数ETF（CQQQ）收跌1.54%。 德银嘉实沪深300指数ETF（ASHR）收跌1.19%，XtrackersHarvest中证50（ASHS）收跌0.50%。",
@@ -431,7 +488,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -442,7 +499,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -458,15 +515,37 @@
           "time_info": "07时56分"
         },
         {
-          "title": "小米汽车 舒淇",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%20%E8%88%92%E6%B7%87&t=31&band_rank=24&Refer=top",
+          "title": "舒淇官宣代言小米汽车",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E5%AE%98%E5%AE%A3%E4%BB%A3%E8%A8%80%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "12时35分"
+        },
+        {
+          "title": "小米推出三款自研大模型，雷军称今年在AI领域将投入超160亿",
+          "url": "https://wallstreetcn.com/livenews/3072874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "小米集团涨超5%，此前推出大模型，且新一代SU7将于今日晚些时间公布。 恒生科技指数跌幅收窄至0.9%，开盘一度跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3072872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         }
       ]
     },
@@ -479,11 +558,12 @@
           "url": "https://ckxxapp.ckxx.net/pages/2026/03/18/ffbf466ea92747f981f74dc18ba72d8a.html",
           "source": "参考消息",
           "ranks": [
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 10时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时09分 ~ 12时35分]"
         },
         {
           "title": "澳门街头现“人机纠纷” 女子被人形机器人吓到不适入院",
@@ -514,7 +594,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -533,7 +613,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
@@ -562,6 +642,17 @@
           "time_info": "[00时09分 ~ 05时34分]"
         },
         {
+          "title": "港股午评：三大指数齐挫，黄金股领衔有色金属股下跌，小米逆势涨超4%",
+          "url": "https://www.gelonghui.com/news/5187837",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "美联储3月决议声明发布前，美元指数涨0.25%，暂报99.818点。 美国10年期国债收益率维持2.3个基点的涨幅，持稳于4.22%上方；两年期美债收益率涨3.8个基点，持稳于3.7%上方。 现货黄金跌2.3%，持稳于4900美元下方。",
           "url": "https://wallstreetcn.com/livenews/3072606",
           "source": "华尔街见闻-快讯",
@@ -576,7 +667,7 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果CEO库克访华 现身成都出席周年庆祝活动",
@@ -600,6 +691,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时31分]"
+        },
+        {
+          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "Counterpoint：苹果今年1月至3月初期间在中国智能手机销量增长23%",
+          "url": "https://wallstreetcn.com/livenews/3072884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         }
       ]
     },
@@ -628,6 +741,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "XR研究院：千问AI眼镜开售首周线上份额超70%",
+          "url": "https://wallstreetcn.com/livenews/3072898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         }
       ]
     },
@@ -695,9 +825,26 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月19日（周四）富时中国A50指数成分股午盘收盘行情一览：银行股走势分化，保险、券商、白酒板块集体下跌。煤炭股、光伏设备走强",
+          "url": "https://flash.jin10.com/detail/20260319114959163800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         }
       ]
     },
@@ -728,11 +875,12 @@
           "url": "https://www.zaochenbao.com/news/china/202603/1967204.html",
           "source": "早报",
           "ranks": [
-            17
+            17,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 12时35分]"
         }
       ]
     }
