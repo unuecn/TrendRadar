@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T19:58:18.791082+08:00",
-  "total_titles_processed": 1854,
+  "generated_at": "2026-03-19T21:15:16.846371+08:00",
+  "total_titles_processed": 1977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
@@ -16,11 +16,12 @@
             14,
             13,
             10,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时09分 ~ 19时58分]"
+          "appearance_count": 11,
+          "time_info": "[10时09分 ~ 21时15分]"
         },
         {
           "title": "Coinbase为AI智能体支付酝酿基础设施。（The Information）",
@@ -113,6 +114,17 @@
           "time_info": "03时52分"
         },
         {
+          "title": "小米CEO：未来三年将在人工智能领域投入超过600亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3073352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "美联储主席鲍威尔：人工智能投资也可能会提高中性利率。",
           "url": "https://flash.jin10.com/detail/20260319031755717800",
           "source": "金十数据",
@@ -152,7 +164,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -281,8 +293,19 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "小米发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 21时15分]"
+        },
         {
           "title": "小米大模型MiMo-V2-Pro发布",
           "url": "https://api3.cls.cn/share/article/2317495?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -295,26 +318,15 @@
           "time_info": "07时56分"
         },
         {
-          "title": "小米发布会",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=1&Refer=top",
+          "title": "小米新SU7起售价21.99万元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0SU7%E8%B5%B7%E5%94%AE%E4%BB%B721.99%E4%B8%87%E5%85%83%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "小米新SU7发布会请来半个车圈",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0SU7%E5%8F%91%E5%B8%83%E4%BC%9A%E8%AF%B7%E6%9D%A5%E5%8D%8A%E4%B8%AA%E8%BD%A6%E5%9C%88%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "21时15分"
         },
         {
           "title": "华为企业级智能体开发平台AgentArts将于4月30日公测",
@@ -334,7 +346,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -345,7 +357,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -355,11 +367,24 @@
           "source": "早报",
           "ranks": [
             5,
-            6
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时15分]"
+        },
+        {
+          "title": "小米新SU7发布会请来半个车圈",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0SU7%E5%8F%91%E5%B8%83%E4%BC%9A%E8%AF%B7%E6%9D%A5%E5%8D%8A%E4%B8%AA%E8%BD%A6%E5%9C%88%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时58分]"
+          "time_info": "[19时58分 ~ 21时15分]"
         },
         {
           "title": "小米汽车 舒淇",
@@ -397,13 +422,24 @@
           "time_info": "10时09分"
         },
         {
+          "title": "小米笔记本",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E7%AC%94%E8%AE%B0%E6%9C%AC&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "小米雷军回忆打造VGT概念车：在国际上引起了巨大轰动，将在下个月北京车展亮相",
           "url": "https://wallstreetcn.com/livenews/3073264",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -419,6 +455,17 @@
           "time_info": "10时09分"
         },
         {
+          "title": "小米：未来三年 AI领域计划投入至少600亿元",
+          "url": "https://api3.cls.cn/share/article/2318624?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "小米发布大模型MiMo-V2-Pro",
           "url": "https://flash.jin10.com/detail/20260319073452387800",
           "source": "金十数据",
@@ -428,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "美股盘前要闻一览：交易员不再押注美联储2026年降息；美或解除对海上伊朗石油制裁；马斯克称特斯拉有望在12月完成AI6芯片流片",
+          "url": "https://api3.cls.cn/share/article/2318613?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "舒淇官宣代言小米汽车",
@@ -499,7 +557,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -534,7 +592,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -567,7 +625,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -612,7 +670,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -634,7 +692,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -645,9 +703,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
+        },
+        {
+          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
+          "url": "https://www.cls.cn/detail/2318157",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "A股算力租赁板块盘初冲高，宏景科技涨超10%创新高，奥瑞德2连板，金开新能、贵广网络、亚康股份、利通电子、铜牛信息跟涨。日前，百度智能云发布AI算力、存储等产品调价公告；京东云宣布，明确拒绝跟风涨价，现有云主机、AI算力、存储、网络等全系核心产品价格保持稳定。",
@@ -708,7 +777,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国工业机器人产量加速提升",
@@ -740,7 +809,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -762,7 +831,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -784,7 +853,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -828,7 +897,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -839,9 +908,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
+        },
+        {
+          "title": "中国保险行业协会：将逐步推进人形机器人保险示范条款 保险机构加快布局新型科技保险",
+          "url": "https://flash.jin10.com/detail/20260319204324646800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "商务部：1-2月具身智能机器人销售额增长13%",
@@ -1111,7 +1191,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -1262,8 +1342,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时06分 ~ 19时58分]"
+          "appearance_count": 7,
+          "time_info": "[15时06分 ~ 21时15分]"
         },
         {
           "title": "美联储主席鲍威尔：短期来看，建设数据中心在边际上推高通胀。",
@@ -1361,8 +1441,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时58分]"
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时15分]"
         },
         {
           "title": "港股午评：三大指数齐挫，黄金股领衔有色金属股下跌，小米逆势涨超4%",
@@ -1399,7 +1479,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -1483,7 +1563,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -1494,7 +1574,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -1508,6 +1588,130 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "雷达",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据ABC新闻：自战争开始以来，至少有10个美国及其盟友使用的雷达站已被伊朗无人机或导弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260319011156400800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "星宸科技(301536.SZ)：公司首款主激光雷达芯片预计2026 年Q2上车小规模量产，第二款补盲场景芯片计划2026年Q4发布",
+          "url": "https://www.gelonghui.com/news/5188440",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "星宸科技(301536.SZ)：2026年公司产品结构将全面升级至先进制程，计划发布1款激光雷达芯片及3款12nm芯片",
+          "url": "https://www.gelonghui.com/news/5188439",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI将收购初创公司Astral，进一步拓展其在编程领域的布局。",
+          "url": "https://wallstreetcn.com/livenews/3073358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 21时15分]"
+        },
+        {
+          "title": "财联社3月19日电，OpenAI将收购初创公司Astral，进一步拓展其在编程领域的布局。",
+          "url": "https://api3.cls.cn/share/article/2318630?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "云南锗业(002428.SZ)：目前公司光伏级锗产品价格整体保持平稳",
+          "url": "https://www.gelonghui.com/news/5188453",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "金十图示：2026年03月19日（周四）富时中国A50指数成分股午盘收盘行情一览：银行股走势分化，保险、券商、白酒板块集体下跌。煤炭股、光伏设备走强",
+          "url": "https://flash.jin10.com/detail/20260319114959163800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储按兵不动美元大涨，人民币对美元汇率跌破6.9",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795341",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
@@ -1563,23 +1767,6 @@
       ]
     },
     {
-      "keyword_group": "雷达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据ABC新闻：自战争开始以来，至少有10个美国及其盟友使用的雷达站已被伊朗无人机或导弹袭击。",
-          "url": "https://flash.jin10.com/detail/20260319011156400800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
       "match_count": 1,
       "titles": [
@@ -1593,40 +1780,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时09分 ~ 07时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月19日（周四）富时中国A50指数成分股午盘收盘行情一览：银行股走势分化，保险、券商、白酒板块集体下跌。煤炭股、光伏设备走强",
-          "url": "https://flash.jin10.com/detail/20260319114959163800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
         }
       ]
     },
