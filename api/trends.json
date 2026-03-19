@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T18:07:38.714331+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2026-03-19T19:08:26.676370+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
@@ -15,11 +15,12 @@
             16,
             14,
             13,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时09分 ~ 18时07分]"
+          "appearance_count": 9,
+          "time_info": "[10时09分 ~ 19时08分]"
         },
         {
           "title": "Coinbase为AI智能体支付酝酿基础设施。（The Information）",
@@ -222,13 +223,24 @@
           "time_info": "12时35分"
         },
         {
+          "title": "微信安全中心发布针对滥用人工智能生成内容服务传播恶意链接的治理公告",
+          "url": "https://wallstreetcn.com/livenews/3073214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "阿里巴巴(09988.HK)：阿里云收入同比加速增长36%；C端旗舰AI应用千问app实现真实世界大规模办事能力，千问C端应用月活跃用户数突破3亿。",
           "url": "https://flash.jin10.com/detail/20260319173700429800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -257,162 +269,8 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
-          "url": "https://www.cls.cn/detail/2316793",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 07时56分]"
-        },
-        {
-          "title": "美股异动丨金山云涨超17%，AI算力需求爆发，多家云厂商集体宣布涨价",
-          "url": "https://www.gelonghui.com/news/5187680",
-          "source": "格隆汇",
-          "ranks": [
-            7,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 07时56分]"
-        },
-        {
-          "title": "胜宏科技(300476.SZ)：公司新增产能主要面向AI算力、AI服务器等领域",
-          "url": "https://www.gelonghui.com/news/5187802",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "算力硬件概念震荡回升 瑞斯康达8天5板",
-          "url": "https://api3.cls.cn/share/article/2317664?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
-          "url": "https://wallstreetcn.com/livenews/3072731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时56分]"
-        },
-        {
-          "title": "Token调用量暴增，阿里云宣布AI算力和存储产品最高涨价34%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32787960",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
-        },
-        {
-          "title": "阿里巴巴：平头哥自主研发的GPU已实现规模化量产",
-          "url": "https://wallstreetcn.com/livenews/3073164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "【研选】阿里云AI算力和存储产品最高涨价34%，行业涨价持续超预期，韩国存储巨头称短缺或持续至2030年；国内编解码芯片龙头，积极拓展存储芯片、汽车电子、边缘AI等新领域，直接受益存储涨价",
-          "url": "https://api3.cls.cn/share/article/2316489?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "A股算力租赁板块盘初冲高，宏景科技涨超10%创新高，奥瑞德2连板，金开新能、贵广网络、亚康股份、利通电子、铜牛信息跟涨。日前，百度智能云发布AI算力、存储等产品调价公告；京东云宣布，明确拒绝跟风涨价，现有云主机、AI算力、存储、网络等全系核心产品价格保持稳定。",
-          "url": "https://flash.jin10.com/detail/20260319094112725800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "算力租赁概念反复走强 美利云2连板",
-          "url": "https://api3.cls.cn/share/article/2317638?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "阿里巴巴：已将自研的平头哥GPU大规模投入生产",
-          "url": "https://api3.cls.cn/share/article/2318332?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "【大佬持仓跟踪】液冷+储能，液冷产品切入英伟达供应链，数据中心客户包括字节、阿里、腾讯等，这家公司产品获主流算力芯片厂商、头部算力设备制造商认可",
-          "url": "https://api3.cls.cn/share/article/2317773?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "港股伊登软件(01147.HK)涨超49%，公司附属与超聚变进行战略合作，推动算力与企业AI落地场景的结合。",
-          "url": "https://flash.jin10.com/detail/20260319093034610800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "小米大模型MiMo-V2-Pro发布",
@@ -435,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
+        },
+        {
+          "title": "小米发布万亿参数大模型 曾被误认为是深度求索 V4上新",
+          "url": "https://www.zaochenbao.com/news/china/202603/1967254.html",
+          "source": "早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "小米汽车 舒淇",
@@ -527,6 +396,17 @@
           "time_info": "15时06分"
         },
         {
+          "title": "宇树王兴兴现身小米发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%8E%8B%E5%85%B4%E5%85%B4%E7%8E%B0%E8%BA%AB%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "小米推出三款自研大模型，雷军称今年在AI领域将投入超160亿",
           "url": "https://wallstreetcn.com/livenews/3072874",
           "source": "华尔街见闻-快讯",
@@ -547,6 +427,160 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
+          "url": "https://www.cls.cn/detail/2316793",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时56分]"
+        },
+        {
+          "title": "美股异动丨金山云涨超17%，AI算力需求爆发，多家云厂商集体宣布涨价",
+          "url": "https://www.gelonghui.com/news/5187680",
+          "source": "格隆汇",
+          "ranks": [
+            7,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时56分]"
+        },
+        {
+          "title": "胜宏科技(300476.SZ)：公司新增产能主要面向AI算力、AI服务器等领域",
+          "url": "https://www.gelonghui.com/news/5187802",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "算力硬件概念震荡回升 瑞斯康达8天5板",
+          "url": "https://api3.cls.cn/share/article/2317664?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
+          "url": "https://wallstreetcn.com/livenews/3072731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时56分]"
+        },
+        {
+          "title": "Token调用量暴增，阿里云宣布AI算力和存储产品最高涨价34%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787960",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "阿里巴巴：平头哥自主研发的GPU已实现规模化量产",
+          "url": "https://wallstreetcn.com/livenews/3073164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "【研选】阿里云AI算力和存储产品最高涨价34%，行业涨价持续超预期，韩国存储巨头称短缺或持续至2030年；国内编解码芯片龙头，积极拓展存储芯片、汽车电子、边缘AI等新领域，直接受益存储涨价",
+          "url": "https://api3.cls.cn/share/article/2316489?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "A股算力租赁板块盘初冲高，宏景科技涨超10%创新高，奥瑞德2连板，金开新能、贵广网络、亚康股份、利通电子、铜牛信息跟涨。日前，百度智能云发布AI算力、存储等产品调价公告；京东云宣布，明确拒绝跟风涨价，现有云主机、AI算力、存储、网络等全系核心产品价格保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260319094112725800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "算力租赁概念反复走强 美利云2连板",
+          "url": "https://api3.cls.cn/share/article/2317638?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "阿里巴巴：已将自研的平头哥GPU大规模投入生产",
+          "url": "https://api3.cls.cn/share/article/2318332?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "【大佬持仓跟踪】液冷+储能，液冷产品切入英伟达供应链，数据中心客户包括字节、阿里、腾讯等，这家公司产品获主流算力芯片厂商、头部算力设备制造商认可",
+          "url": "https://api3.cls.cn/share/article/2317773?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "港股伊登软件(01147.HK)涨超49%，公司附属与超聚变进行战略合作，推动算力与企业AI落地场景的结合。",
+          "url": "https://flash.jin10.com/detail/20260319093034610800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -586,7 +620,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -685,7 +719,7 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "苹果CEO库克访华 现身成都出席周年庆祝活动",
@@ -771,6 +805,17 @@
           "time_info": "12时35分"
         },
         {
+          "title": "施小琳会见美国苹果公司首席执行官蒂姆·库克",
+          "url": "https://wallstreetcn.com/livenews/3073205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "苹果COO一行到访欣旺达",
           "url": "https://flash.jin10.com/detail/20260319163452860800",
           "source": "金十数据",
@@ -785,7 +830,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国工业机器人产量加速提升",
@@ -842,6 +887,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "地平线机器人-W（9660.HK）2025年财报：营收高增57.7% 中高阶智驾芯片出货量实现近5倍增长",
+          "url": "https://api3.cls.cn/share/article/2318423?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美光科技(MU.O)CEO：预计机器人将成为科技领域最大的产品类别之一。机器人技术的发展将推动公司长期业务增长。",
@@ -954,8 +1010,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时06分 ~ 18时07分]"
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 19时08分]"
         },
         {
           "title": "美联储主席鲍威尔：短期来看，建设数据中心在边际上推高通胀。",
@@ -1016,7 +1072,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
@@ -1045,6 +1101,17 @@
           "time_info": "[00时09分 ~ 05时34分]"
         },
         {
+          "title": "滞涨预期抬头港股黄金股遭重挫 国际金价近半月已跌去600美元",
+          "url": "https://www.cls.cn/detail/2318052",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "港股午评：三大指数齐挫，黄金股领衔有色金属股下跌，小米逆势涨超4%",
           "url": "https://www.gelonghui.com/news/5187837",
           "source": "格隆汇",
@@ -1065,6 +1132,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "热度爆表！商业航天万亿赛道保障待激活，头部险企加速下场",
+          "url": "https://www.cls.cn/detail/2317724",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 19时08分]"
+        },
+        {
+          "title": "从技术验证到规模化产业化，新成果集中亮相商业航天展",
+          "url": "https://wallstreetcn.com/livenews/3072717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时32分 ~ 07时56分]"
+        },
+        {
+          "title": "西测测试：公司2025年度商业航天相关业务收入占2025年度营业收入的比例较小，该业务尚处于拓展阶段，未来仍存在不确定性，不会对公司当前财务数据及经营业绩产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3073232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "西测测试：2025年度商业航天相关业务收入占2025年度营业收入的比例较小",
+          "url": "https://api3.cls.cn/share/article/2318418?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "西测测试：2025年度商业航天相关业务收入占2025年度营业收入的比例较小",
+          "url": "https://flash.jin10.com/detail/20260319183844573800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         }
       ]
     },
@@ -1155,37 +1286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "从技术验证到规模化产业化，新成果集中亮相商业航天展",
-          "url": "https://wallstreetcn.com/livenews/3072717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时32分 ~ 07时56分]"
-        },
-        {
-          "title": "热度爆表！商业航天万亿赛道保障待激活，头部险企加速下场",
-          "url": "https://www.cls.cn/detail/2317724",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时06分 ~ 18时07分]"
         }
       ]
     },
