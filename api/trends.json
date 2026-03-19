@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T19:08:26.676370+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2026-03-19T19:58:18.791082+08:00",
+  "total_titles_processed": 1854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
@@ -19,8 +19,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时09分 ~ 19时08分]"
+          "appearance_count": 10,
+          "time_info": "[10时09分 ~ 19时58分]"
         },
         {
           "title": "Coinbase为AI智能体支付酝酿基础设施。（The Information）",
@@ -146,6 +146,17 @@
           "time_info": "03时52分"
         },
         {
+          "title": "财联社3月19日电，工信部公开征求《人工智能 产品服务 基于大模型的工业品碳足迹核算平台技术要求》等623项行业标准计划项目意见。",
+          "url": "https://api3.cls.cn/share/article/2318498?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "研报掘金丨国盛证券：科大讯飞发布桌面级助理产品Loomy，AI Agent持续落地",
           "url": "https://www.gelonghui.com/news/5187876",
           "source": "格隆汇",
@@ -229,7 +240,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -270,7 +281,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "小米大模型MiMo-V2-Pro发布",
@@ -284,6 +295,28 @@
           "time_info": "07时56分"
         },
         {
+          "title": "小米发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "小米新SU7发布会请来半个车圈",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0SU7%E5%8F%91%E5%B8%83%E4%BC%9A%E8%AF%B7%E6%9D%A5%E5%8D%8A%E4%B8%AA%E8%BD%A6%E5%9C%88%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "华为企业级智能体开发平台AgentArts将于4月30日公测",
           "url": "https://api3.cls.cn/share/article/2317822?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -295,15 +328,38 @@
           "time_info": "12时35分"
         },
         {
-          "title": "小米发布万亿参数大模型 曾被误认为是深度求索 V4上新",
-          "url": "https://www.zaochenbao.com/news/china/202603/1967254.html",
-          "source": "早报",
+          "title": "财联社3月19日电，据《华尔街日报》，特斯拉FSD系统在恶劣天气中的表现遭扩大调查。",
+          "url": "https://api3.cls.cn/share/article/2318513?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "19时58分"
+        },
+        {
+          "title": "小米汽车：新一代SU7全系快充，Max版最大充电倍率5.2C，10%-80%最快充电时间12分钟",
+          "url": "https://wallstreetcn.com/livenews/3073270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "小米发布万亿参数大模型 曾被误认为是深度求索 V4上新",
+          "url": "https://www.zaochenbao.com/news/china/202603/1967254.html",
+          "source": "早报",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时58分]"
         },
         {
           "title": "小米汽车 舒淇",
@@ -339,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "小米雷军回忆打造VGT概念车：在国际上引起了巨大轰动，将在下个月北京车展亮相",
+          "url": "https://wallstreetcn.com/livenews/3073264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "马斯克称，SpaceX AI与特斯拉预计将继续大规模订购英伟达芯片。",
@@ -402,7 +469,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -432,7 +499,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -461,6 +528,17 @@
           "time_info": "[00时09分 ~ 07时56分]"
         },
         {
+          "title": "贵州将“算力券”支持规模提高到1.4亿元",
+          "url": "https://wallstreetcn.com/livenews/3073279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "胜宏科技(300476.SZ)：公司新增产能主要面向AI算力、AI服务器等领域",
           "url": "https://www.gelonghui.com/news/5187802",
           "source": "格隆汇",
@@ -481,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "贵州将“算力券”支持规模提高到1.4亿元",
+          "url": "https://api3.cls.cn/share/article/2318514?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
@@ -517,6 +606,17 @@
           "time_info": "18时07分"
         },
         {
+          "title": "阿里平头哥GPU芯片已累计规模化交付47万片",
+          "url": "https://wallstreetcn.com/livenews/3073268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "【研选】阿里云AI算力和存储产品最高涨价34%，行业涨价持续超预期，韩国存储巨头称短缺或持续至2030年；国内编解码芯片龙头，积极拓展存储芯片、汽车电子、边缘AI等新领域，直接受益存储涨价",
           "url": "https://api3.cls.cn/share/article/2316489?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -526,6 +626,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "平头哥AI芯片出货超47万片",
+          "url": "https://api3.cls.cn/share/article/2318501?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "东方国信：内蒙古智算中心项目尚未盈利",
+          "url": "https://api3.cls.cn/share/article/2318496?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "A股算力租赁板块盘初冲高，宏景科技涨超10%创新高，奥瑞德2连板，金开新能、贵广网络、亚康股份、利通电子、铜牛信息跟涨。日前，百度智能云发布AI算力、存储等产品调价公告；京东云宣布，明确拒绝跟风涨价，现有云主机、AI算力、存储、网络等全系核心产品价格保持稳定。",
@@ -581,6 +703,156 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "中国工业机器人产量加速提升",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/03/18/ffbf466ea92747f981f74dc18ba72d8a.html",
+          "source": "参考消息",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时09分 ~ 13时59分]"
+        },
+        {
+          "title": "澳门街头现“人机纠纷” 女子被人形机器人吓到不适入院",
+          "url": "https://www.zaochenbao.com/news/china/202603/1867170.html",
+          "source": "早报",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时56分]"
+        },
+        {
+          "title": "“人形机器人半马”将于四月举办，参赛团队目标直指人类半马冠军纪录",
+          "url": "https://flash.jin10.com/detail/20260319192558868800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年",
+          "url": "https://www.cls.cn/detail/2316519",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "亦庄机器人半马将于4月举办 参赛团队目标直指人类半马冠军纪录",
+          "url": "https://api3.cls.cn/share/article/2318490?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "胜宏科技(300476.SZ)：公司已与机器人领域部分国内外头部企业建立了合作关系，应用于该领域的PCB产品已进入生产销售阶段",
+          "url": "https://www.gelonghui.com/news/5187798",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "机器人租赁平台机时租平台正式上线",
+          "url": "https://flash.jin10.com/detail/20260319192112190800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "三星电子：计划2026年在研发与设施方面投资至少110万亿韩元。 计划2026年派发9.8万亿韩元常规股息。 寻求机器人、医疗技术、汽车电子、暖通空调领域有意义的并购。",
+          "url": "https://wallstreetcn.com/livenews/3073075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "地平线机器人-W（9660.HK）2025年财报：营收高增57.7% 中高阶智驾芯片出货量实现近5倍增长",
+          "url": "https://api3.cls.cn/share/article/2318423?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "美光科技(MU.O)CEO：预计机器人将成为科技领域最大的产品类别之一。机器人技术的发展将推动公司长期业务增长。",
+          "url": "https://flash.jin10.com/detail/20260319045205680800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "“人形机器人半马”将于四月举办，参赛团队目标直指人类半马冠军纪录",
+          "url": "https://wallstreetcn.com/livenews/3073260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "机器人租赁平台机时租平台正式上线",
+          "url": "https://wallstreetcn.com/livenews/3073256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "商务部：1-2月具身智能机器人销售额增长13%",
+          "url": "https://wallstreetcn.com/livenews/3073105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         }
       ]
     },
@@ -811,7 +1083,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -829,97 +1101,77 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 8,
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 6,
       "titles": [
         {
-          "title": "中国工业机器人产量加速提升",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/03/18/ffbf466ea92747f981f74dc18ba72d8a.html",
-          "source": "参考消息",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时09分 ~ 13时59分]"
-        },
-        {
-          "title": "澳门街头现“人机纠纷” 女子被人形机器人吓到不适入院",
-          "url": "https://www.zaochenbao.com/news/china/202603/1867170.html",
-          "source": "早报",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 07时56分]"
-        },
-        {
-          "title": "宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年",
-          "url": "https://www.cls.cn/detail/2316519",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
-        },
-        {
-          "title": "胜宏科技(300476.SZ)：公司已与机器人领域部分国内外头部企业建立了合作关系，应用于该领域的PCB产品已进入生产销售阶段",
-          "url": "https://www.gelonghui.com/news/5187798",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "三星电子：计划2026年在研发与设施方面投资至少110万亿韩元。 计划2026年派发9.8万亿韩元常规股息。 寻求机器人、医疗技术、汽车电子、暖通空调领域有意义的并购。",
-          "url": "https://wallstreetcn.com/livenews/3073075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "地平线机器人-W（9660.HK）2025年财报：营收高增57.7% 中高阶智驾芯片出货量实现近5倍增长",
-          "url": "https://api3.cls.cn/share/article/2318423?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "财联社3月19日电，英国通信办公室扩大卫星可用频谱范围。",
+          "url": "https://api3.cls.cn/share/article/2318516?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            12
+            1
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "热度爆表！商业航天万亿赛道保障待激活，头部险企加速下场",
+          "url": "https://www.cls.cn/detail/2317724",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 19时08分]"
+        },
+        {
+          "title": "从技术验证到规模化产业化，新成果集中亮相商业航天展",
+          "url": "https://wallstreetcn.com/livenews/3072717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时32分 ~ 07时56分]"
+        },
+        {
+          "title": "西测测试：公司2025年度商业航天相关业务收入占2025年度营业收入的比例较小，该业务尚处于拓展阶段，未来仍存在不确定性，不会对公司当前财务数据及经营业绩产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3073232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
         {
-          "title": "美光科技(MU.O)CEO：预计机器人将成为科技领域最大的产品类别之一。机器人技术的发展将推动公司长期业务增长。",
-          "url": "https://flash.jin10.com/detail/20260319045205680800",
-          "source": "金十数据",
+          "title": "西测测试：2025年度商业航天相关业务收入占2025年度营业收入的比例较小",
+          "url": "https://api3.cls.cn/share/article/2318418?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时34分"
+          "time_info": "19时08分"
         },
         {
-          "title": "商务部：1-2月具身智能机器人销售额增长13%",
-          "url": "https://wallstreetcn.com/livenews/3073105",
-          "source": "华尔街见闻-快讯",
+          "title": "西测测试：2025年度商业航天相关业务收入占2025年度营业收入的比例较小",
+          "url": "https://flash.jin10.com/detail/20260319183844573800",
+          "source": "金十数据",
           "ranks": [
-            26
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时11分"
+          "time_info": "19时08分"
         }
       ]
     },
@@ -1010,8 +1262,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时06分 ~ 19时08分]"
+          "appearance_count": 6,
+          "time_info": "[15时06分 ~ 19时58分]"
         },
         {
           "title": "美联储主席鲍威尔：短期来看，建设数据中心在边际上推高通胀。",
@@ -1105,11 +1357,12 @@
           "url": "https://www.cls.cn/detail/2318052",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时58分]"
         },
         {
           "title": "港股午评：三大指数齐挫，黄金股领衔有色金属股下跌，小米逆势涨超4%",
@@ -1136,73 +1389,20 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "keyword_group": "储能",
       "match_count": 5,
       "titles": [
         {
-          "title": "热度爆表！商业航天万亿赛道保障待激活，头部险企加速下场",
-          "url": "https://www.cls.cn/detail/2317724",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时06分 ~ 19时08分]"
-        },
-        {
-          "title": "从技术验证到规模化产业化，新成果集中亮相商业航天展",
-          "url": "https://wallstreetcn.com/livenews/3072717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时32分 ~ 07时56分]"
-        },
-        {
-          "title": "西测测试：公司2025年度商业航天相关业务收入占2025年度营业收入的比例较小，该业务尚处于拓展阶段，未来仍存在不确定性，不会对公司当前财务数据及经营业绩产生重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3073232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "西测测试：2025年度商业航天相关业务收入占2025年度营业收入的比例较小",
-          "url": "https://api3.cls.cn/share/article/2318418?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "【机构调研】这家公司目标成为国内最大的储能资产运维服务商",
+          "url": "https://api3.cls.cn/share/article/2318507?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            16
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "19时58分"
         },
-        {
-          "title": "西测测试：2025年度商业航天相关业务收入占2025年度营业收入的比例较小",
-          "url": "https://flash.jin10.com/detail/20260319183844573800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 4,
-      "titles": [
         {
           "title": "亿纬锂能在互动平台表示，公司储能电池业务订单饱满，处于满产满销状态。",
           "url": "https://flash.jin10.com/detail/20260319154115378800",
@@ -1251,7 +1451,7 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达重启生产H200晶片 北京传批准中企采购",
@@ -1275,6 +1475,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "机构：台积电、三星晶圆代工已针对5/4nm主力制程涨价",
+          "url": "https://flash.jin10.com/detail/20260319191145220800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "IBM宣布扩大与英伟达的合作",
+          "url": "https://api3.cls.cn/share/article/2318475?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "【商务部回应英伟达对华芯片销售情况】在3月19日商务部举行的例行发布会上，有美媒记者提问，“相关报道称中国政府已经批准了部分公司采购英伟达的H200芯片，请问是否有更多细节可以透露以及有何评论？”商务部新闻发言人何咏前回应称：“我不了解你提到的情况。”（央视新闻）",
@@ -1371,6 +1593,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时09分 ~ 07时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         }
       ]
     },
