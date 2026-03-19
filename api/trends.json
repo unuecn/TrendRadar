@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T12:35:42.282845+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-03-19T13:59:03.682637+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "Coinbase为AI智能体支付酝酿基础设施。（The Information）",
@@ -59,11 +59,23 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时59分]"
+        },
+        {
+          "title": "AI应用端局部异动 昆仑万维涨近10%",
+          "url": "https://api3.cls.cn/share/article/2317863?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时09分 ~ 12时35分]"
+          "time_info": "[13时58分 ~ 13时59分]"
         },
         {
           "title": "上个月，当Anthropic公司与美国国防部就人工智能在战争中的应用发生冲突时，谷歌(GOOG.O)的一位高管悄悄地与五角大楼官员会面，力荐该公司成为完美的国防合作伙伴。",
@@ -75,6 +87,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "恒生科技指数盘中跌超2%，AI应用、OpenClaw、明星科网股跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260319133530421800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
         },
         {
           "title": "财联社3月19日电，美联储主席鲍威尔表示，近期生产率走势并非源于生成式人工智能，尚未开始看到人工智能对生产率的影响。",
@@ -160,7 +183,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -171,7 +194,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -190,7 +213,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -253,6 +276,17 @@
           "time_info": "[07时31分 ~ 07时56分]"
         },
         {
+          "title": "Token调用量暴增，阿里云宣布AI算力和存储产品最高涨价34%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787960",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
           "title": "【研选】阿里云AI算力和存储产品最高涨价34%，行业涨价持续超预期，韩国存储巨头称短缺或持续至2030年；国内编解码芯片龙头，积极拓展存储芯片、汽车电子、边缘AI等新领域，直接受益存储涨价",
           "url": "https://api3.cls.cn/share/article/2316489?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -292,7 +326,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -453,7 +487,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -521,7 +555,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -532,7 +566,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -543,7 +577,81 @@
           "ranks": [
             28
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "苹果CEO库克访华 现身成都出席周年庆祝活动",
+          "url": "https://www.zaochenbao.com/news/china/202603/1867175.html",
+          "source": "早报",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时56分]"
+        },
+        {
+          "title": "据巴西媒体《Folha》：巴西反垄断监管机构CADE已就苹果(AAPL.O)在iOS系统上的非接触式支付功能展开调查。",
+          "url": "https://flash.jin10.com/detail/20260319061012586800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时31分]"
+        },
+        {
+          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时59分]"
+        },
+        {
+          "title": "机构：预测苹果将在2026年取得28%的市场份额 逼近三星的领先位置",
+          "url": "https://api3.cls.cn/share/article/2317858?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "机构：预计苹果将在2026年取得28%的市场份额，逼近三星的领先位置",
+          "url": "https://wallstreetcn.com/livenews/3072938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "Counterpoint：苹果今年1月至3月初期间在中国智能手机销量增长23%",
+          "url": "https://wallstreetcn.com/livenews/3072884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         }
@@ -562,8 +670,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时09分 ~ 12时35分]"
+          "appearance_count": 15,
+          "time_info": "[00时09分 ~ 13时59分]"
         },
         {
           "title": "澳门街头现“人机纠纷” 女子被人形机器人吓到不适入院",
@@ -648,7 +756,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -666,53 +774,59 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 4,
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 2,
       "titles": [
         {
-          "title": "苹果CEO库克访华 现身成都出席周年庆祝活动",
-          "url": "https://www.zaochenbao.com/news/china/202603/1867175.html",
-          "source": "早报",
+          "title": "广期所碳酸锂主力合约下跌5%，报144620元/吨。 上期所沪锡主力合约下跌5%，报351600元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3072957",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            1
           ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 07时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
-          "title": "据巴西媒体《Folha》：巴西反垄断监管机构CADE已就苹果(AAPL.O)在iOS系统上的非接触式支付功能展开调查。",
-          "url": "https://flash.jin10.com/detail/20260319061012586800",
-          "source": "金十数据",
+          "title": "财联社3月19日电，多晶硅期货主力合约跌超6%，现报38405元/吨。",
+          "url": "https://api3.cls.cn/share/article/2317670?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            2,
-            22
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达重启生产H200晶片 北京传批准中企采购",
+          "url": "https://www.zaochenbao.com/news/china/202603/1967204.html",
+          "source": "早报",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时59分]"
+        },
+        {
+          "title": "大行评级丨小摩：重申英伟达“增持”评级，多个增量收入来源为市场预期提供可观的上行空间",
+          "url": "https://www.gelonghui.com/news/5187856",
+          "source": "格隆汇",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时31分]"
-        },
-        {
-          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "Counterpoint：苹果今年1月至3月初期间在中国智能手机销量增长23%",
-          "url": "https://wallstreetcn.com/livenews/3072884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "time_info": "[13时58分 ~ 13时59分]"
         }
       ]
     },
@@ -755,7 +869,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         }
@@ -815,23 +929,6 @@
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "财联社3月19日电，多晶硅期货主力合约跌超6%，现报38405元/吨。",
-          "url": "https://api3.cls.cn/share/article/2317670?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 1,
       "titles": [
@@ -842,7 +939,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         }
@@ -863,24 +960,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 07时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达重启生产H200晶片 北京传批准中企采购",
-          "url": "https://www.zaochenbao.com/news/china/202603/1967204.html",
-          "source": "早报",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 12时35分]"
         }
       ]
     }
