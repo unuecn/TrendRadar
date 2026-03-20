@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T15:46:30.331926+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2026-03-20T16:40:35.839085+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "小米汽车",
@@ -34,8 +34,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时35分 ~ 15时46分]"
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 16时40分]"
         },
         {
           "title": "较预售降万元、新一代小米SU7 “低价”上市 雷军：不想让车主超预算",
@@ -88,8 +88,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时58分 ~ 15时46分]"
+          "appearance_count": 9,
+          "time_info": "[06时58分 ~ 16时40分]"
         },
         {
           "title": "港股恒生科技指数午后跌超2%，恒生指数跌0.82%，科网股持续疲软，小米集团(01810.HK)跌超7%，阿里巴巴(09988.HK)跌超6.3%，小鹏汽车(09868.HK)跌近5%，京东(09618.HK)跌超3.5%。",
@@ -145,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "港股收盘：恒生科技指数跌2.48%，小米集团跌超8%",
+          "url": "https://wallstreetcn.com/livenews/3073930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "小米笔记本",
@@ -229,6 +240,17 @@
           "time_info": "14时55分"
         },
         {
+          "title": "港股收评：科指大跌2.48%，小米阿里重挫，宁德时代却暴涨8%市值达3.19万亿",
+          "url": "https://www.gelonghui.com/news/5188930",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "财联社3月20日电，汇丰银行将特斯拉目标价从133美元下调至119美元。",
           "url": "https://api3.cls.cn/share/article/2319329?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -246,7 +268,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -284,13 +306,24 @@
           "time_info": "12时26分"
         },
         {
+          "title": "港股收盘，恒指收跌0.88%，科指收跌2.48%；宁德时代(03750.HK)、李宁(02331.HK)逆势涨超8%，吉利汽车(00175.HK)涨近6.5%；小米集团(01810.HK)跌超8.5%，阿里巴巴(09988.HK)跌超6%。",
+          "url": "https://flash.jin10.com/detail/20260320160917851800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "华为云企业级智能体开发平台开源增强版将于5月开源",
           "url": "https://flash.jin10.com/detail/20260320152920659800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -301,7 +334,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         }
@@ -309,7 +342,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "【焦点复盘】沪指弱势探底逼近半年线，资金逆势热捧传统能源，算力租赁概念活跃不减",
@@ -325,6 +358,18 @@
           "time_info": "[00时29分 ~ 07时35分]"
         },
         {
+          "title": "3月20日投资避雷针：2连板人气股提示风险 目前数据中心业务暂未提供算力",
+          "url": "https://www.cls.cn/detail/2318962",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 16时40分]"
+        },
+        {
           "title": "上海组织开展国家算力互联互通行业节点建设",
           "url": "https://flash.jin10.com/detail/20260320095507906800",
           "source": "金十数据",
@@ -336,16 +381,15 @@
           "time_info": "10时03分"
         },
         {
-          "title": "3月20日投资避雷针：2连板人气股提示风险 目前数据中心业务暂未提供算力",
-          "url": "https://www.cls.cn/detail/2318962",
-          "source": "财联社热门",
+          "title": "地平线敲定征程7目标算力，舱驾一体产品命名 “星空”",
+          "url": "https://wallstreetcn.com/livenews/3073937",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            11
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 15时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "算力租赁概念震荡走弱 超讯通信逼近跌停",
@@ -403,6 +447,19 @@
           "time_info": "13时34分"
         },
         {
+          "title": "【午报】创业板指涨超3%再创阶段新高，储能、算力硬件双双爆发",
+          "url": "https://www.cls.cn/detail/2319209",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时55分 ~ 16时40分]"
+        },
+        {
           "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
           "url": "https://www.cls.cn/detail/2318157",
           "source": "财联社热门",
@@ -424,18 +481,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 13时34分]"
-        },
-        {
-          "title": "【午报】创业板指涨超3%再创阶段新高，储能、算力硬件双双爆发",
-          "url": "https://www.cls.cn/detail/2319209",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 15时46分]"
         },
         {
           "title": "午评：创业板指半日涨超3% 储能、算力硬件方向集体走强",
@@ -477,7 +522,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -526,6 +571,17 @@
           "time_info": "13时34分"
         },
         {
+          "title": "地平线敲定征程7目标算力，舱驾一体产品命名“星空”",
+          "url": "https://flash.jin10.com/detail/20260320162037732800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "兴业证券：算力需求快速增长 数据中心能源体系迎来重构",
           "url": "https://www.gelonghui.com/news/5188699",
           "source": "格隆汇",
@@ -543,7 +599,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -565,7 +621,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -628,20 +684,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
-          "title": "光伏设备股拉升，光伏龙头ETF、光伏ETF涨超5%",
-          "url": "https://www.gelonghui.com/news/5188763",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时34分"
+          "time_info": "15时46分"
         },
         {
           "title": "光伏卖断货、中国人高价买回国机票：古巴大停电的“至暗”时刻",
@@ -653,8 +698,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 16时40分]"
+        },
+        {
+          "title": "光伏设备股拉升，光伏龙头ETF、光伏ETF涨超5%",
+          "url": "https://www.gelonghui.com/news/5188763",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "曝马斯克拟采购200亿中国光伏设备",
@@ -689,8 +745,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 15时46分]"
+          "appearance_count": 3,
+          "time_info": "[14时55分 ~ 16时40分]"
         },
         {
           "title": "港股光伏太阳能板块走强 钧达股份拉升涨超10%",
@@ -787,7 +843,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -798,7 +854,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -1016,7 +1072,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "朝阳科技(002981.SZ)：子公司星联技术的连接器产品主要应用于工业机器人、储能、新能源汽车、消费电子等领域",
@@ -1042,6 +1098,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "法媒：中美加速展开人形机器人竞赛",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/03/20/69d295e2dc90442eb3ed288646a829f3.html",
+          "source": "参考消息",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "华沿机器人(01021.HK)3月20日起招股 发售价将为每股17.00港元",
@@ -1090,6 +1157,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "韩国延长涉华工业机器人临时反倾销税有效期",
+          "url": "https://api3.cls.cn/share/article/2319532?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "万丰奥威(002085.SZ)：目前公司经营尚未涉及相关机器人业务",
           "url": "https://www.gelonghui.com/news/5188696",
           "source": "格隆汇",
@@ -1107,7 +1185,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -1312,8 +1390,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 14时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 16时40分]"
         },
         {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
@@ -1366,6 +1444,117 @@
       ]
     },
     {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "亚马逊创始人贝索斯旗下蓝色起源计划在太空部署5万多颗卫星",
+          "url": "https://wallstreetcn.com/livenews/3073933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "振石股份(601112.SH)：暂无拓展至卫星、太空光伏领域的具体计划",
+          "url": "https://www.gelonghui.com/news/5188833",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "伊朗公布卫星图像显示美在中东多处军事设施遭破坏",
+          "url": "https://wallstreetcn.com/livenews/3073467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "卫星图像显示多国美军设施遭袭受损",
+          "url": "https://api3.cls.cn/share/article/2318783?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "亚马逊创始人贝索斯旗下蓝色起源计划在太空部署5万多颗卫星",
+          "url": "https://api3.cls.cn/share/article/2319523?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "券商调研名单出炉 风电、光伏、存储芯片热度高",
+          "url": "https://api3.cls.cn/share/article/2318917?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "券商调研名单出炉 风电、光伏、存储芯片热度高",
+          "url": "https://wallstreetcn.com/livenews/3073627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "机构：部分DDR4和DDR5颗粒小幅下跌",
+          "url": "https://flash.jin10.com/detail/20260320162218897800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "机构：部分DDR4和DDR5颗粒小幅下跌",
+          "url": "https://api3.cls.cn/share/article/2319534?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "雷达",
       "match_count": 3,
       "titles": [
@@ -1402,45 +1591,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "振石股份(601112.SH)：暂无拓展至卫星、太空光伏领域的具体计划",
-          "url": "https://www.gelonghui.com/news/5188833",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
-          "title": "伊朗公布卫星图像显示美在中东多处军事设施遭破坏",
-          "url": "https://wallstreetcn.com/livenews/3073467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "卫星图像显示多国美军设施遭袭受损",
-          "url": "https://api3.cls.cn/share/article/2318783?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
         }
       ]
     },
@@ -1486,34 +1636,6 @@
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "券商调研名单出炉 风电、光伏、存储芯片热度高",
-          "url": "https://api3.cls.cn/share/article/2318917?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "券商调研名单出炉 风电、光伏、存储芯片热度高",
-          "url": "https://wallstreetcn.com/livenews/3073627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "英特尔 高通",
       "match_count": 2,
       "titles": [
@@ -1525,11 +1647,12 @@
             15,
             16,
             18,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 15时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 16时40分]"
         },
         {
           "title": "中东局势推高通胀预期 黄金势创六年最大单周跌幅",
