@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T07:35:41.008770+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-03-20T10:03:43.348393+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "Meta公司：随着我们在各应用程序中部署人工智能系统，将减少对第三方供应商在内容审核方面的依赖。",
@@ -91,6 +91,39 @@
           "time_info": "00时29分"
         },
         {
+          "title": "人工智能初创公司Yotta计划筹集5亿至6亿美元资金，将于数周内向监管机构提交正式上市文件。",
+          "url": "https://flash.jin10.com/detail/20260320094441532800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "国资委：编制好中央企业人工智能产业发展“十五五”规划",
+          "url": "https://api3.cls.cn/share/article/2319066?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "人工智能初创公司Yotta在计划进行IPO之前，拟寻求获得40亿美元的估值。",
+          "url": "https://flash.jin10.com/detail/20260320094303182800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "据Business Insider：谷歌告诉员工，公司正“更加倾向于”承接人工智能领域的国家安全业务。",
           "url": "https://flash.jin10.com/detail/20260320020259710800",
           "source": "金十数据",
@@ -116,7 +149,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "小米汽车",
@@ -128,11 +161,12 @@
             4,
             8,
             9,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 10时03分]"
         },
         {
           "title": "小米发布万亿参数大模型 曾被误认为是深度求索 V4上新",
@@ -168,11 +202,34 @@
           "ranks": [
             13,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时58分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[02时58分 ~ 10时03分]"
+        },
+        {
+          "title": "小米股价盘中跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3073704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "华为Mate80官宣新版本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80%E5%AE%98%E5%AE%A3%E6%96%B0%E7%89%88%E6%9C%AC%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "小米笔记本",
@@ -188,6 +245,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 05时35分]"
+        },
+        {
+          "title": "王传福、王兴兴、何小鹏现场助阵！小米新SU7售价21.99万元起，雷军强调车门把手符合新国标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32796782",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 10时03分]"
         },
         {
           "title": "瑞银将特斯拉第一季度交付量预期下调至34.5万辆",
@@ -210,8 +279,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 07时35分]"
+          "appearance_count": 3,
+          "time_info": "[06时58分 ~ 10时03分]"
         },
         {
           "title": "小米发布会",
@@ -223,17 +292,212 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 05时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指弱势探底逼近半年线，资金逆势热捧传统能源，算力租赁概念活跃不减",
+          "url": "https://www.cls.cn/detail/2318319",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时35分]"
         },
         {
-          "title": "王传福、王兴兴、何小鹏现场助阵！小米新SU7售价21.99万元起，雷军强调车门把手符合新国标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32796782",
-          "source": "澎湃新闻",
+          "title": "上海组织开展国家算力互联互通行业节点建设",
+          "url": "https://flash.jin10.com/detail/20260320095507906800",
+          "source": "金十数据",
           "ranks": [
-            11
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "算力租赁概念震荡走弱 超讯通信逼近跌停",
+          "url": "https://api3.cls.cn/share/article/2319087?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股早评：创业板指高开1.6%，算力硬件股盘初活跃",
+          "url": "https://www.gelonghui.com/news/5188709",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "【研选】Agent带来推理算力需求快速增加的趋势，分析师看好数据中心运营与调度服务环节；PCB+光通信双轮驱动，AI互连龙头有望步入新一轮价值重估",
+          "url": "https://api3.cls.cn/share/article/2317732?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "上海组织开展国家算力互联互通行业节点建设",
+          "url": "https://api3.cls.cn/share/article/2319086?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
+          "url": "https://www.cls.cn/detail/2318157",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时34分]"
+        },
+        {
+          "title": "兴业证券：算力需求快速增长 数据中心能源体系迎来重构",
+          "url": "https://www.gelonghui.com/news/5188699",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "3月20日投资避雷针：2连板人气股提示风险 目前数据中心业务暂未提供算力",
+          "url": "https://www.cls.cn/detail/2318962",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股算力硬件股开盘强势，铭普光磁2连板，瑞斯康达一字涨停，长光华芯、德科立、天孚通信、新易盛 、联特科技均涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3073680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "朝阳科技(002981.SZ)：子公司星联技术的连接器产品主要应用于工业机器人、储能、新能源汽车、消费电子等领域",
+          "url": "https://www.gelonghui.com/news/5188580",
+          "source": "格隆汇",
+          "ranks": [
+            2,
+            1,
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时35分]"
+        },
+        {
+          "title": "华沿机器人寻求在香港IPO中筹资13.7亿港元",
+          "url": "https://api3.cls.cn/share/article/2318912?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "华沿机器人(01021.HK)3月20日起招股 发售价将为每股17.00港元",
+          "url": "https://www.gelonghui.com/news/5188673",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "广东华沿机器人申请香港IPO。",
+          "url": "https://wallstreetcn.com/livenews/3073595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 07时35分]"
+        },
+        {
+          "title": "恒指、恒生科技指数双双转涨。地平线机器人涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3073693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "万丰奥威(002085.SZ)：目前公司经营尚未涉及相关机器人业务",
+          "url": "https://www.gelonghui.com/news/5188696",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "港股恒生指数、恒生科技指数盘初拉升双双翻红，李宁(02331.HK)涨超12.5%，地平线机器人(09660.HK)涨超6.5%，吉利汽车(00175.HK)涨超4%，宁德时代(03750.HK)涨超3.8%。",
+          "url": "https://flash.jin10.com/detail/20260320093951465800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
@@ -252,8 +516,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 10时03分]"
         },
         {
           "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
@@ -310,7 +574,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -321,7 +585,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         }
@@ -337,11 +601,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 10时03分]"
         },
         {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
@@ -394,98 +659,52 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "keyword_group": "储能",
       "match_count": 4,
       "titles": [
         {
-          "title": "朝阳科技(002981.SZ)：子公司星联技术的连接器产品主要应用于工业机器人、储能、新能源汽车、消费电子等领域",
-          "url": "https://www.gelonghui.com/news/5188580",
-          "source": "格隆汇",
-          "ranks": [
-            2,
-            1,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时35分]"
-        },
-        {
-          "title": "华沿机器人寻求在香港IPO中筹资13.7亿港元",
-          "url": "https://api3.cls.cn/share/article/2318912?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "储能概念反复活跃 正泰电源反包涨停",
+          "url": "https://api3.cls.cn/share/article/2319079?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "10时03分"
         },
         {
-          "title": "华沿机器人(01021.HK)3月20日起招股 发售价将为每股17.00港元",
-          "url": "https://www.gelonghui.com/news/5188673",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "广东华沿机器人申请香港IPO。",
-          "url": "https://wallstreetcn.com/livenews/3073595",
+          "title": "A股光伏、储能板块震荡拉升，正泰电源涨停，首航新能涨超12%，艾罗能源、华民股份、锦浪科技、德业股份、阳光电源、禾迈股份涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3073701",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【焦点复盘】沪指弱势探底逼近半年线，资金逆势热捧传统能源，算力租赁概念活跃不减",
-          "url": "https://www.cls.cn/detail/2318319",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时35分]"
-        },
-        {
-          "title": "【研选】Agent带来推理算力需求快速增加的趋势，分析师看好数据中心运营与调度服务环节；PCB+光通信双轮驱动，AI互连龙头有望步入新一轮价值重估",
-          "url": "https://api3.cls.cn/share/article/2317732?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "10时03分"
         },
         {
-          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
-          "url": "https://www.cls.cn/detail/2318157",
-          "source": "财联社热门",
+          "title": "A股储能板块震荡拉升，正泰电源封板涨停，首航新能涨超12%，艾罗能源、华民股份、锦浪科技、德业股份、阳光电源、禾迈股份涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260320094752783800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "LG能源：计划到2026年底将储能系统（ESS）电池产能增加近一倍。",
+          "url": "https://wallstreetcn.com/livenews/3073666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
@@ -500,7 +719,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -511,7 +730,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         }
@@ -542,6 +761,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "协鑫集成(002506.SZ)：公司在昆山没有钙钛矿生产线",
+          "url": "https://www.gelonghui.com/news/5188572",
+          "source": "格隆汇",
+          "ranks": [
+            9,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时58分]"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.15%，深成指涨1.13%，光伏设备、电力、贵金属、CPO等方向涨幅居前，沪深京三市上涨个股超4200只。",
+          "url": "https://wallstreetcn.com/livenews/3073691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
@@ -587,8 +836,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 10时03分]"
         },
         {
           "title": "中东局势推高通胀预期 黄金势创六年最大单周跌幅",
@@ -597,7 +846,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         }
@@ -657,21 +906,19 @@
       ]
     },
     {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
       "match_count": 1,
       "titles": [
         {
-          "title": "协鑫集成(002506.SZ)：公司在昆山没有钙钛矿生产线",
-          "url": "https://www.gelonghui.com/news/5188572",
+          "title": "新和成(002001.SZ)：天津尼龙新材料项目正在建设中，预计2027年建成",
+          "url": "https://www.gelonghui.com/news/5188706",
           "source": "格隆汇",
           "ranks": [
-            9,
-            8,
-            12
+            5
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
@@ -686,7 +933,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         }
