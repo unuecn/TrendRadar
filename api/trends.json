@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T15:08:53.903482+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-03-21T15:53:02.446390+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时05分 ~ 15时08分]"
+          "appearance_count": 22,
+          "time_info": "[00时05分 ~ 15时53分]"
         },
         {
           "title": "华为将发布首款风冷散热手机",
@@ -30,11 +30,12 @@
           "ranks": [
             1,
             4,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时08分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 15时53分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌2.8%，本周累跌约5.5%。 热门中概股里，小鹏初步收跌8.3%，小米跌7.9%，蔚来跌7.8%，百度跌3.99%，阿里巴巴跌1.9%，文远知行涨2.17%。",
@@ -48,6 +49,20 @@
           "time_info": "04时33分"
         },
         {
+          "title": "华为将发布首款风冷散热手机",
+          "url": "https://flash.jin10.com/detail/20260321120325470800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 15时53分]"
+        },
+        {
           "title": "标普500指数跌幅扩大至2%，公用事业板块跌3.96%，房地产板块跌3.13%，科技板块跌2.6%跌幅第三大，能源板块涨0.3%。 纳斯达克100指数跌2.4%，成分股核电公司Constellation Energy跌11.78%，西部数据、美光科技、希捷科技至多跌7.62%，英特尔、阿斯麦ADR、拉姆研究、特斯拉至少跌3.97%，英伟达跌3.61%，Meta跌2.95%，Paychex、Diamondback Energy、Workday、Arm控股至少涨超1%。 纳斯达克综合指数较10月29日收盘位回撤超10%。",
           "url": "https://wallstreetcn.com/livenews/3074315",
           "source": "华尔街见闻-快讯",
@@ -58,19 +73,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时33分]"
-        },
-        {
-          "title": "华为将发布首款风冷散热手机",
-          "url": "https://flash.jin10.com/detail/20260321120325470800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 15时08分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.92%，报6742.84点，本周累计下跌5.67%，整体持续走低。 热门中概股里，小鹏初步收跌8.3%，小米跌7.9%，蔚来跌7.8%，百度跌3.99%，阿里巴巴跌1.9%，文远知行涨2.17%。 ETF中，中国科技指数ETF（CQQQ）收跌4.20%，本周累跌6.39%； XtrackersHarvest中证50（ASHS）收跌3.09%，本周累跌7.35%； 中概互联网指数ETF（KWEB）收跌2.96%，本周累跌6.40%； 德银嘉实沪深300指数ETF（ASHR）收跌2.12%，本周累跌3.46%。",
@@ -169,6 +171,71 @@
       ]
     },
     {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "惠誉：将举办关于私募信贷和杠杆贷款中人工智能软件风险的网络研讨会。",
+          "url": "https://flash.jin10.com/detail/20260321012501666800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "国家级电力人工智能中试基地迎首批企业 华为、中兴、百度等入驻",
+          "url": "https://api3.cls.cn/share/article/2320301?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时08分 ~ 15时53分]"
+        },
+        {
+          "title": "Palantir人工智能系统获美国防部关键项目地位",
+          "url": "https://flash.jin10.com/detail/20260321113458071800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 15时08分]"
+        },
+        {
+          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
+          "url": "https://flash.jin10.com/detail/20260321144016687800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
+          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
+          "url": "https://wallstreetcn.com/livenews/3074413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 4,
       "titles": [
@@ -196,8 +263,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时55分 ~ 15时08分]"
+          "appearance_count": 14,
+          "time_info": "[05时55分 ~ 15时53分]"
         },
         {
           "title": "光伏卖断货、中国人高价买回国机票：古巴大停电的“至暗”时刻",
@@ -269,48 +336,6 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "惠誉：将举办关于私募信贷和杠杆贷款中人工智能软件风险的网络研讨会。",
-          "url": "https://flash.jin10.com/detail/20260321012501666800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
-        },
-        {
-          "title": "国家级电力人工智能中试基地迎首批企业 华为、中兴、百度等入驻",
-          "url": "https://api3.cls.cn/share/article/2320301?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        },
-        {
-          "title": "Palantir人工智能系统获美国防部关键项目地位",
-          "url": "https://flash.jin10.com/detail/20260321113458071800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时08分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 3,
       "titles": [
@@ -320,11 +345,12 @@
           "source": "早报",
           "ranks": [
             4,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时08分]"
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 15时53分]"
         },
         {
           "title": "任鸿斌会见美国苹果公司首席执行官蒂姆·库克",
@@ -432,11 +458,12 @@
           "ranks": [
             16,
             17,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时05分 ~ 15时08分]"
+          "appearance_count": 22,
+          "time_info": "[00时05分 ~ 15时53分]"
         },
         {
           "title": "人形机器人出货全球第一！从宇树招股书看王兴兴的“技术野心”与“扩张蓝图”",
@@ -445,11 +472,12 @@
           "ranks": [
             13,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时08分]"
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 15时53分]"
         }
       ]
     },
@@ -508,8 +536,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时05分 ~ 15时08分]"
+          "appearance_count": 22,
+          "time_info": "[00时05分 ~ 15时53分]"
         }
       ]
     },
@@ -541,11 +569,12 @@
           "ranks": [
             9,
             10,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时05分 ~ 15时08分]"
+          "appearance_count": 22,
+          "time_info": "[00时05分 ~ 15时53分]"
         }
       ]
     }
