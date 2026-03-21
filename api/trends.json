@@ -1,82 +1,11 @@
 {
-  "generated_at": "2026-03-21T09:57:50.712217+08:00",
-  "total_titles_processed": 697,
+  "generated_at": "2026-03-21T12:09:00.416776+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "周五（3月20日），存储芯片与硬件供应链指数跌4.93%，报113.25点，本周累计上涨5.14%，整体呈现出M形走势。 北美科技软件股指数ETF收跌1.74%，报82.99美元，本周累跌1.43%，延续上周跌4.30%的表现。 信息科技指数跌3.42%，报269.03点，本周累涨0.24%。 人工智能（AI）赢家指数跌4.02%，报281.73点，本周累跌0.09%。 AI软件先驱指数跌2.18%，报98.04点，本周累跌1.37%。",
-          "url": "https://wallstreetcn.com/livenews/3074352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时31分 ~ 07时34分]"
-        },
-        {
-          "title": "美元指数本周跌0.7%，日元涨0.3%",
-          "url": "https://wallstreetcn.com/livenews/3074319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时33分]"
-        },
-        {
-          "title": "布伦特原油日内涨幅达3.0%，报106.91美元/桶。 纳指跌超2%，标普500指数跌1.46%，道指跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3074300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时33分]"
-        },
-        {
-          "title": "无人机制造商Swarmer Inc.收跌30.14%，报36.71美元。 周二美国IPO以来，最近三个交易日先后涨520%、涨77.42%（盘中一度达到65.04美元）、跌4.45%。 本周，该公司股价累涨634.20%。",
-          "url": "https://wallstreetcn.com/livenews/3074372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时58分 ~ 09时57分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.91%，暂报2625.24点，上周五结束交易以来（7*24）累计下跌3.97%，整体呈现出冲高回落走势。 MarketVectorTM数字资产100中盘指数涨1.60%，报2832.32点，期内累计下跌2.82%。 MarketVector数字资产100指数涨0.61%，报14082.92点。 目前，Solana涨0.08%、期内整体持平，狗狗币涨0.49%、期内累跌2.67%，XRP跌0.57%、期内累涨2.66%。 比特币跌0.66%，暂报69855.50美元，在震荡上行中，于3月17日亚太早盘涨至75997.31美元，3月18日美股开盘前后显著回落；以太坊跌0.26%，暂报2138.38美元，期内累涨1.33%，3月16日迅猛上涨、3月17日亚太盘初曾涨至2385.450美元。",
-          "url": "https://wallstreetcn.com/livenews/3074271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时03分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "WPS 365打造“懂企业”的智能知识基座，助力华为、南航等企业高质量数据治理",
@@ -89,8 +18,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时05分 ~ 09时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时05分 ~ 12时09分]"
+        },
+        {
+          "title": "华为将发布首款风冷散热手机",
+          "url": "https://wallstreetcn.com/livenews/3074408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌2.8%，本周累跌约5.5%。 热门中概股里，小鹏初步收跌8.3%，小米跌7.9%，蔚来跌7.8%，百度跌3.99%，阿里巴巴跌1.9%，文远知行涨2.17%。",
@@ -140,6 +80,78 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "周五（3月20日），存储芯片与硬件供应链指数跌4.93%，报113.25点，本周累计上涨5.14%，整体呈现出M形走势。 北美科技软件股指数ETF收跌1.74%，报82.99美元，本周累跌1.43%，延续上周跌4.30%的表现。 信息科技指数跌3.42%，报269.03点，本周累涨0.24%。 人工智能（AI）赢家指数跌4.02%，报281.73点，本周累跌0.09%。 AI软件先驱指数跌2.18%，报98.04点，本周累跌1.37%。",
+          "url": "https://wallstreetcn.com/livenews/3074352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时31分 ~ 07时34分]"
+        },
+        {
+          "title": "无人机制造商Swarmer Inc.收跌30.14%，报36.71美元。 周二美国IPO以来，最近三个交易日先后涨520%、涨77.42%（盘中一度达到65.04美元）、跌4.45%。 本周，该公司股价累涨634.20%。",
+          "url": "https://wallstreetcn.com/livenews/3074372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时58分 ~ 12时09分]"
+        },
+        {
+          "title": "美元指数本周跌0.7%，日元涨0.3%",
+          "url": "https://wallstreetcn.com/livenews/3074319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时33分]"
+        },
+        {
+          "title": "布伦特原油日内涨幅达3.0%，报106.91美元/桶。 纳指跌超2%，标普500指数跌1.46%，道指跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3074300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 04时33分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.91%，暂报2625.24点，上周五结束交易以来（7*24）累计下跌3.97%，整体呈现出冲高回落走势。 MarketVectorTM数字资产100中盘指数涨1.60%，报2832.32点，期内累计下跌2.82%。 MarketVector数字资产100指数涨0.61%，报14082.92点。 目前，Solana涨0.08%、期内整体持平，狗狗币涨0.49%、期内累跌2.67%，XRP跌0.57%、期内累涨2.66%。 比特币跌0.66%，暂报69855.50美元，在震荡上行中，于3月17日亚太早盘涨至75997.31美元，3月18日美股开盘前后显著回落；以太坊跌0.26%，暂报2138.38美元，期内累涨1.33%，3月16日迅猛上涨、3月17日亚太盘初曾涨至2385.450美元。",
+          "url": "https://wallstreetcn.com/livenews/3074271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 03时03分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 4,
       "titles": [
@@ -177,19 +189,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时55分 ~ 09时57分]"
+          "appearance_count": 9,
+          "time_info": "[05时55分 ~ 12时09分]"
         },
         {
           "title": "六氟磷酸锂价格回调，行业进入供需再平衡阶段",
           "url": "https://wallstreetcn.com/livenews/3074390",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 12时09分]"
         }
       ]
     },
@@ -197,6 +210,18 @@
       "keyword_group": "雷达",
       "match_count": 3,
       "titles": [
+        {
+          "title": "VIP·9折解锁黄金异动雷达",
+          "url": "https://flash.jin10.com/detail/20260321090100080800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 12时09分]"
+        },
         {
           "title": "美国总统特朗普：伊朗现在没有雷达、侦察员、飞机，领导人也都被我们击毙了。",
           "url": "https://flash.jin10.com/detail/20260321034659408800",
@@ -210,26 +235,54 @@
           "time_info": "[03时55分 ~ 04时33分]"
         },
         {
-          "title": "VIP·9折解锁黄金异动雷达",
-          "url": "https://flash.jin10.com/detail/20260321090100080800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
           "title": "菲律宾指中国海军挑衅 以火控雷达瞄准菲舰",
           "url": "https://www.zaochenbao.com/news/world/202603/2167354.html",
           "source": "早报",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国商务部长见库克：望苹果坚定在华发展信心",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202603/2167383.html",
+          "source": "早报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 12时09分]"
+        },
+        {
+          "title": "任鸿斌会见美国苹果公司首席执行官蒂姆·库克",
+          "url": "https://wallstreetcn.com/livenews/3074230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "中国贸促会会长任鸿斌会见美国苹果公司首席执行官蒂姆·库克",
+          "url": "https://api3.cls.cn/share/article/2320093?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
         }
       ]
     },
@@ -305,30 +358,59 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 2,
       "titles": [
         {
-          "title": "任鸿斌会见美国苹果公司首席执行官蒂姆·库克",
-          "url": "https://wallstreetcn.com/livenews/3074230",
-          "source": "华尔街见闻-快讯",
+          "title": "法媒：中美加速展开人形机器人竞赛",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/03/20/69d295e2dc90442eb3ed288646a829f3.html",
+          "source": "参考消息",
           "ranks": [
-            18
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 17,
+          "time_info": "[00时05分 ~ 12时09分]"
         },
         {
-          "title": "中国贸促会会长任鸿斌会见美国苹果公司首席执行官蒂姆·库克",
-          "url": "https://api3.cls.cn/share/article/2320093?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "人形机器人出货全球第一！从宇树招股书看王兴兴的“技术野心”与“扩张蓝图”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802764",
+          "source": "澎湃新闻",
           "ranks": [
-            20
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 12时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "惠誉：将举办关于私募信贷和杠杆贷款中人工智能软件风险的网络研讨会。",
+          "url": "https://flash.jin10.com/detail/20260321012501666800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "Palantir人工智能系统获美国防部关键项目地位",
+          "url": "https://flash.jin10.com/detail/20260321113458071800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 12时09分]"
         }
       ]
     },
@@ -350,23 +432,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时05分 ~ 06时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "法媒：中美加速展开人形机器人竞赛",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/03/20/69d295e2dc90442eb3ed288646a829f3.html",
-          "source": "参考消息",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时05分 ~ 09时57分]"
         }
       ]
     },
@@ -402,8 +467,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时05分 ~ 09时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时05分 ~ 12时09分]"
         }
       ]
     },
@@ -425,23 +490,6 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "惠誉：将举办关于私募信贷和杠杆贷款中人工智能软件风险的网络研讨会。",
-          "url": "https://flash.jin10.com/detail/20260321012501666800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 1,
       "titles": [
@@ -450,11 +498,12 @@
           "url": "https://ckxxapp.ckxx.net/pages/2026/03/20/6641c7c024bb4453bafcf0a4aaf3f381.html",
           "source": "参考消息",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时05分 ~ 09时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时05分 ~ 12时09分]"
         }
       ]
     }
