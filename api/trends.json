@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T10:11:06.594844+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-03-23T12:41:28.554781+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
@@ -39,7 +39,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -50,7 +50,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -61,15 +61,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "阿里巴巴港股盘中拉升，目前跌幅收窄至约2%。此前据华尔街见闻获悉，阿里巴巴达摩院明日或将发布重要芯片产品，或直指今年爆发的AI Agent算力需求。",
+          "url": "https://wallstreetcn.com/livenews/3074809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI智能体加速落地，业内：商业保险迎补位时刻",
@@ -125,12 +136,171 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时53分 ~ 07时53分]"
+        },
+        {
+          "title": "市场消息：韩国人工智能初创公司Upstage正在与AMD(AMD.O)洽谈购买其10,000台最新的AI加速器，以此将大规模计算引入韩国。",
+          "url": "https://flash.jin10.com/detail/20260323121501231800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-23）",
+          "url": "https://flash.jin10.com/detail/20260323115801203800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3768072",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 07时53分]"
+        },
+        {
+          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3768072",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时41分]"
+        },
+        {
+          "title": "雷军：小米新一代SU7锁单超过3万台",
+          "url": "https://api3.cls.cn/share/article/2321104?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "雷军：未来五年小米研发投入计划超过2000亿",
+          "url": "https://wallstreetcn.com/livenews/3074822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "据小米汽车消息，小米新SU7今日开启交付。",
+          "url": "https://wallstreetcn.com/livenews/3074812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "雷军：小米新一代SU7锁单超过3万台",
+          "url": "https://flash.jin10.com/detail/20260323121418547800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "钧达股份：公司太空光伏业务仍处于技术研发与验证阶段 尚未形成收入和利润",
+          "url": "https://api3.cls.cn/share/article/2321112?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "钧达股份：公司太空光伏业务仍处于技术研发与验证阶段 尚未形成收入和利润",
+          "url": "https://flash.jin10.com/detail/20260323122930787800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "太空光伏概念逆势活跃 华民股份涨超10%",
+          "url": "https://api3.cls.cn/share/article/2320899?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 10时11分]"
+        },
+        {
+          "title": "A股早盘太空光伏概念逆势活跃，华民股份涨超10%，此前中利集团一字涨停，东方日升、协鑫集成、迈为股份、连城数控、捷佳伟创跟涨。",
+          "url": "https://flash.jin10.com/detail/20260323094728994800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 10时11分]"
+        },
+        {
+          "title": "国家能源局：“十五五”期间 将积极推动风电、光伏、核能、生物质能等多元清洁能源发展",
+          "url": "https://api3.cls.cn/share/article/2321080?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "反垄断压力下 苹果总裁库克赞中国制造业创新精神",
@@ -176,6 +346,67 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时10分 ~ 10时11分]"
+        },
+        {
+          "title": "库克称中国是苹果全球供应链最主要基地",
+          "url": "https://wallstreetcn.com/livenews/3074801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中国人寿投资法奥机器人",
+          "url": "https://flash.jin10.com/detail/20260323095951433800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 10时11分]"
+        },
+        {
+          "title": "人形机器人概念逆势走强 中大力德涨停",
+          "url": "https://api3.cls.cn/share/article/2320886?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 10时11分]"
+        },
+        {
+          "title": "宇树冲刺IPO，卧安机器人（6600.HK）已提前给出具身智能的“另一半答案”",
+          "url": "https://www.gelonghui.com/news/5189825",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "机器人概念股局部活跃，中大力德冲击涨停，朗科智能、金发科技、卧龙电驱、首开股份跟涨，消息上，上交所受理宇树科技科创板IPO申请，拟融资金额42.02亿元。",
+          "url": "https://wallstreetcn.com/livenews/3074736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
@@ -209,7 +440,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -225,45 +456,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时53分 ~ 07时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国人寿投资法奥机器人",
-          "url": "https://flash.jin10.com/detail/20260323095951433800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "人形机器人概念逆势走强 中大力德涨停",
-          "url": "https://api3.cls.cn/share/article/2320886?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "机器人概念股局部活跃，中大力德冲击涨停，朗科智能、金发科技、卧龙电驱、首开股份跟涨，消息上，上交所受理宇树科技科创板IPO申请，拟融资金额42.02亿元。",
-          "url": "https://wallstreetcn.com/livenews/3074736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
         }
       ]
     },
@@ -318,6 +510,37 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时54分 ~ 06时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货黄金快速反弹，收复此前1%的跌幅，现涨至4500美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260323060724983800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时26分 ~ 07时53分]"
+        },
+        {
+          "title": "A股午评：三大指数均跌2.5%，沪指跌破3900点，黄金板块重挫，煤炭股逆势上涨",
+          "url": "https://www.gelonghui.com/news/5189826",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
@@ -383,85 +606,6 @@
       ]
     },
     {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "太空光伏概念逆势活跃 华民股份涨超10%",
-          "url": "https://api3.cls.cn/share/article/2320899?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "A股早盘太空光伏概念逆势活跃，华民股份涨超10%，此前中利集团一字涨停，东方日升、协鑫集成、迈为股份、连城数控、捷佳伟创跟涨。",
-          "url": "https://flash.jin10.com/detail/20260323094728994800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3768072",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 07时53分]"
-        },
-        {
-          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3768072",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货黄金快速反弹，收复此前1%的跌幅，现涨至4500美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260323060724983800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时26分 ~ 07时53分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
       "match_count": 1,
       "titles": [
@@ -511,8 +655,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 10时11分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 12时41分]"
         }
       ]
     }
