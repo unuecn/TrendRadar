@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-25T02:34:15.902506+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-03-25T03:53:51.059295+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
-          "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3076139",
-          "source": "华尔街见闻-快讯",
+          "title": "财联社3月25日电，OpenAI据悉将停止运营SORA视频平台应用程序。",
+          "url": "https://api3.cls.cn/share/article/2323585?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时34分"
+          "time_info": "03时53分"
         },
         {
           "title": "OpenAI Nonprofit任命了多位领导人，希望在2026年开支10亿美元。",
@@ -42,6 +42,30 @@
           "time_info": "[00时10分 ~ 01时31分]"
         },
         {
+          "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时53分]"
+        },
+        {
+          "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
+          "url": "https://wallstreetcn.com/livenews/3076134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时53分]"
+        },
+        {
           "title": "财联社3月24日电，微软将租用被甲骨文和OpenAI放弃的德克萨斯州数据中心。",
           "url": "https://api3.cls.cn/share/article/2323503?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -53,24 +77,13 @@
           "time_info": "00时10分"
         },
         {
-          "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
-          "url": "https://wallstreetcn.com/livenews/3076134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        },
-        {
           "title": "OpenAI 计划从MGX、Coatue和Thrive等公司融资约100亿美元",
           "url": "https://flash.jin10.com/detail/20260325021945780800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
@@ -92,7 +105,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
@@ -108,13 +121,24 @@
           "time_info": "01时31分"
         },
         {
+          "title": "财联社3月25日电，OpenAI据悉拟从MGX、Coatue、Thrive处筹集约100亿美元。",
+          "url": "https://api3.cls.cn/share/article/2323567?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
           "title": "OpenAI：发布基于提示的安全策略，帮助开发者为青少年打造适龄保护措施。",
           "url": "https://flash.jin10.com/detail/20260325020915604800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
@@ -133,7 +157,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
@@ -156,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "苹果计划通过Siri应用、全新界面以及iOS 27中的“问Siri”按钮，重启其人工智能战略。",
+          "url": "https://flash.jin10.com/detail/20260325025306673800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
         },
         {
           "title": "Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体",
@@ -182,6 +217,56 @@
       ]
     },
     {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "财联社3月25日电，苹果据称正在测试适用于IOS 27的独立Siri应用和“询问Siri”按钮。",
+          "url": "https://api3.cls.cn/share/article/2323577?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "苹果计划通过Siri应用、全新外观及“提问”按钮重启AI战略",
+          "url": "https://wallstreetcn.com/livenews/3076153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "市场消息：苹果计划通过全新外观和聊天功能来升级Siri，预计将在6月8日的开发者大会上发布新Siri。",
+          "url": "https://flash.jin10.com/detail/20260325025055186800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "苹果公司推出Apple Business，其中整合了设备管理、电子邮件、以及日历。 Apple Business将于4月14日上线。",
+          "url": "https://wallstreetcn.com/livenews/3076059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 3,
       "titles": [
@@ -195,8 +280,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时53分]"
         },
         {
           "title": "WTI原油期货涨幅扩大，刷新日高至93美元/桶附近。 标普500指数转跌，目前跌超0.3%，道指跌0.1%，纳指跌184点、跌幅0.8%。 美国2-5年期国债收益率涨幅扩大至10个基点。 新兴市场货币回吐涨幅。 彭博美元指数刷新日高。",
@@ -217,7 +302,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         }
@@ -245,7 +330,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
@@ -274,8 +359,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时53分]"
         },
         {
           "title": "【焦点复盘】市场缩量普涨终结三连跌，全市场超130股涨逾10%，算力硬件产业链全线回暖",
@@ -286,8 +371,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时53分]"
         }
       ]
     },
@@ -302,7 +387,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
@@ -331,8 +416,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时53分]"
         }
       ]
     },
@@ -366,25 +451,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果公司推出Apple Business，其中整合了设备管理、电子邮件、以及日历。 Apple Business将于4月14日上线。",
-          "url": "https://wallstreetcn.com/livenews/3076059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时53分]"
         }
       ]
     }
