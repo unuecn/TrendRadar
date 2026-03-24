@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T07:02:11.519260+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-03-25T07:55:44.039046+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
@@ -222,7 +222,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -340,7 +340,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -353,8 +353,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 07时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时55分]"
         },
         {
           "title": "地缘信号反复切换，美股当日收跌、但盘后大涨1%，原油日内涨幅抹平，加密货币下挫",
@@ -366,6 +366,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 07时02分]"
+        },
+        {
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "网络股指数ETF收跌超2.3%，领跌美股行业ETF，标普能源板块涨2%",
@@ -410,7 +421,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -429,7 +440,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
@@ -441,6 +452,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "亚马逊据悉开发新型AI智能体以自动执行部分部门职能",
+          "url": "https://api3.cls.cn/share/article/2323649?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "CPU王炸登场！阿里新一代旗舰处理器玄铁C950刷新全球纪录，为AI Agent时代量身定制",
+          "url": "https://wallstreetcn.com/articles/3768225",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "财联社3月25日电，ARM将首次出售自有芯片以期在人工智能领域获得收入。",
@@ -583,9 +616,48 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，文远知行初步收涨9.5%，晶科能源涨6.5%，理想、万国数据至多涨2.8%，拼多多涨1.8%，比亚迪涨1.7%，美团、腾讯、新东方、小鹏涨幅不足1%，京东、阿里、百胜中国至多跌0.4%，网易、蔚来、百度至多跌1.7%，小米跌2%，汽车之家跌3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3076182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.43%，报6771.27点。 热门中概股里，文远知行初步收涨9.5%，晶科能源涨6.5%，理想、万国数据至多涨2.8%，拼多多涨1.8%，比亚迪涨1.7%，美团、腾讯、新东方、小鹏涨幅不足1%，京东、阿里、百胜中国至多跌0.4%，网易、蔚来、百度至多跌1.7%，小米跌2%，汽车之家跌3.7%。 ETF中，中国科技指数ETF（CQQQ）收跌0.63%，中概互联网指数ETF（KWEB）收跌0.56%。 德银嘉实沪深300指数ETF（ASHR）收跌0.40%，XtrackersHarvest中证50（ASHS）收涨0.38%。",
+          "url": "https://wallstreetcn.com/livenews/3076182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         }
       ]
     },
@@ -660,6 +732,34 @@
       ]
     },
     {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "存储芯片超级景气周期延续，涨价潮席卷消费电子全产业链",
+          "url": "https://wallstreetcn.com/livenews/3076244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "存储芯片超级景气周期延续 涨价潮席卷消费电子全产业链",
+          "url": "https://api3.cls.cn/share/article/2323629?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 2,
       "titles": [
@@ -669,11 +769,12 @@
           "source": "格隆汇",
           "ranks": [
             2,
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 07时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时55分]"
         },
         {
           "title": "据阿拉伯卫星电视台：沙特消息人士称，沙特否认其领导层倾向于延长战争的说法。",
@@ -685,34 +786,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，文远知行初步收涨9.5%，晶科能源涨6.5%，理想、万国数据至多涨2.8%，拼多多涨1.8%，比亚迪涨1.7%，美团、腾讯、新东方、小鹏涨幅不足1%，京东、阿里、百胜中国至多跌0.4%，网易、蔚来、百度至多跌1.7%，小米跌2%，汽车之家跌3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3076182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.43%，报6771.27点。 热门中概股里，文远知行初步收涨9.5%，晶科能源涨6.5%，理想、万国数据至多涨2.8%，拼多多涨1.8%，比亚迪涨1.7%，美团、腾讯、新东方、小鹏涨幅不足1%，京东、阿里、百胜中国至多跌0.4%，网易、蔚来、百度至多跌1.7%，小米跌2%，汽车之家跌3.7%。 ETF中，中国科技指数ETF（CQQQ）收跌0.63%，中概互联网指数ETF（KWEB）收跌0.56%。 德银嘉实沪深300指数ETF（ASHR）收跌0.40%，XtrackersHarvest中证50（ASHS）收涨0.38%。",
-          "url": "https://wallstreetcn.com/livenews/3076182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
         }
       ]
     },
@@ -759,6 +832,57 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "供需格局变化，碳酸锂价格企稳回升",
+          "url": "https://wallstreetcn.com/livenews/3076249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国芝加哥联储主席Goolsbee：降息前必须看到通胀降温。 能源价格上涨正推高通胀。 可能会目睹消费者信心下滑。 FOMC利率前景取决于（伊朗）战争持续的时间。 我们应该感到些许欣慰，我们正走在回归2%通胀率的道路上。",
+          "url": "https://wallstreetcn.com/livenews/3076243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基因测序 基因编辑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "改进型基因编辑工具综合性能大幅提高",
+          "url": "https://api3.cls.cn/share/article/2323634?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     }
