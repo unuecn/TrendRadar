@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-24T07:32:35.869433+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-03-24T10:03:08.290764+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "中国工信部领导会见苹果高通等多家跨国企业负责人",
+          "url": "https://www.zaochenbao.com/news/china/202603/2467603.html",
+          "source": "早报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
         {
           "title": "苹果拟在地图应用引入广告 服务业务进一步变现",
           "url": "https://flash.jin10.com/detail/20260324030840377800",
@@ -179,7 +190,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -214,7 +225,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -225,7 +236,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         }
@@ -240,11 +251,12 @@
           "url": "https://wallstreetcn.com/articles/3768146",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时00分 ~ 10时03分]"
         },
         {
           "title": "国际金价跌破近5400元 抹去年内全部涨幅",
@@ -343,6 +355,64 @@
       ]
     },
     {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "碳酸锂价格企稳回升 锂电产业链投资机遇凸显",
+          "url": "https://api3.cls.cn/share/article/2322217?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "商品期货开盘，碳酸锂主力合约涨超5%，沪铜、国际铜涨超2%。LU燃油跌超8%，燃料油、原油跌超5%，集运欧线、对二甲苯、塑料跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3075524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【数据看盘】化工ETF上周份额大减 一线游资联手量化资金抢筹太空光伏人气股",
+          "url": "https://www.cls.cn/detail/2321668",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时32分]"
+        },
+        {
+          "title": "太空光伏概念反复走强 中利集团3连板",
+          "url": "https://api3.cls.cn/share/article/2322398?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "比特币 以太坊",
       "match_count": 2,
       "titles": [
@@ -369,6 +439,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "机器人赛道进入下半场：凯乐士科技或将迎来盈利拐点，商业兑现提速",
+          "url": "https://www.gelonghui.com/news/5190592",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         }
       ]
     },
@@ -418,45 +505,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "碳酸锂价格企稳回升 锂电产业链投资机遇凸显",
-          "url": "https://api3.cls.cn/share/article/2322217?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【数据看盘】化工ETF上周份额大减 一线游资联手量化资金抢筹太空光伏人气股",
-          "url": "https://www.cls.cn/detail/2321668",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 07时32分]"
+          "appearance_count": 1,
+          "time_info": "07时32分"
         }
       ]
     }
