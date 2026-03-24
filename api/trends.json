@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T10:03:08.290764+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2026-03-24T12:31:55.878140+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zaochenbao.com/news/china/202603/2467603.html",
           "source": "早报",
           "ranks": [
-            3
+            3,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时31分]"
         },
         {
           "title": "苹果拟在地图应用引入广告 服务业务进一步变现",
@@ -255,8 +256,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时00分 ~ 10时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时00分 ~ 12时31分]"
         },
         {
           "title": "国际金价跌破近5400元 抹去年内全部涨幅",
@@ -280,6 +281,84 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-24）",
+          "url": "https://flash.jin10.com/detail/20260324120403724800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
+          "url": "https://flash.jin10.com/detail/20260324024205486800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "国家数据局局长刘烈宏：第九届数字中国建设峰会现场体验区新增“人工智能”板块",
+          "url": "https://wallstreetcn.com/livenews/3075601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "碳酸锂价格企稳回升 锂电产业链投资机遇凸显",
+          "url": "https://api3.cls.cn/share/article/2322217?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "国内期货主力合约涨跌不一 碳酸锂涨超6%",
+          "url": "https://api3.cls.cn/share/article/2322562?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "商品期货开盘，碳酸锂主力合约涨超5%，沪铜、国际铜涨超2%。LU燃油跌超8%，燃料油、原油跌超5%，集运欧线、对二甲苯、塑料跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3075524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
@@ -355,30 +434,58 @@
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 2,
       "titles": [
         {
-          "title": "碳酸锂价格企稳回升 锂电产业链投资机遇凸显",
-          "url": "https://api3.cls.cn/share/article/2322217?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "机器人赛道进入下半场：凯乐士科技或将迎来盈利拐点，商业兑现提速",
+          "url": "https://www.gelonghui.com/news/5190592",
+          "source": "格隆汇",
           "ranks": [
-            15
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "FANUC America宣布将投资9000万美元在密歇根州购置土地并建设一座新的机器人制造工厂。",
+          "url": "https://flash.jin10.com/detail/20260324120434979800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗媒体公布美军基地遭打击卫星对比图",
+          "url": "https://wallstreetcn.com/livenews/3075638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "攻坚火箭回收技术，业内纵论商业航天发展机遇",
+          "url": "https://wallstreetcn.com/livenews/3075453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "商品期货开盘，碳酸锂主力合约涨超5%，沪铜、国际铜涨超2%。LU燃油跌超8%，燃料油、原油跌超5%，集运欧线、对二甲苯、塑料跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3075524",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
         }
       ]
     },
@@ -443,36 +550,53 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "keyword_group": "储能",
       "match_count": 1,
       "titles": [
         {
-          "title": "机器人赛道进入下半场：凯乐士科技或将迎来盈利拐点，商业兑现提速",
-          "url": "https://www.gelonghui.com/news/5190592",
-          "source": "格隆汇",
+          "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
+          "url": "https://www.cls.cn/detail/2322334",
+          "source": "财联社热门",
           "ranks": [
-            14
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "keyword_group": "创新药 新药研发 临床三期",
       "match_count": 1,
       "titles": [
         {
-          "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
-          "url": "https://flash.jin10.com/detail/20260324024205486800",
+          "title": "药明康德、药明合联涨超6%，恒生生物科技ETF、港股创新药ETF、港股通医疗ETF大涨",
+          "url": "https://www.gelonghui.com/news/5190627",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "雷达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为余承东：首批896线激光雷达智界新车已交付",
+          "url": "https://flash.jin10.com/detail/20260324115757780800",
           "source": "金十数据",
           "ranks": [
-            18
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时27分"
+          "time_info": "12时31分"
         }
       ]
     },
@@ -491,23 +615,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 04时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "攻坚火箭回收技术，业内纵论商业航天发展机遇",
-          "url": "https://wallstreetcn.com/livenews/3075453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
         }
       ]
     }
