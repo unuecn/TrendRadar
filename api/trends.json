@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T16:53:10.065345+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2026-03-25T17:54:15.325078+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 16时53分]"
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 17时54分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -613,8 +614,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时55分 ~ 16时53分]"
+          "appearance_count": 9,
+          "time_info": "[07时55分 ~ 17时54分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -786,6 +787,67 @@
       ]
     },
     {
+      "keyword_group": "金价 黄金",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 06时31分]"
+        },
+        {
+          "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
+          "url": "https://www.cls.cn/detail/2323307",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时31分]"
+        },
+        {
+          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "周三亚太盘初，WTI原油日内跌幅达4.0%，报88.57美元/桶。 标普500股指期货、道指期货涨超0.7%，纳斯达克100指数涨超0.9%，罗素2000股指期货涨1.1%。 现货黄金5分钟内下跌8.64美元/盎司，报4470.96美元/盎司。 纽约金5分钟内下跌7.09美元/盎司，报4505.6美元/盎司。 据央视报道，美国有意停火一个月以与伊朗讨论15点协议，包括美方支持其发展民用核项目。",
+          "url": "https://wallstreetcn.com/livenews/3076221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "港股开盘，恒指开涨0.87%，科指开涨0.99%；洛阳钼业(03993.HK)、农夫山泉(09633.HK)均涨超6%，老铺黄金(06181.HK)涨超5%，万洲国际(00288.HK)涨近5%，海底捞(06862.HK)跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260325092125425800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 5,
       "titles": [
@@ -847,58 +909,8 @@
       ]
     },
     {
-      "keyword_group": "金价 黄金",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时31分]"
-        },
-        {
-          "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
-          "url": "https://www.cls.cn/detail/2323307",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 06时31分]"
-        },
-        {
-          "title": "周三亚太盘初，WTI原油日内跌幅达4.0%，报88.57美元/桶。 标普500股指期货、道指期货涨超0.7%，纳斯达克100指数涨超0.9%，罗素2000股指期货涨1.1%。 现货黄金5分钟内下跌8.64美元/盎司，报4470.96美元/盎司。 纽约金5分钟内下跌7.09美元/盎司，报4505.6美元/盎司。 据央视报道，美国有意停火一个月以与伊朗讨论15点协议，包括美方支持其发展民用核项目。",
-          "url": "https://wallstreetcn.com/livenews/3076221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "港股开盘，恒指开涨0.87%，科指开涨0.99%；洛阳钼业(03993.HK)、农夫山泉(09633.HK)均涨超6%，老铺黄金(06181.HK)涨超5%，万洲国际(00288.HK)涨近5%，海底捞(06862.HK)跌超4%。",
-          "url": "https://flash.jin10.com/detail/20260325092125425800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特斯拉机器人最新视频曝光 马斯克称有望在2027年实现量产",
@@ -934,6 +946,17 @@
           "time_info": "[12时32分 ~ 12时33分]"
         },
         {
+          "title": "特斯拉机器人Optimus发招聘，称目标尽快量产",
+          "url": "https://wallstreetcn.com/livenews/3076573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "A股人形机器人概念板块午后活跃，斯菱智驱涨超10%，德马科技、五洲新春、万向钱潮、睿能科技、奥比中光跟涨。",
           "url": "https://flash.jin10.com/detail/20260325130445732800",
           "source": "金十数据",
@@ -943,6 +966,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "储能概念午后异动 圣阳股份直线涨停",
+          "url": "https://api3.cls.cn/share/article/2324028?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "【风口研报·公司】切入主要OCS整机厂商技术方案，这家公司重点产品已取得订单突破、相关晶体产品开始量产推进，积极向器件及测试环节延伸；地缘冲突催化储能需求，这家公司向“移动家储+阳台光储”两大新品拓展",
+          "url": "https://api3.cls.cn/share/article/2324098?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "惠誉：即便伊朗冲突很快得到解决，电池储能系统的需求也应会增长。",
+          "url": "https://flash.jin10.com/detail/20260325172500324800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "惠誉：石油和液化天然气供应中断通过强化能源进口经济体在能源安全驱动下对可再生能源及电池储能系统的投资，增加了市场上行空间。",
+          "url": "https://flash.jin10.com/detail/20260325172419245800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "惠誉：伊朗冲突正在增强电池储能系统和更广泛电气化的潜力。",
+          "url": "https://flash.jin10.com/detail/20260325172350433800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         }
       ]
     },
@@ -959,8 +1043,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时55分 ~ 16时53分]"
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 17时54分]"
         },
         {
           "title": "小米营收增速为数年最低 智能手机需求疲软",
@@ -995,6 +1079,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股盘前，热门中概股多数上涨，阿里巴巴涨约5%，京东涨约4%，百度涨约2%。 Arm美股盘前涨超10%，公司亲自下场挑战英特尔与AMD，首款CPU直指AI数据中心，料年收入150亿。 美股三大股指期货走高，均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3076543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "美国芝加哥联储主席Goolsbee：降息前必须看到通胀降温。 能源价格上涨正推高通胀。 可能会目睹消费者信心下滑。 FOMC利率前景取决于（伊朗）战争持续的时间。 我们应该感到些许欣慰，我们正走在回归2%通胀率的道路上。",
+          "url": "https://wallstreetcn.com/livenews/3076243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "随时准备加息！欧洲央行行长拉加德：高通胀的记忆尚未远去",
+          "url": "https://flash.jin10.com/detail/20260325173046031800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "英特尔和AMD告知客户上调3月和4月CPU价格。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3076407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     },
@@ -1118,37 +1252,26 @@
       ]
     },
     {
-      "keyword_group": "英特尔 高通",
-      "match_count": 3,
+      "keyword_group": "创新药 新药研发 临床三期",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股盘前，热门中概股多数上涨，阿里巴巴涨约5%，京东涨约4%，百度涨约2%。 Arm美股盘前涨超10%，公司亲自下场挑战英特尔与AMD，首款CPU直指AI数据中心，料年收入150亿。 美股三大股指期货走高，均涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3076543",
-          "source": "华尔街见闻-快讯",
+          "title": "港股医药赛道修复延续！南方基金旗下港股通创新药ETF南方（159297）跟踪指数涨幅接近1%",
+          "url": "https://www.gelonghui.com/news/5195241",
+          "source": "格隆汇",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "17时54分"
         },
         {
-          "title": "美国芝加哥联储主席Goolsbee：降息前必须看到通胀降温。 能源价格上涨正推高通胀。 可能会目睹消费者信心下滑。 FOMC利率前景取决于（伊朗）战争持续的时间。 我们应该感到些许欣慰，我们正走在回归2%通胀率的道路上。",
-          "url": "https://wallstreetcn.com/livenews/3076243",
-          "source": "华尔街见闻-快讯",
+          "title": "联邦制药(03933.HK)：创新药UBT251注射液已完成在中国2型糖尿病患者中的II期临床研究",
+          "url": "https://www.gelonghui.com/news/5194939",
+          "source": "格隆汇",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "英特尔和AMD告知客户上调3月和4月CPU价格。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3076407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1222,40 +1345,6 @@
           "source": "金十数据",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "储能概念午后异动 圣阳股份直线涨停",
-          "url": "https://api3.cls.cn/share/article/2324028?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "联邦制药(03933.HK)：创新药UBT251注射液已完成在中国2型糖尿病患者中的II期临床研究",
-          "url": "https://www.gelonghui.com/news/5194939",
-          "source": "格隆汇",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
