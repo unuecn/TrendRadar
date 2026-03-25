@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T06:36:09.436183+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-03-26T07:35:19.410676+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时10分 ~ 06时36分]"
+        },
+        {
+          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "LME期铜收涨221美元，报12322美元/吨。 LME期铝收跌18美元，报3242美元/吨。 LME期锌收涨38美元，报3080美元/吨。 LME期铅收涨19美元，报1912美元/吨。 LME期镍收涨394美元，报17344美元/吨。 LME期锡收涨580美元，报44818美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -49,7 +60,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -111,7 +122,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -192,6 +203,62 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【每日收评】沪指涨超1%重返3900点，全市场连续两日逾百股涨停，算力、绿电持续爆发",
+          "url": "https://www.cls.cn/detail/2324383",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "算力突围撬动应用爆发 上市公司迎来AI红利兑现期",
+          "url": "https://api3.cls.cn/share/article/2325004?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "北京亦庄将再次举办人形机器人半马",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/03/25/86b294b7377342eb9048a38280c60ec9.html",
+          "source": "参考消息",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时35分]"
+        },
+        {
+          "title": "【研选】特斯拉机器人最新视频曝光，马斯克称有望在2027年实现量产，分析师看好机器人场景落地的演进节奏提速；在全球地缘冲突+供需格局改善+反内卷等因素影响下，公司盈利改善有望推动估值加快回升",
+          "url": "https://api3.cls.cn/share/article/2324005?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 2,
       "titles": [
@@ -228,22 +295,24 @@
           "url": "https://api3.cls.cn/share/article/2325002?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 06时36分]"
+          "appearance_count": 3,
+          "time_info": "[06时35分 ~ 07时35分]"
         },
         {
           "title": "出口退税取消在即，光伏组件价格迎来显著上涨",
           "url": "https://wallstreetcn.com/livenews/3076926",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时35分]"
         }
       ]
     },
@@ -260,8 +329,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时35分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.86%，报6897.01点。 热门中概股里，宝尊电商初步收涨15.5%，美团涨13.8%，京东涨8.3%，阿特斯太阳能涨7.8%，金山云涨6.5%，拼多多涨4.5%，阿里涨3.6%，百度涨2.8%，新东方、小米涨超2%。 ETF中，中国科技指数ETF（CQQQ）收涨3.29%，中概互联网指数ETF（KWEB）收涨3.04%。 XtrackersHarvest中证50（ASHS）收涨2.61%，德银嘉实沪深300指数ETF（ASHR）收涨2.09%。",
@@ -274,40 +343,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【每日收评】沪指涨超1%重返3900点，全市场连续两日逾百股涨停，算力、绿电持续爆发",
-          "url": "https://www.cls.cn/detail/2324383",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "北京亦庄将再次举办人形机器人半马",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/03/25/86b294b7377342eb9048a38280c60ec9.html",
-          "source": "参考消息",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 06时36分]"
         }
       ]
     },
@@ -326,6 +361,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
+          "url": "https://www.cls.cn/detail/2324998",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         }
       ]
     },
