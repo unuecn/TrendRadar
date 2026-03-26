@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T06:31:05.837755+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-03-27T06:59:05.707659+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
@@ -137,7 +137,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         }
@@ -147,6 +147,17 @@
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 9,
       "titles": [
+        {
+          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
+          "url": "https://wallstreetcn.com/articles/3768419",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时59分]"
+        },
         {
           "title": "财联社3月27日电，OpenAI据称已扩展至超过600家广告商，并正按计划于4月推出自助广告商访问功能。",
           "url": "https://api3.cls.cn/share/article/2326252?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -158,17 +169,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时31分 ~ 06时31分]"
-        },
-        {
-          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
-          "url": "https://wallstreetcn.com/articles/3768419",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时31分]"
         },
         {
           "title": "财联社3月27日电，谷歌表示，用户可以将其他AI应用的记忆转移到Gemini。",
@@ -264,8 +264,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 06时59分]"
         },
         {
           "title": "市场消息：苹果进行战略转型，将向竞品人工智能助手开放Siri。",
@@ -373,8 +373,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 06时59分]"
         },
         {
           "title": "WTI原油日内涨幅达5.0%，报94.89美元/桶。 纳斯达克100指数跌幅扩大至1.6%。",
@@ -392,11 +392,12 @@
           "url": "https://wallstreetcn.com/livenews/3077710",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 06时59分]"
         },
         {
           "title": "半导体ETF收跌4.6%，领跌美股行业ETF，能源业ETF则涨约1.6%",
@@ -539,11 +540,12 @@
           "source": "格隆汇",
           "ranks": [
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 06时59分]"
         }
       ]
     },
@@ -573,11 +575,12 @@
           "url": "https://www.cls.cn/detail/2325706",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 06时59分]"
         }
       ]
     },
@@ -594,8 +597,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 06时59分]"
         }
       ]
     },
@@ -608,11 +611,12 @@
           "url": "https://wallstreetcn.com/livenews/3077701",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 06时59分]"
         }
       ]
     }
