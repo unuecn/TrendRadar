@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T12:56:30.622626+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-03-27T14:13:38.913316+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "财联社3月27日电，苹果公司终止了MacPro台式机的生产，目前并无推出新型号的计划。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 05时32分]"
+        },
+        {
+          "title": "据英国金融时报：在苹果(AAPL.O)CEO库克推动将部分供应链迁回美国、减少对亚洲过度依赖的举措下，苹果将从日本TDK公司采购美国制造的零部件。",
+          "url": "https://flash.jin10.com/detail/20260327140645809800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "财联社3月27日电，苹果公司将开放Siri功能，使其与竞争对手的AI助手进行策略上的对接。",
@@ -62,8 +73,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 14时13分]"
         },
         {
           "title": "财联社3月27日电，苹果向iPhone设计团队发放罕见奖金，以应对AI人才挖角。",
@@ -268,7 +279,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -407,6 +418,103 @@
       ]
     },
     {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "【焦点复盘】市场连续普反后现地量普跌，绿电产业链分歧加剧，商业航天概念逆势拉升",
+          "url": "https://www.cls.cn/detail/2325706",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 07时38分]"
+        },
+        {
+          "title": "商业航天概念震荡拉升 神剑股份2连板",
+          "url": "https://api3.cls.cn/share/article/2326495?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "【研选】商业航天作为大国战略竞争的关键领域，低轨卫星部署具备迫切性，3D打印赋能商业火箭降本放量；分析师看好公司弹药总装+固发装药资产稀缺性，国内外双市场成长性空间广阔",
+          "url": "https://api3.cls.cn/share/article/2325165?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "北京发布数据跨境流动便利化综合配套改革3.0版方案，聚焦商业航天等6个重点领域",
+          "url": "https://wallstreetcn.com/livenews/3077925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 14时13分]"
+        },
+        {
+          "title": "北京发布数据跨境流动便利化综合配套改革3.0版方案，聚焦商业航天等6个重点领域",
+          "url": "https://flash.jin10.com/detail/20260327123654156800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "【电报解读】我国成功发射试验三十三号卫星，机构持续看好后续商业航天国产化加速突破，这家公司子公司签约额、营收均大幅度提升",
+          "url": "https://api3.cls.cn/share/article/2326724?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "海南国际商业航天发射场二期建设正在提速中",
+          "url": "https://wallstreetcn.com/livenews/3077903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "我国成功发射试验三十三号卫星",
+          "url": "https://wallstreetcn.com/livenews/3077932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 7,
       "titles": [
@@ -455,8 +563,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 14时13分]"
         },
         {
           "title": "半导体ETF收跌4.6%，领跌美股行业ETF，能源业ETF则涨约1.6%",
@@ -497,82 +605,8 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "【焦点复盘】市场连续普反后现地量普跌，绿电产业链分歧加剧，商业航天概念逆势拉升",
-          "url": "https://www.cls.cn/detail/2325706",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 07时38分]"
-        },
-        {
-          "title": "商业航天概念震荡拉升 神剑股份2连板",
-          "url": "https://api3.cls.cn/share/article/2326495?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "【研选】商业航天作为大国战略竞争的关键领域，低轨卫星部署具备迫切性，3D打印赋能商业火箭降本放量；分析师看好公司弹药总装+固发装药资产稀缺性，国内外双市场成长性空间广阔",
-          "url": "https://api3.cls.cn/share/article/2325165?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "北京发布数据跨境流动便利化综合配套改革3.0版方案，聚焦商业航天等6个重点领域",
-          "url": "https://wallstreetcn.com/livenews/3077925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "北京发布数据跨境流动便利化综合配套改革3.0版方案，聚焦商业航天等6个重点领域",
-          "url": "https://flash.jin10.com/detail/20260327123654156800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "海南国际商业航天发射场二期建设正在提速中",
-          "url": "https://wallstreetcn.com/livenews/3077903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "创新药概念持续走高 科拓生物等多股涨停",
@@ -608,6 +642,17 @@
           "time_info": "10时23分"
         },
         {
+          "title": "创新药龙头盈利拐点再确认，行业进入盈利兑现期，低费率港股通创新药 ETF 易方达（159316）劲升4.47%",
+          "url": "https://www.gelonghui.com/news/5197142",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "A股创新药概念板块短线拉升，联环药业触及涨停，九芝堂、广誉远、热景生物、益诺思、万邦德跟涨。",
           "url": "https://flash.jin10.com/detail/20260327094205514800",
           "source": "金十数据",
@@ -628,12 +673,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "港股创新药板块午后持续走高，昭衍新药、石药集团涨超10%，信达生物涨超7%，君实生物、诺诚健华跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3077937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "A股早评：三大指数集体低开，存储芯片、算力硬件概念股调整",
@@ -659,6 +715,17 @@
           "time_info": "[05时32分 ~ 06时31分]"
         },
         {
+          "title": "A股算力硬件股持续回升，光库科技涨超10%，股价续创历史新高，罗博特科、致尚科技、亨通光电、长飞光纤纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3077947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "A股算力租赁板块盘初异动拉升，广电网络、贵广网络双双涨停，奥瑞德、群兴玩具、湖北广电、光环新网跟涨。",
           "url": "https://flash.jin10.com/detail/20260327094019572800",
           "source": "金十数据",
@@ -673,7 +740,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "微创机器人-B(02252.HK)2025年度净亏损2.54亿元 同比减亏60.7%",
@@ -693,18 +760,63 @@
           "url": "https://ckxxapp.ckxx.net/pages/2026/03/27/e278cc8ce1df40579d284599654789fb.html",
           "source": "参考消息",
           "ranks": [
-            7
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 14时13分]"
+        },
+        {
+          "title": "上汽集团人形机器人“上岗”",
+          "url": "https://api3.cls.cn/share/article/2326748?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时56分"
+          "time_info": "14时13分"
+        },
+        {
+          "title": "智元A2-W机器人落地上汽通用别克电池产线",
+          "url": "https://wallstreetcn.com/livenews/3077944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "小米罗福莉称今年token增长或到100倍",
+          "url": "https://wallstreetcn.com/livenews/3077968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "小米罗福莉称今年token增长或到100倍",
+          "url": "https://flash.jin10.com/detail/20260327140631404800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
         {
           "title": "特斯拉再度出手管理市场预期 降低电动车销量回升期待",
           "url": "https://api3.cls.cn/share/article/2326227?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -727,6 +839,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "广期所碳酸锂主力合约大涨7%，报169840元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3077952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "碳酸锂主力合约日内涨幅达6.00%，现报168460元/吨。",
+          "url": "https://flash.jin10.com/detail/20260327133035548800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     },
@@ -754,9 +894,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 14时13分]"
         }
       ]
     },
