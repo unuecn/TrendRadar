@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-03-29T05:37:15.862572+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2026-03-29T06:29:31.664465+08:00",
+  "total_titles_processed": 344,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特斯拉计划把在日本的服务中心网络规模扩大一倍",
+          "url": "https://flash.jin10.com/detail/20260329053745617800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "据日经新闻：特斯拉(TSLA.O)计划将把其在日本的服务中心网络规模扩大一倍。",
+          "url": "https://flash.jin10.com/detail/20260329042809419800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时59分 ~ 06时29分]"
+        }
+      ]
+    },
     {
       "keyword_group": "金价 黄金",
       "match_count": 1,
@@ -15,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 06时29分]"
         }
       ]
     },
@@ -32,8 +62,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 06时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药 新药研发 临床三期",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "BD开门红！中国创新药对外授权交易额亮眼 1-3月逼近去年全年一半",
+          "url": "https://www.cls.cn/detail/2327942",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         }
       ]
     },
@@ -68,8 +115,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 06时29分]"
         }
       ]
     },
@@ -85,26 +132,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 05时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据日经新闻：特斯拉(TSLA.O)计划将把其在日本的服务中心网络规模扩大一倍。",
-          "url": "https://flash.jin10.com/detail/20260329042809419800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 06时29分]"
         }
       ]
     }
