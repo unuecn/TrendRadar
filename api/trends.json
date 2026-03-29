@@ -1,8 +1,85 @@
 {
-  "generated_at": "2026-03-29T14:15:20.523195+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-03-29T15:34:42.438506+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "特斯拉计划把在日本的服务中心网络规模扩大一倍",
+          "url": "https://flash.jin10.com/detail/20260329053745617800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 07时38分]"
+        },
+        {
+          "title": "据日经新闻：特斯拉(TSLA.O)计划将把其在日本的服务中心网络规模扩大一倍。",
+          "url": "https://flash.jin10.com/detail/20260329042809419800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时59分 ~ 07时38分]"
+        },
+        {
+          "title": "小米集团董事长雷军：新一代su7首周交付了四五千辆。",
+          "url": "https://wallstreetcn.com/livenews/3078646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 15时34分]"
+        },
+        {
+          "title": "特斯拉在中国最大高速超充项目启用",
+          "url": "https://www.zaochenbao.com/news/china/202603/2968042.html",
+          "source": "早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "创世界纪录，我国成功研制35.6特斯拉全超导用户磁体",
+          "url": "https://flash.jin10.com/detail/20260329150557338800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "特斯拉国内规模最大高速服务区超级充电站项目上线",
+          "url": "https://api3.cls.cn/share/article/2328002?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        }
+      ]
+    },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 4,
@@ -14,11 +91,12 @@
           "ranks": [
             1,
             6,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 14时15分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 15时34分]"
         },
         {
           "title": "过于火爆！Anthropic算力吃紧，本周限制Claude用户高峰时段用量",
@@ -58,60 +136,6 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "特斯拉计划把在日本的服务中心网络规模扩大一倍",
-          "url": "https://flash.jin10.com/detail/20260329053745617800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时29分 ~ 07时38分]"
-        },
-        {
-          "title": "据日经新闻：特斯拉(TSLA.O)计划将把其在日本的服务中心网络规模扩大一倍。",
-          "url": "https://flash.jin10.com/detail/20260329042809419800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时59分 ~ 07时38分]"
-        },
-        {
-          "title": "小米集团董事长雷军：新一代su7首周交付了四五千辆。",
-          "url": "https://wallstreetcn.com/livenews/3078646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 14时15分]"
-        },
-        {
-          "title": "特斯拉国内规模最大高速服务区超级充电站项目上线",
-          "url": "https://api3.cls.cn/share/article/2328002?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "创新药 新药研发 临床三期",
       "match_count": 2,
       "titles": [
@@ -126,8 +150,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时29分 ~ 14时15分]"
+          "appearance_count": 8,
+          "time_info": "[06时29分 ~ 15时34分]"
         },
         {
           "title": "今年首季我国创新药对外授权交易额超600亿美元",
@@ -136,11 +160,70 @@
           "ranks": [
             3,
             8,
-            10
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 15时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：欧洲人一定会喜欢特斯拉(TSLA.O)的自动驾驶功能。由于欧盟的监管负担极其沉重，这通常会扼杀欧洲的创新，因此，那里的特斯拉车主至今只能使用基本的车道跟随功能。",
+          "url": "https://flash.jin10.com/detail/20260329010123344800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时26分 ~ 14时15分]"
+          "time_info": "[01时29分 ~ 02时43分]"
+        },
+        {
+          "title": "马斯克：特斯拉人工智能自动驾驶的安全性将比人类驾驶高出10倍以上。",
+          "url": "https://flash.jin10.com/detail/20260329141015916800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄伟曼：止不了渴的人工智能",
+          "url": "https://www.zaochenbao.com/news/opinion/202603/2867943.html",
+          "source": "早报",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 07时38分]"
+        },
+        {
+          "title": "麦肯锡报告指出人工智能重塑全球贸易格局",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/03/29/7374002d3254447bbb371ba2eabcb9c1.html",
+          "source": "参考消息",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         }
       ]
     },
@@ -209,6 +292,23 @@
       ]
     },
     {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DDR5内存降价了！专家：价格将持续下探",
+          "url": "https://flash.jin10.com/detail/20260329142831688800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 1,
       "titles": [
@@ -219,7 +319,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         }
@@ -236,7 +336,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         }
@@ -256,42 +356,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：欧洲人一定会喜欢特斯拉(TSLA.O)的自动驾驶功能。由于欧盟的监管负担极其沉重，这通常会扼杀欧洲的创新，因此，那里的特斯拉车主至今只能使用基本的车道跟随功能。",
-          "url": "https://flash.jin10.com/detail/20260329010123344800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 02时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄伟曼：止不了渴的人工智能",
-          "url": "https://www.zaochenbao.com/news/opinion/202603/2867943.html",
-          "source": "早报",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 07时38分]"
         }
       ]
     },
