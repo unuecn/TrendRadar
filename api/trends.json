@@ -1,585 +1,78 @@
 {
-  "generated_at": "2026-03-29T23:32:53.583488+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-03-30T00:36:04.642170+08:00",
+  "total_titles_processed": 227,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "上海人工智能实验室联合相关主体启动“超智融合算力”平台",
-          "url": "https://wallstreetcn.com/livenews/3078656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            8,
-            12,
-            18,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 18时34分]"
-        },
-        {
-          "title": "【电报解读】“词元”调用量爆发！“Token”最高搜索量相较去年日均搜索量暴增1850%，机构称类OpenClaw产品密集落地将显著拉动云服务与模型调用需求，这家公司境内外的云算力服务已产生营收",
-          "url": "https://api3.cls.cn/share/article/2328206?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
-          "title": "过于火爆！Anthropic算力吃紧，本周限制Claude用户高峰时段用量",
-          "url": "https://wallstreetcn.com/articles/3768640",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 14时15分]"
-        },
-        {
-          "title": "贵州加强电力保障赋能算力产业升级",
-          "url": "https://api3.cls.cn/share/article/2328097?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时37分]"
-        },
-        {
-          "title": "解决实际瓶颈 “超智融合算力平台”今天启动",
-          "url": "https://flash.jin10.com/detail/20260329093001352800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "解决实际瓶颈“超智融合算力平台”今天启动",
-          "url": "https://api3.cls.cn/share/article/2328019?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "伊朗公布击毁美军E-3预警机卫星图",
-          "url": "https://flash.jin10.com/detail/20260329173313420800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时33分 ~ 20时55分]"
-        },
-        {
-          "title": "西南首个商业卫星遥感测运控站启用",
-          "url": "https://api3.cls.cn/share/article/2328012?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "欧航局低轨导航卫星在新西兰成功发射",
-          "url": "https://flash.jin10.com/detail/20260329164110066800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时29分]"
-        },
-        {
-          "title": "欧航局低轨导航卫星在新西兰成功发射",
-          "url": "https://api3.cls.cn/share/article/2328123?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时34分]"
-        },
-        {
-          "title": "伊朗公布击毁美军E3预警机卫星图",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E6%AF%81%E7%BE%8E%E5%86%9BE3%E9%A2%84%E8%AD%A6%E6%9C%BA%E5%8D%AB%E6%98%9F%E5%9B%BE%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 21时54分]"
-        },
-        {
-          "title": "欧航局低轨导航卫星在新西兰成功发射",
-          "url": "https://wallstreetcn.com/livenews/3078716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 20时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特斯拉在中国最大高速超充项目启用",
-          "url": "https://www.zaochenbao.com/news/china/202603/2968042.html",
-          "source": "早报",
-          "ranks": [
-            8,
-            9,
-            13,
-            17,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时34分 ~ 21时54分]"
-        },
-        {
-          "title": "特斯拉计划把在日本的服务中心网络规模扩大一倍",
-          "url": "https://flash.jin10.com/detail/20260329053745617800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时29分 ~ 07时38分]"
-        },
-        {
-          "title": "据日经新闻：特斯拉(TSLA.O)计划将把其在日本的服务中心网络规模扩大一倍。",
-          "url": "https://flash.jin10.com/detail/20260329042809419800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时59分 ~ 07时38分]"
-        },
-        {
-          "title": "小米集团董事长雷军：新一代su7首周交付了四五千辆。",
-          "url": "https://wallstreetcn.com/livenews/3078646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            14,
-            18,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 17时37分]"
-        },
-        {
-          "title": "创世界纪录，我国成功研制35.6特斯拉全超导用户磁体",
-          "url": "https://flash.jin10.com/detail/20260329150557338800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 16时40分]"
-        },
-        {
-          "title": "特斯拉国内规模最大高速服务区超级充电站项目上线",
-          "url": "https://api3.cls.cn/share/article/2328002?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "BD开门红！中国创新药对外授权交易额亮眼 1-3月逼近去年全年一半",
-          "url": "https://www.cls.cn/detail/2327942",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时29分 ~ 23时32分]"
-        },
-        {
-          "title": "今年首季我国创新药对外授权交易额超600亿美元",
-          "url": "https://wallstreetcn.com/livenews/3078652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            10,
-            14,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 17时37分]"
-        },
-        {
-          "title": "【财联社早知道】创新药再迎重磅催化！全球顶级会议AACR下月召开，机构预计2030年中国创新药市场规模将突破2万亿元，这家公司参股公司主要为创新药公司提供新药研发中所需要的工具化合物",
-          "url": "https://api3.cls.cn/share/article/2327808?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时33分 ~ 19时29分]"
-        },
-        {
-          "title": "【风口研报·洞察】创新药板块热情回归，礼来口服减肥药Orforglipron获批在即，分析师指出上市前期通常有一定备货及产能需求集中释放，有望利好产业链相关公司；和谈预期短期难以落地对A股的影响",
-          "url": "https://api3.cls.cn/share/article/2328083?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时34分 ~ 23时32分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "【风口研报·公司】锂电行业上行周期开启，这个中游材料方向头部厂商利用率打满、旺季有望迎来涨价，且积极布局固态电池相关产能；全球乙烯法PVC不可抗力潮，国内电石法龙头有迎价值重塑",
-          "url": "https://api3.cls.cn/share/article/2328061?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时37分]"
-        },
         {
           "title": "【公告全知道】固态电池+光模块+国产芯片+华为！公司光纤阵列单元已在国内头部光模块厂商批量出货",
           "url": "https://api3.cls.cn/share/article/2328076?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            4,
-            10
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时34分 ~ 23时32分]"
+          "time_info": "[00时35分 ~ 00时36分]"
         },
         {
           "title": "中国科学院院士：全固态电池或至少再等5年",
           "url": "https://api3.cls.cn/share/article/2328212?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            5,
-            11
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时34分 ~ 23时32分]"
+          "time_info": "[00时35分 ~ 00时36分]"
         }
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "麦肯锡报告指出人工智能重塑全球贸易格局",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/03/29/7374002d3254447bbb371ba2eabcb9c1.html",
-          "source": "参考消息",
-          "ranks": [
-            4,
-            7,
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时34分 ~ 23时32分]"
-        },
-        {
-          "title": "黄伟曼：止不了渴的人工智能",
-          "url": "https://www.zaochenbao.com/news/opinion/202603/2867943.html",
-          "source": "早报",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 07时38分]"
-        },
-        {
-          "title": "中聚投资(01959.HK)与中美国际控股拟就健康管理、AI应用、平台生态建设及其他相关领域开展合作",
-          "url": "https://www.gelonghui.com/news/5198579",
-          "source": "格隆汇",
-          "ranks": [
-            6,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
+      "keyword_group": "创新药 新药研发 临床三期",
       "match_count": 2,
       "titles": [
         {
-          "title": "【风口研报·公司】与多家重磅客户先后签订多个GW级供货协议，这家公司满足欧洲、北美、亚太等地区的多样化储能需求，技术输出+本地化运营双轮驱动；周策略：A股内在稳定性可能逐步修复，把握中国优势资产",
-          "url": "https://api3.cls.cn/share/article/2328125?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "BD开门红！中国创新药对外授权交易额亮眼 1-3月逼近去年全年一半",
+          "url": "https://www.cls.cn/detail/2327942",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
+        },
+        {
+          "title": "【风口研报·洞察】创新药板块热情回归，礼来口服减肥药Orforglipron获批在即，分析师指出上市前期通常有一定备货及产能需求集中释放，有望利好产业链相关公司；和谈预期短期难以落地对A股的影响",
+          "url": "https://api3.cls.cn/share/article/2328083?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            4,
-            7,
-            17
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时34分]"
-        },
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "【研选】在反内卷的推动下，VC和FEC价格大幅提升，公司提价驱动业绩大幅扭亏；储能系统龙头加快海外市场开拓，已在欧洲、北美、亚太等地区完成销售和服务网络的部署",
-          "url": "https://api3.cls.cn/share/article/2326513?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "【电报解读】“词元”调用量爆发！“Token”最高搜索量相较去年日均搜索量暴增1850%，机构称类OpenClaw产品密集落地将显著拉动云服务与模型调用需求，这家公司境内外的云算力服务已产生营收",
+          "url": "https://api3.cls.cn/share/article/2328206?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克：欧洲人一定会喜欢特斯拉(TSLA.O)的自动驾驶功能。由于欧盟的监管负担极其沉重，这通常会扼杀欧洲的创新，因此，那里的特斯拉车主至今只能使用基本的车道跟随功能。",
-          "url": "https://flash.jin10.com/detail/20260329010123344800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 02时43分]"
-        },
-        {
-          "title": "马斯克：特斯拉人工智能自动驾驶的安全性将比人类驾驶高出10倍以上。",
-          "url": "https://flash.jin10.com/detail/20260329141015916800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "天成半导体成功研制14英寸碳化硅单晶材料",
-          "url": "https://flash.jin10.com/detail/20260329121243205800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            27
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时15分]"
-        },
-        {
-          "title": "天成半导体成功研制14英寸碳化硅单晶材料",
-          "url": "https://api3.cls.cn/share/article/2328045?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "比亚迪去年净利减近19% 王传福：新能源车正经历残酷淘汰赛",
-          "url": "https://www.zaochenbao.com/news/china/202603/2968066.html",
-          "source": "早报",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时34分 ~ 23时32分]"
-        },
-        {
-          "title": "市场血战，比亚迪单车利润见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3768643",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 06时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
-          "url": "https://wallstreetcn.com/articles/3768635",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 07时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DDR5内存降价了！专家：价格将持续下探",
-          "url": "https://flash.jin10.com/detail/20260329142831688800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "王兴兴定义具身智能“GPT时刻”：带机器人到陌生场景，语音指令完成80%以上任务",
-          "url": "https://flash.jin10.com/detail/20260329134244688800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "[00时35分 ~ 00时36分]"
         }
       ]
     },
@@ -592,29 +85,11 @@
           "url": "https://www.gelonghui.com/news/5198618",
           "source": "格隆汇",
           "ranks": [
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时55分 ~ 23时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "雷达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗表示，周六针对以色列的雷达中心和机场等地点进行了打击。",
-          "url": "https://flash.jin10.com/detail/20260329103119322800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
         }
       ]
     },
@@ -624,32 +99,48 @@
       "titles": [
         {
           "title": "DeepSeek崩了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            6,
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时34分 ~ 23时32分]"
+          "time_info": "[00时35分 ~ 00时36分]"
         }
       ]
     },
     {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 1,
       "titles": [
         {
-          "title": "多地光伏项目击穿收益底线，发展模式面临全方位重构",
-          "url": "https://www.cls.cn/detail/2327818",
-          "source": "财联社热门",
+          "title": "麦肯锡报告指出人工智能重塑全球贸易格局",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/03/29/7374002d3254447bbb371ba2eabcb9c1.html",
+          "source": "参考消息",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 07时38分]"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪去年净利减近19% 王传福：新能源车正经历残酷淘汰赛",
+          "url": "https://www.zaochenbao.com/news/china/202603/2968066.html",
+          "source": "早报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
         }
       ]
     }
