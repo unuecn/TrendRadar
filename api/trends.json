@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T06:36:08.436835+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-03-31T07:35:28.965850+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -17,6 +17,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时41分 ~ 06时36分]"
+        },
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
+          "url": "https://www.cls.cn/detail/2329769",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时35分 ~ 07时35分]"
         },
         {
           "title": "小盘股指ETF收跌超1.4%，领跌美股大类资产类ETF，布油基金涨超2.4%",
@@ -32,15 +55,15 @@
           "time_info": "[04时44分 ~ 06时36分]"
         },
         {
-          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
-          "url": "https://www.cls.cn/detail/2329769",
-          "source": "财联社热门",
+          "title": "WTI原油期货价格延续涨势，涨破106美元/桶，日内涨超3%，之前科威特油轮被袭击。 美股期货走低，标普500指数期货现跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3079624",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 06时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "周一（3月30日），存储芯片与硬件供应链指数跌6.94%，报96.83点，小幅高开之后迅速转跌，日内绝大部分时间平缓地持续扩大跌幅。 成分股全线收跌，Rambus收跌11.14%，美光科技跌9.92%，西部数据跌8.60%，Sandisk跌7.04%，泰瑞达、拉姆研究、希捷科技、应用材料跌6.52%-4.17%。 北美科技软件股指数ETF涨0.95%，报77.62美元。 信息科技指数跌3.75%，报244.90点。 人工智能（AI）赢家指数跌3.93%，报259.19点。 AI软件先驱指数涨1.02%，报91.46点。",
@@ -52,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "美股三大指数涨跌不一，纳指跌0.7%，房利美、房地美飙升，中概指数跌0.36%",
+          "url": "https://www.gelonghui.com/news/5200262",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 美光大跌近10%",
@@ -191,6 +225,23 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "锚定新能源和算力两大赛道，50亿元级项目屡见不鲜",
+          "url": "https://wallstreetcn.com/livenews/3079608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 1,
       "titles": [
@@ -201,7 +252,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         }
@@ -219,11 +270,12 @@
             14,
             13,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时06分 ~ 06时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 07时35分]"
         }
       ]
     },
@@ -257,8 +309,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时06分 ~ 06时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 07时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "改良钙钛矿太阳能电池兼具高效和稳定性",
+          "url": "https://api3.cls.cn/share/article/2329801?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         }
       ]
     },
@@ -293,8 +362,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时06分 ~ 06时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 07时35分]"
         }
       ]
     },
