@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-03-31T04:44:22.932906+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-03-31T05:42:05.907284+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "财联社3月31日电，美联储官员威廉姆斯表示，若人工智能领域活跃度下降，美国经济增长将不再那么强劲。",
+          "url": "https://api3.cls.cn/share/article/2329762?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 05时42分]"
+        },
+        {
+          "title": "美联储威廉姆斯：人工智能应该创造大量就业岗位，应让人们为这些岗位做好准备。",
+          "url": "https://flash.jin10.com/detail/20260331042636136800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 05时42分]"
+        },
+        {
+          "title": "美联储威廉姆斯：人工智能活动减弱将导致经济增长乏力。",
+          "url": "https://flash.jin10.com/detail/20260331044951046800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 05时42分]"
+        },
+        {
+          "title": "美联储威廉姆斯：难以预测人工智能在未来几年将如何发展。",
+          "url": "https://flash.jin10.com/detail/20260331043947071800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 05时42分]"
+        },
+        {
+          "title": "财联社3月30日电，谷歌公司称，人工智能电池预测功能现已在美国超过15个品牌的数百款电动汽车车型上推出，更多车型即将上线。",
+          "url": "https://api3.cls.cn/share/article/2329683?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 05时42分]"
+        },
+        {
+          "title": "小盘股指ETF收跌超1.4%，领跌美股大类资产类ETF，布油基金涨超2.4%",
+          "url": "https://wallstreetcn.com/livenews/3079573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时42分]"
+        },
+        {
+          "title": "周一（3月30日），存储芯片与硬件供应链指数跌6.94%，报96.83点，小幅高开之后迅速转跌，日内绝大部分时间平缓地持续扩大跌幅。 成分股全线收跌，Rambus收跌11.14%，美光科技跌9.92%，西部数据跌8.60%，Sandisk跌7.04%，泰瑞达、拉姆研究、希捷科技、应用材料跌6.52%-4.17%。 北美科技软件股指数ETF涨0.95%，报77.62美元。 信息科技指数跌3.75%，报244.90点。 人工智能（AI）赢家指数跌3.93%，报259.19点。 AI软件先驱指数涨1.02%，报91.46点。",
+          "url": "https://wallstreetcn.com/livenews/3079581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 美光大跌近10%",
+          "url": "https://flash.jin10.com/detail/20260331040226554800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        }
+      ]
+    },
     {
       "keyword_group": "英特尔 高通",
       "match_count": 3,
@@ -24,11 +137,12 @@
           "url": "https://wallstreetcn.com/livenews/3079563",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时42分]"
         },
         {
           "title": "美联储威廉姆斯：战争可能既推高通胀，又抑制经济增长。",
@@ -37,65 +151,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小盘股指ETF收跌超1.4%，领跌美股大类资产类ETF，布油基金涨超2.4%",
-          "url": "https://wallstreetcn.com/livenews/3079573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 美光大跌近10%",
-          "url": "https://flash.jin10.com/detail/20260331040226554800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美联储威廉姆斯：人工智能应该创造大量就业岗位，应让人们为这些岗位做好准备。",
-          "url": "https://flash.jin10.com/detail/20260331042636136800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        },
-        {
-          "title": "财联社3月30日电，谷歌公司称，人工智能电池预测功能现已在美国超过15个品牌的数百款电动汽车车型上推出，更多车型即将上线。",
-          "url": "https://api3.cls.cn/share/article/2329683?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时06分"
+          "time_info": "04时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（3月30日）纽约尾盘，现货黄金涨0.22%，报4503.88美元/盎司，北京时间08:13跌至4420.14刷新日低，随后持续走高，19:51刷新日高至4580.64美元。 COMEX黄金期货涨0.17%，报4531.90美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3079582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     },
@@ -113,8 +188,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 04时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 05时42分]"
         }
       ]
     },
@@ -148,8 +223,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 04时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 05时42分]"
         }
       ]
     },
@@ -162,11 +237,12 @@
           "url": "https://wallstreetcn.com/livenews/3079562",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时42分]"
         }
       ]
     },
@@ -183,8 +259,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 04时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 05时42分]"
         }
       ]
     },
