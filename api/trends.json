@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T12:59:02.802847+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-03-31T14:24:08.344784+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
@@ -59,7 +59,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -133,11 +133,12 @@
           "ranks": [
             10,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时35分 ~ 12时59分]"
+          "appearance_count": 8,
+          "time_info": "[06时35分 ~ 14时24分]"
         },
         {
           "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -148,8 +149,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 12时59分]"
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 14时24分]"
         },
         {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -223,8 +224,19 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "报告：2025年中国线路板产业投资同比增长约3% AI算力PCB成增长核心引擎",
+          "url": "https://api3.cls.cn/share/article/2330239?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 14时24分]"
+        },
         {
           "title": "宏明电子：在算力服务器领域公司相关结构件产品已在国内头部产业链客户完成验证",
           "url": "https://api3.cls.cn/share/article/2330159?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -235,6 +247,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "报告：2025年中国线路板产业投资同比增长约3% AI算力PCB成增长核心引擎",
+          "url": "https://wallstreetcn.com/livenews/3079868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "锚定新能源和算力两大赛道，50亿元级项目屡见不鲜",
@@ -254,9 +277,72 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "比亚迪2026年汽车出口目标据报上调15%至150 万辆",
+          "url": "https://www.zaochenbao.com/news/china/202603/3068153.html",
+          "source": "早报",
+          "ranks": [
+            7,
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 10时23分]"
+        },
+        {
+          "title": "大行评级丨美银：下调比亚迪电子目标价至31.5港元，维持“中性”评级",
+          "url": "https://www.gelonghui.com/news/5200408",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 14时24分]"
+        },
+        {
+          "title": "招商证券(香港)：维持比亚迪股份买入评级 目标价125港元",
+          "url": "https://api3.cls.cn/share/article/2330245?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 14时24分]"
+        },
+        {
+          "title": "大行评级丨里昂：下调比亚迪电子目标价至33.3港元，下调盈利预测",
+          "url": "https://www.gelonghui.com/news/5200403",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 14时24分]"
+        },
+        {
+          "title": "国行版苹果AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
@@ -303,6 +389,98 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32862408",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12,
+            10,
+            8,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时06分 ~ 14时24分]"
+        },
+        {
+          "title": "A股机器人概念股探底回升，通力科技、襄阳轴承双双涨停，南方精工、长盛轴承、中大力德等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3079861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药 新药研发 临床三期",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "一季度BD交易超600亿美元！创新药ETF天弘(517380)标的指数盘中涨超2%，冲击三连阳，生物医药ETF天弘(159859)规模创历史新高",
+          "url": "https://www.gelonghui.com/news/5200341",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "创新药概念午后再度活跃 海创药业涨超11%",
+          "url": "https://api3.cls.cn/share/article/2330232?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 14时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "独家|中国商业航天重大突破！力箭二号首飞成功 成本直追SpaceX",
+          "url": "https://www.cls.cn/detail/2329372",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 07时35分]"
+        },
+        {
+          "title": "宁波商业航天产业基地项目将于4月开启招标，预计总投资额86.6亿",
+          "url": "https://wallstreetcn.com/livenews/3079856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 2,
       "titles": [
@@ -323,36 +501,6 @@
           "source": "财联社电报",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "比亚迪2026年汽车出口目标据报上调15%至150 万辆",
-          "url": "https://www.zaochenbao.com/news/china/202603/3068153.html",
-          "source": "早报",
-          "ranks": [
-            7,
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时06分 ~ 10时23分]"
-        },
-        {
-          "title": "国行版苹果AI",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -396,29 +544,6 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32862408",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            10,
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时06分 ~ 12时59分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "储能",
       "match_count": 1,
       "titles": [
@@ -453,23 +578,6 @@
       ]
     },
     {
-      "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一季度BD交易超600亿美元！创新药ETF天弘(517380)标的指数盘中涨超2%，冲击三连阳，生物医药ETF天弘(159859)规模创历史新高",
-          "url": "https://www.gelonghui.com/news/5200341",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "雷达",
       "match_count": 1,
       "titles": [
@@ -483,24 +591,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "独家|中国商业航天重大突破！力箭二号首飞成功 成本直追SpaceX",
-          "url": "https://www.cls.cn/detail/2329372",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 07时35分]"
         }
       ]
     },
