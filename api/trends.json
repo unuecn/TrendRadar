@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T14:24:08.344784+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-03-31T15:51:47.090152+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
@@ -124,7 +124,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
@@ -137,8 +137,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时35分 ~ 14时24分]"
+          "appearance_count": 9,
+          "time_info": "[06时35分 ~ 15时51分]"
         },
         {
           "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -149,8 +149,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时35分 ~ 14时24分]"
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 15时51分]"
         },
         {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -219,13 +219,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "新台币兑美元一度扩大涨幅至逾0.3%，逆转稍早盘中跌势。",
+          "url": "https://wallstreetcn.com/livenews/3079930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         }
       ]
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "华丰股份(605100.SH)：智能化发电机组作为备用电源，可应用于算力/智算中心",
+          "url": "https://www.gelonghui.com/news/5200453",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
         {
           "title": "报告：2025年中国线路板产业投资同比增长约3% AI算力PCB成增长核心引擎",
           "url": "https://api3.cls.cn/share/article/2330239?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -255,7 +277,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -285,7 +307,7 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "比亚迪2026年汽车出口目标据报上调15%至150 万辆",
@@ -343,6 +365,74 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
+          "url": "https://wallstreetcn.com/livenews/3079932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32862408",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12,
+            10,
+            8,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时06分 ~ 15时51分]"
+        },
+        {
+          "title": "PS仅7.84倍，机构看涨超80%！极智嘉（2590.HK）被错杀的机器人龙头",
+          "url": "https://www.gelonghui.com/news/5200450",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
+          "title": "华昌达(300278.SZ)：与宇树机器人暂无业务合作",
+          "url": "https://www.gelonghui.com/news/5200444",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
+          "title": "A股机器人概念股探底回升，通力科技、襄阳轴承双双涨停，南方精工、长盛轴承、中大力德等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3079861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         }
       ]
     },
@@ -385,41 +475,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32862408",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            10,
-            8,
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 14时24分]"
-        },
-        {
-          "title": "A股机器人概念股探底回升，通力科技、襄阳轴承双双涨停，南方精工、长盛轴承、中大力德等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3079861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
         }
       ]
     },
@@ -474,7 +529,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         }
@@ -523,6 +578,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "液冷",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新莱应材(300260.SZ)：液冷CDU产品主要应用于数据中心液冷系统",
+          "url": "https://www.gelonghui.com/news/5200445",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         }
       ]
     },
