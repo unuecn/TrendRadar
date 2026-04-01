@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T14:59:25.818093+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2026-04-01T16:19:34.152179+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -131,7 +131,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -227,11 +227,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 14时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时19分]"
         },
         {
           "title": "周三你需要知道的隔夜全球要闻：伊朗总统释放停战意愿，国际油价回落，纳指大涨3.8%；OpenAI估值达8520亿美元",
@@ -327,8 +328,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时59分 ~ 14时59分]"
+          "appearance_count": 7,
+          "time_info": "[06时59分 ~ 16时19分]"
         },
         {
           "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
@@ -414,11 +415,12 @@
           "ranks": [
             14,
             23,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时34分 ~ 14时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时34分 ~ 16时19分]"
         },
         {
           "title": "华为2025年营收、净利润温和增长，智能汽车收入大增 72%、云计算小幅下滑 | 财报见闻",
@@ -533,7 +535,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -572,7 +574,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -674,59 +676,8 @@
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "业绩喜报频传，锂价稳站“舒适区”，碳酸锂行业或迎新变化",
-          "url": "https://wallstreetcn.com/livenews/3080412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 07时41分]"
-        },
-        {
-          "title": "广期所碳酸锂主力合约大跌5%，报154720元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3080670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
-          "title": "锂价稳站“舒适区” 碳酸锂行业或迎新变化",
-          "url": "https://api3.cls.cn/share/article/2331331?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时59分"
-        },
-        {
-          "title": "财联社4月1日电，广期所碳酸锂主力合约大跌5%，报154720元/吨。",
-          "url": "https://api3.cls.cn/share/article/2331887?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中东冲突结束有望，AI领衔反攻！创业板人工智能ETF华夏(159381)飙涨3.48%，科创人工智能ETF华夏(589010)连续4日“吸金”",
@@ -752,6 +703,17 @@
           "time_info": "[06时59分 ~ 07时41分]"
         },
         {
+          "title": "苏州工业园区人工智能发展公司增资至5.5亿",
+          "url": "https://api3.cls.cn/share/article/2332019?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "港股AI应用股走强，智谱涨15%、MINIMAX-W涨9.74%、迅策涨8.66%。",
           "url": "https://wallstreetcn.com/livenews/3080511",
           "source": "华尔街见闻-快讯",
@@ -765,8 +727,59 @@
       ]
     },
     {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "业绩喜报频传，锂价稳站“舒适区”，碳酸锂行业或迎新变化",
+          "url": "https://wallstreetcn.com/livenews/3080412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 07时41分]"
+        },
+        {
+          "title": "广期所碳酸锂主力合约大跌5%，报154720元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3080670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "锂价稳站“舒适区” 碳酸锂行业或迎新变化",
+          "url": "https://api3.cls.cn/share/article/2331331?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "财联社4月1日电，广期所碳酸锂主力合约大跌5%，报154720元/吨。",
+          "url": "https://api3.cls.cn/share/article/2331887?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄金ETF收跌将近3.8%，领跌美股大类资产类ETF，一季度布油基金涨超83%",
@@ -789,6 +802,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "金价急跌急涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E8%B7%8C%E6%80%A5%E6%B6%A8%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
@@ -848,6 +872,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本央行新任审议委员浅田统一郎：希望避免就具体立场发表评论。 政策组合能够克服严峻的经济形势。 毫无疑问，高油价将推高通胀。 若出现滞胀将难以应对。 对日本央行结束通缩的政策予以积极评价。 希望避免对近期日本央行政策进行评估。",
+          "url": "https://wallstreetcn.com/livenews/3080742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "美联储官员：美以伊冲突或致美国持续高通胀",
+          "url": "https://api3.cls.cn/share/article/2331263?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         }
       ]
     },
@@ -947,7 +999,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         }
@@ -985,23 +1037,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 07时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英特尔 高通",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美联储官员：美以伊冲突或致美国持续高通胀",
-          "url": "https://api3.cls.cn/share/article/2331263?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
         }
       ]
     }
