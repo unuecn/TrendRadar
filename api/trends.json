@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T01:50:17.595352+08:00",
-  "total_titles_processed": 284,
+  "generated_at": "2026-04-03T02:57:20.748156+08:00",
+  "total_titles_processed": 343,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时57分]"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
@@ -48,11 +48,12 @@
           "url": "https://www.cls.cn/detail/2333537",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 02时57分]"
         },
         {
           "title": "英伟达(NVDA.O)和谷歌(GOOG.O)合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
@@ -64,6 +65,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "市场消息：OpenAI收购TBPN。",
+          "url": "https://flash.jin10.com/detail/20260403012712890800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 02时57分]"
+        },
+        {
+          "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3081739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 02时57分]"
+        },
+        {
+          "title": "财联社4月3日电，OpenAI据悉收购科技行业播客节目《TBPN》。",
+          "url": "https://api3.cls.cn/share/article/2334024?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
+          "url": "https://flash.jin10.com/detail/20260403014329436800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         }
       ]
     },
@@ -80,8 +133,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时57分]"
         },
         {
           "title": "歌尔股份(002241.SZ)：目前暂未涉及人形机器人相关业务",
@@ -91,8 +144,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时57分]"
         },
         {
           "title": "【季报高增长】机器人+养老，一季度净利润环比最高增长超130%！这家公司致力于机器人领域研发，覆盖从研发到量产的全链条能力，未来三年将交付1250台涉及护理陪伴等多场景的智能机器人产品",
@@ -100,6 +153,34 @@
           "source": "财联社电报",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 4月2日（周四）晚盘收盘下跌0.04%报1033.0元/克；<br/>上海黄金交易所白银T+D 4月2日（周四）晚盘收盘上涨0.49%报17944.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260403023044891800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "伊朗媒体Fars News列出科威特、沙特阿拉伯、阿布扎比和约旦的多座桥梁，称其为伊朗军事行动的潜在目标。 布伦特原油5分钟内下跌0.54美元/桶，报106.9美元/桶。 现货黄金5分钟内上涨10.61美元/盎司，报4674.47美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3081699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -117,11 +198,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时57分]"
         },
         {
           "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
@@ -138,34 +220,6 @@
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：OpenAI收购TBPN。",
-          "url": "https://flash.jin10.com/detail/20260403012712890800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3081739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 2,
       "titles": [
@@ -177,8 +231,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时57分]"
         },
         {
           "title": "美媒：中国开源战略正重塑人工智能竞赛",
@@ -188,8 +242,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时57分]"
         }
       ]
     },
@@ -205,8 +259,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时57分]"
         },
         {
           "title": "小米集团调整子公司股东，雷军持股比例增加",
@@ -214,23 +268,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗媒体Fars News列出科威特、沙特阿拉伯、阿布扎比和约旦的多座桥梁，称其为伊朗军事行动的潜在目标。 布伦特原油5分钟内下跌0.54美元/桶，报106.9美元/桶。 现货黄金5分钟内上涨10.61美元/盎司，报4674.47美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3081699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -250,8 +287,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时57分]"
         }
       ]
     },
@@ -267,8 +304,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时57分]"
         }
       ]
     }
