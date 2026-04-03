@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T21:04:00.589922+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2026-04-03T22:12:32.483080+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "工信部首提“算力银行”“算力超市” 降低中小企业用算门槛",
@@ -112,6 +112,18 @@
           "time_info": "[00时56分 ~ 01时50分]"
         },
         {
+          "title": "【每日收评】沪指失守3900点，全市场超4700股收跌，算力硬件股逆势活跃",
+          "url": "https://www.cls.cn/detail/2334736",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 22时12分]"
+        },
+        {
           "title": "ETF午评 | A股跌破3900点，AI算力板块走高，通信ETF国泰、通信ETF富国涨超3%",
           "url": "https://www.gelonghui.com/news/5203751",
           "source": "格隆汇",
@@ -122,18 +134,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时41分 ~ 14时12分]"
-        },
-        {
-          "title": "【每日收评】沪指失守3900点，全市场超4700股收跌，算力硬件股逆势活跃",
-          "url": "https://www.cls.cn/detail/2334736",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 19时38分]"
         },
         {
           "title": "财联社4月3日电，英伟达与谷歌合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
@@ -345,12 +345,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "并行科技：拟采购不超过1.02亿元交换机等网络设备和不超过4624万元GPU算力服务器",
+          "url": "https://api3.cls.cn/share/article/2335077?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中亦科技(301208.SZ)：与华为云、阿里云、腾讯云等厂商在涉及IT基础架构的产品和服务领域一直进行着深入合作",
@@ -363,6 +374,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时56分 ~ 07时35分]"
+        },
+        {
+          "title": "小米法务部：已帮助66位车主向法院成功立案 民事诉讼案取得首个胜诉判决",
+          "url": "https://api3.cls.cn/share/article/2335107?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "纳指小幅收涨0.18% 特斯拉跌超5%",
@@ -809,6 +831,20 @@
           "time_info": "[00时56分 ~ 17时53分]"
         },
         {
+          "title": "工信部紧急提醒苹果用户",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            2,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时43分 ~ 22时12分]"
+        },
+        {
           "title": "苹果高价囤积移动DRAM，联发科、三星已受影响",
           "url": "https://wallstreetcn.com/livenews/3081994",
           "source": "华尔街见闻-快讯",
@@ -840,19 +876,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
-        },
-        {
-          "title": "工信部紧急提醒苹果用户",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时43分 ~ 21时04分]"
         },
         {
           "title": "苹果第8号员工",
@@ -996,11 +1019,12 @@
             4,
             5,
             14,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 21时04分]"
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 22时12分]"
         },
         {
           "title": "法拉第未来(FFIE.O)：迄今为止交付的FX Aegis机器人现在可以转换为正式交付，该系列机器人起售价为2490美元。",
@@ -1039,7 +1063,7 @@
     },
     {
       "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "格隆汇公告精选︱松霖科技：一季度净利润预增100.20%到141.99%；津药药业：目前研发以仿制药为主，无在研创新药项目",
@@ -1096,6 +1120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "6连板暴涨76%后，“创新药”明星紧急降温！| 盘后公告精选",
+          "url": "https://flash.jin10.com/detail/20260403211735377800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
@@ -1113,11 +1148,12 @@
             9,
             10,
             18,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时43分 ~ 21时04分]"
+          "appearance_count": 8,
+          "time_info": "[15时43分 ~ 22时12分]"
         },
         {
           "title": "美军沙特基地一“萨德”反导雷达在伊朗袭击中受损",
@@ -1184,8 +1220,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时41分 ~ 21时04分]"
+          "appearance_count": 11,
+          "time_info": "[12时41分 ~ 22时12分]"
         },
         {
           "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
@@ -1306,11 +1342,12 @@
           "url": "https://wallstreetcn.com/livenews/3082216",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 22时12分]"
         },
         {
           "title": "储能电芯供不应求：订单排期至明年，企业加速扩产应对需求爆发",
@@ -1468,6 +1505,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "贝泰妮(300957.SZ)：公司目前没有与英伟达、微软开展合作",
+          "url": "https://www.gelonghui.com/news/5204285",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "摩根大通：AI需求“挤爆”先进制程 台积电Q1毛利率或超预期上行",
+          "url": "https://api3.cls.cn/share/article/2335094?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
