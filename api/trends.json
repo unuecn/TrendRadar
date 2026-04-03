@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T12:42:07.188445+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-04-03T14:12:45.251005+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "工信部首提“算力银行”“算力超市” 降低中小企业用算门槛",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 10时14分]"
+        },
+        {
+          "title": "算力太紧俏！英伟达四年前发布的H100租赁费用近半年飙升近40%",
+          "url": "https://www.cls.cn/detail/2334039",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 14时12分]"
         },
         {
           "title": "工信部：到2028年底显著降低中小企业获取、使用算力门槛",
@@ -54,16 +66,15 @@
           "time_info": "10时14分"
         },
         {
-          "title": "算力太紧俏！英伟达四年前发布的H100租赁费用近半年飙升近40%",
-          "url": "https://www.cls.cn/detail/2334039",
-          "source": "财联社热门",
+          "title": "A股算力租赁板块直线拉升，直真科技、思特奇、云赛智联涨停，东方国信、中贝通信、艾可蓝、嘉环科技、紫光股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3081988",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 12时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
@@ -82,11 +93,12 @@
           "url": "https://www.gelonghui.com/news/5203751",
           "source": "格隆汇",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 14时12分]"
         },
         {
           "title": "财联社4月3日电，英伟达与谷歌合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
@@ -121,6 +133,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "A股算力租赁板块短线拉升，直真科技、思特奇、云赛智联涨停，东方国信、中贝通信、艾可蓝、嘉环科技、紫光股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260403134355865800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "英伟达(NVDA.O)和谷歌(GOOG.O)合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
@@ -192,22 +215,24 @@
           "url": "https://www.cls.cn/detail/2334126",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 14时12分]"
         },
         {
           "title": "小米调价",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%B0%83%E4%BB%B7%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 14时12分]"
         },
         {
           "title": "特斯拉收跌5.44%，创2025年11月以来最大单日跌幅。",
@@ -284,8 +309,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时31分 ~ 12时42分]"
+          "appearance_count": 6,
+          "time_info": "[06时31分 ~ 14时12分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -333,6 +358,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美媒：中国开源战略正重塑人工智能竞赛",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/04/02/75c69c8682134effbd3988b6fb9580e9.html",
+          "source": "参考消息",
+          "ranks": [
+            24,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 12时42分]"
+        },
+        {
+          "title": "涪陵榨菜(002507.SZ)：目前未涉及人工智能技术参与生产环节",
+          "url": "https://www.gelonghui.com/news/5203468",
+          "source": "格隆汇",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 07时35分]"
+        },
+        {
+          "title": "财联社4月3日电，泰国能源供应商Gulf Development表示，与Kore.ai就泰国企业级人工智能解决方案开发签署合作协议。",
+          "url": "https://api3.cls.cn/share/article/2334445?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-04-03）",
+          "url": "https://flash.jin10.com/detail/20260403120207270800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "韩国总统李在明：韩法两国寻求在人工智能、半导体和量子技术领域加强合作。",
+          "url": "https://flash.jin10.com/detail/20260403115750187800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "泰国能源供应商Gulf Development：与Kore.ai就泰国企业级人工智能解决方案开发签署合作协议。",
+          "url": "https://flash.jin10.com/detail/20260403135445999800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         }
       ]
     },
@@ -438,8 +538,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 14时12分]"
         },
         {
           "title": "财联社4月3日电，OpenAI据悉收购科技行业播客节目《TBPN》。",
@@ -462,6 +562,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "西媒：苹果创建50周年面临两大挑战",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/04/02/db81084586434b0f9e0fea6694d6d2b5.html",
+          "source": "参考消息",
+          "ranks": [
+            14,
+            15,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 14时12分]"
+        },
+        {
+          "title": "苹果高价囤积移动DRAM，联发科、三星已受影响",
+          "url": "https://wallstreetcn.com/livenews/3081994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "苹果公司被曝正在以极高价格收购市面上所有可用移动DRAM芯片",
+          "url": "https://api3.cls.cn/share/article/2334446?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "苹果被曝高价扫货移动DRAM",
+          "url": "https://flash.jin10.com/detail/20260403140538322800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "苹果第8号员工",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%AC%AC8%E5%8F%B7%E5%91%98%E5%B7%A5%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     },
@@ -507,64 +671,51 @@
           "url": "https://wallstreetcn.com/livenews/3081960",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 14时12分]"
         }
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美媒：中国开源战略正重塑人工智能竞赛",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/04/02/75c69c8682134effbd3988b6fb9580e9.html",
-          "source": "参考消息",
+          "title": "A股商业航天板块午后下挫，中衡设计跌停，飞沃科技跌超10%，中超控股跌超9%，神剑股份、广联航空、巨力索具、航天宏图跟跌。此前天龙三号运载火箭发射失利。",
+          "url": "https://wallstreetcn.com/livenews/3081979",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            25,
-            28
+            10
           ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 12时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
-          "title": "涪陵榨菜(002507.SZ)：目前未涉及人工智能技术参与生产环节",
-          "url": "https://www.gelonghui.com/news/5203468",
-          "source": "格隆汇",
+          "title": "商业航天概念持续调整 飞沃科技跌超10%",
+          "url": "https://api3.cls.cn/share/article/2334418?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            6,
-            7
+            14
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-04-03）",
-          "url": "https://flash.jin10.com/detail/20260403120207270800",
-          "source": "金十数据",
+          "title": "宏明电子：公司部分电子元器件已应用于商业航天领域",
+          "url": "https://wallstreetcn.com/livenews/3081973",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
-        },
-        {
-          "title": "韩国总统李在明：韩法两国寻求在人工智能、半导体和量子技术领域加强合作。",
-          "url": "https://flash.jin10.com/detail/20260403115750187800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         }
       ]
     },
@@ -655,36 +806,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "西媒：苹果创建50周年面临两大挑战",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/04/02/db81084586434b0f9e0fea6694d6d2b5.html",
-          "source": "参考消息",
-          "ranks": [
-            14,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 12时42分]"
-        },
-        {
-          "title": "苹果第8号员工",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%AC%AC8%E5%8F%B7%E5%91%98%E5%B7%A5%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "储能",
       "match_count": 1,
       "titles": [
@@ -746,7 +867,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         }
