@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-05T15:38:56.754589+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-04-05T16:42:58.271088+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 6,
       "titles": [
-        {
-          "title": "卫星图像公司应美国要求 停止提供中东地区卫星图像",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0568594.html",
-          "source": "早报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
         {
           "title": "应美国政府要求 “星球实验室”无限期暂停发布伊朗战事卫星影像",
           "url": "https://api3.cls.cn/share/article/2335485?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -43,6 +32,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时01分 ~ 15时38分]"
+        },
+        {
+          "title": "卫星图像公司应美国要求 停止提供中东地区卫星图像",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0568594.html",
+          "source": "早报",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 16时42分]"
         },
         {
           "title": "应美国政府要求 “星球实验室”无限期暂停发布伊朗战事卫星影像",
@@ -139,19 +140,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时28分 ~ 15时38分]"
+          "appearance_count": 5,
+          "time_info": "[10时28分 ~ 16时42分]"
         },
         {
           "title": "油价暴涨金价大跌",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E6%9A%B4%E6%B6%A8%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 16时42分]"
         }
       ]
     },
@@ -180,6 +182,37 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 00时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美媒文章：伊朗战争成“第一场人工智能战争”",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/04/04/198d66f82ac348d1b20e0cc07b4f780f.html",
+          "source": "参考消息",
+          "ranks": [
+            12,
+            19,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时35分 ~ 16时42分]"
+        },
+        {
+          "title": "鸿海：仍需密切关注动荡的全球政治经济形势所带来的影响。富士康：人工智能机柜预计将保持持续增长态势。",
+          "url": "https://flash.jin10.com/detail/20260405153339263800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     },
@@ -243,25 +276,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美媒文章：伊朗战争成“第一场人工智能战争”",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/04/04/198d66f82ac348d1b20e0cc07b4f780f.html",
-          "source": "参考消息",
-          "ranks": [
-            12,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时35分 ~ 15时38分]"
         }
       ]
     },
