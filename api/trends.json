@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T07:41:06.524485+08:00",
-  "total_titles_processed": 333,
+  "generated_at": "2026-04-05T10:28:33.428777+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -84,11 +84,12 @@
           "url": "https://www.zaochenbao.com/news/china/202604/0468546.html",
           "source": "早报",
           "ranks": [
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 07时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 10时28分]"
         },
         {
           "title": "永东股份(002753.SZ)：目前没有与宁德时代或者比亚迪有业务合作",
@@ -100,6 +101,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 00时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "洪灝：黄金会继续下跌，之后向上，可以翻倍，但不是今年；A股可能继续跌到3800，之后上涨",
+          "url": "https://wallstreetcn.com/articles/3769263",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     },
@@ -121,6 +139,23 @@
       ]
     },
     {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网传OpenAI“股权结构表”：微软“130亿美元投资”已升至“2283亿美元”",
+          "url": "https://wallstreetcn.com/articles/3769250",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 1,
       "titles": [
@@ -132,8 +167,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 07时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 10时28分]"
         }
       ]
     },
