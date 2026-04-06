@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-07T00:47:13.276966+08:00",
-  "total_titles_processed": 224,
+  "generated_at": "2026-04-07T01:44:24.966063+08:00",
+  "total_titles_processed": 298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 4,
       "titles": [
-        {
-          "title": "财联社4月7日电，特斯拉跌幅扩大至2.5%，此前摩根大通下调对特斯拉的盈利预测。",
-          "url": "https://api3.cls.cn/share/article/2335920?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
         {
           "title": "摩根大通下调对特斯拉的盈利预测，建议投资者应谨慎行事",
           "url": "https://www.gelonghui.com/news/5204557",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时44分]"
         },
         {
           "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
@@ -39,6 +28,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "财联社4月7日电，特斯拉跌幅扩大至2.5%，此前摩根大通下调对特斯拉的盈利预测。",
+          "url": "https://api3.cls.cn/share/article/2335920?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时44分]"
         },
         {
           "title": "摩根大通下调对特斯拉的盈利预测",
@@ -62,22 +63,24 @@
           "url": "https://api3.cls.cn/share/article/2335917?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时44分]"
         },
         {
           "title": "报道：OpenAI计划最早今年四季度IPO",
           "url": "https://wallstreetcn.com/livenews/3082897",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时44分]"
         },
         {
           "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
@@ -94,18 +97,19 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国媒体：苹果首款折叠屏手机已在试产",
           "url": "https://www.zaochenbao.com/news/china/202604/0668695.html",
           "source": "早报",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时44分]"
         },
         {
           "title": "假期要闻汇总：特朗普称与伊朗协议有望在7日最后期限前达成；苹果首款折叠屏手机已在试产",
@@ -115,14 +119,25 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时44分]"
+        },
+        {
+          "title": "分析师：苹果股价或将激增20%，MacBook Neo可能成为关键催化剂",
+          "url": "https://wallstreetcn.com/livenews/3082903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "01时44分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股三大指数涨跌不一，存储概念股高开",
@@ -132,8 +147,47 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时44分]"
+        },
+        {
+          "title": "标普500指数目前涨0.32%，布伦特原油跌破109美元/桶关口，报108.94美元/桶。 伊朗最高领袖穆杰塔巴称，（美国和以色列的）“暗杀和犯罪行为”不会扰乱伊朗武装部队。",
+          "url": "https://wallstreetcn.com/livenews/3082902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "01时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "以太坊短线从2160美元上方回落至接近2131美元的水平，日内涨幅收窄至3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3082908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "数字货币市场至少涨超3.4%，比特币涨超4%突破7万美元关口，以太币维持超过4%的涨幅",
+          "url": "https://wallstreetcn.com/livenews/3082905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
         }
       ]
     },
@@ -149,8 +203,25 @@
             27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "财联社4月7日电，Meta据悉将开放其最新人工智能模型的源代码版本。",
+          "url": "https://api3.cls.cn/share/article/2335924?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "01时44分"
         }
       ]
     },
@@ -166,8 +237,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时44分]"
         }
       ]
     }
