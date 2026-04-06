@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T20:06:25.858736+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-04-06T21:52:32.578360+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -139,7 +139,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -186,17 +186,6 @@
           "time_info": "07时58分"
         },
         {
-          "title": "比特币一度上涨逾3.5%，站上7万美元/枚。",
-          "url": "https://wallstreetcn.com/livenews/3082822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
           "title": "财联社4月6日电，加密货币走高，行情显示，比特币涨至68484.4美元，过去24小时内涨1.67%；以太坊涨至2091.06美元，过去24小时内涨1.2%。",
           "url": "https://api3.cls.cn/share/article/2335620?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -206,6 +195,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "比特币一度上涨逾3.5%，站上7万美元/枚。",
+          "url": "https://wallstreetcn.com/livenews/3082822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 21时52分]"
         },
         {
           "title": "比特币维持0.7%的跌幅，暂报66786美元。 福克斯新闻披露的电话采访信息显示，美国总统特朗普声称，如果不达成伊朗协议，将攫取伊朗石油。 特朗普可以在明天（结束）之前与伊朗达成协议。 伊朗的谈判人员们暂时获得（被美国和以色列杀害的）“赦免”。 如果不“迅速”达成伊朗协议，考虑“破坏一切”。",
@@ -233,8 +234,69 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股三大指数涨跌不一，存储概念股高开",
+          "url": "https://www.gelonghui.com/news/5204553",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球科技股指数ETF、半导体ETF涨近1%，医疗业ETF跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3082847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨约0.6%，报80.88美元，随后转而下跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3082846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美股三大指数开盘涨跌不一 希捷科技涨5%",
+          "url": "https://api3.cls.cn/share/article/2335869?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美股三大股指开盘涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260406213037860800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "苹果首款折叠屏手机已在试产",
@@ -281,6 +343,60 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时53分 ~ 18时09分]"
+        },
+        {
+          "title": "假期要闻汇总：特朗普称与伊朗协议有望在7日最后期限前达成；苹果首款折叠屏手机已在试产",
+          "url": "https://www.cls.cn/detail/2335705",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国推动建设普惠算力服务体系",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/04/06/a8d227dd0aa14fdcabef446e62cf598f.html",
+          "source": "参考消息",
+          "ranks": [
+            6,
+            13,
+            17,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时28分 ~ 21时52分]"
+        },
+        {
+          "title": "【财联社早知道】破纪录！发布仅一天的阿里千问3.6Plus大模型日调用量突破1.4万亿Token，机构称国内算力厂商进入业绩临界点，这家公司可为客户提供\"AI液冷+绿色能源\"的整体解决方案",
+          "url": "https://api3.cls.cn/share/article/2335127?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "【季报高增长】半导体+华为哈勃，一季度净利润同比暴增超6倍！这家公司受益于全球AI算力芯片测试需求快速增长，叠加行业整体景气上行周期，旗下成熟产品订单持续放量",
+          "url": "https://api3.cls.cn/share/article/2335848?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     },
@@ -314,33 +430,30 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
       "match_count": 2,
       "titles": [
         {
-          "title": "中国推动建设普惠算力服务体系",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/04/06/a8d227dd0aa14fdcabef446e62cf598f.html",
-          "source": "参考消息",
-          "ranks": [
-            6,
-            13,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时28分 ~ 20时06分]"
-        },
-        {
-          "title": "【财联社早知道】破纪录！发布仅一天的阿里千问3.6Plus大模型日调用量突破1.4万亿Token，机构称国内算力厂商进入业绩临界点，这家公司可为客户提供\"AI液冷+绿色能源\"的整体解决方案",
-          "url": "https://api3.cls.cn/share/article/2335127?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "我国钠离子电池取得重大突破",
+          "url": "https://api3.cls.cn/share/article/2335878?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            5
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "国轩高科：2GWh全固态电池量产线建设受技术、研发、市场等多项因素影响",
+          "url": "https://wallstreetcn.com/livenews/3082815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时09分"
+          "time_info": "20时06分"
         }
       ]
     },
@@ -386,23 +499,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国轩高科：2GWh全固态电池量产线建设受技术、研发、市场等多项因素影响",
-          "url": "https://wallstreetcn.com/livenews/3082815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
         }
       ]
     },
@@ -471,11 +567,12 @@
             7,
             14,
             18,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时28分 ~ 20时06分]"
+          "appearance_count": 8,
+          "time_info": "[13时28分 ~ 21时52分]"
         }
       ]
     },
