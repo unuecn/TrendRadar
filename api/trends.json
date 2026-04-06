@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T21:52:32.578360+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-04-06T22:47:04.833733+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
@@ -242,33 +242,36 @@
           "url": "https://www.gelonghui.com/news/5204553",
           "source": "格隆汇",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 22时47分]"
         },
         {
           "title": "美股盘初，主要行业ETF涨跌不一，全球科技股指数ETF、半导体ETF涨近1%，医疗业ETF跌0.5%。",
           "url": "https://wallstreetcn.com/livenews/3082847",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 22时47分]"
         },
         {
           "title": "北美科技软件股指数ETF涨约0.6%，报80.88美元，随后转而下跌0.6%。",
           "url": "https://wallstreetcn.com/livenews/3082846",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 22时47分]"
         },
         {
           "title": "美股三大指数开盘涨跌不一 希捷科技涨5%",
@@ -277,7 +280,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -288,7 +291,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         }
@@ -349,11 +352,62 @@
           "url": "https://www.cls.cn/detail/2335705",
           "source": "财联社热门",
           "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 22时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "我国钠离子电池取得重大突破",
+          "url": "https://api3.cls.cn/share/article/2335878?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "我国钠离子电池取得重大突破 彻底阻断热失控",
+          "url": "https://api3.cls.cn/share/article/2335878?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
             13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
+        },
+        {
+          "title": "国轩高科：2GWh全固态电池量产线建设受技术、研发、市场等多项因素影响",
+          "url": "https://wallstreetcn.com/livenews/3082815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
+          "title": "全球首次实现！我国钠离子电池取得重大突破",
+          "url": "https://wallstreetcn.com/livenews/3082851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时52分"
+          "time_info": "22时47分"
         }
       ]
     },
@@ -370,11 +424,12 @@
             13,
             17,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时28分 ~ 21时52分]"
+          "appearance_count": 10,
+          "time_info": "[13时28分 ~ 22时47分]"
         },
         {
           "title": "【财联社早知道】破纪录！发布仅一天的阿里千问3.6Plus大模型日调用量突破1.4万亿Token，机构称国内算力厂商进入业绩临界点，这家公司可为客户提供\"AI液冷+绿色能源\"的整体解决方案",
@@ -394,9 +449,48 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国发布美国-阿联酋人工智能加速伙伴关系会议纪要。G42在美阿人工智能合作框架下推进技术体系建设。",
+          "url": "https://flash.jin10.com/detail/20260406222700668800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
+        },
+        {
+          "title": "六部门：发展“人工智能+电商” 引导电商企业加强人工智能大模型等技术研发应用",
+          "url": "https://api3.cls.cn/share/article/2335658?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "商务部等6部门：发展“人工智能+电商”，引导电商企业加强人工智能大模型等技术研发应用",
+          "url": "https://flash.jin10.com/detail/20260406095708248800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         }
       ]
     },
@@ -430,65 +524,20 @@
       ]
     },
     {
-      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "我国钠离子电池取得重大突破",
-          "url": "https://api3.cls.cn/share/article/2335878?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "国轩高科：2GWh全固态电池量产线建设受技术、研发、市场等多项因素影响",
-          "url": "https://wallstreetcn.com/livenews/3082815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "六部门：发展“人工智能+电商” 引导电商企业加强人工智能大模型等技术研发应用",
-          "url": "https://api3.cls.cn/share/article/2335658?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "商务部等6部门：发展“人工智能+电商”，引导电商企业加强人工智能大模型等技术研发应用",
-          "url": "https://flash.jin10.com/detail/20260406095708248800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "【公告全知道】光纤+Micro LED+储能+芯片+折叠屏+机器人！公司光纤传感器已量产",
+          "url": "https://api3.cls.cn/share/article/2335885?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
+        },
         {
           "title": "有投资者在互动平台上提问“公司有无机器人软件开发的项目？”光庭信息4月6日回复称，目前暂未有相关业务项目。",
           "url": "https://flash.jin10.com/detail/20260406171304537800",
@@ -568,11 +617,12 @@
             14,
             18,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时28分 ~ 21时52分]"
+          "appearance_count": 10,
+          "time_info": "[13时28分 ~ 22时47分]"
         }
       ]
     },
@@ -608,6 +658,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时53分 ~ 18时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根大通CEO警告：伊朗战争恐推高通胀与利率",
+          "url": "https://wallstreetcn.com/articles/3769323",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
         }
       ]
     }
