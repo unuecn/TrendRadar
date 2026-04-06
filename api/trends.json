@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T01:44:24.966063+08:00",
-  "total_titles_processed": 298,
+  "generated_at": "2026-04-07T02:59:24.554838+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时59分]"
         },
         {
           "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
@@ -35,11 +35,12 @@
           "source": "财联社电报",
           "ranks": [
             1,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时59分]"
         },
         {
           "title": "摩根大通下调对特斯拉的盈利预测",
@@ -108,8 +109,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时59分]"
         },
         {
           "title": "假期要闻汇总：特朗普称与伊朗协议有望在7日最后期限前达成；苹果首款折叠屏手机已在试产",
@@ -119,8 +120,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时59分]"
         },
         {
           "title": "分析师：苹果股价或将激增20%，MacBook Neo可能成为关键催化剂",
@@ -129,7 +130,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         }
@@ -147,8 +148,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时59分]"
         },
         {
           "title": "标普500指数目前涨0.32%，布伦特原油跌破109美元/桶关口，报108.94美元/桶。 伊朗最高领袖穆杰塔巴称，（美国和以色列的）“暗杀和犯罪行为”不会扰乱伊朗武装部队。",
@@ -157,7 +158,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         }
@@ -172,22 +173,24 @@
           "url": "https://wallstreetcn.com/livenews/3082908",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时59分]"
         },
         {
           "title": "数字货币市场至少涨超3.4%，比特币涨超4%突破7万美元关口，以太币维持超过4%的涨幅",
           "url": "https://wallstreetcn.com/livenews/3082905",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时59分]"
         }
       ]
     },
@@ -203,8 +206,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时59分]"
         }
       ]
     },
@@ -217,11 +220,29 @@
           "url": "https://api3.cls.cn/share/article/2335924?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            6
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【伊朗军队称打击沙特和科威特美军基地】伊朗伊斯兰共和国军队6日发布公告称，当天使用无人机打击了美军位于沙特海尔季绿洲的军事基地和位于科威特乌代里的直升机基地。伊朗伊斯兰共和国军队随后还发布了美军乌代里直升机基地遭打击后的卫星图像，图像显示该基地有8个目标被击中，包括住宿楼、装备库房以及直升机维修机库等。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3082920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "02时59分"
         }
       ]
     },
@@ -237,8 +258,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时59分]"
         }
       ]
     }
