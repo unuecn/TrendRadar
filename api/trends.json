@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T06:04:32.095422+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-04-08T07:07:27.859233+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -98,11 +98,12 @@
           "url": "https://www.gelonghui.com/news/5205136",
           "source": "格隆汇",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时07分]"
         },
         {
           "title": "美股三大指数小幅低开，苹果、英伟达跌超1%",
@@ -181,22 +182,24 @@
           "url": "https://www.gelonghui.com/news/5205134",
           "source": "格隆汇",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时07分]"
         },
         {
           "title": "全系标配华为乾崑，华境S携手全球顶级供应链首发亮相，正式开启预订",
           "url": "https://www.gelonghui.com/news/5205133",
           "source": "格隆汇",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时07分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，文远知行初步收跌2.3%，阿里跌2.2%，小马智行跌2.1%，蔚来、拼多多、小鹏、小米跌超1%。",
@@ -315,6 +318,34 @@
       ]
     },
     {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比特币突破70000美元",
+          "url": "https://api3.cls.cn/share/article/2337184?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "财联社4月8日电，比特币日内涨幅扩大至5%，报71700美元。",
+          "url": "https://api3.cls.cn/share/article/2337224?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 1,
       "titles": [
@@ -326,8 +357,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时07分]"
         }
       ]
     },
@@ -345,23 +376,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比特币突破70000美元",
-          "url": "https://api3.cls.cn/share/article/2337184?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
         }
       ]
     }
