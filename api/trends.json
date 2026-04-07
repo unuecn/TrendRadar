@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T18:34:38.310851+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-04-07T19:54:41.689941+08:00",
+  "total_titles_processed": 1512,
   "failed_sources": [],
   "trends": [
     {
@@ -104,7 +104,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -191,11 +191,12 @@
           "source": "早报",
           "ranks": [
             17,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时56分 ~ 18时34分]"
+          "appearance_count": 5,
+          "time_info": "[15时56分 ~ 19时54分]"
         },
         {
           "title": "产业链人士：苹果首款折叠屏手机项目正常推进 产品下半年发布",
@@ -266,6 +267,115 @@
       ]
     },
     {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "摩根大通下调对特斯拉的盈利预测，建议投资者应谨慎行事",
+          "url": "https://www.gelonghui.com/news/5204557",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 07时36分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
+          "url": "https://flash.jin10.com/detail/20260407003113861800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "财联社4月7日电，特斯拉跌幅扩大至2.5%，此前摩根大通下调对特斯拉的盈利预测。",
+          "url": "https://api3.cls.cn/share/article/2335920?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时59分]"
+        },
+        {
+          "title": "特斯拉前员工出任小米汽车欧洲交付与物流负责人",
+          "url": "https://api3.cls.cn/share/article/2336566?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.21%，报6737.02点。 热门中概股里，小马智行初步收跌3%，文远知行跌2.2%，小鹏、百胜中国、小米跌超1%，阿里巴巴涨0.2%，美团涨0.5%。 ETF中，中国科技指数ETF（CQQQ）收涨0.02%，中概互联网指数ETF（KWEB）收涨0.18%。 XtrackersHarvest中证50（ASHS）收跌1.09%，德银嘉实沪深300指数ETF（ASHR）收跌0.80%。",
+          "url": "https://wallstreetcn.com/livenews/3082958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时37分]"
+        },
+        {
+          "title": "两位小米联合创始人退出小米科技",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BD%8D%E5%B0%8F%E7%B1%B3%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%80%80%E5%87%BA%E5%B0%8F%E7%B1%B3%E7%A7%91%E6%8A%80%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "华为Pura90系列曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAPura90%E7%B3%BB%E5%88%97%E6%9B%9D%E5%85%89%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "摩根大通下调对特斯拉的盈利预测",
+          "url": "https://api3.cls.cn/share/article/2335903?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "震安科技在互动平台表示，公司目前暂未与华为、比亚迪、大疆等企业开展深度合作。",
+          "url": "https://flash.jin10.com/detail/20260407115108801800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 8,
       "titles": [
@@ -279,8 +389,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时36分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[07时36分 ~ 19时54分]"
         },
         {
           "title": "美股三大指数涨跌不一，存储概念股高开",
@@ -383,8 +493,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时58分 ~ 18时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时58分 ~ 19时54分]"
         },
         {
           "title": "万马股份(002276.SZ)：暂无机器人充电设备研发项目",
@@ -415,7 +525,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -466,95 +576,8 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "摩根大通下调对特斯拉的盈利预测，建议投资者应谨慎行事",
-          "url": "https://www.gelonghui.com/news/5204557",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 07时36分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
-          "url": "https://flash.jin10.com/detail/20260407003113861800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "财联社4月7日电，特斯拉跌幅扩大至2.5%，此前摩根大通下调对特斯拉的盈利预测。",
-          "url": "https://api3.cls.cn/share/article/2335920?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 02时59分]"
-        },
-        {
-          "title": "特斯拉前员工出任小米汽车欧洲交付与物流负责人",
-          "url": "https://api3.cls.cn/share/article/2336566?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.21%，报6737.02点。 热门中概股里，小马智行初步收跌3%，文远知行跌2.2%，小鹏、百胜中国、小米跌超1%，阿里巴巴涨0.2%，美团涨0.5%。 ETF中，中国科技指数ETF（CQQQ）收涨0.02%，中概互联网指数ETF（KWEB）收涨0.18%。 XtrackersHarvest中证50（ASHS）收跌1.09%，德银嘉实沪深300指数ETF（ASHR）收跌0.80%。",
-          "url": "https://wallstreetcn.com/livenews/3082958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时37分]"
-        },
-        {
-          "title": "摩根大通下调对特斯拉的盈利预测",
-          "url": "https://api3.cls.cn/share/article/2335903?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "震安科技在互动平台表示，公司目前暂未与华为、比亚迪、大疆等企业开展深度合作。",
-          "url": "https://flash.jin10.com/detail/20260407115108801800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI：GPT5.4是处理复杂低级工程工作的最佳模型。在现有代码库中没有任何模型能与之媲美。",
@@ -602,6 +625,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时36分]"
+        },
+        {
+          "title": "OpenAI要求加利福尼亚州和特拉华州调查马斯克",
+          "url": "https://api3.cls.cn/share/article/2336885?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
@@ -691,7 +725,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -702,7 +736,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -713,7 +747,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         }
@@ -772,7 +806,7 @@
     },
     {
       "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "超600亿美元印证创新药全球竞争力，创新药精选50ETF联接基金（A类014564、C类014565）把握产业红利",
@@ -795,6 +829,97 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "津药药业：公司关注到市场将公司列为创新药概念并进行炒作，公司目前研发以仿制药为主，无在研创新药项目，相关炒作存在明显误读。同时，公司关注到市场对激素原料药产品价格的讨论，目前公司甾体激素原料药价格总体保持平稳，对公司经营业绩无影响。",
+          "url": "https://wallstreetcn.com/livenews/3083416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“阿提米丝二号”太空人今夜将与地球失联40分钟 环月卫星通讯网已提上日程",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0768750.html",
+          "source": "早报",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时54分]"
+        },
+        {
+          "title": "【伊朗军队称打击沙特和科威特美军基地】伊朗伊斯兰共和国军队6日发布公告称，当天使用无人机打击了美军位于沙特海尔季绿洲的军事基地和位于科威特乌代里的直升机基地。伊朗伊斯兰共和国军队随后还发布了美军乌代里直升机基地遭打击后的卫星图像，图像显示该基地有8个目标被击中，包括住宿楼、装备库房以及直升机维修机库等。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3082920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时55分]"
+        },
+        {
+          "title": "【机构龙虎榜解读】光通信+商业航天，拥有国内少有的自主的CPO和高速光背板自动化生产线，先后通过了美国UL、FDA等多项国际认证，在商业航天领域与蓝箭航天、天兵科技等客户开展合作，这家公司获净买入",
+          "url": "https://api3.cls.cn/share/article/2336855?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "我国开发的东南亚单体最大光伏项目投运",
+          "url": "https://wallstreetcn.com/livenews/3083456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "我国开发的东南亚单体最大光伏项目投运",
+          "url": "https://api3.cls.cn/share/article/2336898?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "我国开发的东南亚单体最大光伏项目投运",
+          "url": "https://flash.jin10.com/detail/20260407193351142800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         }
       ]
     },
@@ -823,35 +948,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“阿提米丝二号”太空人今夜将与地球失联40分钟 环月卫星通讯网已提上日程",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0768750.html",
-          "source": "早报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时34分]"
-        },
-        {
-          "title": "【伊朗军队称打击沙特和科威特美军基地】伊朗伊斯兰共和国军队6日发布公告称，当天使用无人机打击了美军位于沙特海尔季绿洲的军事基地和位于科威特乌代里的直升机基地。伊朗伊斯兰共和国军队随后还发布了美军乌代里直升机基地遭打击后的卫星图像，图像显示该基地有8个目标被击中，包括住宿楼、装备库房以及直升机维修机库等。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3082920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时55分]"
         }
       ]
     },
@@ -945,6 +1041,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时58分 ~ 14时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "雷达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据福克斯新闻：美国并非有意袭击哈尔克岛登陆码头，美国打击目标包括掩体、雷达站和弹药库。",
+          "url": "https://flash.jin10.com/detail/20260407193823537800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         }
       ]
     },
