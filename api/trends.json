@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T20:11:26.993468+08:00",
-  "total_titles_processed": 1662,
+  "generated_at": "2026-04-08T22:15:59.246358+08:00",
+  "total_titles_processed": 1799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时06分 ~ 20时11分]"
+          "appearance_count": 11,
+          "time_info": "[08时06分 ~ 22时15分]"
         },
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "报复性反弹！美伊“停火两周”，美股开盘集体上涨，美光涨超8%，现货钯金涨超9%，油价创近六年最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "WTI 5月原油期货收涨0.54美元，涨幅0.48%，报112.95美元/桶。 中东Abu Dhabi Murban原油期货跌0.37%，报118.64美元/桶。 NYMEX 5月天然气期货收报2.87美元/百万英热单位。 NYMEX 5月汽油期货收报3.3052美元/加仑，NYMEX 5月取暖油期货收报4.4774美元/加仑。",
@@ -316,7 +327,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "报复性反弹！美伊“停火两周”，美股盘前存储芯片股普涨，金价重上4830关口，油价创近六年最大跌幅",
@@ -328,6 +339,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时45分 ~ 20时11分]"
+        },
+        {
+          "title": "黄金涨跌逻辑变了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%B6%A8%E8%B7%8C%E9%80%BB%E8%BE%91%E5%8F%98%E4%BA%86%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "报复性反弹！美伊“停火两周”，全球股市急涨，金价重上4830关口，油价创近六年最大跌幅",
@@ -448,11 +470,12 @@
           "url": "https://ckxxapp.ckxx.net/pages/2026/04/08/efc8b9837eea4c05a145f3141d8c89ab.html",
           "source": "参考消息",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时45分 ~ 20时11分]"
+          "appearance_count": 5,
+          "time_info": "[18时45分 ~ 22时15分]"
         },
         {
           "title": "静安区：着力将静安区打造成为具有全国影响力的人工智能创新应用示范区",
@@ -679,6 +702,46 @@
       ]
     },
     {
+      "keyword_group": "英特尔 高通",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：石油价格可能会按滞胀的方式推高价格。 招聘偏低、解雇偏低，这都是不确定性。 我对经济前景持谨慎态度，并感到紧张。 高通胀持续的时间越长，就约会根深蒂固地融入经济。",
+          "url": "https://wallstreetcn.com/livenews/3083651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时04分]"
+        },
+        {
+          "title": "财联社4月8日电，英特尔股价触及自2022年1月以来的最高点，最新上涨5.6%。",
+          "url": "https://api3.cls.cn/share/article/2338373?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "美联储古尔斯比：高通胀持续的时间越长，就越会深深扎根于经济之中。",
+          "url": "https://flash.jin10.com/detail/20260408010903465800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "比特币 以太坊",
       "match_count": 3,
       "titles": [
@@ -774,31 +837,30 @@
       ]
     },
     {
-      "keyword_group": "英特尔 高通",
+      "keyword_group": "台积电 英伟达",
       "match_count": 2,
       "titles": [
         {
-          "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：石油价格可能会按滞胀的方式推高价格。 招聘偏低、解雇偏低，这都是不确定性。 我对经济前景持谨慎态度，并感到紧张。 高通胀持续的时间越长，就约会根深蒂固地融入经济。",
-          "url": "https://wallstreetcn.com/livenews/3083651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时04分]"
-        },
-        {
-          "title": "美联储古尔斯比：高通胀持续的时间越长，就越会深深扎根于经济之中。",
-          "url": "https://flash.jin10.com/detail/20260408010903465800",
+          "title": "受美伊达成停火协议影响，英伟达(NVDA.O)盘前涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260408162652123800",
           "source": "金十数据",
           "ranks": [
-            14
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时33分"
+          "time_info": "16时42分"
+        },
+        {
+          "title": "美股芯片股上涨，英特尔(INTC.O)涨超8%，英伟达(NVDA.O)涨3.4%，高通(QCOM.O)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260408215011612800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         }
       ]
     },
@@ -885,23 +947,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时19分 ~ 16时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "受美伊达成停火协议影响，英伟达(NVDA.O)盘前涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260408162652123800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
         }
       ]
     }
