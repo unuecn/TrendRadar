@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T08:06:22.851877+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2026-04-08T11:40:04.282944+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,17 @@
           "time_info": "[00时10分 ~ 06时04分]"
         },
         {
+          "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 11时40分]"
+        },
+        {
           "title": "财联社4月8日电，美股三大指数收盘涨跌不一，纳指涨0.1%，标普500指数涨0.08%，道指跌0.18%。",
           "url": "https://api3.cls.cn/share/article/2337167?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
-        },
-        {
-          "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
-          "url": "https://wallstreetcn.com/articles/3769370",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
         },
         {
           "title": "周二（4月7日）纽约尾盘，欧元兑美元涨0.50%，英镑兑美元涨0.44%，美元兑瑞郎跌0.05%。 商品货币对中，澳元兑美元涨0.92%，纽元兑美元涨0.24%，美元兑加元跌0.15%。",
@@ -102,7 +102,7 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股异动丨苹果大跌超5%，折叠屏iPhone工程测试受阻，或导致量产推迟",
@@ -115,6 +115,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时10分 ~ 07时07分]"
+        },
+        {
+          "title": "港股异动丨苹果概念股强势 伟仕佳杰大涨超12% 瑞声科技涨近7%",
+          "url": "https://www.gelonghui.com/news/5205358",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
         },
         {
           "title": "美股三大指数小幅低开，苹果、英伟达跌超1%",
@@ -260,6 +271,67 @@
       ]
     },
     {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "卫星组网提速，卫星ETF易方达（563530）涨超4.5%",
+          "url": "https://www.gelonghui.com/news/5205354",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
+          "title": "乌情报：俄卫星侦察中东美军基地 助伊朗精准打击",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0868785.html",
+          "source": "早报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "卫星数据机构Earth-i：伊朗两座主要铜冶炼厂似乎已停产",
+          "url": "https://wallstreetcn.com/livenews/3083606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "【九点特供】一箭十八星！千帆星座成功发射，机构测算若有600颗卫星在线组网，垣信就能开始获得50亿规模的订单，这家公司中标了垣信的卫星测运控中心建设、地面站园区建设相关项目",
+          "url": "https://api3.cls.cn/share/article/2337135?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "创业板指涨超4%，沪指涨1.47%，深成指涨3.16%，贵金属、民航、CPO、商业航天等方向领涨，沪深京三市上涨个股超5000只。",
+          "url": "https://wallstreetcn.com/livenews/3083898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
       "match_count": 3,
       "titles": [
@@ -300,45 +372,6 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "乌情报：俄卫星侦察中东美军基地 助伊朗精准打击",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0868785.html",
-          "source": "早报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "卫星数据机构Earth-i：伊朗两座主要铜冶炼厂似乎已停产",
-          "url": "https://wallstreetcn.com/livenews/3083606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "【九点特供】一箭十八星！千帆星座成功发射，机构测算若有600颗卫星在线组网，垣信就能开始获得50亿规模的订单，这家公司中标了垣信的卫星测运控中心建设、地面站园区建设相关项目",
-          "url": "https://api3.cls.cn/share/article/2337135?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "比特币 以太坊",
       "match_count": 3,
       "titles": [
@@ -349,7 +382,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -378,6 +411,35 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
+          "url": "https://www.cls.cn/detail/2336990",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 11时40分]"
+        },
+        {
+          "title": "沪指涨幅扩大至2%，深成指涨3.85%，创业板指涨4.83%，贵金属、AI应用、算力硬件、半导体芯片等方向领涨，沪深京三市上涨个股超5000只。",
+          "url": "https://wallstreetcn.com/livenews/3083938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 2,
       "titles": [
@@ -388,7 +450,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -399,7 +461,35 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美伊双方宣布停火，科技股领涨，南方基金旗下科创人工智能ETF南方(589230)涨超5%，换手率3.93%，交投活跃",
+          "url": "https://www.gelonghui.com/news/5205344",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
+          "title": "医渡科技(02158.HK)：中标人工智能建设银医合作项目",
+          "url": "https://www.gelonghui.com/news/5205290",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
@@ -435,23 +525,6 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
-          "url": "https://www.cls.cn/detail/2336990",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 1,
       "titles": [
@@ -465,23 +538,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时10分 ~ 08时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "医渡科技(02158.HK)：中标人工智能建设银医合作项目",
-          "url": "https://www.gelonghui.com/news/5205290",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
         }
       ]
     }
