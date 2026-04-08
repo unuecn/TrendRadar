@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T07:07:27.859233+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-04-08T08:06:22.851877+08:00",
+  "total_titles_processed": 744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "周二（4月7日）纽约尾盘，欧元兑美元涨0.50%，英镑兑美元涨0.44%，美元兑瑞郎跌0.05%。 商品货币对中，澳元兑美元涨0.92%，纽元兑美元涨0.24%，美元兑加元跌0.15%。",
@@ -289,6 +300,112 @@
       ]
     },
     {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "乌情报：俄卫星侦察中东美军基地 助伊朗精准打击",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0868785.html",
+          "source": "早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "卫星数据机构Earth-i：伊朗两座主要铜冶炼厂似乎已停产",
+          "url": "https://wallstreetcn.com/livenews/3083606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "【九点特供】一箭十八星！千帆星座成功发射，机构测算若有600颗卫星在线组网，垣信就能开始获得50亿规模的订单，这家公司中标了垣信的卫星测运控中心建设、地面站园区建设相关项目",
+          "url": "https://api3.cls.cn/share/article/2337135?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "以太坊上涨6%至2,240美元，比特币上涨约4%至71,892美元。",
+          "url": "https://wallstreetcn.com/livenews/3083807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "比特币突破70000美元",
+          "url": "https://api3.cls.cn/share/article/2337184?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "财联社4月8日电，比特币日内涨幅扩大至5%，报71700美元。",
+          "url": "https://api3.cls.cn/share/article/2337224?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek上线专家模式",
+          "url": "https://flash.jin10.com/detail/20260408080053335800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：为庆祝每周使用Codex的用户达到300万，我们将重置使用限制。",
+          "url": "https://flash.jin10.com/detail/20260408074121822800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英特尔 高通",
       "match_count": 2,
       "titles": [
@@ -318,30 +435,19 @@
       ]
     },
     {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 2,
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 1,
       "titles": [
         {
-          "title": "比特币突破70000美元",
-          "url": "https://api3.cls.cn/share/article/2337184?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
+          "url": "https://www.cls.cn/detail/2336990",
+          "source": "财联社热门",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "财联社4月8日电，比特币日内涨幅扩大至5%，报71700美元。",
-          "url": "https://api3.cls.cn/share/article/2337224?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时07分"
+          "time_info": "08时06分"
         }
       ]
     },
@@ -357,25 +463,25 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时07分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 08时06分]"
         }
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 1,
       "titles": [
         {
-          "title": "卫星数据机构Earth-i：伊朗两座主要铜冶炼厂似乎已停产",
-          "url": "https://wallstreetcn.com/livenews/3083606",
-          "source": "华尔街见闻-快讯",
+          "title": "医渡科技(02158.HK)：中标人工智能建设银医合作项目",
+          "url": "https://www.gelonghui.com/news/5205290",
+          "source": "格隆汇",
           "ranks": [
-            7
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "08时06分"
         }
       ]
     }
