@@ -1,335 +1,78 @@
 {
-  "generated_at": "2026-04-08T23:57:41.777959+08:00",
-  "total_titles_processed": 1919,
+  "generated_at": "2026-04-09T01:06:09.698520+08:00",
+  "total_titles_processed": 228,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 10,
+      "keyword_group": "英特尔 高通",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
-          "url": "https://wallstreetcn.com/articles/3769370",
-          "source": "华尔街见闻",
+          "title": "美股异动丨英特尔(INTC.US)大涨超9%，创5年新高，加入马斯克芯片项目",
+          "url": "https://www.gelonghui.com/news/5205951",
+          "source": "格隆汇",
           "ranks": [
-            2,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时06分 ~ 23时57分]"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时06分]"
         },
         {
-          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
-          "url": "https://wallstreetcn.com/articles/3769329",
-          "source": "华尔街见闻",
+          "title": "英特尔(INTC.O)涨幅扩大至10%。",
+          "url": "https://flash.jin10.com/detail/20260409003726515800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            2
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时04分]"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时06分]"
         },
+        {
+          "title": "财联社4月8日电，英特尔股价上涨9.1%，创下2021年以来最高水平。",
+          "url": "https://api3.cls.cn/share/article/2338455?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 2,
+      "titles": [
         {
           "title": "报复性反弹！美伊“停火两周”，美股开盘集体上涨，美光涨超8%，现货钯金涨超9%，油价创近六年最大跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
           "source": "华尔街见闻",
           "ranks": [
-            4,
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时15分 ~ 23时57分]"
+          "time_info": "[01时05分 ~ 01时06分]"
         },
         {
-          "title": "财联社4月8日电，美股三大指数收盘涨跌不一，纳指涨0.1%，标普500指数涨0.08%，道指跌0.18%。",
-          "url": "https://api3.cls.cn/share/article/2337167?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "周二（4月7日）纽约尾盘，欧元兑美元涨0.50%，英镑兑美元涨0.44%，美元兑瑞郎跌0.05%。 商品货币对中，澳元兑美元涨0.92%，纽元兑美元涨0.24%，美元兑加元跌0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3083733",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "WTI 5月原油期货收涨0.54美元，涨幅0.48%，报112.95美元/桶。 中东Abu Dhabi Murban原油期货跌0.37%，报118.64美元/桶。 NYMEX 5月天然气期货收报2.87美元/百万英热单位。 NYMEX 5月汽油期货收报3.3052美元/加仑，NYMEX 5月取暖油期货收报4.4774美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3083672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "LME期铜跌0.20%，报12324美元/吨。 LME期铝跌0.06%，报3463.50美元/吨。 LME期锌涨1.50%，报3305.50美元/吨。 LME期铅涨0.13%，报1937美元/吨。 LME期镍跌0.76%，报16970美元/吨。 LME期锡跌0.67%，报46140美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3083650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时04分]"
-        },
-        {
-          "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
-          "url": "https://wallstreetcn.com/livenews/3083713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时04分]"
-        },
-        {
-          "title": "美股盘前，存储芯片股普涨，美光科技、闪迪涨超8%，西部数据、希捷科技涨超7%。能源股大跌，西方石油下跌7.8%，APA集团下跌9.8%，钻井能源下跌7.9%，康菲石油下跌7%。",
-          "url": "https://wallstreetcn.com/livenews/3084152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "WTI 5月原油期货收涨0.54美元，涨幅0.48%，报112.95美元/桶。 布伦特6月原油期货收跌0.50美元，跌幅超过0.45%，报109.27美元/桶。 中东Abu Dhabi Murban原油期货跌0.37%，报118.64美元/桶。 NYMEX 5月天然气期货收报2.87美元/百万英热单位。 NYMEX 5月汽油期货收报3.3052美元/加仑，NYMEX 5月取暖油期货收报4.4774美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3083672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美股异动丨苹果大跌超5%，折叠屏iPhone工程测试受阻，或导致量产推迟",
-          "url": "https://www.gelonghui.com/news/5205136",
-          "source": "格隆汇",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时07分]"
-        },
-        {
-          "title": "港股异动丨苹果概念股强势 伟仕佳杰大涨超12% 瑞声科技涨近7%",
-          "url": "https://www.gelonghui.com/news/5205358",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
-          "title": "美股三大指数小幅低开，苹果、英伟达跌超1%",
-          "url": "https://www.gelonghui.com/news/5205127",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时04分]"
-        },
-        {
-          "title": "标普500指数初步大致收平，必需品板块跌1.8%，可选消费板块跌1.1%，科技板块大致持平，能源板块涨0.5%，电信板块涨0.8%。 纳斯达克100指数初步收跌0.1%，成分股中，Axon跌9.5%，Atlassian跌4.7%，沃尔玛跌3.5%，Arm控股跌3.1%，苹果跌2.1%，谷歌A涨1.7%，Zscaler涨2%，西部数据涨2.4%，CrowdStrike涨5.8%，博通涨6.1%。",
-          "url": "https://wallstreetcn.com/livenews/3083701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "苹果折叠屏iPhone仍有望于9月发布 苹果股价跌幅迅速收窄至2.7%",
-          "url": "https://api3.cls.cn/share/article/2337125?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
-          "url": "https://wallstreetcn.com/livenews/3083664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "苹果自研AI服务器芯片Baltra曝光 直接采购三星玻璃基板",
-          "url": "https://wallstreetcn.com/livenews/3084000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "苹果公司折叠屏iPhone仍然处于9月首发的正轨上。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3083643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)可折叠iPhone据悉仍将按计划于9月首次亮相。",
-          "url": "https://flash.jin10.com/detail/20260408010256637800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美股异动丨特斯拉跌超3%，小摩警告股价恐暴跌近60%",
-          "url": "https://www.gelonghui.com/news/5205134",
-          "source": "格隆汇",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时07分]"
-        },
-        {
-          "title": "全系标配华为乾崑，华境S携手全球顶级供应链首发亮相，正式开启预订",
-          "url": "https://www.gelonghui.com/news/5205133",
-          "source": "格隆汇",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时07分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，文远知行初步收跌2.3%，阿里跌2.2%，小马智行跌2.1%，蔚来、拼多多、小鹏、小米跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3083703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.94%，报6673.41点。 热门中概股里，文远知行初步收跌2.3%，阿里跌2.2%，小马智行跌2.1%，蔚来、拼多多、小鹏、小米跌超1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.28%，中国科技指数ETF（CQQQ）收跌0.07%。 德银嘉实沪深300指数ETF（ASHR）收跌0.31%，XtrackersHarvest中证50（ASHS）收跌0.08%。",
-          "url": "https://wallstreetcn.com/livenews/3083703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时04分]"
-        },
-        {
-          "title": "小米官宣6款充电宝新品",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%AE%98%E5%AE%A36%E6%AC%BE%E5%85%85%E7%94%B5%E5%AE%9D%E6%96%B0%E5%93%81%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
-        },
-        {
-          "title": "固德电材(301680.SZ)：目前未与小米汽车直接开展合作",
-          "url": "https://www.gelonghui.com/news/5205558",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "财联社4月7日电，特斯拉股价下挫4.4%，年内跌幅进一步扩大至25%。",
-          "url": "https://api3.cls.cn/share/article/2337087?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "特斯拉下跌4.4%，恐将使得2026年至4月7日收盘的累计跌幅达到25%。",
-          "url": "https://wallstreetcn.com/livenews/3083594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "[01时05分 ~ 01时06分]"
         }
       ]
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
           "title": "破解地面算力“能耗焦虑”，太空算力产业生态提速构建",
@@ -340,677 +83,86 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
-          "url": "https://www.cls.cn/detail/2336990",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 11时40分]"
-        },
-        {
-          "title": "沪指涨幅扩大至2%，深成指涨3.85%，创业板指涨4.83%，贵金属、AI应用、算力硬件、半导体芯片等方向领涨，沪深京三市上涨个股超5000只。",
-          "url": "https://wallstreetcn.com/livenews/3083938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "time_info": "01时06分"
         },
         {
           "title": "【季报高增长】算力服务器PCB+CPO，一季度净利润同比增长超50%！这家公司PCB已批量用于AI服务器、光模块等核心设备，800G光模块PCB处于送样测试阶段，海外工厂完成了核心客户的审核认证",
           "url": "https://api3.cls.cn/share/article/2338430?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "【盘中宝】AI算力激增带来的散热与封装挑战，这类产品正经历向早期量产的关键转折，这家公司设备已实相关技术覆盖",
-          "url": "https://api3.cls.cn/share/article/2337625?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "内蒙古：建设全国领先的绿色智能算力保障基地 持续提升智能算力规模",
-          "url": "https://api3.cls.cn/share/article/2338208?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "内蒙古：支持区内算力服务、数据标注、装备制造等优势企业“走出去” 探索开展数据跨境服务",
-          "url": "https://api3.cls.cn/share/article/2338205?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时06分]"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "报复性反弹！美伊“停火两周”，美股盘前存储芯片股普涨，金价重上4830关口，油价创近六年最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时45分 ~ 20时11分]"
-        },
-        {
-          "title": "报复性反弹！美伊“停火两周”，全球股市急涨，金价重上4830关口，油价创近六年最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时42分]"
-        },
-        {
           "title": "黄金涨跌逻辑变了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%B6%A8%E8%B7%8C%E9%80%BB%E8%BE%91%E5%8F%98%E4%BA%86%23&t=31&band_rank=5&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%B6%A8%E8%B7%8C%E9%80%BB%E8%BE%91%E5%8F%98%E4%BA%86%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            5,
-            23
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时15分 ~ 23时57分]"
-        },
+          "time_info": "[01时05分 ~ 01时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "周二（4月7日），美股大类资产类ETF多数收涨，恐慌指数做多涨3.36%，黄金ETF涨0.97%，巴克莱美国可转债ETF涨0.67%，欧元做多、新兴市场ETF、罗素2000指数ETF、美国房地产ETF、标普500 ETF、日元做多、纳指100 ETF至多涨0.42%。 美国国债20+年ETF则收跌0.01%，道指ETF跌0.19%，做多美元指数跌0.29%，大豆基金跌0.59%，农产品基金跌0.99%，美国布伦特油价基金跌2.10%。",
-          "url": "https://wallstreetcn.com/livenews/3083722",
+          "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3084479",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            13
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时04分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 4月7日（周二）晚盘收盘上涨0.41%报1034.01元/克；<br/>上海黄金交易所白银T+D 4月7日（周二）晚盘收盘下跌0.98%报17741.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260408023324744800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 03时04分]"
-        },
-        {
-          "title": "标普500指数目前跌0.4%，道指跌0.5%，纳指跌0.6%。 WTI原油跌破113美元/桶关口，报112.81美元/桶；布伦特原油跌破108美元/桶关口，报107.68美元/桶。 现货黄金5分钟内上涨22.53美元/盎司，报4692.84美元/盎司；纽约金5分钟内上涨10.1美元/盎司，报4715.9美元/盎司。 美国国债价格走高。 巴基斯坦总理称，请求美国总统特朗普将对伊朗的最后期限延长两周，请求伊朗将霍尔木兹海峡开放两周。",
-          "url": "https://wallstreetcn.com/livenews/3083685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时06分"
+          "time_info": "01时06分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "美媒：海湾国家“人工智能绿洲”能否持续？",
           "url": "https://ckxxapp.ckxx.net/pages/2026/04/08/efc8b9837eea4c05a145f3141d8c89ab.html",
           "source": "参考消息",
           "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时45分 ~ 23时57分]"
-        },
-        {
-          "title": "静安区：着力将静安区打造成为具有全国影响力的人工智能创新应用示范区",
-          "url": "https://api3.cls.cn/share/article/2337947?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "美伊双方宣布停火，科技股领涨，南方基金旗下科创人工智能ETF南方(589230)涨超5%，换手率3.93%，交投活跃",
-          "url": "https://www.gelonghui.com/news/5205344",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
-          "title": "A股收评：放量大涨！沪指逼近4000点，创业板指涨近6%，全市场超5100股上涨，贵金属、AI应用及CPO涨幅居前",
-          "url": "https://www.gelonghui.com/news/5205429",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "医渡科技(02158.HK)：中标人工智能建设银医合作项目",
-          "url": "https://www.gelonghui.com/news/5205290",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "卫星组网提速，卫星ETF易方达（563530）涨超4.5%",
-          "url": "https://www.gelonghui.com/news/5205354",
-          "source": "格隆汇",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
-          "title": "乌情报：俄卫星侦察中东美军基地 助伊朗精准打击",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0868785.html",
-          "source": "早报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "卫星数据机构Earth-i：伊朗两座主要铜冶炼厂似乎已停产",
-          "url": "https://wallstreetcn.com/livenews/3083606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "【九点特供】一箭十八星！千帆星座成功发射，机构测算若有600颗卫星在线组网，垣信就能开始获得50亿规模的订单，这家公司中标了垣信的卫星测运控中心建设、地面站园区建设相关项目",
-          "url": "https://api3.cls.cn/share/article/2337135?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "创业板指涨超4%，沪指涨1.47%，深成指涨3.16%，贵金属、民航、CPO、商业航天等方向领涨，沪深京三市上涨个股超5000只。",
-          "url": "https://wallstreetcn.com/livenews/3083898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "time_info": "[01时05分 ~ 01时06分]"
         }
       ]
     },
     {
-      "keyword_group": "英特尔 高通",
-      "match_count": 5,
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 1,
       "titles": [
         {
-          "title": "财联社4月8日电，英特尔股价上涨9.1%，创下2021年以来最高水平。",
-          "url": "https://api3.cls.cn/share/article/2338455?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "美股异动丨英特尔(INTC.US)大涨超9%，创5年新高，加入马斯克芯片项目",
-          "url": "https://www.gelonghui.com/news/5205951",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：石油价格可能会按滞胀的方式推高价格。 招聘偏低、解雇偏低，这都是不确定性。 我对经济前景持谨慎态度，并感到紧张。 高通胀持续的时间越长，就约会根深蒂固地融入经济。",
-          "url": "https://wallstreetcn.com/livenews/3083651",
+          "title": "比亚迪拟在加拿大设20家经销网点，推进全球扩张",
+          "url": "https://wallstreetcn.com/livenews/3084486",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时04分]"
-        },
-        {
-          "title": "财联社4月8日电，英特尔股价触及自2022年1月以来的最高点，最新上涨5.6%。",
-          "url": "https://api3.cls.cn/share/article/2338373?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "美联储古尔斯比：高通胀持续的时间越长，就越会深深扎根于经济之中。",
-          "url": "https://flash.jin10.com/detail/20260408010903465800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "北京君正(300223.SZ)：DDR4和LPDDR4目前确实供不应求，预计今年占比会有提升",
-          "url": "https://www.gelonghui.com/news/5205435",
-          "source": "格隆汇",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "北京君正(300223.SZ)：目前供求关系下各种制程的DDR4、LPDDR4的ASP都有所上调",
-          "url": "https://www.gelonghui.com/news/5205432",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "A股存储芯片板块午后持续拉升，香农芯创20cm涨停，华海诚科、协创数据涨超10%，中电港、大为股份、大族激光等股涨停。",
-          "url": "https://flash.jin10.com/detail/20260408131958928800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "太空光伏+海外大单双催化，光伏ETF天弘(159857)标的指数大涨4.5%，近20日吸金近3.7亿",
-          "url": "https://www.gelonghui.com/news/5205381",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "云南能投(002053.SZ)：拟投资建设色甲光伏发电项目",
-          "url": "https://www.gelonghui.com/news/5205726",
-          "source": "格隆汇",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
-        },
-        {
-          "title": "云南能投：马龙公司拟9,192.28万元投资建设色甲光伏发电项目，项目额定容量20MW",
-          "url": "https://flash.jin10.com/detail/20260408180102280800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中芯国际",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "港股半导体板块持续走高，华虹半导体涨近16%，中芯国际涨超11%。",
-          "url": "https://wallstreetcn.com/livenews/3084014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "港股半导体板块午后升势不止，华虹半导体(01347.HK)涨近16%，中芯国际(00981.HK)涨超11%，上海复旦(013385.HK)、纳芯微(02676.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260408133541075800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨3.09%，恒生科技指数收涨5.22%。华虹半导体涨超14%，中芯国际涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3084161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "以太坊上涨6%至2,240美元，比特币上涨约4%至71,892美元。",
-          "url": "https://wallstreetcn.com/livenews/3083807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "比特币突破70000美元",
-          "url": "https://api3.cls.cn/share/article/2337184?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "财联社4月8日电，比特币日内涨幅扩大至5%，报71700美元。",
-          "url": "https://api3.cls.cn/share/article/2337224?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "八亿时空(688181.SH)：暂不涉及创新药业务",
-          "url": "https://www.gelonghui.com/news/5205734",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
-        },
-        {
-          "title": "远大医药与香港大学战略合作，赋能抗感染领域创新药研发及产业化落地",
-          "url": "https://wallstreetcn.com/livenews/3084302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek上线专家模式",
-          "url": "https://flash.jin10.com/detail/20260408080053335800",
-          "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：为庆祝每周使用Codex的用户达到300万，我们将重置使用限制。",
-          "url": "https://flash.jin10.com/detail/20260408074121822800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "受美伊达成停火协议影响，英伟达(NVDA.O)盘前涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260408162652123800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "美股芯片股上涨，英特尔(INTC.O)涨超8%，英伟达(NVDA.O)涨3.4%，高通(QCOM.O)涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260408215011612800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美媒分析：美国人形机器人背后的中国技术",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/04/07/6806c7f5186d4fc79710cd9b0ce9a099.html",
-          "source": "参考消息",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 08时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "动力电池老将\"归来\"，张五堂如何编织储能新棋局？",
-          "url": "https://www.gelonghui.com/news/5205421",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "奥普特(688686.SH)：公司的产品和技术虽然可用于智能驾驶相关产品的生产过程",
-          "url": "https://www.gelonghui.com/news/5205736",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "硅业分会：本周多晶硅市场延续弱势，价格继续承压下行",
-          "url": "https://wallstreetcn.com/livenews/3084086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "湖北脑机接口技术创新中心获批",
-          "url": "https://www.zaochenbao.com/news/china/202604/0868816.html",
-          "source": "早报",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基因测序 基因编辑",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "我国研发新型基因编辑技术 有望让重症地贫患者摆脱输血依赖",
-          "url": "https://wallstreetcn.com/livenews/3084447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时57分"
+          "time_info": "01时06分"
         }
       ]
     }
