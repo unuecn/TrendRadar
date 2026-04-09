@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T21:53:55.854107+08:00",
-  "total_titles_processed": 1610,
+  "generated_at": "2026-04-09T23:23:14.043540+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "破解地面算力“能耗焦虑”，太空算力产业生态提速构建",
@@ -20,6 +20,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时06分 ~ 10时11分]"
+        },
+        {
+          "title": "【每日收评】三大指数缩量调整，全市场近4300股飘绿，算力硬件股持续爆发",
+          "url": "https://www.cls.cn/detail/2339213",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 23时23分]"
         },
         {
           "title": "【机构调研】这家PCB供应商AI算力适配产品部分产线下半年实现建成投产",
@@ -55,16 +68,15 @@
           "time_info": "12时57分"
         },
         {
-          "title": "【每日收评】三大指数缩量调整，全市场近4300股飘绿，算力硬件股持续爆发",
-          "url": "https://www.cls.cn/detail/2339213",
-          "source": "财联社热门",
+          "title": "【季报高增长】Soc芯片+消费电子，旗下一系列算力平台增长强劲，业绩创一季度历史新高！这家公司应用于各产品线的旗舰产品已快速导入数百家客户，首批客户已进入产品发布、量产阶段，导入速度超出预期",
+          "url": "https://api3.cls.cn/share/article/2339668?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            13,
-            10
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 21时53分]"
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时23分]"
         },
         {
           "title": "【季报高增长】算力服务器PCB+CPO，一季度净利润同比增长超50%！这家公司PCB已批量用于AI服务器、光模块等核心设备，800G光模块PCB处于送样测试阶段，海外工厂完成了核心客户的审核认证",
@@ -84,7 +96,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -213,7 +225,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -233,11 +245,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时38分 ~ 21时53分]"
+          "appearance_count": 11,
+          "time_info": "[07时38分 ~ 23时23分]"
         },
         {
           "title": "报复性反弹！美伊“停火两周”，美股开盘集体上涨，美光涨超8%，现货钯金涨超9%，油价创近六年最大跌幅",
@@ -260,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "WTI原油5分钟内下跌0.49美元/桶，报101.81美元/桶。 纳斯达克综合指数与纳斯达克100指数转涨，标普转涨。 据NBC新闻，美国官员表示，特朗普要求内塔尼亚胡减轻对黎巴嫩的轰炸行动，以助力与伊朗的谈判取得成功。",
+          "url": "https://wallstreetcn.com/livenews/3085200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "周三（4月8日），美股行业ETF普遍收涨，半导体ETF涨5.76%，全球航空业ETF涨5.65%，全球科技股指数ETF、科技行业ETF、区域银行ETF、银行业ETF、可选消费ETF、金融业ETF、网络股指数ETF至少涨2.46%，能源业ETF则收跌3.51%。",
@@ -318,7 +342,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -329,7 +353,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -362,7 +386,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         }
@@ -508,6 +532,135 @@
       ]
     },
     {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美媒：海湾国家“人工智能绿洲”能否持续？",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/04/08/efc8b9837eea4c05a145f3141d8c89ab.html",
+          "source": "参考消息",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 14时22分]"
+        },
+        {
+          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
+          "url": "https://www.cls.cn/detail/2339282",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时23分]"
+        },
+        {
+          "title": "财联社4月9日电，IMF总裁格奥尔基耶娃表示，IMF分析显示，人工智能可将生产力提高多达0.8%，但也可能影响发达经济体60%的就业岗位。",
+          "url": "https://api3.cls.cn/share/article/2339697?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时23分]"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：IMF分析显示，人工智能可将生产力提高多达0.8%，但也可能影响发达经济体60%的就业岗位。",
+          "url": "https://flash.jin10.com/detail/20260409224235012800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时23分]"
+        },
+        {
+          "title": "深成指、创业板指均跌超1%，沪指跌0.77%，贵金属、光伏设备、民航机场、AI应用等方向跌幅居前，沪深京三市下跌个股超4200只。",
+          "url": "https://wallstreetcn.com/livenews/3084698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "CoreWeave与Meta宣布210亿美元扩展人工智能基础设施协议",
+          "url": "https://api3.cls.cn/share/article/2339464?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "Nebius正商谈收购以色列人工智能初创公司AI21。",
+          "url": "https://flash.jin10.com/detail/20260409054349081800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "创业板指盘初跌逾1%，AI应用、BC电池等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260409093337729800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "港股AI应用板块午后持续走弱，金蝶国际(00268.HK)跌超7%，金山软件(03888.HK)2跌超4%，阜博集团(03738.HK)、涂鸦智能(02391.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260409154818939800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)上涨1.7%，CEO称其人工智能业务第一季度的年化收入已超过150亿美元。",
+          "url": "https://flash.jin10.com/detail/20260409213233701800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "高盛资产管理的Brook Dane表示，随着人工智能（AI）支出加速，即便伊朗战争加剧地缘政治紧张，投资者仍需配置半导体公司及其他AI“卖铲人”类资产。",
+          "url": "https://wallstreetcn.com/livenews/3084500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 10,
       "titles": [
@@ -574,7 +727,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -618,115 +771,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美媒：海湾国家“人工智能绿洲”能否持续？",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/04/08/efc8b9837eea4c05a145f3141d8c89ab.html",
-          "source": "参考消息",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 14时22分]"
-        },
-        {
-          "title": "深成指、创业板指均跌超1%，沪指跌0.77%，贵金属、光伏设备、民航机场、AI应用等方向跌幅居前，沪深京三市下跌个股超4200只。",
-          "url": "https://wallstreetcn.com/livenews/3084698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "CoreWeave与Meta宣布210亿美元扩展人工智能基础设施协议",
-          "url": "https://api3.cls.cn/share/article/2339464?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
-          "url": "https://www.cls.cn/detail/2339282",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "Nebius正商谈收购以色列人工智能初创公司AI21。",
-          "url": "https://flash.jin10.com/detail/20260409054349081800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "创业板指盘初跌逾1%，AI应用、BC电池等板块跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260409093337729800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "港股AI应用板块午后持续走弱，金蝶国际(00268.HK)跌超7%，金山软件(03888.HK)2跌超4%，阜博集团(03738.HK)、涂鸦智能(02391.HK)等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260409154818939800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)上涨1.7%，CEO称其人工智能业务第一季度的年化收入已超过150亿美元。",
-          "url": "https://flash.jin10.com/detail/20260409213233701800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "高盛资产管理的Brook Dane表示，随着人工智能（AI）支出加速，即便伊朗战争加剧地缘政治紧张，投资者仍需配置半导体公司及其他AI“卖铲人”类资产。",
-          "url": "https://wallstreetcn.com/livenews/3084500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
         }
       ]
     },
@@ -923,11 +970,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202604/0968928.html",
           "source": "早报",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时23分]"
         },
         {
           "title": "英特尔(INTC.O)涨幅扩大至10%。",
@@ -969,7 +1017,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         }
@@ -990,8 +1038,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 21时53分]"
+          "appearance_count": 7,
+          "time_info": "[16时02分 ~ 23时23分]"
         },
         {
           "title": "四部门召开动力及储能电池行业企业座谈会：持续深入推进产能预警调控、规范价格竞争、治理“内卷外化”等工作",
@@ -1096,9 +1144,63 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股股指期货周四开盘微跌，WTI原油微涨，现货黄金高开0.15%。",
+          "url": "https://flash.jin10.com/detail/20260409060126125800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时38分]"
+        },
+        {
+          "title": "黄金涨跌逻辑变了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%B6%A8%E8%B7%8C%E9%80%BB%E8%BE%91%E5%8F%98%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 07时38分]"
+        },
+        {
+          "title": "美伊停火两周：原油价暴跌 股市黄金比特币普涨",
+          "url": "https://www.zaochenbao.com/news/politics/202604/0968868.html",
+          "source": "早报",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 14时22分]"
+        },
+        {
+          "title": "美伊停火协议难止冲突，纳指涨0.06%，标普跌0.05%，油价强势反弹，金价4720美元震荡",
+          "url": "https://wallstreetcn.com/articles/3769555",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时23分]"
         }
       ]
     },
@@ -1150,49 +1252,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股股指期货周四开盘微跌，WTI原油微涨，现货黄金高开0.15%。",
-          "url": "https://flash.jin10.com/detail/20260409060126125800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时39分 ~ 07时38分]"
-        },
-        {
-          "title": "黄金涨跌逻辑变了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%B6%A8%E8%B7%8C%E9%80%BB%E8%BE%91%E5%8F%98%E4%BA%86%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 07时38分]"
-        },
-        {
-          "title": "美伊停火两周：原油价暴跌 股市黄金比特币普涨",
-          "url": "https://www.zaochenbao.com/news/politics/202604/0968868.html",
-          "source": "早报",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 14时22分]"
         }
       ]
     },
@@ -1257,7 +1316,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
