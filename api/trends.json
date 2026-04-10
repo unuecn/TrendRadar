@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-04-11T02:52:40.571222+08:00",
-  "total_titles_processed": 332,
+  "generated_at": "2026-04-11T03:44:04.312511+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周五（4月10日），韩元兑美元最终跌0.57%，报1483.19韩元，本周累计上涨1.83%，4月4日跳空高开之前持续低位震荡于1510韩元附近、之后持续交投于期内顶部1470.07韩元附近。",
+          "url": "https://wallstreetcn.com/livenews/3086045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时44分]"
+        },
+        {
+          "title": "LME期铜收涨164美元，报12846美元/吨。 LME期铝收涨54美元，报3498美元/吨。 LME期锌收涨6美元，报3333美元/吨。 LME期铅收跌5美元，报1922美元/吨。 LME期镍收涨153美元，报17241美元/吨。 LME期锡收涨301美元，报47987美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3086033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 02时52分]"
+        },
+        {
+          "title": "周五（4月10日）纽约尾盘，ICE美元指数跌0.15%，报98.672点，本周累计下跌1.36%，整体持续下挫，交投区间为100.273-98.525点。 彭博美元指数跌0.10%，报1198.47点，本周累跌1.43%，交投区间为1217.98-1196.85点。 美元兑日元涨0.20%，报159.28日元，本周累跌0.24%，交投区间为160.03-157.89日元。 本周，欧元兑日元累涨1.65%，英镑兑日元累涨1.89%。",
+          "url": "https://wallstreetcn.com/livenews/3086063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        }
+      ]
+    },
     {
       "keyword_group": "台积电 英伟达",
       "match_count": 3,
@@ -20,6 +62,18 @@
           "time_info": "[01时48分 ~ 02时52分]"
         },
         {
+          "title": "“大空头”Burry增持英伟达看跌期权，买入京东和阿里巴巴股票",
+          "url": "https://wallstreetcn.com/livenews/3086034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时44分]"
+        },
+        {
           "title": "“大空头”Michael Burry：加仓英伟达看跌期权。买入了京东、阿里巴巴等股票。",
           "url": "https://wallstreetcn.com/livenews/3086034",
           "source": "华尔街见闻-快讯",
@@ -29,47 +83,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        },
-        {
-          "title": "“大空头”Burry增持英伟达看跌期权，买入京东和阿里巴巴股票",
-          "url": "https://wallstreetcn.com/livenews/3086034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周五（4月10日），韩元兑美元最终跌0.57%，报1483.19韩元，本周累计上涨1.83%，4月4日跳空高开之前持续低位震荡于1510韩元附近、之后持续交投于期内顶部1470.07韩元附近。",
-          "url": "https://wallstreetcn.com/livenews/3086045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 02时52分]"
-        },
-        {
-          "title": "LME期铜收涨164美元，报12846美元/吨。 LME期铝收涨54美元，报3498美元/吨。 LME期锌收涨6美元，报3333美元/吨。 LME期铅收跌5美元，报1922美元/吨。 LME期镍收涨153美元，报17241美元/吨。 LME期锡收涨301美元，报47987美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3086033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 02时52分]"
         }
       ]
     },
@@ -85,8 +98,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 03时44分]"
         },
         {
           "title": "首都在线(300846.SZ)：公司暂无外延式扩张介入算力硬件生产业务的计划",
@@ -96,15 +109,26 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 03时44分]"
         }
       ]
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "财联社4月11日电，OpenAI表示，有人向首席执行官萨姆·奥尔特曼的住宅投掷了燃烧瓶，并在其公司旧金山总部发出威胁。",
+          "url": "https://api3.cls.cn/share/article/2341100?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 03时44分]"
+        },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
           "url": "https://flash.jin10.com/detail/20260411023746377800",
@@ -112,7 +136,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         }
@@ -120,7 +144,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "人工智能将纳入教师资格考试和认证内容",
@@ -130,8 +154,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 03时44分]"
+        },
+        {
+          "title": "市场消息：加拿大央行、该国各大银行及金融机构于周五举行会议，讨论Anthropic最新人工智能模型所带来的网络安全风险。",
+          "url": "https://flash.jin10.com/detail/20260411033527040800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 03时44分]"
         }
       ]
     },
@@ -147,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 03时44分]"
         }
       ]
     },
@@ -162,11 +197,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时44分]"
         }
       ]
     }
