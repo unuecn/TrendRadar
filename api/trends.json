@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T07:09:26.009542+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-04-10T08:02:03.695241+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
@@ -219,7 +219,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -238,7 +238,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【每日收评】三大指数缩量调整，全市场近4300股飘绿，算力硬件股持续爆发",
@@ -287,6 +287,17 @@
           "time_info": "[05时09分 ~ 06时06分]"
         },
         {
+          "title": "消息称Anthropic考虑自主研发AI芯片",
+          "url": "https://flash.jin10.com/detail/20260410070524223800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
           "title": "亚马逊考虑向其他公司出售其AI芯片",
           "url": "https://wallstreetcn.com/livenews/3085230",
           "source": "华尔街见闻-快讯",
@@ -308,11 +319,12 @@
           "url": "https://www.cls.cn/detail/2339282",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 08时02分]"
         },
         {
           "title": "亚马逊考虑向其他公司出售其人工智能芯片",
@@ -339,92 +351,8 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【研选】Optimus V3“另类”亮相，v3发布和量产正在路上，分析师看好特斯拉机器人产业链；省属大型现代化建筑企业集团，“投建运”一体化优势显著，成立低空科技公司加强低空领域布局",
-          "url": "https://api3.cls.cn/share/article/2338718?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "起亚将在美国启用机器人，并首推软件汽车与混动皮卡",
-          "url": "https://wallstreetcn.com/livenews/3085358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费电子 智能穿戴 智能座舱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "内存涨价终端承压 消费电子产业链差异化应对",
-          "url": "https://api3.cls.cn/share/article/2339821?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "内存涨价终端承压，消费电子产业链差异化应对",
-          "url": "https://wallstreetcn.com/livenews/3085372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "企业加码布局，脑机接口商业化进程提速",
-          "url": "https://wallstreetcn.com/livenews/3085371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "企业加码布局 脑机接口商业化进程提速",
-          "url": "https://api3.cls.cn/share/article/2339816?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，蔚来初步收跌4.8%，百度跌4.6%，晶科能源跌3.9%，比亚迪跌3.4%，小马智行跌3.3%，拼多多跌3%，金山云涨1.5%，阿里巴巴涨1.8%。 ETF中，KWEB跌1.1%，CQQQ跌0.9%。",
@@ -436,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "苹果将关闭美国首家成立工会的零售店",
+          "url": "https://flash.jin10.com/detail/20260410074806091800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.32%，报6786.05点。 热门中概股里，蔚来初步收跌4.8%，百度跌4.6%，晶科能源跌3.9%，比亚迪跌3.4%，小马智行跌3.3%，拼多多跌3%，金山云涨1.5%，阿里巴巴涨1.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.07%，中国科技指数ETF（CQQQ）收跌0.84%。 德银嘉实沪深300指数ETF（ASHR）收跌0.36%，XtrackersHarvest中证50（ASHS）收跌0.03%。",
@@ -451,6 +390,93 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【研选】Optimus V3“另类”亮相，v3发布和量产正在路上，分析师看好特斯拉机器人产业链；省属大型现代化建筑企业集团，“投建运”一体化优势显著，成立低空科技公司加强低空领域布局",
+          "url": "https://api3.cls.cn/share/article/2338718?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时09分 ~ 08时02分]"
+        },
+        {
+          "title": "起亚将在美国启用机器人，并首推软件汽车与混动皮卡",
+          "url": "https://wallstreetcn.com/livenews/3085358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "内存涨价终端承压，消费电子产业链差异化应对",
+          "url": "https://wallstreetcn.com/livenews/3085372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 08时02分]"
+        },
+        {
+          "title": "内存涨价终端承压 消费电子产业链差异化应对",
+          "url": "https://api3.cls.cn/share/article/2339821?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "企业加码布局，脑机接口商业化进程提速",
+          "url": "https://wallstreetcn.com/livenews/3085371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 08时02分]"
+        },
+        {
+          "title": "企业加码布局 脑机接口商业化进程提速",
+          "url": "https://api3.cls.cn/share/article/2339816?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英特尔 高通",
       "match_count": 2,
       "titles": [
@@ -462,8 +488,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 08时02分]"
         },
         {
           "title": "标普500指数初步收涨0.6%，可选消费板块涨2.4%，能源板块跌1.1%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊涨5.3%，英特尔涨4.9%，拉姆研究涨4.8%，美光涨3.6%，科磊涨3.2%，Palantir跌7.2%，CrowdStrike跌7.3%，Axon跌10.8%，Zscaler跌11.5%。 亚马逊领跑道指成分股，卡特彼勒、耐克、安进、沃尔玛等涨超1%，思科跌0.6%，雪佛龙跌1.4%，IBM跌2%，Salesforce跌3%。 费城半导体指数初步收涨2%，继续创收盘历史新高。",
@@ -506,11 +532,12 @@
           "url": "https://wallstreetcn.com/livenews/3085370",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 08时02分]"
         }
       ]
     },
@@ -526,8 +553,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 08时02分]"
         }
       ]
     },
@@ -540,11 +567,12 @@
           "url": "https://wallstreetcn.com/livenews/3085365",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 08时02分]"
         }
       ]
     },
@@ -594,7 +622,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         }
