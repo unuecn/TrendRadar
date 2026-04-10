@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T13:58:38.835736+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-04-10T15:49:48.508549+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -150,7 +150,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【每日收评】三大指数缩量调整，全市场近4300股飘绿，算力硬件股持续爆发",
@@ -210,13 +210,24 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
+          "title": "CoreWeave拿下Meta210亿美元大单，锁定至2032年算力供应",
+          "url": "https://wallstreetcn.com/articles/3769586",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "工信部：推动国家高新区加快布局智能算力设施 建设高质量数据集",
           "url": "https://api3.cls.cn/share/article/2340235?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -227,7 +238,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -260,7 +271,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -271,7 +282,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
@@ -388,70 +399,83 @@
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 5,
+      "keyword_group": "储能",
+      "match_count": 6,
       "titles": [
         {
-          "title": "创业板指午后涨超4%，沪指涨0.74%，深成指涨2.55%。电池、锂矿、存储芯片板块涨幅居前。全市场超4300只个股上涨。",
-          "url": "https://wallstreetcn.com/livenews/3085612",
-          "source": "华尔街见闻-快讯",
+          "title": "强劲需求推动中国储能市场飙升",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/04/09/20e2faf663284f5dab84079a204c1b9d.html",
+          "source": "参考消息",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 11时47分]"
+        },
+        {
+          "title": "四部门召开动力及储能电池行业企业座谈会，欣旺达成为特斯拉全球第五家动力电池供应商，电池ETF嘉实(562880)标的指数涨超4.5%",
+          "url": "https://www.gelonghui.com/news/5206943",
+          "source": "格隆汇",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
         {
-          "title": "存储芯片概念涨势扩大 德明利总市值突破1000亿",
-          "url": "https://api3.cls.cn/share/article/2340246?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "评论：中国官方部署规范动力及储能电池行业竞争秩序",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/1068954.html",
+          "source": "早报",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "A股存储芯片板块再度拉升，德明利触及涨停，佰维存储、兆易创新、普冉股份、江波龙跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3085610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "AI超级周期推动需求激增，多家存储芯片企业一季度业绩预喜",
-          "url": "https://wallstreetcn.com/livenews/3085370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
+            16,
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 15时49分]"
         },
         {
-          "title": "A股存储芯片板块午后再度拉升，晶升股份20CM涨停，德明利触及涨停，佰维存储、兆易创新、普冉股份、江波龙跟涨。",
-          "url": "https://flash.jin10.com/detail/20260410134014115800",
-          "source": "金十数据",
+          "title": "中国汽车动力电池产业创新联盟：3月我国动力和储能电池合计产量为177.7GWh，同比增长50.2%",
+          "url": "https://wallstreetcn.com/livenews/3085684",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "15时49分"
+        },
+        {
+          "title": "中国汽车动力电池产业创新联盟：3月我国动力和储能电池合计产量为177.7GWh 同比增长50.2%",
+          "url": "https://api3.cls.cn/share/article/2340401?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "四部门规范储能电池行业发展，储能电池ETF广发(159305)标的指数涨超4.5%，近一个月资金净流入3.28亿元",
+          "url": "https://www.gelonghui.com/news/5206912",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
@@ -481,11 +505,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时49分]"
+        },
+        {
+          "title": "中国将人工智能纳入教师资格考试和认证内容",
+          "url": "https://www.zaochenbao.com/news/china/202604/1068979.html",
+          "source": "早报",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "15时49分"
         },
         {
           "title": "件股再度集体重挫，AI智能体令行业增长前景受到沉重打击",
@@ -505,7 +541,141 @@
           "ranks": [
             19
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "小米食堂发布小米冰激凌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%A3%9F%E5%A0%82%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E5%86%B0%E6%BF%80%E5%87%8C%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "特斯拉中国否认将投产全新小型SUV",
+          "url": "https://www.zaochenbao.com/news/china/202604/1068970.html",
+          "source": "早报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "小米MiMo获Kilo多个热门场景榜单第一",
+          "url": "https://flash.jin10.com/detail/20260410111943919800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "将投产全新小型廉价SUV？特斯拉中国回应：谣言",
+          "url": "https://wallstreetcn.com/livenews/3085581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "小米冰淇淋真有小米",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%86%B0%E6%B7%87%E6%B7%8B%E7%9C%9F%E6%9C%89%E5%B0%8F%E7%B1%B3%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "小米YU7入门级版本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3YU7%E5%85%A5%E9%97%A8%E7%BA%A7%E7%89%88%E6%9C%AC%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "创业板指午后涨超4%，沪指涨0.74%，深成指涨2.55%。电池、锂矿、存储芯片板块涨幅居前。全市场超4300只个股上涨。",
+          "url": "https://wallstreetcn.com/livenews/3085612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "存储芯片概念涨势扩大 德明利总市值突破1000亿",
+          "url": "https://api3.cls.cn/share/article/2340246?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "A股存储芯片板块再度拉升，德明利触及涨停，佰维存储、兆易创新、普冉股份、江波龙跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3085610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "AI超级周期推动需求激增，多家存储芯片企业一季度业绩预喜",
+          "url": "https://wallstreetcn.com/livenews/3085370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 08时02分]"
+        },
+        {
+          "title": "A股存储芯片板块午后再度拉升，晶升股份20CM涨停，德明利触及涨停，佰维存储、兆易创新、普冉股份、江波龙跟涨。",
+          "url": "https://flash.jin10.com/detail/20260410134014115800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
@@ -522,7 +692,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -545,7 +715,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -556,7 +726,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -567,61 +737,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "强劲需求推动中国储能市场飙升",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/04/09/20e2faf663284f5dab84079a204c1b9d.html",
-          "source": "参考消息",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 11时47分]"
-        },
-        {
-          "title": "四部门召开动力及储能电池行业企业座谈会，欣旺达成为特斯拉全球第五家动力电池供应商，电池ETF嘉实(562880)标的指数涨超4.5%",
-          "url": "https://www.gelonghui.com/news/5206943",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "评论：中国官方部署规范动力及储能电池行业竞争秩序",
-          "url": "https://www.zaochenbao.com/news/opinion/202604/1068954.html",
-          "source": "早报",
-          "ranks": [
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 13时58分]"
-        },
-        {
-          "title": "四部门规范储能电池行业发展，储能电池ETF广发(159305)标的指数涨超4.5%，近一个月资金净流入3.28亿元",
-          "url": "https://www.gelonghui.com/news/5206912",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时47分"
         }
       ]
     },
@@ -647,7 +765,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -727,52 +845,91 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
+      "keyword_group": "苹果 比亚迪",
       "match_count": 4,
       "titles": [
         {
-          "title": "特斯拉中国否认将投产全新小型SUV",
-          "url": "https://www.zaochenbao.com/news/china/202604/1068970.html",
-          "source": "早报",
+          "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，蔚来初步收跌4.8%，百度跌4.6%，晶科能源跌3.9%，比亚迪跌3.4%，小马智行跌3.3%，拼多多跌3%，金山云涨1.5%，阿里巴巴涨1.8%。 ETF中，KWEB跌1.1%，CQQQ跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3085315",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "苹果将关闭美国首家成立工会的零售店",
+          "url": "https://flash.jin10.com/detail/20260410074806091800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "商品期货收盘，BR橡胶、烧碱、焦煤主力合约跌超4%，PVC、集运欧线、乙二醇跌超3%，PTA、短纤、焦炭跌超2%。棉花、豆一涨超2%，LU燃油、苹果、棉纱、铂、玉米、原油涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3085658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "15时49分"
         },
         {
-          "title": "小米MiMo获Kilo多个热门场景榜单第一",
-          "url": "https://flash.jin10.com/detail/20260410111943919800",
-          "source": "金十数据",
+          "title": "纳斯达克金龙中国指数收跌1.32%，报6786.05点。 热门中概股里，蔚来初步收跌4.8%，百度跌4.6%，晶科能源跌3.9%，比亚迪跌3.4%，小马智行跌3.3%，拼多多跌3%，金山云涨1.5%，阿里巴巴涨1.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.07%，中国科技指数ETF（CQQQ）收跌0.84%。 德银嘉实沪深300指数ETF（ASHR）收跌0.36%，XtrackersHarvest中证50（ASHS）收跌0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3085315",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "广期所：碳酸锂期货仓单25453手，环比上个交易日增加789手",
+          "url": "https://wallstreetcn.com/livenews/3085692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "财联社4月10日电，广期所品种仓单及变化如下：碳酸锂期货仓单25453手，环比上个交易日增加789手；多晶硅期货仓单11970手，环比上个交易日增加80手；工业硅期货仓单24425手，环比上个交易日增加514手。",
+          "url": "https://api3.cls.cn/share/article/2340423?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "财联社4月10日电，数据显示，今日MMLC电池级碳酸锂（早盘）价格与上日持平，中间价报154750元/吨。",
+          "url": "https://api3.cls.cn/share/article/2340100?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
-        },
-        {
-          "title": "将投产全新小型廉价SUV？特斯拉中国回应：谣言",
-          "url": "https://wallstreetcn.com/livenews/3085581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "小米YU7入门级版本",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3YU7%E5%85%A5%E9%97%A8%E7%BA%A7%E7%89%88%E6%9C%AC%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
         }
       ]
     },
@@ -810,48 +967,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，蔚来初步收跌4.8%，百度跌4.6%，晶科能源跌3.9%，比亚迪跌3.4%，小马智行跌3.3%，拼多多跌3%，金山云涨1.5%，阿里巴巴涨1.8%。 ETF中，KWEB跌1.1%，CQQQ跌0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3085315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果将关闭美国首家成立工会的零售店",
-          "url": "https://flash.jin10.com/detail/20260410074806091800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.32%，报6786.05点。 热门中概股里，蔚来初步收跌4.8%，百度跌4.6%，晶科能源跌3.9%，比亚迪跌3.4%，小马智行跌3.3%，拼多多跌3%，金山云涨1.5%，阿里巴巴涨1.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.07%，中国科技指数ETF（CQQQ）收跌0.84%。 德银嘉实沪深300指数ETF（ASHR）收跌0.36%，XtrackersHarvest中证50（ASHS）收跌0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3085315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
         }
       ]
     },
@@ -923,7 +1041,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -934,7 +1052,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
@@ -998,7 +1116,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
@@ -1033,26 +1151,43 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "keyword_group": "量子科技 量子计算 量子通信",
       "match_count": 1,
       "titles": [
         {
-          "title": "财联社4月10日电，数据显示，今日MMLC电池级碳酸锂（早盘）价格与上日持平，中间价报154750元/吨。",
-          "url": "https://api3.cls.cn/share/article/2340100?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "吉利、蚂蚁集团入股量子计算公司幺正量子",
+          "url": "https://api3.cls.cn/share/article/2340421?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            14
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时47分"
+          "time_info": "15时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "协鑫集成(002506.SZ)：尚不具备“太空光伏”领域相关产品的生产能力，尚未获得相关订单",
+          "url": "https://www.gelonghui.com/news/5207012",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         }
       ]
     },
