@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T17:09:10.188717+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-04-11T18:04:42.881269+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时01分 ~ 17时09分]"
+          "appearance_count": 7,
+          "time_info": "[14时01分 ~ 18时04分]"
         },
         {
           "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
@@ -168,8 +169,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时10分 ~ 17时09分]"
+          "appearance_count": 9,
+          "time_info": "[10时10分 ~ 18时04分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -285,6 +286,19 @@
           "time_info": "[15时14分 ~ 17时09分]"
         },
         {
+          "title": "卓驭科技CEO沈劭劼：智能驾驶其实只是物理AI的最初形态，绝非终局",
+          "url": "https://api3.cls.cn/share/article/2341261?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时04分 ~ 18时04分]"
+        },
+        {
           "title": "华为靳玉志：L3是必经阶段 2026年或为全球自动驾驶元年",
           "url": "https://api3.cls.cn/share/article/2341221?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -295,18 +309,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时34分 ~ 14时02分]"
-        },
-        {
-          "title": "卓驭科技CEO沈劭劼：智能驾驶其实只是物理AI的最初形态，绝非终局",
-          "url": "https://api3.cls.cn/share/article/2341261?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 17时09分]"
         },
         {
           "title": "特斯拉：“受监督的全自动驾驶”（FSD Supervised）已在荷兰获批，并将很快在该国开始推行。",
@@ -337,7 +339,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "人工智能将纳入教师资格考试和认证内容",
@@ -352,28 +354,30 @@
           "time_info": "[00时52分 ~ 10时10分]"
         },
         {
-          "title": "工业和信息化部将发布一批“人工智能+”高价值场景",
-          "url": "https://wallstreetcn.com/livenews/3086184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
           "title": "普京：俄罗斯须自主研发有竞争力的人工智能模型",
           "url": "https://wallstreetcn.com/livenews/3086174",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
             7,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时14分 ~ 17时09分]"
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 18时04分]"
+        },
+        {
+          "title": "工业和信息化部将发布一批“人工智能+”高价值场景",
+          "url": "https://wallstreetcn.com/livenews/3086184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时04分]"
         },
         {
           "title": "普京：俄罗斯须自主研发有竞争力的人工智能模型",
@@ -398,6 +402,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 03时44分]"
+        },
+        {
+          "title": "工业和信息化部将发布一批“人工智能+”高价值场景",
+          "url": "https://flash.jin10.com/detail/20260411165101237800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         }
       ]
     },
@@ -490,8 +505,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时52分 ~ 17时09分]"
+          "appearance_count": 19,
+          "time_info": "[00时52分 ~ 18时04分]"
         },
         {
           "title": "“太空算力专业委员会”启动成员征集",
@@ -577,29 +592,31 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "侵入式脑机“首秀”、康养机器人扎堆CMEF，前沿技术能否撑起智慧康养新蓝海？",
+          "url": "https://www.cls.cn/detail/2341198",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时01分 ~ 18时04分]"
+        },
+        {
           "title": "广汽集团董事长：广汽集团具身智能机器人即将量产",
           "url": "https://wallstreetcn.com/livenews/3086178",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             3,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时14分 ~ 17时09分]"
-        },
-        {
-          "title": "侵入式脑机“首秀”、康养机器人扎堆CMEF，前沿技术能否撑起智慧康养新蓝海？",
-          "url": "https://www.cls.cn/detail/2341198",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时01分 ~ 17时09分]"
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 18时04分]"
         },
         {
           "title": "广汽集团董事长冯兴亚：广汽集团具身智能机器人即将量产",
@@ -607,11 +624,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            11
+            11,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 17时09分]"
+          "appearance_count": 4,
+          "time_info": "[16时04分 ~ 18时04分]"
         }
       ]
     },
@@ -719,11 +737,12 @@
           "ranks": [
             10,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时34分 ~ 17时09分]"
+          "appearance_count": 8,
+          "time_info": "[12时34分 ~ 18时04分]"
         }
       ]
     },
