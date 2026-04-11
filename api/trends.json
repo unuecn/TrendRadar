@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T12:34:13.848912+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-04-11T14:02:10.829242+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时43分 ~ 04时37分]"
+        },
+        {
+          "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
+          "url": "https://wallstreetcn.com/livenews/3086151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 14时02分]"
         },
         {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
@@ -80,18 +93,6 @@
           "time_info": "[10时10分 ~ 12时34分]"
         },
         {
-          "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
-          "url": "https://wallstreetcn.com/livenews/3086151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时34分]"
-        },
-        {
           "title": "财联社4月11日电，据报道，美国白宫针对未来即将面世的一系列AI模型协调网络响应。白宫准备回应Anthropic与OpenAI的诸多模型。",
           "url": "https://api3.cls.cn/share/article/2341140?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -128,6 +129,17 @@
           "time_info": "[10时10分 ~ 12时34分]"
         },
         {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
           "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
           "url": "https://wallstreetcn.com/livenews/3086079",
           "source": "华尔街见闻-快讯",
@@ -152,8 +164,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 14时02分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -245,17 +257,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "华为靳玉志：L3是必经阶段 2026年或为全球自动驾驶元年",
-          "url": "https://api3.cls.cn/share/article/2341221?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
           "title": "特斯拉：受监督管理的FSD（全自动驾驶）在荷兰获批。",
           "url": "https://wallstreetcn.com/livenews/3086115",
           "source": "华尔街见闻-快讯",
@@ -265,6 +266,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "华为靳玉志：L3是必经阶段 2026年或为全球自动驾驶元年",
+          "url": "https://api3.cls.cn/share/article/2341221?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 14时02分]"
         },
         {
           "title": "特斯拉：“受监督的全自动驾驶”（FSD Supervised）已在荷兰获批，并将很快在该国开始推行。",
@@ -346,6 +359,47 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【每日收评】创业板涨近4%再创阶段新高，锂电板块全线爆发，算力硬件反复活跃",
+          "url": "https://www.cls.cn/detail/2340531",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时38分]"
+        },
+        {
+          "title": "首都在线(300846.SZ)：公司暂无外延式扩张介入算力硬件生产业务的计划",
+          "url": "https://www.gelonghui.com/news/5207712",
+          "source": "格隆汇",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 14时02分]"
+        },
+        {
+          "title": "“太空算力专业委员会”启动成员征集",
+          "url": "https://api3.cls.cn/share/article/2341232?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 3,
       "titles": [
@@ -384,36 +438,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时37分 ~ 07时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【每日收评】创业板涨近4%再创阶段新高，锂电板块全线爆发，算力硬件反复活跃",
-          "url": "https://www.cls.cn/detail/2340531",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时38分]"
-        },
-        {
-          "title": "首都在线(300846.SZ)：公司暂无外延式扩张介入算力硬件生产业务的计划",
-          "url": "https://www.gelonghui.com/news/5207712",
-          "source": "格隆汇",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 12时34分]"
         }
       ]
     },
@@ -494,6 +518,23 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "侵入式脑机“首秀”、康养机器人扎堆CMEF，前沿技术能否撑起智慧康养新蓝海？",
+          "url": "https://www.cls.cn/detail/2341198",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
       "match_count": 1,
       "titles": [
@@ -502,11 +543,12 @@
           "url": "https://www.cls.cn/detail/2341164",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 14时02分]"
         }
       ]
     },
