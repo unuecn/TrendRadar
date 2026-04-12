@@ -1,77 +1,11 @@
 {
-  "generated_at": "2026-04-12T18:07:19.421501+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-04-12T19:07:20.392562+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "中国启动“太空算力专业委员会”成员征集",
-          "url": "https://www.zaochenbao.com/news/china/202604/1169090.html",
-          "source": "早报",
-          "ranks": [
-            5,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 13时23分]"
-        },
-        {
-          "title": "顶尖大模型“能力突变”，算力需求“系统性超越供给”--大摩：“市场乐观的程度可能还不够”",
-          "url": "https://wallstreetcn.com/articles/3769750",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时32分 ~ 18时07分]"
-        },
-        {
-          "title": "首都在线(300846.SZ)：公司暂无外延式扩张介入算力硬件生产业务的计划",
-          "url": "https://www.gelonghui.com/news/5207712",
-          "source": "格隆汇",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 00时38分]"
-        },
-        {
-          "title": "【研选】全球高速光模块龙头，境外营收占比超过90%，直接受益于海外对高速光模块的需求；超节点打开国产算力新机遇，这家公司围绕多元异构、高速互连、液冷散热等核心技术领域发明专利占比超过64%",
-          "url": "https://api3.cls.cn/share/article/2341334?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
-        },
-        {
-          "title": "【风口研报·行业】国产算力需求持续爆发，2026年为国产超节点放量元年，分析师首推增量Scale up环节，梳理全产业链受益公司；另有一家“锂矿新锐”碳酸锂资源量超470万吨",
-          "url": "https://api3.cls.cn/share/article/2341475?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "70多款机器人深夜竞速",
@@ -124,6 +58,28 @@
           "time_info": "[00时37分 ~ 01时31分]"
         },
         {
+          "title": "磁吸爬壁、多场景作业 我国特种机器人迈上具身智能新台阶",
+          "url": "https://wallstreetcn.com/livenews/3086377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "磁吸爬壁、多场景作业 我国特种机器人迈上具身智能新台阶",
+          "url": "https://api3.cls.cn/share/article/2341559?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "宇树科技H1人形机器人奔跑速度打破人形机器人世界纪录",
           "url": "https://flash.jin10.com/detail/20260412105716390800",
           "source": "金十数据",
@@ -133,6 +89,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "顶尖大模型“能力突变”，算力需求“系统性超越供给”--大摩：“市场乐观的程度可能还不够”",
+          "url": "https://wallstreetcn.com/articles/3769750",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 19时07分]"
+        },
+        {
+          "title": "中国启动“太空算力专业委员会”成员征集",
+          "url": "https://www.zaochenbao.com/news/china/202604/1169090.html",
+          "source": "早报",
+          "ranks": [
+            5,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 13时23分]"
+        },
+        {
+          "title": "首都在线(300846.SZ)：公司暂无外延式扩张介入算力硬件生产业务的计划",
+          "url": "https://www.gelonghui.com/news/5207712",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 00时38分]"
+        },
+        {
+          "title": "【研选】全球高速光模块龙头，境外营收占比超过90%，直接受益于海外对高速光模块的需求；超节点打开国产算力新机遇，这家公司围绕多元异构、高速互连、液冷散热等核心技术领域发明专利占比超过64%",
+          "url": "https://api3.cls.cn/share/article/2341334?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 14时54分]"
+        },
+        {
+          "title": "【风口研报·行业】国产算力需求持续爆发，2026年为国产超节点放量元年，分析师首推增量Scale up环节，梳理全产业链受益公司；另有一家“锂矿新锐”碳酸锂资源量超470万吨",
+          "url": "https://api3.cls.cn/share/article/2341475?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         }
       ]
     },
@@ -149,8 +171,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时32分 ~ 18时07分]"
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 19时07分]"
         },
         {
           "title": "卫星互联网技术试验卫星发射任务圆满成功",
@@ -160,8 +182,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 19时07分]"
         },
         {
           "title": "我国成功发射卫星互联网技术试验卫星",
@@ -211,11 +233,12 @@
           "ranks": [
             1,
             7,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时03分 ~ 18时07分]"
+          "appearance_count": 4,
+          "time_info": "[16时03分 ~ 19时07分]"
         },
         {
           "title": "海思科：一季度净利同比预增923%-1095% 创新药销售保持良好增长",
@@ -237,19 +260,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时37分 ~ 18时07分]"
-        },
-        {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
           "url": "https://wallstreetcn.com/articles/3769740",
           "source": "华尔街见闻",
@@ -261,6 +271,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时37分 ~ 10时33分]"
+        },
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 19时07分]"
         },
         {
           "title": "彭博：DeepSeek在内蒙古招聘数据中心工程师",
@@ -405,6 +429,23 @@
       ]
     },
     {
+      "keyword_group": "雷达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "禾赛科技张伟：预计到2030年，激光雷达搭载率将超过56%",
+          "url": "https://wallstreetcn.com/livenews/3086372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
       "match_count": 1,
       "titles": [
@@ -413,11 +454,12 @@
           "url": "https://api3.cls.cn/share/article/2341490?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 19时07分]"
         }
       ]
     },
@@ -467,9 +509,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 19时07分]"
         }
       ]
     }
