@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T17:12:44.343973+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-04-12T18:07:19.421501+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 17时12分]"
+          "appearance_count": 8,
+          "time_info": "[10时32分 ~ 18时07分]"
         },
         {
           "title": "首都在线(300846.SZ)：公司暂无外延式扩张介入算力硬件生产业务的计划",
@@ -63,7 +63,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         }
@@ -149,8 +149,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 17时12分]"
+          "appearance_count": 8,
+          "time_info": "[10时32分 ~ 18时07分]"
         },
         {
           "title": "卫星互联网技术试验卫星发射任务圆满成功",
@@ -210,11 +210,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 17时12分]"
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 18时07分]"
         },
         {
           "title": "海思科：一季度净利同比预增923%-1095% 创新药销售保持良好增长",
@@ -222,11 +223,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 17时12分]"
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 18时07分]"
         }
       ]
     },
@@ -244,8 +246,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 17时12分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 18时07分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -403,6 +405,23 @@
       ]
     },
     {
+      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【风口研报·公司】北美变压器弹性显著，分析师强call公司有望依托区位优势持续获取高质量海外订单，叠加特高压+高端新材料的布局，可观的成长空间已打开；另有公司有望以钼为核，以锂为矛，迈入高成长周期",
+          "url": "https://api3.cls.cn/share/article/2341490?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
       "match_count": 1,
       "titles": [
@@ -434,6 +453,23 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时37分 ~ 10时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊局势再陷“迷雾”？万斯宣布“无果返美”，比特币跌破72000关口！",
+          "url": "https://www.cls.cn/detail/2341419",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         }
       ]
     }
