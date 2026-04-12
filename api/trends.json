@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T19:57:14.419617+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-04-12T21:04:53.090021+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "70多款机器人深夜竞速",
@@ -82,6 +82,17 @@
           "time_info": "[19时07分 ~ 19时57分]"
         },
         {
+          "title": "荣耀自研机器人“闪电”“元气仔”将出征北京亦庄马拉松",
+          "url": "https://wallstreetcn.com/livenews/3086407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "宇树科技H1人形机器人奔跑速度打破人形机器人世界纪录",
           "url": "https://flash.jin10.com/detail/20260412105716390800",
           "source": "金十数据",
@@ -96,7 +107,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "顶尖大模型“能力突变”，算力需求“系统性超越供给”--大摩：“市场乐观的程度可能还不够”",
@@ -157,12 +168,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
+        },
+        {
+          "title": "光电混合算力提供商曦智科技通过港交所上市聆讯",
+          "url": "https://wallstreetcn.com/livenews/3086401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
@@ -195,11 +217,34 @@
           "url": "https://wallstreetcn.com/livenews/3086390",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 21时04分]"
+        },
+        {
+          "title": "财联社4月12日电，据报道，英国金融监管机构紧急评估Anthropico最新人工智能模型的风险。",
+          "url": "https://api3.cls.cn/share/article/2341581?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时57分"
+          "time_info": "21时04分"
+        },
+        {
+          "title": "英国金融监管机构紧急评估Anthropico最新人工智能模型的风险。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3086408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量",
@@ -227,8 +272,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时32分 ~ 19时57分]"
+          "appearance_count": 11,
+          "time_info": "[10时32分 ~ 21时04分]"
         },
         {
           "title": "卫星互联网技术试验卫星发射任务圆满成功",
@@ -339,8 +384,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时37分 ~ 19时57分]"
+          "appearance_count": 22,
+          "time_info": "[00时37分 ~ 21时04分]"
         },
         {
           "title": "彭博：DeepSeek在内蒙古招聘数据中心工程师",
@@ -523,11 +568,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 19时57分]"
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 21时04分]"
         }
       ]
     }
