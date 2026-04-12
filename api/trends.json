@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-04-12T16:03:50.875220+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2026-04-12T17:12:44.343973+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "中国启动“太空算力专业委员会”成员征集",
+          "url": "https://www.zaochenbao.com/news/china/202604/1169090.html",
+          "source": "早报",
+          "ranks": [
+            5,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 13时23分]"
+        },
+        {
+          "title": "顶尖大模型“能力突变”，算力需求“系统性超越供给”--大摩：“市场乐观的程度可能还不够”",
+          "url": "https://wallstreetcn.com/articles/3769750",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 17时12分]"
+        },
+        {
+          "title": "首都在线(300846.SZ)：公司暂无外延式扩张介入算力硬件生产业务的计划",
+          "url": "https://www.gelonghui.com/news/5207712",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 00时38分]"
+        },
+        {
+          "title": "【研选】全球高速光模块龙头，境外营收占比超过90%，直接受益于海外对高速光模块的需求；超节点打开国产算力新机遇，这家公司围绕多元异构、高速互连、液冷散热等核心技术领域发明专利占比超过64%",
+          "url": "https://api3.cls.cn/share/article/2341334?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 14时54分]"
+        },
+        {
+          "title": "【风口研报·行业】国产算力需求持续爆发，2026年为国产超节点放量元年，分析师首推增量Scale up环节，梳理全产业链受益公司；另有一家“锂矿新锐”碳酸锂资源量超470万吨",
+          "url": "https://api3.cls.cn/share/article/2341475?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        }
+      ]
+    },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 5,
@@ -13,11 +79,12 @@
           "source": "微博",
           "ranks": [
             9,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 16时03分]"
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 17时12分]"
         },
         {
           "title": "宇树机器人百米冲刺10米每秒",
@@ -70,60 +137,6 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中国启动“太空算力专业委员会”成员征集",
-          "url": "https://www.zaochenbao.com/news/china/202604/1169090.html",
-          "source": "早报",
-          "ranks": [
-            5,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 13时23分]"
-        },
-        {
-          "title": "顶尖大模型“能力突变”，算力需求“系统性超越供给”--大摩：“市场乐观的程度可能还不够”",
-          "url": "https://wallstreetcn.com/articles/3769750",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 16时03分]"
-        },
-        {
-          "title": "首都在线(300846.SZ)：公司暂无外延式扩张介入算力硬件生产业务的计划",
-          "url": "https://www.gelonghui.com/news/5207712",
-          "source": "格隆汇",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 00时38分]"
-        },
-        {
-          "title": "【研选】全球高速光模块龙头，境外营收占比超过90%，直接受益于海外对高速光模块的需求；超节点打开国产算力新机遇，这家公司围绕多元异构、高速互连、液冷散热等核心技术领域发明专利占比超过64%",
-          "url": "https://api3.cls.cn/share/article/2341334?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 4,
       "titles": [
@@ -136,8 +149,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 16时03分]"
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 17时12分]"
         },
         {
           "title": "卫星互联网技术试验卫星发射任务圆满成功",
@@ -181,37 +194,39 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "海思科：预计一季度净利润4.77亿元-5.57亿元，同比增长923.34%-1094.97%，创新药销售持续保持良好增长",
-          "url": "https://wallstreetcn.com/livenews/3086350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "海思科：一季度净利同比预增923%-1095% 创新药销售保持良好增长",
-          "url": "https://flash.jin10.com/detail/20260412153859499800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
           "title": "海思科：一季度净利同比预增923%-1095% 创新药销售保持良好增长",
           "url": "https://api3.cls.cn/share/article/2341491?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "海思科：预计一季度净利润4.77亿元-5.57亿元，同比增长923.34%-1094.97%，创新药销售持续保持良好增长",
+          "url": "https://wallstreetcn.com/livenews/3086350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 17时12分]"
+        },
+        {
+          "title": "海思科：一季度净利同比预增923%-1095% 创新药销售保持良好增长",
+          "url": "https://flash.jin10.com/detail/20260412153859499800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 17时12分]"
         }
       ]
     },
@@ -229,8 +244,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 16时03分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 17时12分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -398,7 +413,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         }
