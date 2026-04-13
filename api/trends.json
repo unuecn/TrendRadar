@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T21:25:48.691137+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-04-13T23:58:07.656044+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "金十期货4月13日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨1350元/吨，中间价报156100元/吨。",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "财联社4月13日电，全球第二大锂生产商智利矿业化工（SQM）高管表示，该公司预计2026年碳酸锂价格将维持在每千克15-18美元区间。",
+          "url": "https://api3.cls.cn/share/article/2342784?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时57分 ~ 23时58分]"
         },
         {
           "title": "多晶硅期货主力合约日内触及涨停",
@@ -85,6 +96,17 @@
           "time_info": "16时03分"
         },
         {
+          "title": "智利化工矿业公司（SQM）：预计碳酸锂价格将于2026年维持在15-18美元/公斤左右。",
+          "url": "https://wallstreetcn.com/livenews/3087056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "多家龙头公司辟谣：多晶硅控产挺价传闻不实",
           "url": "https://wallstreetcn.com/livenews/3086842",
           "source": "华尔街见闻-快讯",
@@ -110,7 +132,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "四川：“十五五”期间力争建成15个大型及以上智算设施 打造全省一体化算力监测调度服务、算力设施安全平台",
@@ -146,6 +168,17 @@
           "time_info": "[13时41分 ~ 13时42分]"
         },
         {
+          "title": "【季报高增长】CPO+算力，一季度净利润环比增长超300%！这家公司光互联业务受益于数据中心的密集建设，带来的光模块订单快速增长，旗下400G、800G、1.6T等高速光模块出货量大幅提升",
+          "url": "https://api3.cls.cn/share/article/2342775?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时57分 ~ 23时58分]"
+        },
+        {
           "title": "四川：“十五五”期间加快建设大模型训练场、具身智能机器人训练场 统筹推进算力设施建设",
           "url": "https://api3.cls.cn/share/article/2341897?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -174,7 +207,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -188,6 +221,92 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "日上集团(002593.SZ)：未拓展机器人相关业务",
+          "url": "https://www.gelonghui.com/news/5208637",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时57分 ~ 23时58分]"
+        },
+        {
+          "title": "宇树H1跑出每秒10米刷新机器人世界纪录",
+          "url": "https://www.zaochenbao.com/news/china/202604/1369229.html",
+          "source": "早报",
+          "ranks": [
+            5,
+            11,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 23时58分]"
+        },
+        {
+          "title": "大行评级丨瑞银：上调微创机器人目标价至35.9港元，看好强劲的海外销售潜力",
+          "url": "https://www.gelonghui.com/news/5208060",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
+        },
+        {
+          "title": "海信家电(000921.SZ)：在2026年国际消费电子展CES上，海信推出首款商业化人形机器人Harley",
+          "url": "https://www.gelonghui.com/news/5208625",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时57分 ~ 23时58分]"
+        },
+        {
+          "title": "【视频】人形机器人在北京深夜测试 为半马做准备",
+          "url": "https://www.zaochenbao.com/news/china/202604/1369210.html",
+          "source": "早报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "【财联社早知道】全球首届具身智能大会将在硅谷举行！分析师称2026年是人形机器人量产验证与场景落地的关键窗口，这家公司用于人形机器人的产品主要以行星电关节模组、谐波电关节模组为主",
+          "url": "https://api3.cls.cn/share/article/2342676?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "速腾聚创“机器人之眼”AC系列获欧洲头部人形机器人企业规模化订单",
+          "url": "https://www.gelonghui.com/news/5208020",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
@@ -348,65 +467,75 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 5,
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 6,
       "titles": [
         {
-          "title": "宇树H1跑出每秒10米刷新机器人世界纪录",
-          "url": "https://www.zaochenbao.com/news/china/202604/1369229.html",
-          "source": "早报",
+          "title": "因并购贷款未达成，10倍光伏概念牛股收购事项告吹",
+          "url": "https://www.cls.cn/detail/2342608",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            11,
-            18
+            4,
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时13分 ~ 21时25分]"
+          "time_info": "[21时25分 ~ 23时58分]"
         },
         {
-          "title": "大行评级丨瑞银：上调微创机器人目标价至35.9港元，看好强劲的海外销售潜力",
-          "url": "https://www.gelonghui.com/news/5208060",
-          "source": "格隆汇",
+          "title": "光伏概念震荡反弹 通威股份涨停",
+          "url": "https://api3.cls.cn/share/article/2342047?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            7
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时41分 ~ 13时42分]"
         },
         {
-          "title": "【视频】人形机器人在北京深夜测试 为半马做准备",
-          "url": "https://www.zaochenbao.com/news/china/202604/1369210.html",
-          "source": "早报",
+          "title": "协鑫能科(002015.SZ)：目前公司在越南、印尼已有风电、光伏发电等项目正在建设中",
+          "url": "https://www.gelonghui.com/news/5208638",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时57分 ~ 23时58分]"
+        },
+        {
+          "title": "中国诚通发展集团(00217.HK)附属订立两年期售后回租协议 购买光伏发电设备及箱式变电站回租",
+          "url": "https://www.gelonghui.com/news/5208558",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指跌0.11%，深成指涨0.6%，养殖、锂矿、半导体、光伏设备等方向领涨，沪深京三市上涨个股超2200只。",
+          "url": "https://wallstreetcn.com/livenews/3086602",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "10时38分"
         },
         {
-          "title": "【财联社早知道】全球首届具身智能大会将在硅谷举行！分析师称2026年是人形机器人量产验证与场景落地的关键窗口，这家公司用于人形机器人的产品主要以行星电关节模组、谐波电关节模组为主",
-          "url": "https://api3.cls.cn/share/article/2342676?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "创业板指涨0.8%再创阶段新高，锂电、光伏板块集体走强",
+          "url": "https://wallstreetcn.com/livenews/3086733",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
-          "title": "速腾聚创“机器人之眼”AC系列获欧洲头部人形机器人企业规模化订单",
-          "url": "https://www.gelonghui.com/news/5208020",
-          "source": "格隆汇",
-          "ranks": [
-            14
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "16时03分"
         }
       ]
     },
@@ -475,67 +604,6 @@
       ]
     },
     {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "光伏概念震荡反弹 通威股份涨停",
-          "url": "https://api3.cls.cn/share/article/2342047?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "因并购贷款未达成，10倍光伏概念牛股收购事项告吹",
-          "url": "https://www.cls.cn/detail/2342608",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
-          "title": "中国诚通发展集团(00217.HK)附属订立两年期售后回租协议 购买光伏发电设备及箱式变电站回租",
-          "url": "https://www.gelonghui.com/news/5208558",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
-          "title": "创业板指涨超1%，沪指跌0.11%，深成指涨0.6%，养殖、锂矿、半导体、光伏设备等方向领涨，沪深京三市上涨个股超2200只。",
-          "url": "https://wallstreetcn.com/livenews/3086602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "创业板指涨0.8%再创阶段新高，锂电、光伏板块集体走强",
-          "url": "https://wallstreetcn.com/livenews/3086733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 4,
       "titles": [
@@ -558,7 +626,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -569,7 +637,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -706,6 +774,46 @@
       ]
     },
     {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美伊局势再陷“迷雾”？万斯宣布“无果返美”，比特币跌破72000关口！",
+          "url": "https://www.cls.cn/detail/2341419",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时35分]"
+        },
+        {
+          "title": "比特币向上突破72000美元",
+          "url": "https://api3.cls.cn/share/article/2342774?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时57分 ~ 23时58分]"
+        },
+        {
+          "title": "财联社4月13日电，BMNR宣布其以太坊持仓已达487.5万枚，同时加密货币及现金持有总额为118亿美元。",
+          "url": "https://api3.cls.cn/share/article/2342664?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 2,
       "titles": [
@@ -783,40 +891,12 @@
           "ranks": [
             7,
             13,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 21时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美伊局势再陷“迷雾”？万斯宣布“无果返美”，比特币跌破72000关口！",
-          "url": "https://www.cls.cn/detail/2341419",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时35分]"
-        },
-        {
-          "title": "财联社4月13日电，BMNR宣布其以太坊持仓已达487.5万枚，同时加密货币及现金持有总额为118亿美元。",
-          "url": "https://api3.cls.cn/share/article/2342664?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 23时58分]"
         }
       ]
     },
@@ -834,6 +914,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中科电气(300035.SZ)：公司负极材料业务针对钠离子电池所需的硬碳负极材料已实现量产",
+          "url": "https://www.gelonghui.com/news/5208639",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时57分 ~ 23时58分]"
         }
       ]
     },
