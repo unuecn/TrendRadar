@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T19:56:33.280335+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-04-15T21:24:26.159398+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
@@ -72,11 +72,24 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时56分]"
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时24分]"
+        },
+        {
+          "title": "【每日收评】创业板高开低走跌超1%，医药板块逆势爆发，算力硬件、锂电股双双熄火",
+          "url": "https://www.cls.cn/detail/2344899",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时24分]"
         },
         {
           "title": "Meta与博通就定制款AI芯片签署协议",
@@ -89,18 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时45分]"
-        },
-        {
-          "title": "【每日收评】创业板高开低走跌超1%，医药板块逆势爆发，算力硬件、锂电股双双熄火",
-          "url": "https://www.cls.cn/detail/2344899",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时56分]"
         },
         {
           "title": "财联社4月15日电，微软将接管挪威原计划供给OpenAI的人工智能算力资源，将向NSCALE租赁额外的数据中心空间。",
@@ -120,7 +121,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -131,7 +132,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -153,7 +154,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         }
@@ -161,7 +162,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "格力博(301260.SZ)：公众号发布的智能割草机器人AiMowbotC30为前轮驱动产品，未采用四驱设计",
@@ -212,8 +213,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时56分]"
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时24分]"
         },
         {
           "title": "机器人概念震荡走强 晋拓股份涨停",
@@ -261,6 +262,17 @@
           "time_info": "[13时12分 ~ 17时03分]"
         },
         {
+          "title": "美股盘前要闻一览：美财长称美联储终会降息；CoreWeave签署60亿美元AI云计算协议；特斯拉上海工厂未来或生产人形机器人",
+          "url": "https://api3.cls.cn/share/article/2345263?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "京东宣布推出“机器人救护车”",
           "url": "https://wallstreetcn.com/livenews/3088242",
           "source": "华尔街见闻-快讯",
@@ -278,7 +290,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -307,8 +319,150 @@
       ]
     },
     {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "财联社4月15日电，Anthropic筹备推出Opus4.7模型及人工智能设计工具。",
+          "url": "https://api3.cls.cn/share/article/2344164?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 03时49分]"
+        },
+        {
+          "title": "国家数据局：拟到2028年底打造一批数据驱动人工智能创新发展的典型应用场景",
+          "url": "https://wallstreetcn.com/livenews/3088558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "英伟达发布全球首个开源量子人工智能模型 量子计算板块激昂大涨",
+          "url": "https://www.cls.cn/detail/2344176",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时41分 ~ 15时08分]"
+        },
+        {
+          "title": "财联社4月15日电，博通宣布与Meta扩大合作关系，将部署相关技术为Meta的定制硅芯片项目MTIA提供数千兆瓦级电力支持。双方将在未来三年合作开发下一代人工智能加速芯片。",
+          "url": "https://api3.cls.cn/share/article/2344197?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时45分]"
+        },
+        {
+          "title": "李家超：将于下半年启动香港人工智能研发院，推动人工智能技术转化",
+          "url": "https://wallstreetcn.com/livenews/3088191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "李家超：将于下半年启动香港人工智能研发院，推动人工智能技术转化",
+          "url": "https://flash.jin10.com/detail/20260415124653212800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "李家超：将于下半年启动香港人工智能研发院 推动人工智能技术转化",
+          "url": "https://api3.cls.cn/share/article/2344578?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：担忧石油冲击分散了人们对包括人工智能和金融稳定风险在内的紧迫问题的关注。",
+          "url": "https://flash.jin10.com/detail/20260415042309980800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "A股量子科技概念股大面积高开，神州信息涨停，纬德信息涨超10%，格尔软件、科大国创、国盾量子、富士达、吉大正元跟涨，消息面上，英伟达推出全球首个开源量子人工智能模型“ISING”。",
+          "url": "https://wallstreetcn.com/livenews/3088081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美联储Hammack：目前是美联储制定政策的“艰难时期”。 目前尚不清楚人工智能会对经济产生什么影响。 美联储的独立性非常重要。 期待就资产负债表问题进一步讨论。 准备金需求问题是决定美联储资产负债表规模的关键。 如何管理美联储资产负债表是一种平衡。",
+          "url": "https://wallstreetcn.com/livenews/3088538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "阿斯麦(ASML.O)首席执行官：人工智能投资转化为对先进内存和逻辑的巨大需求。",
+          "url": "https://flash.jin10.com/detail/20260415210800860800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "加拿大人工智能部长赞赏Anthropic对Mythos模型采取的处理方式",
+          "url": "https://wallstreetcn.com/livenews/3087961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "月薪3万，去内蒙草原给DeepSeek守机房",
@@ -407,120 +561,22 @@
           "time_info": "04时54分"
         },
         {
+          "title": "OpenAI计划为ChatGPT广告推出新定价，并探索其他升级方案。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3088551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "纳斯达克网络安全ETF收跌0.63%，ETFMG网络安全ETF跌1.08%，整体高开低走，OpenAI发布网络AI模型后跌幅略微收窄。",
           "url": "https://wallstreetcn.com/livenews/3087968",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "财联社4月15日电，Anthropic筹备推出Opus4.7模型及人工智能设计工具。",
-          "url": "https://api3.cls.cn/share/article/2344164?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 03时49分]"
-        },
-        {
-          "title": "英伟达发布全球首个开源量子人工智能模型 量子计算板块激昂大涨",
-          "url": "https://www.cls.cn/detail/2344176",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时41分 ~ 15时08分]"
-        },
-        {
-          "title": "财联社4月15日电，博通宣布与Meta扩大合作关系，将部署相关技术为Meta的定制硅芯片项目MTIA提供数千兆瓦级电力支持。双方将在未来三年合作开发下一代人工智能加速芯片。",
-          "url": "https://api3.cls.cn/share/article/2344197?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时52分 ~ 06时45分]"
-        },
-        {
-          "title": "李家超：将于下半年启动香港人工智能研发院，推动人工智能技术转化",
-          "url": "https://wallstreetcn.com/livenews/3088191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "李家超：将于下半年启动香港人工智能研发院，推动人工智能技术转化",
-          "url": "https://flash.jin10.com/detail/20260415124653212800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "李家超：将于下半年启动香港人工智能研发院 推动人工智能技术转化",
-          "url": "https://api3.cls.cn/share/article/2344578?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：担忧石油冲击分散了人们对包括人工智能和金融稳定风险在内的紧迫问题的关注。",
-          "url": "https://flash.jin10.com/detail/20260415042309980800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "A股量子科技概念股大面积高开，神州信息涨停，纬德信息涨超10%，格尔软件、科大国创、国盾量子、富士达、吉大正元跟涨，消息面上，英伟达推出全球首个开源量子人工智能模型“ISING”。",
-          "url": "https://wallstreetcn.com/livenews/3088081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "加拿大人工智能部长赞赏Anthropic对Mythos模型采取的处理方式",
-          "url": "https://wallstreetcn.com/livenews/3087961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -574,7 +630,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -598,11 +654,12 @@
           "ranks": [
             1,
             8,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时56分]"
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 21时24分]"
         },
         {
           "title": "据福克斯新闻：福克斯新闻（Fox）报道：美国众议院穆伦纳尔（Moolenaar）要求美国国防部长赫格塞斯向空客公司施压，涉及卫星图像问题。",
@@ -640,6 +697,106 @@
       ]
     },
     {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "港股科技股卖空潮退去 小米集团近5日卖空股数降幅超90%",
+          "url": "https://www.cls.cn/detail/2344645",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 21时24分]"
+        },
+        {
+          "title": "姚安娜代言华为",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%9A%E5%AE%89%E5%A8%9C%E4%BB%A3%E8%A8%80%E5%8D%8E%E4%B8%BA&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时24分]"
+        },
+        {
+          "title": "小米上线电池升级服务",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E4%B8%8A%E7%BA%BF%E7%94%B5%E6%B1%A0%E5%8D%87%E7%BA%A7%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时56分]"
+        },
+        {
+          "title": "阿联酋、俄罗斯、西班牙、越南高层同步访华为哪般？",
+          "url": "https://www.zaochenbao.com/news/china/202604/1569350.html",
+          "source": "早报",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 13时12分]"
+        },
+        {
+          "title": "姚安娜代言华为新手机",
+          "url": "https://www.cls.cn/detail/2344764",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "多国政要排队访华为何而来",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E6%94%BF%E8%A6%81%E6%8E%92%E9%98%9F%E8%AE%BF%E5%8D%8E%E4%B8%BA%E4%BD%95%E8%80%8C%E6%9D%A5%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "小米汽车降噪处理专利公布",
+          "url": "https://wallstreetcn.com/livenews/3088232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "小米集团4月15日在港交所公告，4月15日回购572万股股份，耗资176,997,532港元。",
+          "url": "https://wallstreetcn.com/livenews/3088456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "创新药 新药研发 临床三期",
       "match_count": 7,
       "titles": [
@@ -655,6 +812,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时12分 ~ 18时42分]"
+        },
+        {
+          "title": "国办9号文落地 创新药定价松绑 首发价格机制文件正在制定中",
+          "url": "https://www.cls.cn/detail/2344771",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 21时24分]"
         },
         {
           "title": "政策端明确优化创新药价格机制，创新药“纯度”100%、低费率的港股通创新药ETF易方达（159316）涨2.35%",
@@ -677,19 +848,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
-        },
-        {
-          "title": "国办9号文落地 创新药定价松绑 首发价格机制文件正在制定中",
-          "url": "https://www.cls.cn/detail/2344771",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时56分]"
         },
         {
           "title": "A股异动丨2015年来最强医药新政出台，创新药板块全面爆发，博瑞医药等多股涨停",
@@ -723,93 +881,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "港股科技股卖空潮退去 小米集团近5日卖空股数降幅超90%",
-          "url": "https://www.cls.cn/detail/2344645",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时56分]"
-        },
-        {
-          "title": "姚安娜代言华为",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%9A%E5%AE%89%E5%A8%9C%E4%BB%A3%E8%A8%80%E5%8D%8E%E4%B8%BA&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时56分]"
-        },
-        {
-          "title": "小米上线电池升级服务",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E4%B8%8A%E7%BA%BF%E7%94%B5%E6%B1%A0%E5%8D%87%E7%BA%A7%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时56分]"
-        },
-        {
-          "title": "阿联酋、俄罗斯、西班牙、越南高层同步访华为哪般？",
-          "url": "https://www.zaochenbao.com/news/china/202604/1569350.html",
-          "source": "早报",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 13时12分]"
-        },
-        {
-          "title": "多国政要排队访华为何而来",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E6%94%BF%E8%A6%81%E6%8E%92%E9%98%9F%E8%AE%BF%E5%8D%8E%E4%B8%BA%E4%BD%95%E8%80%8C%E6%9D%A5%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        },
-        {
-          "title": "小米汽车降噪处理专利公布",
-          "url": "https://wallstreetcn.com/livenews/3088232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        },
-        {
-          "title": "小米集团4月15日在港交所公告，4月15日回购572万股股份，耗资176,997,532港元。",
-          "url": "https://wallstreetcn.com/livenews/3088456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时56分"
         }
       ]
     },
@@ -982,6 +1053,45 @@
       ]
     },
     {
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "日媒：英伟达与特斯拉争夺自动驾驶出租车主导权",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/04/15/9ae4c25ce38145a0b14a9858e0554aee.html",
+          "source": "参考消息",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时24分]"
+        },
+        {
+          "title": "自动驾驶公司Wayve获得了来自AMD、Qualcomm和ARM的6000万美元融资。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3088560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "卡特彼勒收购自动驾驶电动拖拉机初创公司Monarch Tractor",
+          "url": "https://wallstreetcn.com/livenews/3087998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
       "match_count": 2,
       "titles": [
@@ -1002,11 +1112,40 @@
           "url": "https://wallstreetcn.com/articles/3770007",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 21时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "液冷",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "利通科技：液冷管路通过UL认证 获得进入北美等全球高端数据中心市场的准入资质",
+          "url": "https://api3.cls.cn/share/article/2344393?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "【风口研报·公司】稀缺锑化铟技术铸就核心壁垒，这家公司产品广泛应用于特种光电、卫星光学载荷等高端领域，扩产项目有序推进解放产能瓶颈；这家公司收购全球液冷先行者切入市场，且主业结构件布局半固态镁合金工艺",
+          "url": "https://api3.cls.cn/share/article/2344909?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "21时24分"
         }
       ]
     },
@@ -1040,30 +1179,30 @@
       ]
     },
     {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
       "match_count": 2,
       "titles": [
         {
-          "title": "日媒：英伟达与特斯拉争夺自动驾驶出租车主导权",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/04/15/9ae4c25ce38145a0b14a9858e0554aee.html",
-          "source": "参考消息",
+          "title": "河南省委书记刘宁到濮阳市调研推动新材料产业科技创新等工作",
+          "url": "https://api3.cls.cn/share/article/2345265?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            2
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
-          "title": "卡特彼勒收购自动驾驶电动拖拉机初创公司Monarch Tractor",
-          "url": "https://wallstreetcn.com/livenews/3087998",
+          "title": "河南省委书记刘宁到濮阳市调研推动新材料产业科技创新等工作",
+          "url": "https://wallstreetcn.com/livenews/3088540",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "21时24分"
         }
       ]
     },
@@ -1096,19 +1235,19 @@
       ]
     },
     {
-      "keyword_group": "液冷",
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
       "match_count": 1,
       "titles": [
         {
-          "title": "利通科技：液冷管路通过UL认证 获得进入北美等全球高端数据中心市场的准入资质",
-          "url": "https://api3.cls.cn/share/article/2344393?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "广交会增设智能穿戴等9大专区",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%BA%A4%E4%BC%9A%E5%A2%9E%E8%AE%BE%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E7%AD%899%E5%A4%A7%E4%B8%93%E5%8C%BA%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "21时24分"
         }
       ]
     },
@@ -1123,7 +1262,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         }
@@ -1143,6 +1282,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储Hammack：关键在于能源价格会上涨到多高，以及高位能持续多久。 高能源价格可能带来通胀压力，但也可能拖累经济增长。 利率目前处于合适水平，基线预期是利率将在一段时间内维持不变。 货币政策面临双向风险。 就业市场基本处于平衡状态。 美联储已经连续五年未能实现通胀目标。 消费者已经经历了较长时间的高通胀。",
+          "url": "https://wallstreetcn.com/livenews/3088533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         }
       ]
     },
