@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T04:10:28.658886+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-04-17T05:11:13.374049+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "财联社4月17日电，OpenAI推出新模型GPT-Rosalind，旨在服务于生命科学研究，正与Amgen、Moderna、艾伦研究所、赛默飞世尔科技等客户展开合作，将GPT-Rosalind模型应用于各项工作流程中。",
@@ -13,11 +13,12 @@
           "source": "财联社电报",
           "ranks": [
             1,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时10分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时11分]"
         },
         {
           "title": "OpenAI发布用于药物研发的新款AI模型。",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "OpenAI推出药物研发AI模型 挑战谷歌",
+          "url": "https://api3.cls.cn/share/article/2346829?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "OpenAI：现在Codex可以使用Mac上的应用程序，连接到更多工具，创建图像，从以前的操作中学习，记住你喜欢的工作方式，并执行持续性和可重复性的任务。",
@@ -60,7 +72,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -101,7 +113,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
@@ -112,19 +124,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时11分]"
         },
         {
           "title": "周四（4月16日）纽约尾盘，ICE美元指数涨0.14%，报98.194点，日内交投区间为97.832-98.292点，北京时间16:00之前呈现出V形反转行情，随后持续交投于98.200点附近。 彭博美元指数涨0.07%，报1193.23点，日内交投区间为1189.77-1194.49点。 美元兑日元涨0.07%，报159.11日元，日内交投区间为158.27-159.31日元。 欧元兑日元跌0.05%，英镑兑日元跌0.15%。",
           "url": "https://wallstreetcn.com/livenews/3089556",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时10分 ~ 05时11分]"
         },
         {
           "title": "周四（4月16日），韩元兑美元最终跌0.32%，报1479.80韩元，北京时间11:06涨至1466.53韩元刷新日高，随后逐步走低",
@@ -137,6 +150,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时10分]"
+        },
+        {
+          "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
+          "url": "https://wallstreetcn.com/livenews/3089571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.01%，报617.33点。 欧元区STOXX 50指数初步收平，报5940.00点，美股开盘之后显著跳水。 富时泛欧绩优300指数初步收跌0.06%，报2458.30点。",
@@ -226,6 +250,45 @@
       ]
     },
     {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "财联社4月17日电，美国证交会文件显示，Meta将于5月27日举行线上年度会议。Meta公司首席执行官扎克伯格2025年总薪酬为2510万美元。文件显示，公司建议股东对一项要求提交关于人工智能数据使用监督报告的股东提案投反对票。",
+          "url": "https://api3.cls.cn/share/article/2346831?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "警惕人工智能让人类陷入“自恋”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时11分]"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：人工智能革命不应重蹈全球化的覆辙，当时许多失业者从未重新融入经济体系。",
+          "url": "https://flash.jin10.com/detail/20260417005916596800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 2,
       "titles": [
@@ -238,8 +301,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时11分]"
         },
         {
           "title": "【每日收评】创业板指涨超3%刷新近11年新高，锂电板块卷土重来，算力租赁概念再掀高潮",
@@ -250,36 +313,36 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时11分]"
         }
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "keyword_group": "小米 特斯拉 华为",
       "match_count": 2,
       "titles": [
         {
-          "title": "警惕人工智能让人类陷入“自恋”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
-          "source": "澎湃新闻",
+          "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时11分]"
         },
         {
-          "title": "IMF总裁格奥尔基耶娃：人工智能革命不应重蹈全球化的覆辙，当时许多失业者从未重新融入经济体系。",
-          "url": "https://flash.jin10.com/detail/20260417005916596800",
-          "source": "金十数据",
+          "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3089562",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "05时11分"
         }
       ]
     },
@@ -296,8 +359,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时11分]"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
@@ -308,8 +371,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时11分]"
         }
       ]
     },
@@ -325,8 +388,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时11分]"
         }
       ]
     },
@@ -344,23 +407,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
-          "url": "https://wallstreetcn.com/articles/3770007",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时10分]"
         }
       ]
     }
