@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T14:03:22.842929+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-04-17T16:12:48.744369+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,19 @@
           "time_info": "01时52分"
         },
         {
+          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
+          "url": "https://www.cls.cn/detail/2346818",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 16时12分]"
+        },
+        {
           "title": "OpenAI推出药物研发AI模型 挑战谷歌",
           "url": "https://api3.cls.cn/share/article/2346829?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -53,18 +66,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时07分]"
-        },
-        {
-          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
-          "url": "https://www.cls.cn/detail/2346818",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 14时03分]"
         },
         {
           "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
@@ -169,11 +170,12 @@
           "source": "参考消息",
           "ranks": [
             7,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 14时03分]"
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 16时12分]"
         },
         {
           "title": "国家发改委：将聚焦数字经济、人工智能、商业航天等高成长性领域 推出一系列促进民间投资的政策和改革举措",
@@ -332,6 +334,93 @@
       ]
     },
     {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地 中使馆：坚决反对造谣",
+          "url": "https://api3.cls.cn/share/article/2346890?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "伊朗据报利用中国卫星监视美军基地 中使馆：坚决反对造谣",
+          "url": "https://www.zaochenbao.com/news/china/202604/1769539.html",
+          "source": "早报",
+          "ranks": [
+            4,
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 16时12分]"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 16时12分]"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://www.cls.cn/detail/2346894",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 14时03分]"
+        },
+        {
+          "title": "【电报解读】近期多批次卫星密集发射，机构称单位发射成本降低有望加速商业化进程，这家公司产品用于“星网卫星”“千帆星座”等各类商业航天重点项目",
+          "url": "https://api3.cls.cn/share/article/2347199?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "我国成功发射高精度温室气体综合探测卫星",
+          "url": "https://wallstreetcn.com/livenews/3089788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "DQ-2卫星成功发射 搭载多部先进载荷实现全球大气高精度监测",
+          "url": "https://wallstreetcn.com/livenews/3089883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 6,
       "titles": [
@@ -366,22 +455,24 @@
           "url": "https://www.cls.cn/detail/2346874",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 14时03分]"
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 16时12分]"
         },
         {
           "title": "【午报】三大指数涨跌不一，算力硬件持续爆发，源杰科技股价跃居A股首位",
           "url": "https://www.cls.cn/detail/2347163",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 16时12分]"
         },
         {
           "title": "商汤科技配售约32亿港元加码全国产化AI词元计划“Token Plan”，升级自主可控算力底座",
@@ -401,84 +492,81 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         }
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 6,
       "titles": [
         {
-          "title": "英媒称伊朗部署中国卫星监视美军基地 中使馆：坚决反对造谣",
-          "url": "https://api3.cls.cn/share/article/2346890?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "特斯拉拟在上海生产人形机器人",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/04/16/45b6c3b816ed46eea378ec1e8cdadc6b.html",
+          "source": "参考消息",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 08时06分]"
+        },
+        {
+          "title": "哈工大机器人研究所赵杰：双臂类人技能作业能力是决定人形机器人落地的核心技术",
+          "url": "https://api3.cls.cn/share/article/2347142?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "11时51分"
         },
         {
-          "title": "伊朗据报利用中国卫星监视美军基地 中使馆：坚决反对造谣",
-          "url": "https://www.zaochenbao.com/news/china/202604/1769539.html",
-          "source": "早报",
+          "title": "哈工大赵杰：双臂类人技能作业能力是决定人形机器人落地的核心技术",
+          "url": "https://wallstreetcn.com/livenews/3089764",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 14时03分]"
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
-          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
-          "url": "https://www.cls.cn/detail/2346894",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 14时03分]"
-        },
-        {
-          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 14时03分]"
-        },
-        {
-          "title": "【电报解读】近期多批次卫星密集发射，机构称单位发射成本降低有望加速商业化进程，这家公司产品用于“星网卫星”“千帆星座”等各类商业航天重点项目",
-          "url": "https://api3.cls.cn/share/article/2347199?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "具身智能机器人进驻产线与园区，智平方与西子联合达成战略合作",
+          "url": "https://wallstreetcn.com/livenews/3089889",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时03分"
+          "time_info": "16时12分"
         },
         {
-          "title": "我国成功发射高精度温室气体综合探测卫星",
-          "url": "https://wallstreetcn.com/livenews/3089788",
+          "title": "首批人形机器人下线 领益智造北京工厂正式进入规模化交付阶段",
+          "url": "https://wallstreetcn.com/livenews/3089885",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时03分"
+          "time_info": "16时12分"
+        },
+        {
+          "title": "华新精科：公司机器人相关铁芯业务尚处于初期阶段 整体规模较小",
+          "url": "https://flash.jin10.com/detail/20260417154453567800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         }
       ]
     },
@@ -512,6 +600,19 @@
           "time_info": "[00时23分 ~ 08时06分]"
         },
         {
+          "title": "订单强劲 台积电同步扩建台美日3纳米新厂",
+          "url": "https://www.zaochenbao.com/news/taiwan/202604/1769531.html",
+          "source": "早报",
+          "ranks": [
+            12,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 16时12分]"
+        },
+        {
           "title": "台积电Q1净利润同比增58%，毛利率历史性突破66%，资本支出111亿美元 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3770116",
           "source": "华尔街见闻",
@@ -521,18 +622,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时06分 ~ 11时51分]"
-        },
-        {
-          "title": "订单强劲 台积电同步扩建台美日3纳米新厂",
-          "url": "https://www.zaochenbao.com/news/taiwan/202604/1769531.html",
-          "source": "早报",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 14时03分]"
         },
         {
           "title": "台积电法说会：今年资本支出瞄准520亿-560亿美元区间高端，2nm芯片已量产",
@@ -552,7 +641,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         }
@@ -560,7 +649,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
@@ -580,7 +669,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -595,6 +684,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时07分]"
+        },
+        {
+          "title": "奥瑞德(600666.SH)：目前和华为没有合作",
+          "url": "https://www.gelonghui.com/news/5211452",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "雷军：小米未来几年不会做十万元以内车型",
@@ -714,45 +814,6 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特斯拉拟在上海生产人形机器人",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/04/16/45b6c3b816ed46eea378ec1e8cdadc6b.html",
-          "source": "参考消息",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 08时06分]"
-        },
-        {
-          "title": "哈工大机器人研究所赵杰：双臂类人技能作业能力是决定人形机器人落地的核心技术",
-          "url": "https://api3.cls.cn/share/article/2347142?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "哈工大赵杰：双臂类人技能作业能力是决定人形机器人落地的核心技术",
-          "url": "https://wallstreetcn.com/livenews/3089764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 3,
       "titles": [
@@ -763,7 +824,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -792,36 +853,8 @@
       ]
     },
     {
-      "keyword_group": "鸿蒙 OpenHarmony 昇腾",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "鸿蒙智行：问界M6预售订单突破10万。4月22日，问界M6即将正式上市。",
-          "url": "https://wallstreetcn.com/livenews/3089792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "鸿蒙智行：问界M6预售订单突破10万。4月22日，问界M6即将正式上市。",
-          "url": "https://flash.jin10.com/detail/20260417130409389800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "财联社4月17日电，苹果状态页面显示苹果音乐服务出现故障。",
@@ -836,13 +869,81 @@
           "time_info": "[06时07分 ~ 07时10分]"
         },
         {
+          "title": "比亚迪宣布第1600万台新能源汽车下线",
+          "url": "https://wallstreetcn.com/livenews/3089888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "苹果公司负责手表、AirPods和智能家居的营销副总裁Stan Ng即将退休。Stan Ng在网页发文称，将在任职31年后离开公司。",
           "url": "https://wallstreetcn.com/livenews/3089779",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金石控股集团(01943.HK)拟于深圳成立合资公司布局储能赛道",
+          "url": "https://www.gelonghui.com/news/5211310",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时09分 ~ 08时06分]"
+        },
+        {
+          "title": "小熊电器(002959.SZ)：暂无光伏、储能等业务布局",
+          "url": "https://www.gelonghui.com/news/5211464",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "鸿蒙 OpenHarmony 昇腾",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "鸿蒙智行：问界M6预售订单突破10万。4月22日，问界M6即将正式上市。",
+          "url": "https://wallstreetcn.com/livenews/3089792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "鸿蒙智行：问界M6预售订单突破10万。4月22日，问界M6即将正式上市。",
+          "url": "https://flash.jin10.com/detail/20260417130409389800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         }
@@ -859,7 +960,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         }
@@ -876,7 +977,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         }
@@ -893,27 +994,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金石控股集团(01943.HK)拟于深圳成立合资公司布局储能赛道",
-          "url": "https://www.gelonghui.com/news/5211310",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时09分 ~ 08时06分]"
         }
       ]
     },
