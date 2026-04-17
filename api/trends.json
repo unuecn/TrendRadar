@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T11:51:33.652170+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-04-17T14:03:22.842929+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 11时51分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 14时03分]"
         },
         {
           "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
@@ -147,7 +147,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
@@ -168,11 +168,12 @@
           "url": "https://ckxxapp.ckxx.net/pages/2026/04/17/8846670ef60144ea935c50c0877dbe07.html",
           "source": "参考消息",
           "ranks": [
-            7
+            7,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 14时03分]"
         },
         {
           "title": "国家发改委：将聚焦数字经济、人工智能、商业航天等高成长性领域 推出一系列促进民间投资的政策和改革举措",
@@ -181,7 +182,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
@@ -192,7 +193,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
@@ -203,7 +204,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
@@ -214,7 +215,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
@@ -331,8 +332,159 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "H100租金半年涨三成 Token热加剧算力荒 云厂商“坐不住了”",
+          "url": "https://www.cls.cn/detail/2346374",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 08时06分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨超3%刷新近11年新高，锂电板块卷土重来，算力租赁概念再掀高潮",
+          "url": "https://www.cls.cn/detail/2346247",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 06时07分]"
+        },
+        {
+          "title": "券商晨会精华：Token量井喷导致算力荒，国产算力在推理端加速突围",
+          "url": "https://www.cls.cn/detail/2346874",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 14时03分]"
+        },
+        {
+          "title": "【午报】三大指数涨跌不一，算力硬件持续爆发，源杰科技股价跃居A股首位",
+          "url": "https://www.cls.cn/detail/2347163",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "商汤科技配售约32亿港元加码全国产化AI词元计划“Token Plan”，升级自主可控算力底座",
+          "url": "https://www.gelonghui.com/news/5211339",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "【金牌纪要库·风口会议】算力租赁盈利修复与AIDC液冷升级加速，2026年算力租赁新签订单价格与周期同步改善",
+          "url": "https://api3.cls.cn/share/article/2347104?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地 中使馆：坚决反对造谣",
+          "url": "https://api3.cls.cn/share/article/2346890?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "伊朗据报利用中国卫星监视美军基地 中使馆：坚决反对造谣",
+          "url": "https://www.zaochenbao.com/news/china/202604/1769539.html",
+          "source": "早报",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 14时03分]"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://www.cls.cn/detail/2346894",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 14时03分]"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 14时03分]"
+        },
+        {
+          "title": "【电报解读】近期多批次卫星密集发射，机构称单位发射成本降低有望加速商业化进程，这家公司产品用于“星网卫星”“千帆星座”等各类商业航天重点项目",
+          "url": "https://api3.cls.cn/share/article/2347199?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "我国成功发射高精度温室气体综合探测卫星",
+          "url": "https://wallstreetcn.com/livenews/3089788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "台积电 英伟达",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "台积电第一季度净利同比大增58% 超市场预期",
@@ -371,6 +523,18 @@
           "time_info": "[08时06分 ~ 11时51分]"
         },
         {
+          "title": "订单强劲 台积电同步扩建台美日3纳米新厂",
+          "url": "https://www.zaochenbao.com/news/taiwan/202604/1769531.html",
+          "source": "早报",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 14时03分]"
+        },
+        {
           "title": "台积电法说会：今年资本支出瞄准520亿-560亿美元区间高端，2nm芯片已量产",
           "url": "https://wallstreetcn.com/articles/3770120",
           "source": "华尔街见闻",
@@ -382,117 +546,64 @@
           "time_info": "08时06分"
         },
         {
-          "title": "订单强劲 台积电同步扩建台美日3纳米新厂",
-          "url": "https://www.zaochenbao.com/news/taiwan/202604/1769531.html",
-          "source": "早报",
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时51分"
+          "time_info": "14时03分"
         }
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "小米 特斯拉 华为",
       "match_count": 4,
       "titles": [
         {
-          "title": "H100租金半年涨三成 Token热加剧算力荒 云厂商“坐不住了”",
-          "url": "https://www.cls.cn/detail/2346374",
-          "source": "财联社热门",
+          "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
-            7
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 08时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时10分]"
         },
         {
-          "title": "【每日收评】创业板指涨超3%刷新近11年新高，锂电板块卷土重来，算力租赁概念再掀高潮",
-          "url": "https://www.cls.cn/detail/2346247",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时07分]"
-        },
-        {
-          "title": "券商晨会精华：Token量井喷导致算力荒，国产算力在推理端加速突围",
-          "url": "https://www.cls.cn/detail/2346874",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "商汤科技配售约32亿港元加码全国产化AI词元计划“Token Plan”，升级自主可控算力底座",
-          "url": "https://www.gelonghui.com/news/5211339",
-          "source": "格隆汇",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "英媒称伊朗部署中国卫星监视美军基地 中使馆：坚决反对造谣",
-          "url": "https://api3.cls.cn/share/article/2346890?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "特斯拉在台招聘工程师：要求具备先进制程芯片经验",
+          "url": "https://api3.cls.cn/share/article/2347219?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3089562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时07分]"
         },
         {
-          "title": "伊朗据报利用中国卫星监视美军基地 中使馆：坚决反对造谣",
-          "url": "https://www.zaochenbao.com/news/china/202604/1769539.html",
-          "source": "早报",
+          "title": "雷军：小米未来几年不会做十万元以内车型",
+          "url": "https://wallstreetcn.com/livenews/3089728",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
-          "url": "https://www.cls.cn/detail/2346894",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         }
@@ -624,7 +735,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
@@ -635,47 +746,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
-          "url": "https://wallstreetcn.com/articles/3770007",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时10分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
-          "url": "https://wallstreetcn.com/livenews/3089562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时07分]"
-        },
-        {
-          "title": "雷军：小米未来几年不会做十万元以内车型",
-          "url": "https://wallstreetcn.com/livenews/3089728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "11时51分"
         }
@@ -683,8 +754,19 @@
     },
     {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "A股光伏设备板块午后震荡走高，明冠新材20CM涨停，海目星、中来股份、鹿山新材、赛伍技术跟涨。",
+          "url": "https://flash.jin10.com/detail/20260417131601070800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
         {
           "title": "战争虽带动新能源需求 中国光伏业者忧难缓解产能过剩",
           "url": "https://www.zaochenbao.com/news/china/202604/1669478.html",
@@ -703,9 +785,117 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "鸿蒙 OpenHarmony 昇腾",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "鸿蒙智行：问界M6预售订单突破10万。4月22日，问界M6即将正式上市。",
+          "url": "https://wallstreetcn.com/livenews/3089792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "鸿蒙智行：问界M6预售订单突破10万。4月22日，问界M6即将正式上市。",
+          "url": "https://flash.jin10.com/detail/20260417130409389800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "财联社4月17日电，苹果状态页面显示苹果音乐服务出现故障。",
+          "url": "https://api3.cls.cn/share/article/2346838?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时07分 ~ 07时10分]"
+        },
+        {
+          "title": "苹果公司负责手表、AirPods和智能家居的营销副总裁Stan Ng即将退休。Stan Ng在网页发文称，将在任职31年后离开公司。",
+          "url": "https://wallstreetcn.com/livenews/3089779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "液冷",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "液冷服务器概念持续活跃 创世纪20cm涨停",
+          "url": "https://api3.cls.cn/share/article/2347201?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "五轴联动数控 超高精度光栅尺 工业母机",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股工业母机板块午后拉升，欧科亿盘中创新高，博杰股份涨停，创世纪、凯格精机涨超10%，嵘泰股份、纽威数控、沃尔德、亚威股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3089793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "钠电池、固态电池概念午后异动 维科技术5天3板",
+          "url": "https://api3.cls.cn/share/article/2347187?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
         }
       ]
     },
@@ -756,27 +946,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "财联社4月17日电，苹果状态页面显示苹果音乐服务出现故障。",
-          "url": "https://api3.cls.cn/share/article/2346838?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时07分 ~ 07时10分]"
         }
       ]
     }
