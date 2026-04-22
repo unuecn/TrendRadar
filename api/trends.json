@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T16:03:14.218612+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-04-22T18:01:52.827606+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
           "ranks": [
             10,
             15,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 16时03分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 18时01分]"
         },
         {
           "title": "库克将卸任苹果首席执行官，硬件工程主管特纳斯接班",
@@ -61,11 +62,12 @@
           "ranks": [
             11,
             16,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 16时03分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 18时01分]"
         },
         {
           "title": "库克亮相苹果员工大会，试图平息外界对卸任CEO原因的猜测",
@@ -147,8 +149,232 @@
       ]
     },
     {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "小米汽车",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "以为库克真加入小米汽车了",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E4%B8%BA%E5%BA%93%E5%85%8B%E7%9C%9F%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "特斯拉Q1财报前瞻：财务数据退居次席，市场紧盯马斯克画的“大饼”",
+          "url": "https://flash.jin10.com/detail/20260422131538333800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
+        },
+        {
+          "title": "特斯拉中国车机接入豆包大模型",
+          "url": "https://www.zaochenbao.com/news/china/202604/2269998.html",
+          "source": "早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "特斯拉财报即将来袭！华尔街前瞻：AI叙事能否扭转股价颓势？",
+          "url": "https://www.cls.cn/detail/2351734",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)高管：将在所有印度州提供家庭充电服务。",
+          "url": "https://flash.jin10.com/detail/20260422153358961800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)高管：将通过超级充电基础设施连接印度主要城市。",
+          "url": "https://flash.jin10.com/detail/20260422153226653800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)高管：我们将Model Y L引入印度，以满足大家庭和对SUV的需求。",
+          "url": "https://flash.jin10.com/detail/20260422153141113800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "“越南特斯拉”VinFast创始人表示，公司预计将在2027年实现EBITDA收支平衡。",
+          "url": "https://wallstreetcn.com/livenews/3092246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "特斯拉AI语音功能即将上线",
+          "url": "https://wallstreetcn.com/livenews/3092293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
+          "url": "https://www.cls.cn/detail/2350762",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时07分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指深V反转迎四连阳，算力硬件股现极致分化，商业航天概念强者恒强",
+          "url": "https://www.cls.cn/detail/2350801",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时07分]"
+        },
+        {
+          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
+          "url": "https://www.cls.cn/detail/2352172",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "4月22日投资避雷针：算力租赁概念人气股提示风险 已确认的算力业务收入不足万元",
+          "url": "https://www.cls.cn/detail/2351491",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 16时03分]"
+        },
+        {
+          "title": "创业板指涨逾1% 算力硬件领涨市场",
+          "url": "https://api3.cls.cn/share/article/2351791?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
+        },
+        {
+          "title": "【中办、国办：加强算力基础设施项目评估论证和源头把关，严格电能利用效率等能效指标准入管理】 意见提出，推进算力、通信基站和机房等基础设施节能降碳改造，推动设备选型、制冷架构、机柜功率密度、系统智能运行策略等优化升级，持续提高单位算力能效和单位信息流量能效。加强算力基础设施项目评估论证和源头把关，严格电能利用效率等能效指标准入管理，提高可再生能源消费和余热资源回收利用水平，支持发展绿色低碳、集约循环的算力设施。",
+          "url": "https://wallstreetcn.com/livenews/3092484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "沪指重返4100，算力硬件爆发，万亿巨头工业富联盘中涨停，恒科指跌超近2%，宁德时代H股跌超5%",
+          "url": "https://wallstreetcn.com/articles/3770568",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "范式智能筹资15.6亿：全力投入算力，提升API业务",
+          "url": "https://www.gelonghui.com/news/5214606",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "中办、国办：推进算力、通信基站和机房等基础设施节能降碳改造",
+          "url": "https://flash.jin10.com/detail/20260422172759670800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【风口研报·公司】这家新材料公司通过收购切入高端电子材料领域，下游覆盖IC载板等AI应用方向，当前产品在M9覆铜板已有试用，产品结构有望持续升级",
@@ -190,7 +416,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -237,12 +463,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "广东：推动脑机接口和具身智能等人工智能前沿技术的融合",
+          "url": "https://wallstreetcn.com/livenews/3092456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         }
       ]
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "财联社4月22日电，OpenAI推出ChatGPT Images2.0图像模型，ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。",
@@ -262,7 +499,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -311,6 +548,17 @@
           "time_info": "02时39分"
         },
         {
+          "title": "OpenAI向美国政府及五眼联盟盟友简报新型网络产品。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3092463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
           "title": "OpenAI正洽谈向一家私募股权合资企业注资高达15亿美元，该合资企业估值达100亿美元，融资预计于5月初完成。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3092290",
           "source": "华尔街见闻-快讯",
@@ -324,149 +572,65 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "小米汽车",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "特斯拉Q1财报前瞻：财务数据退居次席，市场紧盯马斯克画的“大饼”",
-          "url": "https://flash.jin10.com/detail/20260422131538333800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)高管：将在所有印度州提供家庭充电服务。",
-          "url": "https://flash.jin10.com/detail/20260422153358961800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)高管：将通过超级充电基础设施连接印度主要城市。",
-          "url": "https://flash.jin10.com/detail/20260422153226653800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)高管：我们将Model Y L引入印度，以满足大家庭和对SUV的需求。",
-          "url": "https://flash.jin10.com/detail/20260422153141113800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "“越南特斯拉”VinFast创始人表示，公司预计将在2027年实现EBITDA收支平衡。",
-          "url": "https://wallstreetcn.com/livenews/3092246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "特斯拉AI语音功能即将上线",
-          "url": "https://wallstreetcn.com/livenews/3092293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 5,
       "titles": [
         {
-          "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
-          "url": "https://www.cls.cn/detail/2350762",
-          "source": "财联社热门",
+          "title": "中国人形机器人快速进步引震撼",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/04/21/b49be533322846998d2e535733008e79.html",
+          "source": "参考消息",
           "ranks": [
-            1
+            13,
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时07分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 14时00分]"
         },
         {
-          "title": "【焦点复盘】创业板指深V反转迎四连阳，算力硬件股现极致分化，商业航天概念强者恒强",
-          "url": "https://www.cls.cn/detail/2350801",
-          "source": "财联社热门",
+          "title": "世界人形机器人运动会8月在北京举办 新增拔河投壶等赛项",
+          "url": "https://www.zaochenbao.com/news/china/202604/2169910.html",
+          "source": "早报",
           "ranks": [
-            7,
-            8
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时07分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 08时02分]"
         },
         {
-          "title": "4月22日投资避雷针：算力租赁概念人气股提示风险 已确认的算力业务收入不足万元",
-          "url": "https://www.cls.cn/detail/2351491",
-          "source": "财联社热门",
+          "title": "翼菲科技通过港交所上市聆讯，将成“轻工业全品类机器人第一股”",
+          "url": "https://www.gelonghui.com/news/5214647",
+          "source": "格隆汇",
           "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 16时03分]"
-        },
-        {
-          "title": "创业板指涨逾1% 算力硬件领涨市场",
-          "url": "https://api3.cls.cn/share/article/2351791?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时59分 ~ 14时00分]"
         },
         {
-          "title": "范式智能筹资15.6亿：全力投入算力，提升API业务",
-          "url": "https://www.gelonghui.com/news/5214606",
-          "source": "格隆汇",
+          "title": "【点金互动易】钠电池+高速覆铜板，积极推进普鲁士蓝钠离子电池生产，拥有领先的EX电子材料，这家公司切入M8/M9级高频覆铜板供应链，应用范围覆盖AI数据中心及人形机器人",
+          "url": "https://api3.cls.cn/share/article/2351258?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            15
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "广东：重点布局人形机器人设计制造 推动人工智能与机器人“大脑”“小脑”及机身协同研发",
+          "url": "https://wallstreetcn.com/livenews/3092458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "18时01分"
         }
       ]
     },
@@ -482,8 +646,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时01分 ~ 16时03分]"
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 18时01分]"
         },
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -548,78 +712,66 @@
           "time_info": "11时36分"
         },
         {
+          "title": "业绩暴雷，液冷龙头英维克连续2日跌停",
+          "url": "https://www.cls.cn/detail/2351590",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 18时01分]"
+        },
+        {
           "title": "中科曙光(603019.SH)：公司液冷服务器产品主要采用氟化液技术路线",
           "url": "https://www.gelonghui.com/news/5214691",
           "source": "格隆汇",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "业绩暴雷，液冷龙头英维克连续2日跌停",
-          "url": "https://www.cls.cn/detail/2351590",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         }
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 4,
+      "keyword_group": "储能",
+      "match_count": 3,
       "titles": [
         {
-          "title": "中国人形机器人快速进步引震撼",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/04/21/b49be533322846998d2e535733008e79.html",
-          "source": "参考消息",
-          "ranks": [
-            13,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 14时00分]"
-        },
-        {
-          "title": "世界人形机器人运动会8月在北京举办 新增拔河投壶等赛项",
-          "url": "https://www.zaochenbao.com/news/china/202604/2169910.html",
-          "source": "早报",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 08时02分]"
-        },
-        {
-          "title": "翼菲科技通过港交所上市聆讯，将成“轻工业全品类机器人第一股”",
-          "url": "https://www.gelonghui.com/news/5214647",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
-        },
-        {
-          "title": "【点金互动易】钠电池+高速覆铜板，积极推进普鲁士蓝钠离子电池生产，拥有领先的EX电子材料，这家公司切入M8/M9级高频覆铜板供应链，应用范围覆盖AI数据中心及人形机器人",
-          "url": "https://api3.cls.cn/share/article/2351258?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "【金牌纪要库】钠电池迎来“规模化放量”临界点，碳酸锂价格15万元/吨的水平下成本优势逐渐显现，动力电池、备用电池、储能等需求端多点开花",
+          "url": "https://api3.cls.cn/share/article/2350550?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            10
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "中办、国办：推动煤炭消费和石油消费逐步达峰，大力发展非化石能源和新型储能",
+          "url": "https://wallstreetcn.com/livenews/3092481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "中办、国办：合理控制煤电装机规模和发电量，大力发展非化石能源和新型储能",
+          "url": "https://flash.jin10.com/detail/20260422172631410800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         }
       ]
     },
@@ -749,19 +901,19 @@
       ]
     },
     {
-      "keyword_group": "储能",
+      "keyword_group": "氢能 质子交换膜 IV型储氢瓶 甲醇重整制氢",
       "match_count": 1,
       "titles": [
         {
-          "title": "【金牌纪要库】钠电池迎来“规模化放量”临界点，碳酸锂价格15万元/吨的水平下成本优势逐渐显现，动力电池、备用电池、储能等需求端多点开花",
-          "url": "https://api3.cls.cn/share/article/2350550?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "中办、国办：持续推进绿色交通基础设施建设 积极发展电动（氢能）重型卡车和绿色燃料船舶",
+          "url": "https://wallstreetcn.com/livenews/3092491",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时07分"
+          "time_info": "18时01分"
         }
       ]
     },
