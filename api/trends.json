@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T14:00:05.070164+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-04-22T16:03:14.218612+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,12 @@
           "source": "早报",
           "ranks": [
             10,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 14时00分]"
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 16时03分]"
         },
         {
           "title": "库克将卸任苹果首席执行官，硬件工程主管特纳斯接班",
@@ -59,11 +60,12 @@
           "source": "早报",
           "ranks": [
             11,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 14时00分]"
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 16时03分]"
         },
         {
           "title": "库克亮相苹果员工大会，试图平息外界对卸任CEO原因的猜测",
@@ -146,7 +148,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【风口研报·公司】这家新材料公司通过收购切入高端电子材料领域，下游覆盖IC载板等AI应用方向，当前产品在M9覆铜板已有试用，产品结构有望持续升级",
@@ -180,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美国首次将人工智能纳入刑事调查范畴 有关监管迫在眉睫",
+          "url": "https://api3.cls.cn/share/article/2352084?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "美联储主席提名人沃什：对人工智能将改善产出更有信心，而对其对劳动力市场的影响则不那么确定。",
@@ -229,7 +242,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "财联社4月22日电，OpenAI推出ChatGPT Images2.0图像模型，ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。",
@@ -241,6 +254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "OpenAI发布Images 2 获机构Arena.ai测评第一",
+          "url": "https://api3.cls.cn/share/article/2352087?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。",
@@ -293,7 +317,90 @@
           "ranks": [
             27
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "小米汽车",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "特斯拉Q1财报前瞻：财务数据退居次席，市场紧盯马斯克画的“大饼”",
+          "url": "https://flash.jin10.com/detail/20260422131538333800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)高管：将在所有印度州提供家庭充电服务。",
+          "url": "https://flash.jin10.com/detail/20260422153358961800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)高管：将通过超级充电基础设施连接印度主要城市。",
+          "url": "https://flash.jin10.com/detail/20260422153226653800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)高管：我们将Model Y L引入印度，以满足大家庭和对SUV的需求。",
+          "url": "https://flash.jin10.com/detail/20260422153141113800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "“越南特斯拉”VinFast创始人表示，公司预计将在2027年实现EBITDA收支平衡。",
+          "url": "https://wallstreetcn.com/livenews/3092246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "特斯拉AI语音功能即将上线",
+          "url": "https://wallstreetcn.com/livenews/3092293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         }
@@ -332,11 +439,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 14时00分]"
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 16时03分]"
         },
         {
           "title": "创业板指涨逾1% 算力硬件领涨市场",
@@ -374,8 +482,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 14时00分]"
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 16时03分]"
         },
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -410,6 +518,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "液冷",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "液冷服务器概念快速回暖 康盛股份4天3板",
+          "url": "https://api3.cls.cn/share/article/2351706?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "A股异动丨液冷概念股连续第二日集体下挫",
+          "url": "https://www.gelonghui.com/news/5214618",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "中科曙光(603019.SH)：公司液冷服务器产品主要采用氟化液技术路线",
+          "url": "https://www.gelonghui.com/news/5214691",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "业绩暴雷，液冷龙头英维克连续2日跌停",
+          "url": "https://www.cls.cn/detail/2351590",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         }
       ]
     },
@@ -505,45 +663,6 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特斯拉Q1财报前瞻：财务数据退居次席，市场紧盯马斯克画的“大饼”",
-          "url": "https://flash.jin10.com/detail/20260422131538333800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
-        },
-        {
-          "title": "“越南特斯拉”VinFast创始人表示，公司预计将在2027年实现EBITDA收支平衡。",
-          "url": "https://wallstreetcn.com/livenews/3092246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "特斯拉AI语音功能即将上线",
-          "url": "https://wallstreetcn.com/livenews/3092293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 黄金",
       "match_count": 2,
       "titles": [
@@ -566,37 +685,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "液冷",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "液冷服务器概念快速回暖 康盛股份4天3板",
-          "url": "https://api3.cls.cn/share/article/2351706?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "A股异动丨液冷概念股连续第二日集体下挫",
-          "url": "https://www.gelonghui.com/news/5214618",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
         }
       ]
     },
