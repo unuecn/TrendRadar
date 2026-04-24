@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T18:04:46.776737+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-04-24T19:40:35.581175+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "英特尔 高通",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "“CPU重归AI核心地位”！英特尔财报会实录：半导体市场规模已近万亿美元",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时35分 ~ 18时04分]"
+          "appearance_count": 4,
+          "time_info": "[13时35分 ~ 19时40分]"
         },
         {
           "title": "财联社4月24日电，英特尔美股盘后涨幅扩大至18%，Arm和AMD跟涨6%。",
@@ -89,13 +89,24 @@
           "time_info": "13时35分"
         },
         {
+          "title": "财联社4月24日电，韦德布什将英特尔目标价从30美元上调至60美元。",
+          "url": "https://api3.cls.cn/share/article/2355169?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "Evercore ISI：将英特尔(INTC.O)评级从与大盘一致上调至跑赢大盘，将目标价从45美元上调至111美元。",
           "url": "https://flash.jin10.com/detail/20260424175020327800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -182,6 +193,17 @@
           "time_info": "[04时32分 ~ 05时45分]"
         },
         {
+          "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
+          "url": "https://wallstreetcn.com/articles/3770753",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 19时40分]"
+        },
+        {
           "title": "英特尔：AI产品的“脊柱”是CPU。 代工业务（Intel Foundry）将是一个漫长的旅程。",
           "url": "https://wallstreetcn.com/livenews/3093533",
           "source": "华尔街见闻-快讯",
@@ -192,6 +214,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 06时44分]"
+        },
+        {
+          "title": "英特尔Q1财报 ，狠狠打了华尔街的脸",
+          "url": "https://wallstreetcn.com/articles/3770776",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 19时40分]"
         },
         {
           "title": "英特尔(INTC.O)CFO：预计三季度和四季度工厂将继续增加供应，但增速将低于之前的预期。",
@@ -260,6 +293,28 @@
           "time_info": "[05时44分 ~ 05时45分]"
         },
         {
+          "title": "财联社4月24日电，罗森布拉特证券将英特尔目标股价从30美元上调至50美元。",
+          "url": "https://api3.cls.cn/share/article/2355167?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "韦德布什：将英特尔(INTC.O)目标价从30美元上调至60美元。",
+          "url": "https://flash.jin10.com/detail/20260424191655267800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "英特尔(INTC.O)2026年Q1营收136亿美元，上年同期126.7亿美元，市场预期123.34亿美元。",
           "url": "https://flash.jin10.com/detail/20260424040214558800",
           "source": "金十数据",
@@ -277,7 +332,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -288,18 +343,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
-          "url": "https://wallstreetcn.com/articles/3770753",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -310,7 +354,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -326,24 +370,13 @@
           "time_info": "13时35分"
         },
         {
-          "title": "英特尔Q1财报 ，狠狠打了华尔街的脸",
-          "url": "https://wallstreetcn.com/articles/3770776",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
           "title": "英特尔美股盘前大涨超30%",
           "url": "https://api3.cls.cn/share/article/2355011?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -387,7 +420,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         }
@@ -395,7 +428,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "DeepSeek-V4预览版上线 对计算和显存的需求降低 百万字上下文成标配",
@@ -407,8 +440,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时35分 ~ 18时04分]"
+          "appearance_count": 4,
+          "time_info": "[13时35分 ~ 19时40分]"
         },
         {
           "title": "港股异动丨DeepSeek-V4登场，华虹半导体拉升涨超17%，中芯国际涨超10%",
@@ -545,6 +578,17 @@
           "time_info": "16时03分"
         },
         {
+          "title": "阿里国际旗下Accio Work已接入DeepSeek V4",
+          "url": "https://wallstreetcn.com/livenews/3094009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "微软：OpenAI的GPT-5.5将于明天在微软Foundry正式发布。",
           "url": "https://flash.jin10.com/detail/20260424064650416800",
           "source": "金十数据",
@@ -614,7 +658,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "【每日收评】三大指数放量收跌，绿电、煤炭等防御性板块走强，算力硬件股遭遇调整",
@@ -638,8 +682,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时35分 ~ 18时04分]"
+          "appearance_count": 4,
+          "time_info": "[13时35分 ~ 19时40分]"
         },
         {
           "title": "创业板跌近1%，算力硬件齐跌、中际旭创盘中市值破万亿，有色金属普跌，恒科指大跌2%，科网股普遍下挫",
@@ -666,6 +710,17 @@
           "time_info": "10时36分"
         },
         {
+          "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
+          "url": "https://www.cls.cn/detail/2354937",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 19时40分]"
+        },
+        {
           "title": "华为算力概念逆势拉升 润和软件涨超10%",
           "url": "https://api3.cls.cn/share/article/2354577?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -675,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
+        },
+        {
+          "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
+          "url": "https://www.cls.cn/detail/2355054",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "创业板指跌超2%，沪指跌0.69%，深成指跌1.31%，AI应用、算力租赁、算力硬件等方向跌幅居前，沪深京三市下跌个股近4000只。",
@@ -721,17 +787,6 @@
           "time_info": "16时03分"
         },
         {
-          "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
-          "url": "https://www.cls.cn/detail/2354937",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
           "title": "算力芯片概念持续走高 海光信息涨超10%",
           "url": "https://api3.cls.cn/share/article/2354566?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -760,7 +815,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -877,6 +932,18 @@
           "time_info": "[04时32分 ~ 07时44分]"
         },
         {
+          "title": "小米5月底发布新车YU7 GT",
+          "url": "https://www.zaochenbao.com/news/china/202604/2470161.html",
+          "source": "早报",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 19时40分]"
+        },
+        {
           "title": "英特尔(INTC.O)CEO：将通过特斯拉CEO埃隆·马斯克的Terafab项目寻找非常规方式提升制造能力。",
           "url": "https://flash.jin10.com/detail/20260424052524927800",
           "source": "金十数据",
@@ -897,17 +964,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 05时45分]"
-        },
-        {
-          "title": "小米5月底发布新车YU7 GT",
-          "url": "https://www.zaochenbao.com/news/china/202604/2470161.html",
-          "source": "早报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时04分"
         },
         {
           "title": "小米YU7GT",
@@ -953,11 +1009,23 @@
           "url": "https://ckxxapp.ckxx.net/pages/2026/04/24/d29e91d4b24e4b1faa398a8ee7b26c6e.html",
           "source": "参考消息",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 19时40分]"
+        },
+        {
+          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
+          "url": "https://www.cls.cn/detail/2354727",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 19时40分]"
         },
         {
           "title": "财联社4月24日电，SpaceX在S-1招股文件中警告称，政府对其Grok人工智能的调查或致其丧失部分市场准入机会。",
@@ -980,17 +1048,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 05时45分]"
-        },
-        {
-          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
-          "url": "https://www.cls.cn/detail/2354727",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时04分"
         },
         {
           "title": "财联社4月24日电，IBM与谷歌云合作，加速企业人工智能和混合云现代化进程。",
@@ -1065,6 +1122,20 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时36分 ~ 19时40分]"
+        },
+        {
           "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
           "url": "https://wallstreetcn.com/articles/3770666",
           "source": "华尔街见闻",
@@ -1074,19 +1145,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 04时32分]"
-        },
-        {
-          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 18时04分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，软件股重挫，芯片逆市连涨17日，原油三连涨",
@@ -1200,11 +1258,12 @@
           "ranks": [
             8,
             15,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时35分 ~ 18时04分]"
+          "appearance_count": 4,
+          "time_info": "[13时35分 ~ 19时40分]"
         },
         {
           "title": "中国电网开启近100亿具身智能设备采购与投资，机器人应用打开新空间",
@@ -1308,7 +1367,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         }
@@ -1490,8 +1549,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时36分 ~ 18时04分]"
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 19时40分]"
         },
         {
           "title": "美国总统特朗普：伊朗的海军沉没在海底，其空军已被摧毁，其防空和雷达武器装备也已丧失，他们的领导人也已不在人世，封锁措施严密而坚固，而且情况只会变得更糟——时间对他们不利！",
@@ -1511,27 +1570,28 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
+          "url": "https://www.cls.cn/detail/2354690",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 19时40分]"
+        },
+        {
           "title": "智源FlagOS完成DeepSeek-V4八款芯片Day0适配，覆盖昇腾、海光、摩尔线程等",
           "url": "https://wallstreetcn.com/livenews/3093943",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
-        },
-        {
-          "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
-          "url": "https://www.cls.cn/detail/2354690",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 18时04分]"
         },
         {
           "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
@@ -1539,11 +1599,53 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 18时04分]"
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 19时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【视频】泰首相亲自开比亚迪电动车载王毅兜风",
+          "url": "https://www.zaochenbao.com/news/china/202604/2470172.html",
+          "source": "早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "比亚迪汽车折扣显示中国电动车价格战愈演愈烈",
+          "url": "https://www.zaochenbao.com/news/china/202604/2470124.html",
+          "source": "早报",
+          "ranks": [
+            10,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 16时03分]"
+        },
+        {
+          "title": "比亚迪大唐EV预售价公布：25万元起",
+          "url": "https://wallstreetcn.com/livenews/3093812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         }
       ]
     },
@@ -1615,32 +1717,30 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
+      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
       "match_count": 2,
       "titles": [
         {
-          "title": "比亚迪汽车折扣显示中国电动车价格战愈演愈烈",
-          "url": "https://www.zaochenbao.com/news/china/202604/2470124.html",
-          "source": "早报",
+          "title": "国常会：要做强做优做大海洋产业 大力培育海洋生物医药、新材料等新兴产业",
+          "url": "https://flash.jin10.com/detail/20260424191452714800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            21,
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "博硕科技：蓝海芯新材料已投入运营 当前营收规模较小",
+          "url": "https://flash.jin10.com/detail/20260424125712328800",
+          "source": "金十数据",
+          "ranks": [
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时36分 ~ 16时03分]"
-        },
-        {
-          "title": "比亚迪大唐EV预售价公布：25万元起",
-          "url": "https://wallstreetcn.com/livenews/3093812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "13时35分"
         }
       ]
     },
@@ -1696,23 +1796,6 @@
       ]
     },
     {
-      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "博硕科技：蓝海芯新材料已投入运营 当前营收规模较小",
-          "url": "https://flash.jin10.com/detail/20260424125712328800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 1,
       "titles": [
@@ -1740,7 +1823,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         }
