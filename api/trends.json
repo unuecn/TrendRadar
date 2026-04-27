@@ -1,63 +1,83 @@
 {
-  "generated_at": "2026-04-28T03:21:24.748490+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-04-28T04:39:31.556004+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 4,
+      "keyword_group": "美债 美股 美元",
+      "match_count": 6,
       "titles": [
         {
-          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2357129",
-          "source": "财联社热门",
+          "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            8,
-            9
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时39分]"
         },
         {
-          "title": "DeepSeek发表新模型，开源令中国AI企业扩大影响力",
-          "url": "https://www.zaochenbao.com/news/china/202604/2770399.html",
-          "source": "早报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 03时21分]"
-        },
-        {
-          "title": "财联社4月28日电，亚马逊CEO安迪·贾西表示，未来数周内，将携手全新的有状态运行时环境，在亚马逊云科技Bedrock平台向客户直接开放OpenAI系列模型。",
-          "url": "https://api3.cls.cn/share/article/2357358?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "美国五角大楼增添新的Gemini模型到其AI工具。",
-          "url": "https://wallstreetcn.com/livenews/3095117",
+          "title": "美股大类资产类ETF涨跌各异",
+          "url": "https://wallstreetcn.com/livenews/3095227",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "周一（4月27日），美股行业ETF涨跌各异，全球航空业ETF收跌1.81%，日常消费品ETF跌1.07%，可选消费ETF跌0.72%，半导体ETF跌0.04%。 科技行业ETF、全球科技股指数ETF至多涨0.31%，银行业ETF涨1.39%，区域银行ETF涨1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3095225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "美股三大指数收盘涨跌不一 英伟达涨4%创新高",
+          "url": "https://api3.cls.cn/share/article/2357389?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "周一（4月27日）纽约尾盘，ICE美元指数跌0.07%，报98.461点，日内交投区间为98.644-98.214点，整体呈现出V形走势。 彭博美元指数跌0.10%，报1195.71点，日内交投区间为1198.01-1193.14点，也呈现出两波V形走势。 美元兑日元涨0.01%，报159.40日元，日内交投区间为159.68-159.10日元。",
+          "url": "https://wallstreetcn.com/livenews/3095207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "英伟达涨超3%，刷新盘中历史高位至215美元上方，盘中市值5.22万亿美元。费城半导体指数目前跌超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3095167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "03时21分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌员工呼吁CEO皮查伊阻止美国军方使用其人工智能。",
@@ -80,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "美国财长贝森特：美国汇聚了全球最具才华的人工智能研究人员。然而，桑德斯参议员非但不利用美国的创新力量，反而邀请外国人士来指导美国应如何监管人工智能。",
+          "url": "https://flash.jin10.com/detail/20260428035318565800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         },
         {
           "title": "财联社4月28日电，谷歌称，欧盟的不当干预将剥夺设备厂商定制人工智能服务的自主权，推高成本。",
@@ -107,8 +138,19 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美股收盘：英伟达涨4%创新高",
+          "url": "https://flash.jin10.com/detail/20260428040039049800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
         {
           "title": "英伟达股价时隔6个月再度刷新历史纪录",
           "url": "https://api3.cls.cn/share/article/2357357?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -119,6 +161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "标普500指数初步收涨0.1%，能源板块涨0.9%，金融板块涨0.7%，科技板块涨0.4%，房地产板块跌0.8%，日用消费品板块跌1.2%。 纳斯达克100指数初步大致收平，成分股中，Arm控股初步收跌8.4%，T-Mobile跌4.1%，特许通讯、迈威尔科技、AMD、拉姆研究等跌超3%，英伟达涨3.9%表现第三，美光科技涨5.4%，Sandisk涨7.9%。 麦当劳跌3%，沃尔玛、Merck、IBM、可口可乐等跌超1%，领跌道指成分股，高盛、摩根大通、耐克、美国运通涨超1%，与英伟达领跑。",
+          "url": "https://wallstreetcn.com/livenews/3095214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         },
         {
           "title": "英伟达涨超2%，刷新盘中历史高位至212.6美元，盘中市值5.17万亿美元。",
@@ -145,30 +198,54 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 2,
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 4,
       "titles": [
         {
-          "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
-          "url": "https://wallstreetcn.com/articles/3770961",
-          "source": "华尔街见闻",
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
           "ranks": [
-            3
+            7,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时39分]"
         },
         {
-          "title": "英伟达涨超3%，刷新盘中历史高位至215美元上方，盘中市值5.22万亿美元。费城半导体指数目前跌超1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3095167",
+          "title": "DeepSeek发表新模型，开源令中国AI企业扩大影响力",
+          "url": "https://www.zaochenbao.com/news/china/202604/2770399.html",
+          "source": "早报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时39分]"
+        },
+        {
+          "title": "财联社4月28日电，亚马逊CEO安迪·贾西表示，未来数周内，将携手全新的有状态运行时环境，在亚马逊云科技Bedrock平台向客户直接开放OpenAI系列模型。",
+          "url": "https://api3.cls.cn/share/article/2357358?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "美国五角大楼增添新的Gemini模型到其AI工具。",
+          "url": "https://wallstreetcn.com/livenews/3095117",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "00时26分"
         }
       ]
     },
@@ -185,8 +262,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时39分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -196,8 +273,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时39分]"
         }
       ]
     },
@@ -315,8 +392,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时39分]"
         }
       ]
     },
@@ -331,7 +408,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         }
