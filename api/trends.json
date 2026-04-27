@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T01:50:15.265618+08:00",
-  "total_titles_processed": 321,
+  "generated_at": "2026-04-28T03:21:24.748490+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 03时21分]"
         },
         {
           "title": "DeepSeek发表新模型，开源令中国AI企业扩大影响力",
@@ -27,8 +28,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 03时21分]"
         },
         {
           "title": "财联社4月28日电，亚马逊CEO安迪·贾西表示，未来数周内，将携手全新的有状态运行时环境，在亚马逊云科技Bedrock平台向客户直接开放OpenAI系列模型。",
@@ -37,7 +38,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
@@ -76,7 +77,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
@@ -87,7 +88,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
@@ -98,7 +99,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         }
@@ -115,7 +116,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
@@ -126,7 +127,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
@@ -144,6 +145,34 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 03时21分]"
+        },
+        {
+          "title": "英伟达涨超3%，刷新盘中历史高位至215美元上方，盘中市值5.22万亿美元。费城半导体指数目前跌超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3095167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 2,
       "titles": [
@@ -152,11 +181,12 @@
           "url": "https://www.cls.cn/detail/2356822",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 03时21分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -166,8 +196,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 03时21分]"
         }
       ]
     },
@@ -182,7 +212,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
@@ -193,7 +223,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         }
@@ -221,7 +251,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         }
@@ -238,7 +268,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
@@ -256,23 +286,6 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
-          "url": "https://wallstreetcn.com/articles/3770961",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时50分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力调度平台 智算中心液冷系统 3D数字孪生引擎 室内高精定位系统 数据要素",
       "match_count": 1,
       "titles": [
@@ -281,11 +294,12 @@
           "url": "https://api3.cls.cn/share/article/2357361?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 03时21分]"
         }
       ]
     },
@@ -301,8 +315,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 03时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英特尔发行65亿美元债券，获得投资者500亿美元认购。",
+          "url": "https://wallstreetcn.com/livenews/3095179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     }
