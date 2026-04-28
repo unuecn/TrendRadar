@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-04-28T07:54:14.828244+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-04-28T10:50:46.341666+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
+          "url": "https://www.cls.cn/detail/2357431",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 10时50分]"
+        },
+        {
+          "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
         {
           "title": "科技巨头财报周前夕，标普、纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
           "url": "https://wallstreetcn.com/articles/3770961",
@@ -14,7 +37,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -28,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
-        },
-        {
-          "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
-          "url": "https://www.cls.cn/detail/2357431",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         },
         {
           "title": "美股收盘：英伟达涨4%创新高",
@@ -213,8 +225,192 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "【焦点复盘】三大指数收盘涨跌互现，全市场超百股涨逾10%，国产算力概念活跃依旧",
+          "url": "https://www.cls.cn/detail/2356822",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时52分]"
+        },
+        {
+          "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
+          "url": "https://www.cls.cn/detail/2357012",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时54分]"
+        },
+        {
+          "title": "中信建投：看好AI应用落地与AI算力需求增长",
+          "url": "https://www.gelonghui.com/news/5221224",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "“AI光算力第一股”来了！上海曦智科技今登陆港交所 全球知名机构争做基石投资者",
+          "url": "https://www.cls.cn/detail/2357540",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "A股早评：三大指数集体低开，部分算力租赁概念股盘初活跃",
+          "url": "https://www.gelonghui.com/news/5221256",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "【研选】随着1.6T光模块规模化放量，具备mSAP工艺量产能力与头部客户认证的厂商有望迎来订单放量与产品结构优化的双重驱动；公司依托“棒-纤-缆”全产业链优势，多项AI算力光纤光缆产品实现突破",
+          "url": "https://api3.cls.cn/share/article/2356294?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "A股PCB板块震荡回升，铜冠铜箔涨超13%，宏英智能、赛腾股份双双涨停，东方材料、美联新材、木林森、科翔股份等个股跟涨。消息面上，广东“十五五”规划纲要提出，支持规划建设商业航天产业园区，推动星箭等重点产品低成本批量化生产；充分发挥机电一体化和软硬件协同优势，发展算力芯片、固态电池、创新药械等战略性产品。",
+          "url": "https://flash.jin10.com/detail/20260428102943229800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "算力芯片概念反复活跃 综艺股份4天3板",
+          "url": "https://api3.cls.cn/share/article/2357615?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "谷歌员工呼吁CEO皮查伊阻止美国军方使用其人工智能。",
+          "url": "https://flash.jin10.com/detail/20260428000212502800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "美国财长贝森特：美国汇聚了全球最具才华的人工智能研究人员。然而，桑德斯参议员非但不利用美国的创新力量，反而邀请外国人士来指导美国应如何监管人工智能。",
+          "url": "https://flash.jin10.com/detail/20260428035318565800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时39分 ~ 06时52分]"
+        },
+        {
+          "title": "谷歌员工敦促首席执行官Pichai阻止美国军方使用其人工智能技术",
+          "url": "https://api3.cls.cn/share/article/2357356?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "财联社4月28日电，谷歌称，欧盟的不当干预将剥夺设备厂商定制人工智能服务的自主权，推高成本。",
+          "url": "https://api3.cls.cn/share/article/2357351?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "广东“十五五”规划纲要：积极发展超导材料、纳米材料、智能仿生与超材料等前沿领域 推动应用人工智能模型加速新材料研发范式变革",
+          "url": "https://api3.cls.cn/share/article/2357651?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "肯尼思·罗戈夫：人工智能能解决富裕国家债务困境吗？",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/2870417.html",
+          "source": "早报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：对于中央银行而言，地缘政治压力的缓解意味着欧洲和英国的政策制定者在加息方面可能会不及市场预期的幅度。 其中一个风险是，宽松的金融环境可能会加剧通胀，尤其是在美国，人工智能支出、财政刺激和劳动力供应紧张已经为物价提供了支撑。",
+          "url": "https://wallstreetcn.com/livenews/3095142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
@@ -275,208 +471,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
-      "titles": [
+        },
         {
-          "title": "谷歌员工呼吁CEO皮查伊阻止美国军方使用其人工智能。",
-          "url": "https://flash.jin10.com/detail/20260428000212502800",
+          "title": "美媒：OpenAI近期未达成销售和用户获取目标",
+          "url": "https://flash.jin10.com/detail/20260428101414163800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "美国财长贝森特：美国汇聚了全球最具才华的人工智能研究人员。然而，桑德斯参议员非但不利用美国的创新力量，反而邀请外国人士来指导美国应如何监管人工智能。",
-          "url": "https://flash.jin10.com/detail/20260428035318565800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时39分 ~ 06时52分]"
-        },
-        {
-          "title": "谷歌员工敦促首席执行官Pichai阻止美国军方使用其人工智能技术",
-          "url": "https://api3.cls.cn/share/article/2357356?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "财联社4月28日电，谷歌称，欧盟的不当干预将剥夺设备厂商定制人工智能服务的自主权，推高成本。",
-          "url": "https://api3.cls.cn/share/article/2357351?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：对于中央银行而言，地缘政治压力的缓解意味着欧洲和英国的政策制定者在加息方面可能会不及市场预期的幅度。 其中一个风险是，宽松的金融环境可能会加剧通胀，尤其是在美国，人工智能支出、财政刺激和劳动力供应紧张已经为物价提供了支撑。",
-          "url": "https://wallstreetcn.com/livenews/3095142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【焦点复盘】三大指数收盘涨跌互现，全市场超百股涨逾10%，国产算力概念活跃依旧",
-          "url": "https://www.cls.cn/detail/2356822",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时52分]"
-        },
-        {
-          "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
-          "url": "https://www.cls.cn/detail/2357012",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时54分]"
-        },
-        {
-          "title": "中信建投：看好AI应用落地与AI算力需求增长",
-          "url": "https://www.gelonghui.com/news/5221224",
-          "source": "格隆汇",
-          "ranks": [
-            2
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "【研选】随着1.6T光模块规模化放量，具备mSAP工艺量产能力与头部客户认证的厂商有望迎来订单放量与产品结构优化的双重驱动；公司依托“棒-纤-缆”全产业链优势，多项AI算力光纤光缆产品实现突破",
-          "url": "https://api3.cls.cn/share/article/2356294?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "深圳市委书记靳磊到华为、比亚迪等走访调研",
-          "url": "https://api3.cls.cn/share/article/2357451?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "深圳市委书记靳磊到华为、比亚迪等走访调研",
-          "url": "https://wallstreetcn.com/livenews/3095287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "深圳市委书记靳磊到华为、比亚迪等走访调研",
-          "url": "https://flash.jin10.com/detail/20260428072557076800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "曝苹果将推出真全面屏手机",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%8E%A8%E5%87%BA%E7%9C%9F%E5%85%A8%E9%9D%A2%E5%B1%8F%E6%89%8B%E6%9C%BA%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "美国商务部：苹果CEO与商务部长卢特尼克今日会面。",
-          "url": "https://wallstreetcn.com/livenews/3095277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "苹果、谷歌联手扼杀美国加州扶持小竞争对手的法案",
-          "url": "https://wallstreetcn.com/livenews/3095147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "10时50分"
         }
       ]
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI初创公司Sereact获1.1亿美元融资 旨在提升机器人适应性",
@@ -490,6 +501,17 @@
           "time_info": "01时50分"
         },
         {
+          "title": "翼菲科技通过聆讯，加速冲刺港股\"轻工业全品类机器人第一股\"",
+          "url": "https://www.gelonghui.com/news/5221257",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "AI初创公司Sereact获1.1亿美元融资，旨在提升机器人适应性",
           "url": "https://wallstreetcn.com/livenews/3095146",
           "source": "华尔街见闻-快讯",
@@ -499,6 +521,340 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "广东：做大做强新能源、智能网联汽车、智能机器人、航空航天等新兴产业，锻造更多万亿元级、千亿元级新兴产业集群",
+          "url": "https://flash.jin10.com/detail/20260428102500096800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "创业板指跌超1%，沪指跌0.22%，深成指跌0.74%，半导体、机器人、贵金属、旅游等板块跌幅居前，沪深京三市下跌个股超3300只。",
+          "url": "https://wallstreetcn.com/livenews/3095342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "曝苹果将推出真全面屏手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%8E%A8%E5%87%BA%E7%9C%9F%E5%85%A8%E9%9D%A2%E5%B1%8F%E6%89%8B%E6%9C%BA%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "恒生科技指数跌超1%，舜宇光学科技跌超4%，比亚迪电子跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3095372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "美国商务部：苹果CEO与商务部长卢特尼克今日会面。",
+          "url": "https://wallstreetcn.com/livenews/3095277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "苹果、谷歌联手扼杀美国加州扶持小竞争对手的法案",
+          "url": "https://wallstreetcn.com/livenews/3095147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "港股苹果概念震荡走弱，丘钛科技(01478.HK)、舜宇光学科技(02382.HK)双双跌超4%，瑞声科技(02018.HK)、比亚迪电子(00285.HK)均跌超3%，蓝思科技(06613.HK)、高伟电子(01415.HK)等个股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260428100538949800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "广东：“十五五”时期广东要支持规划建设商业航天产业园区 推动星箭等重点产品低成本批量化生产",
+          "url": "https://wallstreetcn.com/livenews/3095365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "恒生科技指数盘中跌超1%，苹果概念、脑机接口、商业航天、电力设备等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260428103116913800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "广东“十五五”规划纲要：支持规划建设商业航天产业园区 推动星箭等重点产品低成本批量化生产",
+          "url": "https://api3.cls.cn/share/article/2357653?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "广东：支持规划建设商业航天产业园区 推动星箭等重点产品低成本批量化生产",
+          "url": "https://flash.jin10.com/detail/20260428102611120800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "深圳市委书记靳磊到华为、比亚迪等走访调研",
+          "url": "https://api3.cls.cn/share/article/2357451?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "深圳市委书记靳磊到华为、比亚迪等走访调研",
+          "url": "https://wallstreetcn.com/livenews/3095287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "深圳市委书记靳磊到华为、比亚迪等走访调研",
+          "url": "https://flash.jin10.com/detail/20260428072557076800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "特斯拉启动赛博出租车生产",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/04/28/d52b5ce2acaa4cb296a7a4e19ca882a7.html",
+          "source": "参考消息",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "广东：大力发展第六代移动通信、具身智能、脑科学与脑机接口等重点产业，积极打造新的经济增长点",
+          "url": "https://wallstreetcn.com/livenews/3095367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "广东“十五五”规划纲要：加强脑机接口系统攻关 推动非侵入式脑机接口集成产品开发研制",
+          "url": "https://api3.cls.cn/share/article/2357662?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "广东：大力发展第六代移动通信、具身智能、脑科学与脑机接口等重点产业，积极打造新的经济增长点",
+          "url": "https://flash.jin10.com/detail/20260428102741950800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药 新药研发 临床三期",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "CXO龙头一季报营收首破百亿，低费率港股通创新药ETF易方达(159316)上涨",
+          "url": "https://www.gelonghui.com/news/5221267",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "药明康德Q1业绩创历史新高，全市场孤品·创新药ETF天弘(517380)标的指数飙涨超4%，生物医药ETF天弘(159859)近5日“吸金”近6000万",
+          "url": "https://www.gelonghui.com/news/5221259",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "低空经济 eVTOL",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "广东：要重点攻关新构型eVTOL整机及电推进系统技术 探索火箭制造、火箭发射回收技术",
+          "url": "https://flash.jin10.com/detail/20260428103624666800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "广东“十五五”规划纲要：重点攻关新构型eVTOL整机及电推进系统技术 探索火箭制造、火箭发射回收技术",
+          "url": "https://api3.cls.cn/share/article/2357669?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报174650元/吨，较上日16:30价格下跌600元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3095374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "金十期货4月28日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌600元/吨，中间价报174650元/吨。",
+          "url": "https://flash.jin10.com/detail/20260428103308491800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "广东：强化钙钛矿、叠层电池等光伏新技术研发和设备制造",
+          "url": "https://wallstreetcn.com/livenews/3095381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "广东“十五五”规划纲要：强化钙钛矿、叠层电池等光伏新技术研发和设备制造 支持开发光储直柔、光储充一体化产品",
+          "url": "https://api3.cls.cn/share/article/2357656?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     },
@@ -549,6 +905,23 @@
       ]
     },
     {
+      "keyword_group": "五轴联动数控 超高精度光栅尺 工业母机",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "顾清扬：中国出口：从消费品到“工业母机”",
+          "url": "https://www.zaochenbao.com/news/opinion/202604/2870418.html",
+          "source": "早报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力调度平台 智算中心液冷系统 3D数字孪生引擎 室内高精定位系统 数据要素",
       "match_count": 1,
       "titles": [
@@ -575,11 +948,12 @@
           "url": "https://wallstreetcn.com/articles/3770943",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 10时50分]"
         }
       ]
     },
