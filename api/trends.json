@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T18:25:37.168225+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-04-29T20:02:34.161037+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时55分 ~ 18时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时55分 ~ 20时02分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时55分 ~ 20时02分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -55,27 +67,26 @@
           "time_info": "[01时47分 ~ 05时07分]"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时55分 ~ 18时25分]"
-        },
-        {
           "title": "DeepSeek上线识图模式",
           "url": "https://api3.cls.cn/share/article/2359743?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini在英国推出新的个性化功能。",
+          "url": "https://flash.jin10.com/detail/20260429194814328800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
@@ -99,17 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
-        },
-        {
-          "title": "DeepSeek新模型发布后 中国大型科企争相抢购华为AI晶片",
-          "url": "https://www.zaochenbao.com/news/china/202604/2970571.html",
-          "source": "早报",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         },
         {
           "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
@@ -136,6 +136,19 @@
           "time_info": "[06时31分 ~ 07时55分]"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 20时02分]"
+        },
+        {
           "title": "财联社4月29日电，亚马逊云和OpenAI宣布扩大合作伙伴关系。",
           "url": "https://api3.cls.cn/share/article/2358815?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -148,17 +161,28 @@
           "time_info": "[01时47分 ~ 03时41分]"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
+          "title": "DeepSeek新模型发布后 中国大型科企争相抢购华为AI晶片",
+          "url": "https://www.zaochenbao.com/news/china/202604/2970571.html",
+          "source": "早报",
           "ranks": [
-            10,
-            8,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时02分]"
+        },
+        {
+          "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
+          "url": "https://www.cls.cn/detail/2359433",
+          "source": "财联社热门",
+          "ranks": [
+            7,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时55分 ~ 18时25分]"
+          "time_info": "[16时17分 ~ 20时02分]"
         },
         {
           "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
@@ -170,18 +194,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 06时32分]"
-        },
-        {
-          "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
-          "url": "https://www.cls.cn/detail/2359433",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 18时25分]"
         },
         {
           "title": "财联社4月29日电，OpenAI预计8美元价位的ChatGPT订阅服务今年将实现大幅增长。",
@@ -305,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "华为终端：华为小艺Claw上线自进化能力，同时接入DeepSeek V4实现逻辑推理跃迁。",
+          "url": "https://flash.jin10.com/detail/20260429192700676800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "马斯克在 OpenAI 案件审判中出庭作证，称“掠夺慈善机构”绝不可取",
@@ -603,8 +626,19 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "江西省省长：加快让人形机器人、脑机接口等形成新增长点",
+          "url": "https://www.zaochenbao.com/news/Chronicles/202604/2970580.html",
+          "source": "早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
         {
           "title": "深圳领跑中国机器人产业",
           "url": "https://ckxxapp.ckxx.net/pages/2026/04/29/09010f8f780a4da6b66e238b6bcfc9c5.html",
@@ -612,11 +646,12 @@
           "ranks": [
             14,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 18时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 20时02分]"
         },
         {
           "title": "泛亚微透：第一季度营收为1.64亿元 战略参股能斯达 深化机器人电子皮肤用ePTFE基材等新兴领域的布局",
@@ -647,7 +682,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -666,7 +701,7 @@
     },
     {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "A股光伏设备板块低开高走，同享科技涨超14%，固德威、艾罗能源、锦浪科技、高测股份、中利集团、海优新材等个股跟涨。",
@@ -711,6 +746,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "国银金租(01606.HK)拟28.51亿元收购粤苏皖户用光伏电站",
+          "url": "https://www.gelonghui.com/news/5224033",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "华友钴业报告津巴布韦首批锂盐出口",
@@ -861,7 +907,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
@@ -980,7 +1026,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
