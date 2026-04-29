@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T06:31:32.228927+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-04-30T07:31:35.212090+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "英特尔 高通",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "高通(QCOM.O)盘后涨10%。",
@@ -17,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
-        },
-        {
-          "title": "高通美股盘后涨幅扩大至17%。",
-          "url": "https://wallstreetcn.com/livenews/3096970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
         },
         {
           "title": "财联社4月30日电，高通美股盘后涨超10%。",
@@ -42,6 +31,18 @@
           "time_info": "[05时05分 ~ 06时31分]"
         },
         {
+          "title": "高通美股盘后涨幅扩大至17%。",
+          "url": "https://wallstreetcn.com/livenews/3096970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
           "title": "财联社4月30日电，高通第二财季经调整营收106.0亿美元，预估105.6亿美元。第二财季调整后每股收益2.65美元，预估2.55美元。公司预计第三季度调整后每股收益2.10美元至2.30美元，预估2.43美元。",
           "url": "https://api3.cls.cn/share/article/2360269?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -51,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "特朗普称赞英特尔(INTC.O)股价上涨。",
+          "url": "https://flash.jin10.com/detail/20260430062207215800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "高通预计第三财季营收92亿-100亿美元，分析师预期102.6亿美元。",
@@ -84,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "特朗普：英特尔股价继续上涨。",
+          "url": "https://wallstreetcn.com/livenews/3096980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "高通(QCOM.O)：第三财季业绩指引中包含了因内存供应受限及相关定价因素对多家手机制造商需求所产生的影响预估。",
@@ -122,7 +145,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
@@ -144,42 +167,56 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "美股收盘：存储、光通信概念走强 纳指微涨道指连跌五天",
+          "url": "https://www.cls.cn/detail/2360291",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "周四亚太盘初，道指期货跌约0.4%，标普股指期货跌0.1%，纳指期货跌超0.2%，罗素2000股指期货跌超0.5%。 目前，Meta（美股盘后）跌6.1%，奈飞跌超1%，甲骨文跌超0.6%，亚马逊涨1.3%，Sandisk涨1.5%，亚马逊涨2.1%，西部数据涨2.7%，谷歌A涨5.8%，高通涨15.8%。",
           "url": "https://wallstreetcn.com/livenews/3096972",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时31分]"
         },
         {
           "title": "美股存储芯片指数收涨约2.7%，成分股希捷科技涨超11%、泰瑞达则跌超19%，恩智浦飙涨超25%、英特尔涨超12%",
           "url": "https://wallstreetcn.com/livenews/3096969",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时31分]"
         },
         {
           "title": "美股七巨头收盘播报｜周三（4月29日），美国科技股七巨头（Magnificent 7）指数收跌0.55%，报213.57点，美股早盘冲高回落——北京时间22:37前后短暂地微幅上涨，后半段交易时间低位持稳。 “超大”市值科技股指数涨0.34%，报417.57点，呈现出两波V形反转行情。",
           "url": "https://wallstreetcn.com/livenews/3096968",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时31分]"
         },
         {
           "title": "微软第三财季营收828.9亿美元，分析师预期814.6亿美元。 第三财季运营利润384亿美元，分析师预期369亿美元。 第三财季Azure与其他云剔除汇率因素之后的营收增长39%，分析师预期增长38.2%。 第三财季云营收545亿美元，分析师预期537.8亿美元。 第三财季微软365商业云营收增长19%，消费者云营收增长33%。 第三财季LinkedIn营收增长12%，Dynamics 365营收增长22%。 第三财季Windos OEM与设备营收下滑2%，Xbox内容与服务营收下滑5%。 第三财季资本开支包含319亿美元租赁费用，分析师预期352.9亿美元。 微软在业绩报告发布后冲高回落，涨3%之后转而跌1.57%。",
@@ -202,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "美股三大指数涨跌不一 苹果概念、存储概念股大涨，中概指数跌0.64%",
+          "url": "https://www.gelonghui.com/news/5225080",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美股三大指数收盘涨跌不一 苹果概念、存储概念股大涨",
@@ -294,7 +342,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -305,7 +353,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -327,7 +375,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         }
@@ -335,7 +383,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -345,8 +393,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 07时31分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 07时31分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -355,18 +415,6 @@
           "ranks": [
             3,
             4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时31分]"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
             6
           ],
           "is_new": false,
@@ -396,13 +444,24 @@
           "time_info": "05时05分"
         },
         {
+          "title": "Anthropic估值或升至逾9000亿美元超过OpenAI",
+          "url": "https://flash.jin10.com/detail/20260430061412017800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "谷歌母公司Alphabet：“不急于”在Gemini投放广告，但也还么有什么好说的。",
           "url": "https://wallstreetcn.com/livenews/3096962",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         }
@@ -410,7 +469,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "江西省省长：加快让人形机器人、脑机接口等形成新增长点",
@@ -420,8 +479,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 07时31分]"
         },
         {
           "title": "深圳领跑中国机器人产业",
@@ -431,8 +490,113 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 07时31分]"
+        },
+        {
+          "title": "乐动机器人(01236.HK)拟全球发售3333.34万股H股 预计5月11日上市",
+          "url": "https://www.gelonghui.com/news/5225090",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "乐动机器人(01236.HK)4月30日起招股 发售价将不超过每股30.00港元",
+          "url": "https://www.gelonghui.com/news/5225087",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "财联社4月30日电，利弗莫尔证券显示，乐动机器人在港交所公告，在港上市拟发行逾3300万股H股，最高定价30港元/股，预期5月11日开始交易。",
+          "url": "https://api3.cls.cn/share/article/2360299?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "乐动机器人在港交所公告，在港上市拟发行逾3300万股H股，最高定价30港元/股，预期5月11日开始交易。",
+          "url": "https://flash.jin10.com/detail/20260430061209571800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "范式智能(06682.HK)拟购买GPU服务器",
+          "url": "https://www.gelonghui.com/news/5225086",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "算力需求驱动，寒武纪Q1营收同比增160%，净利飙升185%，章建平退出十大股东｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771278",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "Meta Platforms(META.O)CEO：相信用户会为“高端或高算力版本”的目标导向AI功能付费。",
+          "url": "https://flash.jin10.com/detail/20260430062037400800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "高通：顶级云厂商（hyperscalers）客户正获取定制款ASIC。",
+          "url": "https://wallstreetcn.com/livenews/3096960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "范式智能(06682.HK)：拟以4亿元人民币购买GPU服务器以及相关配件。",
+          "url": "https://flash.jin10.com/detail/20260430060938171800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -440,6 +604,18 @@
       "keyword_group": "储能",
       "match_count": 2,
       "titles": [
+        {
+          "title": "锂电业绩大分化：上游多家材料厂利增十倍 储能龙头却坦言毛利率稳中有降是常态",
+          "url": "https://www.cls.cn/detail/2359858",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 07时31分]"
+        },
         {
           "title": "【焦点复盘】创业板指涨2.5%终结4连阴，全市场近4000股飘红，储能、小金属板块强势领涨",
           "url": "https://www.cls.cn/detail/2359663",
@@ -452,35 +628,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时13分 ~ 06时31分]"
-        },
-        {
-          "title": "锂电业绩大分化：上游多家材料厂利增十倍 储能龙头却坦言毛利率稳中有降是常态",
-          "url": "https://www.cls.cn/detail/2359858",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高通：顶级云厂商（hyperscalers）客户正获取定制款ASIC。",
-          "url": "https://wallstreetcn.com/livenews/3096960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
         }
       ]
     },
@@ -514,8 +661,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 07时31分]"
         }
       ]
     },
