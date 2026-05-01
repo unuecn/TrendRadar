@@ -1,1778 +1,222 @@
 {
-  "generated_at": "2026-05-01T23:06:52.059931+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-05-02T00:32:03.414313+08:00",
+  "total_titles_processed": 258,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 58,
-      "titles": [
-        {
-          "title": "美股异动｜苹果盘后涨超4%，第二财季营收1111.8亿美元同比增长17%",
-          "url": "https://www.gelonghui.com/news/5226634",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            2,
-            3,
-            4,
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时29分 ~ 22时02分]"
-        },
-        {
-          "title": "摩根士丹利将苹果公司目标股价上调至330美元",
-          "url": "https://www.gelonghui.com/news/5226642",
-          "source": "格隆汇",
-          "ranks": [
-            2,
-            3,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时05分 ~ 23时06分]"
-        },
-        {
-          "title": "美银：将苹果目标价上调至330美元",
-          "url": "https://www.gelonghui.com/news/5226646",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 23时06分]"
-        },
-        {
-          "title": "苹果电脑废纸篓里的废纸谁扔的",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E5%BA%9F%E7%BA%B8%E7%AF%93%E9%87%8C%E7%9A%84%E5%BA%9F%E7%BA%B8%E8%B0%81%E6%89%94%E7%9A%84&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            7,
-            17,
-            20,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 07时29分]"
-        },
-        {
-          "title": "财联社5月1日电，苹果股价盘前扩大涨幅至4.1%，触及日内高点。",
-          "url": "https://api3.cls.cn/share/article/2361893?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "苹果公司董事会批准高达1000亿美元的股票回购计划，并提高派息。",
-          "url": "https://wallstreetcn.com/livenews/3097710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "财联社5月1日电，汇丰银行将苹果公司目标股价从250美元上调至260美元。",
-          "url": "https://api3.cls.cn/share/article/2361948?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "汇丰控股：将苹果(AAPL.O)目标价从250美元上调至260美元。",
-          "url": "https://flash.jin10.com/detail/20260501224628745800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "苹果美股盘前涨幅扩大至逾4%。",
-          "url": "https://wallstreetcn.com/livenews/3097892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "提醒：苹果公司电话会结束。 苹果公司美股盘后维持3.9%的涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3097744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 09时23分]"
-        },
-        {
-          "title": "苹果公司CEO库克：对公司在印度市场的未来“兴奋不已”。",
-          "url": "https://wallstreetcn.com/livenews/3097743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 09时23分]"
-        },
-        {
-          "title": "苹果CEO库克：预计第三季度的内存成本将显著高于第二季度",
-          "url": "https://api3.cls.cn/share/article/2361637?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "苹果(AAPL.O)提高派息至每股0.27美元。",
-          "url": "https://flash.jin10.com/detail/20260501045322480800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时28分]"
-        },
-        {
-          "title": "苹果季度营收展望意外强劲，或预示其能克服供应短缺问题",
-          "url": "https://wallstreetcn.com/livenews/3097741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 09时23分]"
-        },
-        {
-          "title": "苹果财报电话会将于十分钟后举行。",
-          "url": "https://flash.jin10.com/detail/20260501045000000800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时28分]"
-        },
-        {
-          "title": "苹果(AAPL.O)CEO库克：预计在当前季度后，内存成本将对业务产生更大影响。将考虑多种方案以应对内存成本。",
-          "url": "https://flash.jin10.com/detail/20260501054344470800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "财联社5月1日电，苹果CFO表示，受供应限制影响，预计6月季度收入同比增长14-17%。公司预计六月当季毛利率将在47.5%至48.5%之间。",
-          "url": "https://api3.cls.cn/share/article/2361633?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "苹果(AAPL.O)盘后跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260501044350247800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时28分]"
-        },
-        {
-          "title": "苹果(AAPL.O)CEO库克：第二季度的内存成本高于第一季度。预计第三季度的内存成本将显著高于第二季度。",
-          "url": "https://flash.jin10.com/detail/20260501054247126800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "苹果公司分析师电话会议要点总结",
-          "url": "https://wallstreetcn.com/livenews/3097795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 15时42分]"
-        },
-        {
-          "title": "亚太盘初，美国三大股指期货至多涨超0.2%，苹果盘后涨幅扩大至超过3.9%——苹果公司正在举行分析师电话会。",
-          "url": "https://wallstreetcn.com/livenews/3097740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "苹果上季在华收入继续两位数大增，iPhone收入创同期新高，本季营收指引意外强劲 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771430",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时13分 ~ 23时06分]"
-        },
-        {
-          "title": "苹果创始人站台追觅旗下手机",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%AB%99%E5%8F%B0%E8%BF%BD%E8%A7%85%E6%97%97%E4%B8%8B%E6%89%8B%E6%9C%BA%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 13时07分]"
-        },
-        {
-          "title": "苹果第二财季销售额超出预期，但iPhone遭遇供应瓶颈",
-          "url": "https://flash.jin10.com/detail/20260501043949705800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时28分]"
-        },
-        {
-          "title": "苹果即将上任的CEO：将延续库克的稳健作风",
-          "url": "https://flash.jin10.com/detail/20260501054107395800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "苹果电话会：营收指引超预期，存储自Q3起拖累利润率，追加千亿回购",
-          "url": "https://wallstreetcn.com/articles/3771437",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 23时06分]"
-        },
-        {
-          "title": "苹果公司CEO库克：任何关税退款都将被投资到美国。",
-          "url": "https://wallstreetcn.com/livenews/3097738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：第二季度可穿戴设备收入为79.01亿美元。",
-          "url": "https://flash.jin10.com/detail/20260501043625759800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时28分]"
-        },
-        {
-          "title": "苹果(AAPL.O)CEO库克：展望6月当季，我们大部分供应限制料将集中在几款Mac型号上。",
-          "url": "https://flash.jin10.com/detail/20260501053634508800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "苹果公司CEO库克：主要的供应掣肘存在于处理器领域。",
-          "url": "https://wallstreetcn.com/livenews/3097737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "苹果(AAPL.O)2026财年Q2 净利润295.78亿美元，去年同期247.8亿美元，市场预期282.98亿美元。",
-          "url": "https://flash.jin10.com/detail/20260501043542691800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时28分]"
-        },
-        {
-          "title": "苹果(AAPL.O)CFO：公司不再提供净现金中性资本配置目标。",
-          "url": "https://flash.jin10.com/detail/20260501053608139800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "苹果(AAPL.O)2026财年Q2 EPS 2.01美元，去年同期1.65美元，市场预期1.94美元。",
-          "url": "https://flash.jin10.com/detail/20260501043506292800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时28分]"
-        },
-        {
-          "title": "苹果(AAPL.O)盘后拉升涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260501053454608800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：第二季度iPhone收入为569.94亿美元。",
-          "url": "https://flash.jin10.com/detail/20260501043328888800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时28分]"
-        },
-        {
-          "title": "苹果(AAPL.O)CFO：公司预计六月当季毛利率将在47.5%至48.5%之间。",
-          "url": "https://flash.jin10.com/detail/20260501053436013800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "苹果(AAPL.O)CFO：预计6月季度收入同比增长14-17%。",
-          "url": "https://flash.jin10.com/detail/20260501053321492800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "苹果(AAPL.O)CEO库克：现在是辞去首席执行官职务的“合适时机”。",
-          "url": "https://flash.jin10.com/detail/20260501053131877800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "分析师分析师电话会：苹果公司预计第三财季营收将同比增长14%-17%，分析师预期增长9.1%。 预计第三财季服务营收增幅将与第二财季（至3月的三个月）类似。 预计第三财季毛利润率为47.5%-48.5%。 本公司不再追求净现金中性立场。 苹果公司美股盘后上涨3.45%。",
-          "url": "https://wallstreetcn.com/livenews/3097728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "苹果营收指引高于市场预期推动盘后股价上涨",
-          "url": "https://flash.jin10.com/detail/20260501064310676800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "比亚迪汽车宣布，比亚迪4月份销售32.1万辆；其中海外销售突破13万辆，创历史新高。",
-          "url": "https://api3.cls.cn/share/article/2361883?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "苹果CEO库克：MacBook Neo的需求极其火爆",
-          "url": "https://flash.jin10.com/detail/20260501063936046800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "财联社4月30日电，文件显示，苹果公司指控印度监管机构越权行事，并寻求阻止反垄断诉讼。",
-          "url": "https://api3.cls.cn/share/article/2361566?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "财联社5月1日电，美银全球研究将苹果公司股票目标价位从325美元上调至330美元。",
-          "url": "https://api3.cls.cn/share/article/2361918?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "苹果第二财季营收1111.8亿美元 同比增长17%",
-          "url": "https://api3.cls.cn/share/article/2361625?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "巴克莱：将苹果(AAPL.O)目标价从248美元上调至253美元。",
-          "url": "https://flash.jin10.com/detail/20260501221533876800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "苹果(AAPL.O)：授权回购至多1000亿美元普通股的额外计划。",
-          "url": "https://flash.jin10.com/detail/20260501043211063800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "苹果(AAPL.O)2026财年Q2 营收1111.8亿美元，去年同期953.59亿美元，市场预期1096.58亿美元。",
-          "url": "https://flash.jin10.com/detail/20260501043031664800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "苹果(AAPL.O)CFO：公司正在“按照正常流程”申请关税退款，并将把任何追回的金额再投资于其美国先进制造项目。",
-          "url": "https://flash.jin10.com/detail/20260501060258251800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "财联社5月1日电，投资银行道明考恩(TD Cowen)将苹果公司目标价从325美元上调至335美元。",
-          "url": "https://api3.cls.cn/share/article/2361782?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "比亚迪：4月汽车销量为321,123辆",
-          "url": "https://wallstreetcn.com/livenews/3097880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "财联社5月1日电，苹果涨幅扩大至5%以上，创下自去年8月以来最大单日涨幅。",
-          "url": "https://api3.cls.cn/share/article/2361934?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "财联社5月1日电，摩根士丹利将苹果公司目标股价从315美元上调至330美元。",
-          "url": "https://api3.cls.cn/share/article/2361873?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "纳指涨超1%，苹果涨超5%，创去年8月来最大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3097930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "苹果公司CEO库克：iPhone 17成为公司历史上最受欢迎的系列产品。",
-          "url": "https://wallstreetcn.com/livenews/3097726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "苹果公司候任CEO Ternus：这是我在苹果公司工作25年来最兴奋的时刻。 对CEO库克深表感激，期待未来的工作。 将延续库克的财务准则。",
-          "url": "https://wallstreetcn.com/livenews/3097727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "苹果(AAPL.O)在提交的文件中指控印度监管机构越权，并寻求暂停反垄断案件。",
-          "url": "https://flash.jin10.com/detail/20260430234929764800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "苹果(AAPL.O)涨超5%，创下自去年八月以来最大涨幅。",
-          "url": "https://flash.jin10.com/detail/20260501220243045800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "人工智能将重塑中国高端旅游",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/05/01/229590c769fc45fab0a7027e86debfcb.html",
-          "source": "参考消息",
-          "ranks": [
-            4,
-            13,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 23时06分]"
-        },
-        {
-          "title": "财联社5月1日电，英国国民西敏寺银行（NatWest Group）首席执行官表示，该公司40%的代码现在由人工智能编写。",
-          "url": "https://api3.cls.cn/share/article/2361798?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "美国白宫人工智能顾问萨克斯：Mythos不是世界末日装置。",
-          "url": "https://flash.jin10.com/detail/20260501014942443800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
-          "url": "https://www.cls.cn/detail/2361143",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 06时28分]"
-        },
-        {
-          "title": "西部数据预计季度营收将超出预期，得益于人工智能存储需求",
-          "url": "https://flash.jin10.com/detail/20260501045130303800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时28分]"
-        },
-        {
-          "title": "财联社5月1日电，Meta计划利用人工智能开发众多新应用。",
-          "url": "https://api3.cls.cn/share/article/2361632?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "美国“战争部”部长赫格塞斯：Anthropic由“一群思想狂热分子”经营。 并没有让人工智能（AI）做出致命性的决策。",
-          "url": "https://wallstreetcn.com/livenews/3097660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时57分]"
-        },
-        {
-          "title": "美国国防部长赫格塞思：人工智能并未做出致命决策；Anthropic公司由一位“意识形态狂人”领导。",
-          "url": "https://flash.jin10.com/detail/20260501014458806800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "五角大楼的MICHAEL：在人工智能方面不能只依赖一个合作伙伴。",
-          "url": "https://wallstreetcn.com/livenews/3097888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "财联社4月30日电，高通公司首席执行官表示，新的人工智能芯片业务将于2027年取得实质性进展。",
-          "url": "https://api3.cls.cn/share/article/2361567?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "法国总理：将开发和部署人工智能工具，以检测系统存在的漏洞和弱点。这是一个安全和主权的问题。",
-          "url": "https://flash.jin10.com/detail/20260501142522147800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "财联社5月1日电，美国总统特朗普表示，人工智能将创造大量就业机会。",
-          "url": "https://api3.cls.cn/share/article/2361612?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "美国国防部副部长迈克尔：不能只依赖单一的人工智能合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20260501194029217800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "五角大楼将扩大英伟达和微软人工智能技术在机密网络中的应用。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3097879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "财联社5月1日电，谷歌表示，在配备谷歌内置应用的汽车中推出Gemini人工智能。",
-          "url": "https://api3.cls.cn/share/article/2361571?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "谷歌公司：开始在配置谷歌的乘用车推广Gemini。",
-          "url": "https://wallstreetcn.com/livenews/3097635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时14分]"
-        },
-        {
-          "title": "OpenAI为用户提供新安全措施，可抛弃密码登录",
-          "url": "https://wallstreetcn.com/livenews/3097661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时57分]"
-        },
-        {
-          "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
-          "url": "https://wallstreetcn.com/livenews/3097659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时57分]"
-        },
-        {
-          "title": "财联社5月1日电，Openai表示，从6月1日起，将需要使用许可型模型来保障高级账户安全。",
-          "url": "https://api3.cls.cn/share/article/2361584?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "OpenAI为用户提供新安全措施 可抛弃密码登录",
-          "url": "https://flash.jin10.com/detail/20260501014313633800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "财联社5月1日电，据报道，五角大楼将扩大与SpaceX、OpenAI、英伟达和微软人工智能技术在机密网络中的应用。",
-          "url": "https://api3.cls.cn/share/article/2361879?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
-          "url": "https://wallstreetcn.com/livenews/3097631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "财联社5月1日电，Zoom成立了一个“特别团队”，以在和ChatGPT和Gemini竞争中脱颖而出。",
-          "url": "https://api3.cls.cn/share/article/2361579?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "谷歌：Gemini软件更新将首先在美国汽车中推出。",
-          "url": "https://flash.jin10.com/detail/20260501000334674800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "谷歌：在配备谷歌内置应用的汽车中推出Gemini人工智能。",
-          "url": "https://flash.jin10.com/detail/20260501000320477800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "美国五角大楼宣布达成网络人工智能相关协议，已与SpaceX、OpenAI、谷歌(GOOG.O)和英伟达(NVDA.O)签署协议。",
-          "url": "https://flash.jin10.com/detail/20260501193320957800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "DeepSeek梦话大赏",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%A2%A6%E8%AF%9D%E5%A4%A7%E8%B5%8F%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "英特尔 高通",
-      "match_count": 11,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "美股三大指数集体收涨 高通涨超15%",
-          "url": "https://www.gelonghui.com/news/5226632",
-          "source": "格隆汇",
-          "ranks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            12,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时28分 ~ 22时02分]"
-        },
-        {
-          "title": "道指、标普500指数收涨超1%！高通大涨超15%，中概指数涨2.01%",
-          "url": "https://www.gelonghui.com/news/5226633",
-          "source": "格隆汇",
-          "ranks": [
-            2,
-            3,
-            4,
-            5,
-            11,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时29分 ~ 22时02分]"
-        },
         {
           "title": "ARGUS Research将高通公司目标股价上调至220美元。",
           "url": "https://www.gelonghui.com/news/5226645",
           "source": "格隆汇",
           "ranks": [
-            2,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时02分 ~ 23时06分]"
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "财联社5月1日电，ARGUS Research将高通公司目标股价从180美元上调至220美元。",
-          "url": "https://api3.cls.cn/share/article/2361894?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "财联社5月1日电，文件显示，美国反垄断监管机构批准英特尔收购Sambanova Systems交易。",
+          "url": "https://api3.cls.cn/share/article/2361954?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            1
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "英特尔股价上涨6%，一度站上100美元，盘中市值超5000亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3097948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "美股异动丨高通大涨超15%，Q1业绩释放两大利好信号",
-          "url": "https://www.gelonghui.com/news/5225967",
-          "source": "格隆汇",
-          "ranks": [
-            12,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 07时29分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "英特尔股价触及100美元 总市值飙升至5000亿美元",
           "url": "https://api3.cls.cn/share/article/2361949?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            2
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "文件显示，美国反垄断监管机构批准英特尔(INTC.O)收购Sambanova Systems交易。",
+          "url": "https://flash.jin10.com/detail/20260501232413245800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "英特尔股价上涨6%，一度站上100美元，盘中市值超5000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时06分"
+          "time_info": "00时32分"
         },
         {
-          "title": "英特尔股价在4月份超过翻倍，创五十五年前登陆纳斯达克以来最佳单月表现。",
-          "url": "https://wallstreetcn.com/livenews/3097706",
-          "source": "华尔街见闻-快讯",
+          "title": "英特尔(INTC.O)一度涨6%站上100美元，股价续创记录新高。",
+          "url": "https://flash.jin10.com/detail/20260501230107527800",
+          "source": "金十数据",
           "ranks": [
-            5
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "PsiQuantum将英特尔CEO陈立武（Lip-Bu Tan）纳入其董事会。",
-          "url": "https://wallstreetcn.com/livenews/3097633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "time_info": "00时31分"
         },
         {
           "title": "英特尔持续拉升，现涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3097939",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时06分"
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美银：将苹果目标价上调至330美元",
+          "url": "https://www.gelonghui.com/news/5226646",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "美股三大指数集体收涨 高通涨超15%",
-          "url": "https://api3.cls.cn/share/article/2361610?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "摩根士丹利将苹果公司目标股价上调至330美元",
+          "url": "https://www.gelonghui.com/news/5226642",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "苹果电话会：营收指引超预期，存储自Q3起拖累利润率，追加千亿回购",
+          "url": "https://wallstreetcn.com/articles/3771437",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "财联社5月1日电，汇丰银行将苹果公司目标股价从250美元上调至260美元。",
+          "url": "https://api3.cls.cn/share/article/2361948?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            14
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "汇丰控股：将苹果(AAPL.O)目标价从250美元上调至260美元。",
+          "url": "https://flash.jin10.com/detail/20260501224628745800",
+          "source": "金十数据",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时02分"
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国国防部与7家人工智能公司达成合作协议",
+          "url": "https://api3.cls.cn/share/article/2361958?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "人工智能将重塑中国高端旅游",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/05/01/229590c769fc45fab0a7027e86debfcb.html",
+          "source": "参考消息",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "美国五角大楼表示，甲骨文(ORCL.N)加入了人工智能相关的工作。",
+          "url": "https://flash.jin10.com/detail/20260501232742044800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
         {
-          "title": "苹果公司第二财季营收1111.8亿美元，分析师预期1096.6亿美元。 第二财季产品营收802.1亿美元，分析师预期81.3亿美元。 第二财季iPhone营收569.9亿美元，创历史新高，分析师预期569.8亿美元。 第二财季iPad营收69.1亿美元，分析师预期66.5亿美元。 第二财季Mac营收84亿美元，分析师预期81.3亿美元。 第二财季可穿戴设备、居家、周边营收79亿美元，分析师预期77.2亿美元。 第二财季服务营收309.8亿美元，分析师预期303.7亿美元。 第二财季美国营收450.9亿美元，分析师预期458.2亿美元。 第二财季大中华区营收205亿美元，分析师预期189.1亿美元。 第二财季每股收益（EPS）为2.01美元，分析师预期1.96美元。 苹果美股盘后涨0.6%，瞬间转而跌超1.2%，随后又迅速转而涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3097708",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。 人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。 AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.48%。",
-          "url": "https://wallstreetcn.com/livenews/3097751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时23分]"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，全球科技股指数ETF、科技行业ETF、网络股指数ETF涨超1%，生物科技指数ETF跌超2%，区域银行ETF跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3097921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 23时06分]"
-        },
-        {
-          "title": "周四（4月30日）纽约尾盘，美国10年期基准国债收益率下跌6.11个基点，刷新日低至4.3686%，4月份累计上涨5.41个基点，整体交投于4.2243%-4.4339%区间，4月17日跳水至期内底部，随后持续回升。 两年期美债收益率下跌8.20个基点，刷新日低至3.8648%，4月份累涨7.59个基点，整体交投于3.6768%-3.9510%区间。",
-          "url": "https://wallstreetcn.com/livenews/3097736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "4月份，欧元兑美元累计上涨1.54%，周四（4月30日）纽约尾盘报1.1731，4月7日以来持续走高，4月17日达到1.1849，随后略微回吐涨幅； 英镑兑美元累涨2.83%，报1.3602，4-7日以来持续上扬，4月14日以来高位窄幅震荡——主要交投于1.35上方，4月30日达到1.3612； 美元兑瑞郎累跌2.18%，报0.7817。 商品货币对中，澳元兑美元累涨4.31%、报0.7197，纽元兑美元累涨2.75%、报0.5905，美元兑加元累跌2.37%、报1.3586。 瑞典克朗兑美元累涨2.45%，挪威克朗兑美元累涨4.54%，丹麦克朗兑美元累涨1.52%。",
-          "url": "https://wallstreetcn.com/livenews/3097731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "周四（4月30日）纽约尾盘，美元兑日元跌2.39%，报156.58日元，北京时间16:00转涨，18:27开始加速上涨，19:45刷新日高至155.57日元，4月份累计上涨1.34%，4月30日波动幅度即整个月的波动幅度——交投区间为160.72-155.57日元，4月1-29日“窄幅震荡”于160-158日元这样的区间。 欧元兑日元跌1.86%，报183.72日元，4月份累涨0.19%，4月1-17日持续走高，经过一段时期的高位盘整之后，4月30日暴跌；英镑兑日元跌1.46%，报213.008日元，4月份累涨1.47%。",
-          "url": "https://wallstreetcn.com/livenews/3097725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "美股开盘，道指涨0.36%，标普500指数涨0.4%，纳指涨0.3%。闪迪(SNDK.O)跌2.7%、西部数据(WDC.O)跌6%，市场认为两家公司业绩指引不够惊艳。埃克森美孚石油(XOM.N)和雪佛龙(CVX.N)分别跌1.1%和1.2%。苹果(AAPL.O)涨2.7%。",
-          "url": "https://flash.jin10.com/detail/20260501213030825800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "美股盘初：闪迪跌约3%，西部数据跌约7%，苹果涨约3%，雅诗兰黛涨约10%",
-          "url": "https://wallstreetcn.com/livenews/3097916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "WTI原油日内跌幅达5.0%，报99.73美元/桶；布伦特原油日内跌幅达3.5%，报106.53美元/桶。 现货白银日内涨幅达4.0%，报76.67美元/盎司；纽约银日内涨幅达4.5%，报77.38美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3097935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "周四（4月30日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8320元，较周三纽约尾盘涨154点，日内整体交投于6.8479-6.8279元区间。 日线图上，4月2日，离岸人民币微跌至6.9042元，随后持续走高，4月14日达到6.8059元，月内绝大部分时间都交投于6.85元上方。",
-          "url": "https://wallstreetcn.com/livenews/3097717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "马斯克2025年特斯拉薪酬总额达1580亿美元",
-          "url": "https://wallstreetcn.com/livenews/3097752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时23分]"
-        },
-        {
-          "title": "小米汽车4月交付量超3万台",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A64%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E8%B6%853%E4%B8%87%E5%8F%B0%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时07分 ~ 17时46分]"
-        },
-        {
-          "title": "财联社5月1日电，美国证交会文件显示，特斯拉CEO马斯克2025年总薪酬为1583.6亿美元，全部为股票奖励。",
-          "url": "https://api3.cls.cn/share/article/2361631?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "特斯拉去年对SpaceX和xAI的销售额超5亿美元",
-          "url": "https://flash.jin10.com/detail/20260501081819568800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "特斯拉去年从SpaceX与xAI斩获5.73亿美元营收",
-          "url": "https://api3.cls.cn/share/article/2361666?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "腾云智算与华为达成深度合作 共筑福建智算新生态",
-          "url": "https://api3.cls.cn/share/article/2361657?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "法国汽车行业组织PFA：法国四月份新车注册量同比下降0.26%，至138,339辆；特斯拉注册量增长了111.94%。",
-          "url": "https://flash.jin10.com/detail/20260501075532845800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)4月在荷兰的注册量增长23%，达到469辆。",
-          "url": "https://flash.jin10.com/detail/20260501165132405800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
-        },
-        {
-          "title": "美国证交会：特斯拉CEO马斯克2025年总薪酬为1583.6亿美元，全部为股票奖励。",
-          "url": "https://flash.jin10.com/detail/20260501052231391800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "2026年4月，小米汽车交付量超过30000台。",
-          "url": "https://wallstreetcn.com/livenews/3097776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
-          "url": "https://www.cls.cn/detail/2361202",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 09时23分]"
-        },
-        {
-          "title": "【焦点复盘】沪指周线4连阳迎4月收官，国产算力链大放异彩，锂电池板块表现分化",
-          "url": "https://www.cls.cn/detail/2361186",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 09时23分]"
-        },
-        {
-          "title": "郑栅洁：推进算力资源规模化、集约化、绿色化、普惠化发展 深化拓展“人工智能+”",
-          "url": "https://api3.cls.cn/share/article/2361726?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "高通CEO表示：新型AI芯片业务将在2027年贡献显著营收。",
-          "url": "https://wallstreetcn.com/livenews/3097630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "郑栅洁：要推进算力资源规模化、集约化、绿色化、普惠化发展",
-          "url": "https://flash.jin10.com/detail/20260501115110098800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "宇树双臂人形机器人价格",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E5%8F%8C%E8%87%82%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "杭州实施中国首部具身智能机器人地方性法规",
-          "url": "https://www.zaochenbao.com/news/china/202605/0170722.html",
-          "source": "早报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
-        },
-        {
-          "title": "财联社5月1日电，北京人形机器人创新中心发布预告，即将发布天工Omni机器人。",
-          "url": "https://api3.cls.cn/share/article/2361732?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "今起施行，杭州为具身智能机器人立法",
-          "url": "https://wallstreetcn.com/livenews/3097800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "[00时31分 ~ 00时32分]"
         }
       ]
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
           "url": "https://wallstreetcn.com/articles/3771450",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时46分 ~ 23时06分]"
-        },
-        {
-          "title": "费城半导体指数跌近1%。英伟达(NVDA.O)涨1.67%，台积电(TSM.N)跌0.82%，博通(AVGO.O)跌0.29%，美光科技(MU.O)跌0.6%。",
-          "url": "https://flash.jin10.com/detail/20260501213326900800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "英伟达重挫",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E6%8C%AB%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "英伟达市值一夜蒸发1.6万亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%911.6%E4%B8%87%E4%BA%BF%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "鸿蒙 OpenHarmony 昇腾",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "鸿蒙智行4月交付32759辆汽车",
-          "url": "https://s.weibo.com/weibo?q=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C4%E6%9C%88%E4%BA%A4%E4%BB%9832759%E8%BE%86%E6%B1%BD%E8%BD%A6&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 19时05分]"
-        },
-        {
-          "title": "鸿蒙智行4月交付32,759台，同比增长18.9%，1-4月累计同比增长36%。",
-          "url": "https://wallstreetcn.com/livenews/3097799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "财联社5月1日电，鸿蒙智行4月交付32,759台，同比增长18.9%，1-4月累计同比增长36%。",
-          "url": "https://api3.cls.cn/share/article/2361719?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "我国科学家揭开制约钙钛矿太阳能电池效率的关键物理“黑箱”",
-          "url": "https://api3.cls.cn/share/article/2361575?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时14分]"
-        },
-        {
-          "title": "我国科学家揭开制约钙钛矿太阳能电池效率的关键物理“黑箱”",
-          "url": "https://wallstreetcn.com/livenews/3097641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时14分]"
-        },
-        {
-          "title": "我国科学家揭开制约钙钛矿太阳能电池效率的关键物理“黑箱”",
-          "url": "https://flash.jin10.com/detail/20260501001711968800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "财联社5月1日电，比特币升破77000美元，日内涨超1%。",
-          "url": "https://api3.cls.cn/share/article/2361723?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "狗狗币涨超4%，4月份已累涨将近15%，比特币月内涨约12%一度逼近8万美元关口",
-          "url": "https://wallstreetcn.com/livenews/3097652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "比特币涨至78000美元 过去24小时涨2.26%",
-          "url": "https://api3.cls.cn/share/article/2361910?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "财联社5月1日电，COMEX黄金期货收涨1.63%，报4636美元/盎司，本月累计下跌1.35%；COMEX白银期货收涨2.97%，报74.23美元/盎司，本月累计下跌1.48%。",
-          "url": "https://api3.cls.cn/share/article/2361626?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "现货黄金周五涨1.5%，4月份累跌1%，白银整体冲高回落",
-          "url": "https://wallstreetcn.com/livenews/3097715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周四（4月30日），美股存储芯片与硬件供应链指数收涨3.96%，报153.43点，4月份累计上涨47.32%，整体持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3097750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时23分]"
-        },
-        {
-          "title": "苹果公司CEO库克：将需要好几个月才会满足Mac Mining和Studio需求。 第三财季存储芯片成本“显然更高”。 第三财季之后，存储芯片对（苹果公司）业务的“影响将增强”。",
-          "url": "https://wallstreetcn.com/livenews/3097730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "液冷",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三花智控(002050.SZ)：液冷技术应用场景覆盖面广，已落地储能、数据中心两大核心领域",
-          "url": "https://www.gelonghui.com/news/5225966",
-          "source": "格隆汇",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 06时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceX：星舰项目累计投入超150亿美元 计划2026年下半年发射“星链 V3”卫星",
-          "url": "https://api3.cls.cn/share/article/2361853?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
+          "time_info": "[00时31分 ~ 00时32分]"
         }
       ]
     }
