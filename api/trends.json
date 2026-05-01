@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T09:23:00.205077+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-05-01T13:07:42.570148+08:00",
+  "total_titles_processed": 767,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "美股异动｜苹果盘后涨超4%，第二财季营收1111.8亿美元同比增长17%",
@@ -13,11 +13,12 @@
           "source": "格隆汇",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时29分 ~ 09时23分]"
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 13时07分]"
         },
         {
           "title": "苹果电脑废纸篓里的废纸谁扔的",
@@ -45,6 +46,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "苹果公司分析师电话会议要点总结",
+          "url": "https://wallstreetcn.com/livenews/3097795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "提醒：苹果公司电话会结束。 苹果公司美股盘后维持3.9%的涨幅。",
@@ -180,6 +192,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时29分]"
+        },
+        {
+          "title": "苹果创始人站台追觅旗下手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%AB%99%E5%8F%B0%E8%BF%BD%E8%A7%85%E6%97%97%E4%B8%8B%E6%89%8B%E6%9C%BA%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 13时07分]"
         },
         {
           "title": "苹果第二财季销售额超出预期，但iPhone遭遇供应瓶颈",
@@ -360,17 +384,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "苹果创始人站台追觅旗下手机",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%AB%99%E5%8F%B0%E8%BF%BD%E8%A7%85%E6%97%97%E4%B8%8B%E6%89%8B%E6%9C%BA%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
         },
         {
           "title": "苹果营收指引高于市场预期推动盘后股价上涨",
@@ -604,6 +617,113 @@
       ]
     },
     {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "马斯克2025年特斯拉薪酬总额达1580亿美元",
+          "url": "https://wallstreetcn.com/livenews/3097752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时23分]"
+        },
+        {
+          "title": "财联社5月1日电，美国证交会文件显示，特斯拉CEO马斯克2025年总薪酬为1583.6亿美元，全部为股票奖励。",
+          "url": "https://api3.cls.cn/share/article/2361631?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时29分]"
+        },
+        {
+          "title": "特斯拉去年对SpaceX和xAI的销售额超5亿美元",
+          "url": "https://flash.jin10.com/detail/20260501081819568800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 09时23分]"
+        },
+        {
+          "title": "特斯拉去年从SpaceX与xAI斩获5.73亿美元营收",
+          "url": "https://api3.cls.cn/share/article/2361666?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 09时23分]"
+        },
+        {
+          "title": "腾云智算与华为达成深度合作 共筑福建智算新生态",
+          "url": "https://api3.cls.cn/share/article/2361657?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 09时23分]"
+        },
+        {
+          "title": "法国汽车行业组织PFA：法国四月份新车注册量同比下降0.26%，至138,339辆；特斯拉注册量增长了111.94%。",
+          "url": "https://flash.jin10.com/detail/20260501075532845800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 09时23分]"
+        },
+        {
+          "title": "美国证交会：特斯拉CEO马斯克2025年总薪酬为1583.6亿美元，全部为股票奖励。",
+          "url": "https://flash.jin10.com/detail/20260501052231391800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "2026年4月，小米汽车交付量超过30000台。",
+          "url": "https://wallstreetcn.com/livenews/3097776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "小米汽车4月交付量超3万台",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A64%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E8%B6%853%E4%B8%87%E5%8F%B0%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 8,
       "titles": [
@@ -702,91 +822,6 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "马斯克2025年特斯拉薪酬总额达1580亿美元",
-          "url": "https://wallstreetcn.com/livenews/3097752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时23分]"
-        },
-        {
-          "title": "财联社5月1日电，美国证交会文件显示，特斯拉CEO马斯克2025年总薪酬为1583.6亿美元，全部为股票奖励。",
-          "url": "https://api3.cls.cn/share/article/2361631?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "特斯拉去年对SpaceX和xAI的销售额超5亿美元",
-          "url": "https://flash.jin10.com/detail/20260501081819568800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "特斯拉去年从SpaceX与xAI斩获5.73亿美元营收",
-          "url": "https://api3.cls.cn/share/article/2361666?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "腾云智算与华为达成深度合作 共筑福建智算新生态",
-          "url": "https://api3.cls.cn/share/article/2361657?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "法国汽车行业组织PFA：法国四月份新车注册量同比下降0.26%，至138,339辆；特斯拉注册量增长了111.94%。",
-          "url": "https://flash.jin10.com/detail/20260501075532845800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "美国证交会：特斯拉CEO马斯克2025年总薪酬为1583.6亿美元，全部为股票奖励。",
-          "url": "https://flash.jin10.com/detail/20260501052231391800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 美股 美元",
       "match_count": 6,
       "titles": [
@@ -873,11 +908,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时28分 ~ 09时23分]"
+          "appearance_count": 5,
+          "time_info": "[06时28分 ~ 13时07分]"
         },
         {
           "title": "道指、标普500指数收涨超1%！高通大涨超15%，中概指数涨2.01%",
@@ -885,11 +921,12 @@
           "source": "格隆汇",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时29分 ~ 09时23分]"
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 13时07分]"
         },
         {
           "title": "美股异动丨高通大涨超15%，Q1业绩释放两大利好信号",
@@ -941,7 +978,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
@@ -969,6 +1006,17 @@
           "time_info": "[00时58分 ~ 09时23分]"
         },
         {
+          "title": "郑栅洁：推进算力资源规模化、集约化、绿色化、普惠化发展 深化拓展“人工智能+”",
+          "url": "https://api3.cls.cn/share/article/2361726?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "高通CEO表示：新型AI芯片业务将在2027年贡献显著营收。",
           "url": "https://wallstreetcn.com/livenews/3097630",
           "source": "华尔街见闻-快讯",
@@ -978,6 +1026,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "郑栅洁：要推进算力资源规模化、集约化、绿色化、普惠化发展",
+          "url": "https://flash.jin10.com/detail/20260501115110098800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         }
       ]
     },
@@ -1082,6 +1141,90 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "宇树双臂人形机器人价格",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E5%8F%8C%E8%87%82%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 09时23分]"
+        },
+        {
+          "title": "财联社5月1日电，北京人形机器人创新中心发布预告，即将发布天工Omni机器人。",
+          "url": "https://api3.cls.cn/share/article/2361732?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达重挫",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E6%8C%AB%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 09时23分]"
+        },
+        {
+          "title": "英伟达市值一夜蒸发1.6万亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%911.6%E4%B8%87%E4%BA%BF%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "财联社5月1日电，比特币升破77000美元，日内涨超1%。",
+          "url": "https://api3.cls.cn/share/article/2361723?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "狗狗币涨超4%，4月份已累涨将近15%，比特币月内涨约12%一度逼近8万美元关口",
+          "url": "https://wallstreetcn.com/livenews/3097652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "液冷",
       "match_count": 1,
       "titles": [
@@ -1100,53 +1243,19 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "keyword_group": "鸿蒙 OpenHarmony 昇腾",
       "match_count": 1,
       "titles": [
         {
-          "title": "宇树双臂人形机器人价格",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E5%8F%8C%E8%87%82%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "财联社5月1日电，鸿蒙智行4月交付32,759台，同比增长18.9%，1-4月累计同比增长36%。",
+          "url": "https://api3.cls.cn/share/article/2361719?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            10
+            18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达重挫",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E6%8C%AB%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "狗狗币涨超4%，4月份已累涨将近15%，比特币月内涨约12%一度逼近8万美元关口",
-          "url": "https://wallstreetcn.com/livenews/3097652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时14分"
+          "time_info": "13时07分"
         }
       ]
     }
