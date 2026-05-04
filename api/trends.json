@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-05-04T14:13:45.256368+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-05-04T17:03:29.162557+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "小米股价盘中大涨10% 汽车交付4月环比表现强劲",
+          "url": "https://www.zaochenbao.com/news/china/202605/0470921.html",
+          "source": "早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨1.24%，恒生科技指数收涨2.16%。剑桥科技涨约16%，天数智芯涨约20%，小米集团涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3098441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
         {
           "title": "恒生科技指数日内涨幅扩大至3%，小米涨超6%，百度涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3098359",
@@ -25,7 +47,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -36,7 +58,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -47,7 +69,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -58,9 +80,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "据Mobility Sweden统计，特斯拉在瑞典4月份的新登记量同比增长111%。",
+          "url": "https://wallstreetcn.com/livenews/3098423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "挪威道路联合会（OFV）：特斯拉在挪威4月新车登记量同比下降61%。",
@@ -69,15 +102,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "港股收盘，恒指收涨1.24%，科指收涨2.16%。光通信、芯片股全天走强，剑桥科技(06166.HK)涨约16%，天数智芯(09903.HK)涨约20%，小米集团(01810.HK)涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260504160856400800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         }
       ]
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -110,11 +154,12 @@
           "url": "https://www.cls.cn/detail/2362279",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时41分 ~ 14时13分]"
+          "appearance_count": 4,
+          "time_info": "[06时41分 ~ 17时03分]"
         },
         {
           "title": "美国总统特朗普在社交媒体平台Truth Social上发布了一张照片，照片中他手持多张卡片，并配文“我手头拥有所有卡牌（I have all the cards）”。",
@@ -126,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "据知情人士消息，AI芯片制造商Cerebras计划于周一启动IPO路演，IPO定价区间为每股115至125美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3098425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         }
       ]
     },
@@ -167,6 +223,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI狂潮继续！全球存储芯片大涨，SK海力士市值首破1000万亿韩元，布油涨2%，黄金失守4580美元",
+          "url": "https://wallstreetcn.com/articles/3771519",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3098437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         }
       ]
     },
@@ -214,11 +298,12 @@
           "url": "https://wallstreetcn.com/articles/3771526",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 17时03分]"
         },
         {
           "title": "港股苹果概念股震荡走高，丘钛科技(01478.HK)涨超8%，高伟电子(01415.HK)涨超6%，舜宇光学科技(02382.HK)涨超4%，瑞声科技(02018.HK)、蓝思科技(06613.HK)涨超3%，比亚迪电子(00285.HK)涨超2%。",
@@ -339,11 +424,12 @@
           "url": "https://www.zaochenbao.com/news/taiwan/202605/0470895.html",
           "source": "早报",
           "ranks": [
-            6
+            6,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 17时03分]"
         }
       ]
     },
