@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T21:07:52.391922+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-05-04T23:31:05.143703+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "财联社5月4日电，西班牙4月新车销售同比增长5.6%，4月特斯拉新车注册量在同比下降47.3%至301辆。",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时03分 ~ 21时07分]"
+        },
+        {
+          "title": "特斯拉达到马斯克设定的“安全无人驾驶”标准。",
+          "url": "https://flash.jin10.com/detail/20260504223128884800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
         },
         {
           "title": "港股收盘：恒生指数收涨1.24%，恒生科技指数收涨2.16%。剑桥科技涨约16%，天数智芯涨约20%，小米集团涨超6%。",
@@ -120,6 +131,17 @@
           "time_info": "14时13分"
         },
         {
+          "title": "特斯拉在欧洲的复苏势头持续，在挪威和西班牙销量下滑",
+          "url": "https://wallstreetcn.com/livenews/3098502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "据Mobility Sweden统计，特斯拉在瑞典4月份的新登记量同比增长111%。",
           "url": "https://wallstreetcn.com/livenews/3098423",
           "source": "华尔街见闻-快讯",
@@ -155,6 +177,85 @@
       ]
     },
     {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美国财长贝森特：特朗普应该因英特尔投资获利而受到表扬。 人们应该担心人工智能可能对银行进行黑客攻击。",
+          "url": "https://wallstreetcn.com/livenews/3098298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            17,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 07时44分]"
+        },
+        {
+          "title": "财联社5月3日电，美国财长贝森特表示，应当警惕人工智能可能对银行发起黑客攻击的风险。",
+          "url": "https://api3.cls.cn/share/article/2362362?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9,
+            13,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 03时34分]"
+        },
+        {
+          "title": "Anthropic、黑石、Hellman、高盛联合推出人工智能服务公司。",
+          "url": "https://flash.jin10.com/detail/20260504210217022800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "Alphabet与美国官员周四会谈中讨论了人工智能“产能”。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3098482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "财联社5月4日电，SAP据称拟收购Prior Labs，以在欧洲建立一家全球领先的尖端人工智能实验室。",
+          "url": "https://api3.cls.cn/share/article/2362593?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "英特尔：Pushkar Ranade被任命为首席技术官。 Alex Katouzian将领导客户计算与实体人工智能部门。 两人将向首席执行官Lip-Bu Tan汇报工作。",
+          "url": "https://wallstreetcn.com/livenews/3098501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 5,
       "titles": [
@@ -178,11 +279,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时41分 ~ 21时07分]"
+          "appearance_count": 8,
+          "time_info": "[06时41分 ~ 23时31分]"
         },
         {
           "title": "害怕被落下就盲目跟风、需求不大也要上？警惕算力招商内卷！",
@@ -221,74 +323,6 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美国财长贝森特：特朗普应该因英特尔投资获利而受到表扬。 人们应该担心人工智能可能对银行进行黑客攻击。",
-          "url": "https://wallstreetcn.com/livenews/3098298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14,
-            17,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 07时44分]"
-        },
-        {
-          "title": "财联社5月3日电，美国财长贝森特表示，应当警惕人工智能可能对银行发起黑客攻击的风险。",
-          "url": "https://api3.cls.cn/share/article/2362362?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9,
-            13,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 03时34分]"
-        },
-        {
-          "title": "Anthropic、黑石、Hellman、高盛联合推出人工智能服务公司。",
-          "url": "https://flash.jin10.com/detail/20260504210217022800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "Alphabet与美国官员周四会谈中讨论了人工智能“产能”。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3098482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "财联社5月4日电，SAP据称拟收购Prior Labs，以在欧洲建立一家全球领先的尖端人工智能实验室。",
-          "url": "https://api3.cls.cn/share/article/2362593?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 5,
       "titles": [
@@ -310,7 +344,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -332,11 +366,12 @@
           "url": "https://www.cls.cn/detail/2362364",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 23时31分]"
         },
         {
           "title": "港股商业航天股延续涨势，金风科技(02208.HK)、亚太卫星(01045.HK)涨超5%，航天控股(00031.HK)涨超3%，钧达股份(02865.HK)涨超2%。",
@@ -373,7 +408,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -404,6 +439,95 @@
       ]
     },
     {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "财联社5月4日电，OpenAI据悉已为一家新合资企业筹集超过40亿美元，旨在促进其他公司使用OpenAI的人工智能软件。",
+          "url": "https://api3.cls.cn/share/article/2362612?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        },
+        {
+          "title": "OpenAI与私募巨头敲定100亿美元合资协议",
+          "url": "https://wallstreetcn.com/livenews/3098487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "OpenAI与私募股权公司敲定合资计划，推动部署人工智能",
+          "url": "https://flash.jin10.com/detail/20260504205012357800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周一悉尼盘初，美元兑日元跌超0.14%，一度走弱至156.70日元。 欧元兑美元涨超0.23%，一度涨至1.1763。 英镑兑美元涨超0.13%，报1.3605。 美国总统特朗普声称，与伊朗进行了非常积极的讨论。",
+          "url": "https://wallstreetcn.com/livenews/3098312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "美股开盘涨跌不一 加密货币概念股、存储概念股走强",
+          "url": "https://www.gelonghui.com/news/5226961",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        },
+        {
+          "title": "美股三大股指开盘涨跌不一，道指跌0.3%、标普500指数跌0.1%、纳指涨0.01%。存储芯片概念股走强，闪迪涨超3%、美光科技涨4%；eBay上涨5.6%，GameStop下跌6.5%，游戏驿站（GameStop）提议以560亿美元收购eBay。",
+          "url": "https://wallstreetcn.com/livenews/3098500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 3,
       "titles": [
@@ -413,22 +537,24 @@
           "source": "早报",
           "ranks": [
             2,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 21时07分]"
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 23时31分]"
         },
         {
           "title": "宇树机器人在美买票坐飞机",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E7%BE%8E%E4%B9%B0%E7%A5%A8%E5%9D%90%E9%A3%9E%E6%9C%BA%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 23时31分]"
         },
         {
           "title": "报道：中国机器人初创公司灵心巧手寻求60亿美元估值",
@@ -440,45 +566,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "财联社5月4日电，OpenAI据悉已为一家新合资企业筹集超过40亿美元，旨在促进其他公司使用OpenAI的人工智能软件。",
-          "url": "https://api3.cls.cn/share/article/2362612?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "OpenAI与私募巨头敲定100亿美元合资协议",
-          "url": "https://wallstreetcn.com/livenews/3098487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "OpenAI与私募股权公司敲定合资计划，推动部署人工智能",
-          "url": "https://flash.jin10.com/detail/20260504205012357800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
         }
       ]
     },
@@ -496,8 +583,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时13分 ~ 21时07分]"
+          "appearance_count": 6,
+          "time_info": "[14时13分 ~ 23时31分]"
         },
         {
           "title": "苹果(AAPL.O)推出全新运动表带和表盘，已开放订购，售价为49美元。",
@@ -506,7 +593,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -552,6 +639,36 @@
       ]
     },
     {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "台积电重启龙潭三期扩建 此前因居民抗争放弃",
+          "url": "https://www.zaochenbao.com/news/taiwan/202605/0470895.html",
+          "source": "早报",
+          "ranks": [
+            6,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时13分 ~ 19时22分]"
+        },
+        {
+          "title": "美股异动｜黑莓盘初大涨13% QNX成增长引擎 与英伟达扩大合作",
+          "url": "https://www.gelonghui.com/news/5226964",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "英特尔 高通",
       "match_count": 2,
       "titles": [
@@ -580,23 +697,6 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一悉尼盘初，美元兑日元跌超0.14%，一度走弱至156.70日元。 欧元兑美元涨超0.23%，一度涨至1.1763。 英镑兑美元涨超0.13%，报1.3605。 美国总统特朗普声称，与伊朗进行了非常积极的讨论。",
-          "url": "https://wallstreetcn.com/livenews/3098312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中芯国际",
       "match_count": 1,
       "titles": [
@@ -610,25 +710,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "台积电重启龙潭三期扩建 此前因居民抗争放弃",
-          "url": "https://www.zaochenbao.com/news/taiwan/202605/0470895.html",
-          "source": "早报",
-          "ranks": [
-            6,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时13分 ~ 19时22分]"
         }
       ]
     },
