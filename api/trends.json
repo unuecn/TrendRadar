@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T07:04:36.387552+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-05-05T09:11:43.275285+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "格隆汇",
           "ranks": [
             2,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 07时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 09时11分]"
         },
         {
           "title": "周一（5月4日），美股存储芯片与硬件供应链指数涨2.81%，报163.29点，继续创收盘历史新高。 成分股美光科技收涨6.31%，闪迪涨5.80%，西部数据涨2.51%，希捷科技涨1.60%，拉姆研究、应用材料至多涨0.72%，Rambus跌0.38%，泰瑞达TER跌2.31%。",
@@ -39,7 +40,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -61,7 +62,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -133,6 +134,45 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据华尔街日报：OpenAI首席执行官Sam Altman去年年底曾讨论将公司机器人及消费硬件部门分拆出去。将OpenAI机器人及消费硬件部门分拆出去的计划被否决。",
+          "url": "https://flash.jin10.com/detail/20260505090141713800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "中国机器人初创企业灵心巧手新一轮融资寻求翻倍估值",
+          "url": "https://www.zaochenbao.com/news/china/202605/0470928.html",
+          "source": "早报",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时04分]"
+        },
+        {
+          "title": "宇树机器人在美买票坐飞机",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E7%BE%8E%E4%B9%B0%E7%A5%A8%E5%9D%90%E9%A3%9E%E6%9C%BA%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 03时04分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 3,
       "titles": [
@@ -183,8 +223,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 07时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 09时11分]"
         },
         {
           "title": "报道：苹果计划让用户在“钱包”应用中自制数字通行证",
@@ -211,6 +251,45 @@
       ]
     },
     {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "亚马逊(AMZN.O)首席执行官：我们与英伟达(NVDA.O)有着深厚的合作关系。",
+          "url": "https://flash.jin10.com/detail/20260505062352724800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "美股异动｜黑莓盘初大涨13% QNX成增长引擎 与英伟达扩大合作",
+          "url": "https://www.gelonghui.com/news/5226964",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 06时01分]"
+        },
+        {
+          "title": "据日经新闻：日本JSR公司计划在中国台湾建立其首个半导体材料生产工厂，并为台积电供应原材料。",
+          "url": "https://flash.jin10.com/detail/20260505074940665800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 2,
       "titles": [
@@ -233,37 +312,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国机器人初创企业灵心巧手新一轮融资寻求翻倍估值",
-          "url": "https://www.zaochenbao.com/news/china/202605/0470928.html",
-          "source": "早报",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 07时04分]"
-        },
-        {
-          "title": "宇树机器人在美买票坐飞机",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E7%BE%8E%E4%B9%B0%E7%A5%A8%E5%9D%90%E9%A3%9E%E6%9C%BA%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时04分]"
+          "time_info": "[07时04分 ~ 09时11分]"
         }
       ]
     },
@@ -279,8 +330,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 07时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 09时11分]"
         },
         {
           "title": "上海商业航天“山雨欲来”",
@@ -291,36 +342,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 07时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "亚马逊(AMZN.O)首席执行官：我们与英伟达(NVDA.O)有着深厚的合作关系。",
-          "url": "https://flash.jin10.com/detail/20260505062352724800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "美股异动｜黑莓盘初大涨13% QNX成增长引擎 与英伟达扩大合作",
-          "url": "https://www.gelonghui.com/news/5226964",
-          "source": "格隆汇",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 09时11分]"
         }
       ]
     },
@@ -382,8 +405,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 07时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 09时11分]"
         }
       ]
     },
