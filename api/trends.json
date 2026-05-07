@@ -1,33 +1,107 @@
 {
-  "generated_at": "2026-05-08T02:02:42.528963+08:00",
-  "total_titles_processed": 218,
+  "generated_at": "2026-05-08T03:43:24.981473+08:00",
+  "total_titles_processed": 274,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "A股总市值突破120万亿大关，创业板刷新逾10年新高，算力硬件再爆发，恒科指大涨3%，离岸人民币升破6.8",
+          "url": "https://wallstreetcn.com/articles/3771709",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
+        },
+        {
+          "title": "格隆汇公告精选︱悦康药业：拟投资10亿元建设核酸药物基地项目；金螳螂：目前未从事商业航天核心产业，亦未开展数据中心算力运营业务",
+          "url": "https://www.gelonghui.com/news/5229159",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨超1%续创近11年新高，全市场连续两日超百股涨停，算力硬件卷土重来",
+          "url": "https://www.cls.cn/detail/2364991",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
+        },
+        {
+          "title": "马斯克要建“世界最大AI芯片工厂”",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/05/07/6c81200a92914133b38c0ccbb57a26ff.html",
+          "source": "参考消息",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
+        },
+        {
+          "title": "OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3100153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "财联社5月8日电，据报道，OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。",
+          "url": "https://api3.cls.cn/share/article/2365451?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
           "url": "https://api3.cls.cn/share/article/2365441?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
         },
         {
           "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
           "url": "https://wallstreetcn.com/livenews/3100136",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
         },
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -37,8 +111,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
         },
         {
           "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元，音频输出每百万token 64美元；GPT-Realtime-Translate的定价为每分钟0.034美元；GPT-Realtime-Whisper的定价为每分钟0.017美元。",
@@ -61,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "OpenAI开始向用户推出“可信联系人”功能",
+          "url": "https://api3.cls.cn/share/article/2365447?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         }
       ]
     },
@@ -76,8 +161,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
+        },
+        {
+          "title": "日本软银集团正与英伟达商谈开发“日本制造”的人工智能服务器。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3100130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
         },
         {
           "title": "财联社5月8日电，据报道，软银正与英伟达商谈开发“日本制造”的人工智能服务器。",
@@ -85,17 +182,6 @@
           "source": "财联社电报",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "日本软银集团正与英伟达商谈开发“日本制造”的人工智能服务器。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3100130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -126,56 +212,6 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "A股总市值突破120万亿大关，创业板刷新逾10年新高，算力硬件再爆发，恒科指大涨3%，离岸人民币升破6.8",
-          "url": "https://wallstreetcn.com/articles/3771709",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "格隆汇公告精选︱悦康药业：拟投资10亿元建设核酸药物基地项目；金螳螂：目前未从事商业航天核心产业，亦未开展数据中心算力运营业务",
-          "url": "https://www.gelonghui.com/news/5229159",
-          "source": "格隆汇",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "【每日收评】创业板指涨超1%续创近11年新高，全市场连续两日超百股涨停，算力硬件卷土重来",
-          "url": "https://www.cls.cn/detail/2364991",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "马斯克要建“世界最大AI芯片工厂”",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/05/07/6c81200a92914133b38c0ccbb57a26ff.html",
-          "source": "参考消息",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
       "match_count": 3,
       "titles": [
@@ -187,8 +223,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
         },
         {
           "title": "日媒：软银拟携手英伟达、富士康，打造日本国产AI服务器",
@@ -226,19 +262,37 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
         },
         {
           "title": "布伦特原油期货转涨，此前一度下跌5美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3100139",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "财联社5月8日电，苹果配备摄像头的AI版AirPods进入高级测试阶段。",
+          "url": "https://api3.cls.cn/share/article/2365452?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "03时43分"
         }
       ]
     },
