@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T06:33:18.095657+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-05-12T07:58:23.122578+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
@@ -101,18 +101,19 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美校园枪击嫌犯曾与ChatGPT讨论犯罪 引发AI刑责争议",
           "url": "https://www.zaochenbao.com/news/politics/202605/1171498.html",
           "source": "早报",
           "ranks": [
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 06时33分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 07时58分]"
         },
         {
           "title": "Bain & Co.投资OpenAI Deployment Company。",
@@ -137,6 +138,97 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时33分]"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：说到那些对我而言已经跨过某个临界点的东西，新版ChatGPT模型、个性风格以及个性化的组合，现在感觉已经像是一种全新的东西了。",
+          "url": "https://flash.jin10.com/detail/20260512065650611800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "沃尔核材(09981.HK)遭T. Rowe Price Associates, Inc. and its Affiliates减持67.96万股",
+          "url": "https://www.gelonghui.com/news/5231417",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 07时58分]"
+        },
+        {
+          "title": "中信建投：AI产业建议从需求维度出发，关注涨价、缺货的算力方向、提效的infra与云产业、部分景气度高的应用方向",
+          "url": "https://www.gelonghui.com/news/5231520",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "【点金互动易】半导体设备+PCB，钻孔设备在IC载板领域取得首台订单，全面推进算力PCB领域的客户扩展，这家公司产品可用于半导体晶圆缺陷检测",
+          "url": "https://api3.cls.cn/share/article/2368374?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "托马斯·弗里德曼：中美应携手应对人工智能安全挑战",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/05/11/9c13b5ef413a476a9eac98f2d23954ac.html",
+          "source": "参考消息",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 07时58分]"
+        },
+        {
+          "title": "据华盛顿邮报：特朗普最早可能在周一签署一项关于人工智能安全的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260512013750764800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "杨荣文：人工智能领域须有更多中心 避免权力与财富过度集中",
+          "url": "https://www.zaochenbao.com/news/china/202605/1271514.html",
+          "source": "早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
@@ -192,7 +284,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -203,7 +295,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         }
@@ -231,34 +323,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "托马斯·弗里德曼：中美应携手应对人工智能安全挑战",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/05/11/9c13b5ef413a476a9eac98f2d23954ac.html",
-          "source": "参考消息",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 06时33分]"
-        },
-        {
-          "title": "据华盛顿邮报：特朗普最早可能在周一签署一项关于人工智能安全的行政命令。",
-          "url": "https://flash.jin10.com/detail/20260512013750764800",
-          "source": "金十数据",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -296,20 +360,53 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
       "match_count": 1,
       "titles": [
         {
-          "title": "沃尔核材(09981.HK)遭T. Rowe Price Associates, Inc. and its Affiliates减持67.96万股",
-          "url": "https://www.gelonghui.com/news/5231417",
+          "title": "中信建投：科技与稀缺共振 战略金属及新材料迎强成长",
+          "url": "https://www.gelonghui.com/news/5231519",
           "source": "格隆汇",
           "ranks": [
-            1,
             2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 06时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "期价突破20万元/吨，碳酸锂“高涨”势头持续",
+          "url": "https://wallstreetcn.com/livenews/3101895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普500指数、纳指续创新高！高通涨超8%，西部数据涨逾7%，中概指数涨1.03%",
+          "url": "https://www.gelonghui.com/news/5231511",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     }
