@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T09:22:52.793481+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-05-11T13:32:20.231949+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "除了算力，还能买什么？十大券商策略来了",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 09时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 13时32分]"
         },
         {
           "title": "国常会：加强水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等规划建设",
@@ -44,13 +44,24 @@
           "time_info": "[00时55分 ~ 09时22分]"
         },
         {
+          "title": "【风口研报·公司】公司新材料产品具备低介电、散热性能强等特性，下游具备面向GPU基板和高速光模块两大核心场景，今年有望导入AI服务器，应用奇点将至",
+          "url": "https://api3.cls.cn/share/article/2367598?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "【盘中宝】行业龙头纷纷涨价，随着AI应用深度渗透，Token消耗量持续爆发式增长，算力供给瓶颈或将日益突出，这家企业积极推动相关业务布局，客户包括字节",
           "url": "https://api3.cls.cn/share/article/2367466?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -86,7 +97,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
@@ -189,7 +200,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -214,7 +225,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -225,7 +236,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
@@ -255,7 +266,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -266,7 +277,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -277,7 +288,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -296,7 +307,7 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "苹果手机AI功能虚假宣传案达成和解",
@@ -316,7 +327,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -334,15 +345,84 @@
           "time_info": "[00时55分 ~ 03时03分]"
         },
         {
+          "title": "小摩：维持比亚迪股份增持评级 目标价120港元",
+          "url": "https://api3.cls.cn/share/article/2367682?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "苹果或将打破对台积电依赖",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%88%96%E5%B0%86%E6%89%93%E7%A0%B4%E5%AF%B9%E5%8F%B0%E7%A7%AF%E7%94%B5%E4%BE%9D%E8%B5%96%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美伊局势再度紧张，油价跳涨、黄金下跌，AI浪潮下韩股涨超4%，SK海力士涨10%、三星再创新高",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "港股午评：恒指跌0.29%，半导体存储股飙涨！黄金股大跌",
+          "url": "https://www.gelonghui.com/news/5230604",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "蚌埠市委书记在商业航天大会现场招商：我就是首席服务员，有需必应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33152588",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 13时32分]"
+        },
+        {
+          "title": "航天智装(300455.SZ)：目前公司的存储器产品已经应用在部分低轨互联网卫星",
+          "url": "https://www.gelonghui.com/news/5230603",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
@@ -357,7 +437,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -368,7 +448,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
@@ -395,6 +475,57 @@
       ]
     },
     {
+      "keyword_group": "创新药 新药研发 临床三期",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股创新药概念股午后拉升，南新制药20cm涨停，凯普生物涨超10%，沃森生物、上海谊众、君实生物、万泰生物、华海药业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3101368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日久光电(003015.SZ)：公司调光导电膜在技术规格、量产能力上具备AI眼镜场景的供货和配套能力",
+          "url": "https://www.gelonghui.com/news/5230600",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "雷达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪海鸥也能上激光雷达了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B5%B7%E9%B8%A5%E4%B9%9F%E8%83%BD%E4%B8%8A%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "量子科技 量子计算 量子通信",
       "match_count": 1,
       "titles": [
@@ -413,20 +544,19 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 1,
       "titles": [
         {
-          "title": "蚌埠市委书记在商业航天大会现场招商：我就是首席服务员，有需必应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33152588",
-          "source": "澎湃新闻",
+          "title": "太空光伏新突破！深市规模最大的光伏ETF天弘(159857)标的指数劲升3.34%，4月8日以来累计涨超15%",
+          "url": "https://www.gelonghui.com/news/5230614",
+          "source": "格隆汇",
           "ranks": [
-            13,
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 09时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
@@ -458,7 +588,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
@@ -475,7 +605,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
