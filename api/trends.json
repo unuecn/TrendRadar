@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T05:51:22.207568+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-05-13T07:01:41.983526+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
@@ -20,6 +20,18 @@
           "time_info": "[00时37分 ~ 04时29分]"
         },
         {
+          "title": "美股异动｜半导体股回调，高通大跌超8%，三倍做空半导体ETF-Direxion涨超9%",
+          "url": "https://www.gelonghui.com/news/5232292",
+          "source": "格隆汇",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 07时01分]"
+        },
+        {
           "title": "美股三大指数收盘涨跌不一 芯片与半导体设备板块普跌",
           "url": "https://api3.cls.cn/share/article/2369578?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -29,6 +41,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美股三大指数收盘涨跌不一 光通信、芯片、半导体设备板块回调",
+          "url": "https://www.gelonghui.com/news/5232423",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "周二（5月12日），美股降息赢家指数跌0.71%，报87.48点，在美国CPI通胀数据发布后低开，随后逐步收复失地。 “特朗普关税输家”指数跌1.05%，报98.75点。 “特朗普金融指数”涨0.38%，报159.36点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.77%，报13.38点。",
+          "url": "https://wallstreetcn.com/livenews/3102552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "周二（5月12日）纽约尾盘，欧元兑美元跌0.32%，报1.1746，英镑兑美元跌0.49%，报1.3543，美元兑瑞郎涨0.30%，报0.7803。 商品货币对中，澳元兑美元跌0.14%，纽元兑美元跌0.18%，美元兑加元涨0.15%。",
@@ -42,15 +76,15 @@
           "time_info": "04时29分"
         },
         {
-          "title": "美股异动｜半导体股回调，高通大跌超8%，三倍做空半导体ETF-Direxion涨超9%",
-          "url": "https://www.gelonghui.com/news/5232292",
-          "source": "格隆汇",
+          "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
+          "url": "https://www.cls.cn/detail/2369590",
+          "source": "财联社热门",
           "ranks": [
-            13
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 05时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 芯片股显著回调",
@@ -81,7 +115,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         },
@@ -103,7 +137,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         },
@@ -114,91 +148,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "黄仁勋据报未随特朗普访华 分析：英伟达晶片难有大订单",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1271589.html",
-          "source": "早报",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 05时51分]"
-        },
-        {
-          "title": "黄仁勋2026财年总薪酬下降27% 英伟达涨势放缓致股权奖励缩水",
-          "url": "https://flash.jin10.com/detail/20260513052331538800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "英伟达IC基板核心供应商再创新高 豪言未来5年营业利润翻5倍",
-          "url": "https://www.cls.cn/detail/2369353",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 05时51分]"
-        },
-        {
-          "title": "财联社5月13日电，英伟达将于6月24日举行线上年度会议。",
-          "url": "https://api3.cls.cn/share/article/2369584?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "财联社5月13日电，美国证交会文件显示，英伟达总裁兼首席执行官黄仁勋2026财年的总薪酬为3,630万美元。",
-          "url": "https://api3.cls.cn/share/article/2369583?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "英伟达(NVDA.O)将于6月24日举行线上年度会议。",
-          "url": "https://flash.jin10.com/detail/20260513045337043800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋2026财年总薪酬3630万美元，之前一年为4990万美元。",
-          "url": "https://wallstreetcn.com/livenews/3102511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "05时51分"
         }
@@ -206,7 +156,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "财联社5月13日电，据报道，微软在OpenAI上130亿美元的投资，已收回超过两倍的营收回报。",
@@ -267,6 +217,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "财联社5月13日电，据报道，Anthropic正在洽谈收购开发工具初创公司Stainless，收购金额至少为3亿美元，OpenAI和谷歌均使用该公司的产品。",
+          "url": "https://api3.cls.cn/share/article/2369598?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "据The Information：OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。",
           "url": "https://flash.jin10.com/detail/20260513021041332800",
           "source": "金十数据",
@@ -276,12 +237,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "Anthropic洽谈至少按3亿美元收购开发者工具初创公司Stainless。 后者向Anthropic、OpenAI、谷歌等模型开发商销售软件。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3102535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "据The Information：Anthropic正在洽谈收购开发工具初创公司Stainless，OpenAI和谷歌均使用该公司的产品。",
+          "url": "https://flash.jin10.com/detail/20260513060313265800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
@@ -291,8 +274,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 07时01分]"
         },
         {
           "title": "托马斯·弗里德曼：中美应携手应对人工智能安全挑战",
@@ -302,8 +285,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 07时01分]"
         },
         {
           "title": "汤森路透（Thomson Reuters）一度跌超过5%，该公司正将Anthropic的Claude整合至其人工智能法律工具CoCounsel Legal中。",
@@ -327,12 +310,193 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "财联社5月13日电，据报道，YouTube借助人工智能帮助，正向各类广告主承诺全方位服务。",
+          "url": "https://api3.cls.cn/share/article/2369597?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "据华尔街日报：YouTube借助人工智能帮助，正向各类广告主承诺全方位服务。",
+          "url": "https://flash.jin10.com/detail/20260513060227809800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，沃尔玛(WMT.N)计划裁员或调岗约1,000名企业员工。沃尔玛高管已审查公司内部架构，并决定精简部分团队。沃尔玛正寻求进一步整合其全球技术团队与人工智能产品团队。",
+          "url": "https://flash.jin10.com/detail/20260513060126996800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "黄仁勋据报未随特朗普访华 分析：英伟达晶片难有大订单",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1271589.html",
+          "source": "早报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 07时01分]"
+        },
+        {
+          "title": "英伟达IC基板核心供应商再创新高 豪言未来5年营业利润翻5倍",
+          "url": "https://www.cls.cn/detail/2369353",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 07时01分]"
+        },
+        {
+          "title": "黄仁勋2026财年总薪酬下降27% 英伟达涨势放缓致股权奖励缩水",
+          "url": "https://flash.jin10.com/detail/20260513052331538800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 07时01分]"
+        },
+        {
+          "title": "财联社5月13日电，英伟达将于6月24日举行线上年度会议。",
+          "url": "https://api3.cls.cn/share/article/2369584?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
+          "title": "财联社5月13日电，美国证交会文件显示，英伟达总裁兼首席执行官黄仁勋2026财年的总薪酬为3,630万美元。",
+          "url": "https://api3.cls.cn/share/article/2369583?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
+          "title": "英伟达(NVDA.O)将于6月24日举行线上年度会议。",
+          "url": "https://flash.jin10.com/detail/20260513045337043800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋2026财年总薪酬3630万美元，之前一年为4990万美元。",
+          "url": "https://wallstreetcn.com/livenews/3102511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
+          "url": "https://wallstreetcn.com/articles/3772081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 07时01分]"
+        },
+        {
+          "title": "算力热潮暂歇：美股芯片与半导体设备股同步回落",
+          "url": "https://api3.cls.cn/share/article/2369511?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 00时38分]"
+        },
+        {
+          "title": "报道：AI芯片制造商Cerebras的IPO发行价将高于160美元",
+          "url": "https://wallstreetcn.com/livenews/3102540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "财联社5月13日电，据报道，AI芯片制造商Cerebras将美国IPO股票发行价定在指引区间150-160美元的上方。",
+          "url": "https://api3.cls.cn/share/article/2369599?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "算力热潮暂歇：美股芯片与半导体设备股同步回落",
+          "url": "https://wallstreetcn.com/livenews/3102400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
         }
       ]
     },
     {
       "keyword_group": "英特尔 高通",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "标普500指数初步收跌0.1%，科技板块跌1%，可选消费板块跌0.9%，能源板块涨0.9%，日用品板块涨1.6%，保健板块涨2%。 纳斯达克100指数初步收跌0.9%，成分股中，高通初步收跌11.3%，英特尔跌6.8%，Strategy、闪迪、西部数据、恩智浦至少跌超4%，路透跌2.5%，ISRG涨2.6%，AppLovin涨2.8%，德康医疗涨3.1%，Insmed涨12.1%。 联合健康初步收涨3.1%，沃尔玛涨2.3%，安进涨2%，领跑道指成分股，微软、亚马逊、卡特彼勒、IBM则跌超1%，Salesforce跌3.6%。 费城半导体指数跌3%，纳斯达克生物科技指数涨1.1%。",
@@ -378,46 +542,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 00时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
-      "titles": [
+        },
         {
-          "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
-          "url": "https://wallstreetcn.com/articles/3772081",
+          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
+          "url": "https://wallstreetcn.com/articles/3772105",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            10
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 05时51分]"
-        },
-        {
-          "title": "算力热潮暂歇：美股芯片与半导体设备股同步回落",
-          "url": "https://api3.cls.cn/share/article/2369511?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 00时38分]"
-        },
-        {
-          "title": "算力热潮暂歇：美股芯片与半导体设备股同步回落",
-          "url": "https://wallstreetcn.com/livenews/3102400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "07时01分"
         }
       ]
     },
@@ -466,6 +601,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "韩军携手现代汽车推进“机器人前线化” 应对兵力锐减布局无人作战时代",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1271583.html",
+          "source": "早报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 07时01分]"
+        },
+        {
           "title": "Meta：将为竞争对手的人工智能聊天机器人提供一个月的WhatsApp免费访问权限。",
           "url": "https://flash.jin10.com/detail/20260513023414045800",
           "source": "金十数据",
@@ -475,17 +621,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        },
-        {
-          "title": "韩军携手现代汽车推进“机器人前线化” 应对兵力锐减布局无人作战时代",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1271583.html",
-          "source": "早报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 05时51分]"
         }
       ]
     },
@@ -498,11 +633,12 @@
           "url": "https://www.cls.cn/detail/2369191",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 07时01分]"
         }
       ]
     },
