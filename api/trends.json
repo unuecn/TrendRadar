@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T06:56:36.723793+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-05-15T07:58:30.151798+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "科技巨头力撑标普、纳指新高，英伟达新高，中概股指跑赢大盘，美长债三连跌",
@@ -45,15 +45,28 @@
           "time_info": "[00时28分 ~ 06时56分]"
         },
         {
+          "title": "美股收盘：纳指、标普500指数再创新高 英伟达市值逼近6万亿美元",
+          "url": "https://www.cls.cn/detail/2371819",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时58分]"
+        },
+        {
           "title": "纳指、标普500指数续创新高！英伟达七连涨续创新高，博通涨超5%，中概指数跌约3.4%",
           "url": "https://www.gelonghui.com/news/5234009",
           "source": "格隆汇",
           "ranks": [
-            3
+            3,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时58分]"
         },
         {
           "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
@@ -67,17 +80,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时17分 ~ 05时44分]"
-        },
-        {
-          "title": "美股收盘：纳指、标普500指数再创新高 英伟达市值逼近6万亿美元",
-          "url": "https://www.cls.cn/detail/2371819",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
         },
         {
           "title": "美股收盘：纳指、标普500指数续创新高、道指三个月以来首次收于50000点上方 英伟达总市值达5.71万亿美元",
@@ -124,13 +126,24 @@
           "time_info": "05时44分"
         },
         {
+          "title": "买英伟达、卖微软：特朗普最新财务披露曝光，单季交易额最高达7.5亿美元",
+          "url": "https://flash.jin10.com/detail/20260515065305583800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "AI概念股普遍收涨，Nebius涨6.7%，博通涨超5.5%，台积电、英伟达、C3.ai涨超4%",
           "url": "https://wallstreetcn.com/livenews/3103910",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         }
@@ -278,7 +291,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -289,7 +302,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         }
@@ -297,7 +310,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国算力基建开辟海上赛道 探访全球首个海底数据中心",
@@ -309,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "【早报】算力“入海”！全球首个海底数据中心实现淡水零消耗；中芯国际、华虹公司发布一季报",
+          "url": "https://www.cls.cn/detail/2371850",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "中国算力基建开辟海上赛道 全球首个海底数据中心实现淡水零消耗",
@@ -332,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "【研选】阿里资本开支的持续高增长有望带动国产AI算力产业链步入高增长轨道；一季度公司综合毛利率有所提高，近期核心产品价格大幅上涨",
+          "url": "https://api3.cls.cn/share/article/2371084?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
@@ -369,9 +404,38 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本启用“卫星星座”增强导弹反击能力",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1471755.html",
+          "source": "早报",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 07时58分]"
+        },
+        {
+          "title": "【点金互动易】碳化硅+磷化铟+商业航天，参股企业碳化硅产品实现批量出货，磷化铟产品用于光模块、光芯片等领域，这家公司在卫星互联网行业提前布局",
+          "url": "https://api3.cls.cn/share/article/2371733?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
@@ -384,11 +448,12 @@
           "url": "https://wallstreetcn.com/articles/3772237",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 06时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 07时58分]"
         },
         {
           "title": "【金牌纪要库】AI数据中心SST（固态变压器）产业化落地提速，上游碳化硅+磁性元件+被动器件等核心材料环节有望迎来“量价齐升”的弹性机会，绑定海外渠道的企业或释放明确产值增量",
@@ -416,8 +481,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 07时58分]"
         },
         {
           "title": "【数据看盘】超4亿元资金买入光伏人气股 游资、量化资金逆势涌入中国长城",
@@ -428,8 +493,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 07时58分]"
         }
       ]
     },
@@ -479,19 +544,19 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
       "match_count": 1,
       "titles": [
         {
-          "title": "日本启用“卫星星座”增强导弹反击能力",
-          "url": "https://www.zaochenbao.com/news/politics/202605/1471755.html",
-          "source": "早报",
+          "title": "“海淘”智能穿戴设备或被植入窃密装置 国家安全部最新提示",
+          "url": "https://api3.cls.cn/share/article/2371855?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            11
+            8
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
@@ -504,11 +569,29 @@
           "url": "https://www.zaochenbao.com/news/china/202605/1471750.html",
           "source": "早报",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 07时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基因测序 基因编辑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "经基因编辑的供体干细胞成功躲避CAR-T“误杀”",
+          "url": "https://api3.cls.cn/share/article/2371846?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
