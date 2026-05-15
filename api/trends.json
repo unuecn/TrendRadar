@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T14:56:39.610799+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-05-15T17:56:50.840663+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "科技巨头力撑标普、纳指新高，英伟达新高，中概股指跑赢大盘，美长债三连跌",
@@ -97,11 +97,23 @@
           "url": "https://wallstreetcn.com/articles/3772300",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 17时56分]"
+        },
+        {
+          "title": "老黄这趟中国没白来！英伟达七天累计涨20%，市值逼近6万亿美元大关",
+          "url": "https://wallstreetcn.com/articles/3772306",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时56分"
+          "time_info": "17时56分"
         },
         {
           "title": "美股收盘：纳指、标普500指数续创新高、道指三个月以来首次收于50000点上方 英伟达总市值达5.71万亿美元",
@@ -143,7 +155,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -225,11 +237,12 @@
           "source": "参考消息",
           "ranks": [
             3,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 14时56分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 17时56分]"
         },
         {
           "title": "5月15日午间收评：创业板指探底回升涨0.57%，机器人概念股集体爆发",
@@ -530,6 +543,18 @@
           "time_info": "[02时17分 ~ 04时14分]"
         },
         {
+          "title": "社论：合力缓解人工智能带来的失业焦虑",
+          "url": "https://www.zaochenbao.com/news/opinion/202605/1571772.html",
+          "source": "早报",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 17时56分]"
+        },
+        {
           "title": "人工智能芯片制造商Cerebras Systems股票在纳斯达克首日开盘价为350美元，IPO发行价为185美元。",
           "url": "https://flash.jin10.com/detail/20260515010026093800",
           "source": "金十数据",
@@ -539,18 +564,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 02时18分]"
-        },
-        {
-          "title": "社论：合力缓解人工智能带来的失业焦虑",
-          "url": "https://www.zaochenbao.com/news/opinion/202605/1571772.html",
-          "source": "早报",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 14时56分]"
         },
         {
           "title": "中国信通院启动人工智能终端智能化分级测试工作 加速推进新国标落地实施",
@@ -666,23 +679,23 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "苹果深夜降价：iPhone17上市后首次降价",
-          "url": "https://www.cls.cn/detail/2371883",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 14时56分]"
-        },
-        {
           "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
           "url": "https://wallstreetcn.com/articles/3772311",
           "source": "华尔街见闻",
           "ranks": [
             5,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 17时56分]"
+        },
+        {
+          "title": "苹果深夜降价：iPhone17上市后首次降价",
+          "url": "https://www.cls.cn/detail/2371883",
+          "source": "财联社热门",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -709,6 +722,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "广期所发布多晶硅期货PS2705合约、碳酸锂期货LC2705合约有关事项",
+          "url": "https://api3.cls.cn/share/article/2372601?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少。SC原油、苯乙烯（EB）涨超2%，集运欧线、PX、液化石油气（LPG）、鸡蛋、PTA涨超1%；跌幅方面，沪银跌超7%，铂跌超5%，钯跌超4%，20号胶、橡胶、豆二、沪锡跌超2%，丁二烯橡胶、沪镍、棉花、工业硅跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260515113039232800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报192100元/吨，较上日16:30价格下跌2750元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3104048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "小米创始人雷军现身国宴 与马斯克自拍",
+          "url": "https://www.zaochenbao.com/news/china/202605/1471750.html",
+          "source": "早报",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 07时58分]"
+        },
+        {
+          "title": "涨价潮来了？特斯拉中国辟谣：Model Y在华没有涨价",
+          "url": "https://flash.jin10.com/detail/20260515174310995800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "长续航Model Y价格上调1.8万元？特斯拉中国回应：假消息",
+          "url": "https://wallstreetcn.com/livenews/3104139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         }
       ]
     },
@@ -773,7 +865,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         }
@@ -839,34 +931,6 @@
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少。SC原油、苯乙烯（EB）涨超2%，集运欧线、PX、液化石油气（LPG）、鸡蛋、PTA涨超1%；跌幅方面，沪银跌超7%，铂跌超5%，钯跌超4%，20号胶、橡胶、豆二、沪锡跌超2%，丁二烯橡胶、沪镍、棉花、工业硅跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260515113039232800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报192100元/吨，较上日16:30价格下跌2750元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3104048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 2,
       "titles": [
@@ -897,35 +961,6 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小米创始人雷军现身国宴 与马斯克自拍",
-          "url": "https://www.zaochenbao.com/news/china/202605/1471750.html",
-          "source": "早报",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 07时58分]"
-        },
-        {
-          "title": "长续航Model Y价格上调1.8万元？特斯拉中国回应：假消息",
-          "url": "https://wallstreetcn.com/livenews/3104139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "消费电子 智能穿戴 智能座舱",
       "match_count": 1,
       "titles": [
@@ -939,6 +974,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "雷达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "吉利汽车：雷达汽车中国公司及Radar Thailand将成为公司全资附属公司",
+          "url": "https://wallstreetcn.com/livenews/3104308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         }
       ]
     },
