@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T15:14:29.362927+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-05-16T17:11:45.068316+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -209,8 +209,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 17时11分]"
         },
         {
           "title": "美股三大指数均收跌超1% 标普500指数实现周线七连涨",
@@ -295,7 +295,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Deepseek不语 只是一味跟团",
@@ -348,6 +348,17 @@
           "time_info": "[09时19分 ~ 12时52分]"
         },
         {
+          "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+          "url": "https://wallstreetcn.com/livenews/3104769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "OpenAI与Plaid构建合作伙伴关系 将利用ChatGPT提供个性化金融顾问服务",
           "url": "https://api3.cls.cn/share/article/2372990?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -372,6 +383,119 @@
       ]
     },
     {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
+          "url": "https://wallstreetcn.com/articles/3772311",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时31分]"
+        },
+        {
+          "title": "美股三大指数均收跌超1%，苹果收于300美元上方创历史新高，中概指数跌2.8%",
+          "url": "https://www.gelonghui.com/news/5234955",
+          "source": "格隆汇",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 17时11分]"
+        },
+        {
+          "title": "财联社5月15日电，苹果股价上涨1.08%，报301.430美元/股，股价创历史新高，总市值报4.43万亿美元。",
+          "url": "https://api3.cls.cn/share/article/2372970?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时20分]"
+        },
+        {
+          "title": "苹果防线全线血崩！Mythos5天攻破最强硬件，全球20亿台设备危了",
+          "url": "https://wallstreetcn.com/articles/3772369",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
+          "title": "苹果公司股价涨幅扩大至1%。Workday涨3.9%，Salesforce涨3.5%，Adobe涨3.2%，Zscaler涨3%。 标普500指数目前跌1%，道指跌450点、跌幅0.9%，纳指跌362点、跌幅1.4%，纳斯达克100指数跌407点、跌幅1.4%，费城半导体指数跌460点、跌幅3.8%。",
+          "url": "https://wallstreetcn.com/livenews/3104532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "算力网要来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AE%97%E5%8A%9B%E7%BD%91%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 15时14分]"
+        },
+        {
+          "title": "“一人公司”再获政策支持 “算力=人力”的时代来了？",
+          "url": "https://www.cls.cn/detail/2372627",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时30分 ~ 07时31分]"
+        },
+        {
+          "title": "海光信息：为“能源电力行业第一届人工智能创新研发交流活动”提供算力支撑",
+          "url": "https://flash.jin10.com/detail/20260516161511737800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
+          "title": "蔚来秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准",
+          "url": "https://wallstreetcn.com/livenews/3104736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 4,
       "titles": [
@@ -386,8 +510,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 15时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 17时11分]"
         },
         {
           "title": "【AI冲击初现端倪，美国数类职业连续出现严重岗位流失】2025年美国多个被认为易受人工智能(AI)影响的职业领域连续第二年出现严重的职位流失，其中以客户服务代表以及特定类型的秘书和销售人员受到冲击最为严重。根据周五发布的年度数据，在2024年5月至2025年5月期间，美国劳工统计局标记为暴露在AI风险之下的18个职业组别（涉及约1000万个工作岗位）的就业人数下降了0.2%。相比之下，同期美国整体就业人数增长了0.8%。",
@@ -422,97 +546,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 00时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
-          "url": "https://wallstreetcn.com/articles/3772311",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时31分]"
-        },
-        {
-          "title": "美股三大指数均收跌超1%，苹果收于300美元上方创历史新高，中概指数跌2.8%",
-          "url": "https://www.gelonghui.com/news/5234955",
-          "source": "格隆汇",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 15时14分]"
-        },
-        {
-          "title": "财联社5月15日电，苹果股价上涨1.08%，报301.430美元/股，股价创历史新高，总市值报4.43万亿美元。",
-          "url": "https://api3.cls.cn/share/article/2372970?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
-        },
-        {
-          "title": "苹果公司股价涨幅扩大至1%。Workday涨3.9%，Salesforce涨3.5%，Adobe涨3.2%，Zscaler涨3%。 标普500指数目前跌1%，道指跌450点、跌幅0.9%，纳指跌362点、跌幅1.4%，纳斯达克100指数跌407点、跌幅1.4%，费城半导体指数跌460点、跌幅3.8%。",
-          "url": "https://wallstreetcn.com/livenews/3104532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "算力网要来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%AE%97%E5%8A%9B%E7%BD%91%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 15时14分]"
-        },
-        {
-          "title": "“一人公司”再获政策支持 “算力=人力”的时代来了？",
-          "url": "https://www.cls.cn/detail/2372627",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时30分 ~ 07时31分]"
-        },
-        {
-          "title": "蔚来秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准",
-          "url": "https://wallstreetcn.com/livenews/3104736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
         }
       ]
     },
@@ -560,7 +593,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
