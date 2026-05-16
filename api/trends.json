@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T07:31:42.574204+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-05-16T09:19:59.730113+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -21,23 +21,12 @@
         },
         {
           "title": "高瓴增持英伟达、英特尔、台积电、Lumentum",
-          "url": "https://api3.cls.cn/share/article/2373055?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "高瓴增持英伟达、英特尔、台积电、Lumentum",
           "url": "https://wallstreetcn.com/livenews/3104666",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -68,6 +57,18 @@
           "time_info": "[05时16分 ~ 07时31分]"
         },
         {
+          "title": "美国证交会文件显示：英伟达将所持CoreWeave股份增加94.5%，升至4720万股。",
+          "url": "https://flash.jin10.com/detail/20260516042012263800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时16分 ~ 09时19分]"
+        },
+        {
           "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
           "url": "https://wallstreetcn.com/articles/3772300",
           "source": "华尔街见闻",
@@ -80,15 +81,16 @@
           "time_info": "[00时19分 ~ 04时01分]"
         },
         {
-          "title": "美国证交会文件显示：英伟达将所持CoreWeave股份增加94.5%，升至4720万股。",
-          "url": "https://flash.jin10.com/detail/20260516042012263800",
-          "source": "金十数据",
+          "title": "高瓴增持英伟达、英特尔、台积电、Lumentum",
+          "url": "https://api3.cls.cn/share/article/2373055?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            6
+            1,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 07时31分]"
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 09时19分]"
         },
         {
           "title": "13F报告显示：Soros一季度新进伯克希尔哈撒韦B类股、Lin、HTO、WBS。 增持艺电、SEE、台积电、霍尼韦尔、英伟达。 清仓XHB、TTWO、RDN、ADI、VVX。 减持亚马逊、迪士尼、Salesforce等。",
@@ -186,7 +188,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股三大指数均收跌超1% 标普500指数实现周线七连涨",
@@ -223,6 +225,17 @@
           "time_info": "[06时30分 ~ 06时31分]"
         },
         {
+          "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
+          "url": "https://wallstreetcn.com/articles/3772341",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 09时19分]"
+        },
+        {
           "title": "原油大涨掀债市抛售潮，美股回落，盘中纳指跌2%，加息预期升温，金属重挫",
           "url": "https://wallstreetcn.com/articles/3772341",
           "source": "华尔街见闻",
@@ -232,17 +245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
-        },
-        {
-          "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
-          "url": "https://wallstreetcn.com/articles/3772341",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         },
         {
           "title": "周五（5月15日），美股行业ETF几乎全线溃败，半导体ETF收跌3.80%，生物科技指数ETF、全球航空业ETF、全球科技股指数ETF、公用事业ETF至多跌2.63%，科技行业ETF、银行业ETF等至多跌1.81%，能源业ETF则收涨2.36%。 2026年迄今，半导体ETF维持54.48%的累计涨幅，能源业ETF累涨33.81%，全球科技股指数ETF累涨25.79%，全球航空业ETF则累跌8.94%。",
@@ -266,12 +268,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "周五（5月15日），美股人工智能（AI）赢家指数跌3.07%，报389.89点，本周累跌0.81%，整体呈现出M形走势。 AI软件先驱指数涨1.94%，报105.57点，本周累跌0.45%，整体呈现出V形走势。",
+          "url": "https://wallstreetcn.com/livenews/3104673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Deepseek不语 只是一味跟团",
@@ -282,11 +295,12 @@
             5,
             4,
             26,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时04分 ~ 07时31分]"
+          "appearance_count": 8,
+          "time_info": "[02时04分 ~ 09时19分]"
         },
         {
           "title": "财联社5月16日电，OpenAI与Plaid构建合作伙伴关系，将利用ChatGPT提供个性化金融顾问服务。",
@@ -309,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "今年早些时候，OpenAI收购了weights.gg。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3104694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "OpenAI与Plaid构建合作伙伴关系 将利用ChatGPT提供个性化金融顾问服务",
@@ -348,8 +373,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时19分]"
         },
         {
           "title": "【AI冲击初现端倪，美国数类职业连续出现严重岗位流失】2025年美国多个被认为易受人工智能(AI)影响的职业领域连续第二年出现严重的职位流失，其中以客户服务代表以及特定类型的秘书和销售人员受到冲击最为严重。根据周五发布的年度数据，在2024年5月至2025年5月期间，美国劳工统计局标记为暴露在AI风险之下的18个职业组别（涉及约1000万个工作岗位）的就业人数下降了0.2%。相比之下，同期美国整体就业人数增长了0.8%。",
@@ -389,7 +414,7 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
@@ -401,6 +426,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时31分]"
+        },
+        {
+          "title": "美股三大指数均收跌超1%，苹果收于300美元上方创历史新高，中概指数跌2.8%",
+          "url": "https://www.gelonghui.com/news/5234955",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "财联社5月15日电，苹果股价上涨1.08%，报301.430美元/股，股价创历史新高，总市值报4.43万亿美元。",
@@ -441,8 +477,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时19分]"
         },
         {
           "title": "中企闪耀日本首届人形机器人展",
@@ -452,8 +488,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时19分]"
         }
       ]
     },
@@ -501,11 +537,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时19分]"
         }
       ]
     },
