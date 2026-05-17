@@ -1,8 +1,136 @@
 {
-  "generated_at": "2026-05-17T14:28:06.535035+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-05-17T16:38:08.304205+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "算力版国家电网要来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AE%97%E5%8A%9B%E7%89%88%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            20,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 14时28分]"
+        },
+        {
+          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
+          "url": "https://wallstreetcn.com/articles/3772431",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时27分 ~ 16时38分]"
+        },
+        {
+          "title": "算力网要来了！",
+          "url": "https://wallstreetcn.com/articles/3772436",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
+          "title": "九连板*ST准油：公司、控股股东和实际控制人并无注入算力资产的计划",
+          "url": "https://api3.cls.cn/share/article/2373363?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
+          "title": "财联社5月17日电，大华股份5月17日在互动平台表示，公司目前没有算力租赁业务。",
+          "url": "https://api3.cls.cn/share/article/2373310?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "长光卫星8颗卫星今日出征 将于近期发射",
+          "url": "https://api3.cls.cn/share/article/2373285?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "中国移动：将加强5G-A、6G、卫星互联网等通信网关键核心技术攻关",
+          "url": "https://wallstreetcn.com/livenews/3104857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "长光卫星8颗卫星今日出征，将于近期发射",
+          "url": "https://flash.jin10.com/detail/20260517101828577800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "上海启动全球首颗光计算卫星研制，构建天基计算体系化能力",
+          "url": "https://wallstreetcn.com/livenews/3104844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 16时38分]"
+        },
+        {
+          "title": "长光卫星8颗卫星今日出征，将于近期发射",
+          "url": "https://wallstreetcn.com/livenews/3104832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 16时38分]"
+        }
+      ]
+    },
     {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 5,
@@ -25,11 +153,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 14时28分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 16时38分]"
         },
         {
           "title": "特斯拉美国两年来首次上调Model Y价格",
@@ -67,94 +196,94 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
       "match_count": 4,
       "titles": [
         {
-          "title": "上海启动全球首颗光计算卫星研制，构建天基计算体系化能力",
-          "url": "https://wallstreetcn.com/livenews/3104844",
+          "title": "国轩高科：固态电池正加速迈入“1元时代”",
+          "url": "https://wallstreetcn.com/livenews/3104846",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "16时38分"
         },
         {
-          "title": "长光卫星8颗卫星今日出征 将于近期发射",
-          "url": "https://api3.cls.cn/share/article/2373285?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "国轩高科公布固态电池最新进展：能量密度400Wh/kg 2GWh量产线建设中",
+          "url": "https://api3.cls.cn/share/article/2373324?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "长光卫星8颗卫星今日出征，将于近期发射",
-          "url": "https://flash.jin10.com/detail/20260517101828577800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "长光卫星8颗卫星今日出征，将于近期发射",
-          "url": "https://wallstreetcn.com/livenews/3104832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 14时28分]"
+          "time_info": "[14时27分 ~ 14时28分]"
+        },
+        {
+          "title": "国轩高科：固态电池正加速迈入“1元时代”",
+          "url": "https://flash.jin10.com/detail/20260517151532378800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
+          "title": "国轩高科：预计2030年将建成10万吨/年固态电解质产能，可满足100GWh固态电池需求",
+          "url": "https://flash.jin10.com/detail/20260517151346840800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
         }
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 3,
       "titles": [
         {
-          "title": "算力版国家电网要来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%AE%97%E5%8A%9B%E7%89%88%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "基地启用 机器人有了国家级职业技能训练场",
+          "url": "https://wallstreetcn.com/livenews/3104798",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25,
-            20,
-            3
+            13,
+            19,
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时44分 ~ 14时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 10时59分]"
         },
         {
-          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
-          "url": "https://wallstreetcn.com/articles/3772431",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "财联社5月17日电，大华股份5月17日在互动平台表示，公司目前没有算力租赁业务。",
-          "url": "https://api3.cls.cn/share/article/2373310?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "【研选】公司仿生机器人机电执行器业务稳步推进，开辟第三增长曲线；这家公司半导体业务增长势头强劲且盈利能力更强，在手订单充足",
+          "url": "https://api3.cls.cn/share/article/2372187?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            17
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时27分 ~ 14时28分]"
+        },
+        {
+          "title": "【风口研报·公司】Optimus直线关节+第三代灵巧手催化滚动丝杠需求放量，这家公司凭借技术同源切入精密丝杠高端赛道，新工厂直面人形机器人和东南亚市场；这家公司拳头半导体产品持续突破受益本轮存储周期",
+          "url": "https://api3.cls.cn/share/article/2373351?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
         }
       ]
     },
@@ -168,11 +297,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时59分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 16时38分]"
         },
         {
           "title": "法国文化部长：今后不会资助“用人工智能取代创作者”的影视作品",
@@ -210,8 +340,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 14时28分]"
+          "appearance_count": 14,
+          "time_info": "[01时05分 ~ 16时38分]"
+        },
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 16时38分]"
         },
         {
           "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
@@ -225,49 +367,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时52分 ~ 14时28分]"
-        },
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时59分 ~ 14时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "基地启用 机器人有了国家级职业技能训练场",
-          "url": "https://wallstreetcn.com/livenews/3104798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 10时59分]"
-        },
-        {
-          "title": "【研选】公司仿生机器人机电执行器业务稳步推进，开辟第三增长曲线；这家公司半导体业务增长势头强劲且盈利能力更强，在手订单充足",
-          "url": "https://api3.cls.cn/share/article/2372187?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
         }
       ]
     },
@@ -283,8 +382,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 14时28分]"
+          "appearance_count": 14,
+          "time_info": "[01时05分 ~ 16时38分]"
         },
         {
           "title": "分析师称苹果降价是阳谋",
@@ -317,19 +416,19 @@
       ]
     },
     {
-      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
+      "keyword_group": "液冷",
       "match_count": 1,
       "titles": [
         {
-          "title": "国轩高科公布固态电池最新进展：能量密度400Wh/kg 2GWh量产线建设中",
-          "url": "https://api3.cls.cn/share/article/2373324?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "金富科技：公司液冷业务未来拓展进程、市场布局落地节奏及未来盈利水平均存在较大不确定性",
+          "url": "https://api3.cls.cn/share/article/2373368?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "time_info": "[16时37分 ~ 16时38分]"
         }
       ]
     },
