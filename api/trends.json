@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T06:26:57.589259+08:00",
-  "total_titles_processed": 345,
+  "generated_at": "2026-05-18T07:31:30.201932+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "算力网要来了！",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时26分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时31分]"
         },
         {
           "title": "Token工厂落地无锡 依托华为昇腾384集群 算力进入“智能单元计费”时代",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时26分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时31分]"
         },
         {
           "title": "*ST准油(002207.SZ)：公司、控股股东和实际控制人并无注入算力资产的计划",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时05分 ~ 06时26分]"
+        },
+        {
+          "title": "国泰海通：算力期货催化新叙事 行业长期扩容逻辑仍在延续",
+          "url": "https://flash.jin10.com/detail/20260518071411663800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "中国联通上海分公司发布全栈国产化“国芯国模国云”安全基座 推出多元化算力服务、多档Token产品及融合套餐",
@@ -118,6 +129,47 @@
       ]
     },
     {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时31分]"
+        },
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时31分]"
+        },
+        {
+          "title": "本周重要事件与数据预告：LPR、国内成品油调价、英伟达财报",
+          "url": "https://flash.jin10.com/detail/20260518065746416800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 2,
       "titles": [
@@ -146,35 +198,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时05分 ~ 04时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
-          "url": "https://wallstreetcn.com/articles/3772335",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时26分]"
-        },
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时26分]"
         }
       ]
     },
@@ -226,8 +249,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时26分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基因测序 基因编辑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科学家首创用DNA引导CRISPR基因编辑",
+          "url": "https://api3.cls.cn/share/article/2373534?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     }
