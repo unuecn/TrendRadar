@@ -1,12 +1,179 @@
 {
-  "generated_at": "2026-05-17T10:59:33.192785+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-05-17T14:28:06.535035+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "苹果华为小米集体降价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 14时28分]"
+        },
+        {
+          "title": "小米卢伟冰：今年下半年国产直板旗舰手机价格或将突破一万元",
+          "url": "https://wallstreetcn.com/livenews/3104833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 14时28分]"
+        },
+        {
+          "title": "特斯拉美国两年来首次上调Model Y价格",
+          "url": "https://api3.cls.cn/share/article/2373322?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
+        },
+        {
+          "title": "华为与中国中化签署深化战略合作协议",
+          "url": "https://flash.jin10.com/detail/20260517120115162800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
+        },
+        {
+          "title": "小米YU7全系新增火山灰车漆",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3YU7%E5%85%A8%E7%B3%BB%E6%96%B0%E5%A2%9E%E7%81%AB%E5%B1%B1%E7%81%B0%E8%BD%A6%E6%BC%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "上海启动全球首颗光计算卫星研制，构建天基计算体系化能力",
+          "url": "https://wallstreetcn.com/livenews/3104844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "长光卫星8颗卫星今日出征 将于近期发射",
+          "url": "https://api3.cls.cn/share/article/2373285?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "长光卫星8颗卫星今日出征，将于近期发射",
+          "url": "https://flash.jin10.com/detail/20260517101828577800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "长光卫星8颗卫星今日出征，将于近期发射",
+          "url": "https://wallstreetcn.com/livenews/3104832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 14时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "算力版国家电网要来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AE%97%E5%8A%9B%E7%89%88%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            20,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 14时28分]"
+        },
+        {
+          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
+          "url": "https://wallstreetcn.com/articles/3772431",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
+        },
+        {
+          "title": "财联社5月17日电，大华股份5月17日在互动平台表示，公司目前没有算力租赁业务。",
+          "url": "https://api3.cls.cn/share/article/2373310?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
+        }
+      ]
+    },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 3,
       "titles": [
+        {
+          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
+          "url": "https://www.cls.cn/detail/2373269",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 14时28分]"
+        },
         {
           "title": "法国文化部长：今后不会资助“用人工智能取代创作者”的影视作品",
           "url": "https://flash.jin10.com/detail/20260517095922483800",
@@ -14,18 +181,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
-          "url": "https://www.cls.cn/detail/2373269",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -43,45 +199,6 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "长光卫星8颗卫星今日出征 将于近期发射",
-          "url": "https://api3.cls.cn/share/article/2373285?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "长光卫星8颗卫星今日出征，将于近期发射",
-          "url": "https://wallstreetcn.com/livenews/3104832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "长光卫星8颗卫星今日出征，将于近期发射",
-          "url": "https://flash.jin10.com/detail/20260517101828577800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "台积电 英伟达",
       "match_count": 3,
       "titles": [
@@ -93,8 +210,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 10时59分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 14时28分]"
         },
         {
           "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
@@ -102,50 +219,55 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 10时59分]"
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 14时28分]"
         },
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
           "url": "https://www.cls.cn/detail/2373249",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 14时28分]"
         }
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 2,
       "titles": [
         {
-          "title": "小米卢伟冰：今年下半年国产直板旗舰手机价格或将突破一万元",
-          "url": "https://wallstreetcn.com/livenews/3104833",
+          "title": "基地启用 机器人有了国家级职业技能训练场",
+          "url": "https://wallstreetcn.com/livenews/3104798",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            13,
+            19,
+            21,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 10时59分]"
         },
         {
-          "title": "苹果华为小米集体降价",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "【研选】公司仿生机器人机电执行器业务稳步推进，开辟第三增长曲线；这家公司半导体业务增长势头强劲且盈利能力更强，在手订单充足",
+          "url": "https://api3.cls.cn/share/article/2372187?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            1
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
         }
       ]
     },
@@ -161,8 +283,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 10时59分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 14时28分]"
         },
         {
           "title": "分析师称苹果降价是阳谋",
@@ -171,7 +293,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         }
@@ -195,40 +317,19 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
       "match_count": 1,
       "titles": [
         {
-          "title": "算力版国家电网要来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%AE%97%E5%8A%9B%E7%89%88%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "国轩高科公布固态电池最新进展：能量密度400Wh/kg 2GWh量产线建设中",
+          "url": "https://api3.cls.cn/share/article/2373324?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            25,
-            20
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "基地启用 机器人有了国家级职业技能训练场",
-          "url": "https://wallstreetcn.com/livenews/3104798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 10时59分]"
+          "time_info": "[14时27分 ~ 14时28分]"
         }
       ]
     },
@@ -243,7 +344,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         }
@@ -260,7 +361,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         }
