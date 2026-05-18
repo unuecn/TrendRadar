@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-18T07:31:30.201932+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-05-18T09:31:39.279697+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "算力网要来了！",
-          "url": "https://wallstreetcn.com/articles/3772436",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时31分]"
-        },
         {
           "title": "Token工厂落地无锡 依托华为昇腾384集群 算力进入“智能单元计费”时代",
           "url": "https://www.cls.cn/detail/2373394",
@@ -25,6 +14,17 @@
           "ranks": [
             7,
             8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 09时31分]"
+        },
+        {
+          "title": "算力网要来了！",
+          "url": "https://wallstreetcn.com/articles/3772436",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -48,9 +48,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "新老资本护航前朝亚数据元老再创业，德祥地产或成亚洲算力新标杆",
+          "url": "https://www.gelonghui.com/news/5235095",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "中国联通上海分公司发布全栈国产化“国芯国模国云”安全基座 推出多元化算力服务、多档Token产品及融合套餐",
@@ -85,6 +96,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时31分]"
+        },
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 09时31分]"
+        },
+        {
+          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "本周重要事件与数据预告：LPR、国内成品油调价、英伟达财报",
+          "url": "https://flash.jin10.com/detail/20260518065746416800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "财联社5月18日电，英伟达正与SIMPLISMART进行谈判，拟牵头参与一轮规模为2000万美元的融资活动。",
+          "url": "https://api3.cls.cn/share/article/2373597?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "英伟达正洽谈领投印度AI初创公司Simplismart总额2000万美元的融资。（印度《经济时报》）",
+          "url": "https://wallstreetcn.com/livenews/3104964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
@@ -129,50 +214,20 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 3,
       "titles": [
         {
-          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
-          "url": "https://wallstreetcn.com/articles/3772335",
-          "source": "华尔街见闻",
+          "title": "我国卫星导航产业产值超6000亿元",
+          "url": "https://wallstreetcn.com/livenews/3104987",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时31分]"
-        },
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时31分]"
-        },
-        {
-          "title": "本周重要事件与数据预告：LPR、国内成品油调价、英伟达财报",
-          "url": "https://flash.jin10.com/detail/20260518065746416800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 2,
-      "titles": [
+          "time_info": "09时31分"
+        },
         {
           "title": "据俄罗斯卫星网：俄罗斯天然气工业股份公司发布消息称，欧洲地下储气设施显示5月12日至14日的气体注入记录，创历史最低水平。",
           "url": "https://flash.jin10.com/detail/20260518034421847800",
@@ -198,6 +253,91 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时05分 ~ 04时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "财联社5月18日电，小米汽车宣布，小米YU7 GT，5月21日19:00 正式上市。",
+          "url": "https://api3.cls.cn/share/article/2373629?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "小米汽车宣布，小米YU7GT，5月21日19:00正式上市。",
+          "url": "https://flash.jin10.com/detail/20260518091206354800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "小米汽车：小米YU7 GT 5月21日19:00 正式上市。",
+          "url": "https://wallstreetcn.com/livenews/3104985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
+          "url": "https://www.cls.cn/detail/2373269",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 09时31分]"
+        },
+        {
+          "title": "国金证券：AI应用加速落地，PCB与光纤产业链迎结构性高增长",
+          "url": "https://www.gelonghui.com/news/5235088",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华泰证券：继续看好本轮锂电涨价周期 同时看好钠电池及固态电池从1到N产业趋势",
+          "url": "https://www.gelonghui.com/news/5235083",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
@@ -228,29 +368,12 @@
           "url": "https://wallstreetcn.com/livenews/3104875",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            22,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 02时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
-          "url": "https://www.cls.cn/detail/2373269",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时31分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 09时31分]"
         }
       ]
     },
@@ -265,7 +388,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
