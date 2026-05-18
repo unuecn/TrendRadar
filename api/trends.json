@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T03:59:15.205061+08:00",
-  "total_titles_processed": 299,
+  "generated_at": "2026-05-19T04:53:33.857166+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 04时53分]"
         },
         {
           "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
@@ -27,19 +27,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 04时53分]"
         },
         {
           "title": "财联社5月19日电，英伟达的黄仁勋预计内存需求超过产能。",
           "url": "https://api3.cls.cn/share/article/2374756?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            11
+            11,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时53分]"
         },
         {
           "title": "英伟达(NVDA.O)日内跌幅扩大至3%。",
@@ -48,7 +49,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -59,7 +60,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -70,7 +71,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -81,7 +82,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -92,7 +93,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -103,65 +104,15 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
-          "url": "https://www.cls.cn/detail/2374609",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时59分]"
-        },
-        {
-          "title": "财联社5月19日电，内部文件显示，Meta Platforms计划于5月20日在全球分三批进行裁员，每批在当地时间凌晨4点进行。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
-          "url": "https://api3.cls.cn/share/article/2374762?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "市场消息：内部文件显示，Meta Platforms(META.O)北美员工被告知周三在家办公。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
-          "url": "https://flash.jin10.com/detail/20260519025828812800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "据华尔街日报：亚马逊网络服务CEO反驳人工智能将导致就业末日的警告。",
-          "url": "https://flash.jin10.com/detail/20260519000740912800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "03时59分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "LME期铜收涨32美元，报13588美元/吨。 LME期铝收涨6美元，报3569美元/吨。 LME期锌收跌10美元，报3524美元/吨。",
@@ -175,15 +126,60 @@
           "time_info": "01时17分"
         },
         {
+          "title": "美股三大指数收盘涨跌不一 费城半导体指数跌2.47%",
+          "url": "https://api3.cls.cn/share/article/2374772?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
           "title": "周一（5月18日）纽约尾盘，ICE原糖期货跌0.61%，ICE白糖期货跌0.50%。 ICE阿拉比卡咖啡期货跌0.50%，咖啡“C”期货跌0.15%。罗布斯塔咖啡期货跌1.96%。 纽约可可期货跌5.85%，报3768美元/吨。伦敦可可期货跌6.05%。 ICE棉花期货涨4.26%。",
           "url": "https://wallstreetcn.com/livenews/3105572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时53分]"
+        },
+        {
+          "title": "大豆基金收涨1.9%，与农产品基金领跑美股大类资产类ETF，小盘股指ETF跌约0.6%",
+          "url": "https://wallstreetcn.com/livenews/3105595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "美股行业ETF涨跌各异，能源业ETF涨约1.9%，半导体ETF跌超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3105594",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "04时53分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 理想汽车跌近10%",
+          "url": "https://flash.jin10.com/detail/20260519040054557800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         },
         {
           "title": "WTI 6月原油期货收涨3.24美元，涨幅3.07%，报108.66美元/桶。 布伦特7月原油期货收涨2.84美元，涨幅2.60%，报112.10美元/桶。 中东Abu Dhabi Murban原油期货跌1.19%，报106.72美元/桶。 NYMEX 6月天然气期货收报3.0240美元/百万英热单位。 NYMEX 6月汽油期货收报3.7607美元/加仑，NYMEX 6月取暖油期货收报4.1145美元/加仑。",
@@ -192,7 +188,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         }
@@ -200,7 +196,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "丁薛祥：算力是国家综合国力的重要体现，要统筹布局、有序建设",
@@ -210,8 +206,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 04时53分]"
         },
         {
           "title": "AMD董事会主席兼CEO苏姿丰：中国市场极其重要 算力已经成为AMD开展业务的关键",
@@ -234,34 +230,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "白宫发言人Anna Kelly：Truth Social贴文凸显出美国总统特朗普的严肃态度。 伊朗不可以拥有浓缩铀。 特朗普一直都拥有所有的选项。",
+          "url": "https://wallstreetcn.com/livenews/3105582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         }
       ]
     },
     {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。 成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Rambus跌2.59%，拉姆研究跌2.37%。",
+          "url": "https://wallstreetcn.com/livenews/3105599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
         {
           "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
           "url": "https://www.cls.cn/detail/2374260",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 04时53分]"
         },
         {
           "title": "财联社5月19日电，戴尔科技CEO Dell表示，存储芯片制造商们正在投资，存储芯片和先进制程芯片仍然存在供应短缺。",
           "url": "https://api3.cls.cn/share/article/2374759?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时53分]"
         },
         {
           "title": "戴尔科技CEO Dell：存储芯片存在供应受抑问题。 存储芯片制造商们正在投资。 存储芯片和先进制程芯片仍然存在（供应）短缺。",
@@ -270,16 +290,78 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         }
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 2,
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
+          "url": "https://www.cls.cn/detail/2374609",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 04时53分]"
+        },
+        {
+          "title": "财联社5月19日电，内部文件显示，Meta Platforms计划于5月20日在全球分三批进行裁员，每批在当地时间凌晨4点进行。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
+          "url": "https://api3.cls.cn/share/article/2374762?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时53分]"
+        },
+        {
+          "title": "市场消息：内部文件显示，Meta Platforms(META.O)北美员工被告知周三在家办公。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
+          "url": "https://flash.jin10.com/detail/20260519025828812800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "据华尔街日报：亚马逊网络服务CEO反驳人工智能将导致就业末日的警告。",
+          "url": "https://flash.jin10.com/detail/20260519000740912800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克：（关于OpenAI 裁决）奥克兰法官的裁决创造了可怕的先例。",
+          "url": "https://flash.jin10.com/detail/20260519043702372800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
         {
           "title": "美陪审团驳回马斯克对OpenAI的诉讼",
           "url": "https://api3.cls.cn/share/article/2374750?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -287,7 +369,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -298,7 +380,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         }
@@ -306,8 +388,19 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "标普500指数初步收跌0.1%，科技板块跌约1%，工业板块跌0.4%，房地产、金融、日用消费品板块至多涨超1.3%，能源板块涨超1.4%。 纳斯达克100指数初步收跌0.4%，成分股中，再生元制药初步收跌9.6%，希捷科技、Strategy、美光、闪迪至多跌7.1%，汤森路透则涨8.5%，Zscaler涨9%，特许通讯涨9.9%。 3M初步收涨4.2%，Salesforce涨3.2%，雪佛龙涨2.6%，领跑道指成分股，苹果则跌0.8%，英伟达跌1.4%，卡特彼勒跌2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3105587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
         {
           "title": "苹果公司据悉准备在6月的开发者大会上发布IOS 27",
           "url": "https://api3.cls.cn/share/article/2374749?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -315,7 +408,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -326,9 +419,37 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "纳斯达克100指数跌1.28%，希捷科技跌8.8%，Strategy跌8.3%，闪迪跌7.7%，西部数据跌7.5%，美光科技跌5.9%，特斯拉跌3.1%，阿斯麦ADR跌2.9%。 半导体指数跌3.5%。 标普500指数跌幅扩大至0.6%，纳斯达克综合指数（纳指）跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3105527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.72%，报6790.67点。 热门中概股里，理想初步收跌9.8%，日月光半导体跌6.6%，蔚来、小鹏跌超3%，阿里巴巴涨0.5%，小米涨1.4%，百度涨1.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.39%，中国科技指数ETF（CQQQ）收涨0.54%。 德银嘉实沪深300指数ETF（ASHR）收跌0.45%，MSCI新兴市场ex中国ETF（EMXC）收跌0.05%，XtrackersHarvest中证50（ASHS）收涨0.06%。",
+          "url": "https://wallstreetcn.com/livenews/3105589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         }
       ]
     },
@@ -343,7 +464,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         }
@@ -361,8 +482,42 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 04时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克爆料：正着手推进SpaceX IPO事宜，自动驾驶汽车今年将实现更广泛部署",
+          "url": "https://www.cls.cn/detail/2374520",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美商业航天板块爆发",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%9D%BF%E5%9D%97%E7%88%86%E5%8F%91%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         }
       ]
     },
@@ -378,25 +533,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克100指数跌1.28%，希捷科技跌8.8%，Strategy跌8.3%，闪迪跌7.7%，西部数据跌7.5%，美光科技跌5.9%，特斯拉跌3.1%，阿斯麦ADR跌2.9%。 半导体指数跌3.5%。 标普500指数跌幅扩大至0.6%，纳斯达克综合指数（纳指）跌1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3105527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 04时53分]"
         }
       ]
     },
@@ -409,11 +547,12 @@
           "url": "https://www.cls.cn/detail/2374617",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 04时53分]"
         }
       ]
     }
