@@ -1,1074 +1,83 @@
 {
-  "generated_at": "2026-05-19T21:55:56.481993+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-05-20T00:50:44.877358+08:00",
+  "total_titles_processed": 221,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 14,
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 3,
       "titles": [
         {
-          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时02分 ~ 21时55分]"
-        },
-        {
-          "title": "LME期铜收涨32美元，报13588美元/吨。 LME期铝收涨6美元，报3569美元/吨。 LME期锌收跌10美元，报3524美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3105537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "美股存储概念股由跌转涨，美光科技涨超2%，闪迪涨超1%，西部数据涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/3106096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "财联社5月19日电，美股存储概念股由跌转涨，美光科技涨超2%，闪迪涨超1%，西部数据涨0.7%，希捷科技涨0.5%。",
-          "url": "https://api3.cls.cn/share/article/2375924?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "美股三大指数收盘涨跌不一 费城半导体指数跌2.47%",
-          "url": "https://api3.cls.cn/share/article/2374772?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 06时02分]"
-        },
-        {
-          "title": "大豆基金收涨1.9%，与农产品基金领跑美股大类资产类ETF，小盘股指ETF跌约0.6%",
-          "url": "https://wallstreetcn.com/livenews/3105595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 06时02分]"
-        },
-        {
-          "title": "周一（5月18日）纽约尾盘，ICE原糖期货跌0.61%，ICE白糖期货跌0.50%。 ICE阿拉比卡咖啡期货跌0.50%，咖啡“C”期货跌0.15%。罗布斯塔咖啡期货跌1.96%。 纽约可可期货跌5.85%，报3768美元/吨。伦敦可可期货跌6.05%。 ICE棉花期货涨4.26%。",
-          "url": "https://wallstreetcn.com/livenews/3105572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时53分]"
-        },
-        {
-          "title": "美股行业ETF涨跌各异，能源业ETF涨约1.9%，半导体ETF跌超1.8%",
-          "url": "https://wallstreetcn.com/livenews/3105594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 06时02分]"
-        },
-        {
-          "title": "美股三大指数收盘涨跌不一 费城半导体指数跌2.47%",
-          "url": "https://www.gelonghui.com/news/5235826",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 理想汽车跌近10%",
-          "url": "https://flash.jin10.com/detail/20260519040054557800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "WTI 6月原油期货收涨3.24美元，涨幅3.07%，报108.66美元/桶。 布伦特7月原油期货收涨2.84美元，涨幅2.60%，报112.10美元/桶。 中东Abu Dhabi Murban原油期货跌1.19%，报106.72美元/桶。 NYMEX 6月天然气期货收报3.0240美元/百万英热单位。 NYMEX 6月汽油期货收报3.7607美元/加仑，NYMEX 6月取暖油期货收报4.1145美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3105560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "周一（5月18日），美股AI软件先驱指数涨1.76%，报107.43点。 15只成分股普遍收涨，ServiceNOW涨8.78%，ESTC涨6.54%，GitLab涨6.04%，MongoDB、HubSpot、ServiceNOW、Salesforce、Adobe、C3.ai至少涨1.16%，铿腾电子、新思科技则至多收跌0.79%，甲骨文跌3.29%。",
-          "url": "https://wallstreetcn.com/livenews/3105605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",
-          "url": "https://wallstreetcn.com/livenews/3105604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "周一（5月18日），美股信息科技指数收跌2.77%，报374.24点。 成分股Credo科技集团控股收跌9.24%，Nebius集团跌9.13%，Lumentum控股跌8.83%，Ondas Inc.跌8.66%，应用数字公司跌8.04%，Astera Labs跌7.35%，康宁公司跌6.91%，Rigetti计算跌6.89%，希捷科技跌6.87%，D-Wave Quantum跌6.34%，美光科技跌5.95%跌幅第十一大。 Adobe则收涨3.25%表现第九，Salesforce涨3.44%，CrowdStrike涨4.17%，Snowflake涨4.30%，摩托罗拉解决方案（MSI）涨4.32%，埃森哲涨5.17%，MongoDB涨5.72%，FICO涨7.58%，ServiceNOW涨8.87%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3105603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "丁薛祥：算力是国家综合国力的重要体现，要统筹布局、有序建设",
-          "url": "https://www.cls.cn/detail/2374423",
+          "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
+          "url": "https://www.cls.cn/detail/2375756",
           "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 07时36分]"
-        },
-        {
-          "title": "从卖流量到卖Token，运营商算力生意破局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33193847",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 21时55分]"
-        },
-        {
-          "title": "德明利(001309.SZ)：已研发并推出适用于数据中心、服务器、智算中心等高负载场景的大容量、高性能企业级存储解决方案",
-          "url": "https://www.gelonghui.com/news/5235921",
-          "source": "格隆汇",
-          "ranks": [
-            2
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时02分"
+          "time_info": "00时50分"
         },
         {
-          "title": "财联社5月19日电，据知情人士透露，AI芯片初创公司Tenstorrent吸引到众多竞争对手的兴趣。如果达成一份协议，该公司可能会获得超过50亿美元估值。",
-          "url": "https://api3.cls.cn/share/article/2374784?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "【盘中宝】AI浪潮下，全球算力开支正进入“重资产”扩张阶段，海外四大巨头一季度资本开支同比增超70%，这家企业推出新一代AI产品",
-          "url": "https://api3.cls.cn/share/article/2375301?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "报道：AI芯片初创公司Tenstorrent吸引英特尔与高通早期收购兴趣，估值或超50亿美元",
-          "url": "https://wallstreetcn.com/livenews/3105620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "AMD董事会主席兼CEO苏姿丰：中国市场极其重要 算力已经成为AMD开展业务的关键",
-          "url": "https://api3.cls.cn/share/article/2374724?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "AMD董事会主席兼CEO苏姿丰：中国市场极其重要，算力已成为公司开展业务的关键",
-          "url": "https://wallstreetcn.com/livenews/3105523",
+          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
+          "url": "https://wallstreetcn.com/livenews/3106163",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "00时50分"
         },
         {
-          "title": "【风口研报·公司】深耕“光棒-光纤-光缆”和液冷，分析师强call公司“电能+算力+AI”战略已带来实质拐点，2025年营收创历史新高，今年业绩更将十倍增长",
-          "url": "https://api3.cls.cn/share/article/2375011?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "财联社5月19日电，OpenAI创始成员Karpathy表示他已加入Anthropic。",
+          "url": "https://api3.cls.cn/share/article/2375995?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "白宫发言人Anna Kelly：Truth Social贴文凸显出美国总统特朗普的严肃态度。 伊朗不可以拥有浓缩铀。 特朗普一直都拥有所有的选项。",
-          "url": "https://wallstreetcn.com/livenews/3105582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "创业板指跌超2%，沪指跌0.20%，深成指跌1.39%，算力硬件、半导体芯片、锂电、有色金属等方向跌幅居前，沪深京三市下跌个股近2500只。",
-          "url": "https://wallstreetcn.com/livenews/3105725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "中国算力平台（北京）正式上线",
-          "url": "https://wallstreetcn.com/livenews/3105932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "00时50分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 12,
+      "match_count": 3,
       "titles": [
         {
-          "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
-          "url": "https://www.cls.cn/detail/2374609",
-          "source": "财联社热门",
+          "title": "财联社5月19日电，IBM宣布扩大其人工智能企业安全计划，并与Anthropic合作。",
+          "url": "https://api3.cls.cn/share/article/2376004?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            2
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 11时32分]"
-        },
-        {
-          "title": "外交部：中美同意开展人工智能政府间对话",
-          "url": "https://www.cls.cn/detail/2375378",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 21时55分]"
-        },
-        {
-          "title": "港股AI应用板块走势分化，智谱(02513.HK)持续下挫跌差13%，MINIMAX-W(00100.HK)跌超9%，商汤(00020.HK)、范式智能(06682.HK)等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260519110827085800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
           "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
           "source": "澎湃新闻",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 21时55分]"
-        },
-        {
-          "title": "财联社5月19日电，内部文件显示，Meta Platforms计划于5月20日在全球分三批进行裁员，每批在当地时间凌晨4点进行。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
-          "url": "https://api3.cls.cn/share/article/2374762?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时53分]"
-        },
-        {
-          "title": "李强：推动人工智能与先进制造业深度融合",
-          "url": "https://www.zaochenbao.com/news/china/202605/1972086.html",
-          "source": "早报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "港股AI应用板块走强，美图(01357.HK)涨超6%，哔哩哔哩(09626.HK)涨超3%，金蝶国际(00268.HK)、快手(01024.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260519104202893800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "A股三大股指尾盘持续走强，创业板指抹去此前跌幅转涨，沪指现涨0.83%，深证成指现涨0.27%，电网设备、AI应用等板块涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260519144445228800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "微软(MSFT.O)推出新款Surface设备，专注于商业和人工智能提升。新设备搭载英特尔处理器。",
-          "url": "https://flash.jin10.com/detail/20260519212220088800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "微软推出新款Surface设备，专注于商业和人工智能提升。新设备搭载英特尔处理器。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3106087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "市场消息：内部文件显示，Meta Platforms(META.O)北美员工被告知周三在家办公。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
-          "url": "https://flash.jin10.com/detail/20260519025828812800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "据华尔街日报：亚马逊网络服务CEO反驳人工智能将导致就业末日的警告。",
-          "url": "https://flash.jin10.com/detail/20260519000740912800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
-          "url": "https://wallstreetcn.com/articles/3772508",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时17分 ~ 15时02分]"
-        },
-        {
-          "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
-          "url": "https://wallstreetcn.com/articles/3772477",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 07时36分]"
-        },
-        {
-          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
-          "url": "https://wallstreetcn.com/articles/3772582",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 21时55分]"
-        },
-        {
-          "title": "财联社5月19日电，英伟达的黄仁勋预计内存需求超过产能。",
-          "url": "https://api3.cls.cn/share/article/2374756?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时53分]"
-        },
-        {
-          "title": "英伟达重磅CPU Vera交付：专为智能体AI设计 甲骨文承诺部署数十万颗",
-          "url": "https://www.cls.cn/detail/2374998",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)日内跌幅扩大至3%。",
-          "url": "https://flash.jin10.com/detail/20260519025046692800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "提醒：英伟达CEO黄仁勋与与戴尔科技CEO在彭博电视的讲话结束。",
-          "url": "https://wallstreetcn.com/livenews/3105563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：未来十年内要跟上基础设施的建设速度将会非常困难。",
-          "url": "https://flash.jin10.com/detail/20260519023545156800",
-          "source": "金十数据",
-          "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "00时50分"
         },
         {
-          "title": "英伟达CEO黄仁勋：需要确保供应链做好准备。",
-          "url": "https://flash.jin10.com/detail/20260519023455632800",
+          "title": "IBM(IBM.N)宣布扩大其人工智能企业安全计划，并与Anthropic合作。",
+          "url": "https://flash.jin10.com/detail/20260519235501259800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：随着时间推移，市场将会开放。",
-          "url": "https://flash.jin10.com/detail/20260519023250418800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：内存需求将超过产能。",
-          "url": "https://flash.jin10.com/detail/20260519023024339800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "Vera来了：英伟达首款专为Agent打造的CPU交付一批顶级AI实验室",
-          "url": "https://wallstreetcn.com/livenews/3105632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "马斯克：（关于OpenAI 裁决）奥克兰法官的裁决创造了可怕的先例。",
-          "url": "https://flash.jin10.com/detail/20260519043702372800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 06时02分]"
-        },
-        {
-          "title": "财联社5月19日电，马斯克表示将就OpenAI案的审判结果向第九巡回法院提起上诉。",
-          "url": "https://api3.cls.cn/share/article/2374777?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "马斯克：将针对美国陪审团的OpenAI判决结果向第九巡回法庭提出上诉。",
-          "url": "https://wallstreetcn.com/livenews/3105609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "马斯克：（关于OpenAI 裁决）法官和陪审团实际上从未对案件的是非曲直做出裁决，只是针对日程上的一个技术性问题进行了裁定。",
-          "url": "https://flash.jin10.com/detail/20260519044502123800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "美陪审团驳回马斯克对OpenAI的诉讼",
-          "url": "https://api3.cls.cn/share/article/2374750?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "马斯克：（关于OpenAI 裁决）我将向第九巡回法院提出上诉。",
-          "url": "https://flash.jin10.com/detail/20260519044208799800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "财联社5月19日电，英伟达称，Vera CPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室。",
-          "url": "https://api3.cls.cn/share/article/2374790?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
-          "url": "https://wallstreetcn.com/livenews/3105549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "多方祝贺小米YU7GT新纪录",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E7%A5%9D%E8%B4%BA%E5%B0%8F%E7%B1%B3YU7GT%E6%96%B0%E7%BA%AA%E5%BD%95%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 18时48分]"
-        },
-        {
-          "title": "小米YU7GT刷新纽北SUV圈速纪录",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3YU7GT%E5%88%B7%E6%96%B0%E7%BA%BD%E5%8C%97SUV%E5%9C%88%E9%80%9F%E7%BA%AA%E5%BD%95%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "小米汽车为寻天引入新电池供应商",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E5%AF%BB%E5%A4%A9%E5%BC%95%E5%85%A5%E6%96%B0%E7%94%B5%E6%B1%A0%E4%BE%9B%E5%BA%94%E5%95%86%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "纳斯达克100指数跌1.28%，希捷科技跌8.8%，Strategy跌8.3%，闪迪跌7.7%，西部数据跌7.5%，美光科技跌5.9%，特斯拉跌3.1%，阿斯麦ADR跌2.9%。 半导体指数跌3.5%。 标普500指数跌幅扩大至0.6%，纳斯达克综合指数（纳指）跌1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3105527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.72%，报6790.67点。 热门中概股里，理想初步收跌9.8%，日月光半导体跌6.6%，蔚来、小鹏跌超3%，阿里巴巴涨0.5%，小米涨1.4%，百度涨1.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.39%，中国科技指数ETF（CQQQ）收涨0.54%。 德银嘉实沪深300指数ETF（ASHR）收跌0.45%，MSCI新兴市场ex中国ETF（EMXC）收跌0.05%，XtrackersHarvest中证50（ASHS）收涨0.06%。",
-          "url": "https://wallstreetcn.com/livenews/3105589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "特斯拉放弃印度建厂",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英特尔 高通",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
-          "url": "https://www.cls.cn/detail/2375439",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 21时55分]"
-        },
-        {
-          "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
-          "url": "https://www.cls.cn/detail/2374617",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 11时32分]"
-        },
-        {
-          "title": "英特尔(INTC.O)CEO陈立武：14A芯片将于2028年实现生产，2029年将进入量产阶段。",
-          "url": "https://flash.jin10.com/detail/20260519064525769800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "财联社5月19日电，英特尔CEO陈立武称，14A芯片将于2028年实现生产，2029年将进入量产阶段。",
-          "url": "https://api3.cls.cn/share/article/2374800?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "据CNBC：英特尔(INTC.O)CEO陈立武表示，PC业务对我们仍然很重要。",
-          "url": "https://flash.jin10.com/detail/20260519062925298800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "英特尔：PC正在进化为智能体验入口",
-          "url": "https://flash.jin10.com/detail/20260519143320169800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
-          "url": "https://www.cls.cn/detail/2374260",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时02分]"
-        },
-        {
-          "title": "周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。 成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Rambus跌2.59%，拉姆研究跌2.37%。",
-          "url": "https://wallstreetcn.com/livenews/3105599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 06时02分]"
-        },
-        {
-          "title": "财联社5月19日电，戴尔科技CEO Dell表示，存储芯片制造商们正在投资，存储芯片和先进制程芯片仍然存在供应短缺。",
-          "url": "https://api3.cls.cn/share/article/2374759?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时53分]"
-        },
-        {
-          "title": "产业链迎业绩与估值双重驱动 存储芯片板块投资机遇凸显",
-          "url": "https://api3.cls.cn/share/article/2374797?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "戴尔科技CEO Dell：存储芯片存在供应受抑问题。 存储芯片制造商们正在投资。 存储芯片和先进制程芯片仍然存在（供应）短缺。",
-          "url": "https://wallstreetcn.com/livenews/3105558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "格隆汇公告精选︱赛福天：子公司拟5.1亿元投资高端特种绳索研发及智能制造基地建设项目；北自科技：未生产人形机器人本体及零部件",
-          "url": "https://www.gelonghui.com/news/5235750",
-          "source": "格隆汇",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 07时36分]"
-        },
-        {
-          "title": "宇树、云深处携手冲刺科创板，机器人ETF华夏(562500)冲击三连涨，4月8日以来累计上涨30%",
-          "url": "https://www.gelonghui.com/news/5235872",
-          "source": "格隆汇",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "【研选】AI数据中心致光纤价格暴涨，交货期限延长至20周以上，拥有棒纤缆全产业链制造能力的厂商将更加受益；这家公司持续拓展直角坐标机器人、多关节机器人、协作机器人及人形机器人等多元化产品矩阵",
-          "url": "https://api3.cls.cn/share/article/2373635?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "Figure AI人形机器人直播分拣包裹五天不间断，网友：分拣工要失业了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33193587",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "美湖股份回复监管工作函：本次签订的合同涉及的产品为四足机器狗的零部件产品，不属于人形机器人产品",
-          "url": "https://wallstreetcn.com/livenews/3106068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "富宝资讯：碳酸锂现货价格下跌 富宝电池级碳酸锂报181600元/吨",
-          "url": "https://api3.cls.cn/share/article/2375320?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "富宝资讯：碳酸锂现货价格下跌，富宝电池级碳酸锂报181600元/吨",
-          "url": "https://flash.jin10.com/detail/20260519144858274800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "金十期货5月19日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌3200元/吨，中间价报187600元/吨。",
-          "url": "https://flash.jin10.com/detail/20260519103249350800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报187600元/吨，较上日16:30价格下跌3200元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3105743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "财联社5月19日电，数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌3200元/吨，中间价报187600元/吨。",
-          "url": "https://api3.cls.cn/share/article/2375009?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "乾照光电(300102.SZ)：砷化镓太阳能电池外延片已通过战略核心客户批量应用于G60千帆星座等国内商业卫星",
-          "url": "https://www.gelonghui.com/news/5236534",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "中欧合作“微笑”卫星成功发射",
-          "url": "https://www.zaochenbao.com/news/china/202605/1972122.html",
-          "source": "早报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "中国卫星跌停，公司回应：控股股东减持还没有开始实施",
-          "url": "https://wallstreetcn.com/livenews/3105938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "美商业航天板块爆发",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%9D%BF%E5%9D%97%E7%88%86%E5%8F%91%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "00时50分"
         }
       ]
     },
@@ -1077,116 +86,150 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "标普500指数初步收跌0.1%，科技板块跌约1%，工业板块跌0.4%，房地产、金融、日用消费品板块至多涨超1.3%，能源板块涨超1.4%。 纳斯达克100指数初步收跌0.4%，成分股中，再生元制药初步收跌9.6%，希捷科技、Strategy、美光、闪迪至多跌7.1%，汤森路透则涨8.5%，Zscaler涨9%，特许通讯涨9.9%。 3M初步收涨4.2%，Salesforce涨3.2%，雪佛龙涨2.6%，领跑道指成分股，苹果则跌0.8%，英伟达跌1.4%，卡特彼勒跌2.8%。",
-          "url": "https://wallstreetcn.com/livenews/3105587",
+          "title": "苹果新任硬件总监调整产品设计监管架构，引发高层大洗牌，涉及自研芯片工程",
+          "url": "https://wallstreetcn.com/livenews/3106164",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "00时50分"
         },
         {
-          "title": "苹果公司据悉准备在6月的开发者大会上发布IOS 27",
-          "url": "https://api3.cls.cn/share/article/2374749?os=web&sv=8.4.6&app=CailianpressWeb",
+          "title": "财联社5月19日电，苹果新任硬件主管将重组产品设计的监管体系。",
+          "url": "https://api3.cls.cn/share/article/2375997?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
-            18
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "00时50分"
         },
         {
-          "title": "报道：苹果计划为iOS 27推出AI写作助手、快捷指令及壁纸功能",
-          "url": "https://wallstreetcn.com/livenews/3105548",
-          "source": "华尔街见闻-快讯",
+          "title": "苹果(AAPL.O)新任硬件负责人正调整产品设计监管架构，以加快设备开发速度。",
+          "url": "https://flash.jin10.com/detail/20260519234225644800",
+          "source": "金十数据",
           "ranks": [
-            29
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "00时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "财联社5月19日电，特斯拉据悉正在休斯敦建造其巨型太阳能电池板工厂。",
+          "url": "https://api3.cls.cn/share/article/2375992?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "特斯拉放弃印度建厂",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "周一（5月18日）纽约尾盘，现货黄金涨0.55%，报4564.90美元/盎司。 COMEX黄金期货涨0.16%，报4569.30美元/盎司。 现货白银涨2.07%，报77.5614美元/盎司。 COMEX白银期货涨0.58%，报77.995美元/盎司。 COMEX铜期货涨0.56%，报6.3305美元/磅。 现货铂金跌0.06%，现货钯金涨0.42%。",
-          "url": "https://wallstreetcn.com/livenews/3105610",
-          "source": "华尔街见闻-快讯",
+          "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
+          "url": "https://wallstreetcn.com/articles/3772605",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 5月18日（周一）晚盘收盘下跌0.06%报996.01元/克；<br/>上海黄金交易所白银T+D 5月18日（周一）晚盘收盘上涨1.9%报18760.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260519023124498800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "00时50分"
         }
       ]
     },
     {
-      "keyword_group": "储能",
+      "keyword_group": "美债 美股 美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "A股光伏、储能板块震荡走强，正泰电源涨停，双良节能冲击涨停，金博股份、阳光电源、国晟科技、锦浪科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3105720",
-          "source": "华尔街见闻-快讯",
+          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
           "ranks": [
-            23
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时32分"
+          "time_info": "00时50分"
         }
       ]
     },
     {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 1,
       "titles": [
         {
-          "title": "马斯克爆料：正着手推进SpaceX IPO事宜，自动驾驶汽车今年将实现更广泛部署",
-          "url": "https://www.cls.cn/detail/2374520",
-          "source": "财联社热门",
+          "title": "从卖流量到卖Token，运营商算力生意破局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33193847",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 06时02分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         }
       ]
     },
     {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
       "match_count": 1,
       "titles": [
         {
-          "title": "补贴退场后 中国4月光伏出口保持韧性",
-          "url": "https://www.zaochenbao.com/news/china/202605/1872051.html",
-          "source": "早报",
+          "title": "格隆汇公告精选︱甬金股份：拟11.51亿元建设“年产10万吨精密金属新材料（超薄精密不锈钢及钛材板带）产业化项目”",
+          "url": "https://www.gelonghui.com/news/5236569",
+          "source": "格隆汇",
           "ranks": [
-            23
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 07时36分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
         }
       ]
     },
@@ -1199,11 +242,11 @@
           "url": "https://www.zaochenbao.com/news/politics/202605/1972140.html",
           "source": "早报",
           "ranks": [
-            4
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "00时50分"
         }
       ]
     }
