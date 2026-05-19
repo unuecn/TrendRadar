@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T18:48:10.850346+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-05-19T21:55:56.481993+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时02分 ~ 18时48分]"
+          "appearance_count": 8,
+          "time_info": "[06时02分 ~ 21时55分]"
         },
         {
           "title": "LME期铜收涨32美元，报13588美元/吨。 LME期铝收涨6美元，报3569美元/吨。 LME期锌收跌10美元，报3524美元/吨。",
@@ -29,6 +30,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "美股存储概念股由跌转涨，美光科技涨超2%，闪迪涨超1%，西部数据涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3106096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "财联社5月19日电，美股存储概念股由跌转涨，美光科技涨超2%，闪迪涨超1%，西部数据涨0.7%，希捷科技涨0.5%。",
+          "url": "https://api3.cls.cn/share/article/2375924?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "美股三大指数收盘涨跌不一 费城半导体指数跌2.47%",
@@ -162,6 +185,19 @@
           "time_info": "[01时17分 ~ 07时36分]"
         },
         {
+          "title": "从卖流量到卖Token，运营商算力生意破局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33193847",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 21时55分]"
+        },
+        {
           "title": "德明利(001309.SZ)：已研发并推出适用于数据中心、服务器、智算中心等高负载场景的大容量、高性能企业级存储解决方案",
           "url": "https://www.gelonghui.com/news/5235921",
           "source": "格隆汇",
@@ -182,19 +218,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "从卖流量到卖Token，运营商算力生意破局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33193847",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时31分 ~ 18时48分]"
         },
         {
           "title": "【盘中宝】AI浪潮下，全球算力开支正进入“重资产”扩张阶段，海外四大巨头一季度资本开支同比增超70%，这家企业推出新一代AI产品",
@@ -280,9 +303,149 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
+          "url": "https://www.cls.cn/detail/2374609",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 11时32分]"
+        },
+        {
+          "title": "外交部：中美同意开展人工智能政府间对话",
+          "url": "https://www.cls.cn/detail/2375378",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 21时55分]"
+        },
+        {
+          "title": "港股AI应用板块走势分化，智谱(02513.HK)持续下挫跌差13%，MINIMAX-W(00100.HK)跌超9%，商汤(00020.HK)、范式智能(06682.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260519110827085800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 21时55分]"
+        },
+        {
+          "title": "财联社5月19日电，内部文件显示，Meta Platforms计划于5月20日在全球分三批进行裁员，每批在当地时间凌晨4点进行。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
+          "url": "https://api3.cls.cn/share/article/2374762?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时53分]"
+        },
+        {
+          "title": "李强：推动人工智能与先进制造业深度融合",
+          "url": "https://www.zaochenbao.com/news/china/202605/1972086.html",
+          "source": "早报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "港股AI应用板块走强，美图(01357.HK)涨超6%，哔哩哔哩(09626.HK)涨超3%，金蝶国际(00268.HK)、快手(01024.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260519104202893800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "A股三大股指尾盘持续走强，创业板指抹去此前跌幅转涨，沪指现涨0.83%，深证成指现涨0.27%，电网设备、AI应用等板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260519144445228800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "微软(MSFT.O)推出新款Surface设备，专注于商业和人工智能提升。新设备搭载英特尔处理器。",
+          "url": "https://flash.jin10.com/detail/20260519212220088800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "微软推出新款Surface设备，专注于商业和人工智能提升。新设备搭载英特尔处理器。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3106087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "市场消息：内部文件显示，Meta Platforms(META.O)北美员工被告知周三在家办公。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
+          "url": "https://flash.jin10.com/detail/20260519025828812800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "据华尔街日报：亚马逊网络服务CEO反驳人工智能将导致就业末日的警告。",
+          "url": "https://flash.jin10.com/detail/20260519000740912800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         }
       ]
     },
@@ -319,11 +482,12 @@
           "url": "https://wallstreetcn.com/articles/3772582",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 21时55分]"
         },
         {
           "title": "财联社5月19日电，英伟达的黄仁勋预计内存需求超过产能。",
@@ -428,123 +592,6 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
-          "url": "https://www.cls.cn/detail/2374609",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 11时32分]"
-        },
-        {
-          "title": "外交部：中美同意开展人工智能政府间对话",
-          "url": "https://www.cls.cn/detail/2375378",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "港股AI应用板块走势分化，智谱(02513.HK)持续下挫跌差13%，MINIMAX-W(00100.HK)跌超9%，商汤(00020.HK)、范式智能(06682.HK)等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260519110827085800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "财联社5月19日电，内部文件显示，Meta Platforms计划于5月20日在全球分三批进行裁员，每批在当地时间凌晨4点进行。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
-          "url": "https://api3.cls.cn/share/article/2374762?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时53分]"
-        },
-        {
-          "title": "李强：推动人工智能与先进制造业深度融合",
-          "url": "https://www.zaochenbao.com/news/china/202605/1972086.html",
-          "source": "早报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "港股AI应用板块走强，美图(01357.HK)涨超6%，哔哩哔哩(09626.HK)涨超3%，金蝶国际(00268.HK)、快手(01024.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260519104202893800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "A股三大股指尾盘持续走强，创业板指抹去此前跌幅转涨，沪指现涨0.83%，深证成指现涨0.27%，电网设备、AI应用等板块涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260519144445228800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "市场消息：内部文件显示，Meta Platforms(META.O)北美员工被告知周三在家办公。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
-          "url": "https://flash.jin10.com/detail/20260519025828812800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "据华尔街日报：亚马逊网络服务CEO反驳人工智能将导致就业末日的警告。",
-          "url": "https://flash.jin10.com/detail/20260519000740912800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 8,
       "titles": [
@@ -640,9 +687,94 @@
       ]
     },
     {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "多方祝贺小米YU7GT新纪录",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E7%A5%9D%E8%B4%BA%E5%B0%8F%E7%B1%B3YU7GT%E6%96%B0%E7%BA%AA%E5%BD%95%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 18时48分]"
+        },
+        {
+          "title": "小米YU7GT刷新纽北SUV圈速纪录",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3YU7GT%E5%88%B7%E6%96%B0%E7%BA%BD%E5%8C%97SUV%E5%9C%88%E9%80%9F%E7%BA%AA%E5%BD%95%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "小米汽车为寻天引入新电池供应商",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E5%AF%BB%E5%A4%A9%E5%BC%95%E5%85%A5%E6%96%B0%E7%94%B5%E6%B1%A0%E4%BE%9B%E5%BA%94%E5%95%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "纳斯达克100指数跌1.28%，希捷科技跌8.8%，Strategy跌8.3%，闪迪跌7.7%，西部数据跌7.5%，美光科技跌5.9%，特斯拉跌3.1%，阿斯麦ADR跌2.9%。 半导体指数跌3.5%。 标普500指数跌幅扩大至0.6%，纳斯达克综合指数（纳指）跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3105527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.72%，报6790.67点。 热门中概股里，理想初步收跌9.8%，日月光半导体跌6.6%，蔚来、小鹏跌超3%，阿里巴巴涨0.5%，小米涨1.4%，百度涨1.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.39%，中国科技指数ETF（CQQQ）收涨0.54%。 德银嘉实沪深300指数ETF（ASHR）收跌0.45%，MSCI新兴市场ex中国ETF（EMXC）收跌0.05%，XtrackersHarvest中证50（ASHS）收涨0.06%。",
+          "url": "https://wallstreetcn.com/livenews/3105589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "特斯拉放弃印度建厂",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英特尔 高通",
       "match_count": 6,
       "titles": [
+        {
+          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
+          "url": "https://www.cls.cn/detail/2375439",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 21时55分]"
+        },
         {
           "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
           "url": "https://www.cls.cn/detail/2374617",
@@ -655,17 +787,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时17分 ~ 11时32分]"
-        },
-        {
-          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
-          "url": "https://www.cls.cn/detail/2375439",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
         },
         {
           "title": "英特尔(INTC.O)CEO陈立武：14A芯片将于2028年实现生产，2029年将进入量产阶段。",
@@ -779,6 +900,68 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "格隆汇公告精选︱赛福天：子公司拟5.1亿元投资高端特种绳索研发及智能制造基地建设项目；北自科技：未生产人形机器人本体及零部件",
+          "url": "https://www.gelonghui.com/news/5235750",
+          "source": "格隆汇",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时36分]"
+        },
+        {
+          "title": "宇树、云深处携手冲刺科创板，机器人ETF华夏(562500)冲击三连涨，4月8日以来累计上涨30%",
+          "url": "https://www.gelonghui.com/news/5235872",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "【研选】AI数据中心致光纤价格暴涨，交货期限延长至20周以上，拥有棒纤缆全产业链制造能力的厂商将更加受益；这家公司持续拓展直角坐标机器人、多关节机器人、协作机器人及人形机器人等多元化产品矩阵",
+          "url": "https://api3.cls.cn/share/article/2373635?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "Figure AI人形机器人直播分拣包裹五天不间断，网友：分拣工要失业了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33193587",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "美湖股份回复监管工作函：本次签订的合同涉及的产品为四足机器狗的零部件产品，不属于人形机器人产品",
+          "url": "https://wallstreetcn.com/livenews/3106068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 5,
       "titles": [
@@ -840,122 +1023,20 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "多方祝贺小米YU7GT新纪录",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E7%A5%9D%E8%B4%BA%E5%B0%8F%E7%B1%B3YU7GT%E6%96%B0%E7%BA%AA%E5%BD%95%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 18时48分]"
-        },
-        {
-          "title": "小米YU7GT刷新纽北SUV圈速纪录",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3YU7GT%E5%88%B7%E6%96%B0%E7%BA%BD%E5%8C%97SUV%E5%9C%88%E9%80%9F%E7%BA%AA%E5%BD%95%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "小米汽车为寻天引入新电池供应商",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E5%AF%BB%E5%A4%A9%E5%BC%95%E5%85%A5%E6%96%B0%E7%94%B5%E6%B1%A0%E4%BE%9B%E5%BA%94%E5%95%86%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "纳斯达克100指数跌1.28%，希捷科技跌8.8%，Strategy跌8.3%，闪迪跌7.7%，西部数据跌7.5%，美光科技跌5.9%，特斯拉跌3.1%，阿斯麦ADR跌2.9%。 半导体指数跌3.5%。 标普500指数跌幅扩大至0.6%，纳斯达克综合指数（纳指）跌1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3105527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.72%，报6790.67点。 热门中概股里，理想初步收跌9.8%，日月光半导体跌6.6%，蔚来、小鹏跌超3%，阿里巴巴涨0.5%，小米涨1.4%，百度涨1.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.39%，中国科技指数ETF（CQQQ）收涨0.54%。 德银嘉实沪深300指数ETF（ASHR）收跌0.45%，MSCI新兴市场ex中国ETF（EMXC）收跌0.05%，XtrackersHarvest中证50（ASHS）收涨0.06%。",
-          "url": "https://wallstreetcn.com/livenews/3105589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 4,
       "titles": [
         {
-          "title": "格隆汇公告精选︱赛福天：子公司拟5.1亿元投资高端特种绳索研发及智能制造基地建设项目；北自科技：未生产人形机器人本体及零部件",
-          "url": "https://www.gelonghui.com/news/5235750",
+          "title": "乾照光电(300102.SZ)：砷化镓太阳能电池外延片已通过战略核心客户批量应用于G60千帆星座等国内商业卫星",
+          "url": "https://www.gelonghui.com/news/5236534",
           "source": "格隆汇",
           "ranks": [
-            4,
-            12
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 07时36分]"
-        },
-        {
-          "title": "宇树、云深处携手冲刺科创板，机器人ETF华夏(562500)冲击三连涨，4月8日以来累计上涨30%",
-          "url": "https://www.gelonghui.com/news/5235872",
-          "source": "格隆汇",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "【研选】AI数据中心致光纤价格暴涨，交货期限延长至20周以上，拥有棒纤缆全产业链制造能力的厂商将更加受益；这家公司持续拓展直角坐标机器人、多关节机器人、协作机器人及人形机器人等多元化产品矩阵",
-          "url": "https://api3.cls.cn/share/article/2373635?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "21时55分"
         },
-        {
-          "title": "Figure AI人形机器人直播分拣包裹五天不间断，网友：分拣工要失业了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33193587",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 3,
-      "titles": [
         {
           "title": "中欧合作“微笑”卫星成功发射",
           "url": "https://www.zaochenbao.com/news/china/202605/1972122.html",
@@ -974,7 +1055,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -1106,6 +1187,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时17分 ~ 07时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡持续关闭 伊朗推比特币航运保险筹资",
+          "url": "https://www.zaochenbao.com/news/politics/202605/1972140.html",
+          "source": "早报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     }
