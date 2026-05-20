@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T15:42:45.181728+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-05-20T18:51:53.184390+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -48,7 +48,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -290,105 +290,8 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "从卖流量到卖Token，运营商算力生意破局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33193847",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 07时41分]"
-        },
-        {
-          "title": "中超控股(002471.SZ)：已供部分中低压电力电缆给算力数据中心",
-          "url": "https://www.gelonghui.com/news/5236794",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "财联社5月20日电，Truth Social Bitcoin ETF B.T.申请撤销登记。",
-          "url": "https://api3.cls.cn/share/article/2376065?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 06时16分]"
-        },
-        {
-          "title": "Truth Social Bitcoin ETF B.T.申请撤销登记。",
-          "url": "https://wallstreetcn.com/livenews/3106239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 06时16分]"
-        },
-        {
-          "title": "中国算力平台（北京）正式上线 国产算力产业链迎来快速发展期",
-          "url": "https://www.cls.cn/detail/2376114",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
-          "url": "https://wallstreetcn.com/livenews/3106231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "两部门：优先支持算力设施、绿色氢氨醇等新兴产业和未来产业开展绿电直连",
-          "url": "https://wallstreetcn.com/livenews/3106390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "机构：北美CSP大举购置NVIDIA GB/Rubin整柜式方案，今年AI推理算力将跃升1.2倍",
-          "url": "https://wallstreetcn.com/livenews/3106515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -451,6 +354,17 @@
           "time_info": "[07时40分 ~ 07时41分]"
         },
         {
+          "title": "云南：加快发展电子电路铜箔、电子级玻纤等形成印制电路板产能，引进人工智能服务器生产制造项目",
+          "url": "https://wallstreetcn.com/livenews/3106671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "财联社5月19日电，IBM宣布扩大其人工智能企业安全计划，并与Anthropic合作。",
           "url": "https://api3.cls.cn/share/article/2376004?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -460,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "我国首个AI应用伦理安全指引发布 AI安全治理体系再完善",
+          "url": "https://api3.cls.cn/share/article/2376899?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
@@ -482,6 +407,136 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "“人工智能世纪审判”马斯克败诉，这意味着什么？",
+          "url": "https://www.zaochenbao.com/news/politics/202605/2072206.html",
+          "source": "早报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "从卖流量到卖Token，运营商算力生意破局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33193847",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 07时41分]"
+        },
+        {
+          "title": "中超控股(002471.SZ)：已供部分中低压电力电缆给算力数据中心",
+          "url": "https://www.gelonghui.com/news/5236794",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "财联社5月20日电，Truth Social Bitcoin ETF B.T.申请撤销登记。",
+          "url": "https://api3.cls.cn/share/article/2376065?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 06时16分]"
+        },
+        {
+          "title": "Truth Social Bitcoin ETF B.T.申请撤销登记。",
+          "url": "https://wallstreetcn.com/livenews/3106239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 06时16分]"
+        },
+        {
+          "title": "中国算力平台（北京）正式上线 国产算力产业链迎来快速发展期",
+          "url": "https://www.cls.cn/detail/2376114",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "云南：力争到2027年全省算力规模达20Eflops",
+          "url": "https://wallstreetcn.com/livenews/3106655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "广东：鼓励软件服务企业在“一带一路”共建国家布局数据中心输出“广东算力”",
+          "url": "https://wallstreetcn.com/livenews/3106651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
+          "url": "https://wallstreetcn.com/livenews/3106231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "两部门：优先支持算力设施、绿色氢氨醇等新兴产业和未来产业开展绿电直连",
+          "url": "https://wallstreetcn.com/livenews/3106390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "机构：北美CSP大举购置NVIDIA GB/Rubin整柜式方案，今年AI推理算力将跃升1.2倍",
+          "url": "https://wallstreetcn.com/livenews/3106515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     },
@@ -573,7 +628,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特斯拉放弃印度建厂",
@@ -596,9 +651,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "财联社5月20日电，小米集团于5月20日以1亿港元回购了330万股B类股份。",
+          "url": "https://api3.cls.cn/share/article/2376904?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "财联社5月19日电，特斯拉据悉正在休斯敦建造其巨型太阳能电池板工厂。",
@@ -618,7 +684,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -643,6 +709,132 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "三孚股份：公司主要产品包括三氯氢硅、四氯化硅、高纯四氯化硅、硅烷偶联剂、氢氧化钾、硫酸钾、电子特气、气相二氧化硅等，产品应用于光伏、光纤、精细化工、肥料、电子芯片等领域。目前存储芯片相关收入占公司营业收入比重不足1%，不会对公司业绩产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3106675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "10天5板三孚股份：存储芯片相关收入占公司营业收入比重不足1%",
+          "url": "https://api3.cls.cn/share/article/2376919?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "5月19日，MSCI新兴市场货币指数下跌0.3%，巴西雷亚尔和韩元表现最为差劲，跌幅均达1%左右。 作为同胞指数的MSCI新兴市场股票指数重挫1.45%，最近三天的累计跌幅扩大至4.5%以上，创2026年3月底以来最大的三日连续跌幅。周二领跌的权重股包括首尔上市的存储芯片巨头SK海力士、台积电。",
+          "url": "https://wallstreetcn.com/livenews/3106259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "A股收评：三大指数涨跌不一，科创50指数涨3.2%创新高，半导体、存储芯片板块走高",
+          "url": "https://www.gelonghui.com/news/5236786",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "三孚股份：目前存储芯片相关收入占公司营业收入比重不足1%",
+          "url": "https://flash.jin10.com/detail/20260520182739686800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 07时41分]"
+        },
+        {
+          "title": "高盛英伟达前瞻：业绩大概率超预期，但市场更关注“1万亿美元”指引之外的增量空间",
+          "url": "https://wallstreetcn.com/articles/3772638",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 18时51分]"
+        },
+        {
+          "title": "英伟达财报倒计时！期权市场押注：3550亿美元单日市值巨震将至",
+          "url": "https://www.cls.cn/detail/2376293",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 18时51分]"
+        },
+        {
+          "title": "英媒：黄仁勋访华期间 中国将英伟达游戏晶片列入禁售名单",
+          "url": "https://www.zaochenbao.com/news/china/202605/2072222.html",
+          "source": "早报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "英伟达财报倒计时！超预期基本没悬念，但华尔街最关心这五个问题",
+          "url": "https://wallstreetcn.com/articles/3772680",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     },
@@ -747,6 +939,45 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "凯迪股份：公司机器人相关业务已立项短期内暂无法形成收入",
+          "url": "https://flash.jin10.com/detail/20260520184433933800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "国投智能(300188.SZ)：具身智能机器人业务采用自研核心算法与平台架构",
+          "url": "https://www.gelonghui.com/news/5236793",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "财联社5月20日电，消息人士称，Meta提议向竞争对手的人工智能聊天机器人提供有限的免费WhatsApp访问权限，竞争对手在向用户发送消息达到上限时将被收取费用。",
+          "url": "https://api3.cls.cn/share/article/2376056?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 3,
       "titles": [
@@ -768,7 +999,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -782,48 +1013,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时40分 ~ 07时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
-          "url": "https://wallstreetcn.com/articles/3772582",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 07时41分]"
-        },
-        {
-          "title": "高盛英伟达前瞻：业绩大概率超预期，但市场更关注“1万亿美元”指引之外的增量空间",
-          "url": "https://wallstreetcn.com/articles/3772638",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 15时42分]"
-        },
-        {
-          "title": "英伟达财报倒计时！期权市场押注：3550亿美元单日市值巨震将至",
-          "url": "https://www.cls.cn/detail/2376293",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
         }
       ]
     },
@@ -857,62 +1046,6 @@
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "5月19日，MSCI新兴市场货币指数下跌0.3%，巴西雷亚尔和韩元表现最为差劲，跌幅均达1%左右。 作为同胞指数的MSCI新兴市场股票指数重挫1.45%，最近三天的累计跌幅扩大至4.5%以上，创2026年3月底以来最大的三日连续跌幅。周二领跌的权重股包括首尔上市的存储芯片巨头SK海力士、台积电。",
-          "url": "https://wallstreetcn.com/livenews/3106259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "A股收评：三大指数涨跌不一，科创50指数涨3.2%创新高，半导体、存储芯片板块走高",
-          "url": "https://www.gelonghui.com/news/5236786",
-          "source": "格隆汇",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国投智能(300188.SZ)：具身智能机器人业务采用自研核心算法与平台架构",
-          "url": "https://www.gelonghui.com/news/5236793",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "财联社5月20日电，消息人士称，Meta提议向竞争对手的人工智能聊天机器人提供有限的免费WhatsApp访问权限，竞争对手在向用户发送消息达到上限时将被收取费用。",
-          "url": "https://api3.cls.cn/share/article/2376056?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 2,
       "titles": [
@@ -923,7 +1056,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -934,7 +1067,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         }
@@ -951,7 +1084,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -1024,7 +1157,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         }
@@ -1044,8 +1177,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时40分 ~ 15时42分]"
+          "appearance_count": 6,
+          "time_info": "[07时40分 ~ 18时51分]"
         }
       ]
     },
