@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T07:41:05.968082+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-05-20T11:32:06.861457+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "谷歌展示Google Flow Music。",
@@ -59,11 +59,34 @@
           "url": "https://wallstreetcn.com/articles/3772609",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 11时32分]"
+        },
+        {
+          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2376118",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
+          "url": "https://www.cls.cn/detail/2376047",
+          "source": "财联社热门",
+          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时01分 ~ 04时48分]"
+          "time_info": "[11时31分 ~ 11时32分]"
         },
         {
           "title": "谷歌CEO：Gemini月活跃用户达9亿",
@@ -249,6 +272,20 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 11时32分]"
+        },
+        {
           "title": "据知情人士透露，SpaceX预计在其公司开始IPO 30天后，推进对人工智能编码初创公司Cursor的收购。",
           "url": "https://flash.jin10.com/detail/20260520060549357800",
           "source": "金十数据",
@@ -258,19 +295,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
-        },
-        {
-          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 07时41分]"
         },
         {
           "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
@@ -389,7 +413,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -400,7 +424,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -430,7 +454,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "从卖流量到卖Token，运营商算力生意破局",
@@ -478,12 +502,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "两部门：优先支持算力设施、绿色氢氨醇等新兴产业和未来产业开展绿电直连",
+          "url": "https://wallstreetcn.com/livenews/3106390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特斯拉放弃印度建厂",
@@ -520,13 +555,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "华为轮值董事长徐直军访问东风汽车 启动全面深化战略合作2.0阶段",
+          "url": "https://wallstreetcn.com/livenews/3106383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "港股汽车股持续走低，比亚迪股份(01211.HK)、蔚来-SW(09866.HK)跌超3%，北京汽车(01958.HK)跌超2%，奇瑞汽车(09973.HK)、吉利汽车(00175.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260520110845636800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
         {
           "title": "苹果新任硬件总监调整产品设计监管架构，引发高层大洗牌，涉及自研芯片工程",
           "url": "https://wallstreetcn.com/livenews/3106164",
@@ -563,6 +620,56 @@
       ]
     },
     {
+      "keyword_group": "中芯国际",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【研选】中芯国际二季度指引向好，分析师看好国产设备先进工艺突破与验证持续推进；高端电子陶瓷领军企业，5G-A射频器件用量大幅提升，公司陶瓷介质波导滤波器有望深度受益",
+          "url": "https://api3.cls.cn/share/article/2374986?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 07时41分]"
+        },
+        {
+          "title": "主力资金监控：中芯国际净买入超22亿",
+          "url": "https://api3.cls.cn/share/article/2376349?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "半导体产业链持续走强，中芯国际大涨超10%，上海合晶、长电科技涨停，兆易创新逼近涨停，中科飞测、盛合晶微、甬矽电子等多股涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3106404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "中芯国际A股成交额超100亿元，日内涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3106379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
       "match_count": 2,
       "titles": [
@@ -592,6 +699,64 @@
       ]
     },
     {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "港股异动丨光伏股跌势不止 信义光能跌5.6%刷新阶段新低 福耀玻璃录得6连跌",
+          "url": "https://www.gelonghui.com/news/5236727",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "半透明超薄钙钛矿太阳能电池研发成功",
+          "url": "https://api3.cls.cn/share/article/2376098?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 07时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 07时41分]"
+        },
+        {
+          "title": "高盛英伟达前瞻：业绩大概率超预期，但市场更关注“1万亿美元”指引之外的增量空间",
+          "url": "https://wallstreetcn.com/articles/3772638",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "英特尔 高通",
       "match_count": 2,
       "titles": [
@@ -616,6 +781,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "液冷",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "液冷服务器概念逆势活跃 宏盛股份涨停",
+          "url": "https://api3.cls.cn/share/article/2376343?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
         }
       ]
     },
@@ -662,11 +844,12 @@
           "url": "https://wallstreetcn.com/articles/3772658",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 07时41分]"
+          "appearance_count": 4,
+          "time_info": "[07时40分 ~ 11时32分]"
         }
       ]
     },
@@ -688,55 +871,19 @@
       ]
     },
     {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 1,
       "titles": [
         {
-          "title": "半透明超薄钙钛矿太阳能电池研发成功",
-          "url": "https://api3.cls.cn/share/article/2376098?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报179500元/吨，较上日16:30价格下跌6800元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3106399",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 07时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中芯国际",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【研选】中芯国际二季度指引向好，分析师看好国产设备先进工艺突破与验证持续推进；高端电子陶瓷领军企业，5G-A射频器件用量大幅提升，公司陶瓷介质波导滤波器有望深度受益",
-          "url": "https://api3.cls.cn/share/article/2374986?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 07时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
-          "url": "https://wallstreetcn.com/articles/3772582",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 07时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     },
