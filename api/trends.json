@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T18:51:53.184390+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-05-20T21:38:15.263690+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
@@ -291,7 +291,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -317,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "财联社5月20日电，赛富时旗下Informatica深化与微软的合作，为代理式人工智能和大规模分析提供可信数据。",
+          "url": "https://api3.cls.cn/share/article/2377107?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
@@ -360,9 +371,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
+        },
+        {
+          "title": "报道：财捷集团将裁员17%以精简业务，关注人工智能",
+          "url": "https://wallstreetcn.com/livenews/3106753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "财联社5月20日电， ASML CEO表示，欧洲人工智能法案需要改革或废除；必须避免限制技术供应链的“简单化”规则。",
+          "url": "https://api3.cls.cn/share/article/2377099?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "阿斯麦(ASML.O)CEO：强劲的人工智能需求意味着芯片将在相当长一段时间内处于“供给受限的市场”。",
+          "url": "https://flash.jin10.com/detail/20260520210200432800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "财联社5月19日电，IBM宣布扩大其人工智能企业安全计划，并与Anthropic合作。",
@@ -376,13 +420,24 @@
           "time_info": "00时50分"
         },
         {
+          "title": "阿斯麦(ASML.O)CEO：欧洲人工智能法案需要改革和撤销，必须避免限制技术供应链的“简单化”规则。",
+          "url": "https://flash.jin10.com/detail/20260520210140732800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "我国首个AI应用伦理安全指引发布 AI安全治理体系再完善",
           "url": "https://api3.cls.cn/share/article/2376899?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -415,15 +470,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
+        },
+        {
+          "title": "贝佐斯：特朗普比第一任期更成熟、更自律。 我仍然会打电话给奥巴马征求意见。 在太空建立数据中心“非常现实”。 地面数据中心的能源预算将会增加。 发射成本需要降低十倍。 人工智能将导致劳动力短缺。 亚马逊没有因为人工智能而裁员。 我在亚马逊、蓝色起源以及普罗米修斯公司的工作经历，都与人工智能相关。 太空产业将会成为一个“庞大规模”的产业。",
+          "url": "https://wallstreetcn.com/livenews/3106732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         }
       ]
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "从卖流量到卖Token，运营商算力生意破局",
@@ -484,13 +550,24 @@
           "time_info": "15时42分"
         },
         {
+          "title": "赛意信息(300687.SZ)：拟不超过8.33亿元向供应商采购高性能算力服务器",
+          "url": "https://www.gelonghui.com/news/5237529",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "云南：力争到2027年全省算力规模达20Eflops",
           "url": "https://wallstreetcn.com/livenews/3106655",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -501,7 +578,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -515,6 +592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "金螳螂：公司目前未从事商业航天核心产业，亦未开展数据中心算力运营业务",
+          "url": "https://wallstreetcn.com/livenews/3106735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "两部门：优先支持算力设施、绿色氢氨醇等新兴产业和未来产业开展绿电直连",
@@ -537,6 +625,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "特斯拉放弃印度建厂",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            27,
+            29,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 07时41分]"
+        },
+        {
+          "title": "雷军回应小米YU7GT定价",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3YU7GT%E5%AE%9A%E4%BB%B7%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "财联社5月20日电，小米集团于5月20日以1亿港元回购了330万股B类股份。",
+          "url": "https://api3.cls.cn/share/article/2376904?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "财联社5月19日电，特斯拉据悉正在休斯敦建造其巨型太阳能电池板工厂。",
+          "url": "https://api3.cls.cn/share/article/2375992?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "段永平大举买入特斯拉，减仓苹果，清仓阿里巴巴",
+          "url": "https://flash.jin10.com/detail/20260520150448696800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "费城半导体指数涨超1.1%，纳斯达克100指数几乎完全收复日内稍早失地。迈威尔科技涨5.9%，美光涨5.4%，闪迪涨3.3%，英特尔涨2.7%，拼多多涨2.4%，Lumentum涨1.9%，恩智浦涨1.6%。特斯拉跌1.8%，汤森路透跌2.8%，Doordash跌4.9%。",
+          "url": "https://wallstreetcn.com/livenews/3106188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "华为轮值董事长徐直军访问东风汽车 启动全面深化战略合作2.0阶段",
+          "url": "https://wallstreetcn.com/livenews/3106383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     },
@@ -627,92 +812,6 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "特斯拉放弃印度建厂",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            27,
-            29,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 07时41分]"
-        },
-        {
-          "title": "雷军回应小米YU7GT定价",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3YU7GT%E5%AE%9A%E4%BB%B7%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "财联社5月20日电，小米集团于5月20日以1亿港元回购了330万股B类股份。",
-          "url": "https://api3.cls.cn/share/article/2376904?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "财联社5月19日电，特斯拉据悉正在休斯敦建造其巨型太阳能电池板工厂。",
-          "url": "https://api3.cls.cn/share/article/2375992?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "段永平大举买入特斯拉，减仓苹果，清仓阿里巴巴",
-          "url": "https://flash.jin10.com/detail/20260520150448696800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "费城半导体指数涨超1.1%，纳斯达克100指数几乎完全收复日内稍早失地。迈威尔科技涨5.9%，美光涨5.4%，闪迪涨3.3%，英特尔涨2.7%，拼多多涨2.4%，Lumentum涨1.9%，恩智浦涨1.6%。特斯拉跌1.8%，汤森路透跌2.8%，Doordash跌4.9%。",
-          "url": "https://wallstreetcn.com/livenews/3106188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "华为轮值董事长徐直军访问东风汽车 启动全面深化战略合作2.0阶段",
-          "url": "https://wallstreetcn.com/livenews/3106383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 5,
       "titles": [
@@ -723,7 +822,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -734,7 +833,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -767,7 +866,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         }
@@ -815,26 +914,78 @@
           "time_info": "[15时42分 ~ 18时51分]"
         },
         {
-          "title": "英媒：黄仁勋访华期间 中国将英伟达游戏晶片列入禁售名单",
-          "url": "https://www.zaochenbao.com/news/china/202605/2072222.html",
-          "source": "早报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
           "title": "英伟达财报倒计时！超预期基本没悬念，但华尔街最关心这五个问题",
           "url": "https://wallstreetcn.com/articles/3772680",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 21时38分]"
+        },
+        {
+          "title": "英媒：黄仁勋访华期间 中国将英伟达游戏晶片列入禁售名单",
+          "url": "https://www.zaochenbao.com/news/china/202605/2072222.html",
+          "source": "早报",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 21时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "风华高科(000636.SZ)：汽车电子、人工智能、储能及低空经济等新兴市场营收占比不超过15%",
+          "url": "https://www.gelonghui.com/news/5237530",
+          "source": "格隆汇",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时51分"
+          "time_info": "21时38分"
+        },
+        {
+          "title": "第四届国际储能大会即将召开 储能行业景气度或持续向好",
+          "url": "https://www.cls.cn/detail/2376117",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "风华高科：公司汽车电子、人工智能、储能及低空经济等新兴市场营收占比不超过15%",
+          "url": "https://wallstreetcn.com/livenews/3106744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "风华高科：公司汽车电子、人工智能、储能及低空经济等新兴市场营收占比不超过15%",
+          "url": "https://flash.jin10.com/detail/20260520205348154800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         }
       ]
     },
@@ -949,7 +1100,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -974,6 +1125,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "新雷能(300593.SZ)：低轨卫星用电源模块系列化产品正在研制中，预计6-7月份陆续发布",
+          "url": "https://www.gelonghui.com/news/5236797",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "中超控股(002471.SZ)：孙公司已为航天科工火箭、上海空间推进研究所等单位提供航天火箭发动机高温合金精密铸件",
+          "url": "https://www.gelonghui.com/news/5236796",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "金螳螂(002081.SZ)：目前仅承接少量商业航天发射场配套工程及数据中心施工项目",
+          "url": "https://www.gelonghui.com/news/5237532",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         }
       ]
     },
@@ -1046,30 +1236,30 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "keyword_group": "液冷",
       "match_count": 2,
       "titles": [
         {
-          "title": "新雷能(300593.SZ)：低轨卫星用电源模块系列化产品正在研制中，预计6-7月份陆续发布",
-          "url": "https://www.gelonghui.com/news/5236797",
-          "source": "格隆汇",
+          "title": "液冷服务器概念逆势活跃 宏盛股份涨停",
+          "url": "https://api3.cls.cn/share/article/2376343?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            1
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
         },
         {
-          "title": "中超控股(002471.SZ)：孙公司已为航天科工火箭、上海空间推进研究所等单位提供航天火箭发动机高温合金精密铸件",
-          "url": "https://www.gelonghui.com/news/5236796",
+          "title": "达实智能(002421.SZ)：不涉及液冷及机器人相关元器件的生产、制造等",
+          "url": "https://www.gelonghui.com/news/5237528",
           "source": "格隆汇",
           "ranks": [
-            2
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "21时38分"
         }
       ]
     },
@@ -1130,40 +1320,6 @@
       ]
     },
     {
-      "keyword_group": "液冷",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "液冷服务器概念逆势活跃 宏盛股份涨停",
-          "url": "https://api3.cls.cn/share/article/2376343?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "第四届国际储能大会即将召开 储能行业景气度或持续向好",
-          "url": "https://www.cls.cn/detail/2376117",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
       "match_count": 1,
       "titles": [
@@ -1177,8 +1333,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时40分 ~ 18时51分]"
+          "appearance_count": 7,
+          "time_info": "[07时40分 ~ 21时38分]"
         }
       ]
     },
