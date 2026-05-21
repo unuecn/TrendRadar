@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T16:32:22.082774+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-05-21T20:14:37.880182+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "英伟达财报倒计时！超预期基本没悬念，但华尔街最关心这五个问题",
@@ -33,24 +33,24 @@
           "time_info": "[00时53分 ~ 08时07分]"
         },
         {
-          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
-          "url": "https://www.cls.cn/detail/2377339",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 16时32分]"
-        },
-        {
           "title": "英伟达Q1营收超预期增85%、指引再新高仍不够亮眼，新增回购800亿且大幅上调股息 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3772760",
           "source": "华尔街见闻",
           "ranks": [
             4,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时07分 ~ 20时14分]"
+        },
+        {
+          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
+          "url": "https://www.cls.cn/detail/2377339",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "英伟达绩后获华尔街集体调高目标价 最高看至400美元",
+          "url": "https://api3.cls.cn/share/article/2378231?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "英伟达美股盘后跌1.8%。",
@@ -167,8 +178,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 20时14分]"
+        },
+        {
+          "title": "京东方A：截至目前公司与英伟达暂未开展业务合作",
+          "url": "https://wallstreetcn.com/livenews/3107413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "摩根大通：将英伟达(NVDA.O)目标价从265美元上调至280美元。",
@@ -180,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "京东方Ａ(000725.SZ)：与英伟达暂未开展业务合作，部分媒体推论缺乏事实依据",
+          "url": "https://www.gelonghui.com/news/5238231",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "英伟达CEO黄仁勋：Vera CPU的独立销售额未包含在Blackwell和Rubin芯片1万亿美元收入的预测中，Vera将成为1万亿美元预测之外最大的销售贡献来源。",
@@ -232,9 +265,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "京东方A：截至目前，公司与英伟达暂未开展业务合作，部分媒体推论缺乏事实依据",
+          "url": "https://flash.jin10.com/detail/20260521195042215800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "英伟达CEO黄仁勋：Vera CPU 200亿美元的预估是针对独立CPU销售额，不包含与Rubin芯片组合销售的情况。",
@@ -276,7 +320,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -452,7 +496,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -493,7 +537,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
@@ -527,6 +571,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 03时25分]"
+        },
+        {
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "报道：OpenAI准备未来数日、或数周递交IPO申请",
@@ -628,6 +683,17 @@
           "time_info": "06时52分"
         },
         {
+          "title": "庭审持续三周 裁定已过时效 马斯克诉OpenAI案遭遇惨败",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/05/21/6e9d21164f274171bf406b2eaef8f315.html",
+          "source": "参考消息",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "据知情人士透露，OpenAI按达到、或超过1万亿美元估值的预期筹备IPO。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3106863",
           "source": "华尔街见闻-快讯",
@@ -637,6 +703,168 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 08时07分]"
+        },
+        {
+          "title": "小米发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "小米YU7GT",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3YU7GT&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "特斯拉公司自2023年开始已经向SpaceX销售价值8.9亿美元的电动汽车和电池。",
+          "url": "https://wallstreetcn.com/livenews/3106967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "小米YU7标准版发布，售价23.35万元起",
+          "url": "https://wallstreetcn.com/livenews/3107410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "黄仁勋：英伟达基本将中国AI晶片市场让给华为",
+          "url": "https://www.zaochenbao.com/news/china/202605/2172280.html",
+          "source": "早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "特斯拉宣布监督版FSD在华启用",
+          "url": "https://www.zaochenbao.com/news/china/202605/2172279.html",
+          "source": "早报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "财联社5月21日电，雷军在小米发布会公布小米 YU7新标准版，售价23.35万元。",
+          "url": "https://api3.cls.cn/share/article/2378213?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "SpaceX申请美国IPO，代码SPCX。 将有两类股票：A类股和B类股。 （首次公开发行股票前）马斯克投票权合计为85.1%，将控制“SpaceX需要股东批准的事项”。 向马斯克授予2亿股业绩挂钩B类股。 特斯拉持有（SpaceX）将近1900万股A类股。 签署收购Cursor的选择权协议。",
+          "url": "https://wallstreetcn.com/livenews/3106924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "美股异动丨监督版FSD入华，特斯拉盘前拉升涨1.6%",
+          "url": "https://www.gelonghui.com/news/5237873",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "小米新SU7首销期锁单8万台",
+          "url": "https://wallstreetcn.com/livenews/3107402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "小米发布首款耳夹式耳机，首销价799元",
+          "url": "https://wallstreetcn.com/livenews/3107398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "小米17 Max发布，售价4799元起",
+          "url": "https://wallstreetcn.com/livenews/3107396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "小米YU7新标准版定价23.35万。",
+          "url": "https://flash.jin10.com/detail/20260521194156560800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         }
       ]
     },
@@ -790,6 +1018,134 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "全国首个面向家庭场景的通用机器人在武汉发布：会做饭、洗衣服、叠衣服，武汉家庭可免费申请",
+          "url": "https://www.cls.cn/detail/2377373",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 16时32分]"
+        },
+        {
+          "title": "全国首个面向家庭场景的通用机器人在武汉发布",
+          "url": "https://api3.cls.cn/share/article/2377364?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "机器人板块持续上涨，机器人ETF涨超2%",
+          "url": "https://www.gelonghui.com/news/5237748",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "凯迪股份(605288.SH)：机器人相关业务已立项，产品仍处于开发阶段",
+          "url": "https://www.gelonghui.com/news/5238235",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "特斯拉最后一批Model S/X车型下线 工厂将转为人型机器人生产线",
+          "url": "https://www.cls.cn/detail/2377717",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：从长远来看，人工智能的经济格局将发生转变，而“第二阵营（Second category）”——这是他对超大规模云服务商（Hyperscalers）之外的 AI 技术应用的全新称呼——规模将会变得庞大得多。 “我同时寄希望于在未来的五年内，物理 AI（Physical AI）与机器人细分领域能够迎来令人难以置信的爆发式增长。”",
+          "url": "https://wallstreetcn.com/livenews/3106957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "【大佬持仓跟踪】人形机器人+无人驾驶，成功研发首代压阻式电子皮肤样品，激光雷达清洗等无人驾驶细分领域实现技术突破，这家公司积极推进5G智能网联驾驶辅助系统业务",
+          "url": "https://api3.cls.cn/share/article/2377646?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "京东与头部机器人应用平台擎天租达成战略合作",
+          "url": "https://wallstreetcn.com/livenews/3107383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "路透调查：三分之一的日本企业正在使用或考虑使用AI机器人。交通运输设备制造商引领日本AI机器人应用热潮。",
+          "url": "https://flash.jin10.com/detail/20260521070434459800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "凯迪股份：公司机器人相关业务已立项，产品仍处于开发阶段",
+          "url": "https://flash.jin10.com/detail/20260521194308051800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC：公司部署业内首款重型机器人，以提升安全性、可靠性与表现。",
+          "url": "https://flash.jin10.com/detail/20260521160529739800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 9,
       "titles": [
@@ -801,8 +1157,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[08时07分 ~ 20时14分]"
         },
         {
           "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
@@ -898,7 +1254,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "英伟达(NVDA.O)CFO：H100 GPU的租赁价格年初至今上涨了20%。",
@@ -931,8 +1287,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 20时14分]"
         },
         {
           "title": "SpaceX：Anthropic将在2029年5月前每月向公司支付12.5亿美元，而2026年5月和6月的算力提升期间将按较低费率计费。",
@@ -944,6 +1300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "深南电路：公司PCB业务受益于AI算力基础设施硬件相关产品需求的增长，工厂产能利用率维持高位",
+          "url": "https://flash.jin10.com/detail/20260521200107725800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "Anthropic将向SpaceX支付近450亿美元以获取算力",
@@ -992,166 +1359,8 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "全国首个面向家庭场景的通用机器人在武汉发布：会做饭、洗衣服、叠衣服，武汉家庭可免费申请",
-          "url": "https://www.cls.cn/detail/2377373",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 16时32分]"
-        },
-        {
-          "title": "全国首个面向家庭场景的通用机器人在武汉发布",
-          "url": "https://api3.cls.cn/share/article/2377364?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "机器人板块持续上涨，机器人ETF涨超2%",
-          "url": "https://www.gelonghui.com/news/5237748",
-          "source": "格隆汇",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：从长远来看，人工智能的经济格局将发生转变，而“第二阵营（Second category）”——这是他对超大规模云服务商（Hyperscalers）之外的 AI 技术应用的全新称呼——规模将会变得庞大得多。 “我同时寄希望于在未来的五年内，物理 AI（Physical AI）与机器人细分领域能够迎来令人难以置信的爆发式增长。”",
-          "url": "https://wallstreetcn.com/livenews/3106957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "【大佬持仓跟踪】人形机器人+无人驾驶，成功研发首代压阻式电子皮肤样品，激光雷达清洗等无人驾驶细分领域实现技术突破，这家公司积极推进5G智能网联驾驶辅助系统业务",
-          "url": "https://api3.cls.cn/share/article/2377646?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "路透调查：三分之一的日本企业正在使用或考虑使用AI机器人。交通运输设备制造商引领日本AI机器人应用热潮。",
-          "url": "https://flash.jin10.com/detail/20260521070434459800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC：公司部署业内首款重型机器人，以提升安全性、可靠性与表现。",
-          "url": "https://flash.jin10.com/detail/20260521160529739800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
-          "url": "https://wallstreetcn.com/articles/3772698",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 08时07分]"
-        },
-        {
-          "title": "特斯拉公司自2023年开始已经向SpaceX销售价值8.9亿美元的电动汽车和电池。",
-          "url": "https://wallstreetcn.com/livenews/3106967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "黄仁勋：英伟达基本将中国AI晶片市场让给华为",
-          "url": "https://www.zaochenbao.com/news/china/202605/2172280.html",
-          "source": "早报",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "特斯拉宣布监督版FSD在华启用",
-          "url": "https://www.zaochenbao.com/news/china/202605/2172279.html",
-          "source": "早报",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "SpaceX申请美国IPO，代码SPCX。 将有两类股票：A类股和B类股。 （首次公开发行股票前）马斯克投票权合计为85.1%，将控制“SpaceX需要股东批准的事项”。 向马斯克授予2亿股业绩挂钩B类股。 特斯拉持有（SpaceX）将近1900万股A类股。 签署收购Cursor的选择权协议。",
-          "url": "https://wallstreetcn.com/livenews/3106924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "美股异动丨监督版FSD入华，特斯拉盘前拉升涨1.6%",
-          "url": "https://www.gelonghui.com/news/5237873",
-          "source": "格隆汇",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -1162,8 +1371,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 20时14分]"
         },
         {
           "title": "截至3月31日，SpaceX在近地轨道上拥有约9600颗星链宽带和移动通信卫星。",
@@ -1183,9 +1392,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "中邮科技(688648.SH)：国华卫星拟减持不超2.7525%股份",
+          "url": "https://www.gelonghui.com/news/5238232",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "SpaceX一季度营收46.9亿美元，（运营）净亏损42.8亿美元。 一季度调整后EBITDA为11.3亿美元。 一季度资本开支101.1亿美元，其中AI资本开支77.2亿美元。 2025年营收113.9亿美元，运营净利润44.2亿美元。 2025年资本支出207.4亿美元，其中AI资本开支127.3亿美元。 星链（Starlink）拥有大约1030万用户。 至3月31日，大约9600颗卫星在近地点轨道运行。 Grok和X等AI平台活跃账户超过13亿。",
@@ -1311,7 +1531,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
@@ -1348,6 +1568,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 00时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "量子科技 量子计算 量子通信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "核谈判僵持，油价攀升，美股涨势受阻，量子计算股盘前拉升，美债震荡",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         }
       ]
     },
