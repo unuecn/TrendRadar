@@ -1,61 +1,11 @@
 {
-  "generated_at": "2026-05-22T01:58:07.654346+08:00",
-  "total_titles_processed": 227,
+  "generated_at": "2026-05-22T03:58:48.047014+08:00",
+  "total_titles_processed": 300,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
-        },
-        {
-          "title": "LME期铜收跌140美元，报13516美元/吨。 LME期铝收涨14美元，报3637美元/吨。 LME期锌收跌33美元，报3522美元/吨。 LME期铅收涨25美元，报2004美元/吨。 LME期镍收跌202美元，报18727美元/吨。 LME期锡收跌786美元，报53248美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3107563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.79%，暂报2735.65点。 MarketVectorTM数字资产100中盘指数涨0.51%，报3005.80点。 MarketVector数字资产100指数跌0.27%，报15166.54点。 目前，Solana跌0.05%，狗狗币持平，XRP跌0.97%。 比特币跌0.72%，暂报76964.96美元；以太坊跌0.64%，暂报2122.45美元。",
-          "url": "https://wallstreetcn.com/livenews/3107559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "美国总统特朗普声称，可能要退还总值1490亿美元的关税，会用不同的方式征收关税。 目前，标普跌0.3%，纳指跌0.4%，半导体指数涨0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3107549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "不小心把DeepSeek叫成豆包",
@@ -65,8 +15,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时58分]"
+        },
+        {
+          "title": "庭审持续三周 裁定已过时效 马斯克诉OpenAI案遭遇惨败",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/05/21/6e9d21164f274171bf406b2eaef8f315.html",
+          "source": "参考消息",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时58分]"
         },
         {
           "title": "财联社5月22日电，OpenAI称，AdventHealth正在部署Chatgpt以减轻行政负担，并优化其系统内的临床工作流程。",
@@ -91,61 +52,88 @@
           "time_info": "[01时57分 ~ 01时58分]"
         },
         {
-          "title": "庭审持续三周 裁定已过时效 马斯克诉OpenAI案遭遇惨败",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/05/21/6e9d21164f274171bf406b2eaef8f315.html",
-          "source": "参考消息",
+          "title": "财联社5月22日电，据报道，Anthropic预计第二季度收入将翻倍至110亿美元，预计利润为6亿美元；年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
+          "url": "https://api3.cls.cn/share/article/2378459?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            18
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股午后集体下探，三大股指均跌超2%，京东方逆势涨停，芯片、算力全面下挫，恒科指跌超2%，科网股杀跌",
-          "url": "https://wallstreetcn.com/articles/3772781",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时58分"
         },
         {
-          "title": "算力爆发倒逼电力系统重构 算电协同从“寄生”到“共生”“新生”",
-          "url": "https://www.cls.cn/detail/2378232",
-          "source": "财联社热门",
+          "title": "财联社5月22日电，据报道，OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic 10亿美元。",
+          "url": "https://api3.cls.cn/share/article/2378457?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
           "ranks": [
-            10
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时58分"
         },
         {
-          "title": "格隆汇公告精选︱珀莱雅：拟3.51亿元收购花知晓12.55%股权 实现控股并表；威龙股份：无注入“算力”计划",
-          "url": "https://www.gelonghui.com/news/5238324",
-          "source": "格隆汇",
+          "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
+          "url": "https://flash.jin10.com/detail/20260522022949905800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时58分"
+        },
+        {
+          "title": "据The Information：OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic 10亿美元",
+          "url": "https://flash.jin10.com/detail/20260522022849271800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时58分"
+        },
+        {
+          "title": "报道：OpenAI在第一季度创造57亿美元收入",
+          "url": "https://wallstreetcn.com/livenews/3107589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时58分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "财联社5月22日电，消息人士称，据内部消息，星巴克终止旨在解决产品短缺的人工智能项目。",
+          "url": "https://api3.cls.cn/share/article/2378463?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时58分"
+        },
+        {
+          "title": "消息人士：内部消息称，星巴克终止旨在解决产品短缺的人工智能项目。",
+          "url": "https://flash.jin10.com/detail/20260522025524231800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时58分"
+        },
         {
           "title": "美联储巴尔金：我不相信人工智能对就业的净影响会是负面的，但过渡期可能会很困难。",
           "url": "https://flash.jin10.com/detail/20260522005058018800",
@@ -169,21 +157,43 @@
           "time_info": "[01时57分 ~ 01时58分]"
         },
         {
+          "title": "美联储巴尔金：就人工智能的短期与长期影响得出结论很困难。",
+          "url": "https://flash.jin10.com/detail/20260522020549910800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时58分"
+        },
+        {
           "title": "美国总统特朗普：我推迟了人工智能（AI）行政命令签字仪式的会议。 不喜欢行政命令中的某些内容。 AI行政命令可能会妨碍美国在AI领域保持领先地位。",
           "url": "https://wallstreetcn.com/livenews/3107551",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "美联储巴尔金：软件行业以外的雇主尚未因人工智能减少员工人数。",
+          "url": "https://flash.jin10.com/detail/20260522020424744800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时58分"
         }
       ]
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "雷军说输给特斯拉不丢人",
@@ -193,26 +203,150 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时58分]"
         },
         {
           "title": "小米YU7GT价格",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3YU7GT%E4%BB%B7%E6%A0%BC&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时58分]"
         },
         {
           "title": "小米耳夹式耳机849元",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%80%B3%E5%A4%B9%E5%BC%8F%E8%80%B3%E6%9C%BA849%E5%85%83%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时58分]"
+        },
+        {
+          "title": "小米YU7GT",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3YU7GT&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时58分"
+        },
+        {
+          "title": "小米YU7首战ModelY八败两胜",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3YU7%E9%A6%96%E6%88%98ModelY%E5%85%AB%E8%B4%A5%E4%B8%A4%E8%83%9C%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时58分"
+        },
+        {
+          "title": "小米17Max真香",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Max%E7%9C%9F%E9%A6%99%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时58分]"
+        },
+        {
+          "title": "LME期铜收跌140美元，报13516美元/吨。 LME期铝收涨14美元，报3637美元/吨。 LME期锌收跌33美元，报3522美元/吨。 LME期铅收涨25美元，报2004美元/吨。 LME期镍收跌202美元，报18727美元/吨。 LME期锡收跌786美元，报53248美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3107563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.79%，暂报2735.65点。 MarketVectorTM数字资产100中盘指数涨0.51%，报3005.80点。 MarketVector数字资产100指数跌0.27%，报15166.54点。 目前，Solana跌0.05%，狗狗币持平，XRP跌0.97%。 比特币跌0.72%，暂报76964.96美元；以太坊跌0.64%，暂报2122.45美元。",
+          "url": "https://wallstreetcn.com/livenews/3107559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "美国总统特朗普声称，可能要退还总值1490亿美元的关税，会用不同的方式征收关税。 目前，标普跌0.3%，纳指跌0.4%，半导体指数涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3107549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "算力爆发倒逼电力系统重构 算电协同从“寄生”到“共生”“新生”",
+          "url": "https://www.cls.cn/detail/2378232",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时58分]"
+        },
+        {
+          "title": "格隆汇公告精选︱珀莱雅：拟3.51亿元收购花知晓12.55%股权 实现控股并表；威龙股份：无注入“算力”计划",
+          "url": "https://www.gelonghui.com/news/5238324",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时58分]"
+        },
+        {
+          "title": "A股午后集体下探，三大股指均跌超2%，京东方逆势涨停，芯片、算力全面下挫，恒科指跌超2%，科网股杀跌",
+          "url": "https://wallstreetcn.com/articles/3772781",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -232,8 +366,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时58分]"
         },
         {
           "title": "英伟达电话会：需求在加速，Vera Rubin全周期供应受限，独立CPU业务解锁2000亿美元市场",
@@ -243,8 +377,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时58分]"
         },
         {
           "title": "星舰V3首飞进入倒计时 英伟达财报亮眼走势平平 | 今夜看点",
@@ -254,8 +388,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时58分]"
         }
       ]
     },
@@ -271,8 +405,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时58分]"
         },
         {
           "title": "据伊朗劳工通讯社（ILNA）援引阿拉伯卫星电视台消息，在巴基斯坦斡旋下，美伊协议的最终草案已经达成，预计将在未来数小时内公布。",
@@ -299,8 +433,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时58分]"
         }
       ]
     },
@@ -313,11 +447,12 @@
           "url": "https://wallstreetcn.com/livenews/3107576",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时58分]"
         }
       ]
     }
