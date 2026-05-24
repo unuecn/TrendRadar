@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T09:32:18.562532+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-05-24T14:02:27.358003+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 09时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 14时02分]"
         },
         {
           "title": "山西煤矿事故现场机器人参与搜救",
           "url": "https://wallstreetcn.com/livenews/3108437",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 14时02分]"
         },
         {
           "title": "四足机器人领域再迎新锐，杭州云深处山猫S10亮相",
@@ -48,7 +49,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         },
@@ -59,7 +60,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         }
@@ -79,8 +80,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 09时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 14时02分]"
         },
         {
           "title": "中际旭创(300308)：全球光模块龙头 AI算力驱动业绩高增",
@@ -90,19 +91,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时34分 ~ 09时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时34分 ~ 14时02分]"
         },
         {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
           "url": "https://wallstreetcn.com/articles/3772969",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 14时02分]"
         },
         {
           "title": "AI光算力第一股上市首日暴涨380%",
@@ -143,11 +145,12 @@
           "ranks": [
             18,
             14,
-            17
+            17,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时34分 ~ 09时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时34分 ~ 14时02分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -169,11 +172,51 @@
           "url": "https://www.cls.cn/detail/2379922",
           "source": "财联社热门",
           "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 14时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特斯拉中国将FSD更名为特斯拉辅助驾驶",
+          "url": "https://api3.cls.cn/share/article/2380001?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
+          "url": "https://wallstreetcn.com/livenews/3108454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时32分"
+          "time_info": "14时02分"
+        },
+        {
+          "title": "雷军透露小米下一步规划",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E9%80%8F%E9%9C%B2%E5%B0%8F%E7%B1%B3%E4%B8%8B%E4%B8%80%E6%AD%A5%E8%A7%84%E5%88%92%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     },
@@ -225,26 +268,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "雷军透露小米下一步规划",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E9%80%8F%E9%9C%B2%E5%B0%8F%E7%B1%B3%E4%B8%8B%E4%B8%80%E6%AD%A5%E8%A7%84%E5%88%92%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "09时32分"
         }
       ]
     },
