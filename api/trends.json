@@ -1,11 +1,73 @@
 {
-  "generated_at": "2026-05-24T07:31:04.109569+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-05-24T09:32:18.562532+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "机器人行业资本化加速：一二级市场同步活跃 头部公司量产节奏渐清晰",
+          "url": "https://www.cls.cn/detail/2378982",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 09时32分]"
+        },
+        {
+          "title": "山西煤矿事故现场机器人参与搜救",
+          "url": "https://wallstreetcn.com/livenews/3108437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "四足机器人领域再迎新锐，杭州云深处山猫S10亮相",
+          "url": "https://wallstreetcn.com/livenews/3108374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时34分]"
+        },
+        {
+          "title": "全国首个人形机器人全生命周期管理服务平台发布",
+          "url": "https://api3.cls.cn/share/article/2379933?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "留神峪煤矿救援侦测机器人下井",
+          "url": "https://api3.cls.cn/share/article/2379928?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "算力巨头超聚变闯关创业板，80亿募资要下怎样一盘棋？",
@@ -17,8 +79,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 09时32分]"
         },
         {
           "title": "中际旭创(300308)：全球光模块龙头 AI算力驱动业绩高增",
@@ -28,8 +90,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时31分]"
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 09时32分]"
+        },
+        {
+          "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
+          "url": "https://wallstreetcn.com/articles/3772969",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
         },
         {
           "title": "AI光算力第一股上市首日暴涨380%",
@@ -46,7 +119,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -56,11 +129,25 @@
             9,
             8,
             7,
-            6
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 09时32分]"
+        },
+        {
+          "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33220418",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            17
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时31分]"
+          "time_info": "[01时34分 ~ 09时32分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -78,45 +165,15 @@
           "time_info": "[00时02分 ~ 07时31分]"
         },
         {
-          "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33220418",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "机器人行业资本化加速：一二级市场同步活跃 头部公司量产节奏渐清晰",
-          "url": "https://www.cls.cn/detail/2378982",
+          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2379922",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
+            6
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 07时31分]"
-        },
-        {
-          "title": "四足机器人领域再迎新锐，杭州云深处山猫S10亮相",
-          "url": "https://wallstreetcn.com/livenews/3108374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
         }
       ]
     },
@@ -152,8 +209,25 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 09时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国空间站将首次开展钙钛矿电池动态服役实验",
+          "url": "https://api3.cls.cn/share/article/2379938?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
         }
       ]
     },
@@ -186,8 +260,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 09时32分]"
         }
       ]
     }
