@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T11:29:19.590981+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-05-26T15:02:21.666065+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "华为正式发表“韬（τ）定律”！今秋面世的麒麟手机芯片性能将大幅提升",
@@ -72,7 +72,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -83,9 +83,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "受华为消息提振 中国半导体股在香港走高",
+          "url": "https://www.zaochenbao.com/news/hkMacao/202605/2672646.html",
+          "source": "早报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "财联社5月26日电，据特斯拉公众号消息，特斯拉超级充电卡现已向非特斯拉车主开放。",
@@ -94,7 +105,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         }
@@ -102,7 +113,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
@@ -137,9 +148,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "人形机器人第一股大考在即，谁是宇树科技IPO背后的超级赢家？",
+          "url": "https://www.cls.cn/detail/2381451",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "财联社5月26日电，xAI表示，旗下聊天机器人Grok现已面向所有SuperGrok和X Premium+用户开放测试版。",
@@ -159,11 +181,12 @@
           "url": "https://ckxxapp.ckxx.net/pages/2026/05/26/cdc3cfcf898d4e128d414de125a0b5f3.html",
           "source": "参考消息",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 15时02分]"
         },
         {
           "title": "机器人概念股逆势活跃，首开股份触及涨停，长盛轴承、中大力德、金发科技、上纬新材、三瑞智能涨超6%，据上交所上市委消息，宇树科技科创板IPO将于6月1日上会，拟募资42.02亿元。",
@@ -172,7 +195,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -183,7 +206,46 @@
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中贝通信：公司各项算力项目均在稳步推进 供应商变动不会产生实质性不利影响",
+          "url": "https://flash.jin10.com/detail/20260526143454370800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "算力租赁，遭传闻突袭！上市公司回应",
+          "url": "https://flash.jin10.com/detail/20260526135617609800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "A股算力概念股震荡下挫，大位科技、华升股份触及跌停，行云科技跌近10%，紫光股份、直真科技、鸿博股份跌逾6%。",
+          "url": "https://wallstreetcn.com/livenews/3109122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         }
@@ -231,6 +293,45 @@
       ]
     },
     {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国信通院牵头完成首个ITU-R 6G卫星技术趋势报告书",
+          "url": "https://api3.cls.cn/share/article/2381541?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "A股商业航天板块震荡走弱，航天动力触及跌停，西部材料跌近8%，信维通信、航宇微跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3109215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "中国信通院牵头完成首个ITU-R 6G卫星技术趋势报告书",
+          "url": "https://flash.jin10.com/detail/20260526141009909800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "液冷",
       "match_count": 2,
       "titles": [
@@ -260,6 +361,62 @@
       ]
     },
     {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "存储散热新技术！SK海力士发布iHBM冷却方案 可降低热阻超30%",
+          "url": "https://www.cls.cn/detail/2381297",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "沪指跌超1%，深证成指跌1.16%，创业板指跌0.81%，光纤概念、存储芯片板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260526110455969800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "财联社5月26日电，碳酸锂期货主力合约日内跌4%，现报175960元。",
+          "url": "https://api3.cls.cn/share/article/2381542?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报179700元/吨，较上日16:30价格下跌300元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3109141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 1,
       "titles": [
@@ -274,40 +431,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 06时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股算力概念股震荡下挫，大位科技、华升股份触及跌停，行云科技跌近10%，紫光股份、直真科技、鸿博股份跌逾6%。",
-          "url": "https://wallstreetcn.com/livenews/3109122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "沪指跌超1%，深证成指跌1.16%，创业板指跌0.81%，光纤概念、存储芯片板块跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260526110455969800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
         }
       ]
     },
@@ -365,19 +488,19 @@
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
       "match_count": 1,
       "titles": [
         {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报179700元/吨，较上日16:30价格下跌300元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3109141",
-          "source": "华尔街见闻-快讯",
+          "title": "研报掘金丨华安证券：维持万润股份“买入”评级，新材料项目多点布局助力成长",
+          "url": "https://www.gelonghui.com/news/5240029",
+          "source": "格隆汇",
           "ranks": [
-            18
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "15时02分"
         }
       ]
     },
@@ -390,11 +513,12 @@
           "url": "https://wallstreetcn.com/articles/3773021",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 11时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 15时02分]"
         }
       ]
     },
