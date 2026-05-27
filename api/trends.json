@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T07:10:33.890604+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-05-27T09:35:03.904876+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "雷军回应武契奇说小米车漂亮但买不起",
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             12,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 07时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时35分]"
         },
         {
           "title": "小米Q1营收991亿元超预期，宣布200亿港元新回购计划｜财报见闻",
@@ -29,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 07时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时35分]"
         },
         {
           "title": "马斯克据悉曾与同事讨论SpaceX与特斯拉合并事宜",
@@ -68,6 +69,18 @@
           "time_info": "[05时45分 ~ 07时10分]"
         },
         {
+          "title": "小米电话会：内存成本短期难降，“做最后涨价、涨幅最小的企业”",
+          "url": "https://wallstreetcn.com/articles/3773158",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时45分 ~ 09时35分]"
+        },
+        {
           "title": "报道：马斯克曾与同事讨论SpaceX与特斯拉合并事宜",
           "url": "https://wallstreetcn.com/livenews/3109659",
           "source": "华尔街见闻-快讯",
@@ -93,16 +106,15 @@
           "time_info": "[03时34分 ~ 07时10分]"
         },
         {
-          "title": "小米电话会：内存成本短期难降，“做最后涨价、涨幅最小的企业”",
-          "url": "https://wallstreetcn.com/articles/3773158",
-          "source": "华尔街见闻",
+          "title": "小米MiMo模型API降价",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3MiMo%E6%A8%A1%E5%9E%8BAPI%E9%99%8D%E4%BB%B7%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            8
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时45分 ~ 07时10分]"
+          "time_info": "[09时34分 ~ 09时35分]"
         },
         {
           "title": "周三你需要知道的隔夜全球要闻：美光跻身万亿美元市值俱乐部；马斯克据悉曾讨论SpaceX与特斯拉合并事宜；NASA公布月球基地建设路线图",
@@ -111,7 +123,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -122,7 +134,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         }
@@ -130,19 +142,8 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "【研选•研报数据】特斯拉Optimus试生产线首曝光，国内机器人资本化进程明显提速；公司聚焦以碳纤维为核心的新质生产力，涵盖航空航天及军工、低空飞行、汽车和轨道交通轻量化、新型建材等四大产业",
-          "url": "https://api3.cls.cn/share/article/2381301?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
         {
           "title": "美媒近观中国人形机器人职业培训",
           "url": "https://ckxxapp.ckxx.net/pages/2026/05/26/cdc3cfcf898d4e128d414de125a0b5f3.html",
@@ -151,8 +152,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 07时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时35分]"
+        },
+        {
+          "title": "【研选•研报数据】特斯拉Optimus试生产线首曝光，国内机器人资本化进程明显提速；公司聚焦以碳纤维为核心的新质生产力，涵盖航空航天及军工、低空飞行、汽车和轨道交通轻量化、新型建材等四大产业",
+          "url": "https://api3.cls.cn/share/article/2381301?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         },
         {
           "title": "Figure AI Inc.与Catalyst Brands围绕扫描人形机器人运行情况达成协议。 这次合作在Catalyst旗下Reno分发物流中心启动。",
@@ -208,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "中信建投：机器人是AI最好的物理载体之一，看好板块行情演绎",
+          "url": "https://wallstreetcn.com/livenews/3109694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时35分"
         }
       ]
     },
@@ -284,6 +307,57 @@
       ]
     },
     {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "存储芯片概念大幅高开 北京君正涨超15%",
+          "url": "https://api3.cls.cn/share/article/2382420?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 09时35分]"
+        },
+        {
+          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
+          "url": "https://www.cls.cn/detail/2382303",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 09时35分]"
+        },
+        {
+          "title": "A股开盘，上证指数跌0.16%，深证成指跌0.05%，创业板指涨0.26%。培育钻石、无人零售、煤炭概念跌幅居前；存储芯片、短剧游戏、减肥药板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260527092518656800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 09时35分]"
+        },
+        {
+          "title": "第一大股东近期累计减持633万股 3700亿存储芯片龙头发布异动公告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2382076",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时10分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 4,
       "titles": [
@@ -300,6 +374,18 @@
           "time_info": "[01时26分 ~ 03时34分]"
         },
         {
+          "title": "SpaceX上市消息带飞太空板块 火箭与卫星概念股集体暴涨",
+          "url": "https://www.cls.cn/detail/2382242",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时10分 ~ 09时35分]"
+        },
+        {
           "title": "我国成功发射通信技术试验卫星二十四号",
           "url": "https://flash.jin10.com/detail/20260527010051419800",
           "source": "金十数据",
@@ -311,17 +397,6 @@
           "time_info": "[01时26分 ~ 01时27分]"
         },
         {
-          "title": "SpaceX上市消息带飞太空板块 火箭与卫星概念股集体暴涨",
-          "url": "https://www.cls.cn/detail/2382242",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
           "title": "我国成功发射通信技术试验卫星二十四号",
           "url": "https://wallstreetcn.com/livenews/3109585",
           "source": "华尔街见闻-快讯",
@@ -331,6 +406,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "财联社5月27日电，英伟达官网显示，在最新的Phoronix基准测试中，Vera CPU在为代理式AI提供的性能和内存表现方面取得了领先成果。",
+          "url": "https://api3.cls.cn/share/article/2382277?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "台积电股价屡创新高 中国台湾股市跃升至全球第五大市场",
+          "url": "https://www.cls.cn/detail/2381765",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 05时45分]"
+        },
+        {
+          "title": "报道：台积电3纳米代工价下半年看涨15%，明年恐再调升",
+          "url": "https://wallstreetcn.com/livenews/3109697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "智谱等在上海成立人工智能产业创投合伙企业",
+          "url": "https://wallstreetcn.com/livenews/3109717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        },
+        {
+          "title": "特朗普任命美前司法部长邦迪加入白宫人工智能顾问委员会",
+          "url": "https://wallstreetcn.com/livenews/3109715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时35分"
         }
       ]
     },
@@ -359,34 +501,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "财联社5月27日电，英伟达官网显示，在最新的Phoronix基准测试中，Vera CPU在为代理式AI提供的性能和内存表现方面取得了领先成果。",
-          "url": "https://api3.cls.cn/share/article/2382277?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "台积电股价屡创新高 中国台湾股市跃升至全球第五大市场",
-          "url": "https://www.cls.cn/detail/2381765",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 05时45分]"
         }
       ]
     },
@@ -421,20 +535,70 @@
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "keyword_group": "金价 黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "第一大股东近期累计减持633万股 3700亿存储芯片龙头发布异动公告|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2382076",
-          "source": "财联社热门",
+          "title": "上海黄金交易所黄金T+D 5月27日（周三）早盘盘初下跌0.62%报987.9元/克；<br/>上海黄金交易所白银T+D 5月27日（周三）早盘盘初上涨0.57%报18773.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260527090147613800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            10
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 07时10分]"
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 09时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【盘中宝】“AI算力需求激增+供给持续受限”背景下，该行业正进入超级景气周期与盈利重估阶段，有企业产能几乎售罄，这家企业先进项目进展顺利",
+          "url": "https://api3.cls.cn/share/article/2382417?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 09时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "郑州“十五五”规划纲要：推动氢能“制运储加用”一体发展 支持固态电池、钠离子电池等技术突破和产业化",
+          "url": "https://api3.cls.cn/share/article/2382412?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 09时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢能 质子交换膜 IV型储氢瓶 甲醇重整制氢",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国富氢能(02582.HK)签综合能源解决方案协议，切入海外数据中心供电业务",
+          "url": "https://www.gelonghui.com/news/5240699",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 09时35分]"
         }
       ]
     },
@@ -449,9 +613,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "早盘开盘，国内期货主力合约涨跌不一。鸡蛋涨超2%，尿素、沪镍、氧化铝、燃料油、低硫燃料油（LU）、沥青、丙烯涨超1%，跌幅方面，碳酸锂、焦炭跌超2%，焦煤、多晶硅跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260527090002153800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 09时35分]"
         }
       ]
     },
