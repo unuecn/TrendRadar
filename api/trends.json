@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T19:41:37.666669+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-05-28T23:53:29.358177+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【焦点复盘】科创50冲高回落跌2.8%，机器人概念遭重挫，夏季用电高峰引爆电力股",
@@ -77,6 +77,17 @@
           "time_info": "[15时57分 ~ 19时41分]"
         },
         {
+          "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
+          "url": "https://wallstreetcn.com/articles/3773322",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "财联社5月28日电，Meta股价涨幅扩大至2.7%，公司将推出AI聊天机器人订阅服务。",
           "url": "https://api3.cls.cn/share/article/2383481?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -124,7 +135,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "Snowflake(SNOW.N)：客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。",
@@ -164,11 +175,12 @@
           "url": "https://www.cls.cn/detail/2384415",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 23时53分]"
         },
         {
           "title": "美联储理事库克：人工智能可能增强金融稳定性，但其对网络安全的影响尚不明确。",
@@ -180,6 +192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "润建股份战略签约中国—东盟人工智能应用合作中心 将围绕Token服务等方向开展深度合作",
+          "url": "https://flash.jin10.com/detail/20260528225449373800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "美联储理事库克：对经济增长持乐观态度，预计人工智能将提升生产力。",
@@ -221,9 +244,117 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "何庭波三分钟详解华为韬（τ）定律：芯片发展有了加速度，未来10年我们不会越来越远，只会越来越好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33249817",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时32分 ~ 23时53分]"
+        },
+        {
+          "title": "华为公司董事、半导体业务部总裁何庭波：华为比同行更早遇到这堵“墙”",
+          "url": "https://www.cls.cn/detail/2383556",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 15时57分]"
+        },
+        {
+          "title": "【风口研报·行业】华为“韬（τ）定律”用3D堆叠换性能，分析师认为功耗大幅提升驱动散热方案迭代升级，这些公司深耕主动散热有望受益",
+          "url": "https://api3.cls.cn/share/article/2383788?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "5月28日投资避雷针：雄韬股份公告 华为发表了韬（τ）定律与公司业务不存在关联",
+          "url": "https://www.cls.cn/detail/2383572",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 15时57分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，蔚来初步收涨9.3%，小马智行涨4.5%，百度涨2.5%，小鹏、理想、腾讯至多地萼%，阿里巴巴跌1.2%，比亚迪跌2.1%，小米跌6.1%。",
+          "url": "https://wallstreetcn.com/livenews/3110245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "人民日报专访何庭波：华为比同行更早遇到这堵“墙”",
+          "url": "https://wallstreetcn.com/articles/3773296",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "小米超大众丰田成全球新能源第七",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%B6%85%E5%A4%A7%E4%BC%97%E4%B8%B0%E7%94%B0%E6%88%90%E5%85%A8%E7%90%83%E6%96%B0%E8%83%BD%E6%BA%90%E7%AC%AC%E4%B8%83%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "小米汽车：明天小米YU7 GT正式开启交付",
+          "url": "https://wallstreetcn.com/livenews/3110829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "小米汽车：明天小米YU7 GT正式开启交付",
+          "url": "https://flash.jin10.com/detail/20260528224911483800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     },
@@ -261,20 +392,33 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 23时53分]"
+        },
+        {
+          "title": "午后反转！创业板涨2%，算力硬件大爆发，“易中天”齐创新高，恒指跌超1%，科网股集体低迷",
+          "url": "https://wallstreetcn.com/articles/3773302",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 23时53分]"
         },
         {
           "title": "阿里达摩院首次发布GPU版本求解器 突破亿级变量“不可解”难题",
           "url": "https://www.cls.cn/detail/2384059",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 23时53分]"
         },
         {
           "title": "禾盛新材：拟定增募资不超过1.9亿元，用于国产智能算力中心建设项目、补充流动资金。",
@@ -283,18 +427,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "午后反转！创业板涨2%，算力硬件大爆发，“易中天”齐创新高，恒指跌超1%，科网股集体低迷",
-          "url": "https://wallstreetcn.com/articles/3773302",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -316,7 +449,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         }
@@ -324,8 +457,20 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 23时53分]"
+        },
         {
           "title": "\"DeepSeek崩了\"冲上热搜 当前已恢复",
           "url": "https://api3.cls.cn/share/article/2384112?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -334,19 +479,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 19时41分]"
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 23时53分]"
         },
         {
-          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
-          "url": "https://wallstreetcn.com/articles/3773316",
-          "source": "华尔街见闻",
+          "title": "美股异动丨Nebius涨近11%，前OpenAI研究员旗下对冲基金披露持有5.6%股份",
+          "url": "https://www.gelonghui.com/news/5242113",
+          "source": "格隆汇",
           "ranks": [
-            8
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "23时53分"
         },
         {
           "title": "DeepSeek网页及API服务中断",
@@ -391,80 +536,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "华为公司董事、半导体业务部总裁何庭波：华为比同行更早遇到这堵“墙”",
-          "url": "https://www.cls.cn/detail/2383556",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 15时57分]"
-        },
-        {
-          "title": "【风口研报·行业】华为“韬（τ）定律”用3D堆叠换性能，分析师认为功耗大幅提升驱动散热方案迭代升级，这些公司深耕主动散热有望受益",
-          "url": "https://api3.cls.cn/share/article/2383788?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "何庭波三分钟详解华为韬（τ）定律：芯片发展有了加速度，未来10年我们不会越来越远，只会越来越好",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33249817",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 19时41分]"
-        },
-        {
-          "title": "5月28日投资避雷针：雄韬股份公告 华为发表了韬（τ）定律与公司业务不存在关联",
-          "url": "https://www.cls.cn/detail/2383572",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 15时57分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，蔚来初步收涨9.3%，小马智行涨4.5%，百度涨2.5%，小鹏、理想、腾讯至多地萼%，阿里巴巴跌1.2%，比亚迪跌2.1%，小米跌6.1%。",
-          "url": "https://wallstreetcn.com/livenews/3110245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "小米超大众丰田成全球新能源第七",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%B6%85%E5%A4%A7%E4%BC%97%E4%B8%B0%E7%94%B0%E6%88%90%E5%85%A8%E7%90%83%E6%96%B0%E8%83%BD%E6%BA%90%E7%AC%AC%E4%B8%83%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
         }
       ]
     },
@@ -562,7 +633,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         }
@@ -725,11 +796,12 @@
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 23时53分]"
         }
       ]
     },
@@ -765,6 +837,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
+          "url": "https://www.cls.cn/detail/2384655",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     }
