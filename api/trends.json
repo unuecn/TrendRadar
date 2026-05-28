@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T15:57:43.002352+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-05-28T19:41:37.666669+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
@@ -65,6 +65,18 @@
           "time_info": "[04时15分 ~ 07时45分]"
         },
         {
+          "title": "美国年轻人街头围攻外卖机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E5%9B%B4%E6%94%BB%E5%A4%96%E5%8D%96%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 19时41分]"
+        },
+        {
           "title": "财联社5月28日电，Meta股价涨幅扩大至2.7%，公司将推出AI聊天机器人订阅服务。",
           "url": "https://api3.cls.cn/share/article/2383481?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "财联社电报",
@@ -93,18 +105,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "美国年轻人街头围攻外卖机器人",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E5%9B%B4%E6%94%BB%E5%A4%96%E5%8D%96%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -123,7 +124,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "Snowflake(SNOW.N)：客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。",
@@ -157,6 +158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "两部门联手 系统布局人工智能计量能力建设",
+          "url": "https://www.cls.cn/detail/2384415",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "美联储理事库克：人工智能可能增强金融稳定性，但其对网络安全的影响尚不明确。",
@@ -201,6 +213,184 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "两部门联手 系统布局人工智能计量能力建设",
+          "url": "https://wallstreetcn.com/livenews/3110675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "韩国AI芯片初创企业FuriosaAI宣布与博通(AVGO.O)建立战略合作伙伴关系，共同开发其第三代人工智能加速器。",
+          "url": "https://flash.jin10.com/detail/20260528073830727800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "财联社5月28日电，算力租赁商Nebius盘后股价跳涨15%。",
+          "url": "https://api3.cls.cn/share/article/2383509?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时45分]"
+        },
+        {
+          "title": "仅差1个涨停！“算力新贵”市值剑指茅台，板块均价位次更迭，这些行业紧追白酒",
+          "url": "https://www.cls.cn/detail/2384298",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "阿里达摩院首次发布GPU版本求解器 突破亿级变量“不可解”难题",
+          "url": "https://www.cls.cn/detail/2384059",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "禾盛新材：拟定增募资不超过1.9亿元，用于国产智能算力中心建设项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3110705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "午后反转！创业板涨2%，算力硬件大爆发，“易中天”齐创新高，恒指跌超1%，科网股集体低迷",
+          "url": "https://wallstreetcn.com/articles/3773302",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "A股收盘：创业板指探底回升涨近2%，算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3110543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "合锻智能：公司主营业务为高端成形机床和智能光电分选设备，不涉及AI算力业务。针对近期市场关注较高的核聚变概念，公司未取得相关业务收入。",
+          "url": "https://wallstreetcn.com/livenews/3110681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "\"DeepSeek崩了\"冲上热搜 当前已恢复",
+          "url": "https://api3.cls.cn/share/article/2384112?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 19时41分]"
+        },
+        {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "DeepSeek网页及API服务中断",
+          "url": "https://api3.cls.cn/share/article/2383756?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "\"DeepSeek崩了\"冲上热搜，当前已恢复",
+          "url": "https://wallstreetcn.com/livenews/3110550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "DeepSeek网页及API服务中断",
+          "url": "https://flash.jin10.com/detail/20260528105210417800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     },
@@ -239,8 +429,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 15时57分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 19时41分]"
         },
         {
           "title": "5月28日投资避雷针：雄韬股份公告 华为发表了韬（τ）定律与公司业务不存在关联",
@@ -272,70 +462,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "DeepSeek网页及API服务中断",
-          "url": "https://api3.cls.cn/share/article/2383756?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "DeepSeek崩了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "\"DeepSeek崩了\"冲上热搜，当前已恢复",
-          "url": "https://wallstreetcn.com/livenews/3110550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "15时57分"
-        },
-        {
-          "title": "\"DeepSeek崩了\"冲上热搜 当前已恢复",
-          "url": "https://api3.cls.cn/share/article/2384112?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "DeepSeek网页及API服务中断",
-          "url": "https://flash.jin10.com/detail/20260528105210417800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
         }
       ]
     },
@@ -390,42 +519,52 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 4,
       "titles": [
         {
-          "title": "韩国AI芯片初创企业FuriosaAI宣布与博通(AVGO.O)建立战略合作伙伴关系，共同开发其第三代人工智能加速器。",
-          "url": "https://flash.jin10.com/detail/20260528073830727800",
-          "source": "金十数据",
+          "title": "【数据看盘】多路资金激烈博弈华天科技，量化资金联手游资抢筹光伏人气股",
+          "url": "https://www.cls.cn/detail/2383044",
+          "source": "财联社热门",
           "ranks": [
-            1
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 06时17分]"
+        },
+        {
+          "title": "分析人士：锂矿、锂盐或迎中长期“供需紧平衡”",
+          "url": "https://wallstreetcn.com/livenews/3110296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
         {
-          "title": "财联社5月28日电，算力租赁商Nebius盘后股价跳涨15%。",
-          "url": "https://api3.cls.cn/share/article/2383509?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
+          "title": "分析人士：锂矿、锂盐或迎中长期“供需紧平衡”",
+          "url": "https://flash.jin10.com/detail/20260528071237123800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            16
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时45分]"
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
-          "title": "A股收盘：创业板指探底回升涨近2%，算力硬件股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3110543",
-          "source": "华尔街见闻-快讯",
+          "title": "益美国际控股：全资子公司与隆基乐叶光伏科技有限公司签订战略合作框架协议",
+          "url": "https://flash.jin10.com/detail/20260528190533176800",
+          "source": "金十数据",
           "ranks": [
-            24
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时57分"
+          "time_info": "19时41分"
         }
       ]
     },
@@ -465,45 +604,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【数据看盘】多路资金激烈博弈华天科技，量化资金联手游资抢筹光伏人气股",
-          "url": "https://www.cls.cn/detail/2383044",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 06时17分]"
-        },
-        {
-          "title": "分析人士：锂矿、锂盐或迎中长期“供需紧平衡”",
-          "url": "https://wallstreetcn.com/livenews/3110296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "分析人士：锂矿、锂盐或迎中长期“供需紧平衡”",
-          "url": "https://flash.jin10.com/detail/20260528071237123800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时45分"
         }
       ]
     },
@@ -613,6 +713,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         }
       ]
     },
