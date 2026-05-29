@@ -1,62 +1,11 @@
 {
-  "generated_at": "2026-05-30T05:22:47.597483+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-05-30T06:51:23.463677+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时22分]"
-        },
-        {
-          "title": "\"DeepSeek崩了\"冲上热搜 当前已恢复",
-          "url": "https://api3.cls.cn/share/article/2384112?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时22分]"
-        },
-        {
-          "title": "据知情人士透露，OpenAI已与包括花旗集团和摩根大通在内的多家银行就其即将进行的首次公开募股事宜进行了沟通。",
-          "url": "https://flash.jin10.com/detail/20260530034751105800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "OpenAI确认推出Rosalind BioDefense Program。",
-          "url": "https://wallstreetcn.com/livenews/3111534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 美股 美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周五（5月29日），韩元兑美元最终跌0.74%，报1504.47韩元。 5月份，韩元累计下跌1.75%，5月6日涨至1439.15韩元，最后持续走低，5月12日以来持续交投于1490韩元下方。",
@@ -68,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "本周10年期美债收益率累跌超12个基点，5月份两年期美债收益率累涨超13个基点、两年期实际收益率涨超52个基点",
+          "url": "https://wallstreetcn.com/livenews/3111654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.31%，暂报2691.30点，上周五结束交易以来（7*24）累计下跌3.53%，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨1.61%，报2917.71点，期内累跌4.91%，5月24-27日持稳于3050点附近（高位窄幅震荡）。 MarketVector数字资产100指数涨0.92%，报14608.72点，期内累跌3.75%。 最近连续七天迄今，Solana累跌2.58%，狗狗币累跌3.56%，XRP累跌1.15%。 比特币目前涨0.57%，暂报73890.88美元，最近七天累跌2.64%；以太坊涨1.33%，暂报2038.128美元，最近七天累跌1.74%。",
@@ -94,6 +54,57 @@
       ]
     },
     {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 06时51分]"
+        },
+        {
+          "title": "\"DeepSeek崩了\"冲上热搜 当前已恢复",
+          "url": "https://api3.cls.cn/share/article/2384112?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 06时51分]"
+        },
+        {
+          "title": "据知情人士透露，OpenAI已与包括花旗集团和摩根大通在内的多家银行就其即将进行的首次公开募股事宜进行了沟通。",
+          "url": "https://flash.jin10.com/detail/20260530034751105800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时51分]"
+        },
+        {
+          "title": "OpenAI确认推出Rosalind BioDefense Program。",
+          "url": "https://wallstreetcn.com/livenews/3111534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 3,
       "titles": [
@@ -105,19 +116,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 06时51分]"
         },
         {
           "title": "周五（5月29日），美股人工智能（AI）赢家指数行1.70%，报424.90点，本周累涨6.44%，5月份累涨19%。",
           "url": "https://wallstreetcn.com/livenews/3111636",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时51分]"
         },
         {
           "title": "美联储戴利：预计不会因人工智能出现大规模失业或岗位流失情况。",
@@ -141,11 +153,12 @@
           "url": "https://wallstreetcn.com/livenews/3111642",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时51分]"
         }
       ]
     },
@@ -158,11 +171,12 @@
           "url": "https://www.gelonghui.com/news/5243042",
           "source": "格隆汇",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 06时51分]"
         }
       ]
     },
@@ -175,11 +189,12 @@
           "url": "https://wallstreetcn.com/livenews/3111628",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时51分]"
         }
       ]
     },
@@ -192,11 +207,12 @@
           "url": "https://wallstreetcn.com/livenews/3111631",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时51分]"
         }
       ]
     },
@@ -211,7 +227,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         }
@@ -228,9 +244,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达、微软一同发布神秘预告 传闻中的PC芯片下周亮相？",
+          "url": "https://www.cls.cn/detail/2385944",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         }
       ]
     },
@@ -246,8 +279,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 06时51分]"
         }
       ]
     }
