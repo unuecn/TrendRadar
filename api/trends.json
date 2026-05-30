@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-30T12:34:46.790771+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-05-30T15:41:56.184707+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 5,
       "titles": [
+        {
+          "title": "\"DeepSeek崩了\"冲上热搜 当前已恢复",
+          "url": "https://api3.cls.cn/share/article/2384112?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 15时41分]"
+        },
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
           "url": "https://wallstreetcn.com/articles/3773389",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 08时10分]"
-        },
-        {
-          "title": "\"DeepSeek崩了\"冲上热搜 当前已恢复",
-          "url": "https://api3.cls.cn/share/article/2384112?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 12时34分]"
         },
         {
           "title": "据知情人士透露，OpenAI已与包括花旗集团和摩根大通在内的多家银行就其即将进行的首次公开募股事宜进行了沟通。",
@@ -49,7 +49,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -128,7 +128,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -179,11 +179,12 @@
           "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E5%B3%B0%E5%AF%B9%E5%8D%8E%E4%B8%BA%E7%9A%84%E6%80%81%E5%BA%A6&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 15时41分]"
         },
         {
           "title": "特斯拉满血版FSD体验",
@@ -192,7 +193,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -203,7 +204,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -221,6 +222,45 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "机器人即将承包你的飞机餐，希夕智能CEO：1-2个月内就能吃到，配餐准确率99.99%",
+          "url": "https://wallstreetcn.com/livenews/3111750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
+          "url": "https://flash.jin10.com/detail/20260530151755010800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "中国人形机器人将获“数字身份证”",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/05/30/8b15e4785d3f4dd59b7fa5bbba5ee2a4.html",
+          "source": "参考消息",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
       "match_count": 2,
       "titles": [
@@ -233,8 +273,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 15时41分]"
         },
         {
           "title": "现货黄金周五涨1%，5月份累跌超1.6%",
@@ -262,7 +302,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -273,7 +313,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         }
@@ -290,11 +330,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 12时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 15时41分]"
         }
       ]
     },
@@ -363,7 +404,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         }
@@ -378,11 +419,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%87%8F%E8%82%A5%E7%AC%AC%E4%B8%80%E5%90%8D%E5%86%AC%E7%93%9C%E8%8B%B9%E6%9E%9C%E7%85%AE%E6%B0%B4&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 15时41分]"
         }
       ]
     },
@@ -397,11 +439,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时51分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[06时51分 ~ 15时41分]"
         }
       ]
     },
