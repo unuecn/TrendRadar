@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T17:49:09.156590+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2026-06-02T22:02:34.286848+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时13分 ~ 17时49分]"
+          "appearance_count": 6,
+          "time_info": "[08时13分 ~ 22时02分]"
         },
         {
           "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
@@ -126,6 +126,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "英伟达：Spectrum-X以太网硅光技术现已全面量产",
+          "url": "https://www.cls.cn/detail/2388684",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2387523",
           "source": "财联社热门",
@@ -173,6 +184,17 @@
           "time_info": "08时13分"
         },
         {
+          "title": "基于CPO技术！英伟达Spectrum-X硅光交换机全面量产",
+          "url": "https://wallstreetcn.com/articles/3773674",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "英伟达CEO称应“尽可能多地”给员工发薪水",
           "url": "https://wallstreetcn.com/livenews/3112808",
           "source": "华尔街见闻-快讯",
@@ -208,6 +230,159 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "算力、存储之后是光连接？黄仁勋“钦点”下一家万亿美元公司",
+          "url": "https://www.cls.cn/detail/2388254",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 22时02分]"
+        },
+        {
+          "title": "中亦科技(301208.SZ)：暂未加入北京太空算力产业创新中心",
+          "url": "https://www.gelonghui.com/news/5244905",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "友阿股份(002277.SZ)：公司目前未涉足算力相关领域的业务",
+          "url": "https://www.gelonghui.com/news/5244057",
+          "source": "格隆汇",
+          "ranks": [
+            7,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时17分 ~ 08时13分]"
+        },
+        {
+          "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
+          "url": "https://wallstreetcn.com/articles/3773656",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 22时02分]"
+        },
+        {
+          "title": "创业板大涨超2%，算力硬件全线爆发，恒科指狂飙超4%，美团、阿里、腾讯集体猛拉",
+          "url": "https://wallstreetcn.com/articles/3773623",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 22时02分]"
+        },
+        {
+          "title": "上海：做好算力期货研发准备，推动科创50、深证100、创业板股指期货和期权上市",
+          "url": "https://www.cls.cn/detail/2388194",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
+        },
+        {
+          "title": "黄仁勋的棋局：AI算力的每一条路，都有英伟达在等候",
+          "url": "https://wallstreetcn.com/articles/3773569",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
+          "title": "北京商业航天迎双轮驱动：北京首个太空算力创新中心落子海淀 卫星物联网开启千亿商用元年",
+          "url": "https://www.cls.cn/detail/2388088",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
+        },
+        {
+          "title": "宏明电子(301682.SZ)：现阶段公司相关产品暂未批量用于民用AI算力终端场景",
+          "url": "https://www.gelonghui.com/news/5244903",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "6月2日午间收评：创业板指半日涨超2%，算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3112801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)募资以扩建AI基础设施及算力。",
+          "url": "https://flash.jin10.com/detail/20260602044358873800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "南华期货：中国发展自身算力期货市场，具有超越单纯经济价值的战略意义",
+          "url": "https://wallstreetcn.com/livenews/3113087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.11%，深成指涨0.93%，算力硬件、AI PC、存储芯片等方向领涨，沪深京三市上涨个股超1500只。",
+          "url": "https://wallstreetcn.com/livenews/3112781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 13,
       "titles": [
@@ -219,8 +394,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时17分 ~ 17时49分]"
+          "appearance_count": 9,
+          "time_info": "[04时17分 ~ 22时02分]"
         },
         {
           "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
@@ -232,6 +407,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "DeepSeek降价",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 22时02分]"
         },
         {
           "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
@@ -254,17 +441,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 04时18分]"
-        },
-        {
-          "title": "DeepSeek降价",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
         },
         {
           "title": "OpenAI：BARN项目预计在租赁期内产生10亿美元的税收收入。",
@@ -357,126 +533,8 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "算力、存储之后是光连接？黄仁勋“钦点”下一家万亿美元公司",
-          "url": "https://www.cls.cn/detail/2388254",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
-        },
-        {
-          "title": "友阿股份(002277.SZ)：公司目前未涉足算力相关领域的业务",
-          "url": "https://www.gelonghui.com/news/5244057",
-          "source": "格隆汇",
-          "ranks": [
-            7,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 08时13分]"
-        },
-        {
-          "title": "上海：做好算力期货研发准备，推动科创50、深证100、创业板股指期货和期权上市",
-          "url": "https://www.cls.cn/detail/2388194",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
-        },
-        {
-          "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
-          "url": "https://wallstreetcn.com/articles/3773656",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
-        },
-        {
-          "title": "黄仁勋的棋局：AI算力的每一条路，都有英伟达在等候",
-          "url": "https://wallstreetcn.com/articles/3773569",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 13时11分]"
-        },
-        {
-          "title": "创业板大涨超2%，算力硬件全线爆发，恒科指狂飙超4%，美团、阿里、腾讯集体猛拉",
-          "url": "https://wallstreetcn.com/articles/3773623",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
-        },
-        {
-          "title": "北京商业航天迎双轮驱动：北京首个太空算力创新中心落子海淀 卫星物联网开启千亿商用元年",
-          "url": "https://www.cls.cn/detail/2388088",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
-        },
-        {
-          "title": "6月2日午间收评：创业板指半日涨超2%，算力硬件股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3112801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)募资以扩建AI基础设施及算力。",
-          "url": "https://flash.jin10.com/detail/20260602044358873800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "创业板指涨超2%，沪指涨0.11%，深成指涨0.93%，算力硬件、AI PC、存储芯片等方向领涨，沪深京三市上涨个股超1500只。",
-          "url": "https://wallstreetcn.com/livenews/3112781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国人形机器人将获“数字身份证”",
@@ -486,8 +544,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时17分 ~ 17时49分]"
+          "appearance_count": 9,
+          "time_info": "[04时17分 ~ 22时02分]"
         },
         {
           "title": "英伟达GTC ：Vera Rubin全面量产，杀入PC芯片市场，携宇树布局机器人",
@@ -549,6 +607,17 @@
           "time_info": "[13时10分 ~ 13时11分]"
         },
         {
+          "title": "全国首家央地共建具身工程机器人创新中心实体运营",
+          "url": "https://flash.jin10.com/detail/20260602213019263800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "黄仁勋官宣联手宇树造参考人形机器人",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%AE%98%E5%AE%A3%E8%81%94%E6%89%8B%E5%AE%87%E6%A0%91%E9%80%A0%E5%8F%82%E8%80%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -594,7 +663,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -605,7 +674,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -615,6 +684,119 @@
           "source": "金十数据",
           "ranks": [
             18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "经济日报：华为韬定律为何出道即顶流",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33278739",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时17分 ~ 06时41分]"
+        },
+        {
+          "title": "华为韬定律",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E9%9F%AC%E5%AE%9A%E5%BE%8B&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
+          "title": "吴通控股(300292.SZ)：目前公司没有对华为提供产品或服务",
+          "url": "https://www.gelonghui.com/news/5244058",
+          "source": "格隆汇",
+          "ranks": [
+            6,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时17分 ~ 08时13分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.2%，公用事业板块跌2.9%，可选消费板块跌2.5%，电信板块跌1.5%，科技板块涨2.4%。 纳斯达克100指数初步收涨0.4%，成分股中，Arm控股收涨15.7%，Datadog涨12.1%，Zscaler涨11.9%，铿腾电子涨10.2%，汤森路透涨8.5%，Workday、Autodesk涨7.5%，德州仪器跌4.3%，特斯拉跌4.4%，Meta跌5.1%，英特尔跌5.1%，Strategy跌5.9%，核电股CEG跌7.6%，高通跌8.9%。 Salesforce初步收涨9.5%，IBM、英伟达至少涨6.1%，领跑道指成分股，苹果则跌1.5%，波音跌2.9%，Merck跌3.1%，亚马逊跌3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3112631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "小米隐藏王牌即将落地",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E9%9A%90%E8%97%8F%E7%8E%8B%E7%89%8C%E5%8D%B3%E5%B0%86%E8%90%BD%E5%9C%B0&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2388757",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "周一（6月1日），美股超大规模云服务商（Hyperscalers）跌0.02%，报105.79点，尾盘刷新盘中历史最高位至106.56点。 成分股亚马逊跌3.47%，谷歌A跌1.04%，微软涨2.28%，Meta跌5.07%，甲骨文涨9.91%。",
+          "url": "https://wallstreetcn.com/livenews/3112690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "周一（6月1日），美股信息科技指数涨3.20%，报450.89点，继续创收盘历史新高。 成分股中，MongoDB涨20.36%，Nebius集团涨14.46%，发行垃圾债融资的CoreWeave涨13.96%，Datadog涨12.19%，Cloudflare涨11.99%，戴尔科技涨10.70%，铿腾电子涨10.46%表现第七，Credo则收跌4.2%跌幅第四大，英特尔跌4.67%，Astera Lab跌6.64%，高通跌8.78%。",
+          "url": "https://wallstreetcn.com/livenews/3112689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "公用事业ETF收跌将近3%，领跌美股行业ETF，全球科技股指数ETF则涨约3%",
+          "url": "https://wallstreetcn.com/livenews/3112640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -673,93 +855,42 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "经济日报：华为韬定律为何出道即顶流",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33278739",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时17分 ~ 06时41分]"
-        },
-        {
-          "title": "华为韬定律",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E9%9F%AC%E5%AE%9A%E5%BE%8B&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 13时11分]"
-        },
-        {
-          "title": "吴通控股(300292.SZ)：目前公司没有对华为提供产品或服务",
-          "url": "https://www.gelonghui.com/news/5244058",
-          "source": "格隆汇",
-          "ranks": [
-            6,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 08时13分]"
-        },
-        {
-          "title": "标普500指数初步收涨0.2%，公用事业板块跌2.9%，可选消费板块跌2.5%，电信板块跌1.5%，科技板块涨2.4%。 纳斯达克100指数初步收涨0.4%，成分股中，Arm控股收涨15.7%，Datadog涨12.1%，Zscaler涨11.9%，铿腾电子涨10.2%，汤森路透涨8.5%，Workday、Autodesk涨7.5%，德州仪器跌4.3%，特斯拉跌4.4%，Meta跌5.1%，英特尔跌5.1%，Strategy跌5.9%，核电股CEG跌7.6%，高通跌8.9%。 Salesforce初步收涨9.5%，IBM、英伟达至少涨6.1%，领跑道指成分股，苹果则跌1.5%，波音跌2.9%，Merck跌3.1%，亚马逊跌3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3112631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
+      "keyword_group": "储能",
       "match_count": 3,
       "titles": [
         {
-          "title": "周一（6月1日），美股超大规模云服务商（Hyperscalers）跌0.02%，报105.79点，尾盘刷新盘中历史最高位至106.56点。 成分股亚马逊跌3.47%，谷歌A跌1.04%，微软涨2.28%，Meta跌5.07%，甲骨文涨9.91%。",
-          "url": "https://wallstreetcn.com/livenews/3112690",
+          "title": "日本计划让储能电池销售到2035年增长两倍。（日本读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3112667",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "周一（6月1日），美股信息科技指数涨3.20%，报450.89点，继续创收盘历史新高。 成分股中，MongoDB涨20.36%，Nebius集团涨14.46%，发行垃圾债融资的CoreWeave涨13.96%，Datadog涨12.19%，Cloudflare涨11.99%，戴尔科技涨10.70%，铿腾电子涨10.46%表现第七，Credo则收跌4.2%跌幅第四大，英特尔跌4.67%，Astera Lab跌6.64%，高通跌8.78%。",
-          "url": "https://wallstreetcn.com/livenews/3112689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "公用事业ETF收跌将近3%，领跌美股行业ETF，全球科技股指数ETF则涨约3%",
-          "url": "https://wallstreetcn.com/livenews/3112640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "电解液一哥近一年新签长协订单供货超340万吨！储能黑马翻倍补货",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33288710",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 22时02分]"
+        },
+        {
+          "title": "晶科储能完成722MWh储能系统交付",
+          "url": "https://wallstreetcn.com/livenews/3113095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
@@ -799,6 +930,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "打破\"只买不卖\"惯例！MSTR首度出售比特币，套现250万美元",
+          "url": "https://wallstreetcn.com/articles/3773584",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时10分 ~ 17时49分]"
+        },
+        {
+          "title": "告别“永不卖出”策略！Strategy披露出售比特币 卖出32枚套现250万美元",
+          "url": "https://www.cls.cn/detail/2387674",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
+          "title": "比特币跌破69000美元。",
+          "url": "https://wallstreetcn.com/livenews/3113100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
@@ -853,37 +1024,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "日本计划让储能电池销售到2035年增长两倍。（日本读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3112667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "电解液一哥近一年新签长协订单供货超340万吨！储能黑马翻倍补货",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33288710",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
         }
       ]
     },
@@ -916,31 +1059,19 @@
       ]
     },
     {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 2,
+      "keyword_group": "机器狗 仿生机器人",
+      "match_count": 1,
       "titles": [
         {
-          "title": "打破\"只买不卖\"惯例！MSTR首度出售比特币，套现250万美元",
-          "url": "https://wallstreetcn.com/articles/3773584",
-          "source": "华尔街见闻",
+          "title": "台湾机器狗未来或在南中国海部署",
+          "url": "https://www.zaochenbao.com/news/taiwan/202606/0273219.html",
+          "source": "早报",
           "ranks": [
-            10,
             8
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 17时49分]"
-        },
-        {
-          "title": "告别“永不卖出”策略！Strategy披露出售比特币 卖出32枚套现250万美元",
-          "url": "https://www.cls.cn/detail/2387674",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 13时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
