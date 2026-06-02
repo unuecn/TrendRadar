@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T13:11:15.109842+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-06-02T17:49:09.156590+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 13时11分]"
+          "appearance_count": 5,
+          "time_info": "[08时13分 ~ 17时49分]"
         },
         {
           "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
@@ -96,7 +97,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -178,7 +179,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -208,7 +209,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "\"DeepSeek崩了\"冲上热搜 当前已恢复",
@@ -218,8 +219,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时17分 ~ 13时11分]"
+          "appearance_count": 8,
+          "time_info": "[04时17分 ~ 17时49分]"
         },
         {
           "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
@@ -233,6 +234,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
+          "url": "https://www.cls.cn/detail/2387988",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
+        },
+        {
           "title": "Anthropic已提交IPO申请 OpenAI创始人称不争首家“头衔”",
           "url": "https://flash.jin10.com/detail/20260602032624584800",
           "source": "金十数据",
@@ -242,6 +254,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 04时18分]"
+        },
+        {
+          "title": "DeepSeek降价",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
         },
         {
           "title": "OpenAI：BARN项目预计在租赁期内产生10亿美元的税收收入。",
@@ -266,6 +289,17 @@
           "time_info": "[04时17分 ~ 04时18分]"
         },
         {
+          "title": "据AXIOS：报告显示，知识工作者目前约占OpenAI Codex用户总数的五分之一，其增长速度超过开发者群体的三倍。在知识工作者群体中，增长最快的任务类型是数据分析，周环比增长110%；研究工作增长37%；知识资产相关任务增长36%。",
+          "url": "https://flash.jin10.com/detail/20260602171518288800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：OpenAI将在对公司有利时进行IPO。",
           "url": "https://flash.jin10.com/detail/20260602024757153800",
           "source": "金十数据",
@@ -275,6 +309,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 04时18分]"
+        },
+        {
+          "title": "据AXIOS：根据OpenAI最新发布的一份报告，OpenAI Codex目前每周活跃用户超过400万，比OpenAI在2月份推出桌面应用程序时增长了五倍多。",
+          "url": "https://flash.jin10.com/detail/20260602171407659800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：在Anthropic提交上市申请后，他并未关注IPO的时机。",
@@ -312,9 +357,138 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "算力、存储之后是光连接？黄仁勋“钦点”下一家万亿美元公司",
+          "url": "https://www.cls.cn/detail/2388254",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
+        },
+        {
+          "title": "友阿股份(002277.SZ)：公司目前未涉足算力相关领域的业务",
+          "url": "https://www.gelonghui.com/news/5244057",
+          "source": "格隆汇",
+          "ranks": [
+            7,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时17分 ~ 08时13分]"
+        },
+        {
+          "title": "上海：做好算力期货研发准备，推动科创50、深证100、创业板股指期货和期权上市",
+          "url": "https://www.cls.cn/detail/2388194",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
+        },
+        {
+          "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
+          "url": "https://wallstreetcn.com/articles/3773656",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
+        },
+        {
+          "title": "黄仁勋的棋局：AI算力的每一条路，都有英伟达在等候",
+          "url": "https://wallstreetcn.com/articles/3773569",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
+          "title": "创业板大涨超2%，算力硬件全线爆发，恒科指狂飙超4%，美团、阿里、腾讯集体猛拉",
+          "url": "https://wallstreetcn.com/articles/3773623",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
+        },
+        {
+          "title": "北京商业航天迎双轮驱动：北京首个太空算力创新中心落子海淀 卫星物联网开启千亿商用元年",
+          "url": "https://www.cls.cn/detail/2388088",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
+        },
+        {
+          "title": "6月2日午间收评：创业板指半日涨超2%，算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3112801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)募资以扩建AI基础设施及算力。",
+          "url": "https://flash.jin10.com/detail/20260602044358873800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.11%，深成指涨0.93%，算力硬件、AI PC、存储芯片等方向领涨，沪深京三市上涨个股超1500只。",
+          "url": "https://wallstreetcn.com/livenews/3112781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 7,
       "titles": [
+        {
+          "title": "中国人形机器人将获“数字身份证”",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/05/30/8b15e4785d3f4dd59b7fa5bbba5ee2a4.html",
+          "source": "参考消息",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时17分 ~ 17时49分]"
+        },
         {
           "title": "英伟达GTC ：Vera Rubin全面量产，杀入PC芯片市场，携宇树布局机器人",
           "url": "https://wallstreetcn.com/articles/3773548",
@@ -322,17 +496,6 @@
           "ranks": [
             1,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时17分 ~ 13时11分]"
-        },
-        {
-          "title": "中国人形机器人将获“数字身份证”",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/05/30/8b15e4785d3f4dd59b7fa5bbba5ee2a4.html",
-          "source": "参考消息",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -399,65 +562,63 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 5,
       "titles": [
         {
-          "title": "友阿股份(002277.SZ)：公司目前未涉足算力相关领域的业务",
-          "url": "https://www.gelonghui.com/news/5244057",
-          "source": "格隆汇",
+          "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
+          "url": "https://www.cls.cn/detail/2387170",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            8,
-            14
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 08时13分]"
+          "appearance_count": 3,
+          "time_info": "[04时17分 ~ 06时41分]"
         },
         {
-          "title": "黄仁勋的棋局：AI算力的每一条路，都有英伟达在等候",
-          "url": "https://wallstreetcn.com/articles/3773569",
-          "source": "华尔街见闻",
+          "title": "联发科承诺扩大招聘 以助力向新的人工智能业务领域推进",
+          "url": "https://flash.jin10.com/detail/20260602173101106800",
+          "source": "金十数据",
           "ranks": [
-            9
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时10分 ~ 13时11分]"
+          "time_info": "[17时48分 ~ 17时49分]"
         },
         {
-          "title": "6月2日午间收评：创业板指半日涨超2%，算力硬件股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3112801",
+          "title": "联发科承诺扩大招聘 以助力向新的人工智能业务领域推进",
+          "url": "https://wallstreetcn.com/livenews/3112970",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "17时49分"
         },
         {
-          "title": "Alphabet(GOOG.O)募资以扩建AI基础设施及算力。",
-          "url": "https://flash.jin10.com/detail/20260602044358873800",
+          "title": "国务院：提出了大食物开发、“人工智能+”农业、农产品加工业提升等重大工程和行动",
+          "url": "https://wallstreetcn.com/livenews/3112955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
+          "url": "https://flash.jin10.com/detail/20260602050120532800",
           "source": "金十数据",
           "ranks": [
-            27
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
-        },
-        {
-          "title": "创业板指涨超2%，沪指涨0.11%，深成指涨0.93%，算力硬件、AI PC、存储芯片等方向领涨，沪深京三市上涨个股超1500只。",
-          "url": "https://wallstreetcn.com/livenews/3112781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
         }
       ]
     },
@@ -483,7 +644,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -603,6 +764,45 @@
       ]
     },
     {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "天合光能董事长高纪凡：公司光伏技术进入双路线并行阶段 钙钛矿叠层组件功率达907W",
+          "url": "https://flash.jin10.com/detail/20260602123755139800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
+          "title": "中国多家光伏企业成立太空能源发展联盟",
+          "url": "https://www.zaochenbao.com/news/china/202606/0273192.html",
+          "source": "早报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
+        },
+        {
+          "title": "协鑫集团董事长朱共山：单一光伏制造企业的概念或许会消失",
+          "url": "https://wallstreetcn.com/livenews/3112791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
       "match_count": 2,
       "titles": [
@@ -632,58 +832,58 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "keyword_group": "液冷",
       "match_count": 2,
       "titles": [
         {
-          "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
-          "url": "https://www.cls.cn/detail/2387170",
-          "source": "财联社热门",
+          "title": "大普微(301666.SZ)：公司已完成旗下企业级SSD液冷优化，适配新一代液冷服务器架构",
+          "url": "https://www.gelonghui.com/news/5244170",
+          "source": "格隆汇",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时17分 ~ 06时41分]"
-        },
-        {
-          "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
-          "url": "https://flash.jin10.com/detail/20260602050120532800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "天合光能董事长高纪凡：公司光伏技术进入双路线并行阶段 钙钛矿叠层组件功率达907W",
-          "url": "https://flash.jin10.com/detail/20260602123755139800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时10分 ~ 13时11分]"
         },
         {
-          "title": "协鑫集团董事长朱共山：单一光伏制造企业的概念或许会消失",
-          "url": "https://wallstreetcn.com/livenews/3112791",
+          "title": "达实智能：公司不涉及液冷及机器人相关元器件的生产、制造等",
+          "url": "https://wallstreetcn.com/livenews/3112958",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "17时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本计划让储能电池销售到2035年增长两倍。（日本读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3112667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "电解液一哥近一年新签长协订单供货超340万吨！储能黑马翻倍补货",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33288710",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
         }
       ]
     },
@@ -724,11 +924,12 @@
           "url": "https://wallstreetcn.com/articles/3773584",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 13时11分]"
+          "appearance_count": 4,
+          "time_info": "[13时10分 ~ 17时49分]"
         },
         {
           "title": "告别“永不卖出”策略！Strategy披露出售比特币 卖出32枚套现250万美元",
@@ -740,40 +941,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时10分 ~ 13时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "液冷",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大普微(301666.SZ)：公司已完成旗下企业级SSD液冷优化，适配新一代液冷服务器架构",
-          "url": "https://www.gelonghui.com/news/5244170",
-          "source": "格隆汇",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 13时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日本计划让储能电池销售到2035年增长两倍。（日本读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3112667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
         }
       ]
     },
@@ -791,6 +958,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时10分 ~ 13时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "南向资金今日净买入22.23亿元。港股通（沪）方面，康方生物、中芯国际分别获净买入6.95亿港元、6.11亿港元；腾讯控股净卖出额居首，金额为33.37亿港元；港股通（深）方面，腾讯控股、中国海洋石油分别获净买入12.28亿港元、3.83亿港元；美团-W净卖出额居首，金额为5.6亿港元。",
+          "url": "https://flash.jin10.com/detail/20260602173106486800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
         }
       ]
     }
