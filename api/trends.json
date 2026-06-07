@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T02:04:54.714664+08:00",
-  "total_titles_processed": 284,
+  "generated_at": "2026-06-08T03:55:20.498412+08:00",
+  "total_titles_processed": 332,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 03时55分]"
         },
         {
           "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
           "url": "https://wallstreetcn.com/articles/3774034",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 03时55分]"
         },
         {
           "title": "更高效低碳 中国启用全球首个预制算力中心底座",
@@ -37,8 +38,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 03时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "MarketVectorTM数字资产100小盘指数跌幅扩大至3.33%，跌穿2400点关口。 MarketVectorTM数字资产100中盘指数跌2.4%，逼近2520点。 MarketVector数字资产100指数跌约1.5%，至12130点。 比特币短线从61207.27美元上扬至61440.77美元，涨幅重新扩大至1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3115609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时55分"
         }
       ]
     },
@@ -54,8 +72,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 03时55分]"
         }
       ]
     },
@@ -69,11 +87,12 @@
           "source": "财联社电报",
           "ranks": [
             10,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 03时55分]"
         }
       ]
     },
@@ -89,8 +108,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 03时55分]"
         }
       ]
     },
@@ -106,8 +125,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 03时55分]"
         }
       ]
     },
@@ -141,8 +160,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 03时55分]"
         }
       ]
     },
@@ -160,6 +179,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "财联社6月8日电，行情显示，比特币回落至61358.4美元，过去24小时内仍上涨1.22%。",
+          "url": "https://api3.cls.cn/share/article/2392982?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时55分"
         }
       ]
     }
