@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T13:13:09.805467+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-06-08T18:03:14.375827+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "周末要闻汇总：全球首个“预制算力中心底座”正式投用；交易员预计美联储将到明年1月底前加息25个基点",
@@ -44,6 +44,17 @@
           "time_info": "[00时52分 ~ 08时07分]"
         },
         {
+          "title": "国产GPU“四小龙”燧原科技科创板IPO将于6月15日上会",
+          "url": "https://wallstreetcn.com/livenews/3116038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "NAVER与英伟达合作扩建自主AI基础设施 目标推进至吉瓦级算力规模",
           "url": "https://api3.cls.cn/share/article/2393038?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -53,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "国产GPU企业燧原科技科创板IPO定于6月15日上会",
+          "url": "https://api3.cls.cn/share/article/2393705?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "【研选•研报数据】FPGA在AI服务器中形成控制、互联、计算等应用，单服务器价值量逐步提升；公司向科技转型，以内生孵化+外部投资为驱动，积极布局存储产业链与AI算力",
@@ -101,30 +123,129 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 6,
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 7,
       "titles": [
         {
-          "title": "英伟达与海力士官宣多年合作计划，锁定先进存储供应，黄仁勋称“协议期限将超两年且有能力持续续约”",
-          "url": "https://wallstreetcn.com/articles/3774048",
-          "source": "华尔街见闻",
+          "title": "事关物理AI、机器人及AI工厂！英伟达与韩国斗山扩大合作",
+          "url": "https://www.cls.cn/detail/2393263",
+          "source": "财联社热门",
           "ranks": [
-            3
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 18时03分]"
+        },
+        {
+          "title": "【公告全知道】玻璃基板+机器人+光通信+芯片+先进封装+数据中心电源！公司玻璃基板已在大尺寸FCBGA验证应用",
+          "url": "https://api3.cls.cn/share/article/2392944?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            10,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 03时55分]"
+        },
+        {
+          "title": "【机构调研】这家公司双目3D相机已入驻NVIDIA Isaac Sim机器人仿真开发平台",
+          "url": "https://api3.cls.cn/share/article/2393337?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时12分 ~ 13时13分]"
         },
         {
-          "title": "英伟达与SK海力士多年期技术合作 黄仁勋称存储短缺未见结束迹象",
-          "url": "https://www.cls.cn/detail/2393080",
-          "source": "财联社热门",
+          "title": "ETF午评 | 三大指数集体下跌，油气能源、人形机器人逆势上涨，标普油气ETF涨超3%",
+          "url": "https://www.gelonghui.com/news/5247456",
+          "source": "格隆汇",
           "ranks": [
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时12分 ~ 13时13分]"
+        },
+        {
+          "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%",
+          "url": "https://wallstreetcn.com/articles/3774065",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "人形机器人产业的爆发式增长 丝杠市场迎来黄金发展期",
+          "url": "https://www.cls.cn/detail/2393045",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "Doosan与英伟达将在AI工厂领域展开合作，其将与英伟达全面扩大在能源、电子材料及机器人业务领域的合作。（韩国News1）",
+          "url": "https://wallstreetcn.com/livenews/3115671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "英伟达与海力士官宣多年合作计划，锁定先进存储供应，黄仁勋称“协议期限将超两年且有能力持续续约”",
+          "url": "https://wallstreetcn.com/articles/3774048",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 18时03分]"
+        },
+        {
+          "title": "英伟达与SK海力士多年期技术合作 黄仁勋称存储短缺未见结束迹象",
+          "url": "https://www.cls.cn/detail/2393080",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 18时03分]"
+        },
+        {
+          "title": "韩国SK与英伟达携手打造AI工厂",
+          "url": "https://www.zaochenbao.com/news/politics/202606/0873652.html",
+          "source": "早报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "英伟达与SK海力士宣布多年期技术合作 共同开发下一代AI内存",
@@ -173,71 +294,8 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【公告全知道】玻璃基板+机器人+光通信+芯片+先进封装+数据中心电源！公司玻璃基板已在大尺寸FCBGA验证应用",
-          "url": "https://api3.cls.cn/share/article/2392944?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时55分]"
-        },
-        {
-          "title": "【机构调研】这家公司双目3D相机已入驻NVIDIA Isaac Sim机器人仿真开发平台",
-          "url": "https://api3.cls.cn/share/article/2393337?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
-        },
-        {
-          "title": "事关物理AI、机器人及AI工厂！英伟达与韩国斗山扩大合作",
-          "url": "https://www.cls.cn/detail/2393263",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
-        },
-        {
-          "title": "ETF午评 | 三大指数集体下跌，油气能源、人形机器人逆势上涨，标普油气ETF涨超3%",
-          "url": "https://www.gelonghui.com/news/5247456",
-          "source": "格隆汇",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
-        },
-        {
-          "title": "Doosan与英伟达将在AI工厂领域展开合作，其将与英伟达全面扩大在能源、电子材料及机器人业务领域的合作。（韩国News1）",
-          "url": "https://wallstreetcn.com/livenews/3115671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -251,6 +309,17 @@
           "time_info": "[00时52分 ~ 06时38分]"
         },
         {
+          "title": "事关数据赋能人工智能发展 国家层面首次系统部署",
+          "url": "https://flash.jin10.com/detail/20260608175446418800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "英伟达与LG集团共建人工智能工厂 推进物理AI等新业务",
           "url": "https://api3.cls.cn/share/article/2393338?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -260,6 +329,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时12分 ~ 13时13分]"
+        },
+        {
+          "title": "上海：截至6月8日新增6款已完成登记的生成式人工智能服务",
+          "url": "https://api3.cls.cn/share/article/2393710?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "财联社6月8日电，SK电讯计划在韩国利用英伟达技术构建吉瓦级AI云设施。首个人工智能工厂计划于2027年投产。",
@@ -337,6 +417,85 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国际油价亚市盘初上涨3%，此前伊朗对以色列发动打击。 美股期货走低，标普500指数期货、道指期货跌0.4%，纳斯达克100指数期货跌0.3%。 美元指数上涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3115648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "MarketVectorTM数字资产100小盘指数跌幅扩大至3.33%，跌穿2400点关口。 MarketVectorTM数字资产100中盘指数跌2.4%，逼近2520点。 MarketVector数字资产100指数跌约1.5%，至12130点。 比特币短线从61207.27美元上扬至61440.77美元，涨幅重新扩大至1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3115609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 05时12分]"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7844，较上一交易日官方收盘价跌132点，较上日夜盘收盘涨34点。",
+          "url": "https://wallstreetcn.com/livenews/3116005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "三大存储厂打响“散热”攻关战 热管理成下一代HBM核心竞争力",
+          "url": "https://www.cls.cn/detail/2391811",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 08时07分]"
+        },
+        {
+          "title": "三星电子芯片部门负责人：与黄仁勋讨论了下一代芯片的代工合作。我们还就长期合作进行了广泛讨论，包括HBM4E、代工业务、HBM5及其他未来技术。",
+          "url": "https://flash.jin10.com/detail/20260608175318444800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "三星电子芯片部门负责人：与英伟达(NVDA.O)CEO黄仁勋讨论了在HBM4和代工方面的短期合作。",
+          "url": "https://flash.jin10.com/detail/20260608175204543800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "药物发现 分子模拟 AI制药",
       "match_count": 3,
       "titles": [
@@ -347,7 +506,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -372,6 +531,47 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时12分 ~ 13时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 13时13分]"
+        },
+        {
+          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
+          "url": "https://www.cls.cn/detail/2392919",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
+        },
+        {
+          "title": "DeepSeek完成首轮外部融资",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%8C%E6%88%90%E9%A6%96%E8%BD%AE%E5%A4%96%E9%83%A8%E8%9E%8D%E8%B5%84&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     },
@@ -415,65 +615,6 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际油价亚市盘初上涨3%，此前伊朗对以色列发动打击。 美股期货走低，标普500指数期货、道指期货跌0.4%，纳斯达克100指数期货跌0.3%。 美元指数上涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3115648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "MarketVectorTM数字资产100小盘指数跌幅扩大至3.33%，跌穿2400点关口。 MarketVectorTM数字资产100中盘指数跌2.4%，逼近2520点。 MarketVector数字资产100指数跌约1.5%，至12130点。 比特币短线从61207.27美元上扬至61440.77美元，涨幅重新扩大至1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3115609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 05时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 13时13分]"
-        },
-        {
-          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
-          "url": "https://www.cls.cn/detail/2392919",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 2,
       "titles": [
@@ -498,23 +639,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时12分 ~ 13时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三大存储厂打响“散热”攻关战 热管理成下一代HBM核心竞争力",
-          "url": "https://www.cls.cn/detail/2391811",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 08时07分]"
         }
       ]
     },
@@ -553,6 +677,23 @@
       ]
     },
     {
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三星电子芯片部门负责人：我们正在就4nm和8nm节点所需的自动驾驶芯片以及英伟达的加速器芯片方面展开合作。",
+          "url": "https://flash.jin10.com/detail/20260608175416830800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "鸿蒙 OpenHarmony 昇腾",
       "match_count": 1,
       "titles": [
@@ -583,6 +724,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时12分 ~ 13时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苏州女子被SU7电吸门夹手骨折 小米致歉",
+          "url": "https://www.zaochenbao.com/news/china/202606/0873657.html",
+          "source": "早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "独家|怡亚通：成为“聚合商”指达到与英特尔合作门槛 分销业务还在拓展中",
+          "url": "https://api3.cls.cn/share/article/2393698?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     },
