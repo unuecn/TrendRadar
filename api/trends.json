@@ -1,1966 +1,206 @@
 {
-  "generated_at": "2026-06-09T21:44:38.404844+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-06-10T00:32:26.101356+08:00",
+  "total_titles_processed": 230,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 71,
-      "titles": [
-        {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 21时44分]"
-        },
-        {
-          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
-          "url": "https://www.cls.cn/detail/2394196",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 15时03分]"
-        },
-        {
-          "title": "美方将阿里巴巴、比亚迪等列入“涉军”清单，外交部：敦促美方停止无理打压中企",
-          "url": "https://www.cls.cn/detail/2394752",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 21时44分]"
-        },
-        {
-          "title": "苹果开发者大会",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            8,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 07时47分]"
-        },
-        {
-          "title": "苹果发布新一代Siri AI 中国大陆暂不支持",
-          "url": "https://www.zaochenbao.com/news/china/202606/0973715.html",
-          "source": "早报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "财联社6月9日电，欧盟委员会发言人称，欧盟委员会与苹果就Siri AI进行了接触。",
-          "url": "https://api3.cls.cn/share/article/2395007?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "苹果(AAPL.O)：通过“浏览前询问”功能，将家长的控制范围从应用程序扩展至整个网络。",
-          "url": "https://flash.jin10.com/detail/20260609012339332800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果公司：Siri AI将登陆iPadOS。 为watchOS打造专属Siri AI。 将Visual Intelligence（视觉智能）拓展至Mac。",
-          "url": "https://wallstreetcn.com/livenews/3116305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果(AAPL.O)：从今年起，家长可以让孩子仅访问自己放心的内容。",
-          "url": "https://flash.jin10.com/detail/20260609012208064800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "欧盟委员会发言人：苹果(AAPL.O)未能实现Siri的互操作性。",
-          "url": "https://flash.jin10.com/detail/20260609181710580800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "苹果(AAPL.O)：正与美国医生团体合作制定设备使用指南。",
-          "url": "https://flash.jin10.com/detail/20260609012125134800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果(AAPL.O)不会根据新版Siri AI系统的屏幕感知功能来投放广告。",
-          "url": "https://flash.jin10.com/detail/20260609034950828800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "欧盟委员会发言人：欧盟法规并不禁止苹果(AAPL.O)在欧盟推出新产品。",
-          "url": "https://flash.jin10.com/detail/20260609181647596800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "财联社6月9日电，苹果下一个版本的macOS名为Golden Gate。",
-          "url": "https://api3.cls.cn/share/article/2394165?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "欧盟委员会发言人：不在欧盟推出Siri AI功能完全是苹果(AAPL.O)自己的决定。",
-          "url": "https://flash.jin10.com/detail/20260609181631062800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2393996",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 07时47分]"
-        },
-        {
-          "title": "苹果发布新一代AI平台及升级版Siri 投资者反应平平",
-          "url": "https://api3.cls.cn/share/article/2394193?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 06时10分]"
-        },
-        {
-          "title": "苹果公司股价涨幅收窄至0.2%，刷新日低至308.03美元，该公司正展示Siri，此前一度涨约3.2%刷新日高至317.40美元。",
-          "url": "https://wallstreetcn.com/livenews/3116303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时14分]"
-        },
-        {
-          "title": "财联社6月9日电，苹果公司表示，iOS 27系统将扩展至支持iPhone 11机型。",
-          "url": "https://api3.cls.cn/share/article/2394166?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时14分]"
-        },
-        {
-          "title": "评论：“库克时代”最后一场开发者大会反应平淡 苹果股价跌1.9%",
-          "url": "https://www.zaochenbao.com/news/opinion/202606/0973719.html",
-          "source": "早报",
-          "ranks": [
-            19,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 21时44分]"
-        },
-        {
-          "title": "苹果涨幅扩大至2.7%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3116300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时14分]"
-        },
-        {
-          "title": "苹果公司Federighi：我们并没有采用谷歌公司向用户部署的那些模型。",
-          "url": "https://wallstreetcn.com/livenews/3116327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 06时10分]"
-        },
-        {
-          "title": "财联社6月9日电，苹果公司表示，它不会使用谷歌向用户部署的模型。",
-          "url": "https://api3.cls.cn/share/article/2394187?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 06时10分]"
-        },
-        {
-          "title": "苹果：中国大陆暂不提供最新Siri AI",
-          "url": "https://flash.jin10.com/detail/20260609064804765800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
-        },
-        {
-          "title": "iPhone17无缘苹果最强端侧大模型",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E6%97%A0%E7%BC%98%E8%8B%B9%E6%9E%9C%E6%9C%80%E5%BC%BA%E7%AB%AF%E4%BE%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "周二你需要知道的隔夜全球要闻：投资者对苹果新一代AI平台及升级版Siri反应平平；以伊暂缓交火，油价尾盘大幅回落；芯片股反弹带动纳指收涨0.86%",
-          "url": "https://api3.cls.cn/share/article/2394209?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
-        },
-        {
-          "title": "财联社6月9日电，苹果跌幅扩大至1.2%，此前一度涨超3%。",
-          "url": "https://api3.cls.cn/share/article/2394179?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 06时10分]"
-        },
-        {
-          "title": "财联社6月9日电，苹果公司库克表示，WWDC开发者大会将侧重于苹果智能（Apple Intelligence）与Siri。",
-          "url": "https://api3.cls.cn/share/article/2394164?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "欧盟委员会发言人：欧盟委员会与苹果(AAPL.O)就Siri AI进行了接触。",
-          "url": "https://flash.jin10.com/detail/20260609181546861800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "苹果(AAPL.O)：新推出的功能包括改进的Flyover视图和本地列表，以及“查找”中灵活的共享选项。",
-          "url": "https://flash.jin10.com/detail/20260609210820198800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "欧盟委员会：没有任何规定禁止苹果在欧盟推出新产品。 苹果无法使Siri实现互操作性。",
-          "url": "https://wallstreetcn.com/livenews/3116749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "财联社6月9日电，苹果公司在多项服务中引入智能体验。",
-          "url": "https://api3.cls.cn/share/article/2395193?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "美国科技记者古尔曼：到目前为止，苹果(AAPL.O)正在逐一阐述多年来众多用户期待已久的性能提升内容。",
-          "url": "https://flash.jin10.com/detail/20260609011707678800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果：中国大陆暂不提供最新Siri AI",
-          "url": "https://wallstreetcn.com/livenews/3116381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "苹果新推多个儿童信任与安全功能",
-          "url": "https://wallstreetcn.com/livenews/3116295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果(AAPL.O)：苹果设备将支持设备内内容的搜索索引。",
-          "url": "https://flash.jin10.com/detail/20260609011434195800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果：与美国医生团队合作，共同制定相关医疗器械设备的使用指南。",
-          "url": "https://wallstreetcn.com/livenews/3116294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果(AAPL.O)：iOS 27将支持iPhone 11系列机型。",
-          "url": "https://flash.jin10.com/detail/20260609011349319800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果(AAPL.O)：将多层Liquid Glass（液态玻璃）效果直接融入应用图标设计中。",
-          "url": "https://flash.jin10.com/detail/20260609011059250800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果公司：苹果设备将拥有针对机上内容的搜索指数。",
-          "url": "https://wallstreetcn.com/livenews/3116291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果(AAPL.O)：下一个版本的macOS名为Golden Gate。",
-          "url": "https://flash.jin10.com/detail/20260609010533403800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果2026年全球开发者大会（WWDC）要点总结",
-          "url": "https://wallstreetcn.com/livenews/3116316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果计划更新儿童安全功能。",
-          "url": "https://flash.jin10.com/detail/20260609010459294800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：除了AFM Cloud Pro之外，苹果的其他四款模型将继续搭载Apple自研芯片。",
-          "url": "https://flash.jin10.com/detail/20260609032451221800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果(AAPL.O)：推出了新的智能功能，并扩展了Xcode中的生产力功能。",
-          "url": "https://flash.jin10.com/detail/20260609050823882800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "财联社6月9日电，苹果表示，包括图像生成在内的部分Apple Intelligence功能设有每日使用限额。",
-          "url": "https://api3.cls.cn/share/article/2394178?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果(AAPL.O)CEO蒂姆·库克表示，WWDC的发布内容将聚焦于苹果智能和Siri。",
-          "url": "https://flash.jin10.com/detail/20260609010452349800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果最大的模型“AFM Cloud Pro”将运行在谷歌云基础设施上。",
-          "url": "https://flash.jin10.com/detail/20260609032235869800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果公司：正在将多层额外的液态玻璃（Liquid Glass）视觉效果直接融合至应用图标（App Icon）艺术作品本身。",
-          "url": "https://wallstreetcn.com/livenews/3116288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "财联社6月9日电，苹果公司表示，Siri AI将于iPadOS上投入使用。",
-          "url": "https://api3.cls.cn/share/article/2394176?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果与谷歌及英伟达合作，将其私有云计算方案引入谷歌云的基础设施中。",
-          "url": "https://flash.jin10.com/detail/20260609032144383800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果宣布MacOS 27 Golden Gate，称：MacOS的下一个版本是Golden Gate。 iOS 27将可以应用至最早为iPhone 11的机型。 iOS 27扩展iCloud功能，用户可以从安卓和 Windows 10、Windows 11 设备上共享近期出游拍摄的照片和视频，并且支持全分辨率共享。",
-          "url": "https://wallstreetcn.com/livenews/3116287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "财联社6月9日电，苹果短线下挫，涨幅由3%收窄至0.6%。",
-          "url": "https://api3.cls.cn/share/article/2394175?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "金十提示：苹果(AAPL.O) WWDC 2026开发者大会已开始。",
-          "url": "https://flash.jin10.com/detail/20260609010233896800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "标普500指数涨幅收窄至0.5%，纳斯达克100指数涨幅收窄至1.8%，苹果公司WWDC开发者大会开幕。",
-          "url": "https://wallstreetcn.com/livenews/3116286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果库克：苹果对“提供一系列新功能改善来提高人们的生活”感到兴奋。",
-          "url": "https://wallstreetcn.com/livenews/3116310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "财联社6月9日电，苹果公司表示，推出全新语音体验，使Siri的声音更具表现力，让Siri更具对话性。Siri的改进功能将延伸至CarPlay和AirPods。",
-          "url": "https://api3.cls.cn/share/article/2394174?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果公司库克：WWDC开发者大会将侧重于苹果智能（Apple Intelligence）与Siri。",
-          "url": "https://wallstreetcn.com/livenews/3116285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果高管：我真的认为最好的还没有出来。",
-          "url": "https://wallstreetcn.com/livenews/3116309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果收跌1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3116339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "财联社6月9日电，苹果涨幅扩大至2.7%，谷歌跌幅扩大至1%。",
-          "url": "https://api3.cls.cn/share/article/2394173?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果已进入第三代苹果基础模型阶段。",
-          "url": "https://flash.jin10.com/detail/20260609031859828800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果跌幅扩大至1.2%，该公司称Siri AI一开始不会投放到欧盟市场",
-          "url": "https://wallstreetcn.com/livenews/3116308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "财联社6月9日电，苹果表示，推出由苹果智能技术驱动的全新Siri AI。",
-          "url": "https://api3.cls.cn/share/article/2394172?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果的私有云将使用三款由苹果自主研发的AI模型，这些模型是基于其与谷歌的合作开发的。",
-          "url": "https://flash.jin10.com/detail/20260609031803675800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果：由于图像生成模型得到大幅提升，公司现正将“图像游乐场”（Image Playground）功能进一步扩展，用于制作“联系人海报”（Contact Posters）和壁纸。 此外，公司还更新Image Playground API，以便开发者能够在自己的应用程序（Apps）内部调用这些全新的模型。",
-          "url": "https://wallstreetcn.com/livenews/3116307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果构建了自有的“世界知识服务”，该服务运行于其私有云计算平台上。",
-          "url": "https://flash.jin10.com/detail/20260609031742730800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果股价转跌，此前一度涨3.3%。",
-          "url": "https://wallstreetcn.com/livenews/3116306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果公司：Siri AI将登陆iPadOS。 为watchOS打造专属Siri AI。 Siri AI将首先支持英语，将迅速拓展至其他语种。 将Visual Intelligence（视觉智能）拓展至Mac。",
-          "url": "https://wallstreetcn.com/livenews/3116305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "王传福：五年后比亚迪将在规模上做到真正的全球第一",
-          "url": "https://wallstreetcn.com/livenews/3116573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "苹果发布macOS新版本“GoldenGate”",
-          "url": "https://api3.cls.cn/share/article/2394165?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 21时44分]"
-        },
-        {
-          "title": "苹果：我们利用谷歌Gemini来开发下一代基础人工智能模型。 推出由苹果智能技术驱动的全新Siri AI。 新的AI架构支持应用操作和屏幕感知功能。",
-          "url": "https://wallstreetcn.com/livenews/3116301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3116363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 07时47分]"
-        },
-        {
-          "title": "OpenAI向美国SEC保密提交IPO的S-1草案",
-          "url": "https://api3.cls.cn/share/article/2394204?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时10分 ~ 07时47分]"
-        },
-        {
-          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
-          "url": "https://www.cls.cn/detail/2394212",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 15时03分]"
-        },
-        {
-          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2394236",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 15时03分]"
-        },
-        {
-          "title": "OpenAI秘密提交美国IPO文件，加入竞争对手竞相上市的行列",
-          "url": "https://wallstreetcn.com/livenews/3116359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 07时47分]"
-        },
-        {
-          "title": "OpenAI秘密递交IPO申请，最快或于今年第四季度上市",
-          "url": "https://flash.jin10.com/detail/20260609105904305800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 06时10分]"
-        },
-        {
-          "title": "OpenAI自曝已秘密提交IPO申请",
-          "url": "https://flash.jin10.com/detail/20260609052258365800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
-          "url": "https://flash.jin10.com/detail/20260609051732279800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "DeepSeek开招土木老哥：自建GW级数据中心",
-          "url": "https://wallstreetcn.com/livenews/3116486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "苹果(AAPL.O)：无论基础设施托管在何处，苹果始终保持对Private Cloud Compute软件的完全控制权。苹果设备仅信任经由苹果加密认证的Private Cloud Compute软件。在Google Cloud上运行的Private Cloud Compute服务，将在整个夏季预览期间逐步落实全套保护措施。",
-          "url": "https://flash.jin10.com/detail/20260609051727017800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "OpenAI：尚未决定首次公开募股的时间。",
-          "url": "https://flash.jin10.com/detail/20260609051515095800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "OpenAI已提交IPO申请",
-          "url": "https://flash.jin10.com/detail/20260609051454671800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
-          "url": "https://flash.jin10.com/detail/20260609051127110800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "财联社6月9日电，谷歌表示，将NotebookLM升级至运行在Gemini 3.5和Antigravity上。",
-          "url": "https://api3.cls.cn/share/article/2394149?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "美股盘前要闻一览：黄仁勋喊话“买高通股票”；OpenAI已秘密递交IPO申请；马斯克称数据中心未来有望部署至近地轨道",
-          "url": "https://api3.cls.cn/share/article/2395160?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行",
-          "url": "https://wallstreetcn.com/livenews/3116301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "英伟达与海力士官宣多年合作计划，锁定先进存储供应，黄仁勋称“协议期限将超两年且有能力持续续约”",
-          "url": "https://wallstreetcn.com/articles/3774048",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 07时47分]"
-        },
-        {
-          "title": "财联社6月9日电，台积电美股盘前跌近1%。",
-          "url": "https://api3.cls.cn/share/article/2395001?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "下午察：宇树合作英伟达是卖国？",
-          "url": "https://www.zaochenbao.com/news/china/202606/0873674.html",
-          "source": "早报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 07时47分]"
-        },
-        {
-          "title": "韩国SK与英伟达携手打造AI工厂",
-          "url": "https://www.zaochenbao.com/news/politics/202606/0873652.html",
-          "source": "早报",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 07时47分]"
-        },
-        {
-          "title": "台积电重申2026资本开支为520~560亿美金，科创半导体ETF、半导体设备ETF涨超5%",
-          "url": "https://www.gelonghui.com/news/5248326",
-          "source": "格隆汇",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "半导体设备ETF易方达(159558)涨4.79%，近20日资金净流入9.68亿元，台积电重申2026资本开支为520~560亿美金",
-          "url": "https://www.gelonghui.com/news/5248324",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "财联社6月9日电，英伟达CEO黄仁勋拒绝了沃伦本周出席听证会作证的邀请。",
-          "url": "https://api3.cls.cn/share/article/2394189?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 06时10分]"
-        },
-        {
-          "title": "大摩点评英伟达“存储减半”传闻：这是真实的短缺，供应约束已成AI最大拦路虎",
-          "url": "https://wallstreetcn.com/articles/3774121",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "英伟达Blackwell“一芯难求”？韦德布什： 从来未见如此供应紧张局面！",
-          "url": "https://www.cls.cn/detail/2394483",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "据NBC：英伟达(NVDA.O)CEO表示很乐意接待沃伦并与她交谈。",
-          "url": "https://flash.jin10.com/detail/20260609033802533800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "英伟达Blackwell“一芯难求”？ 机构：从来未见如此供应紧张局面",
-          "url": "https://api3.cls.cn/share/article/2394670?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "据NBC：英伟达(NVDA.O)CEO拒绝了沃伦本周出席听证会作证的邀请。",
-          "url": "https://flash.jin10.com/detail/20260609033604301800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "明晟公司（MSCI）新兴市场股票指数收跌3.6%，创3月份前期以来最大单日跌幅。 韩国Kospi股指跌超8%。 发展中国家科技股指陷入回调区间，较上周所创历史最高位回撤12%。 三星电子、SK海力士、台积电等亚洲AI相关芯片股构成最大拖累。",
-          "url": "https://wallstreetcn.com/livenews/3116349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "台积电美股盘前跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3116742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "“国产GPU四小龙”或凑齐最后一位资本市场“牌友” 燧原科技将于6月15日上会",
-          "url": "https://www.cls.cn/detail/2394108",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 11时27分]"
-        },
-        {
-          "title": "SENASIC(06675.HK)拟全球发售5340.7万股H股 预计6月17日上市",
-          "url": "https://www.gelonghui.com/news/5248288",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
-        },
-        {
-          "title": "接连跌停，市值蒸发400亿！算力明星股利通电子回应“小作文”传言",
-          "url": "https://www.cls.cn/detail/2394138",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时46分 ~ 15时03分]"
-        },
-        {
-          "title": "SENASIC(06675.HK)6月9日起招股 发售价将为每股18.36港元",
-          "url": "https://www.gelonghui.com/news/5248287",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
-        },
-        {
-          "title": "海南：支持建设国际智算中心，探索词元出海服务新模式",
-          "url": "https://wallstreetcn.com/livenews/3116502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "5月出口超预期+AI算力涨价潮，创业板ETF天弘（159977）标的指数大涨3.57%，连续两日“吸金”",
-          "url": "https://www.gelonghui.com/news/5248364",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 21时44分]"
-        },
-        {
-          "title": "【电报解读】AI数据中心向800V HVDC供电架构升级下，SiC成为突破效率瓶颈的关键，行业正经历从“新能源驱动”向“算力需求拉动”的历史性动能切换，这家公司碳化硅产能约2500片/月",
-          "url": "https://api3.cls.cn/share/article/2395137?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "【盘中宝】AI算力需求持续高景气，这类材料产业化进程显著加快，这家公司具有相关领域产品加工技术",
-          "url": "https://api3.cls.cn/share/article/2394467?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "国产GPU首次全栈支撑世界模型原生训练",
-          "url": "https://api3.cls.cn/share/article/2394461?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "国产GPU首次全栈支撑世界模型原生训练",
-          "url": "https://wallstreetcn.com/livenews/3116493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "【财联社早知道】未来五年新一代通信网预计将带动上下游总产出约7万亿元；高端AI算力对高速、高频、高密度PCB的需求，将在Rubin时代彻底爆发；谷歌DeepMind在欧洲启动机器人加速器项目",
-          "url": "https://api3.cls.cn/share/article/2394807?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "连获2个30cm涨停！机器人热股逼近新高，大号连板股年内盘点，这些板块占比领先",
-          "url": "https://www.cls.cn/detail/2393742",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 07时47分]"
-        },
-        {
-          "title": "【研选•研报数据】地下管网跻身国家级重点投资领域，行业战略地位大幅提升；公司形成“弹性元件+牵引系统”双主业驱动格局，并前瞻布局空气弹簧与人形机器人特种弹簧，打开长期成长边界",
-          "url": "https://api3.cls.cn/share/article/2393227?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
-        },
-        {
-          "title": "两部门：到2026年底人形机器人等重点产品在一批代表性场景中率先完成应用验证和常态部署 开启“作业模式”",
-          "url": "https://www.cls.cn/detail/2394324",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "沪指失守4000点 机器人板块逆势上涨",
-          "url": "https://www.zaochenbao.com/news/china/202606/0873675.html",
-          "source": "早报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 07时47分]"
-        },
-        {
-          "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%",
-          "url": "https://wallstreetcn.com/articles/3774065",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时14分]"
-        },
-        {
-          "title": "A股异动丨两部委大动作！机器人概念全线上涨，晋拓股份、埃斯顿等多股涨停",
-          "url": "https://www.gelonghui.com/news/5248357",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "财联社6月9日电，意大利竞争管理局结束了对Meta Platforms关于WhatsApp人工智能聊天机器人的调查。",
-          "url": "https://api3.cls.cn/share/article/2394148?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "谷歌在欧洲推出Google DeepMind Accelerator Robotics项目，从欧洲筛选出15家机器人公司。",
-          "url": "https://wallstreetcn.com/livenews/3116733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "英特尔 高通",
-      "match_count": 7,
+      "match_count": 6,
       "titles": [
         {
-          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3774056",
-          "source": "华尔街见闻",
+          "title": "纳斯达克100指数跌幅扩大至3.22%，迈威尔科技跌超13%，Arm控股跌10.7%，Lumentum跌10.6%，高通跌9.2%，Strategy跌9.1%，AMD、美光、英特尔跌超7%，星巴克涨3%，CTAS涨3.3%。费城半导体跌7.25%。",
+          "url": "https://wallstreetcn.com/livenews/3116951",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            2,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时46分 ~ 21时44分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "亚洲行变荐股秀？黄仁勋喊话投资者买入 高通盘前上涨逾3%",
           "url": "https://www.cls.cn/detail/2394873",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "财联社6月9日电，高通美股盘后一度涨超8%。",
-          "url": "https://api3.cls.cn/share/article/2394203?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时10分 ~ 07时47分]"
-        },
-        {
-          "title": "美股冲高回落！芯片股反弹，英特尔涨超11%，美光科技涨超9%",
-          "url": "https://www.gelonghui.com/news/5248284",
-          "source": "格隆汇",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
-        },
-        {
-          "title": "惠誉：预计美伊冲突将拖累GDP增长，推高通胀与债券收益率，并加剧全球主权国家的地缘政治风险。",
-          "url": "https://flash.jin10.com/detail/20260609011629598800",
-          "source": "金十数据",
-          "ranks": [
-            10
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "00时32分"
         },
         {
-          "title": "高通(QCOM.O)美股盘后上涨近8%。",
-          "url": "https://flash.jin10.com/detail/20260609050509753800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "Cadence宣布与英特尔(INTC.O)代工厂合作，旨在加速针对HPC和移动设计领域的英特尔14A工艺优化。",
-          "url": "https://flash.jin10.com/detail/20260609041815800800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
-          "url": "https://www.cls.cn/detail/2393777",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 07时47分]"
-        },
-        {
-          "title": "苹果(AAPL.O)在多项服务中引入AI智能体验。",
-          "url": "https://flash.jin10.com/detail/20260609210628292800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "苹果：在多项服务中引入AI智能体验。",
-          "url": "https://wallstreetcn.com/livenews/3116856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "博通、阿波罗、黑石集团成立战略平台 以加速超过20吉瓦的全球人工智能部署",
-          "url": "https://api3.cls.cn/share/article/2395183?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "阿波罗全球：战略平台旨在到2028年为领先的前沿人工智能实验室提供超过20吉瓦的计算能力。",
-          "url": "https://flash.jin10.com/detail/20260609210548983800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "博通(AVGO.O)、阿波罗、黑石集团(BX.N)成立战略平台，以加速超过20吉瓦的全球人工智能部署。",
-          "url": "https://flash.jin10.com/detail/20260609210136059800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "海南：到2030年商业航天产业营收力争达到500亿元",
-          "url": "https://api3.cls.cn/share/article/2394428?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "中国朱雀二号遥六火箭发射成功 将开展手机直连卫星试验",
-          "url": "https://www.zaochenbao.com/news/china/202606/0973763.html",
-          "source": "早报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "三维通信(002115.SZ)：控股子公司拟捐赠卫星通信服务创新实验平台等实验设备",
-          "url": "https://www.gelonghui.com/news/5248758",
-          "source": "格隆汇",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
-          "url": "https://www.cls.cn/detail/2394326",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "我国成功发射卫星互联网技术试验卫星",
-          "url": "https://wallstreetcn.com/livenews/3116853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "江西南昌一辆小米SU7 Ultra起火，小米公司回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33335969",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            10,
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时52分 ~ 18时46分]"
-        },
-        {
-          "title": "特斯拉涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3116298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股价最新上涨4.13%。",
-          "url": "https://flash.jin10.com/detail/20260609010812804800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "周一（6月8日），彭博电动汽车价格回报指数跌2.02%，报3706.35点。 全天处于下跌状态，亚太时段持续走低，北京时间09:31以来持续交投于3700点附近、15:00刷新日低至3672.92点。 成分股阿内卡矿业股份收跌8%，淡水河谷印尼公司跌7.22%，日本电产株式会社跌6.06%，Panasonic株式会社跌4.79%，小鹏集团H股跌4.62%，浙江零跑科技跌4.22%跌幅第六大，意法半导体法国巴黎股价则收涨4.01%，特斯拉涨4.59%，安霸股份涨8.19%。",
-          "url": "https://wallstreetcn.com/livenews/3116344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "财联社6月9日电，特斯拉日内涨幅超5%。",
-          "url": "https://api3.cls.cn/share/article/2394171?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
+          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
           "url": "https://wallstreetcn.com/articles/3774056",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 06时10分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
-          "title": "周一（6月8日）纽约尾盘，彭博谷物分类指数涨0.22%，报29.4516点。 CBOT玉米期货跌0.22%，CBOT小麦期货涨0.30%。 CBOT大豆期货跌0.42%，报11.1675美元/蒲式耳，豆粕期货跌0.61%，豆油期货涨0.77%。 CBOT瘦肉猪期货跌1.52%，活牛期货跌2.20%，饲牛期货跌1.03%。",
-          "url": "https://wallstreetcn.com/livenews/3116320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "周一（6月8日），美股行业ETF涨跌各异，半导体ETF收涨5%，全球科技股指数ETF、科技行业ETF至少涨2.15%，网络股指数ETF则收跌0.43%，全球航空业ETF跌0.86%。",
-          "url": "https://wallstreetcn.com/livenews/3116340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "LME期铜收涨96美元，报13616美元/吨。 LME期铝收涨12美元，报3604美元/吨。 LME期锌收涨7美元，报3537美元/吨。 LME期铅收跌15美元，报1990美元/吨。 LME期镍收跌240美元，报18341美元/吨。 LME期锡收跌656美元，报52279美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3116282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "丰田入股日本自动驾驶企业Tier IV",
-          "url": "https://api3.cls.cn/share/article/2394674?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "Stellantis及其合作伙伴在卢森堡启动自动驾驶项目。",
-          "url": "https://wallstreetcn.com/livenews/3116592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "财联社6月9日电，STELLANTIS和合作伙伴在卢森堡启动自动驾驶项目。",
-          "url": "https://api3.cls.cn/share/article/2394665?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "财联社6月9日电，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨650元/吨，中间价报164500元/吨。",
-          "url": "https://api3.cls.cn/share/article/2394482?os=web&sv=7.7.5&app=",
+          "title": "费城半导体指数跌6% 高通、ARM跌9%",
+          "url": "https://api3.cls.cn/share/article/2395317?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "碳酸锂2609盘中拉升，涨幅扩大至2.92%，最新报167600元/吨；成交额约342.06亿元，日内增仓1.43万手，持仓变化明显。",
-          "url": "https://flash.jin10.com/detail/20260609144601828800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时03分"
+          "time_info": "00时32分"
         },
         {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报164500元/吨，较上日16:30价格上涨650元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3116475",
+          "title": "纳斯达克100指数跌幅扩大至2%，成分股美满电子跌10%，Lumentum跌8.3%，Arm控股跌8.1%，高通、Strategy、Applovin、AMD、美光等至少跌4.7%。 费城半导体指数跌4.1%。",
+          "url": "https://wallstreetcn.com/livenews/3116936",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "00时32分"
+        },
+        {
+          "title": "费城半导体指数跌超6%，成分股迈威尔科技(MRVL.O)、Arm(ARM.O)跌超10%，高通(QCOM.O)跌超9%，AMD(AMD.O)、美光科技(MU.O)跌超7%。",
+          "url": "https://flash.jin10.com/detail/20260610001121922800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     },
     {
-      "keyword_group": "液冷",
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344289",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "股价未能反映潜力！王传福：2027年将有“惊艳”技术爆发｜比亚迪股东大会",
+          "url": "https://www.cls.cn/detail/2395116",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "苹果市值一夜蒸发超1.5万亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%851.5%E4%B8%87%E4%BA%BF%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 2,
       "titles": [
         {
-          "title": "【风口研报·公司】1.6T光模块功耗上行，液冷散热是必选项，这家公司配套全球主流液冷连接器厂商，当前已有产线正常生产，年内新增扩产落地",
-          "url": "https://api3.cls.cn/share/article/2394477?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
+          "title": "中国朱雀二号遥六火箭发射成功 将开展手机直连卫星试验",
+          "url": "https://www.zaochenbao.com/news/china/202606/0973763.html",
+          "source": "早报",
           "ranks": [
-            6
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
-          "title": "液冷服务器概念震荡反弹 南方泵业涨超10%",
-          "url": "https://api3.cls.cn/share/article/2394471?os=web&sv=7.7.5&app=",
+          "title": "【电报解读】垣信首颗手机直连试验星成功发射！机构预计2026年全球手机直连卫星市场规模将增长至500亿元，这家公司具备阵列天线的专业化设计能力",
+          "url": "https://api3.cls.cn/share/article/2395225?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            8
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "武契奇：塞中联合机器人工厂一个月后开业",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/06/09/bee3de1c4ba2446fbf8d4f5ba1788ab1.html",
+          "source": "参考消息",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     },
     {
       "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "新质观察｜从“跟风”到“原创”：中国创新药如何筑牢地基",
           "url": "https://m.thepaper.cn/newsDetail_forward_33337089",
           "source": "澎湃新闻",
           "ranks": [
-            19,
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 21时44分]"
-        },
-        {
-          "title": "创新药概念震荡拉升 常山药业涨超13%",
-          "url": "https://api3.cls.cn/share/article/2394427?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     },
     {
-      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "菲利华：拟与长盈通、长翼共盈在湖北省荆州市荆州经济技术开发区共同出资设立湖北聚通石英新材料有限公司，合作建设“光纤配套用高纯精密石英材料项目”，主要生产光纤配套用衬管、套管等产品，预计产能70吨/年，本项目总投资估算为1亿元。",
-          "url": "https://wallstreetcn.com/livenews/3116745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "从电力管家到散热高手，碳化硅全产业链供需两旺",
-          "url": "https://wallstreetcn.com/livenews/3116370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 1,
       "titles": [
         {
-          "title": "周一（6月8日）纽约尾盘，现货黄金大致持平，报4326.91美元/盎司，整体呈现出V形走势，交投于4353.37-4268.80美元。 COMEX黄金期货跌0.34%，报4350.30美元/盎司，北京时间13:37曾刷新日低至4293美元。 现货白银涨0.47%，报68.1553美元/盎司。 COMEX白银期货跌1.23%，报68.250美元/盎司。 COMEX铜期货涨0.61%，报6.3315美元/磅。 现货铂金跌1.17%，现货钯金跌0.79%。",
-          "url": "https://wallstreetcn.com/livenews/3116353",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 07时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股光伏设备板块异动拉升，TCL中环直线涨停，清源股份、国晟科技、欧晶科技、金博股份、帝科股份跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3116488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "00时32分"
         }
       ]
     },
@@ -1973,11 +213,45 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33339692",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时44分"
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉(TSLA.O)跌幅达5%。",
+          "url": "https://flash.jin10.com/detail/20260610001744004800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股费城半导体指数跌幅扩大至6%，迈威尔科技/美满电子回撤超10%，Arm跌超10%，高通跌超9%，AMD、美光科技跌超7%，台积电跌2.6%，英伟达跌2.73%。 纳斯达克100指数跌超2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3116949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     }
