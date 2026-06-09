@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-09T18:46:14.364012+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-06-09T21:44:38.404844+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
           "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
           "url": "https://wallstreetcn.com/articles/3774148",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 21时44分]"
         },
         {
           "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
@@ -29,6 +30,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时26分 ~ 15时03分]"
+        },
+        {
+          "title": "美方将阿里巴巴、比亚迪等列入“涉军”清单，外交部：敦促美方停止无理打压中企",
+          "url": "https://www.cls.cn/detail/2394752",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 21时44分]"
         },
         {
           "title": "苹果开发者大会",
@@ -62,7 +75,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -106,7 +119,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -139,7 +152,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -155,24 +168,13 @@
           "time_info": "01时52分"
         },
         {
-          "title": "美方将阿里巴巴、比亚迪等列入“涉军”清单，外交部：敦促美方停止无理打压中企",
-          "url": "https://www.cls.cn/detail/2394752",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
           "title": "欧盟委员会发言人：不在欧盟推出Siri AI功能完全是苹果(AAPL.O)自己的决定。",
           "url": "https://flash.jin10.com/detail/20260609181631062800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -224,6 +226,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 04时14分]"
+        },
+        {
+          "title": "评论：“库克时代”最后一场开发者大会反应平淡 苹果股价跌1.9%",
+          "url": "https://www.zaochenbao.com/news/opinion/202606/0973719.html",
+          "source": "早报",
+          "ranks": [
+            19,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 21时44分]"
         },
         {
           "title": "苹果涨幅扩大至2.7%，刷新日高。",
@@ -307,18 +322,6 @@
           "time_info": "[04时14分 ~ 06时10分]"
         },
         {
-          "title": "评论：“库克时代”最后一场开发者大会反应平淡 苹果股价跌1.9%",
-          "url": "https://www.zaochenbao.com/news/opinion/202606/0973719.html",
-          "source": "早报",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 18时46分]"
-        },
-        {
           "title": "财联社6月9日电，苹果公司库克表示，WWDC开发者大会将侧重于苹果智能（Apple Intelligence）与Siri。",
           "url": "https://api3.cls.cn/share/article/2394164?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -336,9 +339,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
+        },
+        {
+          "title": "苹果(AAPL.O)：新推出的功能包括改进的Flyover视图和本地列表，以及“查找”中灵活的共享选项。",
+          "url": "https://flash.jin10.com/detail/20260609210820198800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "欧盟委员会：没有任何规定禁止苹果在欧盟推出新产品。 苹果无法使Siri实现互操作性。",
@@ -347,9 +361,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
+        },
+        {
+          "title": "财联社6月9日电，苹果公司在多项服务中引入智能体验。",
+          "url": "https://api3.cls.cn/share/article/2395193?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "美国科技记者古尔曼：到目前为止，苹果(AAPL.O)正在逐一阐述多年来众多用户期待已久的性能提升内容。",
@@ -784,19 +809,8 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "苹果：我们利用谷歌Gemini来开发下一代基础人工智能模型。 推出由苹果智能技术驱动的全新Siri AI。 新的AI架构支持应用操作和屏幕感知功能。",
-          "url": "https://wallstreetcn.com/livenews/3116301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
         {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
           "url": "https://wallstreetcn.com/articles/3774156",
@@ -807,8 +821,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 21时44分]"
+        },
+        {
+          "title": "苹果：我们利用谷歌Gemini来开发下一代基础人工智能模型。 推出由苹果智能技术驱动的全新Siri AI。 新的AI架构支持应用操作和屏幕感知功能。",
+          "url": "https://wallstreetcn.com/livenews/3116301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
@@ -981,6 +1006,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "美股盘前要闻一览：黄仁勋喊话“买高通股票”；OpenAI已秘密递交IPO申请；马斯克称数据中心未来有望部署至近地轨道",
+          "url": "https://api3.cls.cn/share/article/2395160?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行",
           "url": "https://wallstreetcn.com/livenews/3116301",
           "source": "华尔街见闻-快讯",
@@ -1015,7 +1051,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -1093,7 +1129,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -1148,7 +1184,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         }
@@ -1156,7 +1192,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "“国产GPU四小龙”或凑齐最后一位资本市场“牌友” 燧原科技将于6月15日上会",
@@ -1238,8 +1274,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 21时44分]"
+        },
+        {
+          "title": "【电报解读】AI数据中心向800V HVDC供电架构升级下，SiC成为突破效率瓶颈的关键，行业正经历从“新能源驱动”向“算力需求拉动”的历史性动能切换，这家公司碳化硅产能约2500片/月",
+          "url": "https://api3.cls.cn/share/article/2395137?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "【盘中宝】AI算力需求持续高景气，这类材料产业化进程显著加快，这家公司具有相关领域产品加工技术",
@@ -1273,6 +1320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "【财联社早知道】未来五年新一代通信网预计将带动上下游总产出约7万亿元；高端AI算力对高速、高频、高密度PCB的需求，将在Rubin时代彻底爆发；谷歌DeepMind在欧洲启动机器人加速器项目",
+          "url": "https://api3.cls.cn/share/article/2394807?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         }
       ]
     },
@@ -1365,7 +1423,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         }
@@ -1373,7 +1431,7 @@
     },
     {
       "keyword_group": "英特尔 高通",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -1381,11 +1439,23 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时46分 ~ 18时46分]"
+          "appearance_count": 7,
+          "time_info": "[07时46分 ~ 21时44分]"
+        },
+        {
+          "title": "亚洲行变荐股秀？黄仁勋喊话投资者买入 高通盘前上涨逾3%",
+          "url": "https://www.cls.cn/detail/2394873",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "财联社6月9日电，高通美股盘后一度涨超8%。",
@@ -1442,6 +1512,141 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
+          "url": "https://www.cls.cn/detail/2393777",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 07时47分]"
+        },
+        {
+          "title": "苹果(AAPL.O)在多项服务中引入AI智能体验。",
+          "url": "https://flash.jin10.com/detail/20260609210628292800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "苹果：在多项服务中引入AI智能体验。",
+          "url": "https://wallstreetcn.com/livenews/3116856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "博通、阿波罗、黑石集团成立战略平台 以加速超过20吉瓦的全球人工智能部署",
+          "url": "https://api3.cls.cn/share/article/2395183?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "阿波罗全球：战略平台旨在到2028年为领先的前沿人工智能实验室提供超过20吉瓦的计算能力。",
+          "url": "https://flash.jin10.com/detail/20260609210548983800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "博通(AVGO.O)、阿波罗、黑石集团(BX.N)成立战略平台，以加速超过20吉瓦的全球人工智能部署。",
+          "url": "https://flash.jin10.com/detail/20260609210136059800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "海南：到2030年商业航天产业营收力争达到500亿元",
+          "url": "https://api3.cls.cn/share/article/2394428?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "中国朱雀二号遥六火箭发射成功 将开展手机直连卫星试验",
+          "url": "https://www.zaochenbao.com/news/china/202606/0973763.html",
+          "source": "早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "三维通信(002115.SZ)：控股子公司拟捐赠卫星通信服务创新实验平台等实验设备",
+          "url": "https://www.gelonghui.com/news/5248758",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
+          "url": "https://www.cls.cn/detail/2394326",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "我国成功发射卫星互联网技术试验卫星",
+          "url": "https://wallstreetcn.com/livenews/3116853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         }
       ]
     },
@@ -1601,45 +1806,6 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "海南：到2030年商业航天产业营收力争达到500亿元",
-          "url": "https://api3.cls.cn/share/article/2394428?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "三维通信(002115.SZ)：控股子公司拟捐赠卫星通信服务创新实验平台等实验设备",
-          "url": "https://www.gelonghui.com/news/5248758",
-          "source": "格隆汇",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
-          "url": "https://www.cls.cn/detail/2394326",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 3,
       "titles": [
@@ -1711,6 +1877,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "新质观察｜从“跟风”到“原创”：中国创新药如何筑牢地基",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33337089",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 21时44分]"
+        },
+        {
           "title": "创新药概念震荡拉升 常山药业涨超13%",
           "url": "https://api3.cls.cn/share/article/2394427?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -1720,17 +1898,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "新质观察｜从“跟风”到“原创”：中国创新药如何筑牢地基",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33337089",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         }
       ]
     },
@@ -1745,7 +1912,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -1781,25 +1948,6 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
-          "url": "https://www.cls.cn/detail/2393777",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 07时47分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 1,
       "titles": [
@@ -1813,6 +1961,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "脑机接口公司博睿康完成IPO辅导",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33339692",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         }
       ]
     }
