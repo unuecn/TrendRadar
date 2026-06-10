@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T05:10:15.748983+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-11T07:08:31.413849+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "财联社6月11日电，OpenAI与Visa携手合作，让人工智能代理能够在线进行购物。",
@@ -20,6 +20,17 @@
           "time_info": "[02时31分 ~ 05时10分]"
         },
         {
+          "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI（甲骨文云基础设施建设）客户的Codex进行合作。",
+          "url": "https://wallstreetcn.com/livenews/3117747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
           "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
           "url": "https://wallstreetcn.com/livenews/3117653",
           "source": "华尔街见闻-快讯",
@@ -29,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "OpenAI：OpenAI与甲骨文合作，使OpenAI的前沿模型和Codex更易于甲骨文云基础设施客户访问。",
+          "url": "https://flash.jin10.com/detail/20260611062614227800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "市场消息：OpenAI与Visa(V.N)合作，允许人工智能代理在线购物。",
@@ -62,6 +84,95 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "雷达",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊拉克北部美军基地雷达遭袭",
+          "url": "https://api3.cls.cn/share/article/2396581?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "伊拉克北部美军基地雷达遭袭",
+          "url": "https://wallstreetcn.com/livenews/3117745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "伊拉克北部美军基地雷达遭袭",
+          "url": "https://flash.jin10.com/detail/20260611062721395800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "报道：美国打击伊朗南部防空系统和雷达",
+          "url": "https://wallstreetcn.com/livenews/3117729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "据AXIOS：一位美国官员表示，所有被袭击的目标都在伊朗南部，包括防空系统、雷达以及无人机指挥控制单元。",
+          "url": "https://flash.jin10.com/detail/20260611055354056800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI算力催生散热材料新机遇 多家A股公司布局",
+          "url": "https://api3.cls.cn/share/article/2396587?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "【焦点复盘】科创50冲高回落跌0.65%，算力硬件板块再陷低迷，资金逆势抱团银行等红利股",
+          "url": "https://www.cls.cn/detail/2396101",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 07时08分]"
         }
       ]
     },
@@ -132,11 +243,12 @@
           "url": "https://www.cls.cn/detail/2396461",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 07时08分]"
         },
         {
           "title": "光伏龙头股突然绝地反攻，强制性能耗能效标准或于近期出台？",
@@ -163,8 +275,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 07时08分]"
         },
         {
           "title": "高通、英伟达等芯片股下挫 纳指受拖累收跌近2%",
@@ -173,9 +285,38 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国5月CPI重返4%时代！能源价格飙升推高通胀 市场押注美联储继续观望",
+          "url": "https://www.cls.cn/detail/2396409",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 07时08分]"
+        },
+        {
+          "title": "美股大跌！纳指跌近2%，道指下挫逾950点，高通跌超6%，超微电脑跌28%",
+          "url": "https://www.gelonghui.com/news/5249900",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         }
       ]
     },
@@ -218,26 +359,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         }
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 1,
       "titles": [
         {
-          "title": "【焦点复盘】科创50冲高回落跌0.65%，算力硬件板块再陷低迷，资金逆势抱团银行等红利股",
-          "url": "https://www.cls.cn/detail/2396101",
+          "title": "英伟达、亚马逊等巨头参投 德国机器人公司Neura获最高14亿美元融资",
+          "url": "https://www.cls.cn/detail/2396520",
           "source": "财联社热门",
           "ranks": [
-            7
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 05时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         }
       ]
     },
@@ -250,11 +391,12 @@
           "url": "https://www.cls.cn/detail/2396287",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 07时08分]"
         }
       ]
     },
@@ -272,23 +414,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英特尔 高通",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国5月CPI重返4%时代！能源价格飙升推高通胀 市场押注美联储继续观望",
-          "url": "https://www.cls.cn/detail/2396409",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 05时10分]"
         }
       ]
     }
