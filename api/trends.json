@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T02:31:34.736398+08:00",
-  "total_titles_processed": 232,
+  "generated_at": "2026-06-11T05:10:15.748983+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://api3.cls.cn/share/article/2396535?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 05时10分]"
         },
         {
           "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
@@ -73,11 +74,12 @@
           "url": "https://api3.cls.cn/share/article/2396536?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 05时10分]"
         },
         {
           "title": "比利时北部佛兰德斯地区交通部长：特斯拉(TSLA.O)的全自动驾驶（FSD）已在比利时获得授权。",
@@ -101,11 +103,12 @@
           "url": "https://api3.cls.cn/share/article/2396531?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            10
+            10,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 05时10分]"
         },
         {
           "title": "美国国家飓风中心：卫星风数据显示，热带气旋“克里斯蒂娜”（Cristina）已减弱为热带低压。预计暴雨将持续影响中美洲部分地区，直至周四。",
@@ -132,8 +135,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 05时10分]"
         },
         {
           "title": "光伏龙头股突然绝地反攻，强制性能耗能效标准或于近期出台？",
@@ -143,8 +146,36 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 05时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“内存减半”实为不得已？机构：英伟达要力保CPU出货",
+          "url": "https://www.cls.cn/detail/2396007",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 05时10分]"
+        },
+        {
+          "title": "高通、英伟达等芯片股下挫 纳指受拖累收跌近2%",
+          "url": "https://api3.cls.cn/share/article/2396551?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "05时10分"
         }
       ]
     },
@@ -177,6 +208,23 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（6月10日），美股行业ETF涨跌各异，全球航空业ETF收跌4.59%，半导体ETF跌3.40%，全球科技股指数ETF、科技行业ETF、可选消费ETF、生物科技指数ETF、网络股指数ETF至多跌2.29%，银行业ETF涨0.28%，能源业ETF涨1.50%。",
+          "url": "https://wallstreetcn.com/livenews/3117687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 1,
       "titles": [
@@ -188,8 +236,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 05时10分]"
         }
       ]
     },
@@ -205,8 +253,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 05时10分]"
         }
       ]
     },
@@ -228,23 +276,6 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“内存减半”实为不得已？机构：英伟达要力保CPU出货",
-          "url": "https://www.cls.cn/detail/2396007",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "英特尔 高通",
       "match_count": 1,
       "titles": [
@@ -256,8 +287,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 05时10分]"
         }
       ]
     }
