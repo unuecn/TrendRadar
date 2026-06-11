@@ -1,11 +1,95 @@
 {
-  "generated_at": "2026-06-12T05:20:47.941493+08:00",
-  "total_titles_processed": 326,
+  "generated_at": "2026-06-12T07:07:00.312072+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "台积电CFO透露或上调芯片售价",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/06/11/11432d8644aa48da83e7439cbbd4b452.html",
+          "source": "参考消息",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 07时07分]"
+        },
+        {
+          "title": "英伟达聘请Bruce Andrews负责政府事务。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3118444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美股异动｜台积电涨超2%，3纳米代工价或上调15%，产能拉满仍供不应求",
+          "url": "https://www.gelonghui.com/news/5250668",
+          "source": "格隆汇",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 07时07分]"
+        },
+        {
+          "title": "台经济部回应台积电侵权诉讼：一律合规经营",
+          "url": "https://www.zaochenbao.com/news/taiwan/202606/1173919.html",
+          "source": "早报",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 07时07分]"
+        },
+        {
+          "title": "消息人士：英伟达(NVDA.O)聘请资深说客Bruce Andrews担任其华盛顿特区政府事务负责人，Andrews曾担任商英特尔的政府事务负责人以及奥巴马政府官员。",
+          "url": "https://flash.jin10.com/detail/20260612060820533800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 07时07分]"
+        },
+        {
+          "title": "财联社6月12日电，英伟达股东大会定于6月24日举行，个人可线上参会。",
+          "url": "https://api3.cls.cn/share/article/2397752?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 07时07分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)股东大会定于6月24日举行，个人可在线参与。",
+          "url": "https://flash.jin10.com/detail/20260612053302916800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 07时07分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "在美股时段交易的费城金银指数收涨5.40%，报328.19点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨4.01%，报2210.21点，美股开盘之前维持微幅下跌状态——持稳于2120点附近，随后微幅震荡上行，北京时间01:28开启一波瞬间加速上涨行情。 在美股时段交易的原材料指数收涨4.24%，报248.30点。 在美股时段交易的金属与矿业指数收涨6.02%，报301.05点，跳空高开之后持续上扬。",
@@ -14,7 +98,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -25,9 +109,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "美元指数周四跌超0.2%，纽约中午跳水，南非兰特涨1.9%，巴西雷亚尔涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3118421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.22%，暂报2238.79点，北京时间01:00-12:00走出一波V形反转行情——06:18刷新日低至2159.74点，12:00以来大致持平。 MarketVectorTM数字资产100中盘指数涨0.50%，报2554.94点。 MarketVector数字资产100指数涨0.42%，报12343.45点。 目前，Solana涨2.78%，狗狗币涨1.62%，XRP涨0.71%。 比特币涨1.09%，暂报62524.99美元；以太坊涨0.62%，暂报1637.85美元。",
@@ -54,47 +149,8 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "台积电CFO透露或上调芯片售价",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/06/11/11432d8644aa48da83e7439cbbd4b452.html",
-          "source": "参考消息",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 05时20分]"
-        },
-        {
-          "title": "美股异动｜台积电涨超2%，3纳米代工价或上调15%，产能拉满仍供不应求",
-          "url": "https://www.gelonghui.com/news/5250668",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 05时20分]"
-        },
-        {
-          "title": "台经济部回应台积电侵权诉讼：一律合规经营",
-          "url": "https://www.zaochenbao.com/news/taiwan/202606/1173919.html",
-          "source": "早报",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 05时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 黄金",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -104,8 +160,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 07时07分]"
+        },
+        {
+          "title": "特朗普再次“TACO”，原油暴跌，美股债大反弹，半导体指数大涨8%，黄金收复4200关口",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时35分 ~ 05时20分]"
+          "time_info": "[07时06分 ~ 07时07分]"
         },
         {
           "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
@@ -118,6 +185,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 05时20分]"
+        },
+        {
+          "title": "金价跌了生意却没疯涨时好",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E7%94%9F%E6%84%8F%E5%8D%B4%E6%B2%A1%E7%96%AF%E6%B6%A8%E6%97%B6%E5%A5%BD%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 07时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏",
+          "url": "https://api3.cls.cn/share/article/2397767?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 07时07分]"
+        },
+        {
+          "title": "AI算力需求爆发 PCB行业掀起扩产潮",
+          "url": "https://api3.cls.cn/share/article/2397766?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 07时07分]"
         }
       ]
     },
@@ -130,11 +236,12 @@
           "url": "https://www.cls.cn/detail/2397230",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 05时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 07时07分]"
         },
         {
           "title": "乐动机器人(01236.HK)旗下安思博签约特尔施特根任全球品牌大使",
@@ -190,8 +297,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 05时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 07时07分]"
         },
         {
           "title": "OpenAI在美申请IPO “万亿美元三剑客”扎堆上市",
@@ -201,15 +308,26 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 05时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 07时07分]"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "超1400次高频提及 地方“十五五”规划点题人工智能",
+          "url": "https://api3.cls.cn/share/article/2397772?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 07时07分]"
+        },
         {
           "title": "美国证交会文件显示：Alphabet(GOOG.O)股东关于水资源使用和人工智能报告的提案未在年度股东大会上获得批准。",
           "url": "https://flash.jin10.com/detail/20260612041932514800",
@@ -217,9 +335,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "商业航天领域专家：2026年是中国火箭运力突破之年，相信短期内可以有大突破",
+          "url": "https://wallstreetcn.com/livenews/3118431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     },
@@ -232,11 +367,12 @@
           "url": "https://www.cls.cn/detail/2397533",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 05时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 07时07分]"
         }
       ]
     }
