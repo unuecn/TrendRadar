@@ -1,79 +1,34 @@
 {
-  "generated_at": "2026-06-12T02:35:26.404226+08:00",
-  "total_titles_processed": 233,
+  "generated_at": "2026-06-12T05:20:47.941493+08:00",
+  "total_titles_processed": 326,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 3,
+      "keyword_group": "美债 美股 美元",
+      "match_count": 4,
       "titles": [
         {
-          "title": "台积电CFO透露或上调芯片售价",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/06/11/11432d8644aa48da83e7439cbbd4b452.html",
-          "source": "参考消息",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "美股异动｜台积电涨超2%，3纳米代工价或上调15%，产能拉满仍供不应求",
-          "url": "https://www.gelonghui.com/news/5250668",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "台经济部回应台积电侵权诉讼：一律合规经营",
-          "url": "https://www.zaochenbao.com/news/taiwan/202606/1173919.html",
-          "source": "早报",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
+          "title": "在美股时段交易的费城金银指数收涨5.40%，报328.19点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨4.01%，报2210.21点，美股开盘之前维持微幅下跌状态——持稳于2120点附近，随后微幅震荡上行，北京时间01:28开启一波瞬间加速上涨行情。 在美股时段交易的原材料指数收涨4.24%，报248.30点。 在美股时段交易的金属与矿业指数收涨6.02%，报301.05点，跳空高开之后持续上扬。",
+          "url": "https://wallstreetcn.com/livenews/3118403",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 2,
-      "titles": [
+          "time_info": "05时20分"
+        },
+        {
+          "title": "周四（6月11日），美股行业ETF普遍收涨，半导体ETF收涨6.75%，全球航空业ETF涨6.31%，全球科技股指数ETF、科技行业ETF、生物科技指数ETF、可选消费ETF、银行业ETF、网络股指数ETF至多涨3.73%，能源业ETF跌1.96%。",
+          "url": "https://wallstreetcn.com/livenews/3118388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.22%，暂报2238.79点，北京时间01:00-12:00走出一波V形反转行情——06:18刷新日低至2159.74点，12:00以来大致持平。 MarketVectorTM数字资产100中盘指数涨0.50%，报2554.94点。 MarketVector数字资产100指数涨0.42%，报12343.45点。 目前，Solana涨2.78%，狗狗币涨1.62%，XRP涨0.71%。 比特币涨1.09%，暂报62524.99美元；以太坊涨0.62%，暂报1637.85美元。",
           "url": "https://wallstreetcn.com/livenews/3118326",
@@ -99,6 +54,74 @@
       ]
     },
     {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "台积电CFO透露或上调芯片售价",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/06/11/11432d8644aa48da83e7439cbbd4b452.html",
+          "source": "参考消息",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 05时20分]"
+        },
+        {
+          "title": "美股异动｜台积电涨超2%，3纳米代工价或上调15%，产能拉满仍供不应求",
+          "url": "https://www.gelonghui.com/news/5250668",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 05时20分]"
+        },
+        {
+          "title": "台经济部回应台积电侵权诉讼：一律合规经营",
+          "url": "https://www.zaochenbao.com/news/taiwan/202606/1173919.html",
+          "source": "早报",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 05时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 05时20分]"
+        },
+        {
+          "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 05时20分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 2,
       "titles": [
@@ -110,8 +133,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 05时20分]"
         },
         {
           "title": "乐动机器人(01236.HK)旗下安思博签约特尔施特根任全球品牌大使",
@@ -121,8 +144,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 05时20分]"
         }
       ]
     },
@@ -163,11 +186,12 @@
           "url": "https://wallstreetcn.com/articles/3774400",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 05时20分]"
         },
         {
           "title": "OpenAI在美申请IPO “万亿美元三剑客”扎堆上市",
@@ -177,8 +201,25 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 05时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国证交会文件显示：Alphabet(GOOG.O)股东关于水资源使用和人工智能报告的提案未在年度股东大会上获得批准。",
+          "url": "https://flash.jin10.com/detail/20260612041932514800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时35分"
+          "time_info": "05时20分"
         }
       ]
     },
@@ -194,8 +235,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 05时20分]"
         }
       ]
     }
