@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T00:56:41.823962+08:00",
-  "total_titles_processed": 233,
+  "generated_at": "2026-06-15T02:12:27.066529+08:00",
+  "total_titles_processed": 280,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时12分]"
         },
         {
           "title": "“白菜价”的人形机器人，没法进厂“打螺丝”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时12分]"
         },
         {
           "title": "经济日报：人形机器人为何热衷秀才艺",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时12分]"
         },
         {
           "title": "美媒文章：中国企业主导人形机器人供应链",
@@ -48,8 +48,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时12分]"
         },
         {
           "title": "德国机器人公司募资14亿美元",
@@ -59,8 +59,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时12分]"
         }
       ]
     },
@@ -73,11 +73,12 @@
           "url": "https://api3.cls.cn/share/article/2399372?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时12分]"
         },
         {
           "title": "中信建投：SpaceX创纪录IPO重塑估值体系 继续看好商业航天投资机会",
@@ -93,6 +94,35 @@
       ]
     },
     {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【金牌纪要库】光伏硅链供给侧治理提速，BC溢价与能效标准重塑中游利润分配",
+          "url": "https://api3.cls.cn/share/article/2399319?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时12分]"
+        },
+        {
+          "title": "硅料困在深渊、锂电站上顶峰，光伏巨头协鑫“脱硅入锂”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376023",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 1,
       "titles": [
@@ -104,8 +134,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时12分]"
         }
       ]
     },
@@ -121,8 +151,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时12分]"
         }
       ]
     },
@@ -138,8 +168,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时12分]"
         }
       ]
     },
@@ -152,28 +182,12 @@
           "url": "https://api3.cls.cn/share/article/2399365?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【金牌纪要库】光伏硅链供给侧治理提速，BC溢价与能效标准重塑中游利润分配",
-          "url": "https://api3.cls.cn/share/article/2399319?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时12分]"
         }
       ]
     }
