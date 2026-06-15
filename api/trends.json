@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T05:32:32.382568+08:00",
-  "total_titles_processed": 329,
+  "generated_at": "2026-06-16T07:45:32.044061+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 05时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 07时45分]"
         },
         {
           "title": "财联社6月16日电，英伟达据悉在大规模债券发行中吸引了850亿美元投资者需求。",
@@ -42,6 +42,17 @@
           "time_info": "02时25分"
         },
         {
+          "title": "英伟达为250亿美元高评级债券定价",
+          "url": "https://wallstreetcn.com/livenews/3119894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "英伟达(NVDA.O)料将从投资级债券市场融资250亿美元。",
           "url": "https://flash.jin10.com/detail/20260616020150502800",
           "source": "金十数据",
@@ -53,13 +64,24 @@
           "time_info": "02时25分"
         },
         {
+          "title": "SEC文件显示：英伟达(NVDA.O)申请最高达250亿美元的七部分票据发行。",
+          "url": "https://flash.jin10.com/detail/20260616053052231800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "英伟达五年来首次发行投资级债券 认购额高达850亿美元",
           "url": "https://api3.cls.cn/share/article/2400579?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         },
@@ -98,7 +120,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         },
@@ -109,7 +131,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         },
@@ -120,7 +142,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         }
@@ -138,19 +160,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 05时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 07时45分]"
         },
         {
           "title": "财联社6月16日电，高通据悉正在洽谈收购Tenstorrent公司，以拓展其人工智能芯片能力。",
           "url": "https://api3.cls.cn/share/article/2400606?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 07时45分]"
         },
         {
           "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
@@ -159,7 +182,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         },
@@ -170,9 +193,37 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【研选•研报数据】算力仍是稀缺资产，国内算力租赁市场进入量价齐升阶段，分析师看好供应能见度高的头部厂商；公司持续完善“光棒-光纤-光缆”全产业链布局，光纤有望为中短期业绩贡献显著增量",
+          "url": "https://api3.cls.cn/share/article/2399715?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "A股算力两大方向大面积涨停",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AE%97%E5%8A%9B%E4%B8%A4%E5%A4%A7%E6%96%B9%E5%90%91%E5%A4%A7%E9%9D%A2%E7%A7%AF%E6%B6%A8%E5%81%9C%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         }
       ]
     },
@@ -185,11 +236,12 @@
           "url": "https://www.gelonghui.com/news/5252337",
           "source": "格隆汇",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 05时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 07时45分]"
         }
       ]
     },
