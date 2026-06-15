@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T15:32:46.515194+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-06-15T21:55:34.711891+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "A股三大指数均涨超1%，贵金属、证券、航运、算力硬件等方向涨幅居前，沪深京三市上涨个股近4600只。",
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时56分 ~ 05时52分]"
+        },
+        {
+          "title": "大爆发！创业板狂飙超5%，算力硬件掀起涨停潮，恒科指涨超1%，智谱狂飙超30%",
+          "url": "https://wallstreetcn.com/articles/3774643",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "算力租赁概念快速拉升 宏景科技涨超10%",
@@ -58,7 +69,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
@@ -132,7 +143,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】美伊达成协议，国际油价大跌，美股期货拉涨",
@@ -146,6 +157,17 @@
           "time_info": "[10时02分 ~ 15时32分]"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF涨近6%，半导体ETF涨近4%，能源业ETF跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3119741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "周一亚太盘初，美元兑日元跌0.26%，刷新日低至159.82日元。 欧元兑美元涨0.31%，刷新日高至1.16关口上方；英镑兑美元涨约0.2%，瑞郎兑美元涨跌0.25%。 澳元兑美元涨0.52%，刷新日高、逼近至0.71关口，纽元兑美元涨0.4%，美元兑加元跌超0.1%。",
           "url": "https://wallstreetcn.com/livenews/3119286",
           "source": "华尔街见闻-快讯",
@@ -155,6 +177,75 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "英媒：人工智能正推动中国教育变革",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/06/14/48fdf91d20134cc89fb231250b639646.html",
+          "source": "参考消息",
+          "ranks": [
+            12,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 21时55分]"
+        },
+        {
+          "title": "英媒：人工智能正在彻底改变股市",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/06/15/c118602e5ab848f19724f36431f76c30.html",
+          "source": "参考消息",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩谈伊朗协议：现在的首要任务是执行。 如果黎巴嫩战火纷飞，就不可能有持久和平。 我们的能源依赖被武器化了。 将讨论减少对霍尔木兹海峡的依赖。 需要保护我们的市场免受不公平行为的侵害。 产能过剩对经济的危险性日益增加。 正与七国集团合作达成关键原材料协议。 七国集团在人工智能模型上展开协作至关重要。 在解除伊朗制裁之前，需要切实的变化。",
+          "url": "https://wallstreetcn.com/livenews/3119730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股存储芯片板块短线拉升，园林股份封板涨停，炬光科技、麦捷科技、利和兴、古鳌科技、盛视科技、胜科纳米、德福科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260615094329757800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "美股开盘：纳指高开超2% 存储芯片、光通信板块集体上涨",
+          "url": "https://api3.cls.cn/share/article/2400445?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     },
@@ -219,19 +310,30 @@
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 1,
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 2,
       "titles": [
         {
-          "title": "A股存储芯片板块短线拉升，园林股份封板涨停，炬光科技、麦捷科技、利和兴、古鳌科技、盛视科技、胜科纳米、德福科技跟涨。",
-          "url": "https://flash.jin10.com/detail/20260615094329757800",
-          "source": "金十数据",
+          "title": "苹果首款折叠屏机型延期至2027年初上市？公司回应",
+          "url": "https://wallstreetcn.com/livenews/3119748",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "21时55分"
+        },
+        {
+          "title": "苹果首款折叠屏机型延期至2027年初上市？公司回应",
+          "url": "https://api3.cls.cn/share/article/2400475?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     },
@@ -246,7 +348,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
@@ -263,7 +365,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
@@ -288,20 +390,19 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "keyword_group": "量子科技 量子计算 量子通信",
       "match_count": 1,
       "titles": [
         {
-          "title": "英媒：人工智能正推动中国教育变革",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/06/14/48fdf91d20134cc89fb231250b639646.html",
-          "source": "参考消息",
+          "title": "美股量子计算概念股全线上涨",
+          "url": "https://api3.cls.cn/share/article/2400474?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
           "ranks": [
-            12,
-            18
+            4
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 15时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     },
@@ -320,6 +421,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 02时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "财联社6月15日电，英伟达美股盘初涨超2.5%。",
+          "url": "https://api3.cls.cn/share/article/2400448?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     },
