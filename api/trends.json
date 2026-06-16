@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T03:02:51.840750+08:00",
-  "total_titles_processed": 234,
+  "generated_at": "2026-06-17T06:01:49.632411+08:00",
+  "total_titles_processed": 321,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 06时01分]"
         },
         {
           "title": "LME期铜收涨29美元，报13774美元/吨。 LME期铝收涨9美元，报3388美元/吨。 LME期锌收跌21美元，报3569美元/吨。 LME期铅收涨12美元，报1982美元/吨。 LME期镍收涨85美元，报17996美元/吨。 LME期锡收跌175美元，报55126美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -28,41 +28,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "财联社6月17日电，Snap涨超2%，公司推出售价为2195美元的AR眼镜。",
-          "url": "https://api3.cls.cn/share/article/2401681?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
         },
         {
-          "title": "Snap发布售价2195美元的AR眼镜，CEO押注“后智能手机时代”",
-          "url": "https://wallstreetcn.com/livenews/3120443",
+          "title": "美股大类资产类ETF涨跌各异，农产品基金收涨超1%，布油基金跌约4.7%",
+          "url": "https://wallstreetcn.com/livenews/3120490",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "06时01分"
+        },
+        {
+          "title": "半导体ETF收跌4.8%，领跌美股行业ETF，标普金融板块收涨将近1.5%",
+          "url": "https://wallstreetcn.com/livenews/3120489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         }
       ]
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
+          "url": "https://flash.jin10.com/detail/20260617051721170800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
         {
           "title": "财联社6月17日电，微软据称考虑将DeepSeek用于Copilot协同工作平台。",
           "url": "https://api3.cls.cn/share/article/2401674?os=web&sv=7.7.5&app=",
@@ -89,7 +94,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
@@ -97,6 +102,45 @@
           "source": "财联社热门",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 06时01分]"
+        },
+        {
+          "title": "微软洽谈出租甲骨文云算力，但因安全顾虑退出了谈判桌。 本来，这笔潜在交易价值可能会超过30亿美元。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3120480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "财联社6月17日电，Snap涨超2%，公司推出售价为2195美元的AR眼镜。",
+          "url": "https://api3.cls.cn/share/article/2401681?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "Snap发布售价2195美元的AR眼镜，CEO押注“后智能手机时代”",
+          "url": "https://wallstreetcn.com/livenews/3120443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -133,8 +177,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 06时01分]"
         }
       ]
     },
@@ -150,8 +194,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 06时01分]"
         }
       ]
     },
@@ -169,6 +213,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "随着光伏面板安装量激增，美国加州太阳能发电量超越天然气",
+          "url": "https://wallstreetcn.com/livenews/3120491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         }
       ]
     },
