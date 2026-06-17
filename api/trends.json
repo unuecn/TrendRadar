@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-06-17T12:03:19.693422+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-06-17T17:18:45.886902+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "国务院：深入实施“人工智能+”行动，强化人工智能的就业创造效应",
+          "url": "https://wallstreetcn.com/livenews/3120894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "国务院：适应人工智能发展促进就业创业",
+          "url": "https://api3.cls.cn/share/article/2402473?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "国务院：“十五五”时期实施稳岗扩容提质行动 适应人工智能发展促进就业创业",
+          "url": "https://api3.cls.cn/share/article/2402467?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
         {
           "title": "吴清：依法从严打击利用人工智能非法荐股等乱象",
           "url": "https://wallstreetcn.com/livenews/3120716",
@@ -14,7 +58,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -25,9 +69,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "上交所邱勇：落实好新发布的人工智能领域配套规则 推动更多创新示范案例落地",
+          "url": "https://wallstreetcn.com/livenews/3120875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "财联社6月17日电，慧与科技表示，携手英伟达将代理式人工智能引入生产环境。",
@@ -47,9 +102,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "上交所邱勇：落实好新发布的人工智能领域配套规则 推动更多创新示范案例落地",
+          "url": "https://api3.cls.cn/share/article/2402439?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "证监会主席吴清：扩大第五套标准适用范围至人工智能领域",
@@ -58,7 +124,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -69,7 +135,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -80,9 +146,81 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
+          "url": "https://flash.jin10.com/detail/20260617051721170800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
+          "url": "https://www.cls.cn/detail/2401773",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "路透：美国暂缓将DeepSeek等百家中企列入黑名单",
+          "url": "https://www.zaochenbao.com/news/politics/202606/1774334.html",
+          "source": "早报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "财联社6月17日电，微软据称考虑将DeepSeek用于Copilot协同工作平台。",
+          "url": "https://api3.cls.cn/share/article/2401674?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "豆包DeepSeek答题两极分化",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85DeepSeek%E7%AD%94%E9%A2%98%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "DeepSeek首轮融资梁文锋出资200亿",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         }
       ]
     },
@@ -98,8 +236,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 12时03分]"
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 17时18分]"
         },
         {
           "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
@@ -148,67 +286,6 @@
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
-          "url": "https://flash.jin10.com/detail/20260617051721170800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
-          "url": "https://www.cls.cn/detail/2401773",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "路透：美国暂缓将DeepSeek等百家中企列入黑名单",
-          "url": "https://www.zaochenbao.com/news/politics/202606/1774334.html",
-          "source": "早报",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "财联社6月17日电，微软据称考虑将DeepSeek用于Copilot协同工作平台。",
-          "url": "https://api3.cls.cn/share/article/2401674?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "DeepSeek首轮融资梁文锋出资200亿",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 4,
       "titles": [
@@ -231,7 +308,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -242,7 +319,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -260,47 +337,8 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "苹果2027新品蓝图曝光：摄像头耳机、二代折叠屏、20周年纪念iPhone齐发",
-          "url": "https://www.cls.cn/detail/2401688",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "港股异动丨舜宇大涨超9%领衔苹果概念股！苹果2027年推折叠iPhone及AI摄像头AirPods",
-          "url": "https://www.gelonghui.com/news/5253259",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "苹果计划2027年将推出带摄像头AirPods与新一代折叠iPhone",
-          "url": "https://api3.cls.cn/share/article/2401665?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国5月规模以上工业增加值同比加速至4.5%，3D打印、锂电池、工业机器人等增长较快",
@@ -324,6 +362,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时42分 ~ 07时43分]"
+        },
+        {
+          "title": "神通机器人教育(08206.HK)：预计年度净综合溢利900万至1000万港元",
+          "url": "https://www.gelonghui.com/news/5253515",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果2027新品蓝图曝光：摄像头耳机、二代折叠屏、20周年纪念iPhone齐发",
+          "url": "https://www.cls.cn/detail/2401688",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "港股异动丨舜宇大涨超9%领衔苹果概念股！苹果2027年推折叠iPhone及AI摄像头AirPods",
+          "url": "https://www.gelonghui.com/news/5253259",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "苹果计划2027年将推出带摄像头AirPods与新一代折叠iPhone",
+          "url": "https://api3.cls.cn/share/article/2401665?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         }
       ]
     },
@@ -349,9 +437,37 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药 新药研发 临床三期",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "热景生物(688068.SH)：子公司创新药SGT003注射液获得《药物临床试验批准通知书》",
+          "url": "https://www.gelonghui.com/news/5253524",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "绿叶制药(02186.HK)：创新药LY03015(VMAT2抑制剂╱Sigma-1R激动剂)治疗迟发性运动障碍的中国Ⅱ期临床研究取得积极结果",
+          "url": "https://www.gelonghui.com/news/5253144",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 06时01分]"
         }
       ]
     },
@@ -384,6 +500,90 @@
       ]
     },
     {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "我国成功发射实践31号卫星",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%AE%9E%E8%B7%B531%E5%8F%B7%E5%8D%AB%E6%98%9F%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "一分钟学会北斗卫星短信自救",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%88%86%E9%92%9F%E5%AD%A6%E4%BC%9A%E5%8C%97%E6%96%97%E5%8D%AB%E6%98%9F%E7%9F%AD%E4%BF%A1%E8%87%AA%E6%95%91%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，液化石油气（LPG）跌超7%，燃料油跌超5%，乙二醇（EG）、低硫燃料油（LU）、沥青、SC原油跌超4%，丙烯跌近4%，甲醇跌超3%。涨幅方面，尿素涨超3%，碳酸锂、铂、棉花、棉纱、豆二、沪铅、棕榈油涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260617113059090800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "硅业分会：本周多晶硅市场延续弱势",
+          "url": "https://api3.cls.cn/share/article/2402440?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股异动丨艾马克技术盘前涨超5% 与台积电宣布建立长期合作关系",
+          "url": "https://www.gelonghui.com/news/5253514",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "黄仁勋执锹现身！英伟达投资的磷化铟工厂奠基了",
+          "url": "https://www.cls.cn/detail/2401996",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "液冷",
       "match_count": 1,
       "titles": [
@@ -411,26 +611,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "绿叶制药(02186.HK)：创新药LY03015(VMAT2抑制剂╱Sigma-1R激动剂)治疗迟发性运动障碍的中国Ⅱ期临床研究取得积极结果",
-          "url": "https://www.gelonghui.com/news/5253144",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 06时01分]"
         }
       ]
     },
@@ -445,41 +628,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "我国成功发射实践31号卫星",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%AE%9E%E8%B7%B531%E5%8F%B7%E5%8D%AB%E6%98%9F%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，液化石油气（LPG）跌超7%，燃料油跌超5%，乙二醇（EG）、低硫燃料油（LU）、沥青、SC原油跌超4%，丙烯跌近4%，甲醇跌超3%。涨幅方面，尿素涨超3%，碳酸锂、铂、棉花、棉纱、豆二、沪铅、棕榈油涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260617113059090800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         }
