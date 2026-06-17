@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-17T17:18:45.886902+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-06-17T21:02:39.713745+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "中国正加紧筹建世界人工智能合作组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
         {
           "title": "国务院：深入实施“人工智能+”行动，强化人工智能的就业创造效应",
           "url": "https://wallstreetcn.com/livenews/3120894",
@@ -25,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -36,9 +25,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 21时02分]"
         },
         {
           "title": "国务院：“十五五”时期实施稳岗扩容提质行动 适应人工智能发展促进就业创业",
@@ -47,9 +48,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "摩根士丹利Gokul LAROIA：中国市场人工智能相关投资机遇巨大",
+          "url": "https://wallstreetcn.com/livenews/3121013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "摩根士丹利Gokul LAROIA：中国市场人工智能相关投资机遇巨大",
+          "url": "https://api3.cls.cn/share/article/2402738?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "吴清：依法从严打击利用人工智能非法荐股等乱象",
@@ -74,13 +97,24 @@
           "time_info": "12时03分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：欧盟与美国的金融体系相互交织；让欧盟公民和企业使用最先进的人工智能模型，符合双方的共同利益。",
+          "url": "https://flash.jin10.com/detail/20260617203320648800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "上交所邱勇：落实好新发布的人工智能领域配套规则 推动更多创新示范案例落地",
           "url": "https://wallstreetcn.com/livenews/3120875",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -113,7 +147,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -127,6 +161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "工信部：深入实施“人工智能＋制造”专项行动 深入整治“内卷式”竞争",
+          "url": "https://wallstreetcn.com/livenews/3120981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "吴清：适时发布规范发展资本市场人工智能的指导意见",
@@ -149,6 +194,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
+          "url": "https://www.cls.cn/detail/2401236",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时02分 ~ 07时43分]"
+        },
+        {
+          "title": "6月17日午间收评：科创50指数半日涨超1%，算力硬件股持续走强",
+          "url": "https://wallstreetcn.com/livenews/3120720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "字节跳动加量采购国产芯片 互联网大厂竞速搭建算力护城河",
+          "url": "https://wallstreetcn.com/livenews/3121008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "算力租赁概念震荡反弹 东阳光回封涨停",
+          "url": "https://api3.cls.cn/share/article/2402032?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "字节跳动加量采购国产芯片 互联网大厂竞速搭建算力护城河",
+          "url": "https://api3.cls.cn/share/article/2402727?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "【风口研报·公司】国产算力芯片持续放量，上游AI芯片+先进封装测试需求持续爆发，这家半导体设备公司卡位稀缺，市场份额提升；另有一家省内火电龙头区位+成本+能耗三优",
+          "url": "https://api3.cls.cn/share/article/2402000?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "微软洽谈出租甲骨文云算力，但因安全顾虑退出了谈判桌。 本来，这笔潜在交易价值可能会超过30亿美元。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3120480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         }
       ]
     },
@@ -207,7 +336,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -236,8 +365,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时42分 ~ 17时18分]"
+          "appearance_count": 5,
+          "time_info": "[07时42分 ~ 21时02分]"
         },
         {
           "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
@@ -286,53 +415,63 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
+      "keyword_group": "台积电 英伟达",
+      "match_count": 5,
       "titles": [
         {
-          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
-          "url": "https://www.cls.cn/detail/2401236",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 07时43分]"
-        },
-        {
-          "title": "6月17日午间收评：科创50指数半日涨超1%，算力硬件股持续走强",
-          "url": "https://wallstreetcn.com/livenews/3120720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "算力租赁概念震荡反弹 东阳光回封涨停",
-          "url": "https://api3.cls.cn/share/article/2402032?os=web&sv=7.7.5&app=",
+          "title": "美股盘前要闻一览：沃什迎来美联储“首秀”；英伟达加码光互连产能；英特尔宣布18A制程升级版本进入风险生产阶段",
+          "url": "https://api3.cls.cn/share/article/2402753?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            14
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "21时02分"
         },
         {
-          "title": "微软洽谈出租甲骨文云算力，但因安全顾虑退出了谈判桌。 本来，这笔潜在交易价值可能会超过30亿美元。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3120480",
-          "source": "华尔街见闻-快讯",
+          "title": "美股异动丨艾马克技术盘前涨超5% 与台积电宣布建立长期合作关系",
+          "url": "https://www.gelonghui.com/news/5253514",
+          "source": "格隆汇",
           "ranks": [
-            26
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "17时18分"
+        },
+        {
+          "title": "黄仁勋执锹现身！英伟达投资的磷化铟工厂奠基了",
+          "url": "https://www.cls.cn/detail/2401996",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "风华高科：全线暂停接单及英伟达认证传闻均不属实",
+          "url": "https://wallstreetcn.com/livenews/3121007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "【通鼎互联：公司与英伟达不存在任何业务关系】通鼎互联发布异动公告，公司近期发现某微信公众号于2026年5月12日发表了《搭上英伟达，A股光纤牛股年内涨超300%》的文章。经核实，康宁作为供应商，对外销售光纤预制棒产品。公司向康宁采购光棒用于光纤生产。截至目前，康宁仅作为公司的光棒原材料供应商，采购规模有限，不存在独家供货情形，也不存在其他合作关系。公司未来将通过自产光棒的方式减少外部采购占比。上述公众号文章的标题及内容存在误导投资者判断的可能性，文章标题的表述不准确、结论不成立。公司与英伟达不存在任何业务关系。",
+          "url": "https://wallstreetcn.com/livenews/3120977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     },
@@ -370,7 +509,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         }
@@ -454,7 +593,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -521,7 +660,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         }
@@ -549,35 +688,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股异动丨艾马克技术盘前涨超5% 与台积电宣布建立长期合作关系",
-          "url": "https://www.gelonghui.com/news/5253514",
-          "source": "格隆汇",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "黄仁勋执锹现身！英伟达投资的磷化铟工厂奠基了",
-          "url": "https://www.cls.cn/detail/2401996",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         }
@@ -631,6 +742,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "L3级自动驾驶落地在即！“新国标”公示、行业“大佬”给出明确时间点",
+          "url": "https://www.cls.cn/detail/2402154",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     },
