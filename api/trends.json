@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-06-21T12:08:52.583079+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-06-21T16:46:50.836233+08:00",
+  "total_titles_processed": 648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 5,
       "titles": [
+        {
+          "title": "消费龙头们跨界半导体、算力赛道 多家公司出现股价异动",
+          "url": "https://www.cls.cn/detail/2404619",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 16时46分]"
+        },
         {
           "title": "范式智能(06682.HK)：战略跃迁AI算力+TOKEN生态 打开成长空间",
           "url": "https://www.gelonghui.com/news/5255036",
@@ -21,20 +37,16 @@
           "time_info": "[00时17分 ~ 12时08分]"
         },
         {
-          "title": "消费龙头们跨界半导体、算力赛道 多家公司出现股价异动",
-          "url": "https://www.cls.cn/detail/2404619",
-          "source": "财联社热门",
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            10,
-            9,
-            7,
-            4,
+            6,
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 12时08分]"
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 16时46分]"
         },
         {
           "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
@@ -59,23 +71,12 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 07时45分]"
-        },
-        {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         }
       ]
     },
     {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "存储芯片公司英韧科技完成IPO辅导，主营业务为高性能固态硬盘主控芯片的设计与供应",
@@ -83,11 +84,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 12时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 16时46分]"
         },
         {
           "title": "存储芯片公司英韧科技完成IPO辅导 主营业务为高性能固态硬盘主控芯片的设计与供应",
@@ -103,6 +105,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 06时06分]"
+        },
+        {
+          "title": "【风口研报·公司】高端电子制造+存储半导体+计量智能终端，这家公司存储芯片封装测试等业务有望逐步发力，受益本轮AI周期；另有家公司推出AI Agent",
+          "url": "https://api3.cls.cn/share/article/2404804?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "存储芯片公司英韧科技完成IPO辅导 主营业务为高性能固态硬盘主控芯片的设计与供应",
@@ -122,7 +135,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -132,6 +145,17 @@
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 4,
       "titles": [
+        {
+          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
+          "url": "https://wallstreetcn.com/articles/3775114",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 16时46分]"
+        },
         {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
           "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
@@ -145,17 +169,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 07时45分]"
-        },
-        {
-          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
-          "url": "https://wallstreetcn.com/articles/3775114",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
@@ -177,7 +190,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -194,7 +207,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -216,7 +229,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -233,7 +246,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -244,9 +257,37 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中工国际(002051.SZ)子公司签合肥长丰县11.27亿独立混合储能电站总承包合同",
+          "url": "https://www.gelonghui.com/news/5255066",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
+          "title": "中工国际：子公司签署11.27亿元储能电站总承包合同",
+          "url": "https://api3.cls.cn/share/article/2404837?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         }
       ]
     },
@@ -259,11 +300,12 @@
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 16时46分]"
         },
         {
           "title": "DeepSeek估值接近4000亿元",
@@ -279,6 +321,34 @@
       ]
     },
     {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国瑜明天启程访美 首站为台积电厂区",
+          "url": "https://www.zaochenbao.com/news/taiwan/202606/2074599.html",
+          "source": "早报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时45分]"
+        },
+        {
+          "title": "2连板智微智能：与英伟达不涉及芯片设计等核心技术领域合作",
+          "url": "https://api3.cls.cn/share/article/2404816?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英特尔 高通",
       "match_count": 2,
       "titles": [
@@ -290,8 +360,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 12时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 16时46分]"
         },
         {
           "title": "美股三大指数集体收涨，纳指大涨近2%！英特尔、美光科技等多只芯片股创历史新高",
@@ -335,28 +405,12 @@
           "url": "https://www.zaochenbao.com/news/china/202606/2174636.html",
           "source": "早报",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国瑜明天启程访美 首站为台积电厂区",
-          "url": "https://www.zaochenbao.com/news/taiwan/202606/2074599.html",
-          "source": "早报",
-          "ranks": [
-            15
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时45分]"
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 16时46分]"
         }
       ]
     }
