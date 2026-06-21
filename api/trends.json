@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T07:45:50.688772+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-06-21T12:08:52.583079+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "范式智能(06682.HK)：战略跃迁AI算力+TOKEN生态 打开成长空间",
@@ -13,11 +13,12 @@
           "source": "格隆汇",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 12时08分]"
         },
         {
           "title": "消费龙头们跨界半导体、算力赛道 多家公司出现股价异动",
@@ -28,11 +29,24 @@
             10,
             9,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 12时08分]"
+        },
+        {
+          "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
+          "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 12时08分]"
         },
         {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
@@ -47,32 +61,33 @@
           "time_info": "[00时17分 ~ 07时45分]"
         },
         {
-          "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
-          "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "12时08分"
         }
       ]
     },
     {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "存储芯片公司英韧科技完成IPO辅导，主营业务为高性能固态硬盘主控芯片的设计与供应",
           "url": "https://wallstreetcn.com/livenews/3122273",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 12时08分]"
         },
         {
           "title": "存储芯片公司英韧科技完成IPO辅导 主营业务为高性能固态硬盘主控芯片的设计与供应",
@@ -99,12 +114,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "韩国央行警告：存储芯片景气周期或推高通胀压力",
+          "url": "https://api3.cls.cn/share/article/2404718?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
@@ -121,6 +147,17 @@
           "time_info": "[00时17分 ~ 07时45分]"
         },
         {
+          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
+          "url": "https://wallstreetcn.com/articles/3775114",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
           "url": "https://wallstreetcn.com/articles/3775114",
           "source": "华尔街见闻",
@@ -132,6 +169,112 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时55分 ~ 07时45分]"
+        },
+        {
+          "title": "财联社6月21日电，Anthropic首席执行官表示，人工智能公司需要“数千亿美元”收入，否则将面临生存风险。",
+          "url": "https://api3.cls.cn/share/article/2404733?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果将涨价",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%B6%A8%E4%BB%B7&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "苹果相册乱起名字",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%9B%B8%E5%86%8C%E4%B9%B1%E8%B5%B7%E5%90%8D%E5%AD%97&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "苹果被曝区别对待工会员工",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D%E5%8C%BA%E5%88%AB%E5%AF%B9%E5%BE%85%E5%B7%A5%E4%BC%9A%E5%91%98%E5%B7%A5%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特斯拉加速推进人工智能与机器人战略 申请注册 “Amazing Abundance” 商标",
+          "url": "https://api3.cls.cn/share/article/2404729?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "人形机器人登山时表示想自己走",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BB%E5%B1%B1%E6%97%B6%E8%A1%A8%E7%A4%BA%E6%83%B3%E8%87%AA%E5%B7%B1%E8%B5%B0%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "DeepSeek估值接近4000亿元",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     },
@@ -140,18 +283,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美股三大指数集体收涨，纳指大涨近2%！英特尔、美光科技等多只芯片股创历史新高",
-          "url": "https://www.gelonghui.com/news/5255035",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时45分]"
-        },
-        {
           "title": "EMIB+玻璃基板+金刚石......陈立武谈英特尔芯片业务：在材料层面寻求突破",
           "url": "https://www.cls.cn/detail/2404404",
           "source": "财联社热门",
@@ -159,8 +290,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 12时08分]"
+        },
+        {
+          "title": "美股三大指数集体收涨，纳指大涨近2%！英特尔、美光科技等多只芯片股创历史新高",
+          "url": "https://www.gelonghui.com/news/5255035",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 12时08分]"
         }
       ]
     },
@@ -183,36 +327,19 @@
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "keyword_group": "小米 特斯拉 华为",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek估值接近4000亿元",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "LG新能源南京工厂满产运行 特斯拉需求成主因",
+          "url": "https://www.zaochenbao.com/news/china/202606/2174636.html",
+          "source": "早报",
           "ranks": [
-            27
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果相册乱起名字",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%9B%B8%E5%86%8C%E4%B9%B1%E8%B5%B7%E5%90%8D%E5%AD%97&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "12时08分"
         }
       ]
     },
