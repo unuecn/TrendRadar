@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T16:38:31.227938+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2026-06-22T22:39:37.202840+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "消费龙头们跨界半导体、算力赛道 多家公司出现股价异动",
@@ -39,7 +39,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -63,9 +63,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "“硅谷风投教父”押宝海洋数据中心 比“算力上天”更便宜的方案来了？",
+          "url": "https://www.cls.cn/detail/2405413",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "三大指数集体高开 算力材料领涨",
@@ -79,13 +90,24 @@
           "time_info": "10时02分"
         },
         {
+          "title": "【风口研报·洞察】AI供电架构升级重塑电容价值量，日系厂商调涨进一步强化行业定价预期，行业正在从周期品逻辑向算力基础设施核心增量环节切换；风格再平衡的潜在方向",
+          "url": "https://api3.cls.cn/share/article/2405717?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "散户豪赌AI芯片！韩国监管拟对三星、海力士杠杆ETF“降温”",
           "url": "https://flash.jin10.com/detail/20260622155221760800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -123,11 +145,12 @@
           "source": "早报",
           "ranks": [
             12,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 16时38分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 22时39分]"
         },
         {
           "title": "格力也做咖啡机器人了？CMO朱磊：无心插柳柳成荫，已收获很多订单",
@@ -136,7 +159,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -146,6 +169,58 @@
           "source": "财联社电报",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 07时12分]"
+        },
+        {
+          "title": "美股异动丨Getty Images盘前暴涨近300%，将授权图库内容引入ChatGPT",
+          "url": "https://www.gelonghui.com/news/5255351",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
+          "url": "https://wallstreetcn.com/articles/3775170",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "Getty Images与OpenAI达成合作，将授权图库内容引入ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3122438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -204,49 +279,8 @@
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
-          "url": "https://wallstreetcn.com/articles/3775117",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 07时12分]"
-        },
-        {
-          "title": "美股异动丨Getty Images盘前暴涨近300%，将授权图库内容引入ChatGPT",
-          "url": "https://www.gelonghui.com/news/5255351",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "Getty Images与OpenAI达成合作，将授权图库内容引入ChatGPT",
-          "url": "https://wallstreetcn.com/livenews/3122438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "供应链公司：已向苹果首款折叠屏iPhone小批量供货",
@@ -260,13 +294,24 @@
           "time_info": "[00时15分 ~ 02时06分]"
         },
         {
+          "title": "48名中国开发者联名举报苹果",
+          "url": "https://api3.cls.cn/share/article/2406059?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "古尔曼曝苹果2026至2027产品线：折叠屏续作、配摄像头AirPods及智能眼镜齐发",
           "url": "https://api3.cls.cn/share/article/2405621?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -277,7 +322,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         }
@@ -285,7 +330,7 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、美光财报",
@@ -310,6 +355,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "美股异动丨台积电盘初涨超3%创新高 市值达2.47万亿美元",
+          "url": "https://www.gelonghui.com/news/5255867",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "LG旗下股票大涨，韩媒称LG高管将访问英伟达总部讨论实体AI",
           "url": "https://wallstreetcn.com/livenews/3122442",
           "source": "华尔街见闻-快讯",
@@ -323,28 +379,39 @@
       ]
     },
     {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 2,
+      "keyword_group": "液冷",
+      "match_count": 3,
       "titles": [
         {
-          "title": "人体蛋白质“高精地图”绘制成功",
-          "url": "https://api3.cls.cn/share/article/2405019?os=web&sv=7.7.5&app=",
+          "title": "【公告全知道】存储芯片+MLCC+超级电容+光模块+机器人+液冷！公司代理销售三星MLCC产品",
+          "url": "https://api3.cls.cn/share/article/2406048?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "22时39分"
         },
         {
-          "title": "中国汽车自动驾驶挑战纽北",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%8C%91%E6%88%98%E7%BA%BD%E5%8C%97%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "全面液冷时代要来了？Rubin平台放量前夕 英伟达发文详解自家核心技术",
+          "url": "https://www.cls.cn/detail/2405571",
+          "source": "财联社热门",
           "ranks": [
-            14
+            2
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "英伟达最新发文 详解Rubin全面液冷技术",
+          "url": "https://api3.cls.cn/share/article/2405618?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         }
@@ -352,7 +419,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "港股收盘，恒指收跌0.65%，科指收跌1.19%。人工智能股逆势上涨，长飞光纤光缆(06869.HK)涨超31%，MINIMAX-W(00100.HK)涨约24%，智谱(02513.HK)涨约15%。",
@@ -361,7 +428,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -375,41 +442,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【公告全知道】MLCC+超级电容+光通信+芯片+商业航天！公司陶瓷电容产品供货国际头部光模块厂商",
-          "url": "https://api3.cls.cn/share/article/2404946?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时06分]"
         },
         {
-          "title": "“千帆星座”建设与运营主体垣信卫星启动新一轮融资",
-          "url": "https://api3.cls.cn/share/article/2405594?os=web&sv=7.7.5&app=",
+          "title": "财联社6月22日电，卡塔尔投资局（QIA）宣布参与一家‌美国光子技术公司HyperLight 8000万美元的C轮融资，以支持下一代人工智能基础设施。",
+          "url": "https://api3.cls.cn/share/article/2406050?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            29
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "22时39分"
         }
       ]
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "雷军再谈与董明珠打赌：只是开玩笑，没想到被激怒了就从头到尾批评我和小米",
@@ -438,23 +487,130 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时12分 ~ 16时38分]"
+        },
+        {
+          "title": "下午察：小米华为双双翻车？",
+          "url": "https://www.zaochenbao.com/news/china/202606/2274736.html",
+          "source": "早报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         }
       ]
     },
     {
-      "keyword_group": "液冷",
-      "match_count": 1,
+      "keyword_group": "美债 美股 美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "英伟达最新发文 详解Rubin全面液冷技术",
-          "url": "https://api3.cls.cn/share/article/2405618?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
+          "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
           "ranks": [
-            18
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "美股盘初：纳指跌0.2%，费城半导体指数涨近2%，SpaceX跌约5%",
+          "url": "https://wallstreetcn.com/livenews/3122883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "人体蛋白质“高精地图”绘制成功",
+          "url": "https://api3.cls.cn/share/article/2405019?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "中国汽车自动驾驶挑战纽北",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%8C%91%E6%88%98%E7%BA%BD%E5%8C%97%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "16时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【公告全知道】MLCC+超级电容+光通信+芯片+商业航天！公司陶瓷电容产品供货国际头部光模块厂商",
+          "url": "https://api3.cls.cn/share/article/2404946?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时06分]"
+        },
+        {
+          "title": "“千帆星座”建设与运营主体垣信卫星启动新一轮融资",
+          "url": "https://api3.cls.cn/share/article/2405594?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英特尔(INTC.O)美股盘前上涨4%，此前一个交易日上涨超过10%。",
+          "url": "https://flash.jin10.com/detail/20260622161100982800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "财联社6月22日电，英特尔股价开盘上涨3.3%，此前一个交易日大涨逾10%。",
+          "url": "https://api3.cls.cn/share/article/2406035?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         }
       ]
     },
@@ -469,24 +625,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英特尔 高通",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英特尔(INTC.O)美股盘前上涨4%，此前一个交易日上涨超过10%。",
-          "url": "https://flash.jin10.com/detail/20260622161100982800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         }
