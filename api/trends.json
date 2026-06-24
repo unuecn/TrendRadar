@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-25T05:10:35.842470+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-06-25T06:47:40.263586+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "英特尔 高通",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "财联社6月25日电，高通首席财务官表示，公司有机会将年度营收规模拓展至1000亿美元。",
-          "url": "https://api3.cls.cn/share/article/2408506?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
         {
           "title": "高通数据中心业务主管：高通预计从2027年第一季度开始，其“定制芯片业务”将在当年年底前开始带来可观的收入。",
           "url": "https://flash.jin10.com/detail/20260625024208357800",
@@ -69,20 +58,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "财联社6月25日电，高通首席财务官表示，公司有机会将年度营收规模拓展至1000亿美元。",
+          "url": "https://api3.cls.cn/share/article/2408506?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时10分 ~ 06时47分]"
         },
         {
           "title": "高通：预计安卓系统硬件设备营收将增长大约5%。 在2029财年，预计硬件将在收入占比大约三分之一。",
           "url": "https://wallstreetcn.com/livenews/3124234",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时10分 ~ 06时47分]"
         },
         {
           "title": "高通称目标2027财年数据中心收入达到50亿美元 盘后涨超6%",
@@ -91,7 +93,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         },
@@ -102,7 +104,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         },
@@ -113,9 +115,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "美光强劲财报引爆芯片股盘后行情 高通AI前景助推股价飙升",
+          "url": "https://flash.jin10.com/detail/20260625061135675800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "财联社6月25日电，高通盘后涨超15%，高通CFO称目标在2027财年实现AI数据中心业务收入50亿美元。",
+          "url": "https://api3.cls.cn/share/article/2408508?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "高通：面向数据中心推出DragonFly（飞龙） C1000 CPU。 发布全新 Dragonfly（飞龙）产品组合，揭晓面向智能体AI时代的全面数据中心路线图。 推出Pam4电信号与光信号传输服务及相关解决方案服务。 与一家超大规模云服务商（Hyperscaler）在新款通信芯片上合作。 预计数据中心将在2027年带来（至少）数十亿美元收入。 汽车业务2026财年年化营收将达到60亿美元。",
@@ -124,7 +148,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         }
@@ -204,19 +228,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时10分]"
-        },
-        {
-          "title": "维通利(001393.SZ)：目前没有和英伟达建立直接商务联系",
-          "url": "https://www.gelonghui.com/news/5257421",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 06时47分]"
         },
         {
           "title": "英伟达要求PCB厂商降价10%？记者求证",
@@ -227,8 +240,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 06时47分]"
+        },
+        {
+          "title": "维通利(001393.SZ)：目前没有和英伟达建立直接商务联系",
+          "url": "https://www.gelonghui.com/news/5257421",
+          "source": "格隆汇",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 06时47分]"
         },
         {
           "title": "英伟达将于十分钟后举行年度股东大会。",
@@ -248,7 +273,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         }
@@ -287,7 +312,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         },
@@ -298,7 +323,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         }
@@ -377,8 +402,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 06时47分]"
         },
         {
           "title": "高通与Hugging Face扩大合作关系，推动从设备到云的开放、开发者驱动的人工智能。",
@@ -387,7 +412,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         },
@@ -405,6 +430,45 @@
       ]
     },
     {
+      "keyword_group": "金价 黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时10分]"
+        },
+        {
+          "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "周四你需要知道的隔夜全球要闻：美光财报亮眼盘后大涨16%，带动芯片股全线上攻；金价自去年11月以来首次跌破4000美元；油价回吐本轮中东冲突以来涨幅",
+          "url": "https://api3.cls.cn/share/article/2408524?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 3,
       "titles": [
@@ -416,8 +480,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 06时47分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -426,7 +490,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         },
@@ -437,9 +501,48 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "存储暴跌的导火索之一！韩媒“小作文”：英伟达Rubin预期减产，SK海力士HBM4扩产放缓",
+          "url": "https://wallstreetcn.com/articles/3775325",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时10分]"
+        },
+        {
+          "title": "美股异动｜美光盘后大涨近14%，第三财季营收远超预期、指引炸裂，HBM供需紧张局面预计将持续至2027后",
+          "url": "https://www.gelonghui.com/news/5257461",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "美光：预计存储芯片供应紧张将持续至2027财年之后，预计将在2028年逐步改善。 还“看不到”供应将在何时追赶上需求。",
+          "url": "https://wallstreetcn.com/livenews/3124251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         }
       ]
     },
@@ -484,40 +587,6 @@
       ]
     },
     {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "存储暴跌的导火索之一！韩媒“小作文”：英伟达Rubin预期减产，SK海力士HBM4扩产放缓",
-          "url": "https://wallstreetcn.com/articles/3775325",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时10分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 1,
       "titles": [
@@ -526,11 +595,12 @@
           "url": "https://www.cls.cn/detail/2407968",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 06时47分]"
         }
       ]
     },
