@@ -1,8 +1,120 @@
 {
-  "generated_at": "2026-06-25T01:27:53.441222+08:00",
-  "total_titles_processed": 229,
+  "generated_at": "2026-06-25T03:12:33.282635+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特斯拉第二季度车辆交付预期遭摩根大通下调",
+          "url": "https://wallstreetcn.com/livenews/3124172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时12分]"
+        },
+        {
+          "title": "财联社6月25日电，特斯拉跌幅扩大至2%。",
+          "url": "https://api3.cls.cn/share/article/2408462?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "摩根大通下调特斯拉第二季度汽车交付量预期",
+          "url": "https://api3.cls.cn/share/article/2408457?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "特斯拉跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3124190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "特斯拉跌0.9%，刷新日低。 纳斯达克100指数转跌，半导体指数跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3124155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "财联社6月25日电，谷歌将Gemini 3.5 Pro发布日期推后至7月份。",
+          "url": "https://api3.cls.cn/share/article/2408467?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "谷歌将Gemini 3.5 Pro发布日期推后至7月份。 因为他们还在花更多时间收集早期测试者的反馈并调整模型。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3124199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "财联社6月25日电，OpenAI推出新版GPT-5.5 Instant，今日面向付费用户开放，明日面向免费用户开放。",
+          "url": "https://api3.cls.cn/share/article/2408460?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "OpenAI：推出新版GPT-5.5 Instant，今日面向付费用户开放，明日面向免费用户开放。",
+          "url": "https://flash.jin10.com/detail/20260625020749576800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        }
+      ]
+    },
     {
       "keyword_group": "台积电 英伟达",
       "match_count": 4,
@@ -15,19 +127,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "英伟达要求PCB厂商降价10%？记者求证",
-          "url": "https://wallstreetcn.com/articles/3775353",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时12分]"
         },
         {
           "title": "维通利(001393.SZ)：目前没有和英伟达建立直接商务联系",
@@ -37,8 +138,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时12分]"
+        },
+        {
+          "title": "英伟达要求PCB厂商降价10%？记者求证",
+          "url": "https://wallstreetcn.com/articles/3775353",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时12分]"
         },
         {
           "title": "英伟达将于十分钟后举行年度股东大会。",
@@ -50,6 +163,135 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "高通数据中心业务主管：高通预计从2027年第一季度开始，其“定制芯片业务”将在当年年底前开始带来可观的收入。",
+          "url": "https://flash.jin10.com/detail/20260625024208357800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "高通跌幅扩大至6%，刷新日低。 纳斯达克100指数跌幅扩大至1.1%，标普跌0.3%，纳指跌0.8%，半导体指数跌2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3124201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "高通数据中心主管：公司将于2028年中期推出数据中心CPU。",
+          "url": "https://flash.jin10.com/detail/20260625024043413800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "高通投资者日活动开始，数据中心主管表示：将于2028年年中推出数据中心CPU。 从2027年第一季度（即2026年底）开始，高通的定制芯片（Custom Silicon）业务将开始贡献实质性收入。 微软将在其Azure数据中心部署高通的高带宽计算（HBC）芯片。 配备AI250的高通第一代高带宽计算（HBC Gen 1）芯片预计将于2027年年中开启商业采样。 高通将于2028年推出第二代高带宽计算（HBC）芯片。",
+          "url": "https://wallstreetcn.com/livenews/3124200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "财联社6月25日电，谷歌预计将再失去两名人工智能领域的员工，转投Anthropic旗下。",
+          "url": "https://api3.cls.cn/share/article/2408463?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "比利时智库：大国人工智能迈进“技术栈之争”",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/06/24/4262bc0add4f4dfb952f2e65417ceda5.html",
+          "source": "参考消息",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时12分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)短线下挫，消息称谷歌再有两名人工智能员工或将跳槽至Anthropic公司。",
+          "url": "https://flash.jin10.com/detail/20260625021946400800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "比特币跌至6万美元下方",
+          "url": "https://api3.cls.cn/share/article/2408439?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时12分]"
+        },
+        {
+          "title": "数字货币市场快速下跌，比特币跌向5.9万美元",
+          "url": "https://wallstreetcn.com/livenews/3124160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "比特币跌向5.9万美元，散户大军撤退，暴露市场新脆弱性",
+          "url": "https://wallstreetcn.com/livenews/3124180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     },
@@ -82,62 +324,6 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特斯拉第二季度车辆交付预期遭摩根大通下调",
-          "url": "https://wallstreetcn.com/livenews/3124172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "特斯拉跌0.9%，刷新日低。 纳斯达克100指数转跌，半导体指数跌0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3124155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 以太坊",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "比特币跌至6万美元下方",
-          "url": "https://api3.cls.cn/share/article/2408439?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "数字货币市场快速下跌，比特币跌向5.9万美元",
-          "url": "https://wallstreetcn.com/livenews/3124160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 黄金",
       "match_count": 1,
       "titles": [
@@ -149,8 +335,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时12分]"
         }
       ]
     },
@@ -166,8 +352,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时12分]"
         }
       ]
     },
@@ -183,8 +369,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时12分]"
         }
       ]
     },
@@ -200,25 +386,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时12分]"
         }
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
       "match_count": 1,
       "titles": [
         {
-          "title": "比利时智库：大国人工智能迈进“技术栈之争”",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/06/24/4262bc0add4f4dfb952f2e65417ceda5.html",
-          "source": "参考消息",
+          "title": "美国国家运输安全委员会（NTSB）：将在30天内初步形成特斯拉撞车事故的初步（调查）报告。 将调查驾驶员（对于驾车）的参与程度和（特斯拉的）自动驾驶技术。",
+          "url": "https://wallstreetcn.com/livenews/3124187",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "03时12分"
         }
       ]
     }
