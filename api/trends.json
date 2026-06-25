@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-25T12:45:40.673334+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-06-25T16:22:51.026362+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "英特尔 高通",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 16时22分]"
+        },
         {
           "title": "标普纳指三连跌但跌势缓和，金银油大跳水，盘后美光高通拉动芯片大反弹",
           "url": "https://wallstreetcn.com/articles/3775351",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
-        },
-        {
-          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
         },
         {
           "title": "高通数据中心业务主管：高通预计从2027年第一季度开始，其“定制芯片业务”将在当年年底前开始带来可观的收入。",
@@ -80,7 +80,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -143,6 +143,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "财联社6月25日电，高通美股盘前大涨近13%，高通CFO称目标在2027财年实现AI数据中心业务收入50亿美元。",
+          "url": "https://api3.cls.cn/share/article/2409104?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "高通预计将在数据中心领域抢占超过5%的市场份额。 预计2029财年IoT营收将为140亿美元。",
           "url": "https://wallstreetcn.com/livenews/3124231",
           "source": "华尔街见闻-快讯",
@@ -154,6 +165,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "高通CFO：营收与每股收益（EPS）将在未来按更快的速度增长。",
           "url": "https://wallstreetcn.com/livenews/3124227",
           "source": "华尔街见闻-快讯",
@@ -163,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "高通供应商Arm(ARM.O)美股盘前上涨6%，因高通上调了长期数据中心和非手机业务的收入目标。",
+          "url": "https://flash.jin10.com/detail/20260625160723023800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "财联社6月25日电，高通盘后涨超15%，高通CFO称目标在2027财年实现AI数据中心业务收入50亿美元。",
@@ -190,7 +223,7 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达被禁AI晶片在中国黑市价格翻倍",
@@ -215,6 +248,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
+        },
+        {
+          "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
+          "url": "https://www.cls.cn/detail/2408477",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 16时22分]"
         },
         {
           "title": "英伟达要求PCB厂商降价10%？记者求证",
@@ -242,16 +287,15 @@
           "time_info": "[01时27分 ~ 08时12分]"
         },
         {
-          "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
-          "url": "https://www.cls.cn/detail/2408477",
-          "source": "财联社热门",
+          "title": "财联社6月25日电，美股半导体设备、制造板块盘前大幅上涨，泛林集团涨6.7%，阿斯麦涨近5%，台积电涨超3%。",
+          "url": "https://api3.cls.cn/share/article/2409101?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
           "ranks": [
-            8,
-            5
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 12时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "英伟达将于十分钟后举行年度股东大会。",
@@ -279,7 +323,7 @@
     },
     {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "存储暴跌的导火索之一！韩媒“小作文”：英伟达Rubin预期减产，SK海力士HBM4扩产放缓",
@@ -322,9 +366,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "久日新材(688199.SH)：适配HBM工艺的光敏剂产品为重氮萘醌类光敏剂",
+          "url": "https://www.gelonghui.com/news/5257600",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "美光：预计存储芯片供应紧张将持续至2027财年之后，预计将在2028年逐步改善。 还“看不到”供应将在何时追赶上需求。",
@@ -344,9 +399,166 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "比利时智库：大国人工智能迈进“技术栈之争”",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/06/24/4262bc0add4f4dfb952f2e65417ceda5.html",
+          "source": "参考消息",
+          "ranks": [
+            13,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 16时22分]"
+        },
+        {
+          "title": "财联社6月25日电，谷歌预计将再失去两名人工智能领域的员工，转投Anthropic旗下。",
+          "url": "https://api3.cls.cn/share/article/2408463?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-25）",
+          "url": "https://flash.jin10.com/detail/20260625115447367800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：到2030年，将额外投资130亿美元以扩展和支持印度的人工智能和云基础设施。",
+          "url": "https://flash.jin10.com/detail/20260625160809975800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "高通与Hugging Face扩大合作关系，推动从设备到云的开放、开发者驱动的人工智能。",
+          "url": "https://flash.jin10.com/detail/20260625043123099800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "谷歌(GOOG.O)短线下挫，消息称谷歌再有两名人工智能员工或将跳槽至Anthropic公司。",
+          "url": "https://flash.jin10.com/detail/20260625021946400800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "摩根大通：内存作为通用人工智能中战略资产的作用依然不变",
+          "url": "https://flash.jin10.com/detail/20260625160535102800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "工信部总工程师：加强新一代通信网和算力网规划建设",
+          "url": "https://www.cls.cn/detail/2407859",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "博通CEO：OpenAI芯片标志着实验室转向构建定制硬件的趋势",
+          "url": "https://flash.jin10.com/detail/20260625011003961800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "研报掘金丨申万宏源：维持华峰测控“买入”评级，投资7.59亿自研ASIC",
+          "url": "https://www.gelonghui.com/news/5257606",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "SpaceX投资者David George看好星舰 称发展太空AI算力不可避免",
+          "url": "https://api3.cls.cn/share/article/2408497?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "港股算力硬件股继续走强，壁仞科技涨超15%，建滔积层板、国民技术、兆易创新涨超10%，长飞光纤光缆涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3124513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "获英特尔支持的AI芯片公司SambaNova估值将翻五倍，达到100亿美元。SambaNova计划筹集8亿-10亿美元。 General Atlantic正洽谈领投SambaNova的一轮融资，该轮融资规模将超过10亿美元，并有望最早于下周完成。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3124214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         }
       ]
     },
@@ -417,7 +629,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         }
@@ -447,8 +659,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 16时22分]"
         },
         {
           "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
@@ -480,77 +692,15 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "比利时智库：大国人工智能迈进“技术栈之争”",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/06/24/4262bc0add4f4dfb952f2e65417ceda5.html",
-          "source": "参考消息",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 12时45分]"
-        },
-        {
-          "title": "财联社6月25日电，谷歌预计将再失去两名人工智能领域的员工，转投Anthropic旗下。",
-          "url": "https://api3.cls.cn/share/article/2408463?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-06-25）",
-          "url": "https://flash.jin10.com/detail/20260625115447367800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "高通与Hugging Face扩大合作关系，推动从设备到云的开放、开发者驱动的人工智能。",
-          "url": "https://flash.jin10.com/detail/20260625043123099800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "谷歌(GOOG.O)短线下挫，消息称谷歌再有两名人工智能员工或将跳槽至Anthropic公司。",
-          "url": "https://flash.jin10.com/detail/20260625021946400800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
@@ -595,62 +745,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "工信部总工程师：加强新一代通信网和算力网规划建设",
-          "url": "https://www.cls.cn/detail/2407859",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
         },
         {
-          "title": "博通CEO：OpenAI芯片标志着实验室转向构建定制硬件的趋势",
-          "url": "https://flash.jin10.com/detail/20260625011003961800",
+          "title": "美股AI芯片股盘前涨跌不一，高通(QCOM.O)大涨13%，英特尔(INTC.O)涨近6%，AMD(AMD.O)涨近4%，百度(BIDU.O)跌2%，谷歌(GOOG.O)跌1.4%。",
+          "url": "https://flash.jin10.com/detail/20260625160211701800",
           "source": "金十数据",
           "ranks": [
-            3
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "SpaceX投资者David George看好星舰 称发展太空AI算力不可避免",
-          "url": "https://api3.cls.cn/share/article/2408497?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "获英特尔支持的AI芯片公司SambaNova估值将翻五倍，达到100亿美元。SambaNova计划筹集8亿-10亿美元。 General Atlantic正洽谈领投SambaNova的一轮融资，该轮融资规模将超过10亿美元，并有望最早于下周完成。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3124214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
+          "time_info": "16时22分"
         }
       ]
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "财联社6月25日电，谷歌将Gemini 3.5 Pro发布日期推后至7月份。",
@@ -662,6 +773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "商汤科技正研发新图像模型：代号U1 Pro，内部称将对标OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3124540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "谷歌将Gemini 3.5 Pro发布日期推后至7月份。 因为他们还在花更多时间收集早期测试者的反馈并调整模型。（Business Insider）",
@@ -709,7 +831,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -720,7 +842,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -731,7 +853,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         }
@@ -779,7 +901,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国人形机器人商业化部署提速！大摩年内第二次翻倍上调出货量预测",
@@ -793,6 +915,90 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时27分 ~ 08时12分]"
+        },
+        {
+          "title": "港股收盘，恒指收跌1.43%，科指收跌1.63%。有色金属股、机器人概念股多数下跌，舜宇光学科技(02382.HK)跌超11%，招金矿业(01818.HK)跌超8%。携程集团-S(09961.HK)绩后跌约11%。",
+          "url": "https://flash.jin10.com/detail/20260625160846853800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器狗 仿生机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "索尼将终止在日本销售机器狗AIBO ERS-1000。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3124517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "索尼宣布在日本停售人工智能机器狗aibo ERS-1000",
+          "url": "https://api3.cls.cn/share/article/2409077?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "财联社6月25日电，广期所品种仓单及变化如下：碳酸锂期货仓单49007手，环比上个交易日减少108手；多晶硅期货仓单12900手，环比上个交易日增加110手；工业硅期货仓单31854手，环比上个交易日持平。",
+          "url": "https://api3.cls.cn/share/article/2409120?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "内盘期货多数收跌，沪银、20号胶跌逾7%，钯、碳酸锂、铂、橡胶、PTA、原油跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3124505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药 新药研发 临床三期",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "通化金马：获得琥珀酸安维吖啶片药品注册证书 填补国产阿尔茨海默病创新药的空白",
+          "url": "https://api3.cls.cn/share/article/2409087?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
