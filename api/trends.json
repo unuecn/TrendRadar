@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T21:11:20.948961+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-06-26T23:39:34.217641+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "涨价约20%！苹果官宣涨价：iPad和Mac率先调价，存储成本压力“前所未有”",
@@ -24,11 +24,12 @@
           "url": "https://wallstreetcn.com/articles/3775470",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时53分 ~ 21时11分]"
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 23时39分]"
         },
         {
           "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
@@ -76,11 +77,12 @@
           "source": "参考消息",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 21时11分]"
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 23时39分]"
         },
         {
           "title": "苹果涨价",
@@ -120,6 +122,40 @@
           "time_info": "[15时52分 ~ 21时11分]"
         },
         {
+          "title": "财联社6月26日电，苹果的“Touch MacBook”将采用M5 Pro和M5 Max 芯片；M7 型号则将在稍后推出。",
+          "url": "https://api3.cls.cn/share/article/2410697?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "亚股遭遇“黑色星期五”！华尔街热议背后推手 苹果涨价是多重利空之一",
+          "url": "https://www.cls.cn/detail/2410279",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 23时39分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)触控版MacBook将搭载M5 Pro和M5 Max芯片；M7芯片机型将在稍后推出。",
+          "url": "https://flash.jin10.com/detail/20260626230704423800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "苹果涨价iPhone未涨",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -132,16 +168,17 @@
           "time_info": "[00时23分 ~ 07时53分]"
         },
         {
-          "title": "苹果涨价引山姆代购潮",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7%E5%BC%95%E5%B1%B1%E5%A7%86%E4%BB%A3%E8%B4%AD%E6%BD%AE%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
+          "url": "https://wallstreetcn.com/articles/3775599",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            29
+            9,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 21时11分]"
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 23时39分]"
         },
         {
           "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
@@ -153,15 +190,16 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 21时11分]"
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 23时39分]"
         },
         {
-          "title": "亚股遭遇“黑色星期五”！华尔街热议背后推手 苹果涨价是多重利空之一",
-          "url": "https://www.cls.cn/detail/2410279",
-          "source": "财联社热门",
+          "title": "苹果涨价引山姆代购潮",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7%E5%BC%95%E5%B1%B1%E5%A7%86%E4%BB%A3%E8%B4%AD%E6%BD%AE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            2,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -178,18 +216,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时37分 ~ 15时52分]"
-        },
-        {
-          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
-          "url": "https://wallstreetcn.com/articles/3775599",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 21时11分]"
         },
         {
           "title": "财联社6月26日电，苹果跌幅扩大至6%，为2025年4月以来的最大跌幅。",
@@ -275,7 +301,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -349,8 +375,23 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 23时39分]"
+        },
         {
           "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
           "url": "https://www.cls.cn/detail/2409672",
@@ -383,20 +424,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
-        },
-        {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 21时11分]"
         },
         {
           "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
@@ -472,6 +499,18 @@
           "time_info": "[04时56分 ~ 06时21分]"
         },
         {
+          "title": "智谱AI模型低成本高性能 或能再创DeepSeek时刻",
+          "url": "https://www.zaochenbao.com/news/china/202606/2675046.html",
+          "source": "早报",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 23时39分]"
+        },
+        {
           "title": "根据销售AI账单审计工具的公司Vaudit的数据，由于计费错误，一些客户支付给Anthropic和OpenAI产品的费用可能高于实际应支付的金额。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3124849",
           "source": "华尔街见闻-快讯",
@@ -519,17 +558,6 @@
           "time_info": "11时37分"
         },
         {
-          "title": "智谱AI模型低成本高性能 或能再创DeepSeek时刻",
-          "url": "https://www.zaochenbao.com/news/china/202606/2675046.html",
-          "source": "早报",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
           "title": "谷歌(GOOG.O)：今天，我们还面向安卓平台推出了全新的Google财务应用。从本周起，我们将在全新的Google Finance中向全球推出“投资组合”功能。今年晚些时候还将推出iOS版应用。",
           "url": "https://flash.jin10.com/detail/20260626000257368800",
           "source": "金十数据",
@@ -558,9 +586,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "消息称OpenAI倾向于等到2027年再进行IPO",
+          "url": "https://api3.cls.cn/share/article/2410688?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "据悉OpenAI考虑最早于2027年进行IPO",
+          "url": "https://flash.jin10.com/detail/20260626225903271800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "报道：OpenAI倾向于等到2027年再进行IPO",
@@ -583,12 +633,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "DeepSeek招聘薪资待遇",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%8B%9B%E8%81%98%E8%96%AA%E8%B5%84%E5%BE%85%E9%81%87%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "财联社6月26日电，据报道，OpenAI尚未确定IPO时间表，尚未开始与投资者进行“试水”会议。",
+          "url": "https://api3.cls.cn/share/article/2410671?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "据CNBC报道，OpenAI尚未确定IPO时间表，尚未开始与投资者进行“试水”会议。 此前，媒体周四报道称，OpenAI考虑推后至2027年再美国IPO。 6月稍早，OpenAI的CEO Altman已经告诉员工，可能会在未来一年IPO。",
+          "url": "https://wallstreetcn.com/livenews/3125359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         }
       ]
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国超级计算机再登全球算力排行榜榜首",
@@ -598,11 +681,12 @@
             7,
             15,
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 21时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 23时39分]"
         },
         {
           "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
@@ -650,7 +734,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -672,7 +756,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -683,7 +767,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -697,6 +781,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "绿色幻象之下：谁在为万亿AI芯片繁荣买单？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33451501",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "沪指跌幅扩大至2%，深成指跌2.77%，创业板指跌3.31%，有色金属、医药医疗、保险、算力硬件等方向跌幅居前，沪深京三市下跌个股近4600只。",
@@ -746,7 +841,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股科技股走势分化 美光科技收涨超15% 苹果大跌6%领跌“科技七巨头”",
@@ -806,6 +901,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，医疗业ETF涨近3%，生物科技指数ETF涨超2%，半导体ETF跌超3%，科技行业ETF跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3125372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "周四（6月25日），美股存储芯片与硬件供应链指数上涨11.85%，报271.70点，跳空高开之后持续高位震荡，逼近6月22日所创收盘历史最高位274.95点。 成分股闪迪收涨21.97%，美光科技涨15.74%，创5月26日以来最佳单日表现，应用材料涨13.42%，泰瑞达涨10.48%，拉姆研究涨7.21%，西部数据、希捷科技至少涨3.23%，Rambus跌0.67%。",
           "url": "https://wallstreetcn.com/livenews/3124852",
           "source": "华尔街见闻-快讯",
@@ -826,6 +932,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "美股跌幅迅速收窄 标普500指数率先转涨",
+          "url": "https://api3.cls.cn/share/article/2410672?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
@@ -1009,7 +1126,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1020,7 +1137,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1107,6 +1224,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "微创机器人-B(02252.HK)：图迈全球商业化装机突破二百台",
+          "url": "https://www.gelonghui.com/news/5259149",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "高三老师送外卖感觉自己像个机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E8%80%81%E5%B8%88%E9%80%81%E5%A4%96%E5%8D%96%E6%84%9F%E8%A7%89%E8%87%AA%E5%B7%B1%E5%83%8F%E4%B8%AA%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "优必选正式发布轮式工业人形机器人Cruzr Y1",
+          "url": "https://wallstreetcn.com/livenews/3125280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         }
       ]
     },
@@ -1236,23 +1392,6 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "优必选正式发布轮式工业人形机器人Cruzr Y1",
-          "url": "https://wallstreetcn.com/livenews/3125280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "创新药 新药研发 临床三期",
       "match_count": 1,
       "titles": [
@@ -1315,7 +1454,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         }
