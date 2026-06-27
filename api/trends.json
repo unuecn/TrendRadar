@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T12:35:48.522317+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-06-27T15:49:30.308612+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
@@ -98,7 +98,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -120,7 +120,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -150,7 +150,7 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
@@ -161,8 +161,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 12时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时47分 ~ 15时49分]"
         },
         {
           "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
@@ -204,11 +204,12 @@
           "url": "https://ckxxapp.ckxx.net/pages/2026/06/26/8f36ab927c67455385550a028ae546e9.html",
           "source": "参考消息",
           "ranks": [
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 12时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时47分 ~ 15时49分]"
         },
         {
           "title": "周六你需要知道的隔夜全球要闻：美军再次对伊朗发动打击；纳指小幅收跌，存储股大幅回调，微软、苹果反弹",
@@ -220,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        },
+        {
+          "title": "英媒：苹果寻求获准从长鑫存储购买晶片",
+          "url": "https://www.zaochenbao.com/news/china/202606/2775089.html",
+          "source": "早报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "周六你需要知道的隔夜全球要闻：美军再次对伊朗发动打击；黎以美达成三方框架协议；纳指小幅收跌，存储股大幅回调，微软、苹果反弹",
@@ -250,7 +262,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -261,9 +273,113 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中国超级计算机再登全球算力排行榜榜首",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/06/25/830f24cba8954bc2aeb7cc733c96b152.html",
+          "source": "参考消息",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 12时35分]"
+        },
+        {
+          "title": "绿色幻象之下：谁在为万亿AI芯片繁荣买单？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33451501",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 08时06分]"
+        },
+        {
+          "title": "今年以来算力相关产品加速出海 有武汉企业800G以上光模块出口同比增长超过100倍",
+          "url": "https://api3.cls.cn/share/article/2410867?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "今年以来算力相关产品加速出海 有武汉企业800G以上光模块出口同比增长超过100倍",
+          "url": "https://flash.jin10.com/detail/20260627134035165800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "高通计划将数据中心芯片技术引入智能手机 提升端侧AI能力",
+          "url": "https://api3.cls.cn/share/article/2410890?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "财联社6月27日电，高通据悉计划为手机推出全新芯片架构。",
+          "url": "https://api3.cls.cn/share/article/2410718?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "高通计划推出全新手机芯片架构。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3125405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "据美国财经媒体Semafor：高通(QCOM.O)计划推出全新手机芯片架构。",
+          "url": "https://flash.jin10.com/detail/20260627005049237800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
         }
       ]
     },
@@ -277,11 +393,24 @@
           "source": "格隆汇",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 12时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时47分 ~ 15时49分]"
+        },
+        {
+          "title": "京东：在欧洲推出机器人维修服务，已在英德等国建立JoyRobocare维修中心",
+          "url": "https://wallstreetcn.com/livenews/3125522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 15时49分]"
         },
         {
           "title": "【电报解读】人形机器人T链一级供应商新剑传动创业板IPO获受理，机构预计特斯拉第三代Optimus年中亮相、7-8月正式投产，2026年或将成为机器人行业量产元年，快速梳理新剑传动相关标的（附表）",
@@ -290,18 +419,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "京东：在欧洲推出机器人维修服务，已在英德等国建立JoyRobocare维修中心",
-          "url": "https://wallstreetcn.com/livenews/3125522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         }
@@ -386,73 +504,30 @@
       ]
     },
     {
-      "keyword_group": "英特尔 高通",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "财联社6月27日电，高通据悉计划为手机推出全新芯片架构。",
-          "url": "https://api3.cls.cn/share/article/2410718?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 03时47分]"
-        },
-        {
-          "title": "高通计划推出全新手机芯片架构。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3125405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 03时47分]"
-        },
-        {
-          "title": "据美国财经媒体Semafor：高通(QCOM.O)计划推出全新手机芯片架构。",
-          "url": "https://flash.jin10.com/detail/20260627005049237800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "小米 特斯拉 华为",
       "match_count": 2,
       "titles": [
         {
-          "title": "中国超级计算机再登全球算力排行榜榜首",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/06/25/830f24cba8954bc2aeb7cc733c96b152.html",
-          "source": "参考消息",
+          "title": "财联社6月27日电，美国国家公路交通安全管理局（NHTSA）表示，结束对约37.6万辆美国市场特斯拉Model 3和Model Y转向失控问题的工程分析调查。",
+          "url": "https://api3.cls.cn/share/article/2410891?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
           "ranks": [
-            25
+            2
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 12时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
-          "title": "绿色幻象之下：谁在为万亿AI芯片繁荣买单？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33451501",
-          "source": "澎湃新闻",
+          "title": "美国国家公路交通安全管理局（NHTSA）结束对约376241辆特斯拉Model 3和Model Y美国车辆转向失控问题的工程分析（EA）。",
+          "url": "https://flash.jin10.com/detail/20260627151134945800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            18,
-            19
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         }
       ]
     },
