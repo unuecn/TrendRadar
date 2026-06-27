@@ -1,165 +1,33 @@
 {
-  "generated_at": "2026-06-27T23:15:44.765718+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-06-28T00:39:03.242074+08:00",
+  "total_titles_processed": 233,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 17,
+      "match_count": 3,
       "titles": [
         {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
+          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
+          "url": "https://wallstreetcn.com/articles/3775676",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时06分]"
-        },
-        {
-          "title": "智谱AI模型低成本高性能 或能再创DeepSeek时刻",
-          "url": "https://www.zaochenbao.com/news/china/202606/2675046.html",
-          "source": "早报",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时06分]"
-        },
-        {
-          "title": "财联社6月27日电，苹果Vision Pro和智能眼镜部门主管将转投OpenAI。",
-          "url": "https://api3.cls.cn/share/article/2410751?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时46分 ~ 06时45分]"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 00时39分]"
         },
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
           "url": "https://wallstreetcn.com/articles/3775650",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时08分 ~ 23时15分]"
-        },
-        {
-          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
-          "url": "https://wallstreetcn.com/articles/3775676",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时41分 ~ 23时15分]"
-        },
-        {
-          "title": "财联社6月27日电，OpenAI开始对GPT-5.6系列模型进行限量预览，该系列包括三个模型：Sol（旗舰级模型）、Terra（面向日常工作的均衡型模型）、Luna（快速且经济高效的模型）。",
-          "url": "https://api3.cls.cn/share/article/2410724?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 03时47分]"
-        },
-        {
-          "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强",
-          "url": "https://wallstreetcn.com/livenews/3125429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 05时18分]"
-        },
-        {
-          "title": "报道：苹果负责Vision Pro和智能眼镜业务的负责人将跳槽至OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3125443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时45分]"
-        },
-        {
-          "title": "DeepSeek发布DSpark",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83DSpark%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时54分]"
-        },
-        {
-          "title": "报道：美国政府将决定谁可以使用新版ChatGPT",
-          "url": "https://wallstreetcn.com/livenews/3125428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 05时18分]"
-        },
-        {
-          "title": "北大与DeepSeek联合开源DSpark框架，高并发下生成速度提升超60%",
-          "url": "https://wallstreetcn.com/livenews/3125564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时54分]"
-        },
-        {
-          "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
-          "url": "https://wallstreetcn.com/articles/3775589",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "市场消息：OpenAI开启GPT-5.6系列有限预览版测试。",
-          "url": "https://flash.jin10.com/detail/20260627010721618800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "[00时38分 ~ 00时39分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -168,131 +36,16 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "OpenAI发布GPT5.6",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E5%8F%91%E5%B8%83GPT5.6%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "财联社6月26日电，据报道，在收到特朗普政府的电话通知后，OpenAI决定限制GPT 5.6的部署。",
-          "url": "https://api3.cls.cn/share/article/2410705?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "DeepSeek新晋独角兽第一",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%96%B0%E6%99%8B%E7%8B%AC%E8%A7%92%E5%85%BD%E7%AC%AC%E4%B8%80%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 00时39分]"
         }
       ]
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 15,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
-          "url": "https://wallstreetcn.com/articles/3775599",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 15时49分]"
-        },
-        {
-          "title": "苹果公司删除VK应用，俄方要求解释",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/06/26/8f36ab927c67455385550a028ae546e9.html",
-          "source": "参考消息",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时47分 ~ 23时15分]"
-        },
-        {
-          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
-          "url": "https://wallstreetcn.com/articles/3775470",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 06时45分]"
-        },
-        {
-          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
-          "url": "https://wallstreetcn.com/articles/3775558",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时06分]"
-        },
-        {
-          "title": "亚股遭遇“黑色星期五”！华尔街热议背后推手 苹果涨价是多重利空之一",
-          "url": "https://www.cls.cn/detail/2410279",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时06分]"
-        },
-        {
-          "title": "周六你需要知道的隔夜全球要闻：美军再次对伊朗发动打击；纳指小幅收跌，存储股大幅回调，微软、苹果反弹",
-          "url": "https://api3.cls.cn/share/article/2410776?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "赵一德赵刚与比亚迪董事长王传福一行座谈",
-          "url": "https://wallstreetcn.com/livenews/3125596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 23时15分]"
-        },
         {
           "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
           "url": "https://wallstreetcn.com/articles/3775675",
@@ -302,287 +55,70 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时41分 ~ 23时15分]"
+          "time_info": "[00时38分 ~ 00时39分]"
         },
         {
-          "title": "英媒：苹果寻求获准从长鑫存储购买晶片",
-          "url": "https://www.zaochenbao.com/news/china/202606/2775089.html",
-          "source": "早报",
+          "title": "苹果公司删除VK应用，俄方要求解释",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/06/26/8f36ab927c67455385550a028ae546e9.html",
+          "source": "参考消息",
           "ranks": [
-            10,
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时49分 ~ 18时08分]"
+          "time_info": "[00时38分 ~ 00时39分]"
         },
         {
-          "title": "马克·古尔曼：触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max",
-          "url": "https://wallstreetcn.com/livenews/3125563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时54分]"
-        },
-        {
-          "title": "周六你需要知道的隔夜全球要闻：美军再次对伊朗发动打击；黎以美达成三方框架协议；纳指小幅收跌，存储股大幅回调，微软、苹果反弹",
-          "url": "https://api3.cls.cn/share/article/2410776?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "中国驻加拿大大使Wang Di（王迪）表示，根据协议，吉利控股集团旗下的路特斯品牌（Lotus）电动汽车将于下月抵达加拿大。 “吉利电动汽车将于下月抵达加拿大，届时将在蒙特利尔举行交车仪式。” 奇瑞和比亚迪等其他中国品牌正在与加拿大政府机构协调，以在完成相关步骤后向加拿大发运车辆。 “我希望在今年秋季，其他真正名副其实的中国品牌电动汽车能够完成相关程序，进入加拿大市场。” 中国电动汽车制造商对建立合资企业感兴趣，但首先会专注于建立销售渠道并评估市场需求。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3125480",
+          "title": "赵一德赵刚与比亚迪董事长王传福一行座谈",
+          "url": "https://wallstreetcn.com/livenews/3125596",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
-          "url": "https://wallstreetcn.com/livenews/3125560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "赵一德赵刚与比亚迪董事长王传福一行座谈",
-          "url": "https://flash.jin10.com/detail/20260627092006521800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "陕西省委书记赵一德、省长赵刚在西安与比亚迪董事长王传福一行座谈",
-          "url": "https://api3.cls.cn/share/article/2410814?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "time_info": "00时39分"
         }
       ]
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "中国超级计算机再登全球算力排行榜榜首",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/06/25/830f24cba8954bc2aeb7cc733c96b152.html",
-          "source": "参考消息",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 12时35分]"
-        },
-        {
-          "title": "绿色幻象之下：谁在为万亿AI芯片繁荣买单？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33451501",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时06分]"
-        },
         {
           "title": "【电报解读】AI算力需求爆发式增长，半导体设备迎来增长大年，机构称半导体核心零部件在设备成本中占比较高，将持续受益于先进制程及多腔化升级，这家公司是首家实现等离子体射频电源系统量产的国产厂商",
           "url": "https://api3.cls.cn/share/article/2410938?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 23时15分]"
-        },
-        {
-          "title": "今年以来算力相关产品加速出海 有武汉企业800G以上光模块出口同比增长超过100倍",
-          "url": "https://api3.cls.cn/share/article/2410867?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 18时08分]"
-        },
-        {
-          "title": "今年以来算力相关产品加速出海 有武汉企业800G以上光模块出口同比增长超过100倍",
-          "url": "https://flash.jin10.com/detail/20260627134035165800",
-          "source": "金十数据",
-          "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "财联社6月27日电，美国国家公路交通安全管理局（NHTSA）表示，结束对约37.6万辆美国市场特斯拉Model 3和Model Y转向失控问题的工程分析调查。",
-          "url": "https://api3.cls.cn/share/article/2410891?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时49分 ~ 18时08分]"
-        },
-        {
-          "title": "美国国家公路交通安全管理局（NHTSA）结束对约376241辆特斯拉Model 3和Model Y美国车辆转向失控问题的工程分析（EA）。",
-          "url": "https://flash.jin10.com/detail/20260627151134945800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 18时08分]"
-        },
-        {
-          "title": "华为：OceanStor A800存储斩获IO500榜单第一",
-          "url": "https://flash.jin10.com/detail/20260627170952244800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时54分]"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：结束对约376,241辆特斯拉(TSLA.O)Model 3和Model Y车辆因转向失控问题的工程分析。",
-          "url": "https://flash.jin10.com/detail/20260627162738213800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "张兴海回应问界供应链：坚定与华为、宁德时代的战略约定不改变",
-          "url": "https://wallstreetcn.com/livenews/3125554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
+          "time_info": "[00时38分 ~ 00时39分]"
         }
       ]
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "微创机器人-B(02252.HK)：图迈全球商业化装机突破二百台",
           "url": "https://www.gelonghui.com/news/5259149",
           "source": "格隆汇",
           "ranks": [
-            11,
-            12,
-            13,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时47分 ~ 23时15分]"
-        },
-        {
-          "title": "京东：在欧洲推出机器人维修服务，已在英德等国建立JoyRobocare维修中心",
-          "url": "https://wallstreetcn.com/livenews/3125522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时35分 ~ 15时49分]"
-        },
-        {
-          "title": "【电报解读】人形机器人T链一级供应商新剑传动创业板IPO获受理，机构预计特斯拉第三代Optimus年中亮相、7-8月正式投产，2026年或将成为机器人行业量产元年，快速梳理新剑传动相关标的（附表）",
-          "url": "https://api3.cls.cn/share/article/2410831?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "荣耀机器人到重庆也得拍落地签",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%B0%E9%87%8D%E5%BA%86%E4%B9%9F%E5%BE%97%E6%8B%8D%E8%90%BD%E5%9C%B0%E7%AD%BE%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时41分"
+          "time_info": "[00时38分 ~ 00时39分]"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美国允许受信任的伙伴使用Anthropic的Mythos 5人工智能模型",
-          "url": "https://api3.cls.cn/share/article/2410788?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
         {
           "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
           "url": "https://wallstreetcn.com/livenews/3125605",
@@ -592,156 +128,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "财联社6月27日电，28家日本公司据悉将于7月联合组建一支团队，开发一款人工智能聊天工具。",
-          "url": "https://api3.cls.cn/share/article/2410713?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "SemiAnalysis：H100云端指数现货价格正在下跌，现在每小时2.42美元，比5月峰值低约40%。生态系统担心这表明计算需求以及由此延伸的人工智能AI需求正在减弱。 重要的信号是，这很可能是一个现货价格指数，而不是期限定价。我们针对1年期H100合同价格的新云调查显示，该价格反而从去年末的大约每小时1.70美元的低谷攀升至如今的每小时约2.65美元。",
-          "url": "https://wallstreetcn.com/livenews/3125392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英特尔 高通",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "高通计划将数据中心芯片技术引入智能手机 提升端侧AI能力",
-          "url": "https://api3.cls.cn/share/article/2410890?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 18时08分]"
-        },
-        {
-          "title": "财联社6月27日电，高通据悉计划为手机推出全新芯片架构。",
-          "url": "https://api3.cls.cn/share/article/2410718?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 03时47分]"
-        },
-        {
-          "title": "高通计划推出全新手机芯片架构。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3125405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 03时47分]"
-        },
-        {
-          "title": "据美国财经媒体Semafor：高通(QCOM.O)计划推出全新手机芯片架构。",
-          "url": "https://flash.jin10.com/detail/20260627005049237800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "全球最大锂生产商美国雅宝（Albemarle）认为，其电池储能业务需求正稳步增长，与电动汽车需求的不规律形成反差。 该公司首席商务官Eric Norris）表示：“电网储能在全球的分布更加均匀，这是一个很有意思的需求驱动因素。”（路透）",
-          "url": "https://wallstreetcn.com/livenews/3125490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "力拓铝业及锂业务单元负责人Jérôme Pécresse表示：“未来两年，锂需求在电动汽车与储能之间的分布将更加均衡。”该公司计划到2028年提升锂产能。",
-          "url": "https://wallstreetcn.com/livenews/3125489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "锂生产商押注电池储能，需求重心逐渐超越电动汽车",
-          "url": "https://wallstreetcn.com/livenews/3125488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金、白银周五涨超1%，本周现货黄金跌1.9%、白银跌约9.5%",
-          "url": "https://wallstreetcn.com/livenews/3125462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 08时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周五（6月26日），美股纳斯达克生物科技指数收涨超2.2%，连续五天创收盘历史新高。 成分股Pyxis Oncology收涨24.22%，Humacyte、ATAI Beckley、Moderna（莫德纳）、Immunitybio Inc.、GH Research、Abcellera Biologics涨18.05%-10.81%，Compass Pathways涨9.20%紧随其后。 Kymera则收跌7.26%、表现倒数第四，Ardelyx跌8.50%，Mesoblast跌9.03%，奥麦罗制药（OMER）跌19.17%。",
-          "url": "https://wallstreetcn.com/livenews/3125495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "00时39分"
         }
       ]
     }
