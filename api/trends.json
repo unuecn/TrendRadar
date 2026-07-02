@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T17:26:47.699866+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-07-02T19:53:50.793884+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "SemiAnalysis创始人：推理或超越石油成全球最大市场，2040年太空数据中心将主导全球算力",
@@ -33,6 +33,19 @@
           "time_info": "[00时06分 ~ 07时24分]"
         },
         {
+          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
+          "url": "https://wallstreetcn.com/articles/3776029",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 19时53分]"
+        },
+        {
           "title": "科创50指数跌超6%，创业板指跌4.6%，沪指跌近1.3%，算力硬件、存储芯片、证券等方向跌幅居前，沪深京三市下跌个股近2400只。",
           "url": "https://wallstreetcn.com/livenews/3127829",
           "source": "华尔街见闻-快讯",
@@ -42,6 +55,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
+          "url": "https://wallstreetcn.com/articles/3775980",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 19时53分]"
+        },
+        {
+          "title": "证券时报：Meta“带崩”科技股？业内人士：算力过剩系误读！",
+          "url": "https://wallstreetcn.com/livenews/3128010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "美股异动丨Meta跨界抢食AI算力市场，Nebius跌超16%、CoreWeave跌逾11%",
@@ -80,27 +115,16 @@
           "time_info": "[00时06分 ~ 07时24分]"
         },
         {
-          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
-          "url": "https://wallstreetcn.com/articles/3775980",
+          "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
+          "url": "https://wallstreetcn.com/articles/3775997",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时24分 ~ 17时26分]"
-        },
-        {
-          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
-          "url": "https://wallstreetcn.com/articles/3776029",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 17时26分]"
+          "time_info": "[09时33分 ~ 19时53分]"
         },
         {
           "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
@@ -114,24 +138,13 @@
           "time_info": "[02时25分 ~ 06时01分]"
         },
         {
-          "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
-          "url": "https://wallstreetcn.com/articles/3775997",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时33分 ~ 17时26分]"
-        },
-        {
           "title": "兴业证券：有关Meta对外租售算力的新闻不宜过度悲观地解读为算力过剩",
           "url": "https://api3.cls.cn/share/article/2415441?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -145,6 +158,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "Meta“带崩”科技股？业内人士：算力过剩系误读",
+          "url": "https://api3.cls.cn/share/article/2415651?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "Meta“带崩”科技股？业内人士：算力过剩系误读！",
+          "url": "https://flash.jin10.com/detail/20260702192912734800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "联想高管：算力没有过剩",
+          "url": "https://wallstreetcn.com/livenews/3127988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "【九点特供】最高超过20%！半导体涨价潮蔓延至先进封装，分析师预计国内先进封装建设的资本支出将持续增长，这两家公司近日相继公布百亿级扩产计划；Meta拟对外出售额外算力，并筹划进军AI云业务",
@@ -175,7 +221,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -194,7 +240,7 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "iPhone 18 Pro大量细节被曝光，印度合作伙伴泄密给苹果敲响哪些警钟",
@@ -219,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        },
+        {
+          "title": "【电报解读】苹果加码折叠屏iPhone备货至1000万台！机构预计苹果凭借庞大的高端用户基础，有望提升折叠屏品类的市场接受度，并带动相关供应链需求增长，这家公司推出了针对折叠屏转轴零部件加工的多款设备",
+          "url": "https://api3.cls.cn/share/article/2415650?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "港股开盘，恒指开涨0.83%，科指开涨1.25%，汽车股普遍高开，比亚迪股份(01211.HK)开涨4.9%，吉利汽车(00175.HK)开涨3.14%。",
@@ -330,7 +387,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -341,7 +398,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -352,7 +409,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         }
@@ -499,6 +556,138 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "精工科技：单关节外骨骼机器人已形成量产能力并投向市场 多关节外骨骼助力机器人第一代样机已完成制作",
+          "url": "https://api3.cls.cn/share/article/2415664?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "机器人伴侣你会买吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%90%97%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            25,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 09时33分]"
+        },
+        {
+          "title": "维峰电子(301328.SZ)：人形机器人业务领域相关产品暂未形成批量生产",
+          "url": "https://www.gelonghui.com/news/5261537",
+          "source": "格隆汇",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 06时01分]"
+        },
+        {
+          "title": "请人难成本高 韩国商家转向机器人和自助服务",
+          "url": "https://www.zaochenbao.com/news/politics/202607/0275484.html",
+          "source": "早报",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 19时53分]"
+        },
+        {
+          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
+          "url": "https://www.cls.cn/detail/2415416",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "中国科企推超高仿真人形机器人 引发“赛博男女友”热议",
+          "url": "https://www.zaochenbao.com/news/china/202607/0275504.html",
+          "source": "早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "小雨智造首发具身智能焊接机器人，起售价16.98万",
+          "url": "https://wallstreetcn.com/livenews/3128006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
+          "url": "https://www.cls.cn/detail/2415523",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "“穿刺&消融手术机器人第一股”登陆港交所！真健康医疗上市首日表现强劲",
+          "url": "https://www.gelonghui.com/news/5261620",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "7月2日连板股分析：连板股晋级率仅13% 机器人板块反复活跃",
+          "url": "https://api3.cls.cn/share/article/2415417?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "卖了一万台的情感陪伴机器人",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%96%E4%BA%86%E4%B8%80%E4%B8%87%E5%8F%B0%E7%9A%84%E6%83%85%E6%84%9F%E9%99%AA%E4%BC%B4%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 10,
       "titles": [
@@ -623,6 +812,90 @@
       ]
     },
     {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
+          "url": "https://wallstreetcn.com/articles/3775932",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 04时25分]"
+        },
+        {
+          "title": "【机构调研】DRAM三季度价格将继续上调，这家公司DDR4和LPDDR4合计收入占DRAM比例超40%",
+          "url": "https://api3.cls.cn/share/article/2415659?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3776030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 19时53分]"
+        },
+        {
+          "title": "A股存储芯片板块持续走弱，兆易创新触及跌停，江丰电子、精测电子、中科飞测、珂玛科技、华海清科、芯源微、香农芯创、利和兴、神工股份跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3127823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "A股存储芯片板块午后持续走弱，北方华创、深科技、赛腾股份、兆易创新触及跌停，江丰电子、精测电子、中科飞测跌超10%，迈为股份、立昂微、澜起科技、微导纳米跟跌。",
+          "url": "https://flash.jin10.com/detail/20260702132529206800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "存储芯片概念持续下挫 兆易创新封跌停",
+          "url": "https://api3.cls.cn/share/article/2415138?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "北京君正：由于公司存储芯片持续在涨价 预计各季度毛利率会环比有所增长",
+          "url": "https://wallstreetcn.com/livenews/3127978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 7,
       "titles": [
@@ -691,7 +964,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -709,139 +982,75 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "keyword_group": "小米 特斯拉 华为",
       "match_count": 6,
       "titles": [
         {
-          "title": "机器人伴侣你会买吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%90%97%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "马斯克发布大合照：特斯拉弗里蒙特工厂Optimus产线或已就绪！",
+          "url": "https://www.cls.cn/detail/2415009",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            25,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 09时33分]"
-        },
-        {
-          "title": "维峰电子(301328.SZ)：人形机器人业务领域相关产品暂未形成批量生产",
-          "url": "https://www.gelonghui.com/news/5261537",
-          "source": "格隆汇",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 06时01分]"
-        },
-        {
-          "title": "“穿刺&消融手术机器人第一股”登陆港交所！真健康医疗上市首日表现强劲",
-          "url": "https://www.gelonghui.com/news/5261620",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        },
-        {
-          "title": "7月2日连板股分析：连板股晋级率仅13% 机器人板块反复活跃",
-          "url": "https://api3.cls.cn/share/article/2415417?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "请人难成本高 韩国商家转向机器人和自助服务",
-          "url": "https://www.zaochenbao.com/news/politics/202607/0275484.html",
-          "source": "早报",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "卖了一万台的情感陪伴机器人",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%96%E4%BA%86%E4%B8%80%E4%B8%87%E5%8F%B0%E7%9A%84%E6%83%85%E6%84%9F%E9%99%AA%E4%BC%B4%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
-          "url": "https://wallstreetcn.com/articles/3775932",
-          "source": "华尔街见闻",
-          "ranks": [
+            5,
             2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时06分 ~ 04时25分]"
+          "time_info": "[13时59分 ~ 19时53分]"
         },
         {
-          "title": "A股存储芯片板块持续走弱，兆易创新触及跌停，江丰电子、精测电子、中科飞测、珂玛科技、华海清科、芯源微、香农芯创、利和兴、神工股份跌超10%。",
-          "url": "https://wallstreetcn.com/livenews/3127823",
-          "source": "华尔街见闻-快讯",
+          "title": "比亚迪有望再超越特斯拉 成全球纯电动车销量冠军",
+          "url": "https://www.zaochenbao.com/news/china/202607/0275508.html",
+          "source": "早报",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
-          "url": "https://wallstreetcn.com/articles/3776030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时26分"
+          "time_info": "19时53分"
         },
         {
-          "title": "A股存储芯片板块午后持续走弱，北方华创、深科技、赛腾股份、兆易创新触及跌停，江丰电子、精测电子、中科飞测跌超10%，迈为股份、立昂微、澜起科技、微导纳米跟跌。",
-          "url": "https://flash.jin10.com/detail/20260702132529206800",
-          "source": "金十数据",
+          "title": "国家发改委赴小米集团开展工作调研",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E8%B5%B4%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E5%BC%80%E5%B1%95%E5%B7%A5%E4%BD%9C%E8%B0%83%E7%A0%94%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "国家发改委刘刚带队赴小米集团开展工作调研",
+          "url": "https://wallstreetcn.com/livenews/3127918",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "17时26分"
         },
         {
-          "title": "存储芯片概念持续下挫 兆易创新封跌停",
-          "url": "https://api3.cls.cn/share/article/2415138?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
+          "title": "小米高层重大调整",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E5%B1%82%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "00时06分"
+        },
+        {
+          "title": "财联社7月2日电，特斯拉在意大利的新车注册量在6月份同比增长42.78%。",
+          "url": "https://api3.cls.cn/share/article/2414741?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         }
       ]
     },
@@ -849,6 +1058,17 @@
       "keyword_group": "台积电 英伟达",
       "match_count": 5,
       "titles": [
+        {
+          "title": "特朗普称台积电将扩大投资规模，台积电不予置评",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/07/02/5f09adf25f694df5b93c6f889a6256cf.html",
+          "source": "参考消息",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 19时53分]"
+        },
         {
           "title": "连接英伟达芯片 一核能公司在美国首次实现先进反应堆发电",
           "url": "https://flash.jin10.com/detail/20260702065422880800",
@@ -859,17 +1079,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "特朗普称台积电将扩大投资规模，台积电不予置评",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/07/02/5f09adf25f694df5b93c6f889a6256cf.html",
-          "source": "参考消息",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
         },
         {
           "title": "Valar与英伟达合作建设节水核能数据中心",
@@ -888,11 +1097,12 @@
           "url": "https://www.zaochenbao.com/news/taiwan/202607/0275492.html",
           "source": "早报",
           "ranks": [
-            10
+            10,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 19时53分]"
         },
         {
           "title": "英伟达通过收入分成方式与AI云公司合作",
@@ -964,7 +1174,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         }
@@ -1032,7 +1242,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -1043,7 +1253,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -1065,116 +1275,15 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【风口研报·公司】商业航天与AI数据中心供电共振，这家紧固件龙头切入液体火箭3D打印+AIDC燃机产业链；这个资源品当前已过度交易悲观预期，分析师认为行业EPS仍有明显增长，四季度前后涨价催化概率上升",
-          "url": "https://api3.cls.cn/share/article/2415336?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "我国成功发射海洋二号E卫星",
-          "url": "https://wallstreetcn.com/livenews/3127685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        },
-        {
-          "title": "亚马逊低地轨道卫星计划新一批卫星发射升空",
-          "url": "https://api3.cls.cn/share/article/2415406?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "我国成功发射海洋二号E卫星",
-          "url": "https://api3.cls.cn/share/article/2414843?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克发布大合照：特斯拉弗里蒙特工厂Optimus产线或已就绪！",
-          "url": "https://www.cls.cn/detail/2415009",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 17时26分]"
-        },
-        {
-          "title": "国家发改委刘刚带队赴小米集团开展工作调研",
-          "url": "https://wallstreetcn.com/livenews/3127918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "小米高层重大调整",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E5%B1%82%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "财联社7月2日电，特斯拉在意大利的新车注册量在6月份同比增长42.78%。",
-          "url": "https://api3.cls.cn/share/article/2414741?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
         }
       ]
     },
     {
       "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "港股医药股继续走高 ，恒生生物科技ETF、港股通创新药ETF、恒生医疗ETF涨超3%",
@@ -1205,9 +1314,109 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "创新药ETF华泰柏瑞(517120)7月3日开市起至当日10:30停牌",
+          "url": "https://api3.cls.cn/share/article/2415629?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【风口研报·公司】商业航天与AI数据中心供电共振，这家紧固件龙头切入液体火箭3D打印+AIDC燃机产业链；这个资源品当前已过度交易悲观预期，分析师认为行业EPS仍有明显增长，四季度前后涨价催化概率上升",
+          "url": "https://api3.cls.cn/share/article/2415336?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "我国成功发射海洋二号E卫星",
+          "url": "https://wallstreetcn.com/livenews/3127685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "亚马逊低地轨道卫星计划新一批卫星发射升空",
+          "url": "https://api3.cls.cn/share/article/2415406?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "我国成功发射海洋二号E卫星",
+          "url": "https://api3.cls.cn/share/article/2414843?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "供需矛盾有限 碳酸锂区间拉锯暂企稳",
+          "url": "https://api3.cls.cn/share/article/2415645?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约跌多涨少，SC原油跌超4%，液化石油气（LPG）、集运欧线跌超3%，甲醇跌近3%，燃料油、低硫燃料油（LU）跌超2%，聚丙烯、沥青、纯苯、BR橡胶、塑料、对二甲苯、聚丙烯、乙二醇、丙烯、焦炭、多晶硅、苯乙烯跌超1%。涨幅方面，铂涨超2%，铁矿石、沪银涨超1%，沪金、豆粕、纸浆涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260702090013383800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "盐湖股份：预计上半年净利润同比增长131%-143% 氯化钾板块盈利显著增长、碳酸锂产销量同比提升",
+          "url": "https://api3.cls.cn/share/article/2415630?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         }
       ]
     },
@@ -1244,7 +1453,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         }
@@ -1275,6 +1484,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华民股份：受光伏行业周期性影响 产业链价格持续处于低位运行状态且暂未有明显变化趋势",
+          "url": "https://api3.cls.cn/share/article/2415661?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "捷捷微电(300623.SZ)：有部分MOSFET产品可应用于光伏逆变器领域",
+          "url": "https://www.gelonghui.com/news/5261533",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
         }
       ]
     },
@@ -1312,40 +1549,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时06分 ~ 09时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "早盘开盘，国内期货主力合约跌多涨少，SC原油跌超4%，液化石油气（LPG）、集运欧线跌超3%，甲醇跌近3%，燃料油、低硫燃料油（LU）跌超2%，聚丙烯、沥青、纯苯、BR橡胶、塑料、对二甲苯、聚丙烯、乙二醇、丙烯、焦炭、多晶硅、苯乙烯跌超1%。涨幅方面，铂涨超2%，铁矿石、沪银涨超1%，沪金、豆粕、纸浆涨近1%。",
-          "url": "https://flash.jin10.com/detail/20260702090013383800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "捷捷微电(300623.SZ)：有部分MOSFET产品可应用于光伏逆变器领域",
-          "url": "https://www.gelonghui.com/news/5261533",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
         }
       ]
     },
