@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T07:35:33.825176+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-07-04T10:49:49.269202+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "人工智能深刻改变世界经济秩序",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 10时49分]"
         },
         {
           "title": "中国拟推进人工智能全学段教育",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 10时49分]"
         },
         {
           "title": "美国出现“人工智能通胀”",
@@ -37,8 +37,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 10时49分]"
+        },
+        {
+          "title": "常州市市长周伟调研人工智能上游产业",
+          "url": "https://flash.jin10.com/detail/20260704100159012800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
@@ -63,6 +74,70 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时04分 ~ 07时35分]"
+        },
+        {
+          "title": "考希克·巴苏：通用人工智能的机遇与风险",
+          "url": "https://www.zaochenbao.com/news/opinion/202607/0475616.html",
+          "source": "早报",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "2nm代工再爆单！三星拿下Meta巨额ASIC订单 积压订单冲刺50万亿韩元",
+          "url": "https://www.cls.cn/detail/2416703",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 10时49分]"
+        },
+        {
+          "title": "SemiAnalysis驳斥“算力过剩论”：Meta算力扩张远超想象，明年资本开支将“高得惊人”",
+          "url": "https://wallstreetcn.com/articles/3776123",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 07时35分]"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 04时38分]"
+        },
+        {
+          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
+          "url": "https://wallstreetcn.com/articles/3776134",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     },
@@ -80,8 +155,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 10时49分]"
         },
         {
           "title": "中国人形机器人高效完成“工厂值班”",
@@ -91,8 +166,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 10时49分]"
+        },
+        {
+          "title": "格隆汇公告精选︱江波龙：预计上半年净利润同比增长62204.03%～74393.95%；福赛科技：机器人零部件产品处于早期研发、小批量试制及送样实验阶段",
+          "url": "https://www.gelonghui.com/news/5263021",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 10时49分]"
         },
         {
           "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
@@ -101,17 +187,6 @@
           "ranks": [
             10,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时35分]"
-        },
-        {
-          "title": "格隆汇公告精选︱江波龙：预计上半年净利润同比增长62204.03%～74393.95%；福赛科技：机器人零部件产品处于早期研发、小批量试制及送样实验阶段",
-          "url": "https://www.gelonghui.com/news/5263021",
-          "source": "格隆汇",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -162,48 +237,6 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "2nm代工再爆单！三星拿下Meta巨额ASIC订单 积压订单冲刺50万亿韩元",
-          "url": "https://www.cls.cn/detail/2416703",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时35分]"
-        },
-        {
-          "title": "SemiAnalysis驳斥“算力过剩论”：Meta算力扩张远超想象，明年资本开支将“高得惊人”",
-          "url": "https://wallstreetcn.com/articles/3776123",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时35分]"
-        },
-        {
-          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
-          "url": "https://wallstreetcn.com/articles/3776091",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时38分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 黄金",
       "match_count": 2,
       "titles": [
@@ -230,6 +263,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时38分 ~ 07时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美发射商业航天器抬升天文卫星轨道 延长工作寿命",
+          "url": "https://api3.cls.cn/share/article/2417059?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "美发射商业航天器抬升天文卫星轨道，延长工作寿命",
+          "url": "https://wallstreetcn.com/livenews/3128875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     },
@@ -262,6 +323,40 @@
       ]
     },
     {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "存储芯片涨价",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
       "match_count": 1,
       "titles": [
@@ -289,7 +384,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         }
@@ -311,8 +406,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 10时49分]"
         }
       ]
     },
@@ -330,6 +425,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SemiAnalysis：在英伟达系统中的内存支出占比到2026年底将超过30%，并在2027年超过40%",
+          "url": "https://wallstreetcn.com/livenews/3128855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     },
