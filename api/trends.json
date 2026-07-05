@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T11:19:46.072436+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-07-05T14:55:26.140285+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://ckxxapp.ckxx.net/pages/2026/07/03/511bc71cb599461183c4e3367c659be2.html",
           "source": "参考消息",
           "ranks": [
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 11时19分]"
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 14时55分]"
         },
         {
           "title": "机器人出口每4元产值有1元深圳造 深圳机器人全球卖爆",
@@ -52,7 +53,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -70,9 +71,84 @@
       ]
     },
     {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "人工智能深刻改变世界经济秩序",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/07/03/a037e42945284cf09afdbdf97d4ca182.html",
+          "source": "参考消息",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 14时55分]"
+        },
+        {
+          "title": "中国拟推进人工智能全学段教育",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/07/03/aec50833125744158a44666ccb7e6d88.html",
+          "source": "参考消息",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 11时19分]"
+        },
+        {
+          "title": "中国发文促进电影院多样化经营 提出引入AI智能体、卡拉OK",
+          "url": "https://www.zaochenbao.com/news/china/202607/0475657.html",
+          "source": "早报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时35分]"
+        },
+        {
+          "title": "《北京数字经济发展报告（2025—2026）》发布 2025年人工智能核心产业规模约4500亿元",
+          "url": "https://api3.cls.cn/share/article/2417259?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "《北京数字经济发展报告（2025—2026）》发布 2025年人工智能核心产业规模约4500亿元",
+          "url": "https://flash.jin10.com/detail/20260705141115141800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 5,
       "titles": [
+        {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 14时55分]"
+        },
         {
           "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
           "url": "https://wallstreetcn.com/articles/3776195",
@@ -84,18 +160,6 @@
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[01时05分 ~ 11时19分]"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://wallstreetcn.com/livenews/3128944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
           "time_info": "[01时05分 ~ 11时19分]"
         },
         {
@@ -137,9 +201,62 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 14时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "韩国存储扩产、Meta出租算力--野村谈“存储两大利空”",
+          "url": "https://wallstreetcn.com/articles/3776202",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 14时55分]"
+        },
+        {
+          "title": "澳媒：Anthropic拟收购澳大利亚数据中心算力资源",
+          "url": "https://flash.jin10.com/detail/20260705144920210800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "14时55分"
+        },
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
+          "url": "https://flash.jin10.com/detail/20260705000623395800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
         }
       ]
     },
@@ -152,72 +269,36 @@
           "url": "https://wallstreetcn.com/livenews/3128961",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 14时55分]"
         },
         {
           "title": "美光科技投资93亿美元扩建先进存储芯片项目 预计2028下半年出货HBM",
           "url": "https://api3.cls.cn/share/article/2417211?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            11
+            11,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 14时55分]"
         },
         {
           "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
           "url": "https://www.cls.cn/detail/2417195",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "人工智能深刻改变世界经济秩序",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/07/03/a037e42945284cf09afdbdf97d4ca182.html",
-          "source": "参考消息",
-          "ranks": [
-            21
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 11时19分]"
-        },
-        {
-          "title": "中国拟推进人工智能全学段教育",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/07/03/aec50833125744158a44666ccb7e6d88.html",
-          "source": "参考消息",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 11时19分]"
-        },
-        {
-          "title": "中国发文促进电影院多样化经营 提出引入AI智能体、卡拉OK",
-          "url": "https://www.zaochenbao.com/news/china/202607/0475657.html",
-          "source": "早报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 07时35分]"
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 14时55分]"
         }
       ]
     },
@@ -225,6 +306,19 @@
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 3,
       "titles": [
+        {
+          "title": "我国成功发射千帆极轨13组卫星",
+          "url": "https://wallstreetcn.com/livenews/3128940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 14时55分]"
+        },
         {
           "title": "我国成功发射千帆极轨13组卫星",
           "url": "https://api3.cls.cn/share/article/2417151?os=web&sv=7.7.5&app=",
@@ -240,18 +334,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时05分 ~ 07时35分]"
-        },
-        {
-          "title": "我国成功发射千帆极轨13组卫星",
-          "url": "https://wallstreetcn.com/livenews/3128940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 11时19分]"
         },
         {
           "title": "据俄罗斯卫星通讯社：俄罗斯准备开展人道主义行动，在康斯坦丁诺夫卡移交乌克兰武装部队阵亡军人的遗体。",
@@ -278,9 +360,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 14时55分]"
         },
         {
           "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
@@ -289,7 +371,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -300,39 +382,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "韩国存储扩产、Meta出租算力--野村谈“存储两大利空”",
-          "url": "https://wallstreetcn.com/articles/3776202",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 11时19分]"
-        },
-        {
-          "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
-          "url": "https://flash.jin10.com/detail/20260705000623395800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
         }
       ]
     },
@@ -345,11 +397,12 @@
           "url": "https://wallstreetcn.com/livenews/3128956",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 14时55分]"
         },
         {
           "title": "美国国防部启动碳酸锂战略收储 五年拟采购1.62万吨补充国防储备",
@@ -358,7 +411,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         }
@@ -392,7 +445,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         }
