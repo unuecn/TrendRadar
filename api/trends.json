@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T00:00:07.834787+08:00",
-  "total_titles_processed": 238,
+  "generated_at": "2026-07-07T02:17:56.844245+08:00",
+  "total_titles_processed": 335,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 02时17分]"
         },
         {
           "title": "【焦点复盘】科创50“深V”回升结束3连跌，新版“韬定律”提振芯片产业链，机器人概念遭深幅回调",
           "url": "https://www.cls.cn/detail/2418140",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 02时17分]"
+        },
+        {
+          "title": "优必选回应仿生机器人争议：续航2-4小时是行业普遍情况，定位是情感陪伴，不是伴侣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33526038",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 02时17分]"
         },
         {
           "title": "工业和信息化部郝立顺：今年前5月机器人规上企业营收超900亿 近五年年均增速超20%",
@@ -52,17 +65,6 @@
           "time_info": "00时00分"
         },
         {
-          "title": "优必选回应仿生机器人争议：续航2-4小时是行业普遍情况，定位是情感陪伴，不是伴侣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33526038",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
           "title": "高盛：全球人形机器人市场将从2025年的约2万台增长至2035年的140万台",
           "url": "https://api3.cls.cn/share/article/2418480?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -77,8 +79,43 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美股异动丨特斯拉涨幅扩大至5% SpaceX合并预期持续升温",
+          "url": "https://www.gelonghui.com/news/5263772",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "财联社7月6日电，特斯拉日内涨幅扩大至4%。",
+          "url": "https://api3.cls.cn/share/article/2418494?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 02时17分]"
+        },
+        {
+          "title": "华为拟秋季发布Mate 90系列 搭载韬定律麒麟晶片",
+          "url": "https://www.zaochenbao.com/news/china/202607/0675785.html",
+          "source": "早报",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 02时17分]"
+        },
         {
           "title": "华为Mate90系列或将秋季登场，这次芯片将用上“韬定律”",
           "url": "https://www.cls.cn/detail/2417798",
@@ -91,26 +128,115 @@
           "time_info": "00时00分"
         },
         {
-          "title": "财联社7月6日电，特斯拉日内涨幅扩大至4%。",
-          "url": "https://api3.cls.cn/share/article/2418494?os=web&sv=7.7.5&app=",
+          "title": "财联社7月6日电，特斯拉日内涨幅扩大至5%，总市值报1.55万亿美元。",
+          "url": "https://api3.cls.cn/share/article/2418509?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            8
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "SemiAnalysis再度盘前爆料：英伟达Kyber NVL144机架延迟超12个月，因“PCB中板制造困难”",
+          "url": "https://wallstreetcn.com/articles/3776238",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 02时17分]"
+        },
+        {
+          "title": "财联社7月7日电，英伟达回应AI服务器架构延后的报道，称公司路线图保持不变。",
+          "url": "https://api3.cls.cn/share/article/2418520?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "英伟达否认Kyber延期传闻：产品路线图未受影响",
+          "url": "https://flash.jin10.com/detail/20260707011703831800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "【电报解读】兼具能效、成本、空间等多重优势，800VHVDC已成为数据中心供电的“必然方向”，英伟达将从2027年起推动800VHVDC落地，这家公司HVDC产品已广泛应用于大型数据中心等场景",
+          "url": "https://api3.cls.cn/share/article/2418350?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
         },
         {
-          "title": "华为拟秋季发布Mate 90系列 搭载韬定律麒麟晶片",
-          "url": "https://www.zaochenbao.com/news/china/202607/0675785.html",
-          "source": "早报",
+          "title": "英伟达回应AI服务器架构延后的报道，称：公司路线图保持不变",
+          "url": "https://wallstreetcn.com/livenews/3129491",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时00分"
+          "time_info": "02时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周一（7月6日），韩元兑美元最终跌0.02%，报1529.98韩元，最近三个交易日累计涨幅收窄至1.30%。",
+          "url": "https://wallstreetcn.com/livenews/3129520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.01%，暂报2257.60点，北京时间20:00以来呈现出V形反转走势。 MarketVectorTM数字资产100中盘指数涨1.70%，报2633.91点。 MarketVector数字资产100指数涨1.36，报12739.11点。 目前，Solana涨1.30%，狗狗币跌0.65%，XRP涨1.43%。 比特币涨1.50%，暂报63675.80美元；以太坊涨0.65%，暂报1791.66美元。",
+          "url": "https://wallstreetcn.com/livenews/3129509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "LME期铜收涨37美元，报13404美元/吨。 LME期铝收涨25美元，报3116美元/吨。 LME期锌收涨50美元，报3591美元/吨。 LME期铅收跌12美元，报1880美元/吨。 LME期镍收跌2美元，报16422美元/吨。 LME期锡收涨436美元，报53064美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3129508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         }
       ]
     },
@@ -123,50 +249,52 @@
           "url": "https://www.gelonghui.com/news/5263766",
           "source": "格隆汇",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 02时17分]"
         },
         {
           "title": "创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨",
           "url": "https://wallstreetcn.com/articles/3776252",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 02时17分]"
         }
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 2,
       "titles": [
         {
-          "title": "SemiAnalysis再度盘前爆料：英伟达Kyber NVL144机架延迟超12个月，因“PCB中板制造困难”",
-          "url": "https://wallstreetcn.com/articles/3776238",
-          "source": "华尔街见闻",
+          "title": "美国财政部报告草案拟警示人工智能泡沫风险。（NOTUS）",
+          "url": "https://wallstreetcn.com/livenews/3129460",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
         },
         {
-          "title": "【电报解读】兼具能效、成本、空间等多重优势，800VHVDC已成为数据中心供电的“必然方向”，英伟达将从2027年起推动800VHVDC落地，这家公司HVDC产品已广泛应用于大型数据中心等场景",
-          "url": "https://api3.cls.cn/share/article/2418350?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
+          "title": "【腾讯正式发布升级版人工智能模型混元Hy3】腾讯在微信公众号发布声明，正式发布混元模型Hy3。声明称，Hy3是在今年4月发布的预览版基础上的升级版本。",
+          "url": "https://wallstreetcn.com/livenews/3129495",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时00分"
+          "time_info": "02时17分"
         }
       ]
     },
@@ -179,11 +307,12 @@
           "url": "https://www.cls.cn/detail/2418067",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 02时17分]"
         }
       ]
     },
@@ -199,25 +328,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国财政部报告草案拟警示人工智能泡沫风险。（NOTUS）",
-          "url": "https://wallstreetcn.com/livenews/3129460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 02时17分]"
         }
       ]
     }
