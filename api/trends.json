@@ -1,62 +1,34 @@
 {
-  "generated_at": "2026-07-09T02:17:30.987494+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-09T04:04:32.621692+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "财联社7月9日电，谷歌相册推出由Gemini Omni模型驱动的视频混剪功能，今日开始面向特定国家符合条件的谷歌AI Plus、PRO和Ultra订阅用户逐步推出。",
-          "url": "https://api3.cls.cn/share/article/2420968?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "OpenAI面向全球发布语音模型GPT-Live，有两个版本。",
-          "url": "https://wallstreetcn.com/livenews/3130838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "财联社7月9日电，OpenAI宣布推出GPT-Live实时交互服务。",
-          "url": "https://api3.cls.cn/share/article/2420964?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "财联社7月9日电，OpenAI推出新一代ChatGPT语音功能。",
-          "url": "https://api3.cls.cn/share/article/2420960?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "财联社7月9日电，贝莱德全球固定收益首席投资官里德表示，已降低并重新调整对与人工智能直接相关公司的投资敞口。",
+          "url": "https://api3.cls.cn/share/article/2420997?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "据CNBC：贝莱德全球固定收益首席投资官里德表示，已降低并重新调整对与人工智能直接相关公司的投资敞口。",
+          "url": "https://flash.jin10.com/detail/20260709032855855800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
         {
           "title": "财联社7月8日电，亚马逊云服务(AWS)与华纳兄弟探索公司合作推出代理人工智能广告平台。",
           "url": "https://api3.cls.cn/share/article/2420947?os=web&sv=7.7.5&app=",
@@ -77,8 +49,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时04分]"
         },
         {
           "title": "美联储会议纪要：大多数与会者指出，由于与人工智能相关的需求、中东冲突或关税，通胀可能仍将保持高位。在这种情况下，几乎所有与会者都表示可能需要采取一些政策收紧措施。",
@@ -87,7 +59,58 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "财联社7月9日电，谷歌相册推出由Gemini Omni模型驱动的视频混剪功能，今日开始面向特定国家符合条件的谷歌AI Plus、PRO和Ultra订阅用户逐步推出。",
+          "url": "https://api3.cls.cn/share/article/2420968?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时04分]"
+        },
+        {
+          "title": "OpenAI面向全球发布语音模型GPT-Live，有两个版本。",
+          "url": "https://wallstreetcn.com/livenews/3130838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "财联社7月9日电，OpenAI宣布推出GPT-Live实时交互服务。",
+          "url": "https://api3.cls.cn/share/article/2420964?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "财联社7月9日电，OpenAI推出新一代ChatGPT语音功能。",
+          "url": "https://api3.cls.cn/share/article/2420960?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         }
@@ -105,8 +128,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时04分]"
         },
         {
           "title": "AI芯片公司SambaNova Systems Inc.的CEO Rodrigo Liang：对高速推理的需求非常可观。 预计公司客户规模到2026年年底将达到100家，甚至更多。 随着投资者参与，公司计划扩大规模。（彭博电视）",
@@ -150,6 +173,34 @@
       ]
     },
     {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股异动丨拿下苹果巨额芯片大单，博通拉升涨超6%",
+          "url": "https://www.gelonghui.com/news/5265153",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时04分]"
+        },
+        {
+          "title": "三星预告将发布折叠屏新机 新设计抢先苹果竞品亮相",
+          "url": "https://www.cls.cn/detail/2420824",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 1,
       "titles": [
@@ -160,7 +211,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         }
@@ -179,8 +230,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时04分]"
         }
       ]
     },
@@ -196,8 +247,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时04分]"
         }
       ]
     },
@@ -213,8 +264,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时04分]"
         }
       ]
     },
@@ -230,8 +281,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时04分]"
         }
       ]
     },
@@ -248,25 +299,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时04分]"
         }
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
+      "keyword_group": "台积电 英伟达",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股异动丨拿下苹果巨额芯片大单，博通拉升涨超6%",
-          "url": "https://www.gelonghui.com/news/5265153",
-          "source": "格隆汇",
+          "title": "英伟达涨幅扩大至4%。",
+          "url": "https://wallstreetcn.com/livenews/3130865",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "04时04分"
         }
       ]
     }
