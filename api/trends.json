@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-09T07:06:55.541696+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-07-09T09:10:17.488426+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
         {
           "title": "周四你需要知道的隔夜全球要闻：美军对伊朗发动新一轮打击 伊朗将大规模打击美军基地；报道称霍尔木兹海峡油轮通行基本停止；美股三大指数收盘涨跌不一 半导体、存储概念股反弹；长鑫科技7月16日开启新股申购",
           "url": "https://api3.cls.cn/share/article/2421026?os=web&sv=7.7.5&app=",
@@ -14,7 +25,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -77,7 +88,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "财联社7月9日电，谷歌相册推出由Gemini Omni模型驱动的视频混剪功能，今日开始面向特定国家符合条件的谷歌AI Plus、PRO和Ultra订阅用户逐步推出。",
@@ -101,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "消息：中国拟允许阿里字节DeepSeek限量购买英伟达H200晶片",
+          "url": "https://www.zaochenbao.com/news/opinion/202607/0975969.html",
+          "source": "早报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "财联社7月9日电，OpenAI宣布推出GPT-Live实时交互服务。",
@@ -149,8 +171,80 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【每日收评】创业板指冲高回落跌1.7%，算力租赁逆势走强，机器人、锂电概念股集体重挫",
+          "url": "https://www.cls.cn/detail/2420430",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时04分]"
+        },
+        {
+          "title": "多家算力产业链公司上半年业绩预增",
+          "url": "https://api3.cls.cn/share/article/2421030?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "谢伟铿：AI再发展的三大阻碍：电力、算力、人力",
+          "url": "https://www.zaochenbao.com/news/opinion/202607/0975970.html",
+          "source": "早报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "AI芯片公司SambaNova Systems Inc.的CEO Rodrigo Liang：对高速推理的需求非常可观。 预计公司客户规模到2026年年底将达到100家，甚至更多。 随着投资者参与，公司计划扩大规模。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3130812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "多家算力产业链公司上半年业绩预增",
+          "url": "https://wallstreetcn.com/livenews/3130919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "【九点特供】2040亿！博通拿下苹果巨额芯片大单，分析师看好自研ASIC正在成为厂商竞争的“重要抓手”；工信部发布Claude Code风险提示，国产厂商有望受益AI时代安全价值量提升与国产化导入加速",
+          "url": "https://api3.cls.cn/share/article/2420982?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "人工智能会挑选哪种支付方式？",
@@ -160,8 +254,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 09时10分]"
+        },
+        {
+          "title": "独家｜阶跃星辰将发布AI智能体手机",
+          "url": "https://api3.cls.cn/share/article/2421128?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "据CNBC：贝莱德全球固定收益首席投资官里德表示，已降低并重新调整对与人工智能直接相关公司的投资敞口。",
@@ -212,58 +317,8 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指冲高回落跌1.7%，算力租赁逆势走强，机器人、锂电概念股集体重挫",
-          "url": "https://www.cls.cn/detail/2420430",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 04时04分]"
-        },
-        {
-          "title": "多家算力产业链公司上半年业绩预增",
-          "url": "https://api3.cls.cn/share/article/2421030?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "AI芯片公司SambaNova Systems Inc.的CEO Rodrigo Liang：对高速推理的需求非常可观。 预计公司客户规模到2026年年底将达到100家，甚至更多。 随着投资者参与，公司计划扩大规模。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3130812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "多家算力产业链公司上半年业绩预增",
-          "url": "https://wallstreetcn.com/livenews/3130919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华为几乎把整本山海经都注册了",
@@ -286,6 +341,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "雷军官宣小米汽车第二产品系列为“小米澎程”",
+          "url": "https://wallstreetcn.com/livenews/3130967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国首所机器人学校在杭州开学",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/07/08/0190f9bcb7a148baba535502517b95a1.html",
+          "source": "参考消息",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 09时10分]"
+        },
+        {
+          "title": "机器人大增510%，半年销量71.92万台，速腾聚创打造物理AI感知入口",
+          "url": "https://www.gelonghui.com/news/5265197",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         }
       ]
     },
@@ -320,6 +414,51 @@
       ]
     },
     {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达涨幅扩大至4%。",
+          "url": "https://wallstreetcn.com/livenews/3130865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "英伟达估值跌回AI热潮前 华尔街看多热情未减",
+          "url": "https://www.cls.cn/detail/2420934",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
+          "url": "https://www.cls.cn/detail/2421042",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 1,
       "titles": [
@@ -333,25 +472,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 05时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国首所机器人学校在杭州开学",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/07/08/0190f9bcb7a148baba535502517b95a1.html",
-          "source": "参考消息",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时40分 ~ 07时06分]"
+          "time_info": "[00时40分 ~ 09时10分]"
         }
       ]
     },
@@ -370,6 +492,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时40分 ~ 05时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "东方电热(300217.SZ)：公司电子皮肤产品主要用于新能源汽车智能座舱，且已开始量产",
+          "url": "https://www.gelonghui.com/news/5265202",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         }
       ]
     },
@@ -406,25 +545,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 09时10分]"
         }
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 1,
       "titles": [
         {
-          "title": "英伟达涨幅扩大至4%。",
-          "url": "https://wallstreetcn.com/livenews/3130865",
-          "source": "华尔街见闻-快讯",
+          "title": "早盘开盘，国内期货主力合约涨多跌少，燃料油、低硫燃料油（LU）、SC原油涨超5%，甲醇涨超3%，纯苯、沥青、丙烯、液化石油气（LPG）涨近3%。跌幅方面，集运欧线跌超4%，沪银跌近4%，铂、钯、多晶硅跌超2%，沪金、沪锡、不锈钢（SS）跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260709090004190800",
+          "source": "金十数据",
           "ranks": [
-            10
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "09时10分"
         }
       ]
     }
