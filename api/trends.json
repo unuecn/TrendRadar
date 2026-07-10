@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-10T16:22:38.947697+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2026-07-10T19:25:39.737095+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 16,
       "titles": [
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 19时25分]"
+        },
         {
           "title": "OpenAI正式推出Gpt-5.6系列模型",
           "url": "https://api3.cls.cn/share/article/2422218?os=web&sv=7.7.5&app=",
@@ -42,18 +55,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时50分 ~ 08时05分]"
-        },
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 16时22分]"
         },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
@@ -192,7 +193,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "德媒：内蒙古发力打造世界级算力中心集群",
@@ -265,6 +266,17 @@
           "time_info": "[03时45分 ~ 05时22分]"
         },
         {
+          "title": "国常会：要系统推进数字中国建设 加快新一代通信网、算力网建设",
+          "url": "https://api3.cls.cn/share/article/2423145?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "Meta：探索AI云业务是合理的，考虑出租算力",
           "url": "https://wallstreetcn.com/livenews/3131509",
           "source": "华尔街见闻-快讯",
@@ -293,7 +305,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -323,7 +335,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "宇树科技王兴兴：机器人最终会走向普通消费者",
@@ -342,11 +354,12 @@
           "source": "参考消息",
           "ranks": [
             1,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 19时25分]"
         },
         {
           "title": "中企努力攻克机器人机械手难题",
@@ -354,11 +367,23 @@
           "source": "参考消息",
           "ranks": [
             4,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 19时25分]"
+        },
+        {
+          "title": "马斯克“画饼”，宇树填坑？全球首例人形机器人手术登上Nature",
+          "url": "https://www.cls.cn/detail/2422471",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "华自科技(300490.SZ)：未开展人形机器人整机自研生产",
@@ -367,9 +392,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "上纬新材：公司消费级具身智能机器人业务目前处于研发及应用场景验证阶段",
+          "url": "https://flash.jin10.com/detail/20260710191554076800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "经纬度：AI硬件、机器人出海，上海外贸新引擎动力十足",
@@ -378,15 +414,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "上纬新材将在WAIC推出全球首个可变形个人机器人启元T1",
+          "url": "https://wallstreetcn.com/livenews/3131985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         }
       ]
     },
     {
       "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "港股午评：恒指拉升涨1.86%，科技创新药内房强势拉升，半导体高开低走",
@@ -422,6 +469,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时56分 ~ 06时50分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2422921",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "医药股爆发，疫苗ETF、科创创新药ETF、生物医药ETF涨超5%",
@@ -502,7 +560,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         }
@@ -519,7 +577,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -600,6 +658,45 @@
       ]
     },
     {
+      "keyword_group": "储能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "节能风电：截至2026年6月30日，公司累计完成发电量61.14亿千瓦时，较上年同期下降9.6%（含独立储能）。",
+          "url": "https://flash.jin10.com/detail/20260710192039472800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "国家能源局：大力发展新型储能，不断提升新能源发电量占比",
+          "url": "https://wallstreetcn.com/livenews/3131741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "国家能源局：大力发展新型储能 探索长时储能应用",
+          "url": "https://api3.cls.cn/share/article/2422583?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 3,
       "titles": [
@@ -610,9 +707,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 19时25分]"
         },
         {
           "title": "香港恒生指数收涨0.6% 商业航天板块领涨",
@@ -621,7 +718,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -632,9 +729,49 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果很感兴趣！美初创公司将阿里270亿参数量模型压进iPhone",
+          "url": "https://www.cls.cn/detail/2422239",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 16时22分]"
+        },
+        {
+          "title": "日本汽车经销商Yanase开设比亚迪经销店",
+          "url": "https://flash.jin10.com/detail/20260710190946847800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.56%，报6134.98点。 热门中概股里，日月光半导体涨8.6%，阿里巴巴涨2%，拼多多涨1.2%，网易涨0.2%，腾讯跌1.8%，小鹏、比亚迪、蔚来跌超2%。 ETF中，中国科技指数ETF（CQQQ）收涨4.38%，中概互联网指数ETF（KWEB）收涨0.27%。 XtrackersHarvest中证50（ASHS）收涨4.26%，德银嘉实沪深300指数ETF（ASHR）收涨2.99%，MSCI新兴市场ex中国ETF（EMXC）收涨0.77%。",
+          "url": "https://wallstreetcn.com/livenews/3131532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         }
       ]
     },
@@ -736,59 +873,30 @@
       ]
     },
     {
-      "keyword_group": "储能",
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 2,
       "titles": [
         {
-          "title": "国家能源局：大力发展新型储能，不断提升新能源发电量占比",
-          "url": "https://wallstreetcn.com/livenews/3131741",
-          "source": "华尔街见闻-快讯",
+          "title": "京东方Ａ(000725.SZ)：看好玻璃基封装载板、钙钛矿和Micro LED光互连等相关业务的发展潜力并积极布局",
+          "url": "https://www.gelonghui.com/news/5266878",
+          "source": "格隆汇",
           "ranks": [
-            11
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "19时25分"
         },
         {
-          "title": "国家能源局：大力发展新型储能 探索长时储能应用",
-          "url": "https://api3.cls.cn/share/article/2422583?os=web&sv=7.7.5&app=",
+          "title": "国家能源局：试点推动建筑光伏一体化设计、建设 支持既有建筑节能降碳改造",
+          "url": "https://api3.cls.cn/share/article/2422576?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            14
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果很感兴趣！美初创公司将阿里270亿参数量模型压进iPhone",
-          "url": "https://www.cls.cn/detail/2422239",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 16时22分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.56%，报6134.98点。 热门中概股里，日月光半导体涨8.6%，阿里巴巴涨2%，拼多多涨1.2%，网易涨0.2%，腾讯跌1.8%，小鹏、比亚迪、蔚来跌超2%。 ETF中，中国科技指数ETF（CQQQ）收涨4.38%，中概互联网指数ETF（KWEB）收涨0.27%。 XtrackersHarvest中证50（ASHS）收涨4.26%，德银嘉实沪深300指数ETF（ASHR）收涨2.99%，MSCI新兴市场ex中国ETF（EMXC）收涨0.77%。",
-          "url": "https://wallstreetcn.com/livenews/3131532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时22分"
         }
       ]
     },
@@ -842,19 +950,36 @@
       ]
     },
     {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
       "match_count": 1,
       "titles": [
         {
-          "title": "国家能源局：试点推动建筑光伏一体化设计、建设 支持既有建筑节能降碳改造",
-          "url": "https://api3.cls.cn/share/article/2422576?os=web&sv=7.7.5&app=",
+          "title": "镇江贝斯特新材料股份有限公司港股IPO获中国证监会备案",
+          "url": "https://api3.cls.cn/share/article/2423132?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            19
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "19时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "两连板立方制药：无脑机接口相关业务和产品",
+          "url": "https://flash.jin10.com/detail/20260710190547603800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         }
       ]
     },
@@ -869,7 +994,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         }
