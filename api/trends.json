@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T14:11:23.849692+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-07-14T16:37:31.975156+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -70,7 +70,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -92,7 +92,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -114,7 +114,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -210,11 +210,12 @@
           "source": "参考消息",
           "ranks": [
             6,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 14时11分]"
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 16时37分]"
         },
         {
           "title": "2026世界人工智能大会看点速览。（新华社）",
@@ -261,6 +262,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
+          "url": "https://wallstreetcn.com/articles/3776758",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时29分]"
+        },
+        {
+          "title": "7月14日投资避雷针：10天9板人气股澄清 拟收购标的无生产存储芯片能力",
+          "url": "https://www.cls.cn/detail/2425268",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 16时37分]"
+        },
+        {
+          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "纳斯达克100指数指数跌幅扩大至2%，刷新日低，闪迪跌13.7%，Astera Labs跌13.2%，英特尔跌7.2%，CoreWeave跌6.2%。半导体指数跌5.2%，存储芯片指数维持7.8%的跌幅。标普500指数跌0.8%，纳指跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3133053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普涨，SK海力士涨约7%，闪迪涨约3%，希捷科技涨约2%，西部数据涨约2%，美光科技涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3133439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "美股存储芯片板块盘前反弹 SK海力士涨超6%",
+          "url": "https://api3.cls.cn/share/article/2425854?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
@@ -414,7 +489,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -425,57 +500,27 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         }
       ]
     },
     {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
-          "url": "https://wallstreetcn.com/articles/3776758",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 07时29分]"
-        },
-        {
-          "title": "7月14日投资避雷针：10天9板人气股澄清 拟收购标的无生产存储芯片能力",
-          "url": "https://www.cls.cn/detail/2425268",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 14时11分]"
-        },
-        {
-          "title": "纳斯达克100指数指数跌幅扩大至2%，刷新日低，闪迪跌13.7%，Astera Labs跌13.2%，英特尔跌7.2%，CoreWeave跌6.2%。半导体指数跌5.2%，存储芯片指数维持7.8%的跌幅。标普500指数跌0.8%，纳指跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3133053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "数据显示华为和苹果手机二季度在华销量增长",
+          "url": "https://www.zaochenbao.com/news/china/202607/1476402.html",
+          "source": "早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
         {
           "title": "加州新电动车补贴方案出炉，特斯拉成最大赢家",
           "url": "https://wallstreetcn.com/livenews/3133073",
@@ -505,9 +550,100 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "大行评级丨美银：上调台积电目标价至3100元新台币，中期估值具吸引力",
+          "url": "https://www.gelonghui.com/news/5268170",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "英媒：收紧出口审查 英伟达剔除逾半亚洲晶片客户",
+          "url": "https://www.zaochenbao.com/news/china/202607/1476397.html",
+          "source": "早报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "分析师：台积电业绩再创新高几乎无悬念，市场盯着的是利润表之外的一个关键信号",
+          "url": "https://flash.jin10.com/detail/20260714112531551800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "报道：英伟达与三菱重工拟在AI数据中心技术领域展开合作",
+          "url": "https://wallstreetcn.com/livenews/3133416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 16时37分]"
+        },
+        {
+          "title": "梁文锋成为世界最富有AI企业创始人",
+          "url": "https://www.zaochenbao.com/news/china/202607/1476403.html",
+          "source": "早报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
+          "url": "https://flash.jin10.com/detail/20260714050653705800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         }
       ]
     },
@@ -535,8 +671,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 14时11分]"
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 16时37分]"
         }
       ]
     },
@@ -565,35 +701,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 14时11分]"
-        },
-        {
-          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
-          "url": "https://flash.jin10.com/detail/20260714050653705800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
         }
       ]
     },
@@ -654,34 +761,6 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "大行评级丨美银：上调台积电目标价至3100元新台币，中期估值具吸引力",
-          "url": "https://www.gelonghui.com/news/5268170",
-          "source": "格隆汇",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "分析师：台积电业绩再创新高几乎无悬念，市场盯着的是利润表之外的一个关键信号",
-          "url": "https://flash.jin10.com/detail/20260714112531551800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "液冷",
       "match_count": 1,
       "titles": [
@@ -692,7 +771,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         }
@@ -726,7 +805,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         }
@@ -777,7 +856,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         }
