@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T19:13:07.893510+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-07-15T20:52:14.917253+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -31,17 +31,6 @@
           "time_info": "[01时16分 ~ 10时23分]"
         },
         {
-          "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时13分]"
-        },
-        {
           "title": "英媒：DeepSeek完成首轮融资后拟再次募资",
           "url": "https://www.zaochenbao.com/news/china/202607/1476435.html",
           "source": "早报",
@@ -62,6 +51,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时12分 ~ 19时13分]"
+        },
+        {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 20时52分]"
+        },
+        {
+          "title": "DeepSeek新一轮融资规模或达500亿人民币",
+          "url": "https://www.zaochenbao.com/news/china/202607/1576510.html",
+          "source": "早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
@@ -99,6 +111,18 @@
           "time_info": "[05时31分 ~ 06时35分]"
         },
         {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 20时52分]"
+        },
+        {
           "title": "财联社7月15日电，OpenAI回应苹果公司的诉讼案，我们严肃对待这些指控，未发现任何证据可证明该申诉具备合理依据。",
           "url": "https://api3.cls.cn/share/article/2426525?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -109,17 +133,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时11分 ~ 05时31分]"
-        },
-        {
-          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
-          "url": "https://www.cls.cn/detail/2427193",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 19时13分]"
         },
         {
           "title": "财联社7月15日电，高盛CEO所罗门表示，对于OpenAI和Anthropic是否会在今年上市，我实在没有太多可说的。",
@@ -237,7 +250,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美媒：中国引领全球人工智能治理",
@@ -251,13 +264,24 @@
           "time_info": "[01时16分 ~ 07时53分]"
         },
         {
+          "title": "5张图看懂中国人工智能进化之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "哈萨克斯坦总统托卡耶夫抵达上海 出席2026世界人工智能大会暨人工智能全球治理高级别会议",
           "url": "https://wallstreetcn.com/livenews/3134319",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -295,6 +319,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时16分 ~ 05时31分]"
+        },
+        {
+          "title": "“Apple智能”等7款提供手机端侧生成式人工智能服务已备案",
+          "url": "https://www.cls.cn/detail/2427185",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 20时52分]"
         },
         {
           "title": "美官员证实少量英伟达H200人工智能晶片已发往中国客户",
@@ -336,17 +372,6 @@
           "title": "哈萨克斯坦总统托卡耶夫抵达上海 出席2026世界人工智能大会暨人工智能全球治理高级别会议",
           "url": "https://api3.cls.cn/share/article/2427464?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 19时13分]"
-        },
-        {
-          "title": "“Apple智能”等7款提供手机端侧生成式人工智能服务已备案",
-          "url": "https://www.cls.cn/detail/2427185",
-          "source": "财联社热门",
           "ranks": [
             6
           ],
@@ -470,7 +495,7 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "台当局放宽进口美国“毒苹果”惹众怒",
@@ -478,22 +503,24 @@
           "source": "参考消息",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时13分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 20时52分]"
         },
         {
           "title": "苹果AI服务在中国完成备案",
           "url": "https://www.zaochenbao.com/news/china/202607/1576505.html",
           "source": "早报",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 19时13分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 20时52分]"
         },
         {
           "title": "苹果股票获得罕见的看跌评级 KeyBanc表示需求和估值令人担心",
@@ -553,6 +580,28 @@
           "time_info": "[13时14分 ~ 13时15分]"
         },
         {
+          "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
+          "url": "https://www.cls.cn/detail/2427348",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "美股盘前要点 | 美联储加息预期降温！国行苹果AI功能完成备案，阿斯麦明年拟扩产三成",
+          "url": "https://www.gelonghui.com/news/5269911",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "阿里巴巴美股盘前涨超5%，苹果涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3134244",
           "source": "华尔街见闻-快讯",
@@ -595,6 +644,128 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药 新药研发 临床三期",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "资金早埋伏创新药！头部公募举牌，百亿资金借ETF入场",
+          "url": "https://www.cls.cn/detail/2426944",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 19时13分]"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落跌超1%，创新药板块集体爆发，芯片产业链再遭重挫",
+          "url": "https://www.cls.cn/detail/2427247",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 20时52分]"
+        },
+        {
+          "title": "康哲药业(00867.HK)：自主研发创新药补体因子B抑制剂CMS-D017获得年龄相关性黄斑变性适应症药物临床试验批准通知书",
+          "url": "https://www.gelonghui.com/news/5269793",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时13分]"
+        },
+        {
+          "title": "A股被“猴子”刷屏，公募被创新药热点包围，资金要换方向了？",
+          "url": "https://www.cls.cn/detail/2427528",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "【风口研报·公司】这家公司业务连接创新药研发与临床端，累计承接超千个高价值项目，当前受益于行业和客户需求复苏；A股稀缺的金融租赁标的，公司展现出穿越周期的稳健成长性与盈利韧性，成功引入9年期保险资金",
+          "url": "https://api3.cls.cn/share/article/2427118?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "头部公募掀起南下“举牌潮” 港股创新药开启估值修复行情",
+          "url": "https://api3.cls.cn/share/article/2426559?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 07时53分]"
+        },
+        {
+          "title": "头部公募掀起南下“举牌潮”，港股创新药开启估值修复行情",
+          "url": "https://wallstreetcn.com/livenews/3133910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时53分]"
+        },
+        {
+          "title": "A股异动丨资金弃AI追创新药？相关概念股全线狂飙！博瑞医药等多股斩获20CM涨停",
+          "url": "https://www.gelonghui.com/news/5269345",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "ETF午评 | 科创50冲高回落跌3.67%，创新药板块逆势上扬，科创创新药ETF涨近8%",
+          "url": "https://www.gelonghui.com/news/5269339",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "【机构龙虎榜解读】创新药+CDMO+多肽，系全球领先、技术驱动型的医药外包一站式综合服务商，多肽固相反应合成总产能预计2026年底将增至69000L，机构大额净买入这家公司",
+          "url": "https://api3.cls.cn/share/article/2427495?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         }
       ]
     },
@@ -697,7 +868,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         }
@@ -753,6 +924,18 @@
           "time_info": "10时23分"
         },
         {
+          "title": "【焦点复盘】科创50长阴反包逼近30日线，算力硬件股全天低迷，大消费板块全线回暖",
+          "url": "https://www.cls.cn/detail/2427336",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 20时52分]"
+        },
+        {
           "title": "算力需求爆发驱动，长飞光纤预计上半年净利润同比增长711%-914% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3776895",
           "source": "华尔街见闻",
@@ -763,17 +946,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时53分 ~ 13时15分]"
-        },
-        {
-          "title": "【焦点复盘】科创50长阴反包逼近30日线，算力硬件股全天低迷，大消费板块全线回暖",
-          "url": "https://www.cls.cn/detail/2427336",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 19时13分]"
         },
         {
           "title": "华为昇腾950超节点将首次真机亮相 国产算力板块高景气有望延续",
@@ -800,107 +972,8 @@
       ]
     },
     {
-      "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "资金早埋伏创新药！头部公募举牌，百亿资金借ETF入场",
-          "url": "https://www.cls.cn/detail/2426944",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时29分 ~ 19时13分]"
-        },
-        {
-          "title": "康哲药业(00867.HK)：自主研发创新药补体因子B抑制剂CMS-D017获得年龄相关性黄斑变性适应症药物临床试验批准通知书",
-          "url": "https://www.gelonghui.com/news/5269793",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 19时13分]"
-        },
-        {
-          "title": "【风口研报·公司】这家公司业务连接创新药研发与临床端，累计承接超千个高价值项目，当前受益于行业和客户需求复苏；A股稀缺的金融租赁标的，公司展现出穿越周期的稳健成长性与盈利韧性，成功引入9年期保险资金",
-          "url": "https://api3.cls.cn/share/article/2427118?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落跌超1%，创新药板块集体爆发，芯片产业链再遭重挫",
-          "url": "https://www.cls.cn/detail/2427247",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时13分]"
-        },
-        {
-          "title": "头部公募掀起南下“举牌潮” 港股创新药开启估值修复行情",
-          "url": "https://api3.cls.cn/share/article/2426559?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 07时53分]"
-        },
-        {
-          "title": "头部公募掀起南下“举牌潮”，港股创新药开启估值修复行情",
-          "url": "https://wallstreetcn.com/livenews/3133910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时53分]"
-        },
-        {
-          "title": "A股异动丨资金弃AI追创新药？相关概念股全线狂飙！博瑞医药等多股斩获20CM涨停",
-          "url": "https://www.gelonghui.com/news/5269345",
-          "source": "格隆汇",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
-        },
-        {
-          "title": "ETF午评 | 科创50冲高回落跌3.67%，创新药板块逆势上扬，科创创新药ETF涨近8%",
-          "url": "https://www.gelonghui.com/news/5269339",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 美股 美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨",
@@ -968,6 +1041,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "摩根士丹利美股盘前转跌，此前一度涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3134341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         }
       ]
     },
@@ -1088,8 +1172,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时40分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[02时40分 ~ 20时52分]"
         },
         {
           "title": "沃什听证首秀释放新政信号，“新美联储通讯社”：强调高通胀零容忍但未暗示利率路径",
@@ -1163,6 +1247,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国卫星：公司目前生产经营活动一切正常，未发生重大变化",
+          "url": "https://wallstreetcn.com/livenews/3134360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "中国卫星：连续两日跌幅偏离值超20% 不存在应披露而未披露的重大信息",
+          "url": "https://api3.cls.cn/share/article/2427559?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "A股商业航天概念持续调整，中国卫星午后跌停，星图测控、中环海陆跌超10%，航天电子、星网宇达、电科蓝天、理工导航、中国卫通等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3134140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
@@ -1317,23 +1440,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 13时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股商业航天概念持续调整，中国卫星午后跌停，星图测控、中环海陆跌超10%，航天电子、星网宇达、电科蓝天、理工导航、中国卫通等跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3134140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
         }
       ]
     },
