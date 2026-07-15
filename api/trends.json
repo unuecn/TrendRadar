@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T13:15:04.085640+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-07-15T15:29:38.206830+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -188,12 +188,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "英特尔18A良率升至85% 据悉已获英伟达及OpenAI等多个公司大单",
+          "url": "https://api3.cls.cn/share/article/2427046?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美媒：中国引领全球人工智能治理",
@@ -270,11 +281,12 @@
           "url": "https://ckxxapp.ckxx.net/pages/2026/07/15/3955738c5c0a4e56a454adbb3b8b6e4e.html",
           "source": "参考消息",
           "ranks": [
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时29分]"
         },
         {
           "title": "财联社7月15日电，苹果正在与PrismML洽谈，旨在缩小人工智能模型以便在iPhone上运行。",
@@ -323,6 +335,17 @@
           "time_info": "10时23分"
         },
         {
+          "title": "京东AI Agent与腾讯元宝正式打通小程序生态",
+          "url": "https://wallstreetcn.com/livenews/3134144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "美联储理事巴尔将于十分钟后在美联储年度金融普惠会议上就人工智能发表讲话。",
           "url": "https://flash.jin10.com/detail/20260715003000002800",
           "source": "金十数据",
@@ -343,6 +366,163 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "首程控股战略入股烁光精密，布局AI算力光互连关键入口",
+          "url": "https://www.gelonghui.com/news/5269349",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "A股收评：科创50指数跌4.25%，算力硬件概念集体回调，白酒、创新药板块强势",
+          "url": "https://www.gelonghui.com/news/5269396",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "需求井喷 高端算力服务大单频现",
+          "url": "https://api3.cls.cn/share/article/2426562?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 07时53分]"
+        },
+        {
+          "title": "大行评级丨美银：AI算力需求未降温，上调AMD目标价至620美元",
+          "url": "https://www.gelonghui.com/news/5269312",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "算力需求爆发驱动，长飞光纤预计上半年净利润同比增长711%-914% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3776895",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 13时15分]"
+        },
+        {
+          "title": "华为昇腾950超节点将首次真机亮相 国产算力板块高景气有望延续",
+          "url": "https://www.cls.cn/detail/2426602",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "A股收评：三大股指全日冲高回落 PCB、半导体等算力硬件板块集体回调",
+          "url": "https://flash.jin10.com/detail/20260715150414810800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "银禧科技(300221.SZ)：暂无产品应用在人形机器人领域",
+          "url": "https://www.gelonghui.com/news/5269218",
+          "source": "格隆汇",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时35分]"
+        },
+        {
+          "title": "商络电子(300975.SZ)：未制造人形机器人相关产品",
+          "url": "https://www.gelonghui.com/news/5269215",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时35分]"
+        },
+        {
+          "title": "财联社7月15日电，国家统计局发布数据显示，6月份规模以上工业机器人生产110702套，同比增长28.1%。",
+          "url": "https://api3.cls.cn/share/article/2426791?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "【掘金行业龙头】机器人+业绩预增，与华为、阿里在机器人领域展开合作，上半年净利预增超2倍，这家公司五轴联动数控机床订单量受益人形机器人零件加工需求增多",
+          "url": "https://api3.cls.cn/share/article/2426886?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "研报掘金丨东莞证券：予拓斯达“买入”评级，机器人业务持续放量",
+          "url": "https://www.gelonghui.com/news/5269390",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "国家统计局：上半年，3D打印设备、锂离子电池、工业机器人产品产量同比分别增长48.5%、39.3%、28.0%。",
+          "url": "https://flash.jin10.com/detail/20260715100456828800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
@@ -409,63 +589,65 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "keyword_group": "创新药 新药研发 临床三期",
       "match_count": 5,
       "titles": [
         {
-          "title": "银禧科技(300221.SZ)：暂无产品应用在人形机器人领域",
-          "url": "https://www.gelonghui.com/news/5269218",
-          "source": "格隆汇",
+          "title": "资金早埋伏创新药！头部公募举牌，百亿资金借ETF入场",
+          "url": "https://www.cls.cn/detail/2426944",
+          "source": "财联社热门",
           "ranks": [
-            2
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 06时35分]"
-        },
-        {
-          "title": "商络电子(300975.SZ)：未制造人形机器人相关产品",
-          "url": "https://www.gelonghui.com/news/5269215",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 06时35分]"
-        },
-        {
-          "title": "财联社7月15日电，国家统计局发布数据显示，6月份规模以上工业机器人生产110702套，同比增长28.1%。",
-          "url": "https://api3.cls.cn/share/article/2426791?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "15时29分"
         },
         {
-          "title": "【掘金行业龙头】机器人+业绩预增，与华为、阿里在机器人领域展开合作，上半年净利预增超2倍，这家公司五轴联动数控机床订单量受益人形机器人零件加工需求增多",
-          "url": "https://api3.cls.cn/share/article/2426886?os=web&sv=7.7.5&app=",
+          "title": "头部公募掀起南下“举牌潮” 港股创新药开启估值修复行情",
+          "url": "https://api3.cls.cn/share/article/2426559?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            29
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 07时53分]"
+        },
+        {
+          "title": "头部公募掀起南下“举牌潮”，港股创新药开启估值修复行情",
+          "url": "https://wallstreetcn.com/livenews/3133910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时53分]"
+        },
+        {
+          "title": "A股异动丨资金弃AI追创新药？相关概念股全线狂飙！博瑞医药等多股斩获20CM涨停",
+          "url": "https://www.gelonghui.com/news/5269345",
+          "source": "格隆汇",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 13时15分]"
         },
         {
-          "title": "国家统计局：上半年，3D打印设备、锂离子电池、工业机器人产品产量同比分别增长48.5%、39.3%、28.0%。",
-          "url": "https://flash.jin10.com/detail/20260715100456828800",
-          "source": "金十数据",
+          "title": "ETF午评 | 科创50冲高回落跌3.67%，创新药板块逆势上扬，科创创新药ETF涨近8%",
+          "url": "https://www.gelonghui.com/news/5269339",
+          "source": "格隆汇",
           "ranks": [
-            14
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
         }
       ]
     },
@@ -532,110 +714,6 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "首程控股战略入股烁光精密，布局AI算力光互连关键入口",
-          "url": "https://www.gelonghui.com/news/5269349",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
-        },
-        {
-          "title": "需求井喷 高端算力服务大单频现",
-          "url": "https://api3.cls.cn/share/article/2426562?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 07时53分]"
-        },
-        {
-          "title": "大行评级丨美银：AI算力需求未降温，上调AMD目标价至620美元",
-          "url": "https://www.gelonghui.com/news/5269312",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "算力需求爆发驱动，长飞光纤预计上半年净利润同比增长711%-914% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3776895",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 13时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "头部公募掀起南下“举牌潮” 港股创新药开启估值修复行情",
-          "url": "https://api3.cls.cn/share/article/2426559?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 07时53分]"
-        },
-        {
-          "title": "头部公募掀起南下“举牌潮”，港股创新药开启估值修复行情",
-          "url": "https://wallstreetcn.com/livenews/3133910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时53分]"
-        },
-        {
-          "title": "A股异动丨资金弃AI追创新药？相关概念股全线狂飙！博瑞医药等多股斩获20CM涨停",
-          "url": "https://www.gelonghui.com/news/5269345",
-          "source": "格隆汇",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
-        },
-        {
-          "title": "ETF午评 | 科创50冲高回落跌3.67%，创新药板块逆势上扬，科创创新药ETF涨近8%",
-          "url": "https://www.gelonghui.com/news/5269339",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "英特尔 高通",
       "match_count": 4,
       "titles": [
@@ -649,8 +727,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时40分 ~ 13时15分]"
+          "appearance_count": 10,
+          "time_info": "[02时40分 ~ 15时29分]"
         },
         {
           "title": "沃什听证首秀释放新政信号，“新美联储通讯社”：强调高通胀零容忍但未暗示利率路径",
@@ -738,7 +816,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -817,11 +895,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 15时29分]"
         }
       ]
     },
@@ -872,6 +951,23 @@
       ]
     },
     {
+      "keyword_group": "液冷",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "研报掘金丨东莞证券：首予金富科技“增持”评级，切入液冷打造第二成长曲线",
+          "url": "https://www.gelonghui.com/news/5269394",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "储能",
       "match_count": 1,
       "titles": [
@@ -889,6 +985,23 @@
       ]
     },
     {
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月15日（周三）富时中国A50指数成分股今日收盘行情一览：保险、券商板块多数上涨、白酒板块逆势走强，通信设备、半导体及消费电子板块表现不佳。",
+          "url": "https://flash.jin10.com/detail/20260715150437622800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "雷达",
       "match_count": 1,
       "titles": [
@@ -902,6 +1015,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 13时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股商业航天概念持续调整，中国卫星午后跌停，星图测控、中环海陆跌超10%，航天电子、星网宇达、电科蓝天、理工导航、中国卫通等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3134140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "商品期货收盘，LU燃油主力合约涨超6%，燃料油涨超5%，BR橡胶、集运欧线、乙二醇涨超4%，钯、原油、丙烯、苯乙烯涨超3%。多晶硅、碳酸锂跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3134155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
