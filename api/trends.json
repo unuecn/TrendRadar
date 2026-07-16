@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T08:56:31.523942+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-07-16T12:08:36.311827+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
@@ -38,11 +38,12 @@
           "url": "https://ckxxapp.ckxx.net/pages/2026/07/15/39b0ebdf5dd8430f83bebdff4feb4c83.html",
           "source": "参考消息",
           "ranks": [
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 08时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 12时08分]"
         },
         {
           "title": "财联社7月16日电，苹果上调AppleCare+服务价格，Mac和iPad月度套餐费用上涨0.5美分，年度套餐上涨5美元，仅影响新用户。",
@@ -97,7 +98,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -113,6 +114,28 @@
           "time_info": "03时09分"
         },
         {
+          "title": "港股异动丨百度涨近5%，据报为苹果智能提供AI搜索功能",
+          "url": "https://www.gelonghui.com/news/5270076",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "匈牙利前外长辞去国会议员职务 转投比亚迪",
+          "url": "https://www.zaochenbao.com/news/china/202607/1676539.html",
+          "source": "早报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元。 “超大”市值科技股指数涨1.12%，报446.55点。",
           "url": "https://wallstreetcn.com/livenews/3134606",
           "source": "华尔街见闻-快讯",
@@ -126,9 +149,165 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 8,
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 11,
       "titles": [
+        {
+          "title": "5张图看懂中国人工智能进化之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 12时08分]"
+        },
+        {
+          "title": "美官员证实 少量英伟达H200人工智能晶片已交付中国客户",
+          "url": "https://www.zaochenbao.com/news/china/202607/1576511.html",
+          "source": "早报",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 08时56分]"
+        },
+        {
+          "title": "大华股份(002236.SZ)：公司未参加2026世界人工智能大会",
+          "url": "https://www.gelonghui.com/news/5269983",
+          "source": "格隆汇",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 07时05分]"
+        },
+        {
+          "title": "财联社7月16日电，美联储理事库克表示，人工智能工具为小型企业带来了巨大机遇。随着人工智能的发展，投资小型企业的成本正在降低。",
+          "url": "https://api3.cls.cn/share/article/2427775?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时09分]"
+        },
+        {
+          "title": "英伟达与Kawasaki Heavy Shipyard将得到人工智能（AI）技术的支持。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3134540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时09分]"
+        },
+        {
+          "title": "据The Information：为推动公司安全体系和人工智能转型，微软(MSFT.O)新任安全负责人海耶特·加洛特已替换至少8名曾向前任安全负责人查理·贝尔汇报的高管。",
+          "url": "https://flash.jin10.com/detail/20260716023727073800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-07-16）",
+          "url": "https://flash.jin10.com/detail/20260716115646787800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "美联储理事库克：有理由相信通胀将继续降温，但关税、中东冲突以及人工智能投资可能导致价格压力持续，仍存在相关风险。",
+          "url": "https://flash.jin10.com/detail/20260716005829801800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "联合国秘书长古特雷斯抵达上海 出席2026世界人工智能大会暨人工智能全球治理高级别会议",
+          "url": "https://wallstreetcn.com/livenews/3134769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "努比亚官宣首款AI智能体手机NaviX Ultra",
+          "url": "https://flash.jin10.com/detail/20260716113629863800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "联合国秘书长古特雷斯抵达上海 出席2026世界人工智能大会暨人工智能全球治理高级别会议",
+          "url": "https://api3.cls.cn/share/article/2428087?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
+          "url": "https://www.cls.cn/detail/2427818",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时05分 ~ 12时08分]"
+        },
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
         {
           "title": "美股三大指数集体收涨 存储概念股、计算机硬件板块逆市大跌",
           "url": "https://api3.cls.cn/share/article/2427806?os=web&sv=7.7.5&app=",
@@ -140,18 +319,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时33分 ~ 06时00分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
-          "url": "https://www.cls.cn/detail/2427818",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时05分 ~ 08时56分]"
         },
         {
           "title": "周三（7月15日），美股行业ETF涨跌各异，全球航空业ETF收涨1.30%，银行业ETF、区域银行ETF至多涨1.18%，能源业ETF跌0.79%，全球科技股指数ETF跌0.82%，科技行业ETF跌1.08%，半导体ETF跌1.59%。",
@@ -225,89 +392,109 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 7,
+      "keyword_group": "台积电 英伟达",
+      "match_count": 9,
       "titles": [
         {
-          "title": "5张图看懂中国人工智能进化之路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
-          "source": "澎湃新闻",
+          "title": "财联社7月16日电，英伟达表示，富士通、发那科、安川电机与川崎重工将利用英伟达平台合作开发物理AI工业平台。",
+          "url": "https://api3.cls.cn/share/article/2428135?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 08时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
-          "title": "美官员证实 少量英伟达H200人工智能晶片已交付中国客户",
-          "url": "https://www.zaochenbao.com/news/china/202607/1576511.html",
-          "source": "早报",
+          "title": "日立：将与英伟达合作开发多智能体编排技术，以扩展并升级“HMAX”解决方案套件。",
+          "url": "https://flash.jin10.com/detail/20260716115744817800",
+          "source": "金十数据",
           "ranks": [
-            15,
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "黄仁勋回怼SemiAnalysis的产品延期论，称英伟达Vera Rubin将按计划向客户交付",
+          "url": "https://wallstreetcn.com/livenews/3134537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时09分]"
+        },
+        {
+          "title": "英伟达首席执行官黄仁勋否认产品延期论称维拉鲁宾将按计划向客户交付",
+          "url": "https://api3.cls.cn/share/article/2427771?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时09分]"
+        },
+        {
+          "title": "据The Information：台积电(TSM.N)已开始对阿斯麦(ASML.O)的定价计划提出反对。",
+          "url": "https://flash.jin10.com/detail/20260715234145708800",
+          "source": "金十数据",
+          "ranks": [
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 08时56分]"
-        },
-        {
-          "title": "大华股份(002236.SZ)：公司未参加2026世界人工智能大会",
-          "url": "https://www.gelonghui.com/news/5269983",
-          "source": "格隆汇",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时05分]"
-        },
-        {
-          "title": "财联社7月16日电，美联储理事库克表示，人工智能工具为小型企业带来了巨大机遇。随着人工智能的发展，投资小型企业的成本正在降低。",
-          "url": "https://api3.cls.cn/share/article/2427775?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时47分 ~ 03时09分]"
+          "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "英伟达与Kawasaki Heavy Shipyard将得到人工智能（AI）技术的支持。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3134540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 03时09分]"
-        },
-        {
-          "title": "据The Information：为推动公司安全体系和人工智能转型，微软(MSFT.O)新任安全负责人海耶特·加洛特已替换至少8名曾向前任安全负责人查理·贝尔汇报的高管。",
-          "url": "https://flash.jin10.com/detail/20260716023727073800",
+          "title": "欧姆龙：将扩大与英伟达在半导体晶圆检测技术领域的合作。",
+          "url": "https://flash.jin10.com/detail/20260716114126942800",
           "source": "金十数据",
           "ranks": [
-            6
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时09分"
+          "time_info": "12时08分"
         },
         {
-          "title": "美联储理事库克：有理由相信通胀将继续降温，但关税、中东冲突以及人工智能投资可能导致价格压力持续，仍存在相关风险。",
-          "url": "https://flash.jin10.com/detail/20260716005829801800",
+          "title": "评论：阿斯麦据报拟上调部分光刻机售价 或受台积电抵制",
+          "url": "https://www.zaochenbao.com/news/opinion/202607/1676538.html",
+          "source": "早报",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：富士通、发那科、安川电机与川崎重工将利用英伟达平台合作开发物理AI工业平台。",
+          "url": "https://flash.jin10.com/detail/20260716114116136800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "12时08分"
+        },
+        {
+          "title": "美国正式对DRAM设备及其下游产品和组件（II）启动337调查 三星电子、谷歌、英伟达等为列名被告",
+          "url": "https://api3.cls.cn/share/article/2428105?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
@@ -322,11 +509,12 @@
           "ranks": [
             4,
             3,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 08时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 12时08分]"
         },
         {
           "title": "【焦点复盘】科创50长阴反包逼近30日线，算力硬件股全天低迷，大消费板块全线回暖",
@@ -347,7 +535,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -369,7 +557,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -380,7 +568,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         }
@@ -388,7 +576,7 @@
     },
     {
       "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "A股被“猴子”刷屏，公募被创新药热点包围，资金要换方向了？",
@@ -414,21 +602,96 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
+          "title": "创新药概念探底回升，海南海药2连板，博瑞医药、万邦医药涨超12%，普蕊斯、海创药业、昭衍新药、鸿博医药、睿智医药等涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3134773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "A股午评：创业板指半日跌1.73% 创新药板块逆势走强",
+          "url": "https://flash.jin10.com/detail/20260716113342982800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "公募布局创新药上游刚需方向 创新药板块有望迎来业绩估值双提升",
           "url": "https://api3.cls.cn/share/article/2427855?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         }
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美大学研究团队用宇树科技人形机器人 完成活体外科手术",
+          "url": "https://www.zaochenbao.com/news/china/202607/1576523.html",
+          "source": "早报",
+          "ranks": [
+            3,
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 12时08分]"
+        },
+        {
+          "title": "森霸传感(300701.SZ)：目前公司传感器业务与众擎机器人无业务协同合作",
+          "url": "https://www.gelonghui.com/news/5269982",
+          "source": "格隆汇",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 07时05分]"
+        },
+        {
+          "title": "小米发布机器人基座模型Xiaomi-Robotics-1",
+          "url": "https://flash.jin10.com/detail/20260716115852406800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "集邦咨询：预估陪伴型人形机器人2030年产值达11亿美元",
+          "url": "https://api3.cls.cn/share/article/2428090?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -466,53 +729,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 01时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "黄仁勋回怼SemiAnalysis的产品延期论，称英伟达Vera Rubin将按计划向客户交付",
-          "url": "https://wallstreetcn.com/livenews/3134537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 03时09分]"
         },
         {
-          "title": "英伟达首席执行官黄仁勋否认产品延期论称维拉鲁宾将按计划向客户交付",
-          "url": "https://api3.cls.cn/share/article/2427771?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
+          "title": "知网下架将DeepSeek等AI列为作者论文",
+          "url": "https://www.zaochenbao.com/news/china/202607/1676548.html",
+          "source": "早报",
           "ranks": [
-            6,
-            25
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 03时09分]"
-        },
-        {
-          "title": "据The Information：台积电(TSM.N)已开始对阿斯麦(ASML.O)的定价计划提出反对。",
-          "url": "https://flash.jin10.com/detail/20260715234145708800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
     {
       "keyword_group": "英特尔 高通",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国会山作证第二天，沃什称：AI造成的价格效应未必推高通胀",
@@ -548,6 +781,96 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "韩国央行行长：AI热潮是更强劲增长前景的主要驱动力。 更高的企业利润和薪资将对内需形成支撑。 更高的外汇汇率将在一段时间内持续推高通胀。 芯片价格飙升正在推高名义GDP。 需要密切关注能源冲击对CPI的间接影响。 出口、投资和消费均保持强劲。 需求侧压力将在经济增长中发挥重要作用。 如果收入提高，需求侧通胀压力将会增加。 将持续作出政策回应，直至CPI稳定在目标水平。",
+          "url": "https://wallstreetcn.com/livenews/3134757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周三（7月15日），美股存储芯片与硬件供应链指数跌6.36%，报207.63点。 成分股全线溃败，西部数据收跌8.78%，闪迪跌8.12%，美光科技跌8.02%，希捷科技、泰瑞达、拉姆研究、应用材料、Rambus也跌5.69%-2.36%。",
+          "url": "https://wallstreetcn.com/livenews/3134607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 07时05分]"
+        },
+        {
+          "title": "A股午评：沪指跌0.82%，超3200股上涨，存储芯片概念持续回调",
+          "url": "https://www.gelonghui.com/news/5270085",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "日媒：存储芯片业“盛宴”与隐忧并存",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/07/16/79e52419db1b455c8ad01a436a32d15b.html",
+          "source": "参考消息",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "6月我国动力和储能电池销量同比增长49.1%",
+          "url": "https://api3.cls.cn/share/article/2428131?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "6月我国动力和储能电池销量同比增长49.1%",
+          "url": "https://flash.jin10.com/detail/20260716113950765800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "美联储主席沃什：不会说“美联储能针对牛奶、牛肉价格采取很多行动”。 但能确保整个杂货项的价格不至于上涨。",
+          "url": "https://wallstreetcn.com/livenews/3134492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     },
@@ -580,67 +903,47 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "keyword_group": "小米 特斯拉 华为",
       "match_count": 2,
       "titles": [
         {
-          "title": "美大学研究团队用宇树科技人形机器人 完成活体外科手术",
-          "url": "https://www.zaochenbao.com/news/china/202607/1576523.html",
-          "source": "早报",
+          "title": "小米澎程无伪装实车曝光",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E6%97%A0%E4%BC%AA%E8%A3%85%E5%AE%9E%E8%BD%A6%E6%9B%9D%E5%85%89&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            3,
-            11
+            8
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 08时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
-          "title": "森霸传感(300701.SZ)：目前公司传感器业务与众擎机器人无业务协同合作",
-          "url": "https://www.gelonghui.com/news/5269982",
-          "source": "格隆汇",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周三（7月15日），美股存储芯片与硬件供应链指数跌6.36%，报207.63点。 成分股全线溃败，西部数据收跌8.78%，闪迪跌8.12%，美光科技跌8.02%，希捷科技、泰瑞达、拉姆研究、应用材料、Rambus也跌5.69%-2.36%。",
-          "url": "https://wallstreetcn.com/livenews/3134607",
+          "title": "香港恒生指数日内涨幅扩大至2%。泡泡玛特、小米涨超6%，美团涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3134783",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            30
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时00分 ~ 07时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
     {
-      "keyword_group": "储能",
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 1,
       "titles": [
         {
-          "title": "美联储主席沃什：不会说“美联储能针对牛奶、牛肉价格采取很多行动”。 但能确保整个杂货项的价格不至于上涨。",
-          "url": "https://wallstreetcn.com/livenews/3134492",
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报150950元/吨，较上日16:30价格下跌1250元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3134760",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "12时08分"
         }
       ]
     },
