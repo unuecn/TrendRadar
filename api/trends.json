@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T03:07:33.428501+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2026-07-18T04:28:02.418602+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 03时07分]"
+        },
+        {
+          "title": "美股收盘：三大股指低收，芯片股涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260718040114530800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
         },
         {
           "title": "美股存储股票全部转涨 纷纷收复盘初4%-7%的跌幅",
@@ -69,7 +80,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Meta据称正洽谈向Anthropic出租算力资源 价值可达两年100亿美元",
@@ -77,11 +88,12 @@
           "source": "财联社电报",
           "ranks": [
             9,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 04时28分]"
         },
         {
           "title": "据纽约时报，扎克伯格旗下Meta Platforms Inc.洽谈向Anthropic出租算力。 未来两年的潜在交易金额可能高达100亿美元。 相关磋商还处于早期阶段。 Meta跌幅收窄至3%。",
@@ -127,12 +139,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3135881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -142,8 +165,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时28分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -153,8 +176,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时28分]"
         },
         {
           "title": "世界人工智能大会规格提升 华为、月暗集中“秀肌肉”",
@@ -164,30 +187,107 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时28分]"
         },
         {
           "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
           "url": "https://wallstreetcn.com/articles/3777168",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时28分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
           "url": "https://wallstreetcn.com/articles/3777174",
           "source": "华尔街见闻",
           "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时28分]"
+        },
+        {
+          "title": "财联社7月18日电，SpaceX正在洽谈为五角大楼的人工智能推进计划提供计算能力。",
+          "url": "https://api3.cls.cn/share/article/2430040?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "‌苹果公司正就反垄断诉讼事宜与美国司法部进行早期和解谈判",
+          "url": "https://api3.cls.cn/share/article/2430019?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            5,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 04时28分]"
+        },
+        {
+          "title": "财联社7月18日电，苹果上调Apple Music和Apple One的订阅价格。",
+          "url": "https://api3.cls.cn/share/article/2430038?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时07分]"
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
+        },
+        {
+          "title": "报道：苹果与美国司法部就反垄断案进行早期和解谈判",
+          "url": "https://wallstreetcn.com/livenews/3135850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 03时07分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)正与美国司法部就反垄断诉讼展开初步和解谈判。",
+          "url": "https://flash.jin10.com/detail/20260718005409214800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "苹果公司上调Apple Music订阅价格至11.99美元，之前为10.99美元。 Apple One系列计划当前订阅价格为27.95美元，之前为25.95美元。",
+          "url": "https://wallstreetcn.com/livenews/3135876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     },
@@ -204,8 +304,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 04时28分]"
         },
         {
           "title": "擎天租联合智元部署60余台机器人全面承接WAIC公共服务",
@@ -232,43 +332,41 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
+      "keyword_group": "台积电 英伟达",
       "match_count": 3,
       "titles": [
         {
-          "title": "‌苹果公司正就反垄断诉讼事宜与美国司法部进行早期和解谈判",
-          "url": "https://api3.cls.cn/share/article/2430019?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
+          "title": "台积电盈利隐忧致抛售潮 台股暴跌创史上最大跌幅",
+          "url": "https://www.zaochenbao.com/news/taiwan/202607/1776642.html",
+          "source": "早报",
           "ranks": [
-            5,
-            16
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时28分]"
         },
         {
-          "title": "报道：苹果与美国司法部就反垄断案进行早期和解谈判",
-          "url": "https://wallstreetcn.com/livenews/3135850",
-          "source": "华尔街见闻-快讯",
+          "title": "目标价翻倍至2581元！高盛：英伟达推动3.2T光模块需求加速，中际旭创迎来估值重塑",
+          "url": "https://wallstreetcn.com/articles/3777219",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            21
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 04时28分]"
         },
         {
-          "title": "市场消息：苹果(AAPL.O)正与美国司法部就反垄断诉讼展开初步和解谈判。",
-          "url": "https://flash.jin10.com/detail/20260718005409214800",
+          "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
+          "url": "https://flash.jin10.com/detail/20260718033701724800",
           "source": "金十数据",
           "ranks": [
-            7
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
         }
       ]
     },
@@ -284,8 +382,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时28分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -295,36 +393,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时28分]"
         }
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 2,
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 1,
       "titles": [
         {
-          "title": "台积电盈利隐忧致抛售潮 台股暴跌创史上最大跌幅",
-          "url": "https://www.zaochenbao.com/news/taiwan/202607/1776642.html",
-          "source": "早报",
+          "title": "本周，存储芯片指数跌16.7%——成分股闪迪跌27.3%、西部数据跌17.6%、美光跌11.8%。标普累跌1.5%，道指累跌0.8%，纳指累跌2.7%。费城半导体指数跌9.5%。 标普500指数初步收跌约1%，电信板块跌2.4%，可选消费板块跌1.5%，科技板块跌0.8%，能源板块涨1.1%。 纳斯达克100指数初步收跌1.5%，成分股中，ISRG初步收跌13.8%，铿腾电子跌9%，新思科技跌8%，奈飞跌6.9%，应用材料、Astera Labs跌超5%，西部数据涨2.2%，Diamondback Energy涨2.9%，Nebius集团涨3%，Lumentum涨4.1%，希捷科技涨6.2%。 可口可乐初步收跌4.1%，与IBM、家得宝、高盛、SHW、麦当劳、谷歌A领跌道指成分股，苹果涨0.1%，思科涨2.1%，Travelers Companies Inc.涨9.5%。",
+          "url": "https://wallstreetcn.com/livenews/3135896",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时07分]"
-        },
-        {
-          "title": "目标价翻倍至2581元！高盛：英伟达推动3.2T光模块需求加速，中际旭创迎来估值重塑",
-          "url": "https://wallstreetcn.com/articles/3777219",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "04时28分"
         }
       ]
     },
@@ -337,11 +424,12 @@
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时28分]"
         }
       ]
     },
@@ -357,8 +445,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时28分]"
         }
       ]
     }
