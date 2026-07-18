@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T14:04:49.751760+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-07-18T16:19:48.649959+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
@@ -101,11 +101,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 14时04分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 16时19分]"
         },
         {
           "title": "伊朗革命卫队：伊军袭击了美国驻巴林的基础设施，摧毁无人艇仓库及一处人工智能中心。此次行动是对美国此前袭击伊朗桥梁等基础设施事件的回应。",
@@ -135,23 +136,24 @@
         },
         {
           "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
+          "url": "https://wallstreetcn.com/livenews/3135957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 16时19分]"
+        },
+        {
+          "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
           "url": "https://flash.jin10.com/detail/20260718104940134800",
           "source": "金十数据",
           "ranks": [
             7,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 14时04分]"
-        },
-        {
-          "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
-          "url": "https://wallstreetcn.com/livenews/3135957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -241,7 +243,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
@@ -253,8 +255,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 14时04分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 16时19分]"
+        },
+        {
+          "title": "“商汤号”算力卫星将于2026年首发组网，2030年建成“商汤太空算力星座”",
+          "url": "https://wallstreetcn.com/livenews/3135982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "周六你需要知道的隔夜全球要闻：美股费城半导体指数进入技术性熊市；美军称对伊朗发动新一轮打击 连续第七晚发动空袭；Meta洽谈向Anthropic出租算力资源",
@@ -294,6 +307,18 @@
           "time_info": "[01时38分 ~ 04时28分]"
         },
         {
+          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
+          "url": "https://wallstreetcn.com/livenews/3135966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 16时19分]"
+        },
+        {
           "title": "据纽约时报，扎克伯格旗下Meta Platforms Inc.洽谈向Anthropic出租算力。 未来两年的潜在交易金额可能高达100亿美元。 相关磋商还处于早期阶段。 Meta跌幅收窄至3%。",
           "url": "https://wallstreetcn.com/livenews/3135842",
           "source": "华尔街见闻-快讯",
@@ -318,15 +343,15 @@
           "time_info": "[06时21分 ~ 07时24分]"
         },
         {
-          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
-          "url": "https://wallstreetcn.com/livenews/3135966",
-          "source": "华尔街见闻-快讯",
+          "title": "“商汤号”算力卫星将于2026年首发组网 2030年建成“商汤太空算力星座”",
+          "url": "https://flash.jin10.com/detail/20260718155028749800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时04分"
+          "time_info": "16时19分"
         },
         {
           "title": "Meta Platforms(META.O)跌幅收窄至3%，此前一度跌超5%，据称Meta正洽谈向Anthropic出租算力。",
@@ -368,7 +393,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -382,12 +407,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "中国电信董事长柯瑞文：将适度超前建设算力基础设施",
+          "url": "https://api3.cls.cn/share/article/2430170?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "市场消息：苹果(AAPL.O)将日本iPhone售价上调10%。",
@@ -399,6 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "苹果上调日本部分iPhone售价",
+          "url": "https://wallstreetcn.com/livenews/3135983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "‌苹果公司正就反垄断诉讼事宜与美国司法部进行早期和解谈判",
@@ -452,6 +499,29 @@
           "time_info": "[01时38分 ~ 03时07分]"
         },
         {
+          "title": "比亚迪巴西工厂迎来第10万辆新能源汽车下线",
+          "url": "https://wallstreetcn.com/livenews/3135965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 16时19分]"
+        },
+        {
+          "title": "苹果上调日本部分iPhone售价",
+          "url": "https://api3.cls.cn/share/article/2430204?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)正与美国司法部就反垄断诉讼展开初步和解谈判。",
           "url": "https://flash.jin10.com/detail/20260718005409214800",
           "source": "金十数据",
@@ -463,15 +533,15 @@
           "time_info": "01时38分"
         },
         {
-          "title": "比亚迪巴西工厂迎来第10万辆新能源汽车下线",
-          "url": "https://wallstreetcn.com/livenews/3135965",
-          "source": "华尔街见闻-快讯",
+          "title": "苹果上调日本部分iPhone售价",
+          "url": "https://flash.jin10.com/detail/20260718154336640800",
+          "source": "金十数据",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时04分"
+          "time_info": "16时19分"
         },
         {
           "title": "财联社7月18日电，苹果公司将日本iPhone售价上调10%。",
@@ -621,22 +691,24 @@
           "url": "https://wallstreetcn.com/livenews/3135971",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 16时19分]"
         },
         {
           "title": "国家地方共建人形机器人创新中心中试公共服务平台启用",
           "url": "https://api3.cls.cn/share/article/2430160?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            6
+            6,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 16时19分]"
         },
         {
           "title": "擎天租联合智元部署60余台机器人全面承接WAIC公共服务",
@@ -733,8 +805,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 14时04分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 16时19分]"
         },
         {
           "title": "台积电盈利隐忧致抛售潮 台股暴跌创史上最大跌幅",
@@ -831,7 +903,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         }
@@ -863,11 +935,12 @@
           "url": "https://www.gelonghui.com/news/5271560",
           "source": "格隆汇",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 14时04分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 16时19分]"
         }
       ]
     },
@@ -899,11 +972,12 @@
           "source": "早报",
           "ranks": [
             3,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 14时04分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 16时19分]"
         }
       ]
     },
@@ -940,6 +1014,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 11时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "德媒：高通胀会毁掉特朗普的中期选举吗？",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/07/18/4c7030cd21c7406280c1856185d5b29c.html",
+          "source": "参考消息",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     }
