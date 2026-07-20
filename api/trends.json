@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T07:56:59.353608+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-07-20T10:52:19.308714+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
         {
           "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 10时52分]"
         },
         {
           "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 10时52分]"
         },
         {
           "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
@@ -86,6 +86,17 @@
           "time_info": "[01时01分 ~ 05时52分]"
         },
         {
+          "title": "工信部：将印发算力标准体系建设指南 推动建立算力市场化定价等标准",
+          "url": "https://api3.cls.cn/share/article/2430879?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "Kimi：即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户，已在全速推进算力扩容",
           "url": "https://wallstreetcn.com/livenews/3136316",
           "source": "华尔街见闻-快讯",
@@ -128,9 +139,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "Kimi K3引发算力逻辑讨论",
+          "url": "https://s.weibo.com/weibo?q=Kimi%20K3%E5%BC%95%E5%8F%91%E7%AE%97%E5%8A%9B%E9%80%BB%E8%BE%91%E8%AE%A8%E8%AE%BA&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "月之暗面暂停新用户订阅：面临始料未及的算力挑战",
+          "url": "https://www.zaochenbao.com/news/china/202607/2076813.html",
+          "source": "早报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "工信部：将印发算力标准体系建设指南，推动建立算力市场化定价等标准",
+          "url": "https://flash.jin10.com/detail/20260720103658625800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "台积电(TSM.N)首席财务官：AI芯片需求“强劲且将持续多年”。",
@@ -139,15 +183,48 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "我国智能算力规模同比增长177%",
+          "url": "https://api3.cls.cn/share/article/2430852?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "AI服务器、算力租赁概念大幅走强，浪潮信息、行云科技、利通电子、杭钢股份、紫光股份、美利云、浙大网新等多股涨停，亚康股份、首都在线、宏景科技等涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3136464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "创业板指涨超3%，沪指涨1.32%，深成指涨1.73%，油气、算力租赁、半导体芯片、CPO等方向涨幅居前，沪深京三市上涨个股超4200只。",
+          "url": "https://wallstreetcn.com/livenews/3136456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "世界人工智能合作组织重要阶段性进展",
@@ -171,8 +248,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 10时52分]"
         },
         {
           "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
@@ -180,11 +257,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 10时52分]"
         },
         {
           "title": "WAIC 2026践行科技向善，游族网络联合发起《人工智能发展与安全倡议书》",
@@ -241,66 +319,26 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时51分]"
-        },
-        {
-          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
         {
-          "title": "特斯拉在德国工厂提升产量，来应对需求增长",
-          "url": "https://wallstreetcn.com/livenews/3136285",
-          "source": "华尔街见闻-快讯",
+          "title": "恩盖尔·伍兹：美国人为何对人工智能心存戒备",
+          "url": "https://www.zaochenbao.com/news/opinion/202607/2076809.html",
+          "source": "早报",
           "ranks": [
-            21,
-            27
+            14
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时41分]"
-        },
-        {
-          "title": "财联社7月19日电，随着特斯拉确认了今年德国市场需求将更为强劲的预期，公司正计划扩大新市场，并同步提升其位于德国格伦海德（Gruenheide）工厂的产量。",
-          "url": "https://api3.cls.cn/share/article/2430563?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "中国万天控股(01854.HK)附属与衡阳极索订立战略合作框架协议 布局AI外骨骼机器人智能医疗赛道",
@@ -329,6 +367,17 @@
           "time_info": "[04时45分 ~ 07时56分]"
         },
         {
+          "title": "我国人形机器人整机产品超全球半数",
+          "url": "https://api3.cls.cn/share/article/2430877?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "法拉第未来(FFIE.O)：宣布与阿根廷足球协会（AFA）达成合作，正式成为阿根廷国家队在北美地区机器人及相关机器人技术领域的官方区域赞助商。",
           "url": "https://flash.jin10.com/detail/20260720040513745800",
           "source": "金十数据",
@@ -339,6 +388,242 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时45分 ~ 05时52分]"
+        },
+        {
+          "title": "工信部：人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点",
+          "url": "https://api3.cls.cn/share/article/2430863?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "我国人形机器人整机产品达400余款、超全球半数",
+          "url": "https://flash.jin10.com/detail/20260720103627948800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "工信部：人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点",
+          "url": "https://flash.jin10.com/detail/20260720102658536800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "深成指下行翻绿，此前一度涨近2%，沪指、创业板指涨幅同步收窄，电子特气、存储芯片、PCB、锂矿等方向跌幅居前，沪深京三市下跌个股超2100只。",
+          "url": "https://wallstreetcn.com/livenews/3136493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "A股异动丨存储芯片股集体反弹，协创数据涨超12%，大普微涨超6%",
+          "url": "https://www.gelonghui.com/news/5271688",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "A股早评：三大指数齐涨，创业板指涨2.2%，存储芯片、PCB概念反弹",
+          "url": "https://www.gelonghui.com/news/5271684",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "港股异动丨存储芯片概念股集体高开，两倍做多海力士、两倍做多三星电子均高开15%",
+          "url": "https://www.gelonghui.com/news/5271683",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药 新药研发 临床三期",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "工信部：今年上半年38款创新药获批上市 其中国产创新药31款",
+          "url": "https://api3.cls.cn/share/article/2430874?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "多只港股方向产品基金经理有变，看好科技创新药机会",
+          "url": "https://wallstreetcn.com/livenews/3136347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时51分]"
+        },
+        {
+          "title": "工信部：上半年38款创新药获批上市，其中国产创新药31款，占比超过80%",
+          "url": "https://flash.jin10.com/detail/20260720102844871800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "创新药概念震荡回升 科伦药业触及涨停",
+          "url": "https://api3.cls.cn/share/article/2430835?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时51分]"
+        },
+        {
+          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 10时52分]"
+        },
+        {
+          "title": "特斯拉在德国工厂提升产量，来应对需求增长",
+          "url": "https://wallstreetcn.com/livenews/3136285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时41分]"
+        },
+        {
+          "title": "财联社7月19日电，随着特斯拉确认了今年德国市场需求将更为强劲的预期，公司正计划扩大新市场，并同步提升其位于德国格伦海德（Gruenheide）工厂的产量。",
+          "url": "https://api3.cls.cn/share/article/2430563?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "台积电首席财务官黄仁昭表示，计划于2027年向外国投资者以美元派发股息。",
+          "url": "https://wallstreetcn.com/livenews/3136389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "台积电财务长：应客户强劲需求增加在美投资",
+          "url": "https://www.zaochenbao.com/news/opinion/202607/2076814.html",
+          "source": "早报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "台积电(TSM.N)首席财务官：若市场时机有利，不排除发行债券以资助资本支出。",
+          "url": "https://flash.jin10.com/detail/20260720070104390800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "台积电(TSM.N)首席财务官：亚利桑那州工厂建设面临物理层面的制约；正与美国政府密切合作。",
+          "url": "https://flash.jin10.com/detail/20260720070044294800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     },
@@ -351,11 +636,12 @@
           "url": "https://wallstreetcn.com/articles/3777339",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 10时52分]"
         },
         {
           "title": "DeepSeek V4满血版据报最快7月20日推出",
@@ -430,59 +716,36 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 3,
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
+      "match_count": 1,
       "titles": [
         {
-          "title": "台积电首席财务官黄仁昭表示，计划于2027年向外国投资者以美元派发股息。",
-          "url": "https://wallstreetcn.com/livenews/3136389",
-          "source": "华尔街见闻-快讯",
+          "title": "记者调查：从300元到1000元，华强北内存暴涨下的消费电子困局",
+          "url": "https://www.cls.cn/detail/2430505",
+          "source": "财联社热门",
           "ranks": [
-            1
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "台积电(TSM.N)首席财务官：若市场时机有利，不排除发行债券以资助资本支出。",
-          "url": "https://flash.jin10.com/detail/20260720070104390800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "台积电(TSM.N)首席财务官：亚利桑那州工厂建设面临物理层面的制约；正与美国政府密切合作。",
-          "url": "https://flash.jin10.com/detail/20260720070044294800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "10时52分"
         }
       ]
     },
     {
-      "keyword_group": "创新药 新药研发 临床三期",
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 1,
       "titles": [
         {
-          "title": "多只港股方向产品基金经理有变，看好科技创新药机会",
-          "url": "https://wallstreetcn.com/livenews/3136347",
-          "source": "华尔街见闻-快讯",
+          "title": "金十期货7月20日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌350元/吨，中间价报152200元/吨。",
+          "url": "https://flash.jin10.com/detail/20260720103135484800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            14
+            20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     },
@@ -497,7 +760,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         }
@@ -515,8 +778,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 10时52分]"
         }
       ]
     }
