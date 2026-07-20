@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T17:42:10.380739+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-07-20T20:16:46.846346+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
@@ -88,6 +88,19 @@
           "time_info": "[01时01分 ~ 05时52分]"
         },
         {
+          "title": "Kimi：算力紧缺，即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户",
+          "url": "https://wallstreetcn.com/articles/3777376",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 20时16分]"
+        },
+        {
           "title": "超节点集中亮相WAIC 国产算力进入系统级竞争时代",
           "url": "https://www.cls.cn/detail/2430847",
           "source": "财联社热门",
@@ -111,18 +124,6 @@
           "time_info": "10时52分"
         },
         {
-          "title": "Kimi：算力紧缺，即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户",
-          "url": "https://wallstreetcn.com/articles/3777376",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 17时42分]"
-        },
-        {
           "title": "Kimi：即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户，已在全速推进算力扩容",
           "url": "https://wallstreetcn.com/livenews/3136316",
           "source": "华尔街见闻-快讯",
@@ -133,6 +134,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时46分]"
+        },
+        {
+          "title": "【每日收评】双创指数探底回升尾盘翻红，电力、油气板块持续活跃，算力硬件股延续调整",
+          "url": "https://www.cls.cn/detail/2431396",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时16分]"
         },
         {
           "title": "月之暗面暂停新用户订阅：面临始料未及的算力挑战",
@@ -159,17 +172,6 @@
           "time_info": "[04时46分 ~ 05时52分]"
         },
         {
-          "title": "【每日收评】双创指数探底回升尾盘翻红，电力、油气板块持续活跃，算力硬件股延续调整",
-          "url": "https://www.cls.cn/detail/2431396",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
           "title": "华为首次线下展出昇腾950超节点产品，可搭载1024颗AI芯片",
           "url": "https://wallstreetcn.com/livenews/3136341",
           "source": "华尔街见闻-快讯",
@@ -191,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
+          "url": "https://wallstreetcn.com/articles/3777377",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "Kimi K3引发算力逻辑讨论",
@@ -248,6 +261,28 @@
           "time_info": "10时52分"
         },
         {
+          "title": "工信部：深入实施“人工智能+制造”行动，加强算力、模型、数据等核心技术供给",
+          "url": "https://wallstreetcn.com/livenews/3136868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
+          "title": "财联社7月20日电，AMD美股盘前涨幅扩大至4%。AMD年度旗舰AI大会本周来袭，CPU/GPU技术路线是重头戏。",
+          "url": "https://api3.cls.cn/share/article/2431666?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "创业板指涨超3%，沪指涨1.32%，深成指涨1.73%，油气、算力租赁、半导体芯片、CPO等方向涨幅居前，沪深京三市上涨个股超4200只。",
           "url": "https://wallstreetcn.com/livenews/3136456",
           "source": "华尔街见闻-快讯",
@@ -259,13 +294,35 @@
           "time_info": "10时52分"
         },
         {
+          "title": "行云科技：与某国资供应商签署3亿元算力服务合同",
+          "url": "https://api3.cls.cn/share/article/2431664?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
+          "title": "宇顺电子：子公司签署7.31亿元算力服务器租赁合同",
+          "url": "https://api3.cls.cn/share/article/2431661?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "天数智芯发布新一代通用GPU旗舰产品天垓300，面向三类智能构建新一代通用算力底座",
           "url": "https://wallstreetcn.com/livenews/3136726",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         }
@@ -273,7 +330,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "世界人工智能合作组织重要阶段性进展",
@@ -327,17 +384,6 @@
           "time_info": "[01时01分 ~ 06时51分]"
         },
         {
-          "title": "中国人工智能发展到什么程度了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E4%BA%86%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
           "title": "2026世界人工智能大会闭幕 预计达成超200亿元意向采购金额",
           "url": "https://api3.cls.cn/share/article/2431439?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -355,7 +401,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -371,6 +417,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 04时46分]"
+        },
+        {
+          "title": "中国人工智能发展到什么程度了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时16分]"
         },
         {
           "title": "恩盖尔·伍兹：美国人为何对人工智能心存戒备",
@@ -410,6 +468,17 @@
           "time_info": "[04时46分 ~ 05时52分]"
         },
         {
+          "title": "20余家台企组团亮相世界人工智能大会",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/07/20/737a7c64a9f14676b1fe6f49a514c516.html",
+          "source": "参考消息",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "财联社7月20日电，台积电CFO称，看到人工智能芯片需求“强劲且将持续多年”。",
           "url": "https://api3.cls.cn/share/article/2430663?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -421,15 +490,48 @@
           "time_info": "07时56分"
         },
         {
+          "title": "上海：持续深化人工智能全栈布局，系统提升全链条自主创新能力",
+          "url": "https://wallstreetcn.com/livenews/3136892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
+          "title": "深圳重大产业生态基金正式设立 总规模100亿元 锚定半导体与集成电路、人工智能、智能终端等战略性新兴产业",
+          "url": "https://api3.cls.cn/share/article/2431674?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "上海市人工智能重点项目签约仪式举行",
           "url": "https://wallstreetcn.com/livenews/3136738",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "上海：要加快建设人工智能发展和治理创新高地 加快建设高性能智算集群和高价值语料生产体系",
+          "url": "https://api3.cls.cn/share/article/2431651?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "中国信通院在2026年人工智能向善全球峰会期间举办“脑机接口：技术向善与标准合作”研讨会",
@@ -457,7 +559,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国万天控股(01854.HK)附属与衡阳极索订立战略合作框架协议 布局AI外骨骼机器人智能医疗赛道",
@@ -472,17 +574,6 @@
           "time_info": "[01时01分 ~ 07时56分]"
         },
         {
-          "title": "美媒：中国机器人应用优在规模采集数据",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/07/20/4e3c5d25a4b142b8877167a677e85599.html",
-          "source": "参考消息",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
           "title": "上半年浙江省工业机器人等各类机器人出口额超10亿元",
           "url": "https://api3.cls.cn/share/article/2430637?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -495,6 +586,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时45分 ~ 07时56分]"
+        },
+        {
+          "title": "美媒：中国机器人应用优在规模采集数据",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/07/20/4e3c5d25a4b142b8877167a677e85599.html",
+          "source": "参考消息",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时16分]"
+        },
+        {
+          "title": "我国人形机器人整机产品超全球半数",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B4%E6%9C%BA%E4%BA%A7%E5%93%81%E8%B6%85%E5%85%A8%E7%90%83%E5%8D%8A%E6%95%B0%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "我国人形机器人整机产品超全球半数",
@@ -536,11 +650,12 @@
           "url": "https://www.zaochenbao.com/news/china/202607/2076847.html",
           "source": "早报",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时16分]"
         },
         {
           "title": "上海物理智能与机器人研究院揭牌",
@@ -929,11 +1044,12 @@
           "ranks": [
             9,
             15,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 17时42分]"
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 20时16分]"
         },
         {
           "title": "台积电(TSM.N)首席财务官：若市场时机有利，不排除发行债券以资助资本支出。",
@@ -956,6 +1072,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Strategy在7月13日至7月19日期间没有购买任何比特币。",
+          "url": "https://wallstreetcn.com/livenews/3136901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
+          "title": "Strategy上周未增持比特币 向美元储备注入2.25亿美元",
+          "url": "https://api3.cls.cn/share/article/2431688?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货跌0.6%，道指期货跌0.4%。 布伦特原油5分钟内下跌1.32美元/桶，报86.9美元/桶；WTI原油5分钟内下跌1.28美元/桶，报80.24美元/桶。 现货黄金5分钟内上涨12.21美元/盎司，报4034.4美元/盎司。 据报道，调解人已向伊朗提出一项与美国停火10天的提议，以寻找途径重振双方上月达成的临时协议。",
+          "url": "https://wallstreetcn.com/livenews/3136884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         }
       ]
     },
@@ -985,11 +1146,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202607/2076841.html",
           "source": "早报",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时16分]"
         }
       ]
     },
