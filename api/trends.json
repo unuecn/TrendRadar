@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-07-22T02:17:16.055757+08:00",
-  "total_titles_processed": 297,
+  "generated_at": "2026-07-22T04:01:35.223643+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
+          "url": "https://flash.jin10.com/detail/20260722034543375800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "OpenAI表示，Hugging Face遭遇的安全漏洞事件是由其旗下一个模型导致的。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3137736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
         {
           "title": "谷歌发布一系列更低成本的Gemini模型",
           "url": "https://flash.jin10.com/detail/20260722004534436800",
@@ -27,19 +49,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时01分]"
         },
         {
           "title": "OpenA：ChatGPT Work和GPT-5.6今日起面向小型企业开放",
           "url": "https://api3.cls.cn/share/article/2433185?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            6
+            6,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时01分]"
         },
         {
           "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
@@ -48,9 +71,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "OpenAI新增两名独董到董事会。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3137732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         },
         {
           "title": "谷歌(GOOG.O)：自7月21日起，使用超过6个月的Google Ads账户将不再提供针对部分政策决定的申诉选项。",
@@ -92,7 +126,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         },
@@ -115,23 +149,37 @@
       "titles": [
         {
           "title": "英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍",
+          "url": "https://api3.cls.cn/share/article/2433143?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            7,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时01分]"
+        },
+        {
+          "title": "英伟达详解下一代AI专用Vera CPU 称速度是其他CPU的两倍多",
+          "url": "https://api3.cls.cn/share/article/2433139?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            10,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时01分]"
+        },
+        {
+          "title": "英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍",
           "url": "https://wallstreetcn.com/livenews/3137682",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
-        },
-        {
-          "title": "英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍",
-          "url": "https://api3.cls.cn/share/article/2433143?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            7,
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -156,18 +204,6 @@
           "ranks": [
             9,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
-        },
-        {
-          "title": "英伟达详解下一代AI专用Vera CPU 称速度是其他CPU的两倍多",
-          "url": "https://api3.cls.cn/share/article/2433139?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -200,9 +236,122 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时01分]"
+        },
+        {
+          "title": "美股存储芯片指数初步收涨11.2%，半导体指数涨5.2%。 标普500指数初步收涨0.9%，科技板块涨2.4%，能源板块涨1.1%，电信板块跌0.7%，日用消费品板块跌0.9%。 纳斯达克100指数初步收涨1.9%，成分股中，Nebius集团初步收涨19%，闪迪涨14%，西部数据涨12.5%，希捷科技涨11.2%，英特尔涨8.8%，Adobe跌3.1%，CrowdStrike跌3.7%，Workday跌3.9%，汤森路透跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3137738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "LME期铜收涨263美元，报13885美元/吨。 LME期铝收涨18美元，报3158美元/吨。 LME期锌收涨32美元，报3552美元/吨。 LME期铅收跌10美元，报1869美元/吨。 LME期镍收涨156美元，报17085美元/吨。 LME期锡收涨1007美元，报53885美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3137696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美元指数涨超0.2%，日元跌穿163",
+          "url": "https://wallstreetcn.com/livenews/3137725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
+          "url": "https://wallstreetcn.com/articles/3777542",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时01分]"
+        },
+        {
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时01分]"
+        },
+        {
+          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
+          "url": "https://www.cls.cn/detail/2432689",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时01分]"
+        },
+        {
+          "title": "实探月之暗面Kimi：K3之后，算力、开源与商业化怎么走？",
+          "url": "https://www.cls.cn/detail/2432968",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 4,
       "titles": [
+        {
+          "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时01分]"
+        },
         {
           "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
           "url": "https://wallstreetcn.com/articles/3777518",
@@ -215,17 +364,6 @@
           "time_info": "00时56分"
         },
         {
-          "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
           "title": "日媒：全球存储芯片价格飙升真相",
           "url": "https://ckxxapp.ckxx.net/pages/2026/07/21/ab0ea23ec2a24d1f9fad89ca4df13103.html",
           "source": "参考消息",
@@ -233,8 +371,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时01分]"
         },
         {
           "title": "美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。",
@@ -246,46 +384,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
-          "url": "https://wallstreetcn.com/articles/3777542",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
-        },
-        {
-          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
-          "url": "https://wallstreetcn.com/articles/3777510",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
-        },
-        {
-          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
-          "url": "https://www.cls.cn/detail/2432689",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
         }
       ]
     },
@@ -313,8 +411,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时01分]"
         },
         {
           "title": "受人工智能提振 台湾6月外销订单创历年单月新高",
@@ -324,36 +422,36 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时01分]"
         }
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 2,
       "titles": [
         {
-          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
+          "title": "长盈精密(300115.SZ)：公司有为便携式卫星通讯接收站提供结构件产品",
+          "url": "https://www.gelonghui.com/news/5273069",
+          "source": "格隆汇",
           "ranks": [
-            3
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时01分]"
         },
         {
-          "title": "LME期铜收涨263美元，报13885美元/吨。 LME期铝收涨18美元，报3158美元/吨。 LME期锌收涨32美元，报3552美元/吨。 LME期铅收跌10美元，报1869美元/吨。 LME期镍收涨156美元，报17085美元/吨。 LME期锡收涨1007美元，报53885美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3137696",
-          "source": "华尔街见闻-快讯",
+          "title": "SpaceX：猎鹰9号火箭从加利福尼亚州发射升空，成功将24颗星链卫星送入轨道。",
+          "url": "https://flash.jin10.com/detail/20260722031931822800",
+          "source": "金十数据",
           "ranks": [
-            13
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "04时01分"
         }
       ]
     },
@@ -397,8 +495,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时01分]"
         }
       ]
     },
@@ -414,25 +512,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时01分]"
         }
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "keyword_group": "雷达",
       "match_count": 1,
       "titles": [
         {
-          "title": "长盈精密(300115.SZ)：公司有为便携式卫星通讯接收站提供结构件产品",
-          "url": "https://www.gelonghui.com/news/5273069",
-          "source": "格隆汇",
+          "title": "伊朗革命卫队：摧毁科威特两处雷达设施。",
+          "url": "https://flash.jin10.com/detail/20260722032404643800",
+          "source": "金十数据",
           "ranks": [
-            11
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         }
       ]
     },
@@ -447,7 +545,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         }
