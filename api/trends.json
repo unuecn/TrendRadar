@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T19:23:46.440375+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-07-21T20:52:59.500376+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "Kimi：算力紧缺，即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户",
@@ -43,6 +43,28 @@
           "time_info": "[08时04分 ~ 08时05分]"
         },
         {
+          "title": "北京：下半年深入实施“人工智能+”行动计划 出台具身智能企业算力和数据集专项支持政策",
+          "url": "https://api3.cls.cn/share/article/2432994?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "北京：下半年将布局建设Token工厂 力争新增智能算力5万P",
+          "url": "https://wallstreetcn.com/livenews/3137590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
           "url": "https://wallstreetcn.com/articles/3777542",
           "source": "华尔街见闻",
@@ -51,8 +73,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 20时52分]"
         },
         {
           "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
@@ -74,8 +96,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 20时52分]"
+        },
+        {
+          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
+          "url": "https://www.cls.cn/detail/2432689",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时23分]"
+          "time_info": "[19时23分 ~ 20时52分]"
         },
         {
           "title": "算力芯片概念持续走高 东芯股份20cm涨停",
@@ -111,24 +145,24 @@
           "time_info": "17时11分"
         },
         {
+          "title": "北京：将布局建设Token工厂 力争下半年新增智能算力5万P",
+          "url": "https://api3.cls.cn/share/article/2432988?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "康惠股份：子公司签署算力服务合同 预计总金额4.15亿元至6.79亿元",
           "url": "https://api3.cls.cn/share/article/2432903?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
-          "url": "https://www.cls.cn/detail/2432689",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -183,7 +217,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -202,7 +236,7 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "聚光科技(300203.SZ)：目前未和英伟达有过接触",
@@ -290,6 +324,17 @@
           "time_info": "[07时01分 ~ 08时05分]"
         },
         {
+          "title": "美股盘前要点 | 新一轮关税潮将至？纳指期货涨超1%，台积电据悉明年涨价最高10%",
+          "url": "https://www.gelonghui.com/news/5273006",
+          "source": "格隆汇",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "台积电(TSM.N)美股盘前走高，现涨3.4%。",
           "url": "https://flash.jin10.com/detail/20260721163325151800",
           "source": "金十数据",
@@ -318,7 +363,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -392,8 +437,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时04分 ~ 19时23分]"
+          "appearance_count": 8,
+          "time_info": "[08时04分 ~ 20时52分]"
         },
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -471,7 +516,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -523,7 +568,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "20余家台企组团亮相世界人工智能大会",
@@ -539,6 +584,17 @@
           "time_info": "[00时23分 ~ 17时11分]"
         },
         {
+          "title": "微软(MSFT.O)同意在Mistral的欧洲计算基础设施上投资数十亿美元，以扩展欧洲的人工智能基础设施。",
+          "url": "https://flash.jin10.com/detail/20260721203030465800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-21）",
           "url": "https://flash.jin10.com/detail/20260721115253032800",
           "source": "金十数据",
@@ -548,6 +604,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "人工智能成为风投行业“催化剂”",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/07/21/82984c29e22a4369a04ac28f02295356.html",
+          "source": "参考消息",
+          "ranks": [
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 20时52分]"
         },
         {
           "title": "加芙列拉·拉莫斯、埃米利娅·杜赫：在为时已晚前落实人工智能护栏",
@@ -562,16 +631,16 @@
           "time_info": "[11时56分 ~ 14时28分]"
         },
         {
-          "title": "人工智能成为风投行业“催化剂”",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/07/21/82984c29e22a4369a04ac28f02295356.html",
-          "source": "参考消息",
+          "title": "受人工智能提振 台湾6月外销订单创历年单月新高",
+          "url": "https://www.zaochenbao.com/news/taiwan/202607/2176946.html",
+          "source": "早报",
           "ranks": [
-            9,
-            12
+            6,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时23分]"
+          "time_info": "[19时23分 ~ 20时52分]"
         },
         {
           "title": "财联社7月20日电，据报道，特朗普人工智能安全机构负责人辞职。",
@@ -619,24 +688,13 @@
           "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "受人工智能提振 台湾6月外销订单创历年单月新高",
-          "url": "https://www.zaochenbao.com/news/taiwan/202607/2176946.html",
-          "source": "早报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
           "title": "苏州市正式设立人工智能发展办公室",
           "url": "https://api3.cls.cn/share/article/2432886?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         }
@@ -953,6 +1011,47 @@
       ]
     },
     {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 20时52分]"
+        },
+        {
+          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
+          "url": "https://www.cls.cn/detail/2431896",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时04分 ~ 14时28分]"
+        },
+        {
+          "title": "财联社7月21日电，OpenAI董事长Bret Taylor表示，AI token计费问题源于AI市场尚未成熟，未来趋势为“按结果付费”。",
+          "url": "https://api3.cls.cn/share/article/2432963?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
       "match_count": 3,
       "titles": [
@@ -977,7 +1076,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -988,7 +1087,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         }
@@ -1004,11 +1103,12 @@
           "source": "参考消息",
           "ranks": [
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 20时52分]"
         },
         {
           "title": "创业板指涨超5%，半导体设备、MLCC、存储芯片、先进封装、PCB等板块大涨；成分股中，国瓷材料20cm涨停，长川科技等近10股涨超10%。",
@@ -1020,6 +1120,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "汗液也能发电 各国探索另类电池与储能技术",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2076841.html",
+          "source": "早报",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时01分]"
+        },
+        {
+          "title": "【机构调研】这家公司储能产能基本饱和，AIDC电池产品目标年内完成客户验厂导入",
+          "url": "https://api3.cls.cn/share/article/2432938?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         }
       ]
     },
@@ -1050,36 +1178,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时27分 ~ 14时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 19时23分]"
-        },
-        {
-          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
-          "url": "https://www.cls.cn/detail/2431896",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 14时28分]"
         }
       ]
     },
@@ -1215,23 +1313,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 08时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "汗液也能发电 各国探索另类电池与储能技术",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2076841.html",
-          "source": "早报",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 07时01分]"
         }
       ]
     },
