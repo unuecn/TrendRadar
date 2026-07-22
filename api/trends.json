@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-07-22T19:52:39.275943+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-07-22T21:51:12.217489+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "OpenAI先进模型自主“越狱” 入侵外部平台",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2277048.html",
+          "source": "早报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
+          "title": "多家海外科技巨头加码数据中心业务 OpenAI将云支出预期上调至7500亿美元",
+          "url": "https://api3.cls.cn/share/article/2434309?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
         {
           "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
           "url": "https://flash.jin10.com/detail/20260722034543375800",
@@ -19,6 +41,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "OpenAI推出工作流程AI智能体部署产品 面向企业客户",
+          "url": "https://wallstreetcn.com/livenews/3138239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
           "url": "https://wallstreetcn.com/articles/3777467",
           "source": "华尔街见闻",
@@ -28,6 +61,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时56分 ~ 05时21分]"
+        },
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 21时51分]"
         },
         {
           "title": "谷歌发布一系列更低成本的Gemini模型",
@@ -79,16 +124,15 @@
           "time_info": "[05时21分 ~ 06时28分]"
         },
         {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
+          "title": "财联社7月22日电，OpenAI宣布推出OpenAI Presence。",
+          "url": "https://api3.cls.cn/share/article/2434305?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
           "ranks": [
-            8,
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时59分 ~ 19时52分]"
+          "time_info": "[21时50分 ~ 21时51分]"
         },
         {
           "title": "OpenAI新增两名独董到董事会。（华尔街日报）",
@@ -101,6 +145,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 05时21分]"
+        },
+        {
+          "title": "OpenAI将云支出预期上调至7500亿美元。OpenAI聘请xAI资深人士Brent Mayo。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3138238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
@@ -123,6 +178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "据报道，OpenAI计划斥资超过300亿美元建设新的数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3138236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
@@ -153,7 +219,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -271,7 +337,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
@@ -297,6 +363,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 09时01分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走低跌超3%，有色、电力板块逆势走强，算力硬件股再陷调整",
+          "url": "https://www.cls.cn/detail/2433946",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 21时51分]"
         },
         {
           "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
@@ -339,21 +418,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走低跌超3%，有色、电力板块逆势走强，算力硬件股再陷调整",
-          "url": "https://www.cls.cn/detail/2433946",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 19时52分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
@@ -390,6 +457,28 @@
           "time_info": "[07时30分 ~ 07时31分]"
         },
         {
+          "title": "Meta定制版AMD MI450芯片算力减半、内存大缩水，SemiAnalysis：这是Meta公司文化的悲哀",
+          "url": "https://wallstreetcn.com/articles/3777659",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
+          "title": "财联社7月22日电，英伟达拟开源首个GPU加速的医学物理模拟框架。",
+          "url": "https://api3.cls.cn/share/article/2434303?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
           "title": "中信证券：继续全面看好国产算力产业链",
           "url": "https://api3.cls.cn/share/article/2433285?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -399,6 +488,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 09时01分]"
+        },
+        {
+          "title": "平治信息(300571.SZ)：预中标3亿元算力服务采购项目",
+          "url": "https://www.gelonghui.com/news/5273646",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
+          "title": "随着计算力度的提升 OpenAI计划云支出达到7500亿美元",
+          "url": "https://api3.cls.cn/share/article/2434297?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
+          "title": "加幂科技(08198.HK)拟成立附属从事于中国提供基于平台的算力服务",
+          "url": "https://www.gelonghui.com/news/5273643",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
+          "title": "美股开盘，道指跌0.07%，标普500指数跌0.19%，纳指跌0.54%。存储、AI芯片板块普跌，SK海力士(SKHY.O)跌超5%，西部数据(WDC.O)、希捷科技(STX.O)跌约4%，闪迪(SNDK.O)、美光科技(MU.O)跌超3%；英特尔(INTC.O)跌超3%，台积电(TSM.N)跌超2%，AMD(AMD.O)跌1.6%。",
+          "url": "https://flash.jin10.com/detail/20260722213039037800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
         },
         {
           "title": "我国将建设国家级零碳工厂、零碳算力设施",
@@ -462,7 +595,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -484,7 +617,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -495,320 +628,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-          "url": "https://wallstreetcn.com/articles/3777595",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 19时52分]"
-        },
-        {
-          "title": "英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍",
-          "url": "https://api3.cls.cn/share/article/2433143?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            7,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时01分]"
-        },
-        {
-          "title": "英伟达详解下一代AI专用Vera CPU 称速度是其他CPU的两倍多",
-          "url": "https://api3.cls.cn/share/article/2433139?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时01分]"
-        },
-        {
-          "title": "英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍",
-          "url": "https://wallstreetcn.com/livenews/3137682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
-        },
-        {
-          "title": "媒体实探英伟达Rubin：数十家客户已拿到测试机架，生产过程比Blackwell顺利，预计明年放量",
-          "url": "https://wallstreetcn.com/articles/3777631",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 19时52分]"
-        },
-        {
-          "title": "英伟达发布Spectrum-6以太网交换系统，面向下一代超大规模AI工厂",
-          "url": "https://wallstreetcn.com/livenews/3137680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
-        },
-        {
-          "title": "英伟达详解下一代AI专用Vera CPU，向AMD和英特尔发起挑战",
-          "url": "https://wallstreetcn.com/livenews/3137679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
-        },
-        {
-          "title": "英伟达发布Spectrum-6以太网交换系统 面向下一代超大规模AI工厂",
-          "url": "https://api3.cls.cn/share/article/2433136?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
-        },
-        {
-          "title": "韩媒：SK、三星和英伟达将聚首硅谷",
-          "url": "https://flash.jin10.com/detail/20260722083039788800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时01分]"
-        },
-        {
-          "title": "财联社7月21日电，英伟达发文称，Vera Rubin正在全面量产。",
-          "url": "https://api3.cls.cn/share/article/2433130?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时17分]"
-        },
-        {
-          "title": "据日经新闻：英伟达与纬创（Wistron）将在美国得克萨斯州生产Blackwell AI服务器。",
-          "url": "https://flash.jin10.com/detail/20260722064209185800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
-        },
-        {
-          "title": "英伟达发布Vera CPU新细节 AI服务器市场再开新战场",
-          "url": "https://www.cls.cn/detail/2433181",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "AI交换芯片走到聚光灯下：英伟达发布Spectrum-6 或推动Token生成能力倍增",
-          "url": "https://www.cls.cn/detail/2433429",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时30分 ~ 19时52分]"
-        },
-        {
-          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时31分]"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 19时52分]"
-        },
-        {
-          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 19时52分]"
-        },
-        {
-          "title": "美股存储芯片指数初步收涨11.2%，半导体指数涨5.2%。 标普500指数初步收涨0.9%，科技板块涨2.4%，能源板块涨1.1%，电信板块跌0.7%，日用消费品板块跌0.9%。 纳斯达克100指数初步收涨1.9%，成分股中，Nebius集团初步收涨19%，闪迪涨14%，西部数据涨12.5%，希捷科技涨11.2%，英特尔涨8.8%，Adobe跌3.1%，CrowdStrike跌3.7%，Workday跌3.9%，汤森路透跌5%。",
-          "url": "https://wallstreetcn.com/livenews/3137738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
-          "url": "https://wallstreetcn.com/livenews/3137752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时28分]"
-        },
-        {
-          "title": "周二（7月21日），美股行业ETF多数上涨，半导体ETF涨4.52%，全球科技股指数ETF涨3.11%，科技行业ETF涨2.89%，能源业ETF涨0.98%，网络股指数ETF跌0.27%。",
-          "url": "https://wallstreetcn.com/livenews/3137743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时28分]"
-        },
-        {
-          "title": "LME期铜收涨263美元，报13885美元/吨。 LME期铝收涨18美元，报3158美元/吨。 LME期锌收涨32美元，报3552美元/吨。 LME期铅收跌10美元，报1869美元/吨。 LME期镍收涨156美元，报17085美元/吨。 LME期锡收涨1007美元，报53885美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3137696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美元指数涨超0.2%，日元跌穿163",
-          "url": "https://wallstreetcn.com/livenews/3137725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "GE Vernova美股盘前下挫，现跌超6%，此前一度涨近7%。",
-          "url": "https://wallstreetcn.com/livenews/3138176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
         {
-          "title": "财联社7月22日电，GE Vernova美股盘前下挫，现跌超10%，此前一度涨近7%。",
-          "url": "https://api3.cls.cn/share/article/2434166?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "美股盘前，存储芯片股普跌，闪迪跌约2%，SK海力士跌约5%，美光科技跌约2%，西部数据跌约3%，希捷科技跌约3%。 超微电脑涨约17%，公司超预计第四财季营收接近指引区间110亿-125亿美元的底部；预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。",
-          "url": "https://wallstreetcn.com/livenews/3138080",
+          "title": "【中微半导：预计2026年上半年净利润同比增长90.82%】中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同比增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、智能家电、工业控制、汽车电子等领域的市场需求稳步复苏，造成公司MCU市场需求增速超过公司MCU产能增速，出现产能相对紧缺状态，产品出货量增长的同时产品价格上涨，公司营收及利润实现双增长。",
+          "url": "https://wallstreetcn.com/livenews/3138201",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时59分"
+          "time_info": "21时51分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "人工智能成为风投行业“催化剂”",
@@ -882,6 +721,17 @@
           "time_info": "[00时56分 ~ 02时17分]"
         },
         {
+          "title": "财联社7月22日电，美股核电股Oklo与X-Energy加入特朗普政府为人工智能增建核反应堆的计划。",
+          "url": "https://api3.cls.cn/share/article/2434308?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
           "title": "人工智能 文科生",
           "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20%E6%96%87%E7%A7%91%E7%94%9F&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -904,6 +754,17 @@
           "time_info": "[07时30分 ~ 07时31分]"
         },
         {
+          "title": "浙江：有计划有步骤推进人工智能重大项目谋划储备实施 加快打造人工智能创新发展高地",
+          "url": "https://api3.cls.cn/share/article/2434291?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-22）",
           "url": "https://flash.jin10.com/detail/20260722120038268800",
           "source": "金十数据",
@@ -913,6 +774,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "浙江：有计划有步骤推进人工智能重大项目谋划储备实施加快打造人工智能创新发展高地",
+          "url": "https://wallstreetcn.com/livenews/3138230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "《上海市人工智能标准体系建设指南（2026—2028年）》印发",
@@ -946,6 +818,431 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
+          "url": "https://wallstreetcn.com/articles/3777595",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时10分 ~ 21时51分]"
+        },
+        {
+          "title": "媒体实探英伟达Rubin：数十家客户已拿到测试机架，生产过程比Blackwell顺利，预计明年放量",
+          "url": "https://wallstreetcn.com/articles/3777631",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 21时51分]"
+        },
+        {
+          "title": "英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍",
+          "url": "https://api3.cls.cn/share/article/2433143?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            7,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时01分]"
+        },
+        {
+          "title": "英伟达详解下一代AI专用Vera CPU 称速度是其他CPU的两倍多",
+          "url": "https://api3.cls.cn/share/article/2433139?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            10,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时01分]"
+        },
+        {
+          "title": "英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍",
+          "url": "https://wallstreetcn.com/livenews/3137682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时17分]"
+        },
+        {
+          "title": "英伟达发布Spectrum-6以太网交换系统，面向下一代超大规模AI工厂",
+          "url": "https://wallstreetcn.com/livenews/3137680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时17分]"
+        },
+        {
+          "title": "英伟达详解下一代AI专用Vera CPU，向AMD和英特尔发起挑战",
+          "url": "https://wallstreetcn.com/livenews/3137679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时17分]"
+        },
+        {
+          "title": "英伟达发布Spectrum-6以太网交换系统 面向下一代超大规模AI工厂",
+          "url": "https://api3.cls.cn/share/article/2433136?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时17分]"
+        },
+        {
+          "title": "韩媒：SK、三星和英伟达将聚首硅谷",
+          "url": "https://flash.jin10.com/detail/20260722083039788800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时01分]"
+        },
+        {
+          "title": "财联社7月21日电，英伟达发文称，Vera Rubin正在全面量产。",
+          "url": "https://api3.cls.cn/share/article/2433130?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时17分]"
+        },
+        {
+          "title": "据日经新闻：英伟达与纬创（Wistron）将在美国得克萨斯州生产Blackwell AI服务器。",
+          "url": "https://flash.jin10.com/detail/20260722064209185800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "机构：AMD Advancing AI 2026大会或成股价催化剂 MI550X有望领先英伟达Rubin Ultra",
+          "url": "https://api3.cls.cn/share/article/2434273?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
+          "title": "英伟达发布Vera CPU新细节 AI服务器市场再开新战场",
+          "url": "https://www.cls.cn/detail/2433181",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "AI交换芯片走到聚光灯下：英伟达发布Spectrum-6 或推动Token生成能力倍增",
+          "url": "https://www.cls.cn/detail/2433429",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时30分 ~ 21时51分]"
+        },
+        {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时31分]"
+        },
+        {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 21时51分]"
+        },
+        {
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 21时51分]"
+        },
+        {
+          "title": "美股存储芯片指数初步收涨11.2%，半导体指数涨5.2%。 标普500指数初步收涨0.9%，科技板块涨2.4%，能源板块涨1.1%，电信板块跌0.7%，日用消费品板块跌0.9%。 纳斯达克100指数初步收涨1.9%，成分股中，Nebius集团初步收涨19%，闪迪涨14%，西部数据涨12.5%，希捷科技涨11.2%，英特尔涨8.8%，Adobe跌3.1%，CrowdStrike跌3.7%，Workday跌3.9%，汤森路透跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3137738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "美股盘初：存储芯片股、光通信股普跌，超微电脑涨约13%，GE Vernova跌约5%",
+          "url": "https://wallstreetcn.com/livenews/3138243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
+          "url": "https://wallstreetcn.com/livenews/3137752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时28分]"
+        },
+        {
+          "title": "周二（7月21日），美股行业ETF多数上涨，半导体ETF涨4.52%，全球科技股指数ETF涨3.11%，科技行业ETF涨2.89%，能源业ETF涨0.98%，网络股指数ETF跌0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3137743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时28分]"
+        },
+        {
+          "title": "LME期铜收涨263美元，报13885美元/吨。 LME期铝收涨18美元，报3158美元/吨。 LME期锌收涨32美元，报3552美元/吨。 LME期铅收跌10美元，报1869美元/吨。 LME期镍收涨156美元，报17085美元/吨。 LME期锡收涨1007美元，报53885美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3137696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美元指数涨超0.2%，日元跌穿163",
+          "url": "https://wallstreetcn.com/livenews/3137725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "GE Vernova美股盘前下挫，现跌超6%，此前一度涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3138176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "财联社7月22日电，GE Vernova美股盘前下挫，现跌超10%，此前一度涨近7%。",
+          "url": "https://api3.cls.cn/share/article/2434166?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普跌，闪迪跌约2%，SK海力士跌约5%，美光科技跌约2%，西部数据跌约3%，希捷科技跌约3%。 超微电脑涨约17%，公司超预计第四财季营收接近指引区间110亿-125亿美元的底部；预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。",
+          "url": "https://wallstreetcn.com/livenews/3138080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "据美国财经媒体Semafor：知情人士透露，英特尔与SK海力士并未就英特尔位于俄亥俄州的晶圆厂进行交易谈判。英特尔发表声明称，“按照惯例，我们不会对媒体关于未来商业协议的猜测发表评论。不过，英特尔致力于在俄亥俄州的发展，并将继续推进投资，以加快该厂址的投产准备工作。”",
+          "url": "https://flash.jin10.com/detail/20260722072150341800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "英特尔与SK海力士未就俄亥俄州芯片园区事宜展开谈判。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3137792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 09时01分]"
+        },
+        {
+          "title": "英特尔确认将进一步裁员，股价大涨近9%",
+          "url": "https://wallstreetcn.com/livenews/3137765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时31分]"
+        },
+        {
+          "title": "高通与三星扩大合作 骁龙为新Galaxy系列提供支持，涵盖智能手机、手表和智能眼镜",
+          "url": "https://api3.cls.cn/share/article/2434299?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
+          "title": "财联社7月22日电，海力士表示并无计划收购英特尔位于俄亥俄州的芯片工厂。",
+          "url": "https://api3.cls.cn/share/article/2433257?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时01分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗面临高通胀，并承受着严重的经济损害。",
+          "url": "https://flash.jin10.com/detail/20260722173218022800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "SK海力士：没有收购英特尔俄亥俄州芯片园区的计划",
+          "url": "https://wallstreetcn.com/livenews/3137810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "据行业官员们透露，SK海力士洽谈收购英特尔位于美国俄亥俄州的芯片园区。 该公司计划五年内在美国生产芯片。（韩国中央日报JoongAng Ilbo）",
+          "url": "https://wallstreetcn.com/livenews/3137777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -1032,91 +1329,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英特尔 高通",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "据美国财经媒体Semafor：知情人士透露，英特尔与SK海力士并未就英特尔位于俄亥俄州的晶圆厂进行交易谈判。英特尔发表声明称，“按照惯例，我们不会对媒体关于未来商业协议的猜测发表评论。不过，英特尔致力于在俄亥俄州的发展，并将继续推进投资，以加快该厂址的投产准备工作。”",
-          "url": "https://flash.jin10.com/detail/20260722072150341800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
-        },
-        {
-          "title": "英特尔与SK海力士未就俄亥俄州芯片园区事宜展开谈判。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3137792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 09时01分]"
-        },
-        {
-          "title": "英特尔确认将进一步裁员，股价大涨近9%",
-          "url": "https://wallstreetcn.com/livenews/3137765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时31分]"
-        },
-        {
-          "title": "财联社7月22日电，海力士表示并无计划收购英特尔位于俄亥俄州的芯片工厂。",
-          "url": "https://api3.cls.cn/share/article/2433257?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时01分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：伊朗面临高通胀，并承受着严重的经济损害。",
-          "url": "https://flash.jin10.com/detail/20260722173218022800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "SK海力士：没有收购英特尔俄亥俄州芯片园区的计划",
-          "url": "https://wallstreetcn.com/livenews/3137810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "据行业官员们透露，SK海力士洽谈收购英特尔位于美国俄亥俄州的芯片园区。 该公司计划五年内在美国生产芯片。（韩国中央日报JoongAng Ilbo）",
-          "url": "https://wallstreetcn.com/livenews/3137777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         }
       ]
     },
@@ -1235,6 +1447,45 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "艾芬达(301575.SZ)：云芯机器人目前已经开始投产",
+          "url": "https://www.gelonghui.com/news/5273065",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时28分]"
+        },
+        {
+          "title": "财联社7月22日电，强生公司旗下OTTAVA™机器人手术系统获得美国FDA上市许可。",
+          "url": "https://api3.cls.cn/share/article/2434288?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
+          "title": "德国大众汽车：大众汽车集团（中国）通过深化与地平线机器人在AI的合作加速L3与L4的发展。L3自动驾驶能力的交付计划最快将于明年下半年开始。",
+          "url": "https://flash.jin10.com/detail/20260722142344692800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "低空经济 eVTOL",
       "match_count": 3,
       "titles": [
@@ -1274,26 +1525,38 @@
       ]
     },
     {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 3,
       "titles": [
         {
-          "title": "艾芬达(301575.SZ)：云芯机器人目前已经开始投产",
-          "url": "https://www.gelonghui.com/news/5273065",
-          "source": "格隆汇",
+          "title": "新能源6月销量TOP10放榜：纯电“百花齐放”、比亚迪插混市占率超三成 小米新车或搅局增程市场",
+          "url": "https://www.cls.cn/detail/2433756",
+          "source": "财联社热门",
           "ranks": [
-            15
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时28分]"
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 19时52分]"
         },
         {
-          "title": "德国大众汽车：大众汽车集团（中国）通过深化与地平线机器人在AI的合作加速L3与L4的发展。L3自动驾驶能力的交付计划最快将于明年下半年开始。",
-          "url": "https://flash.jin10.com/detail/20260722142344692800",
+          "title": "美股盘前要闻一览：Anthropic拟采购最多2吉瓦的AMD最新一代芯片；苹果iPhone18系列已量产；谷歌、特斯拉等Q2财报盘后来袭",
+          "url": "https://api3.cls.cn/share/article/2434275?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
+          "title": "港股明星科网股震荡走低，网易-S(09999.HK)、腾讯控股(00700.HK)双双跌超7%，快手(01024.HK)跌超6%，哔哩哔哩(09626.HK)跌超5%，贝壳(02423.HK)、小米集团(01810.HK)、阿里巴巴(09988.HK)、百度(09888.HK)等个股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260722144058884800",
           "source": "金十数据",
           "ranks": [
-            18
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1388,31 +1651,30 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
+      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
       "match_count": 2,
       "titles": [
         {
-          "title": "新能源6月销量TOP10放榜：纯电“百花齐放”、比亚迪插混市占率超三成 小米新车或搅局增程市场",
-          "url": "https://www.cls.cn/detail/2433756",
-          "source": "财联社热门",
+          "title": "【电报解读】马斯克旗下脑机接口公司估值较上一轮融资大涨近4倍，机构称在多端共振下脑机接口商业化进程进一步提速，这家公司旗下脑机企业产品已获得医疗器械注册证",
+          "url": "https://api3.cls.cn/share/article/2434242?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
           "ranks": [
-            11,
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时59分 ~ 19时52分]"
+          "time_info": "[21时50分 ~ 21时51分]"
         },
         {
-          "title": "港股明星科网股震荡走低，网易-S(09999.HK)、腾讯控股(00700.HK)双双跌超7%，快手(01024.HK)跌超6%，哔哩哔哩(09626.HK)跌超5%，贝壳(02423.HK)、小米集团(01810.HK)、阿里巴巴(09988.HK)、百度(09888.HK)等个股跟跌。",
-          "url": "https://flash.jin10.com/detail/20260722144058884800",
-          "source": "金十数据",
+          "title": "马斯克旗下脑机接口公司Neuralink最新估值突破420亿美元大关",
+          "url": "https://api3.cls.cn/share/article/2433992?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
           "ranks": [
-            9
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时10分"
+          "time_info": "17时59分"
         }
       ]
     },
@@ -1430,6 +1692,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "液冷",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金富科技：公司对液冷板生产基地项目以自筹资金先行投入，积极推动扩产速度，以满足客户快速增长的订单供应需求",
+          "url": "https://flash.jin10.com/detail/20260722214235266800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
         }
       ]
     },
@@ -1481,23 +1760,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克旗下脑机接口公司Neuralink最新估值突破420亿美元大关",
-          "url": "https://api3.cls.cn/share/article/2433992?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
         }
       ]
     },
