@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T09:02:03.705561+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2026-07-23T12:24:44.304039+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "中力股份(603194.SH)：选举陈加华为第三届董事会职工代表董事",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 12时24分]"
         },
         {
           "title": "分析师：电话会进一步证实，特斯拉仍处于“建设模式”，可能会继续如此",
@@ -86,6 +86,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "特斯拉Q2营收大增26%但盈利降18%远逊预期，现金流转负，强调处最大投资阶段丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "特斯拉(TSLA.O)CEO马斯克：预计无人驾驶出租车不会面临任何需求挑战。",
           "url": "https://flash.jin10.com/detail/20260723061025148800",
           "source": "金十数据",
@@ -95,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特斯拉Q2营收超预期但利润失色 资本开支不及目标引发技术担忧",
+          "url": "https://www.cls.cn/detail/2434491",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "马斯克：无法在电话会上评论特斯拉与SpaceX之间潜在的合并问题。",
@@ -191,7 +213,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -205,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "财联社7月23日电，港股明星科网股多数上涨，美团盘中拉升涨近5%，百度、腾讯涨近2%，携程、小米涨超1%。",
+          "url": "https://api3.cls.cn/share/article/2434746?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "特斯拉第二季度营收超预期但盈利不及预期",
@@ -350,6 +383,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "马斯克：FSD是拉动特斯拉汽车需求的核心驱动力",
+          "url": "https://api3.cls.cn/share/article/2434738?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "财联社7月23日电，特斯拉CEO马斯克称，已开始生产半挂卡车。",
           "url": "https://api3.cls.cn/share/article/2434478?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -367,9 +411,152 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
+          "url": "https://wallstreetcn.com/articles/3777699",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 12时24分]"
+        },
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 09时02分]"
+        },
+        {
+          "title": "OpenAI先进模型自主“越狱” 入侵外部平台",
+          "url": "https://www.zaochenbao.com/news/politics/202607/2277048.html",
+          "source": "早报",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 09时02分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet：Gemini APP月活用户数（Maus）达到9.5亿。",
+          "url": "https://wallstreetcn.com/livenews/3138394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "财联社7月22日电，OpenAI表示，将承诺提供300万美元的API支持，用于两项大规模科学活动，以针对重大科学挑战测试前沿模型。",
+          "url": "https://api3.cls.cn/share/article/2434399?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            9,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 04时16分]"
+        },
+        {
+          "title": "梁文锋融资会议52句话",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E8%9E%8D%E8%B5%84%E4%BC%9A%E8%AE%AE52%E5%8F%A5%E8%AF%9D&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "梁文锋四小时投资人会议实录",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E5%9B%9B%E5%B0%8F%E6%97%B6%E6%8A%95%E8%B5%84%E4%BA%BA%E4%BC%9A%E8%AE%AE%E5%AE%9E%E5%BD%95&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "谷歌Pichai：2026年世界杯期间，搜索创历史新高。 Gemini驱动谷歌云增长。 公司看到人工智能（AI）基础设施带来强劲需求。",
+          "url": "https://wallstreetcn.com/livenews/3138405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "OpenAI总裁称赞月之暗面新模型 但不确定是否蒸馏GPT模型",
+          "url": "https://www.zaochenbao.com/news/china/202607/2377081.html",
+          "source": "早报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "财联社7月23日电，Alphabet称Gemini应用有9.5亿月活跃用户。",
+          "url": "https://api3.cls.cn/share/article/2434456?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "谷歌母公司Alphabet：Gemini APP月活用户数（MAUs）达到9.5亿。 （一系列）AI功能正驱动搜索增长。 （众多）Gemini模型现在每分钟处理220亿API Tokens。",
+          "url": "https://wallstreetcn.com/livenews/3138394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         }
       ]
     },
@@ -418,8 +605,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 09时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 12时24分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.55%，暂报2174.29点。 MarketVectorTM数字资产100中盘指数跌0.72%，报2491.90点，亚太午盘持续扩大跌幅。 MarketVector数字资产100指数跌0.31%，报13130点。 目前，Solana涨0.95%，狗狗币跌0.22%，XRP持平。 比特币跌0.32%，暂报66188.99美元；以太坊涨1.31%，暂报1947.90美元。",
@@ -493,7 +680,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -501,11 +688,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 09时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 12时24分]"
         },
         {
           "title": "荣联科技(002642.SZ)：不会参与重资产AI算力项目",
@@ -567,6 +755,17 @@
           "time_info": "[09时01分 ~ 09时02分]"
         },
         {
+          "title": "公司阿克苏算力项目已终止？华孚时尚回应",
+          "url": "https://flash.jin10.com/detail/20260723114851543800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "Alphabet(GOOG.O)首席财务官：鉴于当前算力受限，我们计划在第三季度扩大对第三方算力资源的使用，同时继续建设和扩充内部算力基础设施。",
           "url": "https://flash.jin10.com/detail/20260723050041029800",
           "source": "金十数据",
@@ -602,107 +801,8 @@
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
-          "url": "https://wallstreetcn.com/articles/3777699",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 09时02分]"
-        },
-        {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 09时02分]"
-        },
-        {
-          "title": "OpenAI先进模型自主“越狱” 入侵外部平台",
-          "url": "https://www.zaochenbao.com/news/politics/202607/2277048.html",
-          "source": "早报",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 09时02分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet：Gemini APP月活用户数（Maus）达到9.5亿。",
-          "url": "https://wallstreetcn.com/livenews/3138394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "财联社7月22日电，OpenAI表示，将承诺提供300万美元的API支持，用于两项大规模科学活动，以针对重大科学挑战测试前沿模型。",
-          "url": "https://api3.cls.cn/share/article/2434399?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            9,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时16分]"
-        },
-        {
-          "title": "谷歌Pichai：2026年世界杯期间，搜索创历史新高。 Gemini驱动谷歌云增长。 公司看到人工智能（AI）基础设施带来强劲需求。",
-          "url": "https://wallstreetcn.com/livenews/3138405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "财联社7月23日电，Alphabet称Gemini应用有9.5亿月活跃用户。",
-          "url": "https://api3.cls.cn/share/article/2434456?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "谷歌母公司Alphabet：Gemini APP月活用户数（MAUs）达到9.5亿。 （一系列）AI功能正驱动搜索增长。 （众多）Gemini模型现在每分钟处理220亿API Tokens。",
-          "url": "https://wallstreetcn.com/livenews/3138394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "微创机器人-B(02252.HK)盈喜：预计中期净利润2800万元至4000万元 同比转亏为盈",
@@ -748,65 +848,96 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "广东：上半年工业机器人产品产量同比增长34.2%",
+          "url": "https://wallstreetcn.com/livenews/3138563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 4,
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 5,
       "titles": [
         {
-          "title": "媒体实探英伟达Rubin：数十家客户已拿到测试机架，生产过程比Blackwell顺利，预计明年放量",
-          "url": "https://wallstreetcn.com/articles/3777631",
-          "source": "华尔街见闻",
+          "title": "优步裁减10%客服岗位，称此举旨在“拥抱”人工智能",
+          "url": "https://flash.jin10.com/detail/20260723081221118800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 09时02分]"
-        },
-        {
-          "title": "张瑞雄：台积电千亿美元加码 全球晶片版图再洗牌",
-          "url": "https://www.zaochenbao.com/news/opinion/202607/2377071.html",
-          "source": "早报",
-          "ranks": [
-            5
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 09时02分]"
         },
         {
-          "title": "财联社7月22日电，英伟达股价涨幅达3%，创日内高点。",
-          "url": "https://api3.cls.cn/share/article/2434393?os=web&sv=7.7.5&app=",
+          "title": "上海：鼓励投资机构加大金融科技应用力度 利用人工智能大模型、智能体等技术提升投研能力",
+          "url": "https://api3.cls.cn/share/article/2434791?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            14,
-            25
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 02时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
-          "title": "标普500指数初步收跌大约0.1%，电信板块跌1.1%，科技板块大致持平，能源板块涨1.1%，原材料板块涨1.3%，公用事业板块涨2.2%。 纳斯达克100指数初步收跌0.4%，成分股中，SpaceX初步收跌6.6%，Workday跌6.2%，汤森路透跌3.6%，英特尔跌2.5%，Meta、微软至少跌2%，英伟达涨2.1%，博通涨2.6%，CoreWeave涨4.1%，核电股CEG涨4.8%。 半导体指数涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3138386",
-          "source": "华尔街见闻-快讯",
+          "title": "观点：硅谷为何对中国的人工智能实力感到担忧",
+          "url": "https://www.zaochenbao.com/news/opinion/202607/2377076.html",
+          "source": "早报",
           "ranks": [
-            7
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "财联社7月22日电，亚马逊据悉在通用人工智能部门裁员。",
+          "url": "https://api3.cls.cn/share/article/2434378?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时16分"
+          "time_info": "01时18分"
+        },
+        {
+          "title": "财联社7月22日电，苹果据悉计划对MacBook和iMac进行大规模更新，以顺应人工智能领域的需求。",
+          "url": "https://api3.cls.cn/share/article/2434374?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
         }
       ]
     },
     {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
         {
           "title": "特斯拉(TSLA.O)CEO马斯克：美光以合理条件提供了数量可观的存储芯片配额。",
           "url": "https://flash.jin10.com/detail/20260723060842031800",
@@ -843,41 +974,94 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
+      "keyword_group": "台积电 英伟达",
+      "match_count": 4,
       "titles": [
         {
-          "title": "优步裁减10%客服岗位，称此举旨在“拥抱”人工智能",
-          "url": "https://flash.jin10.com/detail/20260723081221118800",
-          "source": "金十数据",
+          "title": "媒体实探英伟达Rubin：数十家客户已拿到测试机架，生产过程比Blackwell顺利，预计明年放量",
+          "url": "https://wallstreetcn.com/articles/3777631",
+          "source": "华尔街见闻",
           "ranks": [
-            27
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 09时02分]"
         },
         {
-          "title": "财联社7月22日电，亚马逊据悉在通用人工智能部门裁员。",
-          "url": "https://api3.cls.cn/share/article/2434378?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
+          "title": "张瑞雄：台积电千亿美元加码 全球晶片版图再洗牌",
+          "url": "https://www.zaochenbao.com/news/opinion/202607/2377071.html",
+          "source": "早报",
           "ranks": [
+            5,
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 12时24分]"
         },
         {
-          "title": "财联社7月22日电，苹果据悉计划对MacBook和iMac进行大规模更新，以顺应人工智能领域的需求。",
-          "url": "https://api3.cls.cn/share/article/2434374?os=web&sv=7.7.5&app=",
+          "title": "财联社7月22日电，英伟达股价涨幅达3%，创日内高点。",
+          "url": "https://api3.cls.cn/share/article/2434393?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 02时42分]"
+        },
+        {
+          "title": "标普500指数初步收跌大约0.1%，电信板块跌1.1%，科技板块大致持平，能源板块涨1.1%，原材料板块涨1.3%，公用事业板块涨2.2%。 纳斯达克100指数初步收跌0.4%，成分股中，SpaceX初步收跌6.6%，Workday跌6.2%，汤森路透跌3.6%，英特尔跌2.5%，Meta、微软至少跌2%，英伟达涨2.1%，博通涨2.6%，CoreWeave涨4.1%，核电股CEG涨4.8%。 半导体指数涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3138386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国内期货主力合约多数上涨 碳酸锂涨超4%",
+          "url": "https://api3.cls.cn/share/article/2434765?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报145500元/吨，较上日16:30价格上涨3500元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3138564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "财联社7月23日电，广期所碳酸锂主力合约大涨5%，报148480元/吨。",
+          "url": "https://api3.cls.cn/share/article/2434740?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "12时24分"
         }
       ]
     },
@@ -981,6 +1165,34 @@
       ]
     },
     {
+      "keyword_group": "创新药 新药研发 临床三期",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "海思科：创新药琥珀酸思普可泮片获批上市",
+          "url": "https://api3.cls.cn/share/article/2434796?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "海思科(002653.SZ)：创新药琥珀酸思普可泮片获批上市",
+          "url": "https://www.gelonghui.com/news/5273782",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
       "match_count": 2,
       "titles": [
@@ -1050,6 +1262,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 09时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月23日（周四）富时中国A50指数成分股午盘收盘行情一览：半导体、化学制药板块跌幅居前，消费电子板块走高",
+          "url": "https://flash.jin10.com/detail/20260723113434219800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海发展商业航天产业 东海首次发射火箭送九卫星入轨道",
+          "url": "https://www.zaochenbao.com/news/china/202607/2377090.html",
+          "source": "早报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     }
