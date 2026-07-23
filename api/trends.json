@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T05:35:56.180846+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-07-24T06:56:31.776934+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "英特尔 高通",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "英特尔(INTC.O)首席财务官：英特尔已与客户签署长期协议，供应CPU和XPUS处理器。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "英特尔盘后一度涨超13% Q2营收增25%大超预期 指引保持高增",
+          "url": "https://www.gelonghui.com/news/5274525",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "财联社7月24日电，英特尔公司第二季度营收161.3亿美元，预估144.3亿美元。",
@@ -63,28 +74,6 @@
           "time_info": "04时13分"
         },
         {
-          "title": "英特尔CEO：在可预见的未来，供应短缺将继续存在。",
-          "url": "https://wallstreetcn.com/livenews/3139075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "英特尔CEO：在可预见的未来 供应短缺将继续存在",
-          "url": "https://api3.cls.cn/share/article/2435689?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
           "title": "英特尔（INTC.O）2026年第二季度营收161.3亿美元，去年同期为129亿美元，市场预期为144.3亿美元。",
           "url": "https://flash.jin10.com/detail/20260724040101709800",
           "source": "金十数据",
@@ -101,22 +90,94 @@
           "source": "财联社电报",
           "ranks": [
             1,
-            18
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时56分]"
+        },
+        {
+          "title": "英特尔CEO：在可预见的未来，供应短缺将继续存在。",
+          "url": "https://wallstreetcn.com/livenews/3139075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时35分]"
+          "time_info": "[05时35分 ~ 06时56分]"
+        },
+        {
+          "title": "英特尔CEO：在可预见的未来 供应短缺将继续存在",
+          "url": "https://api3.cls.cn/share/article/2435689?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时56分]"
         },
         {
           "title": "英特尔美股盘后涨超13%",
           "url": "https://api3.cls.cn/share/article/2435682?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            12
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时56分]"
+        },
+        {
+          "title": "财联社7月24日电，英特尔首席财务官称，英特尔计划在2027年大幅增加资本支出。",
+          "url": "https://api3.cls.cn/share/article/2435680?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时56分]"
+        },
+        {
+          "title": "英特尔公司第二季度营收161.3亿美元 同比增长25%",
+          "url": "https://api3.cls.cn/share/article/2435675?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时56分]"
+        },
+        {
+          "title": "财联社7月24日电，英特尔首席财务官称，2026年将比2025年多购买40%的芯片制造设备。",
+          "url": "https://api3.cls.cn/share/article/2435696?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时35分"
+          "time_info": "06时56分"
+        },
+        {
+          "title": "财联社7月24日电，英特尔称，2027年的资本开支将显著高于2026年。",
+          "url": "https://api3.cls.cn/share/article/2435695?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "英特尔美股盘后涨幅扩大至12%。",
@@ -125,20 +186,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
         {
-          "title": "财联社7月24日电，英特尔首席财务官称，英特尔计划在2027年大幅增加资本支出。",
-          "url": "https://api3.cls.cn/share/article/2435680?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
+          "title": "英特尔(INTC.O)首席财务官：2026年将比2025年多购买40%的芯片制造设备。",
+          "url": "https://flash.jin10.com/detail/20260724054826717800",
+          "source": "金十数据",
           "ranks": [
-            14
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时35分"
+          "time_info": "06时56分"
         },
         {
           "title": "英特尔CEO：数据中心服务器CPU腾飞。 需求超过供应。",
@@ -147,18 +208,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "英特尔公司第二季度营收161.3亿美元 同比增长25%",
-          "url": "https://api3.cls.cn/share/article/2435675?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -169,7 +219,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -180,7 +230,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -191,38 +241,38 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "英特尔：2027年的资本开支将显著高于2026年。 大部分资金将投放到美国设施。",
+          "url": "https://wallstreetcn.com/livenews/3139083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "英特尔：服务器CPU出现强劲的两位数增幅。",
+          "url": "https://wallstreetcn.com/livenews/3139081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         }
       ]
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "英特尔CFO：人工智能个人电脑业务收入环比增长26%",
-          "url": "https://api3.cls.cn/share/article/2435693?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "英特尔(INTC.O)首席财务官：人工智能个人电脑业务收入环比增长26%，现在占我们客户收入结构的三分之二。",
-          "url": "https://flash.jin10.com/detail/20260724052517417800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
@@ -230,11 +280,12 @@
           "ranks": [
             11,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 06时56分]"
         },
         {
           "title": "外媒综述：中国在人工智能领域彰显自信",
@@ -244,8 +295,32 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 06时56分]"
+        },
+        {
+          "title": "英特尔CFO：人工智能个人电脑业务收入环比增长26%",
+          "url": "https://api3.cls.cn/share/article/2435693?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时56分]"
+        },
+        {
+          "title": "英特尔(INTC.O)首席财务官：人工智能个人电脑业务收入环比增长26%，现在占我们客户收入结构的三分之二。",
+          "url": "https://flash.jin10.com/detail/20260724052517417800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时56分]"
         },
         {
           "title": "财联社7月24日电，AMD CEO苏姿丰在AMD Advancing AI大会上表示，MI450人工智能加速器是业内速度最快的。",
@@ -259,6 +334,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 04时13分]"
+        },
+        {
+          "title": "Stripe据悉正在洽谈收购人工智能模型聚合平台OpenRouter",
+          "url": "https://api3.cls.cn/share/article/2435685?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时56分]"
         },
         {
           "title": "AMD发布Helios人工智能服务器整机柜",
@@ -285,15 +372,15 @@
           "time_info": "[01时22分 ~ 02时46分]"
         },
         {
-          "title": "Stripe据悉正在洽谈收购人工智能模型聚合平台OpenRouter",
-          "url": "https://api3.cls.cn/share/article/2435685?os=web&sv=7.7.5&app=",
+          "title": "新加坡政府投资公司GIC：对人工智能投资采取审慎态度",
+          "url": "https://api3.cls.cn/share/article/2435698?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时35分"
+          "time_info": "06时56分"
         },
         {
           "title": "Cerebras股价现涨超10%，AMD与其合作开发集成芯片的人工智能推理平台。",
@@ -307,15 +394,37 @@
           "time_info": "02时46分"
         },
         {
+          "title": "新加坡政府投资公司GIC：目标是投资人工智能（AI）物理基础设施，包括数据中心所需的电力和电网设施。",
+          "url": "https://flash.jin10.com/detail/20260724055906399800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，Stripe正在洽谈收购人工智能模型聚合平台OpenRouter。",
           "url": "https://flash.jin10.com/detail/20260724045621832800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "新加坡政府投资公司GIC：对人工智能投资采取审慎态度；聚焦先进半导体制造与设计。",
+          "url": "https://flash.jin10.com/detail/20260724055905165800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "惠誉评级：美国信用前景越来越依赖于市场对人工智能投资的信心。",
@@ -354,7 +463,7 @@
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
@@ -366,6 +475,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时22分 ~ 05时35分]"
+        },
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "美国启动车门安全制度的制定工作，特斯拉已经发生多起相关的死亡事故。",
@@ -450,6 +570,17 @@
           "time_info": "[02时46分 ~ 04时13分]"
         },
         {
+          "title": "段永平：十年内大概率不会卖泡泡玛特，计划卖出SpaceX与特斯拉Put",
+          "url": "https://wallstreetcn.com/articles/3777778",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "特斯拉(TSLA.O)跌至盘中低点，现跌超15%。",
           "url": "https://flash.jin10.com/detail/20260724034137097800",
           "source": "金十数据",
@@ -461,13 +592,24 @@
           "time_info": "04时13分"
         },
         {
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
           "url": "https://wallstreetcn.com/livenews/3139060",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -478,9 +620,141 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "领益智造(002600.SZ)：公司控股子公司Readore（立敏达）已经成为北美算力行业头部客户的核心供应商（RVL/AVL）并持续批量交付",
+          "url": "https://www.gelonghui.com/news/5274495",
+          "source": "格隆汇",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 06时56分]"
+        },
+        {
+          "title": "北京：鼓励发展Token（词元）经济，加大算力券等支持力度",
+          "url": "https://www.cls.cn/detail/2435174",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 06时56分]"
+        },
+        {
+          "title": "OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品",
+          "url": "https://api3.cls.cn/share/article/2435645?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时13分]"
+        },
+        {
+          "title": "AMD CEO：与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案",
+          "url": "https://api3.cls.cn/share/article/2435651?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 04时13分]"
+        },
+        {
+          "title": "AMD CEO：Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU",
+          "url": "https://api3.cls.cn/share/article/2435666?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时35分]"
+        },
+        {
+          "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
+          "url": "https://flash.jin10.com/detail/20260724011145043800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "OpenAI基础设施负责人：公司三个月前已开始使用AMD Helios GPU机架。",
+          "url": "https://flash.jin10.com/detail/20260724010957846800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "英特尔(INTC.O)首席财务官：ASIC业务年化营收即将达到20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260724060024469800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "公募AI投资图谱：算力端“吃饱”，应用层“等风”",
+          "url": "https://wallstreetcn.com/livenews/3139099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "AMD(AMD.O)与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案。",
+          "url": "https://flash.jin10.com/detail/20260724014051428800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "AMD(AMD.O)CEO 苏姿丰：Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU。",
+          "url": "https://flash.jin10.com/detail/20260724031248368800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     },
@@ -496,8 +770,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 06时56分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -507,8 +781,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 06时56分]"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -604,117 +878,8 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "领益智造(002600.SZ)：公司控股子公司Readore（立敏达）已经成为北美算力行业头部客户的核心供应商（RVL/AVL）并持续批量交付",
-          "url": "https://www.gelonghui.com/news/5274495",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时35分]"
-        },
-        {
-          "title": "北京：鼓励发展Token（词元）经济，加大算力券等支持力度",
-          "url": "https://www.cls.cn/detail/2435174",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时35分]"
-        },
-        {
-          "title": "OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品",
-          "url": "https://api3.cls.cn/share/article/2435645?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            4,
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 04时13分]"
-        },
-        {
-          "title": "AMD CEO：与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案",
-          "url": "https://api3.cls.cn/share/article/2435651?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 04时13分]"
-        },
-        {
-          "title": "AMD CEO：Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU",
-          "url": "https://api3.cls.cn/share/article/2435666?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时35分]"
-        },
-        {
-          "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
-          "url": "https://flash.jin10.com/detail/20260724011145043800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "OpenAI基础设施负责人：公司三个月前已开始使用AMD Helios GPU机架。",
-          "url": "https://flash.jin10.com/detail/20260724010957846800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "AMD(AMD.O)与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案。",
-          "url": "https://flash.jin10.com/detail/20260724014051428800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "AMD(AMD.O)CEO 苏姿丰：Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU。",
-          "url": "https://flash.jin10.com/detail/20260724031248368800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 美股 美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -724,8 +889,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 06时56分]"
         },
         {
           "title": "特斯拉跌幅扩大至15.2%，刷新日低，S3 Partners董事总经理Ihor Dusaniwsky表示，这轮抛售使得押注特斯拉股价下跌的投资者有望获得大约41.2亿美元的单日盯市(mark-to-market)利润。 SpaceX一度涨1.9%。",
@@ -758,7 +923,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -769,9 +934,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "周五亚太盘初，纳指期货涨0.3%。 目前（美股盘后），科技股英特尔涨4.5%，甲骨文涨2%，AMD涨1.4%，特斯拉反弹1.1%，美光跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3139086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         }
       ]
     },
@@ -829,7 +1005,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Black Forest Labs推出机器人模型 进军物理AI领域",
@@ -854,6 +1030,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时46分]"
+        },
+        {
+          "title": "机器人初创公司Genesis洽谈按30亿美元估值融资大约5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3139092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上半年量价承压 光伏产业链反转拐点或临近",
+          "url": "https://api3.cls.cn/share/article/2435705?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "上半年量价承压，光伏产业链反转拐点或临近",
+          "url": "https://wallstreetcn.com/livenews/3139093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         }
       ]
     },
@@ -899,8 +1114,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 06时56分]"
         }
       ]
     }
