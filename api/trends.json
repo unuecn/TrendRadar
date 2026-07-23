@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T01:22:36.785411+08:00",
-  "total_titles_processed": 238,
+  "generated_at": "2026-07-24T02:46:54.667044+08:00",
+  "total_titles_processed": 289,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -26,30 +26,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
           "url": "https://wallstreetcn.com/livenews/3139011",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
         },
         {
           "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
           "url": "https://wallstreetcn.com/livenews/3139010",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
+        },
+        {
+          "title": "财联社7月24日电，微软正在用自研图像生成模型替代OpenAI的图像模型，应用于PowerPoint和Bing。",
+          "url": "https://api3.cls.cn/share/article/2435634?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
         },
         {
           "title": "OpenAI预计将大规模部署AMD Helios。",
@@ -85,17 +99,6 @@
           "time_info": "01时22分"
         },
         {
-          "title": "财联社7月24日电，微软正在用自研图像生成模型替代OpenAI的图像模型，应用于PowerPoint和Bing。",
-          "url": "https://api3.cls.cn/share/article/2435634?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
           "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
           "url": "https://wallstreetcn.com/livenews/3138991",
           "source": "华尔街见闻-快讯",
@@ -110,51 +113,55 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "财联社7月24日电，AMD CEO苏姿丰在AMD Advancing AI大会上表示，MI450人工智能加速器是业内速度最快的。",
           "url": "https://api3.cls.cn/share/article/2435641?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
         },
         {
           "title": "AMD发布Helios人工智能服务器整机柜",
           "url": "https://api3.cls.cn/share/article/2435639?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
         },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
         },
         {
           "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计人工智能（AI）加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。 MI450 AI加速器是业内速度最快的。 全速生产Helios，即将发货。",
           "url": "https://wallstreetcn.com/livenews/3138999",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
         },
         {
           "title": "外媒综述：中国在人工智能领域彰显自信",
@@ -164,8 +171,30 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
+        },
+        {
+          "title": "Cerebras股价现涨超10%，AMD与其合作开发集成芯片的人工智能推理平台。",
+          "url": "https://flash.jin10.com/detail/20260724014930306800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时46分"
+        },
+        {
+          "title": "惠誉评级：美国信用前景越来越依赖于市场对人工智能投资的信心。",
+          "url": "https://flash.jin10.com/detail/20260724013000206800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         },
         {
           "title": "AMD(AMD.O)发布Helios人工智能服务器整机架。",
@@ -193,7 +222,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "领益智造(002600.SZ)：公司控股子公司Readore（立敏达）已经成为北美算力行业头部客户的核心供应商（RVL/AVL）并持续批量交付",
@@ -203,19 +232,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品",
-          "url": "https://api3.cls.cn/share/article/2435645?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
         },
         {
           "title": "北京：鼓励发展Token（词元）经济，加大算力券等支持力度",
@@ -225,8 +243,31 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
+        },
+        {
+          "title": "AMD CEO：与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案",
+          "url": "https://api3.cls.cn/share/article/2435651?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时46分"
+        },
+        {
+          "title": "OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品",
+          "url": "https://api3.cls.cn/share/article/2435645?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
         },
         {
           "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
@@ -249,12 +290,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "AMD(AMD.O)与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案。",
+          "url": "https://flash.jin10.com/detail/20260724014051428800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         }
       ]
     },
     {
       "keyword_group": "小米 特斯拉 华为",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
@@ -264,8 +316,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
         },
         {
           "title": "美国启动车门安全制度的制定工作，特斯拉已经发生多起相关的死亡事故。",
@@ -286,53 +338,59 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Black Forest Labs推出机器人模型 进军物理AI领域",
-          "url": "https://api3.cls.cn/share/article/2435630?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
         },
         {
-          "title": "Black Forest Labs推出机器人模型，进军物理AI领域",
-          "url": "https://wallstreetcn.com/livenews/3138996",
+          "title": "美国将在特斯拉致死事故后着手制定车门安全新规",
+          "url": "https://wallstreetcn.com/livenews/3139014",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时46分"
         }
       ]
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "财联社7月24日电，摩根士丹利将Alphabet目标价从每股415美元下调至400美元，将苹果目标价从每股360美元上调至364美元。",
+          "url": "https://api3.cls.cn/share/article/2435656?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
         {
           "title": "苹果未能将所有AI语音训练诉讼案归入同一法官审理",
           "url": "https://wallstreetcn.com/livenews/3138995",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
+        },
+        {
+          "title": "摩根士丹利将苹果(AAPL.O)目标价从每股360美元上调至364美元。",
+          "url": "https://flash.jin10.com/detail/20260724020046544800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时46分"
         },
         {
           "title": "xAI：将Grok 4.5投放到苹果公司iOS、安卓、网页、以及X平台。",
@@ -348,6 +406,64 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Black Forest Labs推出机器人模型 进军物理AI领域",
+          "url": "https://api3.cls.cn/share/article/2435630?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
+        },
+        {
+          "title": "Black Forest Labs推出机器人模型，进军物理AI领域",
+          "url": "https://wallstreetcn.com/livenews/3138996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AMD CEO：新款服务器CPU领先基于ARM的芯片 新款EPYC处理器相比英伟达CPU性能提升20%",
+          "url": "https://api3.cls.cn/share/article/2435646?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "AMD的CEO苏姿丰：新款Venice CPU扩大（本公司产品）在行业的领先地位。 全新EPYC架构带来了史上最大幅度的代际性能飞跃。 新款服务器CPU遥遥领先那些基于Arm的芯片。 新款EPYC性能比英伟达CPU高出20%。 Venice全面投产，客户需求强劲。 那些基于Venice的系统将在四季度出现。",
+          "url": "https://wallstreetcn.com/livenews/3139013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 1,
       "titles": [
@@ -359,8 +475,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
         }
       ]
     },
@@ -376,8 +492,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时46分]"
         }
       ]
     }
