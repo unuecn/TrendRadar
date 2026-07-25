@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T16:31:47.312024+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-07-25T18:12:29.556639+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "参考消息",
           "ranks": [
             3,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时12分]"
         },
         {
           "title": "SK集团与英伟达通过一项涵盖人工智能工厂和下一代内存的5000亿美元以上战略合作项目 进一步扩大战略合作",
@@ -48,11 +49,12 @@
           "source": "财联社电报",
           "ranks": [
             3,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时12分]"
         },
         {
           "title": "财联社7月25日电，SK海力士宣布与英伟达建立长期人工智能内存合作伙伴关系。",
@@ -60,11 +62,25 @@
           "source": "财联社电报",
           "ranks": [
             4,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时12分]"
+        },
+        {
+          "title": "财联社7月25日电，韩国科学部称，SK集团将与Anthropic就韩国一个千兆瓦级人工智能数据中心项目进行投资合作。",
+          "url": "https://api3.cls.cn/share/article/2436944?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时12分]"
         },
         {
           "title": "Meta AI应用及Meta.ai的新功能将于7月24日起在部分市场陆续推出",
@@ -77,18 +93,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时55分]"
-        },
-        {
-          "title": "财联社7月25日电，韩国科学部称，SK集团将与Anthropic就韩国一个千兆瓦级人工智能数据中心项目进行投资合作。",
-          "url": "https://api3.cls.cn/share/article/2436944?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 16时31分]"
         },
         {
           "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
@@ -168,6 +172,161 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 11时49分]"
+        },
+        {
+          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://wallstreetcn.com/livenews/3139736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "新闻人间：梁文锋的克制与野心",
+          "url": "https://www.zaochenbao.com/news/china/202607/2577227.html",
+          "source": "早报",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 11时49分]"
+        },
+        {
+          "title": "SpaceX AI：今天我们将把Grok引入Google Workspace。适用于Google Workspace的Grok是一款免费的附加组件。",
+          "url": "https://flash.jin10.com/detail/20260725020808879800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
+          "url": "https://wallstreetcn.com/livenews/3139562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
+          "url": "https://wallstreetcn.com/livenews/3139604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时55分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
+          "url": "https://flash.jin10.com/detail/20260725000422924800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 00时45分]"
+        },
+        {
+          "title": "财联社7月24日电，亚马逊云服务(AWS)表示，OpenAI GPT-5.6 SOL、TERRA和LUNA现已在亚马逊Bedrock上正式上线。",
+          "url": "https://api3.cls.cn/share/article/2436812?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时18分]"
+        },
+        {
+          "title": "韩国总统李在明：我先后会见了Anthropic首席执行官Dario Amodei、OpenAI首席执行官Sam Altman、英伟达首席执行官黄仁勋以及博通首席执行官陈福阳，共同探讨了AI时代的合作与未来发展。",
+          "url": "https://flash.jin10.com/detail/20260725103555536800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
+        },
+        {
+          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://flash.jin10.com/detail/20260725172016965800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
+          "url": "https://wallstreetcn.com/livenews/3139592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA和LUNA现已在亚马逊Bedrock上正式上线。",
+          "url": "https://flash.jin10.com/detail/20260724234329207800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "ChatGPT崩了",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     },
@@ -305,17 +464,6 @@
       "match_count": 11,
       "titles": [
         {
-          "title": "郑丽文：国民党要成为台湾政治的台积电",
-          "url": "https://www.zaochenbao.com/news/taiwan/202607/2577265.html",
-          "source": "早报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
           "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
           "url": "https://www.cls.cn/detail/2436901",
           "source": "财联社热门",
@@ -325,8 +473,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时48分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时48分 ~ 18时12分]"
         },
         {
           "title": "报道称英伟达与SK集团共同推出价值超过5000亿美元的AI计划",
@@ -346,11 +494,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时12分]"
+        },
+        {
+          "title": "郑丽文：国民党要成为台湾政治的台积电",
+          "url": "https://www.zaochenbao.com/news/taiwan/202607/2577265.html",
+          "source": "早报",
+          "ranks": [
+            2,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时17分 ~ 16时31分]"
+          "time_info": "[16时31分 ~ 18时12分]"
         },
         {
           "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
@@ -358,11 +519,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时12分]"
         },
         {
           "title": "财联社7月25日电，据报道，SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
@@ -434,128 +596,6 @@
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 11时49分]"
-        },
-        {
-          "title": "新闻人间：梁文锋的克制与野心",
-          "url": "https://www.zaochenbao.com/news/china/202607/2577227.html",
-          "source": "早报",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 11时49分]"
-        },
-        {
-          "title": "SpaceX AI：今天我们将把Grok引入Google Workspace。适用于Google Workspace的Grok是一款免费的附加组件。",
-          "url": "https://flash.jin10.com/detail/20260725020808879800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
-          "url": "https://wallstreetcn.com/livenews/3139562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
-          "url": "https://wallstreetcn.com/livenews/3139604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时55分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
-          "url": "https://flash.jin10.com/detail/20260725000422924800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
-        },
-        {
-          "title": "财联社7月24日电，亚马逊云服务(AWS)表示，OpenAI GPT-5.6 SOL、TERRA和LUNA现已在亚马逊Bedrock上正式上线。",
-          "url": "https://api3.cls.cn/share/article/2436812?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时18分]"
-        },
-        {
-          "title": "韩国总统李在明：我先后会见了Anthropic首席执行官Dario Amodei、OpenAI首席执行官Sam Altman、英伟达首席执行官黄仁勋以及博通首席执行官陈福阳，共同探讨了AI时代的合作与未来发展。",
-          "url": "https://flash.jin10.com/detail/20260725103555536800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 11时49分]"
-        },
-        {
-          "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
-          "url": "https://wallstreetcn.com/livenews/3139592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA和LUNA现已在亚马逊Bedrock上正式上线。",
-          "url": "https://flash.jin10.com/detail/20260724234329207800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 9,
       "titles": [
@@ -569,8 +609,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 16时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 18时12分]"
         },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -814,11 +854,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时12分]"
         },
         {
           "title": "三星电子宣布与博通公司签署谅解备忘录 涵盖至2030年价值高达2000亿美元的存储芯片、代工服务和先进封装业务",
@@ -826,11 +867,12 @@
           "source": "财联社电报",
           "ranks": [
             5,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时12分]"
         },
         {
           "title": "美股收盘：存储芯片、光通信跌幅居前 特斯拉本周累跌近18%创2022年以来最大单周跌幅",
@@ -881,7 +923,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "3天3箭15星！多颗“算力卫星”入轨，商业航天迈入规模化商用新周期",
@@ -894,6 +936,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时18分 ~ 16时31分]"
+        },
+        {
+          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "据韩国媒体Newsis援引韩国总统顾问：韩国正推进SK电讯、英伟达等合作建设配备200万块GPU的AI数据中心。",
@@ -920,9 +973,61 @@
       ]
     },
     {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "《2026能源产业生态报告》发布 风电光伏装机超越火电",
+          "url": "https://wallstreetcn.com/livenews/3139732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "《2026能源产业生态报告》发布 风电光伏装机超越火电",
+          "url": "https://api3.cls.cn/share/article/2436983?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "《2026能源产业生态报告》发布 风电光伏装机超越火电",
+          "url": "https://flash.jin10.com/detail/20260725163235257800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
       "match_count": 3,
       "titles": [
+        {
+          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
+          "url": "https://www.cls.cn/detail/2436840",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时48分 ~ 18时12分]"
+        },
         {
           "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
           "url": "https://api3.cls.cn/share/article/2436864?os=web&sv=7.7.5&app=",
@@ -948,18 +1053,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时03分 ~ 08时04分]"
-        },
-        {
-          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
-          "url": "https://www.cls.cn/detail/2436840",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时48分 ~ 16时31分]"
         }
       ]
     },
@@ -984,11 +1077,12 @@
           "url": "https://www.zaochenbao.com/news/china/202607/2577258.html",
           "source": "早报",
           "ranks": [
-            9
+            9,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 18时12分]"
         },
         {
           "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
@@ -1015,11 +1109,12 @@
             8,
             9,
             21,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 16时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 18时12分]"
         },
         {
           "title": "小鹏人形机器人已试生产",
@@ -1101,8 +1196,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 16时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 18时12分]"
         }
       ]
     },
@@ -1122,6 +1217,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时55分 ~ 06时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "低空经济 eVTOL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国eVTOL在哈萨克斯坦完成公开飞行",
+          "url": "https://flash.jin10.com/detail/20260725172310602800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     }
