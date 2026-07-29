@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-07-29T18:38:24.737902+08:00",
-  "total_titles_processed": 1186,
-  "failed_sources": [],
+  "generated_at": "2026-07-29T21:01:25.295705+08:00",
+  "total_titles_processed": 1331,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "外交部批日本右翼势力借助人工智能歪曲侵华历史",
@@ -17,6 +19,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "上交所投保专委会三大调研齐发，全面覆盖防非打非、AI应用与纠纷化解",
+          "url": "https://wallstreetcn.com/livenews/3141710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "人工智能相关产品成为中国外贸新名片",
@@ -79,6 +92,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时46分 ~ 15时43分]"
+        },
+        {
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 21时00分]"
+        },
+        {
+          "title": "深圳：加快人工智能与低空飞行、增材制造、脑机接口等技术融合和产品创新",
+          "url": "https://api3.cls.cn/share/article/2440452?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时01分]"
         },
         {
           "title": "外交部批日本右翼势力借助人工智能歪曲侵华历史",
@@ -145,17 +180,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        },
-        {
-          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
-          "url": "https://www.cls.cn/detail/2440260",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
         },
         {
           "title": "SK海力士(SKHY.O)：随着供应紧张缓解和人工智能应用扩展，智能手机和个人电脑的增长势头预计将逐步恢复。",
@@ -263,7 +287,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -293,8 +317,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 18时38分]"
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 21时01分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -306,6 +330,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 03时22分]"
+        },
+        {
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 21时01分]"
         },
         {
           "title": "SK海力士(SKHY.O)：预计下半年的HBM4销售将对下半年的综合平均售价产生积极影响。",
@@ -328,18 +365,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
-          "url": "https://wallstreetcn.com/articles/3778177",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 18时38分]"
         },
         {
           "title": "希捷科技第四财季营收36.5亿美元，分析师预期34.9亿美元。 第四财季调整后每股收益（EPS）为5.71美元，分析师预期5.08美元。 第四财季调整后运营利润率44.6%，分析师预期41.9%。 预计第一财季营收40亿-42亿美元，分析师预期37.9亿美元。 受希捷科技财报提振，美股存储芯片概念股盘后走高，西部数据涨6.5%，SK海力士ADR涨2.5%，美光科技涨0.8%，闪迪涨1%，希捷科技一度涨9%。",
@@ -635,6 +660,151 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 15时43分]"
+        },
+        {
+          "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2439030",
+          "source": "财联社",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 07时31分]"
+        },
+        {
+          "title": "证通电子(002197.SZ)：推理算力会成为行业中长期需求增长的驱动力",
+          "url": "https://www.gelonghui.com/news/5276509",
+          "source": "格隆汇",
+          "ranks": [
+            5,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 09时02分]"
+        },
+        {
+          "title": "【数据看盘】超20亿元资金涌入算力硬件龙头，北一环路席位1.79亿元买入岩山科技",
+          "url": "https://www.cls.cn/detail/2439091",
+          "source": "财联社",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 06时04分]"
+        },
+        {
+          "title": "【电报解读】交期无法保证！两大巨头宣布最高涨价30%，机构称AI算力需求加速释放，高端MLCC“涨价+锁产能”逻辑将持续强化，这家公司已实现MLCC产品全规格量产",
+          "url": "https://api3.cls.cn/share/article/2440438?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时01分]"
+        },
+        {
+          "title": "联电业绩亮眼且上调资本开支 AI订单从GPU外溢至成熟制程",
+          "url": "https://api3.cls.cn/share/article/2440446?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时01分]"
+        },
+        {
+          "title": "【机构调研】这家再生铜龙头高精密异型无氧铜排产品已应用于多款顶级GPU散热方案中",
+          "url": "https://api3.cls.cn/share/article/2440425?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时01分]"
+        },
+        {
+          "title": "AI算力需求催热上半年业绩 MLCC产业链高景气度下半年将延续",
+          "url": "https://api3.cls.cn/share/article/2439540?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "SK海力士：二季度已经开始大规模发货HBM4。 下半年将开始加速生产HBM4。 Socamm2的二季度销售增速非常显著。",
+          "url": "https://wallstreetcn.com/livenews/3141235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "AI算力需求催热上半年业绩，行业人士称MLCC产业链高景气度下半年将延续",
+          "url": "https://wallstreetcn.com/livenews/3141230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "行云科技：VB客户与深圳行云签订了《补充协议》，约定由深圳行云提供的算力服务单元数翻倍，由原协议约定的128个单元增加到256个单元，同时也增加了单位算力服务费，对应算力服务费用总金额调整至30.53亿元，较原签约协议金额提升201.14%。",
+          "url": "https://wallstreetcn.com/livenews/3141680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "【掘金行业龙头】端侧SoC+芯片，新一代AI眼镜芯片进入验证环节，发布了控制型机器人芯片，已完成多档位高性能处理器布局，这家公司积极推动智能终端向“+AI”方向迭代升级",
+          "url": "https://api3.cls.cn/share/article/2439827?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 8,
       "titles": [
@@ -644,11 +814,24 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 18时38分]"
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 21时01分]"
+        },
+        {
+          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 21时01分]"
         },
         {
           "title": "周二（7月28日），美股行业ETF多数收涨，全球航空业ETF涨2.87%，医疗业ETF涨2.38%，网络股指数ETF涨1.59%，能源业ETF跌1.35%，科技行业ETF跌1.84%，全球科技股指数ETF跌2.08%，半导体ETF跌3.45%。 标普500指数的11个板块中，保健板块涨2.33%，原材料、电信板块至少涨1.64%，信息技术/科技板块跌1.17%，能源板块跌1.4%。",
@@ -687,17 +870,6 @@
           "time_info": "[01时54分 ~ 03时22分]"
         },
         {
-          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
-          "url": "https://wallstreetcn.com/articles/3778176",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
           "title": "WTI原油期货跌幅扩大至4%，跌穿79.30美元。美国国债价格涨幅扩大，收益率普遍跌4-6个基点。标普涨超0.3%，道指涨超1.1%，纳指跌0.1%，纳斯达克100指数仍然跌约0.8%，半导体指数目前跌超4.3%。 据媒体报道，在内塔尼亚胡与特朗普会晤之前，调解方认为已接近达成突破性协议，有望重启美国与伊朗上个月签署的谅解备忘录。",
           "url": "https://wallstreetcn.com/livenews/3141109",
           "source": "华尔街见闻-快讯",
@@ -733,110 +905,21 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 15时43分]"
-        },
-        {
-          "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2439030",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 07时31分]"
-        },
-        {
-          "title": "证通电子(002197.SZ)：推理算力会成为行业中长期需求增长的驱动力",
-          "url": "https://www.gelonghui.com/news/5276509",
-          "source": "格隆汇",
-          "ranks": [
-            5,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 09时02分]"
-        },
-        {
-          "title": "【数据看盘】超20亿元资金涌入算力硬件龙头，北一环路席位1.79亿元买入岩山科技",
-          "url": "https://www.cls.cn/detail/2439091",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时04分]"
-        },
-        {
-          "title": "AI算力需求催热上半年业绩 MLCC产业链高景气度下半年将延续",
-          "url": "https://api3.cls.cn/share/article/2439540?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "SK海力士：二季度已经开始大规模发货HBM4。 下半年将开始加速生产HBM4。 Socamm2的二季度销售增速非常显著。",
-          "url": "https://wallstreetcn.com/livenews/3141235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "AI算力需求催热上半年业绩，行业人士称MLCC产业链高景气度下半年将延续",
-          "url": "https://wallstreetcn.com/livenews/3141230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "【掘金行业龙头】端侧SoC+芯片，新一代AI眼镜芯片进入验证环节，发布了控制型机器人芯片，已完成多档位高性能处理器布局，这家公司积极推动智能终端向“+AI”方向迭代升级",
-          "url": "https://api3.cls.cn/share/article/2439827?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 8,
       "titles": [
+        {
+          "title": "美方限制进口“先进机器人设备”，外交部回应",
+          "url": "https://www.cls.cn/detail/2440070",
+          "source": "财联社",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 21时00分]"
+        },
         {
           "title": "外交部回应美国实施先进机器人进口限制",
           "url": "https://wallstreetcn.com/livenews/3141530",
@@ -849,24 +932,13 @@
           "time_info": "15时43分"
         },
         {
-          "title": "美方限制进口“先进机器人设备”，外交部回应",
-          "url": "https://www.cls.cn/detail/2440070",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
           "title": "豪能股份：拟投资建设机器人关节减速器生产基地项目 项目计划投资10亿元",
           "url": "https://api3.cls.cn/share/article/2440343?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -899,7 +971,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -929,12 +1001,12 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【焦点复盘】双创指数均大跌超6%，英伟达产业链全线退潮，银行等红利股获逆势抱团",
           "url": "https://www.cls.cn/detail/2439100",
-          "source": "财联社热门",
+          "source": "财联社",
           "ranks": [
             6,
             5,
@@ -947,7 +1019,7 @@
         {
           "title": "三天传出多笔大交易 ：英伟达进入“左手出资、右手卖芯片”的循环局？",
           "url": "https://www.cls.cn/detail/2439094",
-          "source": "财联社热门",
+          "source": "财联社",
           "ranks": [
             9,
             8,
@@ -960,7 +1032,7 @@
         {
           "title": "日本熊本突发7.1级地震 台积电工厂已疏散员工",
           "url": "https://www.cls.cn/detail/2439121",
-          "source": "财联社热门",
+          "source": "财联社",
           "ranks": [
             12,
             11,
@@ -991,6 +1063,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 07时31分]"
+        },
+        {
+          "title": "美媒：月之暗面寻求更多英伟达先进晶片 训练下代模型",
+          "url": "https://www.zaochenbao.com/news/china/202607/2977582.html",
+          "source": "早报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时01分]"
         },
         {
           "title": "财联社7月29日电，据报道，英伟达CEO黄仁勋与美国商务部长卢特尼克会面。",
@@ -1064,7 +1147,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -1093,75 +1176,13 @@
       ]
     },
     {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "标准落地即行动！光伏行业价格合规指导活动在即 统一成本核算“红绿灯”亮起",
-          "url": "https://www.cls.cn/detail/2439979",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "光伏行业价格合规指导活动定于7月31日开展",
-          "url": "https://flash.jin10.com/detail/20260729152911787800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 15时43分]"
-        },
-        {
-          "title": "光伏逆变器供应商Enphase二季度营收2.919亿美元，分析师预期2.921亿美元。 二季度资本开支1440万美元，分析师预期1410万美元。",
-          "url": "https://wallstreetcn.com/livenews/3141185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时04分]"
-        },
-        {
-          "title": "知情人士：中国市监总局将启动光伏行业价格合规指导活动",
-          "url": "https://www.zaochenbao.com/news/china/202607/2977570.html",
-          "source": "早报",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "独家|知情人士：市场监管总局将开展光伏行业价格合规指导活动",
-          "url": "https://api3.cls.cn/share/article/2439864?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "一图看懂 | 苹果重夺全球市值“王座”，股价年内大涨超24%",
           "url": "https://www.cls.cn/detail/2439005",
-          "source": "财联社热门",
+          "source": "财联社",
           "ranks": [
             5,
             4
@@ -1204,6 +1225,17 @@
           "time_info": "09时02分"
         },
         {
+          "title": "比亚迪：公司闪充技术及一众车型发布以来，订单饱满",
+          "url": "https://wallstreetcn.com/livenews/3141691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "比亚迪在日本推出电动微型车 以提高品牌知名度",
           "url": "https://www.zaochenbao.com/news/china/202607/2977517.html",
           "source": "早报",
@@ -1213,6 +1245,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "标准落地即行动！光伏行业价格合规指导活动在即 统一成本核算“红绿灯”亮起",
+          "url": "https://www.cls.cn/detail/2439979",
+          "source": "财联社",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 21时00分]"
+        },
+        {
+          "title": "光伏行业价格合规指导活动定于7月31日开展",
+          "url": "https://flash.jin10.com/detail/20260729152911787800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "光伏逆变器供应商Enphase二季度营收2.919亿美元，分析师预期2.921亿美元。 二季度资本开支1440万美元，分析师预期1410万美元。",
+          "url": "https://wallstreetcn.com/livenews/3141185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时04分]"
+        },
+        {
+          "title": "知情人士：中国市监总局将启动光伏行业价格合规指导活动",
+          "url": "https://www.zaochenbao.com/news/china/202607/2977570.html",
+          "source": "早报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "独家|知情人士：市场监管总局将开展光伏行业价格合规指导活动",
+          "url": "https://api3.cls.cn/share/article/2439864?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         }
       ]
     },
@@ -1251,7 +1346,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         }
@@ -1264,7 +1359,7 @@
         {
           "title": "美国精简商业航天审批流程 希捷、海力士最新财报出炉 | 环球市场",
           "url": "https://www.cls.cn/detail/2439568",
-          "source": "财联社热门",
+          "source": "财联社",
           "ranks": [
             10,
             8,
@@ -1349,7 +1444,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         }
