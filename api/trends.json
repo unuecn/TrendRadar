@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T11:56:48.547614+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-07-30T14:28:30.606145+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "财联社7月30日电，OpenAI首席执行官萨姆·奥尔特曼与美国立法者讨论新AI模型。",
@@ -174,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "OpenAI前员工创立的对冲基金寻求新资金，因AI股大跌承压",
+          "url": "https://wallstreetcn.com/livenews/3142156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
@@ -190,11 +201,12 @@
             15,
             12,
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 11时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 14时28分]"
         },
         {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
@@ -260,11 +272,12 @@
           "source": "早报",
           "ranks": [
             8,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 14时28分]"
         },
         {
           "title": "财联社7月30日电，美国总统特朗普表示，正在关注关于人工智能的监管问题。",
@@ -320,6 +333,101 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "财报公布后，Meta Platforms(META.O)现跌6%，微软(MSFT.O)涨3%，高通(QCOM.O)跌4.6%。",
+          "url": "https://flash.jin10.com/detail/20260730043303102800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 04时55分]"
+        },
+        {
+          "title": "高通宣布9月1日起涨价 微软下调资本支出指引 | 环球市场",
+          "url": "https://www.cls.cn/detail/2440799",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 14时28分]"
+        },
+        {
+          "title": "高通第三季度经调整营收99.5亿美元 同比下降4%",
+          "url": "https://api3.cls.cn/share/article/2440703?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 04时55分]"
+        },
+        {
+          "title": "高通(QCOM.O)：2026财年，内存价格史无前例的上涨和供应短缺给全球智能手机行业带来了周期性逆风。",
+          "url": "https://flash.jin10.com/detail/20260730040737662800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 04时55分]"
+        },
+        {
+          "title": "高通(QCOM.O)：预计短期内，包括数据中心在内的非手机业务收入增长率将从2026财年的24%加速至2027财年的60%以上。",
+          "url": "https://flash.jin10.com/detail/20260730040645387800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 04时55分]"
+        },
+        {
+          "title": "财联社7月30日电，消息人士称，英特尔已向由联合投资人运营的新创公司RosaicLabs提供部分技术访问权限。",
+          "url": "https://api3.cls.cn/share/article/2440765?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "TD Cowen：将高通目标价下调至175美元",
+          "url": "https://www.gelonghui.com/news/5277272",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "高通预计第四财季营收97亿-105亿美元，分析师预期99.5亿美元。1-9月资本开支15.8亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3141892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         }
       ]
     },
@@ -407,89 +515,6 @@
       ]
     },
     {
-      "keyword_group": "英特尔 高通",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "财报公布后，Meta Platforms(META.O)现跌6%，微软(MSFT.O)涨3%，高通(QCOM.O)跌4.6%。",
-          "url": "https://flash.jin10.com/detail/20260730043303102800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 04时55分]"
-        },
-        {
-          "title": "高通第三季度经调整营收99.5亿美元 同比下降4%",
-          "url": "https://api3.cls.cn/share/article/2440703?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 04时55分]"
-        },
-        {
-          "title": "高通(QCOM.O)：2026财年，内存价格史无前例的上涨和供应短缺给全球智能手机行业带来了周期性逆风。",
-          "url": "https://flash.jin10.com/detail/20260730040737662800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 04时55分]"
-        },
-        {
-          "title": "高通(QCOM.O)：预计短期内，包括数据中心在内的非手机业务收入增长率将从2026财年的24%加速至2027财年的60%以上。",
-          "url": "https://flash.jin10.com/detail/20260730040645387800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 04时55分]"
-        },
-        {
-          "title": "财联社7月30日电，消息人士称，英特尔已向由联合投资人运营的新创公司RosaicLabs提供部分技术访问权限。",
-          "url": "https://api3.cls.cn/share/article/2440765?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "高通宣布9月1日起涨价 微软下调资本支出指引 | 环球市场",
-          "url": "https://www.cls.cn/detail/2440799",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "高通预计第四财季营收97亿-105亿美元，分析师预期99.5亿美元。1-9月资本开支15.8亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3141892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
       "match_count": 6,
       "titles": [
@@ -511,7 +536,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -522,7 +547,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -555,7 +580,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         }
@@ -563,7 +588,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国管控机器人和逆变器进口 中美科技博弈领域再拓宽",
@@ -594,11 +619,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202607/3077629.html",
           "source": "早报",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 14时28分]"
         },
         {
           "title": "雷军晒小米机器人工作视频",
@@ -611,6 +637,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 11时56分]"
+        },
+        {
+          "title": "美方限制进口“先进机器人设备”，外交部：保护主义提升不了美国竞争力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33681759",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "【点金互动易】传感器+机器视觉，深度视觉传感器适配全自动机器人，与蚂蚁灵波联合打造无本体数据采集平台，这家公司全面布局六大3D视觉感知技术路线",
@@ -634,11 +671,12 @@
           "url": "https://www.zaochenbao.com/news/china/202607/3077628.html",
           "source": "早报",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 14时28分]"
         },
         {
           "title": "高通(QCOM.O)：预计2027财年非手机业务收入的同比增长额将超过2026财年苹果产品总收入。",
@@ -676,47 +714,8 @@
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，集运欧线、菜粕、纯碱、铁矿石跌超2%，氧化铝、玻璃跌近2%，碳酸锂、硅铁、聚氯乙烯（PVC）跌超1%。涨幅方面，乙二醇（EG）涨近4%，SC原油涨超3%，低硫燃料油（LU）涨近2%，瓶片、短纤、燃料油、对二甲苯、沪铝、PTA涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260730113102956800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报146050元/吨，较上日16:30价格上涨250元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3142095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "财联社7月30日电，数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨250元/吨，中间价报146050元/吨。",
-          "url": "https://api3.cls.cn/share/article/2441016?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "SK海力士Q2利润暴增六倍仍“未达标”，与10家客户敲定长协，HBM4下半年将加速放量｜财报见闻",
@@ -739,6 +738,84 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时50分 ~ 08时55分]"
+        },
+        {
+          "title": "A股存储芯片概念震荡回升，德明利午后涨停，佰维存储、江波龙、盈方微、普冉股份等快速冲高。",
+          "url": "https://wallstreetcn.com/livenews/3142160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，集运欧线、菜粕、纯碱、铁矿石跌超2%，氧化铝、玻璃跌近2%，碳酸锂、硅铁、聚氯乙烯（PVC）跌超1%。涨幅方面，乙二醇（EG）涨近4%，SC原油涨超3%，低硫燃料油（LU）涨近2%，瓶片、短纤、燃料油、对二甲苯、沪铝、PTA涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260730113102956800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报146050元/吨，较上日16:30价格上涨250元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3142095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "财联社7月30日电，数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨250元/吨，中间价报146050元/吨。",
+          "url": "https://api3.cls.cn/share/article/2441016?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米澎程实车内饰曝光",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%AE%9E%E8%BD%A6%E5%86%85%E9%A5%B0%E6%9B%9D%E5%85%89&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨1.7%。 热门中概股里，新东方初步收涨14.7%，小米涨8.1%，理想涨4.6%，拼多多、腾讯涨3.2%，B站、小鹏涨超2%，网易涨1.8%，日月光半导体跌6.8%。 ETF中，KWEB初步收涨1.8%，CQQQ涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3141891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         }
       ]
     },
@@ -782,8 +859,42 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 14时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "财联社7月30日电，三星SDI据悉将于2027年启动全固态电池量产。",
+          "url": "https://api3.cls.cn/share/article/2441182?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三星SDI将于10月开始在美国生产储能电池。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3142159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
@@ -815,7 +926,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         }
@@ -835,23 +946,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收涨1.7%。 热门中概股里，新东方初步收涨14.7%，小米涨8.1%，理想涨4.6%，拼多多、腾讯涨3.2%，B站、小鹏涨超2%，网易涨1.8%，日月光半导体跌6.8%。 ETF中，KWEB初步收涨1.8%，CQQQ涨0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3141891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
         }
       ]
     }
