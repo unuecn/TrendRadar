@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T08:55:40.819984+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-07-30T11:56:48.547614+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
@@ -171,7 +171,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
@@ -189,11 +189,12 @@
             17,
             15,
             12,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 08时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 11时56分]"
         },
         {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
@@ -254,6 +255,18 @@
           "time_info": "[03时53分 ~ 04时55分]"
         },
         {
+          "title": "中国开源人工智能模型快速进步加剧硅谷分歧",
+          "url": "https://www.zaochenbao.com/news/politics/202607/3077612.html",
+          "source": "早报",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 11时56分]"
+        },
+        {
           "title": "财联社7月30日电，美国总统特朗普表示，正在关注关于人工智能的监管问题。",
           "url": "https://api3.cls.cn/share/article/2440696?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -287,24 +300,13 @@
           "time_info": "03时53分"
         },
         {
-          "title": "中国开源人工智能模型快速进步加剧硅谷分歧",
-          "url": "https://www.zaochenbao.com/news/politics/202607/3077612.html",
-          "source": "早报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
           "title": "三星电子：内存业务预计将迎来强劲需求，主要来自于持续的人工智能基础设施资本支出和更广泛的自主人工智能应用。",
           "url": "https://flash.jin10.com/detail/20260730075427117800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -406,7 +408,7 @@
     },
     {
       "keyword_group": "英特尔 高通",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "财报公布后，Meta Platforms(META.O)现跌6%，微软(MSFT.O)涨3%，高通(QCOM.O)跌4.6%。",
@@ -464,6 +466,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "高通宣布9月1日起涨价 微软下调资本支出指引 | 环球市场",
+          "url": "https://www.cls.cn/detail/2440799",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "高通预计第四财季营收97亿-105亿美元，分析师预期99.5亿美元。1-9月资本开支15.8亿美元。",
           "url": "https://wallstreetcn.com/livenews/3141892",
           "source": "华尔街见闻-快讯",
@@ -477,8 +490,80 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "三星电子：System LSI业务已获得下一代旗舰SOC的订单，预计组件成本上升和消费者需求疲软将持续。",
+          "url": "https://flash.jin10.com/detail/20260730075739260800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "创业板指、科创50均跌超5%，沪指跌0.85%，深成指跌3.11%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股超2600只。",
+          "url": "https://wallstreetcn.com/livenews/3142105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "【盘中宝】可为能源转型与AI算力提供关键电力，谷歌、微软等科技巨头纷纷布局该领域，这家公司已为相关项目交付零部件产品",
+          "url": "https://api3.cls.cn/share/article/2441015?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "微软(MSFT.O)首席财务官：云业务收入增长得益于新算力的提前交付；新增算力容量已迅速实现货币化。",
+          "url": "https://flash.jin10.com/detail/20260730060055866800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "Meta：根本就不接近获得足够算力来满足需求。 通过出售全部算力来换取短期利润是愚蠢的行为。",
+          "url": "https://wallstreetcn.com/livenews/3141922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "创业板指、科创50均跌超4%，沪指跌0.38%，深成指跌2.43%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股近2500只。",
+          "url": "https://wallstreetcn.com/livenews/3142087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国管控机器人和逆变器进口 中美科技博弈领域再拓宽",
@@ -505,15 +590,27 @@
           "time_info": "[00时50分 ~ 04时55分]"
         },
         {
+          "title": "美国管控机器人进口 中国商务部：若一意孤行将予以反制",
+          "url": "https://www.zaochenbao.com/news/politics/202607/3077629.html",
+          "source": "早报",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "雷军晒小米机器人工作视频",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%92%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 11时56分]"
         },
         {
           "title": "【点金互动易】传感器+机器视觉，深度视觉传感器适配全自动机器人，与蚂蚁灵波联合打造无本体数据采集平台，这家公司全面布局六大3D视觉感知技术路线",
@@ -522,55 +619,27 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "三星电子：System LSI业务已获得下一代旗舰SOC的订单，预计组件成本上升和消费者需求疲软将持续。",
-          "url": "https://flash.jin10.com/detail/20260730075739260800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "微软(MSFT.O)首席财务官：云业务收入增长得益于新算力的提前交付；新增算力容量已迅速实现货币化。",
-          "url": "https://flash.jin10.com/detail/20260730060055866800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "Meta：根本就不接近获得足够算力来满足需求。 通过出售全部算力来换取短期利润是愚蠢的行为。",
-          "url": "https://wallstreetcn.com/livenews/3141922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
+          "time_info": "08时55分"
         }
       ]
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美议员警告苹果勿采购长鑫科技和长江存储内存晶片",
+          "url": "https://www.zaochenbao.com/news/china/202607/3077628.html",
+          "source": "早报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
         {
           "title": "高通(QCOM.O)：预计2027财年非手机业务收入的同比增长额将超过2026财年苹果产品总收入。",
           "url": "https://flash.jin10.com/detail/20260730040750177800",
@@ -603,6 +672,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，集运欧线、菜粕、纯碱、铁矿石跌超2%，氧化铝、玻璃跌近2%，碳酸锂、硅铁、聚氯乙烯（PVC）跌超1%。涨幅方面，乙二醇（EG）涨近4%，SC原油涨超3%，低硫燃料油（LU）涨近2%，瓶片、短纤、燃料油、对二甲苯、沪铝、PTA涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260730113102956800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报146050元/吨，较上日16:30价格上涨250元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3142095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "财联社7月30日电，数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨250元/吨，中间价报146050元/吨。",
+          "url": "https://api3.cls.cn/share/article/2441016?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         }
       ]
     },
@@ -673,9 +781,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 11时56分]"
         }
       ]
     },
@@ -697,6 +805,23 @@
       ]
     },
     {
+      "keyword_group": "消费电子 智能穿戴 智能座舱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月30日（周四）富时中国A50指数成分股午盘收盘行情一览：银行、保险、煤炭板块飘红，半导体、通信设备、消费电子板块飘绿",
+          "url": "https://flash.jin10.com/detail/20260730113254467800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
       "match_count": 1,
       "titles": [
@@ -707,7 +832,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
