@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T00:59:07.249139+08:00",
-  "total_titles_processed": 234,
+  "generated_at": "2026-08-02T02:03:58.170011+08:00",
+  "total_titles_processed": 271,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时03分]"
         },
         {
           "title": "比亚迪7月销量连续第三个月增长 海外销量创新高",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时03分]"
         },
         {
           "title": "苹果大跌近10%，第四财季营收指引低于预期",
@@ -62,11 +62,12 @@
           "url": "https://api3.cls.cn/share/article/2443345?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时03分]"
         },
         {
           "title": "亚马逊登顶《财富》世界500强 亚洲人工智能产业强势崛起",
@@ -76,8 +77,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时03分]"
         },
         {
           "title": "人工智能助力直肠癌个性化化疗",
@@ -86,9 +87,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时03分]"
         }
       ]
     },
@@ -104,8 +105,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时03分]"
         },
         {
           "title": "据阿拉伯卫星电视台：黎巴嫩南部的巴尼哈扬镇遭到炮击。",
@@ -131,20 +132,55 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时03分]"
         },
         {
           "title": "伊利集团董事长潘刚：联合英伟达、腾讯等启动乳业数纽中心建设",
           "url": "https://api3.cls.cn/share/article/2443373?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新材料 碳化硅 液态金属 气凝胶 钴酸锂",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "豫光金铅(600531)：铅铜冶炼为盾 高纯稀贵金属及新材料为矛",
+          "url": "https://www.gelonghui.com/news/5278771",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "信义光能(00968.HK)：20261H业绩符合预期 静待光伏玻璃产能出清",
+          "url": "https://www.gelonghui.com/news/5278770",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         }
       ]
     }
