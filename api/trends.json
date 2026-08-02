@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T10:53:19.536906+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-08-02T13:57:45.013415+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "人工智能助力直肠癌个性化化疗",
@@ -45,43 +45,56 @@
           "time_info": "[00时58分 ~ 03时44分]"
         },
         {
+          "title": "中国人工智能模型快速崛起，但企业如何赚钱？",
+          "url": "https://www.zaochenbao.com/news/china/202608/0277836.html",
+          "source": "早报",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 13时57分]"
+        },
+        {
           "title": "Visa(V.N)计划裁员2600人，因人工智能应用和成本削减推动重组。",
           "url": "https://flash.jin10.com/detail/20260802094512188800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
         {
-          "title": "中国人工智能模型快速崛起，但企业如何赚钱？",
-          "url": "https://www.zaochenbao.com/news/china/202608/0277836.html",
-          "source": "早报",
+          "title": "山东：力争3年内集聚万名人工智能OPC创新人才",
+          "url": "https://api3.cls.cn/share/article/2443450?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
           "ranks": [
-            15
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时53分"
+          "time_info": "13时57分"
         }
       ]
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Google Earth能制造假卫星图 谷歌紧急撤下AI功能",
           "url": "https://www.zaochenbao.com/news/politics/202608/0277849.html",
           "source": "早报",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 13时57分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
@@ -90,9 +103,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "【电报解读】超聚变AI Lab平台上线DeepSeek-V4-Flash正式版，机构测评显示其在自有API上的单任务成本比GPT-5.6 Luna低60%，这家公司正推进DeepSeek的商业价值落地",
+          "url": "https://api3.cls.cn/share/article/2443389?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "OpenAI：失控AI曾试图入侵其他公司系统",
@@ -101,7 +125,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -115,6 +139,63 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特朗普媒体公司推出了Truth API，该付费服务​​使订阅用户可以比普通用户更早实时访问“真相社交媒体”（Truth Social）上的帖子。该服务每月费用高达10万美元，主要面向交易公司和企业。",
+          "url": "https://flash.jin10.com/detail/20260802044624523800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时57分]"
+        },
+        {
+          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+          "url": "https://wallstreetcn.com/articles/3778497",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时55分 ~ 13时57分]"
+        },
+        {
+          "title": "【电报解读】长三角（嘉兴）Token运营中心正式启动，机构看好算力租赁企业有望实现向下游Token运营服务的战略性延伸，这家公司已验收供应商交付的算力服务器对应算力规模约5万P",
+          "url": "https://api3.cls.cn/share/article/2443470?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
+          "url": "https://flash.jin10.com/detail/20260802021650818800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            21,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 07时57分]"
         }
       ]
     },
@@ -170,47 +251,43 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 3,
       "titles": [
         {
-          "title": "特朗普媒体公司推出了Truth API，该付费服务​​使订阅用户可以比普通用户更早实时访问“真相社交媒体”（Truth Social）上的帖子。该服务每月费用高达10万美元，主要面向交易公司和企业。",
-          "url": "https://flash.jin10.com/detail/20260802044624523800",
-          "source": "金十数据",
+          "title": "外媒：中国商业航天正以“惊人”速度发展",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/08/01/98d1545f7e154e4b879e9b1296696bbc.html",
+          "source": "参考消息",
           "ranks": [
-            2,
-            5
+            14,
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时55分 ~ 07时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 13时57分]"
         },
         {
-          "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
-          "url": "https://flash.jin10.com/detail/20260802021650818800",
-          "source": "金十数据",
+          "title": "中美俄的太空攻防战：卫星如何成为现代战争的第一击？",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0277859.html",
+          "source": "早报",
           "ranks": [
-            12,
-            21,
-            23,
-            26
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时44分 ~ 07时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
-          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
-          "url": "https://wallstreetcn.com/articles/3778497",
-          "source": "华尔街见闻",
+          "title": "据阿拉伯卫星电视台：黎巴嫩南部的巴尼哈扬镇遭到炮击。",
+          "url": "https://flash.jin10.com/detail/20260801210123885800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            6,
-            3
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 10时53分]"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 00时59分]"
         }
       ]
     },
@@ -243,31 +320,30 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "keyword_group": "小米 特斯拉 华为",
       "match_count": 2,
       "titles": [
         {
-          "title": "外媒：中国商业航天正以“惊人”速度发展",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/08/01/98d1545f7e154e4b879e9b1296696bbc.html",
-          "source": "参考消息",
+          "title": "小米多款手机今起正式涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E4%BB%8A%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            14,
-            18
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 10时53分]"
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
-          "title": "据阿拉伯卫星电视台：黎巴嫩南部的巴尼哈扬镇遭到炮击。",
-          "url": "https://flash.jin10.com/detail/20260801210123885800",
-          "source": "金十数据",
+          "title": "小米手机涨价300到500元",
+          "url": "https://api3.cls.cn/share/article/2443465?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
           "ranks": [
-            18
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         }
       ]
     },
@@ -282,11 +358,12 @@
           "ranks": [
             5,
             7,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 10时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 13时57分]"
         },
         {
           "title": "伊利集团董事长潘刚：联合英伟达、腾讯等启动乳业数纽中心建设",
@@ -336,7 +413,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         }
@@ -352,11 +429,12 @@
           "source": "格隆汇",
           "ranks": [
             3,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时03分 ~ 10时53分]"
+          "appearance_count": 8,
+          "time_info": "[02时03分 ~ 13时57分]"
         }
       ]
     },
@@ -370,28 +448,12 @@
           "source": "格隆汇",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时03分 ~ 10时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米多款手机今起正式涨价",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E4%BB%8A%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 8,
+          "time_info": "[02时03分 ~ 13时57分]"
         }
       ]
     }
