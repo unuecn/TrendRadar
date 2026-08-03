@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T00:25:19.562311+08:00",
-  "total_titles_processed": 235,
+  "generated_at": "2026-08-04T02:30:47.238834+08:00",
+  "total_titles_processed": 318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "亚马逊云计算部门AWS的CEO Matt Garman：人工智能（AI）业务从训练转向推理。 AI实验室、初创公司、企业推动AWS销售增长。 AI业务的潜在规模“极其庞大”。（彭博电视）",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "财联社8月4日电，据报道，Meta Platforms将于明天参加白宫的人工智能会议。",
+          "url": "https://api3.cls.cn/share/article/2444623?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时30分"
+        },
+        {
+          "title": "Meta Platforms(META.O)发言人：公司受邀于周二前往白宫，与美国政府讨论人工智能安全测试事宜。",
+          "url": "https://flash.jin10.com/detail/20260804015051405800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时30分"
         },
         {
           "title": "亚马逊云服务(AWS)CEO：人工智能业务潜力“极为巨大”。",
@@ -55,7 +77,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -65,19 +87,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时30分]"
         },
         {
           "title": "财联社8月4日电，谷歌宣布Google Cloud Cortex Framework第7版正式全面上市。",
           "url": "https://api3.cls.cn/share/article/2444615?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            7
+            7,
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时30分]"
+        },
+        {
+          "title": "DeepSeek登顶全球第一",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E7%99%BB%E9%A1%B6%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "02时30分"
         },
         {
           "title": "谷歌(GOOG.O)：今天，我们宣布Google Cloud Cortex Framework第7版正式全面上市。",
@@ -89,12 +123,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "英国数据监管机构信息专员办公室（ICO）就OpenAI与Anthropic事件发表声明：我们已知悉近期影响该行业的黑客攻击事件，正密切监控事态发展。",
+          "url": "https://wallstreetcn.com/livenews/3144276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时30分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
@@ -104,8 +149,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时30分]"
         },
         {
           "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
@@ -113,6 +158,56 @@
           "source": "财联社热门",
           "ranks": [
             8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时30分]"
+        },
+        {
+          "title": "LME期铜收涨79美元，报13870美元/吨。 LME期铝收涨38美元，报32000美元/吨。 LME期锌收跌2美元，报3641美元/吨。 LME期铅收跌10美元，报1867美元/吨。 LME期镍收跌189美元，报17060美元/吨。 LME期锡收涨178美元，报55446美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3144279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 以太坊",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "瑞和数智(03680.HK)收取32.73枚比特币挖矿奖励 价值约270.7万美元",
+          "url": "https://www.gelonghui.com/news/5279613",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时30分]"
+        },
+        {
+          "title": "比特币日内走出V形反转",
+          "url": "https://wallstreetcn.com/livenews/3144278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时30分"
+        },
+        {
+          "title": "特朗普家族关联的比特币矿企连续三个季度亏损",
+          "url": "https://wallstreetcn.com/livenews/3144228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -132,8 +227,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时30分]"
         },
         {
           "title": "天汽模(002510.SZ)：公司暂无发展机器人业务的规划",
@@ -143,8 +238,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时30分]"
         }
       ]
     },
@@ -157,11 +252,12 @@
           "url": "https://api3.cls.cn/share/article/2444617?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时30分]"
         },
         {
           "title": "葡萄牙汽车协会（ACAP）：葡萄牙7月份特斯拉(TSLA.O)汽车新注册量同比下降68.7%，1月至7月累计增长45.6%。",
@@ -177,13 +273,13 @@
       ]
     },
     {
-      "keyword_group": "比特币 以太坊",
+      "keyword_group": "苹果 比亚迪",
       "match_count": 2,
       "titles": [
         {
-          "title": "瑞和数智(03680.HK)收取32.73枚比特币挖矿奖励 价值约270.7万美元",
-          "url": "https://www.gelonghui.com/news/5279613",
-          "source": "格隆汇",
+          "title": "罗正一年花170元146给了苹果",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%AD%A3%E4%B8%80%E5%B9%B4%E8%8A%B1170%E5%85%83146%E7%BB%99%E4%BA%86%E8%8B%B9%E6%9E%9C&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
             11
           ],
@@ -192,15 +288,15 @@
           "time_info": "00时25分"
         },
         {
-          "title": "特朗普家族关联的比特币矿企连续三个季度亏损",
-          "url": "https://wallstreetcn.com/livenews/3144228",
+          "title": "印度政府考虑将生产设备及零部件进口免税政策延长至2041年，苹果在印度的iPhone生产将获得进一步推动。",
+          "url": "https://wallstreetcn.com/livenews/3144286",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "02时30分"
         }
       ]
     },
@@ -216,25 +312,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "罗正一年花170元146给了苹果",
-          "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%AD%A3%E4%B8%80%E5%B9%B4%E8%8A%B1170%E5%85%83146%E7%BB%99%E4%BA%86%E8%8B%B9%E6%9E%9C&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时30分]"
         }
       ]
     },
@@ -250,8 +329,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时30分]"
         }
       ]
     }
