@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-08-06T02:22:39.398912+08:00",
-  "total_titles_processed": 300,
+  "generated_at": "2026-08-06T04:09:55.235546+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一，SpaceX跌超13%",
+          "url": "https://flash.jin10.com/detail/20260806040100669800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
         {
           "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2446634",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时09分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.84%，暂报2058.54点。 MarketVectorTM数字资产100中盘指数涨0.50%，报2355.36点。 MarketVector数字资产100指数涨0.80%，报12794.08点。 目前，Solana涨0.11%，狗狗币跌0.43%，XRP跌1.07%。 比特币涨0.56%，暂报64622.03美元；以太坊涨0.92%，暂报1893.02美元。",
@@ -25,9 +37,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "周三（8月5日）纽约尾盘，ICE美元指数跌0.14%，报99.791点，日内交投区间为99.9-99.628点。 彭博美元指数跌0.18%，报1203.54点，日内交投区间为1205.66-1202.53点。 美元兑日元大致持平，报157.74日元，日内交投区间为157.31-157.88日元，整体呈现出W形走势。 欧元兑日元涨0.16%，报182.16日元；英镑兑日元涨0.09%，报212.376日元。",
+          "url": "https://wallstreetcn.com/livenews/3145571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "周三（8月5日）纽约尾盘，彭博谷物分类指数跌0.24%，报30.9358点。 CBOT玉米期货跌1.02%，CBOT小麦期货涨0.95%。 CBOT大豆期货跌0.11%，报11.7675美元/蒲式耳，豆粕期货跌0.82%，豆油期货跌0.44%。 CBOT瘦肉猪期货跌1.51%，活牛期货涨0.67%，饲牛期货涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3145569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "LME期铜收涨44美元，报14110美元/吨。 LME期铝收涨18美元，报3241美元/吨。 LME期锌收涨56美元，报3729美元/吨。 LME期铅收跌10美元，报1886美元/吨。 LME期镍收跌79美元，报17114美元/吨。 LME期锡收涨729美元，报56718美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -36,7 +70,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -50,6 +84,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "WTI 9月原油期货收跌0.55美元，跌幅超过0.72%，报75.22美元/桶。 布伦特10月原油期货收涨0.09美元，涨幅超过0.11%，报79.45美元/桶。 中东Abu Dhabi Murban原油期货涨1.37%，报77.91美元/桶。 NYMEX 9月天然气期货收报2.6880美元/百万英热单位。 NYMEX 9月汽油期货收报2.8388美元/加仑，NYMEX 9月取暖油期货收报3.7962美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3145549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "人工智能普及 香港青年陷入“找工难”困境",
+          "url": "https://www.zaochenbao.com/news/hkMacao/202608/0578122.html",
+          "source": "早报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时09分]"
+        },
+        {
+          "title": "谷歌母公司宣布其人工智能部门进行领导层大调整",
+          "url": "https://api3.cls.cn/share/article/2446757?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 02时22分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)首席科学家在任27年后离职，将创办自己的人工智能公司。",
+          "url": "https://flash.jin10.com/detail/20260806000026602800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "Yardeni Research Inc.总裁兼首席投资策略师Yardeni认为，对于一个高增长行业来说，那是比较低的估值倍数。 抛售科技板块的投资者“已经发现他们实际上把这些这些股票变成了促销品”。 将纳斯达克100指数推进技术性回调的抛售也消除了其过高的估值，从而为反弹创造了条件。 加之强劲的季报和持续旺盛的人工智能需求，进一步上涨也有了稳固的基础。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3145567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "Meta Platforms(META.O)首席人工智能官：Muse Code测试版已上线。这是来自Meta超级智能实验室（MSL）的首个编程智能体，基于Muse Spark 1.2构建。",
+          "url": "https://flash.jin10.com/detail/20260806031659563800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     },
@@ -65,8 +172,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时09分]"
         },
         {
           "title": "玩具公司签67亿元算力大单",
@@ -93,42 +200,41 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 3,
       "titles": [
         {
-          "title": "人工智能普及 香港青年陷入“找工难”困境",
-          "url": "https://www.zaochenbao.com/news/hkMacao/202608/0578122.html",
-          "source": "早报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时22分]"
-        },
-        {
-          "title": "谷歌母公司宣布其人工智能部门进行领导层大调整",
-          "url": "https://api3.cls.cn/share/article/2446757?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时22分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)首席科学家在任27年后离职，将创办自己的人工智能公司。",
-          "url": "https://flash.jin10.com/detail/20260806000026602800",
+          "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
+          "url": "https://flash.jin10.com/detail/20260806021109138800",
           "source": "金十数据",
           "ranks": [
-            10
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "02时22分"
+        },
+        {
+          "title": "财联社8月6日电，微软的最新披露显示其人工智能销售主要来自OpenAI。",
+          "url": "https://api3.cls.cn/share/article/2446786?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3145560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     },
@@ -144,8 +250,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时09分]"
         },
         {
           "title": "大行评级丨美银：苹果采购承诺环比大增28%，为iPhone生产备货及零组件囤积的明确信号",
@@ -155,8 +261,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时09分]"
         },
         {
           "title": "苹果要求长鑫降价反遭涨价",
@@ -169,6 +275,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 02时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "蓝色起源CEO：蓝色起源发现，BE-4火箭发动机上的一个阀门是导致5月“新格伦”火箭爆炸的故障原因。",
+          "url": "https://flash.jin10.com/detail/20260806025442118800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "蓝色起源首席执行官：5月新格伦火箭爆炸事故祸因为BE-4火箭发动机阀门故障。",
+          "url": "https://wallstreetcn.com/livenews/3145554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     },
@@ -209,28 +343,29 @@
           "url": "https://wallstreetcn.com/articles/3778704",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时09分]"
         }
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 1,
       "titles": [
         {
-          "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
-          "url": "https://flash.jin10.com/detail/20260806021109138800",
-          "source": "金十数据",
+          "title": "美国禁止进口中国机器人",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "04时09分"
         }
       ]
     },
@@ -243,11 +378,29 @@
           "url": "https://api3.cls.cn/share/article/2446772?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            8
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 04时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国光伏股哀鸿遍野，SolarEdge跌28.3%，SunPower跌10.7%，第一太阳能跌幅迅速扩大至6.8%，太阳能ETF跌4.6%",
+          "url": "https://wallstreetcn.com/livenews/3145564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "04时09分"
         }
       ]
     },
@@ -264,8 +417,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时09分]"
         }
       ]
     }
