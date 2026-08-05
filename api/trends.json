@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T07:03:22.288849+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-08-05T08:54:55.091647+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 08时54分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
@@ -32,6 +33,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 07时03分]"
+        },
+        {
+          "title": "Anthropic再豪掷100亿美元锁定算力，英伟达支持的新贵接单",
+          "url": "https://wallstreetcn.com/articles/3778669",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 08时54分]"
         },
         {
           "title": "AMD的CEO苏姿丰在分析师电话会议上预计，数据中心销售将在2027年翻倍。 公司将于2027年推出机架级产品，配备MI500 GPU、Verano CPU、Pensando网络技术，并同时采用铜缆和光纤扩展域。 公司预计将超过2025年金融分析师日提出的年度每股收益20美元的目标。",
@@ -56,18 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 05时49分]"
-        },
-        {
-          "title": "Anthropic再豪掷100亿美元锁定算力，英伟达支持的新贵接单",
-          "url": "https://wallstreetcn.com/articles/3778669",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 07时03分]"
         },
         {
           "title": "财联社8月5日电，马斯克称，SpaceX承诺将只使用英伟达GPU，因为它们性能最佳。",
@@ -110,7 +111,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -161,6 +162,113 @@
       ]
     },
     {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美国科技巨头受邀前往白宫，商讨人工智能安全测试",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/08/04/b9ccdf7764a24138b30c745875f8d219.html",
+          "source": "参考消息",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 08时54分]"
+        },
+        {
+          "title": "华泰证券：建议关注AI应用和国产模型两条投资主线",
+          "url": "https://wallstreetcn.com/livenews/3145028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711893",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 08时54分]"
+        },
+        {
+          "title": "Anthropic：在我们开展内部调查期间，正与英国人工智能安全研究所（AISI）密切合作，收集这起事件的更多细节。 目前没有证据表明存在从安全环境中逃脱的情况。",
+          "url": "https://wallstreetcn.com/livenews/3144966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 07时03分]"
+        },
+        {
+          "title": "财联社8月5日电，据报道，两位知情人士称，美国已告知领先的人工智能（AI）企业，政府将不对开放权重AI模型（Open-Weight AI Models）进行安全测试。",
+          "url": "https://api3.cls.cn/share/article/2445776?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "财联社8月5日电，美联储施密德称，人工智能投资正在推高通胀，美联储不应忽视这一点。近期能源价格的缓解可能是暂时的。",
+          "url": "https://api3.cls.cn/share/article/2445856?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "财联社8月5日电，据报道，白宫不打算公开发布其用于评估先进人工智能模型的新框架。",
+          "url": "https://api3.cls.cn/share/article/2445732?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "美联储施密德：人工智能投资正在推高通胀，美联储不应忽视这一点。",
+          "url": "https://flash.jin10.com/detail/20260805081559060800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "Booking的CEO：目前，人工智能引流对我们整体业务的贡献仍然相对较小。",
+          "url": "https://wallstreetcn.com/livenews/3144952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 6,
       "titles": [
@@ -172,8 +280,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 08时54分]"
         },
         {
           "title": "存储芯片超级周期走到十字路口？",
@@ -216,7 +324,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -234,75 +342,81 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "keyword_group": "鸿蒙 OpenHarmony 昇腾",
       "match_count": 6,
       "titles": [
         {
-          "title": "美国科技巨头受邀前往白宫，商讨人工智能安全测试",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/08/04/b9ccdf7764a24138b30c745875f8d219.html",
-          "source": "参考消息",
+          "title": "鸿蒙智行回应竹知了事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E7%AB%B9%E7%9F%A5%E4%BA%86%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            4,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 08时54分]"
+        },
+        {
+          "title": "鸿蒙智行回应“竹知了”事件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33715905",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 08时54分]"
+        },
+        {
+          "title": "鸿蒙智行：“竹知了”相关投诉均有明确侵权事实，不存在仅为正常制作展示内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33713612",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "鸿蒙智行针对侵权内容并非玩具",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E9%92%88%E5%AF%B9%E4%BE%B5%E6%9D%83%E5%86%85%E5%AE%B9%E5%B9%B6%E9%9D%9E%E7%8E%A9%E5%85%B7%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 05时49分]"
+        },
+        {
+          "title": "胡锡进说鸿蒙智行声明值得一读",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%B4%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%A3%B0%E6%98%8E%E5%80%BC%E5%BE%97%E4%B8%80%E8%AF%BB%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 07时03分]"
-        },
-        {
-          "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711893",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时49分]"
-        },
-        {
-          "title": "Anthropic：在我们开展内部调查期间，正与英国人工智能安全研究所（AISI）密切合作，收集这起事件的更多细节。 目前没有证据表明存在从安全环境中逃脱的情况。",
-          "url": "https://wallstreetcn.com/livenews/3144966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 07时03分]"
-        },
-        {
-          "title": "财联社8月5日电，据报道，两位知情人士称，美国已告知领先的人工智能（AI）企业，政府将不对开放权重AI模型（Open-Weight AI Models）进行安全测试。",
-          "url": "https://api3.cls.cn/share/article/2445776?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
         {
-          "title": "财联社8月5日电，据报道，白宫不打算公开发布其用于评估先进人工智能模型的新框架。",
-          "url": "https://api3.cls.cn/share/article/2445732?os=web&sv=7.7.5&app=",
+          "title": "【点金互动易】AI Agent+昇腾，这家公司推出AI智能体专业服务器，深度结合昇腾AI和麒麟操作系统，AI原生与国产化深度融合赋能400+金融机构",
+          "url": "https://api3.cls.cn/share/article/2445657?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            16
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "Booking的CEO：目前，人工智能引流对我们整体业务的贡献仍然相对较小。",
-          "url": "https://wallstreetcn.com/livenews/3144952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
+          "time_info": "08时54分"
         }
       ]
     },
@@ -380,22 +494,24 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 08时54分]"
         },
         {
           "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33713556",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 08时54分]"
         },
         {
           "title": "财联社8月4日电，英伟达表示，Alpamayo 2 Super（面向Robotaxi和自动驾驶汽车的前沿开放模型）现已开放商业使用。",
@@ -423,57 +539,156 @@
       ]
     },
     {
-      "keyword_group": "鸿蒙 OpenHarmony 昇腾",
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 4,
       "titles": [
         {
-          "title": "鸿蒙智行回应竹知了事件",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E7%AB%B9%E7%9F%A5%E4%BA%86%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top",
+          "title": "卫星互联网低轨23组卫星发射成功",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A823%E7%BB%84%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时12分 ~ 07时03分]"
+        },
+        {
+          "title": "马斯克：预计到明年第二季度至少发射1000颗STARLINK V3卫星。",
+          "url": "https://flash.jin10.com/detail/20260805053156645800",
+          "source": "金十数据",
           "ranks": [
             2,
-            4,
-            5
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 07时03分]"
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 07时03分]"
         },
         {
-          "title": "鸿蒙智行回应“竹知了”事件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33715905",
-          "source": "澎湃新闻",
+          "title": "Meta盯上卫星通信！商业航天概念股趁势起飞",
+          "url": "https://www.cls.cn/detail/2445721",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 07时03分]"
-        },
-        {
-          "title": "鸿蒙智行针对侵权内容并非玩具",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E9%92%88%E5%AF%B9%E4%BE%B5%E6%9D%83%E5%86%85%E5%AE%B9%E5%B9%B6%E9%9D%9E%E7%8E%A9%E5%85%B7%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 05时49分]"
-        },
-        {
-          "title": "胡锡进说鸿蒙智行声明值得一读",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%B4%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%A3%B0%E6%98%8E%E5%80%BC%E5%BE%97%E4%B8%80%E8%AF%BB%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "08时54分"
+        },
+        {
+          "title": "马斯克：今年将尝试回收星舰V3的第一级和第二级，可能在下一次飞行中实现。 公司将在下一次星舰飞行中，将首批V3版星链卫星送入轨道。 SpaceX今年迄今又迎来一个里程碑年份。 星舰目标是每年向轨道输送100万吨以上载荷，目标上限或可达1000万吨。 星链V3卫星的能力比V2高出一个数量级。 SpaceX预计发射的V3卫星数量将比V2多一个数量级。 星链在10年内为全球大部分地区提供互联网服务“并非不可能”。",
+          "url": "https://wallstreetcn.com/livenews/3144948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "陷“竹知了”风波 华为澄清未要求全网下架商品",
+          "url": "https://www.zaochenbao.com/news/china/202608/0478044.html",
+          "source": "早报",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 08时54分]"
+        },
+        {
+          "title": "中国公布抹黑车企案例引“竹知了”联想 学者：华为维权符官方原则但存“泛侵权化”",
+          "url": "https://www.zaochenbao.com/news/china/202608/0478043.html",
+          "source": "早报",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 08时54分]"
+        },
+        {
+          "title": "下午察：遥遥领先的华为败给小小“竹知了”？",
+          "url": "https://www.zaochenbao.com/news/china/202608/0478040.html",
+          "source": "早报",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 08时54分]"
+        },
+        {
+          "title": "王腾的小米SU7Ultra泊车辅助遇bug",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E7%9A%84%E5%B0%8F%E7%B1%B3SU7Ultra%E6%B3%8A%E8%BD%A6%E8%BE%85%E5%8A%A9%E9%81%87bug%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股费城半导体指数涨幅扩大至6％，闪迪涨幅扩大至10.8％，英特尔涨超9％，美光科技、AMD涨超7％，高通涨超6％。",
+          "url": "https://wallstreetcn.com/livenews/3144863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "美国堪萨斯城联储主席施密德（Jeff Schmid）：需要更紧缩的政策才能使通胀率回落至2%。 通胀始终是供给和需求共同作用的结果。 劳动力市场大致处于平衡状态，经济增长具有韧性。 不认为美联储当前的政策立场具有限制性。 高通胀在商品和服务领域广泛存在。 能源价格缓解的可持续性尚不确定。 美联储在应对供给冲击方面发挥着作用。",
+          "url": "https://wallstreetcn.com/livenews/3145023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至3%，刷新日高。Palantir(PLTR.N)涨近30%，Arm(ARM.O)涨15%，闪迪(SNDK.O)涨超11%，英特尔(INTC.O)涨10.3%。",
+          "url": "https://flash.jin10.com/detail/20260805010435796800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "英特尔(INTC.O)涨幅扩大至10%，费城半导体指数现涨6.2%。",
+          "url": "https://flash.jin10.com/detail/20260804234750298800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     },
@@ -518,156 +733,59 @@
       ]
     },
     {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
       "match_count": 3,
       "titles": [
         {
-          "title": "卫星互联网低轨23组卫星发射成功",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A823%E7%BB%84%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时12分 ~ 07时03分]"
-        },
-        {
-          "title": "马斯克：预计到明年第二季度至少发射1000颗STARLINK V3卫星。",
-          "url": "https://flash.jin10.com/detail/20260805053156645800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 07时03分]"
-        },
-        {
-          "title": "马斯克：今年将尝试回收星舰V3的第一级和第二级，可能在下一次飞行中实现。 公司将在下一次星舰飞行中，将首批V3版星链卫星送入轨道。 SpaceX今年迄今又迎来一个里程碑年份。 星舰目标是每年向轨道输送100万吨以上载荷，目标上限或可达1000万吨。 星链V3卫星的能力比V2高出一个数量级。 SpaceX预计发射的V3卫星数量将比V2多一个数量级。 星链在10年内为全球大部分地区提供互联网服务“并非不可能”。",
-          "url": "https://wallstreetcn.com/livenews/3144948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "陷“竹知了”风波 华为澄清未要求全网下架商品",
-          "url": "https://www.zaochenbao.com/news/china/202608/0478044.html",
-          "source": "早报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 07时03分]"
-        },
-        {
-          "title": "中国公布抹黑车企案例引“竹知了”联想 学者：华为维权符官方原则但存“泛侵权化”",
-          "url": "https://www.zaochenbao.com/news/china/202608/0478043.html",
-          "source": "早报",
+          "title": "落后产能有序出清 多晶硅价格四季度或温和修复",
+          "url": "https://api3.cls.cn/share/article/2445783?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 07时03分]"
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
-          "title": "下午察：遥遥领先的华为败给小小“竹知了”？",
-          "url": "https://www.zaochenbao.com/news/china/202608/0478040.html",
+          "title": "美国拟为多晶硅设价格下限并加征关税 与中国竞争",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0578058.html",
           "source": "早报",
           "ranks": [
-            5
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 07时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英特尔 高通",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股费城半导体指数涨幅扩大至6％，闪迪涨幅扩大至10.8％，英特尔涨超9％，美光科技、AMD涨超7％，高通涨超6％。",
-          "url": "https://wallstreetcn.com/livenews/3144863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "08时54分"
         },
         {
-          "title": "纳斯达克100指数涨幅扩大至3%，刷新日高。Palantir(PLTR.N)涨近30%，Arm(ARM.O)涨15%，闪迪(SNDK.O)涨超11%，英特尔(INTC.O)涨10.3%。",
-          "url": "https://flash.jin10.com/detail/20260805010435796800",
-          "source": "金十数据",
+          "title": "中信建投：碳酸锂产能逐步释放 2027年全年仍难言过剩",
+          "url": "https://api3.cls.cn/share/article/2445831?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
           "ranks": [
-            10
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "英特尔(INTC.O)涨幅扩大至10%，费城半导体指数现涨6.2%。",
-          "url": "https://flash.jin10.com/detail/20260804234750298800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "胜通能源(001331.SZ)：目前七腾机器人生产基地主要位于重庆、合肥等地区",
-          "url": "https://www.gelonghui.com/news/5280285",
-          "source": "格隆汇",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 07时03分]"
-        },
-        {
-          "title": "马斯克：往后我们决定完全基于英伟达开展技术搭建。 人工智能与机器人技术将大幅提升带宽需求。",
-          "url": "https://wallstreetcn.com/livenews/3144950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
+          "time_info": "08时54分"
         }
       ]
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "比亚迪推出首款巴西产插混灵活燃料汽车",
+          "url": "https://www.zaochenbao.com/news/china/202608/0578061.html",
+          "source": "早报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
         {
           "title": "苹果启动9月发布会筹备 零售员工开放抽签参与现场工作",
           "url": "https://flash.jin10.com/detail/20260805011115589800",
@@ -693,43 +811,38 @@
       ]
     },
     {
-      "keyword_group": "AI医疗 影像辅助诊断 手术机器人",
-      "match_count": 1,
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 2,
       "titles": [
         {
-          "title": "英特集团(000411.SZ)：暂无AI医疗领域的并购或资产注入计划",
-          "url": "https://www.gelonghui.com/news/5280282",
+          "title": "胜通能源(001331.SZ)：目前七腾机器人生产基地主要位于重庆、合肥等地区",
+          "url": "https://www.gelonghui.com/news/5280285",
           "source": "格隆汇",
           "ranks": [
-            8,
-            9
+            5,
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 07时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 08时54分]"
+        },
         {
-          "title": "落后产能有序出清 多晶硅价格四季度或温和修复",
-          "url": "https://api3.cls.cn/share/article/2445783?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
+          "title": "马斯克：往后我们决定完全基于英伟达开展技术搭建。 人工智能与机器人技术将大幅提升带宽需求。",
+          "url": "https://wallstreetcn.com/livenews/3144950",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "05时49分"
         }
       ]
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "标普500指数涨超2%，美股费城半导体指数涨幅扩大至7.15%。英伟达股价上涨2.49%，博通股价上涨7.49%，超威半导体股价上涨9.08%，阿斯麦ADR上涨3.63%，英特尔股价上涨10.87%。 道指涨1090点，涨幅2.05%。",
@@ -742,6 +855,36 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 04时09分]"
+        },
+        {
+          "title": "SpaceX将独家采用英伟达AI计算架构",
+          "url": "https://api3.cls.cn/share/article/2445827?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI医疗 影像辅助诊断 手术机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英特集团(000411.SZ)：暂无AI医疗领域的并购或资产注入计划",
+          "url": "https://www.gelonghui.com/news/5280282",
+          "source": "格隆汇",
+          "ranks": [
+            8,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 08时54分]"
         }
       ]
     }
