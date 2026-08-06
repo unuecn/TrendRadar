@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-06T19:42:34.188876+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-08-06T22:06:10.063499+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 22时06分]"
+        },
         {
           "title": "DeepSeek计划大幅涨价",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%AE%A1%E5%88%92%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=5&Refer=top",
@@ -17,6 +28,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时49分 ~ 11时50分]"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 22时06分]"
         },
         {
           "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
@@ -60,7 +85,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -71,7 +96,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -86,19 +111,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时47分 ~ 06时58分]"
-        },
-        {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 19时42分]"
         },
         {
           "title": "财联社8月6日电，微软的最新披露显示其人工智能销售主要来自OpenAI。",
@@ -182,149 +194,8 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "一图看懂｜多家A股公司，跨界算力签大单",
-          "url": "https://www.cls.cn/detail/2446404",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 08时02分]"
-        },
-        {
-          "title": "远景科技集团：智算中心星河基地投产 规划总容量2GW",
-          "url": "https://api3.cls.cn/share/article/2447085?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 11时50分]"
-        },
-        {
-          "title": "玩具公司签67亿元算力大单",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%A9%E5%85%B7%E5%85%AC%E5%8F%B8%E7%AD%BE67%E4%BA%BF%E5%85%83%E7%AE%97%E5%8A%9B%E5%A4%A7%E5%8D%95%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 06时58分]"
-        },
-        {
-          "title": "贝恩资本将从TA Associates收购连锁茶饮品牌贡茶",
-          "url": "https://api3.cls.cn/share/article/2447092?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 11时50分]"
-        },
-        {
-          "title": "加量又加价，算力产业服务大单不断",
-          "url": "https://wallstreetcn.com/livenews/3145638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时02分]"
-        },
-        {
-          "title": "算力硬件股反弹 创业板指涨逾1%",
-          "url": "https://api3.cls.cn/share/article/2447051?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 11时50分]"
-        },
-        {
-          "title": "【金牌纪要库·风口会议】算力租赁从按时长收费走向Token分成，AI算力中心的利润模型与产业链边界正在重构",
-          "url": "https://api3.cls.cn/share/article/2447105?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "【机构龙虎榜解读】算力租赁+LPU推理芯片+机器人，精准布局LPU推理芯片，智算业务已成为利润增长的核心来源，成为智元首批“A链”供应商，在机器人“大小脑”控制器领域已有客户订单落地，这家公司获净买入",
-          "url": "https://api3.cls.cn/share/article/2447630?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "创业板指涨超1%，盘初一度跌超2.5%，沪指涨0.33%，深成指涨0.64%，算力硬件、半导体芯片等方向涨幅居前，沪深京三市上涨个股近2000只。",
-          "url": "https://wallstreetcn.com/livenews/3145778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "【风口研报·公司】北美缺电带动卡特彼勒利润大超预期，公司作为头部主机厂核心供应商，订单充足并计划新增多条生产线，有望抢抓算力备电新机",
-          "url": "https://api3.cls.cn/share/article/2447079?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "【电报解读】重磅！Anthropic正为Claude组建一支内部芯片团队，机构测算推理集群与成本性价比双轮驱动下，AI ASIC增长速度为GPU的两倍，这家公司ASIC定制业务客户包括头部的CSP厂商",
-          "url": "https://api3.cls.cn/share/article/2446710?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "A股三大指数集体翻红，创业板指盘初一度跌超2.5%，贵金属、算力硬件、半导体芯片等方向涨幅居前，沪深京三市上涨个股超2500只。",
-          "url": "https://wallstreetcn.com/livenews/3145762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 美股 美元",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
@@ -349,6 +220,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "美股开盘，道指涨0.14%，标普500指数接近平盘，纳指跌0.3%。存储板块承压，闪迪(SNDK.O)跌13%，西部数据(WDC.O)跌19%，SK海力士(SKHY.O)跌7.8%。移动广告平台巨头AppLovin(APP.O)跌17.8%，二季度营收不及预期。",
+          "url": "https://flash.jin10.com/detail/20260806213036346800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 22时06分]"
+        },
+        {
+          "title": "非农与美伊协议落地前市场谨慎，美股涨跌互现，存储芯片股延续跌势，西部数据跌20%，布油涨2%",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 22时06分]"
+        },
+        {
+          "title": "美股三大指数开盘涨跌不一 存储板块跌幅居前",
+          "url": "https://api3.cls.cn/share/article/2447756?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 22时06分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.84%，暂报2058.54点。 MarketVectorTM数字资产100中盘指数涨0.50%，报2355.36点。 MarketVector数字资产100指数涨0.80%，报12794.08点。 目前，Solana涨0.11%，狗狗币跌0.43%，XRP跌1.07%。 比特币涨0.56%，暂报64622.03美元；以太坊涨0.92%，暂报1893.02美元。",
@@ -452,8 +356,160 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "一图看懂｜多家A股公司，跨界算力签大单",
+          "url": "https://www.cls.cn/detail/2446404",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 08时02分]"
+        },
+        {
+          "title": "远景科技集团：智算中心星河基地投产 规划总容量2GW",
+          "url": "https://api3.cls.cn/share/article/2447085?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 11时50分]"
+        },
+        {
+          "title": "玩具公司签67亿元算力大单",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%A9%E5%85%B7%E5%85%AC%E5%8F%B8%E7%AD%BE67%E4%BA%BF%E5%85%83%E7%AE%97%E5%8A%9B%E5%A4%A7%E5%8D%95%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 06时58分]"
+        },
+        {
+          "title": "贝恩资本将从TA Associates收购连锁茶饮品牌贡茶",
+          "url": "https://api3.cls.cn/share/article/2447092?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 11时50分]"
+        },
+        {
+          "title": "加量又加价，算力产业服务大单不断",
+          "url": "https://wallstreetcn.com/livenews/3145638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时02分]"
+        },
+        {
+          "title": "算力硬件股反弹 创业板指涨逾1%",
+          "url": "https://api3.cls.cn/share/article/2447051?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 11时50分]"
+        },
+        {
+          "title": "财联社8月6日电，谷歌公司表示，Mirendil运用人工智能超级计算机TPU和GPU处理预训练和后训练应用。",
+          "url": "https://api3.cls.cn/share/article/2447735?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 22时06分]"
+        },
+        {
+          "title": "【金牌纪要库·风口会议】算力租赁从按时长收费走向Token分成，AI算力中心的利润模型与产业链边界正在重构",
+          "url": "https://api3.cls.cn/share/article/2447105?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "【机构龙虎榜解读】算力租赁+LPU推理芯片+机器人，精准布局LPU推理芯片，智算业务已成为利润增长的核心来源，成为智元首批“A链”供应商，在机器人“大小脑”控制器领域已有客户订单落地，这家公司获净买入",
+          "url": "https://api3.cls.cn/share/article/2447630?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "创业板指涨超1%，盘初一度跌超2.5%，沪指涨0.33%，深成指涨0.64%，算力硬件、半导体芯片等方向涨幅居前，沪深京三市上涨个股近2000只。",
+          "url": "https://wallstreetcn.com/livenews/3145778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "【风口研报·公司】北美缺电带动卡特彼勒利润大超预期，公司作为头部主机厂核心供应商，订单充足并计划新增多条生产线，有望抢抓算力备电新机",
+          "url": "https://api3.cls.cn/share/article/2447079?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "【电报解读】重磅！Anthropic正为Claude组建一支内部芯片团队，机构测算推理集群与成本性价比双轮驱动下，AI ASIC增长速度为GPU的两倍，这家公司ASIC定制业务客户包括头部的CSP厂商",
+          "url": "https://api3.cls.cn/share/article/2446710?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "A股三大指数集体翻红，创业板指盘初一度跌超2.5%，贵金属、算力硬件、半导体芯片等方向涨幅居前，沪深京三市上涨个股超2500只。",
+          "url": "https://wallstreetcn.com/livenews/3145762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "台积电 英伟达",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
@@ -475,9 +531,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "【焦点复盘】沪指日线3连阳收复3900点，英伟达入局引爆6G概念，时隔半年多再现10连板大牛股",
+          "url": "https://www.cls.cn/detail/2447475",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时42分 ~ 22时06分]"
         },
         {
           "title": "磷化铟概念股三连板！英伟达、Lumentum预警供需缺口 机构：全产业链走向价值重估",
@@ -490,6 +557,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时24分 ~ 19时42分]"
+        },
+        {
+          "title": "深圳佳贤通信：英伟达AI-RAN技术团队曾到访公司，双方已成立技术工作组",
+          "url": "https://flash.jin10.com/detail/20260806210633842800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 22时06分]"
         },
         {
           "title": "佳贤通信与英伟达合作开发6G AI-RAN基站，通宇通讯拟入股25%股权，瞄准2000亿元市场",
@@ -509,18 +587,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "【焦点复盘】沪指日线3连阳收复3900点，英伟达入局引爆6G概念，时隔半年多再现10连板大牛股",
-          "url": "https://www.cls.cn/detail/2447475",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -531,7 +598,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -542,7 +609,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -556,6 +623,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "深圳佳贤通信回应：英伟达AI-RAN技术团队曾到访公司，双方已成立技术工作组",
+          "url": "https://wallstreetcn.com/livenews/3146075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         }
       ]
     },
@@ -576,6 +654,18 @@
           "time_info": "[17时24分 ~ 19时42分]"
         },
         {
+          "title": "中使馆指美国以吊销签证阻挠华为与阿根廷企业合作",
+          "url": "https://www.zaochenbao.com/news/politics/202608/0678178.html",
+          "source": "早报",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时42分 ~ 22时06分]"
+        },
+        {
           "title": "雷军回应小米汽车保值率成绩",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BF%9D%E5%80%BC%E7%8E%87%E6%88%90%E7%BB%A9%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -585,17 +675,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时49分 ~ 11时50分]"
-        },
-        {
-          "title": "中使馆指美国以吊销签证阻挠华为与阿根廷企业合作",
-          "url": "https://www.zaochenbao.com/news/politics/202608/0678178.html",
-          "source": "早报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "王腾回应吐槽小米汽车",
@@ -615,7 +694,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -626,7 +705,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -753,8 +832,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时57分 ~ 19时42分]"
+          "appearance_count": 10,
+          "time_info": "[06时57分 ~ 22时06分]"
         },
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -880,6 +959,103 @@
       ]
     },
     {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "存储涨价“众生相”：余承东预告“所有手机或大涨价” 苹果压价长鑫遭拒",
+          "url": "https://www.cls.cn/detail/2446615",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 08时02分]"
+        },
+        {
+          "title": "大行评级丨美银：苹果采购承诺环比大增28%，为iPhone生产备货及零组件囤积的明确信号",
+          "url": "https://www.gelonghui.com/news/5280915",
+          "source": "格隆汇",
+          "ranks": [
+            3,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 08时02分]"
+        },
+        {
+          "title": "苹果要求长鑫降价反遭涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%A6%81%E6%B1%82%E9%95%BF%E9%91%AB%E9%99%8D%E4%BB%B7%E5%8F%8D%E9%81%AD%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            24,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 08时02分]"
+        },
+        {
+          "title": "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周",
+          "url": "https://wallstreetcn.com/articles/3778845",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 22时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728067",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 22时06分]"
+        },
+        {
+          "title": "美股盘初纳指跌0.3%，存储芯片股集体大跌",
+          "url": "https://wallstreetcn.com/livenews/3146086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "葛卫东加仓存储芯片龙头兆易创新",
+          "url": "https://wallstreetcn.com/livenews/3146000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 3,
       "titles": [
@@ -961,80 +1137,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "存储涨价“众生相”：余承东预告“所有手机或大涨价” 苹果压价长鑫遭拒",
-          "url": "https://www.cls.cn/detail/2446615",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 08时02分]"
-        },
-        {
-          "title": "大行评级丨美银：苹果采购承诺环比大增28%，为iPhone生产备货及零组件囤积的明确信号",
-          "url": "https://www.gelonghui.com/news/5280915",
-          "source": "格隆汇",
-          "ranks": [
-            3,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 08时02分]"
-        },
-        {
-          "title": "苹果要求长鑫降价反遭涨价",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%A6%81%E6%B1%82%E9%95%BF%E9%91%AB%E9%99%8D%E4%BB%B7%E5%8F%8D%E9%81%AD%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            24,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 08时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728067",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 19时42分]"
-        },
-        {
-          "title": "葛卫东加仓存储芯片龙头兆易创新",
-          "url": "https://wallstreetcn.com/livenews/3146000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
       "match_count": 2,
       "titles": [
@@ -1044,11 +1146,12 @@
           "source": "参考消息",
           "ranks": [
             2,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 22时06分]"
         },
         {
           "title": "智能驾驶概念午后活跃 大众交通触及涨停",
@@ -1085,7 +1188,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         }
