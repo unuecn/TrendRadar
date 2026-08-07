@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T01:24:00.831190+08:00",
-  "total_titles_processed": 295,
+  "generated_at": "2026-08-08T02:12:14.741715+08:00",
+  "total_titles_processed": 339,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://api3.cls.cn/share/article/2448929?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            7
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 02时12分]"
+        },
+        {
+          "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
+          "url": "https://wallstreetcn.com/livenews/3146841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "time_info": "[01时24分 ~ 02时12分]"
         },
         {
           "title": "OpenAI：已在Astra的所有智能体应用中实施针对高风险行为和失配问题的全面监控。根据目前针对Astra模型的准备框架评估结果，无法排除其具备关键网络能力的可能性。将与相关政府机构及选定的人工智能安全组织合作，对Astra的能力进行测试。",
@@ -83,17 +96,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 01时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英特尔 高通",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "财联社8月8日电，英特尔称，格雷格·恩斯特（Greg Ernst）将在任职27年后离开英特尔。",
+          "url": "https://api3.cls.cn/share/article/2448937?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
         },
         {
-          "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
-          "url": "https://wallstreetcn.com/livenews/3146841",
+          "title": "英特尔任命Dean Jarnac为执行副总裁（EVP）兼首席销售官，Greg Ernst将离职。",
+          "url": "https://wallstreetcn.com/livenews/3146856",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "英特尔(INTC.O)：格雷格·恩斯特（Greg Ernst）将在任职27年后离开英特尔。",
+          "url": "https://flash.jin10.com/detail/20260808013108916800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "英特尔(INTC.O)：任命迪恩·贾纳克（Dean Jarnac）为执行副总裁兼首席销售官。",
+          "url": "https://flash.jin10.com/detail/20260808013048591800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "02时12分"
         }
       ]
     },
@@ -109,8 +161,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时12分]"
         },
         {
           "title": "小米高管玩梗被指越界",
@@ -118,11 +170,12 @@
           "source": "微博",
           "ranks": [
             26,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时12分]"
         },
         {
           "title": "华为小米粉丝掐架 小米高管疑影射华为“孩go”言论上热搜",
@@ -132,8 +185,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时12分]"
         }
       ]
     },
@@ -149,8 +202,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时12分]"
         },
         {
           "title": "报道：英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺",
@@ -160,8 +213,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时12分]"
         }
       ]
     },
@@ -177,8 +230,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时12分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -188,8 +241,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时12分]"
         }
       ]
     },
@@ -203,22 +256,24 @@
           "source": "财联社电报",
           "ranks": [
             1,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时12分]"
         },
         {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
           "url": "https://wallstreetcn.com/livenews/3146836",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时12分]"
         }
       ]
     },
@@ -231,11 +286,12 @@
           "url": "https://wallstreetcn.com/livenews/3146843",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时12分]"
         }
       ]
     },
@@ -252,8 +308,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时12分]"
         }
       ]
     },
@@ -269,8 +325,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时12分]"
         }
       ]
     },
@@ -287,8 +343,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时12分]"
         }
       ]
     },
@@ -318,11 +374,12 @@
           "url": "https://wallstreetcn.com/livenews/3146845",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时12分]"
         }
       ]
     }
