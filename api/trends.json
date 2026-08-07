@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T04:09:31.096608+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-08-08T05:11:19.925062+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
@@ -66,6 +66,17 @@
           "time_info": "[01时23分 ~ 01时24分]"
         },
         {
+          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时11分]"
+        },
+        {
           "title": "OpenAI：Astra是一款即将推出的模型，并未参与利用Hugging Face漏洞的事件。正在暂停涉及Astra、但尚未达到强化安全控制要求的内部活动。",
           "url": "https://flash.jin10.com/detail/20260808004135677800",
           "source": "金十数据",
@@ -97,24 +108,25 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 01时24分]"
-        },
-        {
-          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "周五（8月7日）纽约尾盘，美元兑日元跌0.56%，报157.55日元，美国非农就业报告出炉时跳水，本周累计上涨0.08%，整体交投区间为155.23-158.57日元。 欧元兑日元跌0.18%，本周累涨0.40%；英镑兑日元跌0.20%，本周累涨0.26%。",
+          "url": "https://wallstreetcn.com/livenews/3146896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时11分]"
+        },
         {
           "title": "LME期铜收跌28美元，报14076美元/吨。 LME期铝收涨21美元，报3280美元/吨。 LME期锌收跌56美元，报3707美元/吨。 LME期铅收涨2美元，报1887美元/吨。 LME期镍收涨242美元，报17004美元/吨。 LME期锡收跌565美元，报55530美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3146843",
@@ -140,15 +152,15 @@
           "time_info": "[03时30分 ~ 04时09分]"
         },
         {
-          "title": "周五（8月7日）纽约尾盘，美元兑日元跌0.56%，报157.55日元，美国非农就业报告出炉时跳水，本周累计上涨0.08%，整体交投区间为155.23-158.57日元。 欧元兑日元跌0.18%，本周累涨0.40%；英镑兑日元跌0.20%，本周累涨0.26%。",
-          "url": "https://wallstreetcn.com/livenews/3146896",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：标普500指数再创收盘新高 光通信板块大涨、存储板块普跌",
+          "url": "https://api3.cls.cn/share/article/2448964?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "05时11分"
         },
         {
           "title": "本周，ICE原糖期货累涨12.48%，ICE白糖期货涨9.34%。 ICE阿拉比卡咖啡期货累涨0.42%，咖啡“C”期货跌0.32%。罗布斯塔咖啡期货涨0.16%。 纽约可可期货累涨5.62%，周五（8月7日）纽约尾盘，报5847美元/吨，周一涨幅突出。伦敦可可期货累涨1.83%。 芝加哥WCE双低油菜籽期货累涨1.54%。 ICE棉花期货累涨3.17%。",
@@ -157,9 +169,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
+          "url": "https://wallstreetcn.com/livenews/3146912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         }
       ]
     },
@@ -217,6 +240,47 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
+          "url": "https://www.cls.cn/detail/2448863",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时11分]"
+        },
+        {
+          "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
+          "url": "https://wallstreetcn.com/livenews/3146922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时11分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 3,
       "titles": [
@@ -228,8 +292,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时11分]"
         },
         {
           "title": "小米高管玩梗被指越界",
@@ -240,11 +304,12 @@
             19,
             24,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时11分]"
         },
         {
           "title": "华为小米粉丝掐架 小米高管疑影射华为“孩go”言论上热搜",
@@ -254,37 +319,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
-          "url": "https://www.cls.cn/detail/2448863",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时09分]"
-        },
-        {
-          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时11分]"
         }
       ]
     },
@@ -300,8 +336,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时11分]"
         },
         {
           "title": "报道：英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺",
@@ -311,8 +347,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时11分]"
         }
       ]
     },
@@ -328,8 +364,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时11分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -339,8 +375,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时11分]"
         }
       ]
     },
@@ -388,8 +424,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时11分]"
         }
       ]
     },
@@ -406,8 +442,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时11分]"
         }
       ]
     },
