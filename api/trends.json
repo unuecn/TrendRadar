@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T13:57:26.203793+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-08-10T15:43:00.543759+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 15时43分]"
         },
         {
           "title": "报道称三星电子HBM4近期良率已达到80%",
@@ -73,7 +73,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -84,7 +84,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -95,7 +95,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -106,7 +106,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -139,7 +139,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
@@ -147,7 +147,7 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "台积电7月收入环比增长5.6% 同比增长44.7%",
@@ -156,7 +156,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -167,7 +167,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -178,9 +178,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "台基股份(300046.SZ)：公司和台积电没有关系",
+          "url": "https://www.gelonghui.com/news/5282595",
+          "source": "格隆汇",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
         },
         {
           "title": "台积电(TSM.N)：7月营收为4675.8亿新台币，同比增长44.7%。",
@@ -189,7 +200,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -200,7 +211,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -258,6 +269,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "“人形机器人第一股”宇树科技今日申购！“肉签”成色几何？",
+          "url": "https://www.cls.cn/detail/2449568",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "启明信息(002232.SZ)：目前“具身智能机器人创新探索”项目正在研发阶段，尚未形成商业化应用",
+          "url": "https://www.gelonghui.com/news/5282593",
+          "source": "格隆汇",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "新时达(002527.SZ)：暂未生产四足载人机器人",
+          "url": "https://www.gelonghui.com/news/5282591",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "西菱动力(300733.SZ)：公司在机器人零部件领域收入占公司总收入比例极小",
+          "url": "https://www.gelonghui.com/news/5282542",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "【风口研报·公司】机器人巨擎入主后首次关联交易来了，分析师强call公司不仅实现迈向实质创收的关键跨越，且后续交易规模有望持续扩大，长期增长想象空间已打开",
+          "url": "https://api3.cls.cn/share/article/2449716?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "宁波华翔(002048.SZ)：智元远征 A3 系列机器人已批量交付",
+          "url": "https://www.gelonghui.com/news/5282538",
+          "source": "格隆汇",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "A股机器人概念股表现活跃，北投科技直线涨停，华中数控、百达精工、建设工业、东土科技、捷强装备涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         }
       ]
     },
@@ -339,6 +433,131 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "极端天气叠加算力扩张，韧性城市赛道加速成形",
+          "url": "https://wallstreetcn.com/livenews/3147140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 08时02分]"
+        },
+        {
+          "title": "海南高速(000886.SZ)：陵水海底智算中心项目目前尚未纳入国家算力网络枢纽节点",
+          "url": "https://www.gelonghui.com/news/5282597",
+          "source": "格隆汇",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "财联社8月10日电，日本GMO互联网将采购英伟达B300 GPU服务器，金额为101亿日元。",
+          "url": "https://api3.cls.cn/share/article/2449881?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "ETF午评 | 创业板指跌2.18%，算力硬件板块调整，通信ETF、科创创业人工智能ETF跌4%",
+          "url": "https://www.gelonghui.com/news/5282566",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "A股算力硬件股震荡下挫，泰金新能跌超10%，炬光科技、光迅科技、东威科技、迅捷兴、东山精密、天承科技跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3147230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美对多晶硅产品加征15%关税",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/08/09/1eaa6b19aff24ce2a0edd6b6ff9fa7a9.html",
+          "source": "参考消息",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 12时29分]"
+        },
+        {
+          "title": "金十期货8月10日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨1600元/吨，中间价报144150元/吨。",
+          "url": "https://flash.jin10.com/detail/20260810103426036800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报144150元/吨，较上日16:30价格上涨1600元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3147238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 12时29分]"
+        },
+        {
+          "title": "商品期货收盘，沪银、纯碱主力合约涨超3%，碳酸锂、沪金涨超2%。集运欧线跌超4%，多晶硅跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3147338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。纯碱涨超3%，乙二醇（EG）、沪银涨超2%，纯苯、焦煤、丙烯、燃料油涨近2%。跌幅方面，集运欧线、多晶硅跌超2%，PTA跌近2%，沪锌、沪锡跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260810113106660800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         }
       ]
     },
@@ -434,11 +653,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 15时43分]"
         },
         {
           "title": "中国AI大模型调用量连续十五周领跑 DeepSeek-V4-Flash正式版登顶",
@@ -458,7 +678,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
@@ -488,7 +708,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -517,54 +737,54 @@
       ]
     },
     {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
+      "keyword_group": "苹果 比亚迪",
       "match_count": 4,
       "titles": [
         {
-          "title": "美对多晶硅产品加征15%关税",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/08/09/1eaa6b19aff24ce2a0edd6b6ff9fa7a9.html",
-          "source": "参考消息",
+          "title": "据报苹果测试长鑫科技晶片 用于iPhone和MacBook",
+          "url": "https://www.zaochenbao.com/news/china/202608/0978395.html",
+          "source": "早报",
           "ranks": [
-            18,
-            26
+            7,
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时01分 ~ 12时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 10时42分]"
         },
         {
-          "title": "金十期货8月10日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨1600元/吨，中间价报144150元/吨。",
-          "url": "https://flash.jin10.com/detail/20260810103426036800",
-          "source": "金十数据",
+          "title": "苹果考虑重塑Apple Watch产品线 探索无屏设备及更多形态",
+          "url": "https://api3.cls.cn/share/article/2449492?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报144150元/吨，较上日16:30价格上涨1600元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3147238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            26
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时42分 ~ 12时29分]"
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。纯碱涨超3%，乙二醇（EG）、沪银涨超2%，纯苯、焦煤、丙烯、燃料油涨近2%。跌幅方面，集运欧线、多晶硅跌超2%，PTA跌近2%，沪锌、沪锡跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260810113106660800",
+          "title": "苹果考虑重塑Apple Watch产品线，探索无屏设备及更多形态",
+          "url": "https://flash.jin10.com/detail/20260810071100788800",
           "source": "金十数据",
           "ranks": [
-            24
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "机构：预估iPhone 18 Pro成本大增近40% 苹果或调整毛利策略以稳健出货",
+          "url": "https://wallstreetcn.com/livenews/3147323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时29分"
+          "time_info": "15时43分"
         }
       ]
     },
@@ -624,126 +844,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "极端天气叠加算力扩张，韧性城市赛道加速成形",
-          "url": "https://wallstreetcn.com/livenews/3147140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 08时02分]"
-        },
-        {
-          "title": "ETF午评 | 创业板指跌2.18%，算力硬件板块调整，通信ETF、科创创业人工智能ETF跌4%",
-          "url": "https://www.gelonghui.com/news/5282566",
-          "source": "格隆汇",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "A股算力硬件股震荡下挫，泰金新能跌超10%，炬光科技、光迅科技、东威科技、迅捷兴、东山精密、天承科技跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3147230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "西菱动力(300733.SZ)：公司在机器人零部件领域收入占公司总收入比例极小",
-          "url": "https://www.gelonghui.com/news/5282542",
-          "source": "格隆汇",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "【风口研报·公司】机器人巨擎入主后首次关联交易来了，分析师强call公司不仅实现迈向实质创收的关键跨越，且后续交易规模有望持续扩大，长期增长想象空间已打开",
-          "url": "https://api3.cls.cn/share/article/2449716?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "宁波华翔(002048.SZ)：智元远征 A3 系列机器人已批量交付",
-          "url": "https://www.gelonghui.com/news/5282538",
-          "source": "格隆汇",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据报苹果测试长鑫科技晶片 用于iPhone和MacBook",
-          "url": "https://www.zaochenbao.com/news/china/202608/0978395.html",
-          "source": "早报",
-          "ranks": [
-            7,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 10时42分]"
-        },
-        {
-          "title": "苹果考虑重塑Apple Watch产品线 探索无屏设备及更多形态",
-          "url": "https://api3.cls.cn/share/article/2449492?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "苹果考虑重塑Apple Watch产品线，探索无屏设备及更多形态",
-          "url": "https://flash.jin10.com/detail/20260810071100788800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
         }
       ]
     },
@@ -879,7 +979,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
@@ -950,7 +1050,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
