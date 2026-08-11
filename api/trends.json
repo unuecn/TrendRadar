@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T07:34:59.540001+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-08-11T09:39:52.177387+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
@@ -240,7 +240,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "福瑞医科(300049.SZ)：成德基金为公司参与投资的基金，其主要投资方向包括生物医药、人工智能等",
@@ -248,11 +248,12 @@
           "source": "格隆汇",
           "ranks": [
             1,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 09时39分]"
         },
         {
           "title": "人工智能被用于设计全新病毒",
@@ -360,6 +361,17 @@
           "time_info": "[06时36分 ~ 06时37分]"
         },
         {
+          "title": "财联社8月11日电，韩国总统李在明表示，也应关注芯片或人工智能之外的领域，如小型模块化反应堆。",
+          "url": "https://api3.cls.cn/share/article/2450767?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "英伟达(NVDA.O)：本公司及合作伙伴将为人工智能基础设施客户创建专用资金池。",
           "url": "https://flash.jin10.com/detail/20260811040700664800",
           "source": "金十数据",
@@ -369,6 +381,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "肯尼思·罗戈夫：人工智能煤矿里的金丝雀",
+          "url": "https://www.zaochenbao.com/news/opinion/202608/1178484.html",
+          "source": "早报",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "韩国总统李在明：还应优先考虑非芯片人工智能领域，如小型模块化反应堆。",
+          "url": "https://flash.jin10.com/detail/20260811090834844800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         },
         {
           "title": "微软希望在仅生产数万个当前一代Maia人工智能芯片后，大幅扩大该芯片的产能。",
@@ -407,7 +441,7 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI硬件需求强劲 台积电7月营业额同比大增45%",
@@ -434,6 +468,17 @@
           "time_info": "[00时00分 ~ 07时34分]"
         },
         {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "英伟达宣布联手六大金融巨头，布局5000亿美元AI基建融资体系",
           "url": "https://flash.jin10.com/detail/20260811041811135800",
           "source": "金十数据",
@@ -443,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "【盘中宝】该细分领域在AI基础设施中的价值量将实现结构性重估，英伟达副总裁宣告行业已步入量产阶段，这家公司关键性能指标与量产能力达到国际一流水平",
+          "url": "https://api3.cls.cn/share/article/2450757?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         },
         {
           "title": "英伟达宣布：将与6家金融公司合作 筹集逾5000亿美元用于AI计算",
@@ -455,6 +511,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时41分 ~ 06时37分]"
+        },
+        {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "英伟达CDS狂飙！5000亿美元表外“债务幽灵”引爆 华尔街吓坏了？",
+          "url": "https://www.cls.cn/detail/2450754",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "私募巨头集体入局 据称英伟达将牵头5000亿美元融资大单",
+          "url": "https://www.cls.cn/detail/2450613",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         },
         {
           "title": "财联社8月10日电，英伟达股价下跌2.2%，报219.1美元/股，总市值报5.30万亿美元。",
@@ -622,8 +711,92 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
+          "url": "https://wallstreetcn.com/livenews/3147680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 06时37分]"
+        },
+        {
+          "title": "周二你需要知道的隔夜全球要闻：英伟达拟与多家金融公司募资5000亿美元投向AI算力；国际油价大涨5%；美股光通信板块大幅回落",
+          "url": "https://api3.cls.cn/share/article/2450657?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "中国长城：擎天系列AI服务器可为相关业务提供算力支持",
+          "url": "https://api3.cls.cn/share/article/2450548?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        },
+        {
+          "title": "中信证券：算力突破电力边界 SST开启硅进铜退新周期",
+          "url": "https://api3.cls.cn/share/article/2450720?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "Anthropic据悉与Riot Platforms达成超90亿美元算力协议",
+          "url": "https://api3.cls.cn/share/article/2450713?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "报道：Anthropic与比特币挖矿公司Riot达成91亿美元算力协议",
+          "url": "https://wallstreetcn.com/livenews/3147748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "报道：智谱API用户数近700万，新启用超5万块国产算力芯片",
+          "url": "https://wallstreetcn.com/livenews/3147571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
@@ -631,11 +804,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 09时39分]"
         },
         {
           "title": "A股“人形机器人第一股”宇树科技启动新股申购",
@@ -693,29 +867,30 @@
           "url": "https://www.gelonghui.com/news/5283171",
           "source": "格隆汇",
           "ranks": [
-            1
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 09时39分]"
+        },
+        {
+          "title": "机构：上半年全球人形机器人出货量增3倍，中国制造商占97%",
+          "url": "https://flash.jin10.com/detail/20260811091423772800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时34分"
+          "time_info": "09时39分"
         }
       ]
     },
     {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "中国发射卫星失利 运载火箭升空不到90秒爆炸",
-          "url": "https://www.zaochenbao.com/news/china/202608/1078472.html",
-          "source": "早报",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 07时34分]"
-        },
         {
           "title": "中星4B卫星发射失利",
           "url": "https://m.thepaper.cn/newsDetail_forward_33755223",
@@ -723,11 +898,35 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时56分 ~ 07时34分]"
+          "appearance_count": 6,
+          "time_info": "[02时56分 ~ 09时39分]"
+        },
+        {
+          "title": "中国发射卫星失利 运载火箭升空不到90秒爆炸",
+          "url": "https://www.zaochenbao.com/news/china/202608/1078472.html",
+          "source": "早报",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 09时39分]"
+        },
+        {
+          "title": "A股商业航天概念早盘下挫，中国卫星逼近跌停，超捷股份、斯瑞新材跌超10%，神剑股份、电科蓝天、航天环宇、金风科技跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3147780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         },
         {
           "title": "中星4B卫星发射失利",
@@ -765,59 +964,8 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
-          "url": "https://wallstreetcn.com/livenews/3147680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 06时37分]"
-        },
-        {
-          "title": "周二你需要知道的隔夜全球要闻：英伟达拟与多家金融公司募资5000亿美元投向AI算力；国际油价大涨5%；美股光通信板块大幅回落",
-          "url": "https://api3.cls.cn/share/article/2450657?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "中国长城：擎天系列AI服务器可为相关业务提供算力支持",
-          "url": "https://api3.cls.cn/share/article/2450548?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "报道：智谱API用户数近700万，新启用超5万块国产算力芯片",
-          "url": "https://wallstreetcn.com/livenews/3147571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        }
-      ]
-    },
-    {
       "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
@@ -832,13 +980,24 @@
           "time_info": "[00时00分 ~ 07时34分]"
         },
         {
+          "title": "创新药、CRO概念延续涨势，百花医药6连板，甘李药业涨停，长春高新、万邦医药、博瑞医药、亚太药业涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "中报窗口期机构密集调研，创新药步入业绩与国际化兑现期",
           "url": "https://wallstreetcn.com/livenews/3147727",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -849,7 +1008,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -863,6 +1022,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 比亚迪",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "郭明錤：苹果今年硬件出货量确因内存短缺而下调",
+          "url": "https://api3.cls.cn/share/article/2450686?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "报道：苹果以玻璃为主体的iPhone仍将按计划于2027周年纪念日推出",
+          "url": "https://wallstreetcn.com/livenews/3147778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
+          "url": "https://flash.jin10.com/detail/20260811055637856800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 07时34分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
+          "url": "https://wallstreetcn.com/livenews/3147676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "苹果9月发布会核心产品曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C9%E6%9C%88%E5%8F%91%E5%B8%83%E4%BC%9A%E6%A0%B8%E5%BF%83%E4%BA%A7%E5%93%81%E6%9B%9D%E5%85%89%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         }
       ]
     },
@@ -888,7 +1109,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -911,7 +1132,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         }
@@ -921,6 +1142,19 @@
       "keyword_group": "金价 黄金",
       "match_count": 3,
       "titles": [
+        {
+          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
+          "url": "https://wallstreetcn.com/articles/3779046",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 09时39分]"
+        },
         {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
           "url": "https://wallstreetcn.com/articles/3779052",
@@ -934,67 +1168,16 @@
           "time_info": "[06时36分 ~ 07时34分]"
         },
         {
-          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
-          "url": "https://wallstreetcn.com/articles/3779046",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时34分]"
-        },
-        {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
           "url": "https://www.cls.cn/detail/2450678",
           "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "郭明錤：苹果今年硬件出货量确因内存短缺而下调",
-          "url": "https://api3.cls.cn/share/article/2450686?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
-          "url": "https://flash.jin10.com/detail/20260811055637856800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
+            8,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时36分 ~ 07时34分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
-          "url": "https://wallstreetcn.com/livenews/3147676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 09时39分]"
         }
       ]
     },
@@ -1009,7 +1192,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -1020,7 +1203,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         }
@@ -1067,7 +1250,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         }
