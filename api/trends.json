@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T11:43:33.765445+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-08-11T13:07:33.571623+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
@@ -240,7 +240,7 @@
     },
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "福瑞医科(300049.SZ)：成德基金为公司参与投资的基金，其主要投资方向包括生物医药、人工智能等",
@@ -278,6 +278,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时00分 ~ 07时34分]"
+        },
+        {
+          "title": "英伟达计划筹集5000亿美元用于AI基建，创业板人工智能ETF涨超2%",
+          "url": "https://www.gelonghui.com/news/5283213",
+          "source": "格隆汇",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "财联社8月11日电，英伟达CEO黄仁勋表示，5000亿美元人工智能融资协议的资金完全是来自第三方的资本，相关交易将支持AI的大范围建设。",
@@ -320,11 +331,12 @@
           "source": "早报",
           "ranks": [
             8,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 11时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 13时07分]"
         },
         {
           "title": "财联社8月11日电，英伟达股价跌幅扩大至2.6%，刷新日内低点。消息面上，多家华尔街公司与英伟达达成5000亿美元的人工智能融资协议。",
@@ -406,6 +418,17 @@
           "time_info": "09时39分"
         },
         {
+          "title": "澳洲联储：鉴于人工智能的繁荣和对海湾冲突的韧性，全球增长前景上调。",
+          "url": "https://flash.jin10.com/detail/20260811123351573800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "微软希望在仅生产数万个当前一代Maia人工智能芯片后，大幅扩大该芯片的产能。",
           "url": "https://wallstreetcn.com/livenews/3147660",
           "source": "华尔街见闻-快讯",
@@ -442,7 +465,7 @@
     },
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -452,8 +475,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 11时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 13时07分]"
         },
         {
           "title": "AI硬件需求强劲 台积电7月营业额同比大增45%",
@@ -510,8 +533,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 11时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 13时07分]"
+        },
+        {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 13时07分]"
+        },
+        {
+          "title": "私募巨头集体入局 据称英伟达将牵头5000亿美元融资大单",
+          "url": "https://www.cls.cn/detail/2450613",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 13时07分]"
         },
         {
           "title": "英伟达宣布：将与6家金融公司合作 筹集逾5000亿美元用于AI计算",
@@ -526,28 +574,15 @@
           "time_info": "[04时41分 ~ 06时37分]"
         },
         {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
+          "title": "伯恩斯坦：将台积电目标价上调至3300元新台币 CPU或成新驱动力",
+          "url": "https://api3.cls.cn/share/article/2450981?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
           "ranks": [
-            7,
-            6
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 11时43分]"
-        },
-        {
-          "title": "私募巨头集体入局 据称英伟达将牵头5000亿美元融资大单",
-          "url": "https://www.cls.cn/detail/2450613",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 11时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "财联社8月10日电，英伟达股价下跌2.2%，报219.1美元/股，总市值报5.30万亿美元。",
@@ -618,114 +653,8 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "【大佬持仓跟踪】光模块+数据中心，产品已批量供应给光模块领域客户，细分材料已通过头部客户认证并成功实现进口替代，这家公司产品广泛用于服务器电源、GPU等领域",
-          "url": "https://api3.cls.cn/share/article/2450919?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
-          "url": "https://wallstreetcn.com/livenews/3147680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 06时37分]"
-        },
-        {
-          "title": "周二你需要知道的隔夜全球要闻：英伟达拟与多家金融公司募资5000亿美元投向AI算力；国际油价大涨5%；美股光通信板块大幅回落",
-          "url": "https://api3.cls.cn/share/article/2450657?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "中国长城：擎天系列AI服务器可为相关业务提供算力支持",
-          "url": "https://api3.cls.cn/share/article/2450548?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "中信证券：算力突破电力边界 SST开启硅进铜退新周期",
-          "url": "https://api3.cls.cn/share/article/2450720?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "达成战略合作意向，华为将向北京数据集团提供昇腾算力设备",
-          "url": "https://flash.jin10.com/detail/20260811105048786800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "Anthropic据悉与Riot Platforms达成超90亿美元算力协议",
-          "url": "https://api3.cls.cn/share/article/2450713?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "报道：Anthropic与比特币挖矿公司Riot达成91亿美元算力协议",
-          "url": "https://wallstreetcn.com/livenews/3147748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "报道：智谱API用户数近700万，新启用超5万块国产算力芯片",
-          "url": "https://wallstreetcn.com/livenews/3147571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
@@ -815,13 +744,35 @@
           "time_info": "09时39分"
         },
         {
+          "title": "蚂蚁集团领投 戴盟机器人宣布完成数亿元融资",
+          "url": "https://wallstreetcn.com/livenews/3147843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "富瀚微：公司有芯片供货给工业机器人公司",
+          "url": "https://api3.cls.cn/share/article/2450960?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "人形机器人概念震荡拉升 斯菱智驱涨超10%",
           "url": "https://api3.cls.cn/share/article/2450893?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -832,9 +783,332 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "【大佬持仓跟踪】光模块+数据中心，产品已批量供应给光模块领域客户，细分材料已通过头部客户认证并成功实现进口替代，这家公司产品广泛用于服务器电源、GPU等领域",
+          "url": "https://api3.cls.cn/share/article/2450919?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 13时07分]"
+        },
+        {
+          "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
+          "url": "https://wallstreetcn.com/livenews/3147680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 06时37分]"
+        },
+        {
+          "title": "周二你需要知道的隔夜全球要闻：英伟达拟与多家金融公司募资5000亿美元投向AI算力；国际油价大涨5%；美股光通信板块大幅回落",
+          "url": "https://api3.cls.cn/share/article/2450657?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "中国长城：擎天系列AI服务器可为相关业务提供算力支持",
+          "url": "https://api3.cls.cn/share/article/2450548?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        },
+        {
+          "title": "中信证券：算力突破电力边界 SST开启硅进铜退新周期",
+          "url": "https://api3.cls.cn/share/article/2450720?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "达成战略合作意向，华为将向北京数据集团提供昇腾算力设备",
+          "url": "https://flash.jin10.com/detail/20260811105048786800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "Anthropic据悉与Riot Platforms达成超90亿美元算力协议",
+          "url": "https://api3.cls.cn/share/article/2450713?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "报道：Anthropic与比特币挖矿公司Riot达成91亿美元算力协议",
+          "url": "https://wallstreetcn.com/livenews/3147748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "报道：智谱API用户数近700万，新启用超5万块国产算力芯片",
+          "url": "https://wallstreetcn.com/livenews/3147571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药 新药研发 临床三期",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
+          "url": "https://www.cls.cn/detail/2450137",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时34分]"
+        },
+        {
+          "title": "创新药板块拉升，科创创新药ETF涨超4%，创新药ETF涨超3%",
+          "url": "https://www.gelonghui.com/news/5283215",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "创新药、CRO概念延续涨势，百花医药6连板，甘李药业涨停，长春高新、万邦医药、博瑞医药、亚太药业涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "中报窗口期机构密集调研，创新药步入业绩与国际化兑现期",
+          "url": "https://wallstreetcn.com/livenews/3147727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "中报窗口期机构密集调研 创新药步入业绩与国际化兑现期",
+          "url": "https://api3.cls.cn/share/article/2450673?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "创新药概念持续走强 万邦医药20cm涨停",
+          "url": "https://api3.cls.cn/share/article/2450915?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "A股异动丨创新药板块拉升，百花医药6连板",
+          "url": "https://www.gelonghui.com/news/5283177",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "A股创新药、CRO概念延续涨势，百花医药6连板，甘李药业涨停，长春高新、万邦医药、博瑞医药、亚太药业涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "【公告全知道】创新药+CRO+合成生物+AI应用！公司上半年CDMO在手订单金额增长超过20%",
+          "url": "https://api3.cls.cn/share/article/2450472?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "中星4B卫星发射失利",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33755223",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时56分 ~ 13时07分]"
+        },
+        {
+          "title": "中国发射卫星失利 运载火箭升空不到90秒爆炸",
+          "url": "https://www.zaochenbao.com/news/china/202608/1078472.html",
+          "source": "早报",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 09时39分]"
+        },
+        {
+          "title": "A股商业航天概念早盘下挫，中国卫星逼近跌停，超捷股份、斯瑞新材跌超10%，神剑股份、电科蓝天、航天环宇、金风科技跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3147780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 11时43分]"
+        },
+        {
+          "title": "A股异动丨军工装备板块走弱，中国卫星、航天环宇跌超7%",
+          "url": "https://www.gelonghui.com/news/5283184",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "机构：星链V3卫星部署助力 预估2028年全球卫星火箭发射市场规模将达404亿美元",
+          "url": "https://api3.cls.cn/share/article/2450972?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "中星4B卫星发射失利",
+          "url": "https://api3.cls.cn/share/article/2450555?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        },
+        {
+          "title": "越南航空航天企业VinSpace：与SpaceX签署卫星任务发射合同，计划于2027年通过SpaceX的“Transporter”拼车发射任务发射卫星。",
+          "url": "https://flash.jin10.com/detail/20260811105728746800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "中星4B卫星发射失利",
+          "url": "https://wallstreetcn.com/livenews/3147586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        },
+        {
+          "title": "中星4B卫星发射失利",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E6%98%9F4B%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E5%A4%B1%E5%88%A9&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
         }
       ]
     },
@@ -936,202 +1210,92 @@
       ]
     },
     {
-      "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 8,
+      "keyword_group": "英特尔 高通",
+      "match_count": 7,
       "titles": [
         {
-          "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
-          "url": "https://www.cls.cn/detail/2450137",
-          "source": "财联社热门",
+          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            9
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 04时41分]"
         },
         {
-          "title": "创新药、CRO概念延续涨势，百花医药6连板，甘李药业涨停，长春高新、万邦医药、博瑞医药、亚太药业涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3147785",
+          "title": "澳洲联储：今日的政策决定一致通过。 尽管中东冲突对通胀的影响目前来看低于预期，但整体通胀率依然过高。 委员会将密切关注数据以及对前景和风险的动态评估，以此指导未来决策。 2025年下半年通胀显著回升，今年初以来的信息证实，部分涨幅反映了更大的产能压力。 委员会仍然专注于确保高通胀不会根深蒂固。 委员会将继续采取其认为必要的措施，以使通胀可持续地回到目标水平；如果上行风险成为现实，将进一步提高现金利率目标。 通胀依然过高。短期通胀预期指标有所缓解，但仍高于今年早些时候。 截尾均值通胀率也依然保持高位，且与一季度相比变化不大。 劳动力市场领先指标显示短期内只会出现有限的缓和。 鉴于货币政策被认为具有一定限制性，委员会决定在评估经济演变情况的同时，维持现金利率目标不变。",
+          "url": "https://wallstreetcn.com/livenews/3147855",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时39分"
+          "time_info": "13时07分"
         },
         {
-          "title": "中报窗口期机构密集调研，创新药步入业绩与国际化兑现期",
-          "url": "https://wallstreetcn.com/livenews/3147727",
+          "title": "报道：英特尔拟扩大股票发售规模，筹资约200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147737",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
         {
-          "title": "中报窗口期机构密集调研 创新药步入业绩与国际化兑现期",
-          "url": "https://api3.cls.cn/share/article/2450673?os=web&sv=7.7.5&app=",
+          "title": "澳洲联储：全球石油供应的中断正直接推高通胀。",
+          "url": "https://flash.jin10.com/detail/20260811123704012800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "财联社8月11日电，英特尔股份的发售据悉受到了多倍超额认购。",
+          "url": "https://api3.cls.cn/share/article/2450634?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            10
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时37分]"
+        },
+        {
+          "title": "财联社8月11日电，英特尔据悉计划以至少每股95美元的价格发行200亿美元股票。",
+          "url": "https://api3.cls.cn/share/article/2450681?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
         {
-          "title": "创新药概念持续走强 万邦医药20cm涨停",
-          "url": "https://api3.cls.cn/share/article/2450915?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
+          "title": "澳洲联储：委员会仍然专注于确保高通胀不会根深蒂固。",
+          "url": "https://flash.jin10.com/detail/20260811123501073800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "A股异动丨创新药板块拉升，百花医药6连板",
-          "url": "https://www.gelonghui.com/news/5283177",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "A股创新药、CRO概念延续涨势，百花医药6连板，甘李药业涨停，长春高新、万邦医药、博瑞医药、亚太药业涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3147785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "【公告全知道】创新药+CRO+合成生物+AI应用！公司上半年CDMO在手订单金额增长超过20%",
-          "url": "https://api3.cls.cn/share/article/2450472?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "中星4B卫星发射失利",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33755223",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时56分 ~ 11时43分]"
-        },
-        {
-          "title": "中国发射卫星失利 运载火箭升空不到90秒爆炸",
-          "url": "https://www.zaochenbao.com/news/china/202608/1078472.html",
-          "source": "早报",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时56分 ~ 09时39分]"
-        },
-        {
-          "title": "A股商业航天概念早盘下挫，中国卫星逼近跌停，超捷股份、斯瑞新材跌超10%，神剑股份、电科蓝天、航天环宇、金风科技跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3147780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 11时43分]"
-        },
-        {
-          "title": "A股异动丨军工装备板块走弱，中国卫星、航天环宇跌超7%",
-          "url": "https://www.gelonghui.com/news/5283184",
-          "source": "格隆汇",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "中星4B卫星发射失利",
-          "url": "https://api3.cls.cn/share/article/2450555?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "越南航空航天企业VinSpace：与SpaceX签署卫星任务发射合同，计划于2027年通过SpaceX的“Transporter”拼车发射任务发射卫星。",
-          "url": "https://flash.jin10.com/detail/20260811105728746800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "中星4B卫星发射失利",
-          "url": "https://wallstreetcn.com/livenews/3147586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "中星4B卫星发射失利",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E6%98%9F4B%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E5%A4%B1%E5%88%A9&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "time_info": "13时07分"
         }
       ]
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "郭明錤：苹果今年硬件出货量确因内存短缺而下调",
@@ -1180,6 +1344,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "苹果液态玻璃图标大改",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%B2%E6%80%81%E7%8E%BB%E7%92%83%E5%9B%BE%E6%A0%87%E5%A4%A7%E6%94%B9%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "苹果9月发布会核心产品曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C9%E6%9C%88%E5%8F%91%E5%B8%83%E4%BC%9A%E6%A0%B8%E5%BF%83%E4%BA%A7%E5%93%81%E6%9B%9D%E5%85%89%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1208,6 +1383,18 @@
           "time_info": "07时34分"
         },
         {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报144750元/吨，较上日16:30价格持平。",
+          "url": "https://wallstreetcn.com/livenews/3147813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 13时07分]"
+        },
+        {
           "title": "锂价止跌企稳 碳酸锂紧平衡格局仍稳固",
           "url": "https://api3.cls.cn/share/article/2450671?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -1219,77 +1406,15 @@
           "time_info": "07时34分"
         },
         {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报144750元/吨，较上日16:30价格持平。",
-          "url": "https://wallstreetcn.com/livenews/3147813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
           "title": "财联社8月11日电，数据显示，今日MMLC电池级碳酸锂（早盘）价格与上日持平，中间价报144750元/吨。",
           "url": "https://api3.cls.cn/share/article/2450877?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英特尔 高通",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 04时41分]"
-        },
-        {
-          "title": "报道：英特尔拟扩大股票发售规模，筹资约200亿美元",
-          "url": "https://wallstreetcn.com/livenews/3147737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "财联社8月11日电，英特尔股份的发售据悉受到了多倍超额认购。",
-          "url": "https://api3.cls.cn/share/article/2450634?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 06时37分]"
-        },
-        {
-          "title": "财联社8月11日电，英特尔据悉计划以至少每股95美元的价格发行200亿美元股票。",
-          "url": "https://api3.cls.cn/share/article/2450681?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
         }
       ]
     },
@@ -1307,8 +1432,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 11时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 13时07分]"
         },
         {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
@@ -1331,8 +1456,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时34分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 13时07分]"
         }
       ]
     },
@@ -1347,7 +1472,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -1358,7 +1483,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -1369,7 +1494,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         }
@@ -1396,11 +1521,12 @@
           "url": "https://wallstreetcn.com/livenews/3147828",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 13时07分]"
         }
       ]
     },
@@ -1479,7 +1605,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         }
@@ -1496,9 +1622,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 13时07分]"
         }
       ]
     }
