@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-12T04:41:49.611691+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-08-12T06:41:09.834176+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
-          "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3148238",
+          "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
+          "url": "https://wallstreetcn.com/livenews/3148266",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时41分"
+          "time_info": "06时41分"
         },
         {
           "title": "OpenAI高管Brad Lightcap将离职 开启“新项目”",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时28分 ~ 03时35分]"
+        },
+        {
+          "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3148238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 06时41分]"
         },
         {
           "title": "财联社8月12日电，谷歌表示，Gemini月活用户数超过10亿。",
@@ -69,6 +81,30 @@
           "time_info": "[01时28分 ~ 03时35分]"
         },
         {
+          "title": "梁文锋跻身全球最富有50人之列",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时35分 ~ 06时41分]"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：OpenAI的Daybreak Red和Daybreak Blue现已面向Amazon Bedrock上的符合条件的客户开放。",
+          "url": "https://flash.jin10.com/detail/20260812055132698800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 06时41分]"
+        },
+        {
           "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
           "url": "https://wallstreetcn.com/livenews/3148176",
           "source": "华尔街见闻-快讯",
@@ -104,18 +140,6 @@
           "time_info": "[01时28分 ~ 01时29分]"
         },
         {
-          "title": "梁文锋跻身全球最富有50人之列",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 04时41分]"
-        },
-        {
           "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
           "url": "https://flash.jin10.com/detail/20260812014236644800",
           "source": "金十数据",
@@ -133,7 +157,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -155,9 +179,191 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
+          "url": "https://www.cls.cn/detail/2451345",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时41分]"
+        },
+        {
+          "title": "险资二季度持仓净增1.83亿股 近期积极调研AI算力、医药与硬科技",
+          "url": "https://api3.cls.cn/share/article/2451788?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 06时41分]"
+        },
+        {
+          "title": "周三你需要知道的隔夜全球要闻：云服务巨头CoreWeave盘后大涨16%，公司在手合同超千亿美元；光通信龙头Lumentum业绩展望超出预期；芝商所将推出算力期货",
+          "url": "https://api3.cls.cn/share/article/2451785?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 06时41分]"
+        },
+        {
+          "title": "芝商所联合Silicon Data在10月推出算力期货",
+          "url": "https://flash.jin10.com/detail/20260812033239045800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时35分 ~ 04时41分]"
+        },
+        {
+          "title": "芝商所和Silicon Data计划10月5日推出算力期货",
+          "url": "https://api3.cls.cn/share/article/2451675?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时29分]"
+        },
+        {
+          "title": "Coreweave(CRWV.O)CFO：预计今年年底公司活跃算力规模将超过1.85吉瓦，高于此前指引的超过1.7吉瓦。",
+          "url": "https://flash.jin10.com/detail/20260812054236336800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 06时41分]"
+        },
+        {
+          "title": "君逸数码：拟2.05亿元投建智算中心建设及运营项目",
+          "url": "https://api3.cls.cn/share/article/2451664?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时27分]"
+        },
+        {
+          "title": "美国芝商所与Silicon Data确定10月5日推出算力期货",
+          "url": "https://wallstreetcn.com/livenews/3148148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
+          "url": "https://wallstreetcn.com/livenews/3148179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时27分]"
+        },
+        {
+          "title": "LME期铜收跌4美元，报14156美元/吨。 LME期铝收涨46美元，报3364美元/吨。 LME期锌收跌9美元，报3728美元/吨。 LME期铅收涨4美元，报1907美元/吨。 LME期镍收跌95美元，报16830美元/吨。 LME期锡收涨160美元，报55912美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3148178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时27分]"
+        },
+        {
+          "title": "美股纳指收跌0.6% SK海力士涨超4%",
+          "url": "https://api3.cls.cn/share/article/2451761?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时41分]"
+        },
+        {
+          "title": "周二（8月11日）纽约尾盘，ICE美元指数涨0.02%，报99.833点，日内交投区间为99.725-99.898点。 彭博美元指数跌0.05%，报1203.02点，日内交投区间为1204.50-1202.56点。",
+          "url": "https://wallstreetcn.com/livenews/3148221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "周二（8月11日）纽约尾盘，ICE原糖期货涨1.64%，ICE白糖期货涨1.15%。 ICE阿拉比卡咖啡期货冲高回落最终涨0.08%，咖啡“C”期货跌0.35%、报312.80美分/磅、北京时间18:50达到327.55美分。罗布斯塔咖啡期货跌0.37%。 纽约可可期货跌4.97%，报5637美元/吨。伦敦可可期货跌0.17%。 芝加哥WCE双低油菜籽期货跌1.75%。 ICE棉花期货涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3148220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
+          "url": "https://wallstreetcn.com/livenews/3148243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "CoreWeave二季度营收25.8亿美元，分析师预期25.6亿美元。 二季度净亏损6.26亿美元，分析师预期亏损7.571亿美元。 二季度调整后EBITDA为15.1亿美元，分析师预期14.3亿美元。 二季度运营亏损0.49亿美元，分析师预期亏损0.865亿美元。 二季度每股亏损1.14美元，分析师预期亏损1.41美元。 至6月30日，公司（订单销售）收入积压大约1040亿美元，不包括三季度超过250亿美元的（采购）承诺。 CoreWeave美股盘后跌3%，随后转而上涨11%。",
+          "url": "https://wallstreetcn.com/livenews/3148239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         }
       ]
     },
@@ -258,8 +464,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时41分]"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时41分]"
         },
         {
           "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
@@ -273,18 +491,6 @@
           "time_info": "[00时26分 ~ 03时35分]"
         },
         {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时41分]"
-        },
-        {
           "title": "英伟达5000亿美元“循环融资”？大摩回击：投资由第三方主导，英伟达仅提供“残值支持”还能坐享长期分成",
           "url": "https://wallstreetcn.com/articles/3779166",
           "source": "华尔街见闻",
@@ -293,8 +499,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时41分]"
         },
         {
           "title": "英伟达信用风险指标回落 CEO澄清5000亿美元融资计划",
@@ -319,132 +525,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
-          "url": "https://wallstreetcn.com/livenews/3148179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时27分]"
-        },
-        {
-          "title": "LME期铜收跌4美元，报14156美元/吨。 LME期铝收涨46美元，报3364美元/吨。 LME期锌收跌9美元，报3728美元/吨。 LME期铅收涨4美元，报1907美元/吨。 LME期镍收跌95美元，报16830美元/吨。 LME期锡收涨160美元，报55912美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3148178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时27分]"
-        },
-        {
-          "title": "美股纳指收跌0.6% SK海力士涨超4%",
-          "url": "https://api3.cls.cn/share/article/2451761?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "周二（8月11日）纽约尾盘，ICE美元指数涨0.02%，报99.833点，日内交投区间为99.725-99.898点。 彭博美元指数跌0.05%，报1203.02点，日内交投区间为1204.50-1202.56点。",
-          "url": "https://wallstreetcn.com/livenews/3148221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "周二（8月11日）纽约尾盘，ICE原糖期货涨1.64%，ICE白糖期货涨1.15%。 ICE阿拉比卡咖啡期货冲高回落最终涨0.08%，咖啡“C”期货跌0.35%、报312.80美分/磅、北京时间18:50达到327.55美分。罗布斯塔咖啡期货跌0.37%。 纽约可可期货跌4.97%，报5637美元/吨。伦敦可可期货跌0.17%。 芝加哥WCE双低油菜籽期货跌1.75%。 ICE棉花期货涨0.68%。",
-          "url": "https://wallstreetcn.com/livenews/3148220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
-          "url": "https://www.cls.cn/detail/2451345",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时41分]"
-        },
-        {
-          "title": "芝商所联合Silicon Data在10月推出算力期货",
-          "url": "https://flash.jin10.com/detail/20260812033239045800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 04时41分]"
-        },
-        {
-          "title": "芝商所和Silicon Data计划10月5日推出算力期货",
-          "url": "https://api3.cls.cn/share/article/2451675?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 01时29分]"
-        },
-        {
-          "title": "君逸数码：拟2.05亿元投建智算中心建设及运营项目",
-          "url": "https://api3.cls.cn/share/article/2451664?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
-        },
-        {
-          "title": "美国芝商所与Silicon Data确定10月5日推出算力期货",
-          "url": "https://wallstreetcn.com/livenews/3148148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
         }
       ]
     },
@@ -522,8 +602,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时41分]"
         },
         {
           "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
@@ -570,11 +650,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时41分]"
         },
         {
           "title": "【金牌纪要库】AI4S（AI科学）产业已进入“1到10”发展阶段，商业订单在AI制药最先兑现，分子砌块、定制合成、蛋白/试剂等环节或迎来“实验需求通胀”",
@@ -598,11 +679,12 @@
           "url": "https://api3.cls.cn/share/article/2451766?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时41分]"
         },
         {
           "title": "美国财长贝森特：我们欢迎Meta发布Muse Glimmer，这是美国创新取得的又一胜利。保持美国在人工智能领域的领先地位意味着推进开放权重和封闭权重模型，确保未来建立在可信赖的基础之上。",
@@ -626,11 +708,12 @@
           "url": "https://api3.cls.cn/share/article/2451760?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            10
+            10,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时41分]"
         },
         {
           "title": "量子计算公司Quantinum与甲骨文(ORCL.N)合作，加速在Oracle云基础设施上采用混合量子计算。",
@@ -639,9 +722,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（8月11日）纽约尾盘，现货黄金跌0.50%，报4368.81美元/盎司。 现货白银跌1.63%，报6.46705美元/盎司。 COMEX铜期货涨0.19%，报6.6285美元/磅。 现货铂金跌0.82%，现货钯金跌1.20%。",
+          "url": "https://wallstreetcn.com/livenews/3148250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         }
       ]
     },
