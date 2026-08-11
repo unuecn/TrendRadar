@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T19:46:12.383533+08:00",
-  "total_titles_processed": 1706,
+  "generated_at": "2026-08-11T21:02:17.724892+08:00",
+  "total_titles_processed": 1830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "台积电 英伟达",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时39分 ~ 19时46分]"
+          "appearance_count": 12,
+          "time_info": "[09时39分 ~ 21时02分]"
         },
         {
           "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
@@ -29,8 +29,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时39分 ~ 19时46分]"
+          "appearance_count": 12,
+          "time_info": "[09时39分 ~ 21时02分]"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时28分 ~ 21时02分]"
         },
         {
           "title": "英伟达CDS狂飙！5000亿美元表外“债务幽灵”引爆 华尔街吓坏了？",
@@ -44,20 +58,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时39分 ~ 17时59分]"
-        },
-        {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时28分 ~ 19时46分]"
         },
         {
           "title": "AI硬件需求强劲 台积电7月营业额同比大增45%",
@@ -104,6 +104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "大摩力挺英伟达5000亿美元融资：或成近100%毛利率的新收入来源",
+          "url": "https://www.gelonghui.com/news/5283747",
+          "source": "格隆汇",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "【盘中宝】该细分领域在AI基础设施中的价值量将实现结构性重估，英伟达副总裁宣告行业已步入量产阶段，这家公司关键性能指标与量产能力达到国际一流水平",
@@ -336,7 +347,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
@@ -349,8 +360,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时47分 ~ 19时46分]"
+          "appearance_count": 8,
+          "time_info": "[15时47分 ~ 21时02分]"
         },
         {
           "title": "【机构调研】这家端侧AI芯片公司主力系列芯片将在下半年开始放量",
@@ -362,6 +373,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时45分 ~ 19时46分]"
+        },
+        {
+          "title": "【财联社早知道】重磅！上海发文推动算力、数据、应用与业务场景深度融合，机构称AI应用商业化大幕即将开启，这家公司的开物平台包括物理AI软件、物理AI产品开发及解决方案；2026中国算力大会下月召开",
+          "url": "https://api3.cls.cn/share/article/2451177?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "道氏技术(300409.SZ)：赫曦原子智算中心全部采用芯培森自研APU加速技术的赫曦I服务器，部署规模100台",
@@ -384,6 +406,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
+          "url": "https://www.cls.cn/detail/2451345",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时57分 ~ 21时02分]"
         },
         {
           "title": "【大佬持仓跟踪】光模块+数据中心，产品已批量供应给光模块领域客户，细分材料已通过头部客户认证并成功实现进口替代，这家公司产品广泛用于服务器电源、GPU等领域",
@@ -420,18 +455,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时58分 ~ 19时46分]"
-        },
-        {
-          "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
-          "url": "https://www.cls.cn/detail/2451345",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时57分 ~ 19时46分]"
         },
         {
           "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
@@ -501,6 +524,17 @@
           "time_info": "[18时57分 ~ 18时58分]"
         },
         {
+          "title": "美股盘前要闻一览：Anthropic再掷90亿美元购买算力；谷歌拟在美洲扩建3套全新海底光缆系统；华尔街称AI存储涨价潮或降温",
+          "url": "https://api3.cls.cn/share/article/2451574?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "欧陆通(300870.SZ)：已与海外头部CSP客户Google达成算力设备GPU电源项目合作",
           "url": "https://www.gelonghui.com/news/5283253",
           "source": "格隆汇",
@@ -521,6 +555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "【风口研报·公司】切入英伟达、华为等全球算力核心供应链，分析师强call公司高端新材料卡位AI算力高景气赛道，MLCC刚需材料产能落地投产，已正式进入规模化放量阶段；另有公司新切入北美AIDC发电业务",
+          "url": "https://api3.cls.cn/share/article/2451289?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "上海：创新算力要素市场化改革 持续探索算力作价入股等新型投资方式以及“算力资源+应用场景”新招商模式",
@@ -624,6 +669,269 @@
       ]
     },
     {
+      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
+          "url": "https://www.cls.cn/detail/2450388",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 09时39分]"
+        },
+        {
+          "title": "A股“人形机器人第一股”宇树科技启动新股申购",
+          "url": "https://www.zaochenbao.com/news/china/202608/1078460.html",
+          "source": "早报",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时34分]"
+        },
+        {
+          "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750281",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时34分]"
+        },
+        {
+          "title": "报告：中国人形机器人制造商占全球出货量逾97%",
+          "url": "https://www.zaochenbao.com/news/china/202608/1078449.html",
+          "source": "早报",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时34分]"
+        },
+        {
+          "title": "评论：机器人能拯救老龄化的日本吗？",
+          "url": "https://www.zaochenbao.com/news/opinion/202608/1078445.html",
+          "source": "早报",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时34分]"
+        },
+        {
+          "title": "珞石机器人(03752.HK)：根据悉数行使超额配股权配发345.47万股",
+          "url": "https://www.gelonghui.com/news/5283171",
+          "source": "格隆汇",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 09时39分]"
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
+          "url": "https://www.cls.cn/detail/2451276",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时59分 ~ 21时02分]"
+        },
+        {
+          "title": "研报掘金丨东吴证券：维持浙江荣泰“买入”评级，机器人业务盈利亮眼",
+          "url": "https://www.gelonghui.com/news/5283220",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "格力博(301260.SZ)：四驱割草机器人相关研发、测试工作已基本完成",
+          "url": "https://www.gelonghui.com/news/5283744",
+          "source": "格隆汇",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "人形机器人概念拉升，机器人ETF涨超2%",
+          "url": "https://www.gelonghui.com/news/5283219",
+          "source": "格隆汇",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "沪指缩量调整跌0.8%，医药、机器人逆势大涨，半导体新股IPO首日暴涨740%，恒科指跌近2%",
+          "url": "https://wallstreetcn.com/articles/3779141",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时57分 ~ 21时02分]"
+        },
+        {
+          "title": "上海：大力推动开源体系建设，推动智能软件、语料、算法、模型、智能体、人形机器人软硬件等开源项目在沪“首发”",
+          "url": "https://wallstreetcn.com/livenews/3147986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 18时58分]"
+        },
+        {
+          "title": "高盛称AI投资重点正转向人形机器人 2027年至2029年或迎规模化部署",
+          "url": "https://api3.cls.cn/share/article/2451251?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "机构：上半年全球人形机器人出货量增3倍，中国制造商占97%",
+          "url": "https://flash.jin10.com/detail/20260811091423772800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "蚂蚁集团领投 戴盟机器人宣布完成数亿元融资",
+          "url": "https://wallstreetcn.com/livenews/3147843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "鑫宏业(301310.SZ)：公司机器人电缆产品目前尚未与宇树机器人开展供货合作",
+          "url": "https://www.gelonghui.com/news/5283247",
+          "source": "格隆汇",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "收评：三大指数集体冲高回落 人形机器人概念逆势走强",
+          "url": "https://api3.cls.cn/share/article/2451120?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "A股收评：沪指回落探底收跌0.82% 机器人概念午后异动冲高",
+          "url": "https://flash.jin10.com/detail/20260811150739568800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "富瀚微：公司有芯片供货给工业机器人公司",
+          "url": "https://api3.cls.cn/share/article/2450960?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "人形机器人概念震荡拉升 斯菱智驱涨超10%",
+          "url": "https://api3.cls.cn/share/article/2450893?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "A股人形机器人概念震荡拉升，斯菱智驱涨超10%，拓斯达、五洲新春、奥比中光、北自科技、三花智控跟涨。",
+          "url": "https://flash.jin10.com/detail/20260811105022482800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "A股人形机器人概念股午后拉升，巨轮智能、北特科技直线涨停，斯菱智驱涨超17%，瑞迪智驱、禾川科技、安培龙、丰光精密等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
       "match_count": 22,
       "titles": [
@@ -689,6 +997,18 @@
           "time_info": "[01时56分 ~ 02时56分]"
         },
         {
+          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
+          "url": "https://wallstreetcn.com/livenews/3148048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 21时02分]"
+        },
+        {
           "title": "美国得州州长Abbott：OpenAI承诺将遵守本地数据中心标准。",
           "url": "https://wallstreetcn.com/livenews/3147632",
           "source": "华尔街见闻-快讯",
@@ -734,17 +1054,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 06时37分]"
-        },
-        {
-          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
-          "url": "https://wallstreetcn.com/livenews/3148048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
         },
         {
           "title": "【电报解读】深度求索开设“DeepSeek Harness团队”公众号，机构称国产大模型从“可用”到“好用”，将加快大模型在千行百业应用场景的落地，这家公司AI助手完成了DeepSeek大模型的接入",
@@ -877,257 +1186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
-          "url": "https://www.cls.cn/detail/2450388",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时00分 ~ 09时39分]"
-        },
-        {
-          "title": "A股“人形机器人第一股”宇树科技启动新股申购",
-          "url": "https://www.zaochenbao.com/news/china/202608/1078460.html",
-          "source": "早报",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时34分]"
-        },
-        {
-          "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750281",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时34分]"
-        },
-        {
-          "title": "报告：中国人形机器人制造商占全球出货量逾97%",
-          "url": "https://www.zaochenbao.com/news/china/202608/1078449.html",
-          "source": "早报",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时34分]"
-        },
-        {
-          "title": "评论：机器人能拯救老龄化的日本吗？",
-          "url": "https://www.zaochenbao.com/news/opinion/202608/1078445.html",
-          "source": "早报",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时34分]"
-        },
-        {
-          "title": "珞石机器人(03752.HK)：根据悉数行使超额配股权配发345.47万股",
-          "url": "https://www.gelonghui.com/news/5283171",
-          "source": "格隆汇",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 09时39分]"
-        },
-        {
-          "title": "研报掘金丨东吴证券：维持浙江荣泰“买入”评级，机器人业务盈利亮眼",
-          "url": "https://www.gelonghui.com/news/5283220",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "人形机器人概念拉升，机器人ETF涨超2%",
-          "url": "https://www.gelonghui.com/news/5283219",
-          "source": "格隆汇",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
-          "url": "https://www.cls.cn/detail/2451276",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时59分 ~ 19时46分]"
-        },
-        {
-          "title": "沪指缩量调整跌0.8%，医药、机器人逆势大涨，半导体新股IPO首日暴涨740%，恒科指跌近2%",
-          "url": "https://wallstreetcn.com/articles/3779141",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时57分 ~ 19时46分]"
-        },
-        {
-          "title": "上海：大力推动开源体系建设，推动智能软件、语料、算法、模型、智能体、人形机器人软硬件等开源项目在沪“首发”",
-          "url": "https://wallstreetcn.com/livenews/3147986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时58分]"
-        },
-        {
-          "title": "高盛称AI投资重点正转向人形机器人 2027年至2029年或迎规模化部署",
-          "url": "https://api3.cls.cn/share/article/2451251?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "机构：上半年全球人形机器人出货量增3倍，中国制造商占97%",
-          "url": "https://flash.jin10.com/detail/20260811091423772800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "蚂蚁集团领投 戴盟机器人宣布完成数亿元融资",
-          "url": "https://wallstreetcn.com/livenews/3147843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "鑫宏业(301310.SZ)：公司机器人电缆产品目前尚未与宇树机器人开展供货合作",
-          "url": "https://www.gelonghui.com/news/5283247",
-          "source": "格隆汇",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "收评：三大指数集体冲高回落 人形机器人概念逆势走强",
-          "url": "https://api3.cls.cn/share/article/2451120?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "A股收评：沪指回落探底收跌0.82% 机器人概念午后异动冲高",
-          "url": "https://flash.jin10.com/detail/20260811150739568800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "富瀚微：公司有芯片供货给工业机器人公司",
-          "url": "https://api3.cls.cn/share/article/2450960?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "人形机器人概念震荡拉升 斯菱智驱涨超10%",
-          "url": "https://api3.cls.cn/share/article/2450893?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "A股人形机器人概念震荡拉升，斯菱智驱涨超10%，拓斯达、五洲新春、奥比中光、北自科技、三花智控跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811105022482800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "A股人形机器人概念股午后拉升，巨轮智能、北特科技直线涨停，斯菱智驱涨超17%，瑞迪智驱、禾川科技、安培龙、丰光精密等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3147863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
         }
       ]
     },
@@ -1793,8 +1851,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时56分 ~ 19时46分]"
+          "appearance_count": 17,
+          "time_info": "[02时56分 ~ 21时02分]"
         },
         {
           "title": "中国发射卫星失利 运载火箭升空不到90秒爆炸",
@@ -1990,6 +2048,20 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "iPhone前景隐忧引发华尔街看空情绪升温：六家机构发出苹果卖出信号，创2012年以来之最",
+          "url": "https://wallstreetcn.com/articles/3779096",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时59分 ~ 21时02分]"
+        },
+        {
           "title": "郭明錤：苹果今年硬件出货量确因内存短缺而下调",
           "url": "https://api3.cls.cn/share/article/2450686?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -1999,19 +2071,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "iPhone前景隐忧引发华尔街看空情绪升温：六家机构发出苹果卖出信号，创2012年以来之最",
-          "url": "https://wallstreetcn.com/articles/3779096",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时59分 ~ 19时46分]"
         },
         {
           "title": "报道：苹果以玻璃为主体的iPhone仍将按计划于2027周年纪念日推出",
@@ -2145,6 +2204,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "液冷",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【研选•研报数据】全球稀土供应链正在从效率优先转向安全优先，分析师看好具备中重稀土资源和分离能力的稀土企业；公司液冷设备已向头部厂商实现小批量交付，并前瞻性卡位人形机器人精密加工设备",
+          "url": "https://api3.cls.cn/share/article/2449556?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "强瑞技术：拟定增募资不超10.5亿元用于AI服务器精密液冷部件产品等项目",
+          "url": "https://api3.cls.cn/share/article/2451517?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 19时46分]"
+        },
+        {
+          "title": "强瑞技术：拟定增募资不超过10.5亿元 用于AI服务器精密液冷部件等项目",
+          "url": "https://flash.jin10.com/detail/20260811193754160800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 19时46分]"
+        },
+        {
+          "title": "强瑞技术：拟定增募资不超过10.5亿元，用于AI服务器精密液冷部件产品及服务器自动化组装、检测设备研发与制造项目、高端半导体设备精密零部件生产制造项目、强瑞技术龙华区总部基地建设项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3148057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "华阳集团：惠州东兴工厂光模块、液冷散热零部件扩产项目即将投产",
+          "url": "https://flash.jin10.com/detail/20260811201810332800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     },
@@ -2312,45 +2432,6 @@
       ]
     },
     {
-      "keyword_group": "液冷",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【研选•研报数据】全球稀土供应链正在从效率优先转向安全优先，分析师看好具备中重稀土资源和分离能力的稀土企业；公司液冷设备已向头部厂商实现小批量交付，并前瞻性卡位人形机器人精密加工设备",
-          "url": "https://api3.cls.cn/share/article/2449556?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "强瑞技术：拟定增募资不超10.5亿元用于AI服务器精密液冷部件产品等项目",
-          "url": "https://api3.cls.cn/share/article/2451517?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
-        },
-        {
-          "title": "强瑞技术：拟定增募资不超过10.5亿元 用于AI服务器精密液冷部件等项目",
-          "url": "https://flash.jin10.com/detail/20260811193754160800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "药物发现 分子模拟 AI制药",
       "match_count": 2,
       "titles": [
@@ -2366,8 +2447,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时28分 ~ 19时46分]"
+          "appearance_count": 9,
+          "time_info": "[14时28分 ~ 21时02分]"
         },
         {
           "title": "【电报解读】诺和诺德携手亚马逊推动通过人工智能加速药物研发！机构看好基因合成、蛋白表达等产业链环节有望持续受益AI制药渗透率提升带来的增量市场，这家公司在重组蛋白领域的临床和商业化项目正稳步推进",
@@ -2411,6 +2492,34 @@
       ]
     },
     {
+      "keyword_group": "量子科技 量子计算 量子通信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国总统李在明呼吁对量子计算等未来产业进行大规模战略投资",
+          "url": "https://api3.cls.cn/share/article/2451143?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "上海量子计算企业不筹量子宣布完成数亿元A轮融资",
+          "url": "https://wallstreetcn.com/livenews/3148070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "比特币 以太坊",
       "match_count": 2,
       "titles": [
@@ -2441,19 +2550,19 @@
       ]
     },
     {
-      "keyword_group": "量子科技 量子计算 量子通信",
+      "keyword_group": "储能",
       "match_count": 1,
       "titles": [
         {
-          "title": "韩国总统李在明呼吁对量子计算等未来产业进行大规模战略投资",
-          "url": "https://api3.cls.cn/share/article/2451143?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
+          "title": "阳光电源(300274.SZ)：目前在美销售的光伏逆变器、储能系统不受影响",
+          "url": "https://www.gelonghui.com/news/5283740",
+          "source": "格隆汇",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "21时02分"
         }
       ]
     }
