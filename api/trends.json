@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T09:50:48.707183+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-08-12T13:55:42.306865+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "OpenAI高管Brad Lightcap将离职 开启“新项目”",
@@ -154,6 +154,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "财联社8月12日电，前OpenAI执行官寻求为其初创公司争取7.5亿美元的估值。",
           "url": "https://api3.cls.cn/share/article/2451758?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -176,6 +187,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "DeepSeek智能体要来了？公众号已完成注册认证",
+          "url": "https://wallstreetcn.com/livenews/3148405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "据Business Insider：消息人士称，前OpenAI首席产品官凯文·韦尔正在为其新成立的AI科学初创公司寻求至少7.5亿美元估值。",
           "url": "https://flash.jin10.com/detail/20260812035315552800",
           "source": "金十数据",
@@ -190,7 +212,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
@@ -204,13 +226,25 @@
           "time_info": "[00时26分 ~ 07时39分]"
         },
         {
+          "title": "【早报】美存储板块，逆势走高；油价上涨、黄金回落；上海印发重磅规划，事关GPU、CPO等",
+          "url": "https://www.cls.cn/detail/2451806",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 13时55分]"
+        },
+        {
           "title": "A股算力租赁概念延续涨势，城地香江2连板，云赛智联一字涨停，鸿博股份、行云科技、安诺其、利通电子涨超6%，消息面上，《上海市软件和信息服务业发展“十五五”规划》发布，在松江、临港、青浦等布局打造十万卡级超大规模智算集群。",
           "url": "https://wallstreetcn.com/livenews/3148333",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -237,18 +271,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时40分 ~ 07时39分]"
-        },
-        {
-          "title": "【早报】美存储板块，逆势走高；油价上涨、黄金回落；上海印发重磅规划，事关GPU、CPO等",
-          "url": "https://www.cls.cn/detail/2451806",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 09时50分]"
         },
         {
           "title": "芝商所联合Silicon Data在10月推出算力期货",
@@ -304,7 +326,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -315,7 +337,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -326,7 +348,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -351,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "8月12日午间收评：创业板指半日涨1.73%，算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3148395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         }
       ]
     },
@@ -441,6 +474,90 @@
       ]
     },
     {
+      "keyword_group": "量子科技 量子计算 量子通信",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "财联社8月12日电，Quantinuum和Oracle宣布合作，推动企业采用混合量子计算技术。",
+          "url": "https://api3.cls.cn/share/article/2451760?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时41分]"
+        },
+        {
+          "title": "韩国政府：将启动7个“种子”项目，涉及核能、量子、航天和生物领域，以确保未来增长引擎。 目标在2035年前实现国产小型模块化核反应堆（SMR）的商业化。 目标在2029年前开发出国产100量子比特量子计算机，并力争在2035年前成为量子芯片制造领域世界第一。 目标在2030年前实现登月。 目标在2035年前实现脑机接口（BCI）产品的商业化。",
+          "url": "https://wallstreetcn.com/livenews/3148420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "韩国政府：计划到2029年自主研发100量子比特的量子计算机，力争到2035年成为量子芯片制造领域的领军者。",
+          "url": "https://flash.jin10.com/detail/20260812133113636800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "财联社8月12日电，韩国计划2029年前研发国产100量子比特量子计算机，目标2035年成为量子芯片制造领域全球第一。",
+          "url": "https://api3.cls.cn/share/article/2452143?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "财联社8月12日电，韩国政府宣布，将推出七大 “种子项目”，布局核能、量子科技、航天航空、生物医药领域，以此打造未来经济增长新引擎。小财注： “种子项目”属于韩国国家级前沿科创培育计划，寓意播种前沿技术、孕育未来核心产业。",
+          "url": "https://api3.cls.cn/share/article/2452133?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "量子计算公司Quantinum与甲骨文(ORCL.N)合作，加速在Oracle云基础设施上采用混合量子计算。",
+          "url": "https://flash.jin10.com/detail/20260812035520998800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "量子计算公司Quantinuum与甲骨文达成多年合作",
+          "url": "https://api3.cls.cn/share/article/2451882?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 7,
       "titles": [
@@ -496,7 +613,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -518,9 +635,98 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台积电 英伟达",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时41分]"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时39分]"
+        },
+        {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时35分]"
+        },
+        {
+          "title": "英伟达5000亿美元“循环融资”？大摩回击：投资由第三方主导，英伟达仅提供“残值支持”还能坐享长期分成",
+          "url": "https://wallstreetcn.com/articles/3779166",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 13时55分]"
+        },
+        {
+          "title": "英伟达信用风险指标回落 CEO澄清5000亿美元融资计划",
+          "url": "https://api3.cls.cn/share/article/2451728?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时35分]"
+        },
+        {
+          "title": "英伟达信用风险指标回落，黄仁勋澄清5000亿美元融资计划",
+          "url": "https://wallstreetcn.com/livenews/3148187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时35分]"
+        },
+        {
+          "title": "网传英伟达欲投资中际旭创、新易盛？公司紧急回应",
+          "url": "https://wallstreetcn.com/livenews/3148399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         }
       ]
     },
@@ -610,97 +816,9 @@
       ]
     },
     {
-      "keyword_group": "台积电 英伟达",
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
       "match_count": 6,
       "titles": [
-        {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时41分]"
-        },
-        {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时39分]"
-        },
-        {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 03时35分]"
-        },
-        {
-          "title": "英伟达5000亿美元“循环融资”？大摩回击：投资由第三方主导，英伟达仅提供“残值支持”还能坐享长期分成",
-          "url": "https://wallstreetcn.com/articles/3779166",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 09时50分]"
-        },
-        {
-          "title": "英伟达信用风险指标回落 CEO澄清5000亿美元融资计划",
-          "url": "https://api3.cls.cn/share/article/2451728?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时35分]"
-        },
-        {
-          "title": "英伟达信用风险指标回落，黄仁勋澄清5000亿美元融资计划",
-          "url": "https://wallstreetcn.com/livenews/3148187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "日媒：中国孩子暑期求助人工智能家教",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/08/12/8b2957fe18ac4df5823e6a9d07d9e6e7.html",
-          "source": "参考消息",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
         {
           "title": "财联社8月12日电，美国参议员Sanders呼吁人工智能公司暂停开发。",
           "url": "https://api3.cls.cn/share/article/2451766?os=web&sv=7.7.5&app=",
@@ -712,6 +830,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时41分 ~ 06时41分]"
+        },
+        {
+          "title": "日媒：中国孩子暑期求助人工智能家教",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/08/12/8b2957fe18ac4df5823e6a9d07d9e6e7.html",
+          "source": "参考消息",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 13时55分]"
+        },
+        {
+          "title": "“易中天”大涨，通信ETF涨超4%，科创成长ETF、创业板人工智能ETF涨超3%",
+          "url": "https://www.gelonghui.com/news/5283887",
+          "source": "格隆汇",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "【电报解读】Manus将恢复以独立公司的形式运营，机构称2026年AI Agent技术演进及商业化有望进入新拐点，将成为AI产业新的增长极，这家公司持股企业是Manus的投资者之一",
@@ -731,7 +872,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -750,7 +891,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
@@ -796,44 +937,76 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 01时29分]"
+        },
+        {
+          "title": "永达股份：公司生产的产品暂未应用于人形机器人领域",
+          "url": "https://api3.cls.cn/share/article/2452109?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         }
       ]
     },
     {
-      "keyword_group": "量子科技 量子计算 量子通信",
-      "match_count": 3,
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 5,
       "titles": [
         {
-          "title": "财联社8月12日电，Quantinuum和Oracle宣布合作，推动企业采用混合量子计算技术。",
-          "url": "https://api3.cls.cn/share/article/2451760?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
+          "title": "中国长安汽车与华为签署战略合作框架协议",
+          "url": "https://wallstreetcn.com/livenews/3148426",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            29
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 06时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
-          "title": "量子计算公司Quantinum与甲骨文(ORCL.N)合作，加速在Oracle云基础设施上采用混合量子计算。",
-          "url": "https://flash.jin10.com/detail/20260812035520998800",
-          "source": "金十数据",
+          "title": "小米汽车: 7月SU7销量21,044辆。",
+          "url": "https://wallstreetcn.com/livenews/3148318",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时41分"
+          "time_info": "09时50分"
         },
         {
-          "title": "量子计算公司Quantinuum与甲骨文达成多年合作",
-          "url": "https://api3.cls.cn/share/article/2451882?os=web&sv=7.7.5&app=",
+          "title": "中国长安汽车与华为签署战略合作框架协议",
+          "url": "https://api3.cls.cn/share/article/2452137?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            23
+            15
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "中国长安汽车与华为签署战略合作框架协议",
+          "url": "https://flash.jin10.com/detail/20260812132252318800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "财联社8月12日电，小米汽车7月SU7销量21044辆。",
+          "url": "https://api3.cls.cn/share/article/2451888?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -841,7 +1014,7 @@
     },
     {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -865,6 +1038,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "创业板指午后涨幅扩大至2%，光纤、光刻机、存储芯片等板块涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3148414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         }
       ]
     },
@@ -879,7 +1063,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -890,7 +1074,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -907,7 +1091,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -918,7 +1102,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -954,30 +1138,30 @@
       ]
     },
     {
-      "keyword_group": "小米 特斯拉 华为",
+      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
       "match_count": 2,
       "titles": [
         {
-          "title": "小米汽车: 7月SU7销量21,044辆。",
-          "url": "https://wallstreetcn.com/livenews/3148318",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国政府：计划在2035年前实现脑机接口产品的商业化。",
+          "url": "https://flash.jin10.com/detail/20260812133152098800",
+          "source": "金十数据",
           "ranks": [
-            13
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "13时55分"
         },
         {
-          "title": "财联社8月12日电，小米汽车7月SU7销量21044辆。",
-          "url": "https://api3.cls.cn/share/article/2451888?os=web&sv=7.7.5&app=",
+          "title": "财联社8月12日电，韩国政府计划在2035年前实现脑机接口产品的商业化。",
+          "url": "https://api3.cls.cn/share/article/2452150?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            19
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "13时55分"
         }
       ]
     },
@@ -1016,6 +1200,23 @@
       ]
     },
     {
+      "keyword_group": "储能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【风口研报·公司】海外储能和数据中心业务驱动中报超预期，分析师还看好公司AIDC关键电源布局深入，中期市场空间预计是几百亿级别，有望成为新增长极",
+          "url": "https://api3.cls.cn/share/article/2452035?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
       "match_count": 1,
       "titles": [
@@ -1026,7 +1227,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -1043,7 +1244,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
