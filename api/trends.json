@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T01:29:29.934064+08:00",
-  "total_titles_processed": 322,
+  "generated_at": "2026-08-14T02:31:20.536426+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 02时31分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
@@ -31,39 +31,6 @@
           "time_info": "[00时03分 ~ 00时04分]"
         },
         {
-          "title": "财联社8月14日电，OpenAI表示，GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
-          "url": "https://api3.cls.cn/share/article/2453920?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "谷歌(GOOG.O)发布Gemini Flash系列更新，但其顶级模型升级推迟发布。",
-          "url": "https://flash.jin10.com/detail/20260814011003598800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
-          "url": "https://wallstreetcn.com/livenews/3149264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
           "url": "https://wallstreetcn.com/articles/3779332",
           "source": "华尔街见闻",
@@ -72,8 +39,32 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 02时31分]"
+        },
+        {
+          "title": "财联社8月14日电，OpenAI表示，GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
+          "url": "https://api3.cls.cn/share/article/2453920?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时29分]"
+          "time_info": "[01时29分 ~ 02时31分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)发布Gemini Flash系列更新，但其顶级模型升级推迟发布。",
+          "url": "https://flash.jin10.com/detail/20260814011003598800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 02时31分]"
         },
         {
           "title": "DeepSeek发布V4 Pro正式版 多项测试水平逼近Fable 5",
@@ -84,8 +75,127 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 02时31分]"
+        },
+        {
+          "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
+          "url": "https://wallstreetcn.com/livenews/3149264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时31分]"
+        },
+        {
+          "title": "谷歌推出Gemini 3.7 Flash模型",
+          "url": "https://api3.cls.cn/share/article/2453919?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时29分]"
+          "time_info": "[01时29分 ~ 02时31分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini 3.7 Flash在复杂文档处理方面性能超过Gemini 3.6 Flash。",
+          "url": "https://flash.jin10.com/detail/20260814010933087800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 02时31分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini Spark从今天起将使用Gemini 3.7 Flash。",
+          "url": "https://flash.jin10.com/detail/20260814010716822800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 02时31分]"
+        },
+        {
+          "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
+          "url": "https://flash.jin10.com/detail/20260814010146739800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 02时31分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini 3.7 Flash将在今年年底前以限时优惠价格提供，输入价格为每100万个词元0.75美元，输出价格为每100万个词元3.75美元。",
+          "url": "https://flash.jin10.com/detail/20260814010117935800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 02时31分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：推出Gemini 3.7 Flash模型。",
+          "url": "https://flash.jin10.com/detail/20260814010050327800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 02时31分]"
+        },
+        {
+          "title": "财联社8月14日电，OpenAI任命Dali Rajic为首席营收官。",
+          "url": "https://api3.cls.cn/share/article/2453907?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 02时31分]"
+        },
+        {
+          "title": "谷歌发布Gemini 3.7 Flash 但旗舰模型仍遥遥无期",
+          "url": "https://flash.jin10.com/detail/20260814012101785800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 02时31分]"
+        },
+        {
+          "title": "OpenAI在不到一年内任命新首席营收官",
+          "url": "https://wallstreetcn.com/livenews/3149247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时31分]"
         },
         {
           "title": "让DeepSeek给小说取架空国名",
@@ -100,91 +210,25 @@
         },
         {
           "title": "谷歌推出Gemini 3.7 Flash模型",
-          "url": "https://api3.cls.cn/share/article/2453919?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini 3.7 Flash在复杂文档处理方面性能超过Gemini 3.6 Flash。",
-          "url": "https://flash.jin10.com/detail/20260814010933087800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "谷歌推出Gemini 3.7 Flash模型",
           "url": "https://wallstreetcn.com/livenews/3149263",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
         {
-          "title": "谷歌(GOOG.O)：Gemini Spark从今天起将使用Gemini 3.7 Flash。",
-          "url": "https://flash.jin10.com/detail/20260814010716822800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
-          "url": "https://flash.jin10.com/detail/20260814010146739800",
-          "source": "金十数据",
+          "title": "谷歌推出新版 Gemini Flash，但顶级AI模型仍延迟发布",
+          "url": "https://wallstreetcn.com/livenews/3149263",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini 3.7 Flash将在今年年底前以限时优惠价格提供，输入价格为每100万个词元0.75美元，输出价格为每100万个词元3.75美元。",
-          "url": "https://flash.jin10.com/detail/20260814010117935800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：推出Gemini 3.7 Flash模型。",
-          "url": "https://flash.jin10.com/detail/20260814010050327800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "财联社8月14日电，OpenAI任命Dali Rajic为首席营收官。",
-          "url": "https://api3.cls.cn/share/article/2453907?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "02时31分"
         },
         {
           "title": "OpenAI营收部门二度换帅 加速营收增长为上市铺路",
@@ -193,18 +237,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "OpenAI在不到一年内任命新首席营收官",
-          "url": "https://wallstreetcn.com/livenews/3149247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         }
@@ -231,11 +264,12 @@
           "source": "财联社电报",
           "ranks": [
             1,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 02时31分]"
         },
         {
           "title": "美股存储芯片股大涨，闪迪涨逾15%",
@@ -301,8 +335,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 02时31分]"
         },
         {
           "title": "宁波华翔(002048.SZ)：下属子公司华翔启源会在本次世界机器人大会上设有展台",
@@ -312,8 +346,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 02时31分]"
         }
       ]
     },
@@ -329,8 +363,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 02时31分]"
         },
         {
           "title": "财联社8月13日电，美国数据及人工智能公司Databricks完成50亿美元融资，估值达1900亿美元。",
@@ -357,8 +391,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 02时31分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -367,9 +401,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 02时31分]"
         }
       ]
     },
@@ -403,8 +437,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 02时31分]"
         }
       ]
     },
@@ -420,8 +454,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 02时31分]"
         }
       ]
     },
@@ -438,8 +472,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 02时31分]"
         }
       ]
     },
