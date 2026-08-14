@@ -1,315 +1,106 @@
 {
-  "generated_at": "2026-08-14T21:53:37.433027+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-08-15T00:51:49.316502+08:00",
+  "total_titles_processed": 233,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 34,
+      "keyword_group": "台积电 英伟达",
+      "match_count": 8,
       "titles": [
         {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时03分 ~ 20时09分]"
-        },
-        {
-          "title": "DeepSeek智能体曝光！人人用得起的Agent？",
-          "url": "https://wallstreetcn.com/articles/3779332",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时40分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时50分 ~ 21时53分]"
-        },
-        {
-          "title": "DeepSeek发布V4 Pro正式版 多项测试水平逼近Fable 5",
-          "url": "https://www.zaochenbao.com/news/china/202608/1378675.html",
-          "source": "早报",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时40分]"
-        },
-        {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 20时09分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
+          "title": "美国证券交易委员会（SEC）文件显示，软银集团将其在台积电(TSM.N)的股份减少71.5%，降至56.5万份存托凭证。",
+          "url": "https://wallstreetcn.com/livenews/3149828",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
-          "title": "财联社8月14日电，OpenAI表示，GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
-          "url": "https://api3.cls.cn/share/article/2453920?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
+          "title": "英伟达官宣CPO交换机全面量产！硅光新时代来了？",
+          "url": "https://www.cls.cn/detail/2454461",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 03时37分]"
-        },
-        {
-          "title": "谷歌推出Gemini 3.7 Flash模型",
-          "url": "https://api3.cls.cn/share/article/2453919?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 03时37分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)发布Gemini Flash系列更新，但其顶级模型升级推迟发布。",
-          "url": "https://flash.jin10.com/detail/20260814011003598800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 02时31分]"
-        },
-        {
-          "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
-          "url": "https://wallstreetcn.com/livenews/3149264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 03时37分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini 3.7 Flash在复杂文档处理方面性能超过Gemini 3.6 Flash。",
-          "url": "https://flash.jin10.com/detail/20260814010933087800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 02时31分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini Spark从今天起将使用Gemini 3.7 Flash。",
-          "url": "https://flash.jin10.com/detail/20260814010716822800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 02时31分]"
-        },
-        {
-          "title": "财联社8月14日电，双子座空间站公司（Gemini Space Station）第二季度营收4550万美元，预估为4350万美元。",
-          "url": "https://api3.cls.cn/share/article/2453963?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时43分 ~ 06时41分]"
-        },
-        {
-          "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
-          "url": "https://flash.jin10.com/detail/20260814010146739800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 02时31分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini 3.7 Flash将在今年年底前以限时优惠价格提供，输入价格为每100万个词元0.75美元，输出价格为每100万个词元3.75美元。",
-          "url": "https://flash.jin10.com/detail/20260814010117935800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 02时31分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：推出Gemini 3.7 Flash模型。",
-          "url": "https://flash.jin10.com/detail/20260814010050327800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 02时31分]"
-        },
-        {
-          "title": "财联社8月14日电，OpenAI任命Dali Rajic为首席营收官。",
-          "url": "https://api3.cls.cn/share/article/2453907?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 02时31分]"
-        },
-        {
-          "title": "谷歌发布Gemini 3.7 Flash 但旗舰模型仍遥遥无期",
-          "url": "https://flash.jin10.com/detail/20260814012101785800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 02时31分]"
-        },
-        {
-          "title": "OpenAI 上市前年化营收突破 400 亿美元",
-          "url": "https://wallstreetcn.com/livenews/3149336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时40分]"
-        },
-        {
-          "title": "财联社8月14日电，OpenAI的收入年化规模据悉在IPO前突破400亿美元。自2025年底以来，这项收入指标已实现翻倍。",
-          "url": "https://api3.cls.cn/share/article/2453978?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时40分]"
-        },
-        {
-          "title": "据Axios：OpenAI在IPO前进行高管更换。",
-          "url": "https://flash.jin10.com/detail/20260814173053117800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
-        },
-        {
-          "title": "谷歌推出新版 Gemini Flash，但顶级AI模型仍延迟发布",
-          "url": "https://wallstreetcn.com/livenews/3149263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时37分]"
-        },
-        {
-          "title": "OpenAI在不到一年内任命新首席营收官",
-          "url": "https://wallstreetcn.com/livenews/3149247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时31分]"
-        },
-        {
-          "title": "让DeepSeek给小说取架空国名",
-          "url": "https://s.weibo.com/weibo?q=%E8%AE%A9DeepSeek%E7%BB%99%E5%B0%8F%E8%AF%B4%E5%8F%96%E6%9E%B6%E7%A9%BA%E5%9B%BD%E5%90%8D&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "谷歌推出Gemini 3.7 Flash模型",
-          "url": "https://wallstreetcn.com/livenews/3149263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "00时51分"
         },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，软银集团将其在台积电(TSM.N)的股份减少71.5%，降至56.5万份存托凭证。",
+          "url": "https://flash.jin10.com/detail/20260815002827575800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "财联社8月15日电，文件显示软银将其在台积电的持股削减71.5%至565000份ADS。",
+          "url": "https://api3.cls.cn/share/article/2454985?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
+          "url": "https://wallstreetcn.com/articles/3779448",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "英伟达与华尔街达成巨额融资协议",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/08/14/94523724c8e045a69e79fce875b4c873.html",
+          "source": "参考消息",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "英伟达CPO交换机全面量产",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BECPO%E4%BA%A4%E6%8D%A2%E6%9C%BA%E5%85%A8%E9%9D%A2%E9%87%8F%E4%BA%A7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "财联社8月14日电，美国证交会文件显示，阿联酋穆巴达拉投资公司持有英伟达公司65326股股份。",
+          "url": "https://api3.cls.cn/share/article/2454948?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 3,
+      "titles": [
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
           "url": "https://wallstreetcn.com/articles/3779418",
@@ -317,1652 +108,149 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "00时51分"
         },
         {
-          "title": "高盛：谷歌加速将Gemini植入硬件生态 AI战略转向规模化应用",
-          "url": "https://api3.cls.cn/share/article/2454781?os=web&sv=7.7.5&app=",
+          "title": "OpenAI首席财务官Friar将于今日举行投资者会议。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3149812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "财联社8月14日电，OpenAI首席财务官弗莱尔今日将举行投资者会议。",
+          "url": "https://api3.cls.cn/share/article/2454952?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            10
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "据悉OpenAI年化营收突破400亿美元",
-          "url": "https://flash.jin10.com/detail/20260814055506381800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "DeepSeek官网撤公告疑似回滚",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%98%E7%BD%91%E6%92%A4%E5%85%AC%E5%91%8A%E7%96%91%E4%BC%BC%E5%9B%9E%E6%BB%9A&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "OpenAI营收部门二度换帅 加速营收增长为上市铺路",
-          "url": "https://flash.jin10.com/detail/20260814004747744800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
-          "url": "https://flash.jin10.com/detail/20260814053819730800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资",
-          "url": "https://wallstreetcn.com/livenews/3149391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "梁文锋打新宇树科技",
-          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "金山办公“灵犀”接入DeepSeek-V4-Pro正式版，已向用户开放",
-          "url": "https://wallstreetcn.com/livenews/3149467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "00时51分"
         }
       ]
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 20,
+      "match_count": 2,
       "titles": [
         {
-          "title": "训练西迁、推理东沉，中国算力新版图正在形成|一线",
-          "url": "https://www.cls.cn/detail/2454285",
+          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
+          "url": "https://www.cls.cn/detail/2454822",
           "source": "财联社热门",
           "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时23分 ~ 21时53分]"
-        },
-        {
-          "title": "直击中芯国际业绩会：Q2晶圆量价提升 算力配套芯片供不应求",
-          "url": "https://www.cls.cn/detail/2454218",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时56分 ~ 20时09分]"
-        },
-        {
-          "title": "算力租赁概念午后持续走强 数据港涨停",
-          "url": "https://api3.cls.cn/share/article/2454380?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "中芯国际赵海军：中国互联网公司硬件投资超预期 算力及配套芯片供不应求",
-          "url": "https://flash.jin10.com/detail/20260814092750753800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "新平台让AI芯片更紧凑、高速且节能",
-          "url": "https://api3.cls.cn/share/article/2454000?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "大港股份(002077.SZ)：目前未涉及算力硬件方面的布局",
-          "url": "https://www.gelonghui.com/news/5285434",
-          "source": "格隆汇",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "A股算力租赁板块短线走高，数据港涨停，网宿科技逼近涨停，彩讯股份、行云科技、奥飞数据、利通电子。",
-          "url": "https://flash.jin10.com/detail/20260814134615076800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "A股算力租赁概念探底回升，网宿科技涨超17%，行云科技涨超10%，数据港、奥飞数据、利通电子跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3149511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 15时23分]"
+          "time_info": "00时51分"
         },
         {
           "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
           "url": "https://www.cls.cn/detail/2454650",
           "source": "财联社热门",
           "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时01分 ~ 21时53分]"
-        },
-        {
-          "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
-          "url": "https://www.cls.cn/detail/2453237",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "SENASIC(06675.HK)拟8月26日举行董事会会议审批中期业绩",
-          "url": "https://www.gelonghui.com/news/5285967",
-          "source": "格隆汇",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
-        },
-        {
-          "title": "财联社8月14日电，奥尼电子14日在互动平台表示，公司通过子公司京海智算开展算力租赁等算力服务，相关订单有序落地、正常交付。",
-          "url": "https://api3.cls.cn/share/article/2454534?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
-        },
-        {
-          "title": "【公告全知道】超节点+算力+液冷+量子科技！公司首个全国产十万卡AI超集群正式落成",
-          "url": "https://api3.cls.cn/share/article/2453801?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "【研选•研报数据】AI算力基础设施加速建设，带动高容值、高可靠性MLCC需求快速增长，行业进入新一轮上行周期；国内创新药企，多个不同治疗领域的产品管线已进入或即将进入商业化阶段",
-          "url": "https://api3.cls.cn/share/article/2452977?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "中芯国际赵海军：中国互联网公司硬件投资超预期 算力及配套芯片供不应求",
-          "url": "https://api3.cls.cn/share/article/2454130?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
-          "url": "https://www.cls.cn/detail/2454822",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "AI算力CPI",
-          "url": "https://flash.jin10.com/detail/20260814211050407800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "A股收盘：创业板指缩量涨超1%，算力硬件股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3149556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "截至8月13日，已有30余家北交所上市公司披露2026年半年报，企业成长成色初现。总体来看，已披露半年报的公司业绩表现抢眼，约三分之一企业上半年归母净利润同比增长超80%。算力服务、新能源、半导体等高景气赛道成为拉动业绩增长的核心引擎，凸显北交所“专精特新”企业的成长活力。（经济参考报）",
-          "url": "https://wallstreetcn.com/livenews/3149302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "算力租赁概念震荡回升 网宿科技涨超10%",
-          "url": "https://api3.cls.cn/share/article/2454316?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "美媒：为何亚洲比西方更热衷人工智能？",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/08/13/dd25f2e936d04a34b3c73f4efd1242e9.html",
-          "source": "参考消息",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 13时56分]"
-        },
-        {
-          "title": "港媒：中国开源人工智能给欧洲新选择",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/08/14/a3429f188ede436e9029c3f96460591e.html",
-          "source": "参考消息",
-          "ranks": [
-            14,
-            19,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时56分 ~ 21时53分]"
-        },
-        {
-          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3149415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "财联社8月14日电，Lululemon的首席人工智能官（Chief AI Officer）在任职不到一年后离职。",
-          "url": "https://api3.cls.cn/share/article/2453959?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时43分 ~ 06时41分]"
-        },
-        {
-          "title": "财联社8月14日电，美光创投推出2.5亿美元基金，投资下一代人工智能。",
-          "url": "https://api3.cls.cn/share/article/2453953?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 05时44分]"
-        },
-        {
-          "title": "财联社8月13日电，美国数据及人工智能公司Databricks完成50亿美元融资，估值达1900亿美元。",
-          "url": "https://api3.cls.cn/share/article/2453843?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "智洋创新：拟定增募资不超9.04亿元用于多垂域具身智能及人工智能体研发项目等",
-          "url": "https://api3.cls.cn/share/article/2454869?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "港股人工智能股延续涨势 智谱涨超5%",
-          "url": "https://api3.cls.cn/share/article/2454136?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3149282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
-          "url": "https://wallstreetcn.com/livenews/3149402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中芯国际联合首席执行官赵海军：人工智能支持的芯片需求上升40%。",
-          "url": "https://flash.jin10.com/detail/20260814091801763800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "港股AI应用股午后跌幅扩大，MINIMAX跌超10%，智谱跌近6%。",
-          "url": "https://wallstreetcn.com/livenews/3149519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "SK海力士董事长：AI智能体的使用量五年内可能增长77倍",
-          "url": "https://api3.cls.cn/share/article/2454332?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
-          "url": "https://flash.jin10.com/detail/20260814091603701800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "智洋创新：拟定增募资不超9.04亿元，用于多垂域具身智能及人工智能体研发等项目",
-          "url": "https://flash.jin10.com/detail/20260814210933708800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "中芯国际高管：下半年，人工智能产生的产业推动与溢出效应还将继续为集成电路制造带来广泛需求。",
-          "url": "https://wallstreetcn.com/livenews/3149386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "财联社8月14日电，西门子与莱茵豪森集团合作，开发用于人工智能数据中心的直流电源解决方案。",
-          "url": "https://api3.cls.cn/share/article/2454427?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中芯国际",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "业绩增长超预期 中芯国际Q2销售收入达30亿美元 产能利用率进一步提升",
-          "url": "https://www.cls.cn/detail/2453693",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 09时50分]"
-        },
-        {
-          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时29分 ~ 16时46分]"
-        },
-        {
-          "title": "中芯国际二季度业绩大涨 股价涨近5%",
-          "url": "https://www.zaochenbao.com/news/china/202608/1478708.html",
-          "source": "早报",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时56分 ~ 16时46分]"
-        },
-        {
-          "title": "港A异动丨Q2业绩与Q3指引双双超预期！中芯国际AH股齐涨，H股升近5%",
-          "url": "https://www.gelonghui.com/news/5285362",
-          "source": "格隆汇",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "财联社8月14日电，港股半导体板块午后回升，中芯国际一度涨7%。",
-          "url": "https://api3.cls.cn/share/article/2454378?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "港股半导体板块午后回暖，中芯国际(00981.HK)持续走强涨超6%，英诺赛科(02577.HK)涨超3%，纳芯微(02676.HK)、兆易创新(03986.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260814134340429800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "港股半导体股走强 中芯国际涨近5%",
-          "url": "https://api3.cls.cn/share/article/2454134?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中芯国际赵海军：三季度计入新增产能后的利用率预计维持在约95%高位",
-          "url": "https://wallstreetcn.com/livenews/3149400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "港股开盘，恒指开跌0.7%，科指开跌0.6%，中芯国际(00981.HK)绩后开涨4.74%，公司Q3收入预计环比增长2%到4%，毛利率指引为26%-28%。",
-          "url": "https://flash.jin10.com/detail/20260814092050262800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中芯国际联合首席执行官赵海军：更高的定价将进一步推高毛利率。",
-          "url": "https://flash.jin10.com/detail/20260814091749587800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中芯国际赵海军：三季度计入新增产能后的利用率预计维持在95%左右高位",
-          "url": "https://api3.cls.cn/share/article/2454115?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中芯国际联合首席执行官赵海军：第三季度出货的晶圆已应用新定价。",
-          "url": "https://flash.jin10.com/detail/20260814091735909800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中芯国际高管：三季度开出或下线的晶圆使用了新的价格。",
-          "url": "https://wallstreetcn.com/livenews/3149395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中芯国际赵海军：AI配套芯片需求旺盛 Q2中国区收入增长22%",
-          "url": "https://api3.cls.cn/share/article/2454100?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中芯国际赵海军：三季度计入新增产能后的利用率预计维持在约95%高位",
-          "url": "https://flash.jin10.com/detail/20260814091348703800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中芯国际赵海军：二季度海外订单回流 在地化制造继续加强",
-          "url": "https://api3.cls.cn/share/article/2454099?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "财联社8月14日电，中芯国际联合首席执行官表示，第三季度生产的晶圆已执行新定价。",
-          "url": "https://api3.cls.cn/share/article/2454095?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "市场消息：闪迪高管称公司预计明年向客户交付首批用于推理设备的HBF样品，公司已完成首款高带宽闪存芯片的流片。",
-          "url": "https://flash.jin10.com/detail/20260813234300494800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "财联社8月13日电，闪迪高管称公司预计明年向客户交付首批用于推理设备的HBF样品，公司已完成首款高带宽闪存芯片的流片。",
-          "url": "https://api3.cls.cn/share/article/2453885?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 02时31分]"
-        },
-        {
-          "title": "创业板指涨超1%，沪指跌0.1%，深成指涨0.51%，电子特气、CPO、存储芯片、6G等方向领涨，沪深京三市上涨个股超2400只。",
-          "url": "https://wallstreetcn.com/livenews/3149418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
-          "url": "https://wallstreetcn.com/livenews/3149787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "A股早评：三大指数集体高开，AI PC、存储芯片板块盘初活跃",
-          "url": "https://www.gelonghui.com/news/5285361",
-          "source": "格隆汇",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "A股存储芯片板块多股高开，阿莱德涨超11%，联芸科技涨超5%，兆易创新、中芯国际、德明利等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260814092711034800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "美股存储芯片股大涨，闪迪涨逾15%",
-          "url": "https://wallstreetcn.com/livenews/3149233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "闪迪(SNDK.O)高管表示，Meta Platforms(META.O)将加入相关团体，共同开发高带宽闪存（HBF）的开放标准。",
-          "url": "https://flash.jin10.com/detail/20260813233131889800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "A股存储芯片板块开盘活跃，阿莱德涨超10%，联芸科技、普冉股份、兆易创新、德明利、长鑫科技等集体高开。",
-          "url": "https://wallstreetcn.com/livenews/3149410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "SK集团董事长崔泰源表示，SK海力士正考虑以合资方式建设新的存储芯片工厂，以降低传统行业盛衰周期下巨额资本支出和产能过剩带来的风险。",
-          "url": "https://wallstreetcn.com/livenews/3149476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "投入翻倍仍谋划赴美建厂！SK崔泰源预判明年存储芯片供应缺口最大",
-          "url": "https://wallstreetcn.com/livenews/3149475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 比亚迪",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "财联社8月14日电，苹果公司表示，其应有权就通过App Store外部链接进行的购买收取15%的佣金。",
-          "url": "https://api3.cls.cn/share/article/2453971?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            1,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时43分 ~ 07时40分]"
-        },
-        {
-          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
-          "url": "https://www.cls.cn/detail/2454596",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时01分 ~ 21时53分]"
-        },
-        {
-          "title": "【数读IPO】背靠宁德时代、比亚迪等，智能制造领域领军企业今日申购",
-          "url": "https://www.cls.cn/detail/2454007",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 16时46分]"
-        },
-        {
-          "title": "财联社8月14日电，苹果公司于休斯敦开设先进制造中心，宣布将在今年开始在休斯顿生产Mac Mini。",
-          "url": "https://api3.cls.cn/share/article/2453932?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时36分 ~ 03时37分]"
-        },
-        {
-          "title": "苹果(AAPL.O)在休斯顿投资数亿美元，首批先进AI服务器已发货。",
-          "url": "https://flash.jin10.com/detail/20260814023226248800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时36分 ~ 03时37分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：宣布将在今年开始在休斯顿生产Mac Mini，并在休斯顿开设先进制造中心。",
-          "url": "https://flash.jin10.com/detail/20260814023134836800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时36分 ~ 03时37分]"
-        },
-        {
-          "title": "LG伊诺特上半年苹果相关营收达62.4亿美元 创历史新高",
-          "url": "https://api3.cls.cn/share/article/2454454?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "苹果在休斯顿开设先进制造中心，宣布将在今年开始在休斯顿生产Mac Mini。 苹果在休斯顿投资数亿美元，首批先进AI服务器已发货。",
-          "url": "https://wallstreetcn.com/livenews/3149278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "美股盘前要闻一览：英伟达官宣CPO交换机全面量产；苹果据悉训练了一款“中国定制”大模型；高盛看好HBF技术为闪迪打开AI存储新空间",
-          "url": "https://api3.cls.cn/share/article/2454844?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3149477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 卫星 火箭发动机 激光通信",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "新西兰称挫败中国一天文台在当地建卫星追踪设施计划",
-          "url": "https://www.zaochenbao.com/news/taiwan/202608/1378670.html",
-          "source": "早报",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时40分]"
-        },
-        {
-          "title": "江苏：支持火箭卫星总体、卫星载荷等领域龙头企业对接资本市场，加快上市步伐",
-          "url": "https://wallstreetcn.com/livenews/3149503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "江苏：到2028年有序推进若干个卫星星座建设 商业航天重点企业年产值力争达到600亿元",
-          "url": "https://api3.cls.cn/share/article/2454360?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "江苏：支持火箭卫星总体、卫星载荷等领域龙头企业对接资本市场 加快上市步伐",
-          "url": "https://api3.cls.cn/share/article/2454354?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "江苏：支持火箭卫星总体、卫星载荷等领域龙头企业对接资本市场，加快上市步伐",
-          "url": "https://flash.jin10.com/detail/20260814133300312800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "卫星化学：2026年上半年净利润62.27亿元，同比增126.94%",
-          "url": "https://wallstreetcn.com/livenews/3149724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "卫星化学：2026年半年度净利润同比增长126.94%",
-          "url": "https://api3.cls.cn/share/article/2454760?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "卫星化学：2026年上半年净利润62.27亿元，同比增长126.94%",
-          "url": "https://flash.jin10.com/detail/20260814191232103800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "阿维塔雍军回应争议：华为“非必要项”系误读",
-          "url": "https://api3.cls.cn/share/article/2454652?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
-        },
-        {
-          "title": "特斯拉据报最早本月将发布具“飞行”能力新款Roadster",
-          "url": "https://api3.cls.cn/share/article/2454880?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "报道：特斯拉计划最早于本月发布一款具备“飞行”能力Roadster跑车",
-          "url": "https://wallstreetcn.com/livenews/3149782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "小米集团称8月14日回购194万股B类股，耗资约4981万港元。",
-          "url": "https://wallstreetcn.com/livenews/3149741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "阿维塔雍军回应争议：华为“非必要项”系误读",
-          "url": "https://wallstreetcn.com/livenews/3149655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "The Information：特斯拉新款跑车与SpaceX合作。",
-          "url": "https://flash.jin10.com/detail/20260814211118322800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "The Information：特斯拉(TSLA.O)计划最早于本月推出新款“飞行”Roadster跑车。",
-          "url": "https://flash.jin10.com/detail/20260814210843134800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
-          "url": "https://wallstreetcn.com/livenews/3149305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台积电 英伟达",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "英伟达官宣CPO交换机全面量产！硅光新时代来了？",
-          "url": "https://www.cls.cn/detail/2454461",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时45分 ~ 21时53分]"
-        },
-        {
-          "title": "英伟达与华尔街达成巨额融资协议",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/08/14/94523724c8e045a69e79fce875b4c873.html",
-          "source": "参考消息",
-          "ranks": [
-            4,
-            9,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时56分 ~ 21时53分]"
-        },
-        {
-          "title": "【金牌纪要库】英伟达Vera Rubin进入全面量产阶段，这个环节有望率先实现利润兑现，形成新一轮“量、价、利”共振",
-          "url": "https://api3.cls.cn/share/article/2453362?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "【盘中宝】AI时代刚需底座，头部公司已验证该领域成为确定性主流方案，相关产业迈入1-N导入期，这家企业客户包括英伟达、谷歌",
-          "url": "https://api3.cls.cn/share/article/2454085?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "“大空头”再炮轰：英伟达AI扩张有“安然的影子”、危害“高出几个数量级”",
-          "url": "https://wallstreetcn.com/articles/3779359",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
-          "url": "https://wallstreetcn.com/articles/3779448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "财联社8月14日电，SK海力士今年上半年从英伟达获得的销售额超过17万亿韩元，约占公司总销售额的13%。",
-          "url": "https://api3.cls.cn/share/article/2454776?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "据韩媒报道，SK海力士今年上半年从英伟达获得的销售额超过17万亿韩元，约占公司总销售额的13%。",
-          "url": "https://flash.jin10.com/detail/20260814192215113800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3149311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时41分]"
-        },
-        {
-          "title": "美股开盘，道指跌0.1%、标普500指数涨0.1%、纳指涨0.16%。闪迪(SNDK.O)涨7%，公司预计2028至2030财年营收将保持中高双位数增长。西部数据(WDC.O)和美光科技(MU.O)涨约4%。应用材料(AMAT.O)跌5%，公司此前公布业绩。",
-          "url": "https://flash.jin10.com/detail/20260814213040976800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "美国零售销售数据公布后，标普500指数期货升至盘中高点，美国国债上涨，美元指数跌幅扩大。",
-          "url": "https://wallstreetcn.com/livenews/3149766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "美股三大指数集体收涨，道指涨0.13%，纳指涨0.81%，标普500指数涨0.65%。 存储板块大涨，闪迪涨13.67%，西部数据、海力士涨超7%。光通信板块走低，Coherent跌约8%，Lumentum、康宁、Applied Optoelectronics跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3149304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石墨负极 石墨烯 碳酸锂 多晶硅 工业硅 碳酸锂",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "多晶硅连续两周无成交价 中游已“涨声”连连 光伏价格传导迎关键考验",
-          "url": "https://www.cls.cn/detail/2453703",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 09时50分]"
-        },
-        {
-          "title": "商品期货收盘，焦煤主力合约涨超4%，菜籽油涨超3%，LU燃油、碳酸锂、燃料油、纯苯、多晶硅、甲醇、工业硅、苯乙烯涨超2%。钯跌超3%，不锈钢跌超2%，沪银跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3149547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 16时46分]"
-        },
-        {
-          "title": "碳酸锂主力合约日内涨幅达2.00%，现报152740元/吨。",
-          "url": "https://flash.jin10.com/detail/20260814091431788800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "本周多晶硅市场价格上涨",
-          "url": "https://api3.cls.cn/share/article/2454747?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
+          "time_info": "00时51分"
         }
       ]
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "一博科技(301366.SZ)：机器人领域收入放量趋势明显，AI相关的服务器、光模块业务也保持较高的增长",
-          "url": "https://www.gelonghui.com/news/5285273",
-          "source": "格隆汇",
+          "title": "会走路、会说话的机器人即将进入汽车工厂",
+          "url": "https://www.zaochenbao.com/news/politics/202608/1478758.html",
+          "source": "早报",
           "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时40分]"
-        },
-        {
-          "title": "宁波华翔(002048.SZ)：下属子公司华翔启源会在本次世界机器人大会上设有展台",
-          "url": "https://www.gelonghui.com/news/5285266",
-          "source": "格隆汇",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 06时41分]"
-        },
-        {
-          "title": "8月14日投资避雷针：5连板人气股澄清 主营业务不涉及人形机器人及零配件的生产制造",
-          "url": "https://www.cls.cn/detail/2454041",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 16时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "五轴联动数控 超高精度光栅尺 工业母机",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "四部门：集成电路企业、工业母机企业在2026年1月1日至2028年12月31日期间发生非货币性资产交换 可在不超过5年期限内分期均匀计入相应年度的应纳税所得额",
-          "url": "https://api3.cls.cn/share/article/2454439?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时23分"
+          "time_info": "00时51分"
         },
         {
-          "title": "财政部：集成电路企业、工业母机企业发生非货币性资产交换5年内转让所取得资产的 应停止执行分期纳税政策",
-          "url": "https://flash.jin10.com/detail/20260814150410590800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "四部门发布关于集成电路企业、工业母机企业非货币性资产交换企业所得税政策的公告",
-          "url": "https://wallstreetcn.com/livenews/3149554",
+          "title": "机构预测机器人租赁市场规模或破百亿元",
+          "url": "https://wallstreetcn.com/livenews/3149813",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "液冷",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "液冷服务器概念盘初活跃 康盛股份涨停",
-          "url": "https://api3.cls.cn/share/article/2454137?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "【风口研报·公司】这家公司核心产品受益于电网投资建设，且前瞻卡位浸没式液冷，受益于AI数据中心兴起对其配套设施拉动",
-          "url": "https://api3.cls.cn/share/article/2454245?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智能驾驶 自动驾驶 车载芯片 高精地图",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小马智行－Ｗ(02026.HK)扩展与UBER的合作 于欧洲五座城市部署超过2,000辆自动驾驶出租车",
-          "url": "https://www.gelonghui.com/news/5285397",
-          "source": "格隆汇",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "智能驾驶概念异动拉升 索菱股份涨停",
-          "url": "https://api3.cls.cn/share/article/2454331?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "00时51分"
         }
       ]
     },
     {
-      "keyword_group": "英特尔 高通",
+      "keyword_group": "苹果 比亚迪",
       "match_count": 2,
       "titles": [
         {
-          "title": "炬光科技：NPO/CPO相关微光学产品及高通道V型槽产品部分完成批量验证 在手订单持续增加",
-          "url": "https://wallstreetcn.com/livenews/3149581",
-          "source": "华尔街见闻-快讯",
+          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
+          "url": "https://www.cls.cn/detail/2454596",
+          "source": "财联社热门",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时46分"
+          "time_info": "00时51分"
         },
         {
-          "title": "费城半导体指数涨超2%，超微电脑涨超10%，英特尔涨近5%，美光科技涨超4%，闪迪涨近6%。",
-          "url": "https://wallstreetcn.com/livenews/3149221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "固态电池 钠离子电池 液流电池 全钒电池 锌溴电池",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "德赛电池(000049.SZ)：钠离子电池产品已实现兆瓦级的交付",
-          "url": "https://www.gelonghui.com/news/5285432",
-          "source": "格隆汇",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "澳大利亚每25户家庭就有1户安装储能电池 家庭储能规模超过美国",
-          "url": "https://wallstreetcn.com/livenews/3149568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药 新药研发 临床三期",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【风口研报·洞察】AI制药显著提升创新药研发效率，有望直接拉动上游试剂、耗材、实验服务等生命科学供应链的消耗强度，分析师认为需求传导链条清晰且具有不可逆性；下半年聚焦AI+红利+黄金",
-          "url": "https://api3.cls.cn/share/article/2453519?os=web&sv=7.7.5&app=",
+          "title": "财联社8月14日电，美国证交会文件显示，阿联酋穆巴达拉投资公司清仓了其持有的苹果公司股份。",
+          "url": "https://api3.cls.cn/share/article/2454951?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            30
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     },
     {
-      "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
+      "keyword_group": "美债 美股 美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "华强北AI眼镜销量暴涨100%",
-          "url": "https://wallstreetcn.com/livenews/3149755",
-          "source": "华尔街见闻-快讯",
+          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港媒：中国开源人工智能给欧洲新选择",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/08/14/a3429f188ede436e9029c3f96460591e.html",
+          "source": "参考消息",
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费电子 智能穿戴 智能座舱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月14日（周五）富时中国A50指数成分股今日收盘行情一览：成分股大面积飘绿，通信设备、炼化、煤炭、消费电子走高",
-          "url": "https://flash.jin10.com/detail/20260814150421289800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "脑机接口 脑工程 脑科学 神经接口 植入式电极 非侵入式脑电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "浙江出台18条举措，推进脑机接口领域发展",
-          "url": "https://wallstreetcn.com/livenews/3149523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
+          "time_info": "00时51分"
         }
       ]
     }
