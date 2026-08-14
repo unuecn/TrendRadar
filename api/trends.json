@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T20:09:15.798555+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2026-08-14T21:53:37.433027+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -34,6 +34,20 @@
           "time_info": "[00时03分 ~ 07时40分]"
         },
         {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 21时53分]"
+        },
+        {
           "title": "DeepSeek发布V4 Pro正式版 多项测试水平逼近Fable 5",
           "url": "https://www.zaochenbao.com/news/china/202608/1378675.html",
           "source": "早报",
@@ -53,19 +67,6 @@
             8,
             7,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 20时09分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -310,13 +311,24 @@
           "time_info": "01时29分"
         },
         {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "高盛：谷歌加速将Gemini植入硬件生态 AI战略转向规模化应用",
           "url": "https://api3.cls.cn/share/article/2454781?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -401,7 +413,7 @@
     },
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "训练西迁、推理东沉，中国算力新版图正在形成|一线",
@@ -413,8 +425,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 20时09分]"
+          "appearance_count": 7,
+          "time_info": "[15时23分 ~ 21时53分]"
         },
         {
           "title": "直击中芯国际业绩会：Q2晶圆量价提升 算力配套芯片供不应求",
@@ -502,11 +514,12 @@
           "url": "https://www.cls.cn/detail/2454650",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时01分 ~ 20时09分]"
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 21时53分]"
         },
         {
           "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
@@ -575,6 +588,28 @@
           "time_info": "09时50分"
         },
         {
+          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
+          "url": "https://www.cls.cn/detail/2454822",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "AI算力CPI",
+          "url": "https://flash.jin10.com/detail/20260814211050407800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "A股收盘：创业板指缩量涨超1%，算力硬件股集体走强",
           "url": "https://wallstreetcn.com/livenews/3149556",
           "source": "华尔街见闻-快讯",
@@ -606,6 +641,204 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "美媒：为何亚洲比西方更热衷人工智能？",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/08/13/dd25f2e936d04a34b3c73f4efd1242e9.html",
+          "source": "参考消息",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 13时56分]"
+        },
+        {
+          "title": "港媒：中国开源人工智能给欧洲新选择",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/08/14/a3429f188ede436e9029c3f96460591e.html",
+          "source": "参考消息",
+          "ranks": [
+            14,
+            19,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时56分 ~ 21时53分]"
+        },
+        {
+          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "财联社8月14日电，Lululemon的首席人工智能官（Chief AI Officer）在任职不到一年后离职。",
+          "url": "https://api3.cls.cn/share/article/2453959?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 06时41分]"
+        },
+        {
+          "title": "财联社8月14日电，美光创投推出2.5亿美元基金，投资下一代人工智能。",
+          "url": "https://api3.cls.cn/share/article/2453953?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 05时44分]"
+        },
+        {
+          "title": "财联社8月13日电，美国数据及人工智能公司Databricks完成50亿美元融资，估值达1900亿美元。",
+          "url": "https://api3.cls.cn/share/article/2453843?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 00时04分]"
+        },
+        {
+          "title": "智洋创新：拟定增募资不超9.04亿元用于多垂域具身智能及人工智能体研发项目等",
+          "url": "https://api3.cls.cn/share/article/2454869?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "港股人工智能股延续涨势 智谱涨超5%",
+          "url": "https://api3.cls.cn/share/article/2454136?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3149282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
+          "url": "https://wallstreetcn.com/livenews/3149402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "中芯国际联合首席执行官赵海军：人工智能支持的芯片需求上升40%。",
+          "url": "https://flash.jin10.com/detail/20260814091801763800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "港股AI应用股午后跌幅扩大，MINIMAX跌超10%，智谱跌近6%。",
+          "url": "https://wallstreetcn.com/livenews/3149519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "SK海力士董事长：AI智能体的使用量五年内可能增长77倍",
+          "url": "https://api3.cls.cn/share/article/2454332?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
+          "url": "https://flash.jin10.com/detail/20260814091603701800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "智洋创新：拟定增募资不超9.04亿元，用于多垂域具身智能及人工智能体研发等项目",
+          "url": "https://flash.jin10.com/detail/20260814210933708800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "中芯国际高管：下半年，人工智能产生的产业推动与溢出效应还将继续为集成电路制造带来广泛需求。",
+          "url": "https://wallstreetcn.com/livenews/3149386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "财联社8月14日电，西门子与莱茵豪森集团合作，开发用于人工智能数据中心的直流电源解决方案。",
+          "url": "https://api3.cls.cn/share/article/2454427?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     },
@@ -808,184 +1041,8 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "美媒：为何亚洲比西方更热衷人工智能？",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/08/13/dd25f2e936d04a34b3c73f4efd1242e9.html",
-          "source": "参考消息",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 13时56分]"
-        },
-        {
-          "title": "港媒：中国开源人工智能给欧洲新选择",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/08/14/a3429f188ede436e9029c3f96460591e.html",
-          "source": "参考消息",
-          "ranks": [
-            14,
-            19,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时56分 ~ 20时09分]"
-        },
-        {
-          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3149415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "财联社8月14日电，Lululemon的首席人工智能官（Chief AI Officer）在任职不到一年后离职。",
-          "url": "https://api3.cls.cn/share/article/2453959?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时43分 ~ 06时41分]"
-        },
-        {
-          "title": "财联社8月14日电，美光创投推出2.5亿美元基金，投资下一代人工智能。",
-          "url": "https://api3.cls.cn/share/article/2453953?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 05时44分]"
-        },
-        {
-          "title": "财联社8月13日电，美国数据及人工智能公司Databricks完成50亿美元融资，估值达1900亿美元。",
-          "url": "https://api3.cls.cn/share/article/2453843?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "港股人工智能股延续涨势 智谱涨超5%",
-          "url": "https://api3.cls.cn/share/article/2454136?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3149282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
-          "url": "https://wallstreetcn.com/livenews/3149402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中芯国际联合首席执行官赵海军：人工智能支持的芯片需求上升40%。",
-          "url": "https://flash.jin10.com/detail/20260814091801763800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "港股AI应用股午后跌幅扩大，MINIMAX跌超10%，智谱跌近6%。",
-          "url": "https://wallstreetcn.com/livenews/3149519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "SK海力士董事长：AI智能体的使用量五年内可能增长77倍",
-          "url": "https://api3.cls.cn/share/article/2454332?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
-          "url": "https://flash.jin10.com/detail/20260814091603701800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中芯国际高管：下半年，人工智能产生的产业推动与溢出效应还将继续为集成电路制造带来广泛需求。",
-          "url": "https://wallstreetcn.com/livenews/3149386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "财联社8月14日电，西门子与莱茵豪森集团合作，开发用于人工智能数据中心的直流电源解决方案。",
-          "url": "https://api3.cls.cn/share/article/2454427?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "市场消息：闪迪高管称公司预计明年向客户交付首批用于推理设备的HBF样品，公司已完成首款高带宽闪存芯片的流片。",
@@ -1021,6 +1078,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3149787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "A股早评：三大指数集体高开，AI PC、存储芯片板块盘初活跃",
@@ -1103,7 +1171,7 @@
     },
     {
       "keyword_group": "苹果 比亚迪",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "财联社8月14日电，苹果公司表示，其应有权就通过App Store外部链接进行的购买收取15%的佣金。",
@@ -1127,8 +1195,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时01分 ~ 20时09分]"
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 21时53分]"
         },
         {
           "title": "【数读IPO】背靠宁德时代、比亚迪等，智能制造领域领军企业今日申购",
@@ -1196,6 +1264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "美股盘前要闻一览：英伟达官宣CPO交换机全面量产；苹果据悉训练了一款“中国定制”大模型；高盛看好HBF技术为闪迪打开AI存储新空间",
+          "url": "https://api3.cls.cn/share/article/2454844?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
@@ -1277,7 +1356,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1288,7 +1367,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1299,15 +1378,109 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         }
       ]
     },
     {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "阿维塔雍军回应争议：华为“非必要项”系误读",
+          "url": "https://api3.cls.cn/share/article/2454652?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
+        },
+        {
+          "title": "特斯拉据报最早本月将发布具“飞行”能力新款Roadster",
+          "url": "https://api3.cls.cn/share/article/2454880?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "报道：特斯拉计划最早于本月发布一款具备“飞行”能力Roadster跑车",
+          "url": "https://wallstreetcn.com/livenews/3149782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "小米集团称8月14日回购194万股B类股，耗资约4981万港元。",
+          "url": "https://wallstreetcn.com/livenews/3149741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "阿维塔雍军回应争议：华为“非必要项”系误读",
+          "url": "https://wallstreetcn.com/livenews/3149655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "The Information：特斯拉新款跑车与SpaceX合作。",
+          "url": "https://flash.jin10.com/detail/20260814211118322800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "The Information：特斯拉(TSLA.O)计划最早于本月推出新款“飞行”Roadster跑车。",
+          "url": "https://flash.jin10.com/detail/20260814210843134800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
+          "url": "https://wallstreetcn.com/livenews/3149305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "台积电 英伟达",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达官宣CPO交换机全面量产！硅光新时代来了？",
@@ -1319,8 +1492,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时45分 ~ 20时09分]"
+          "appearance_count": 6,
+          "time_info": "[16时45分 ~ 21时53分]"
         },
         {
           "title": "英伟达与华尔街达成巨额融资协议",
@@ -1333,8 +1506,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时56分 ~ 20时09分]"
+          "appearance_count": 8,
+          "time_info": "[13时56分 ~ 21时53分]"
         },
         {
           "title": "【金牌纪要库】英伟达Vera Rubin进入全面量产阶段，这个环节有望率先实现利润兑现，形成新一轮“量、价、利”共振",
@@ -1370,13 +1543,24 @@
           "time_info": "07时40分"
         },
         {
+          "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
+          "url": "https://wallstreetcn.com/articles/3779448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "财联社8月14日电，SK海力士今年上半年从英伟达获得的销售额超过17万亿韩元，约占公司总销售额的13%。",
           "url": "https://api3.cls.cn/share/article/2454776?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1387,9 +1571,60 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3149311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时41分]"
+        },
+        {
+          "title": "美股开盘，道指跌0.1%、标普500指数涨0.1%、纳指涨0.16%。闪迪(SNDK.O)涨7%，公司预计2028至2030财年营收将保持中高双位数增长。西部数据(WDC.O)和美光科技(MU.O)涨约4%。应用材料(AMAT.O)跌5%，公司此前公布业绩。",
+          "url": "https://flash.jin10.com/detail/20260814213040976800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "美国零售销售数据公布后，标普500指数期货升至盘中高点，美国国债上涨，美元指数跌幅扩大。",
+          "url": "https://wallstreetcn.com/livenews/3149766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "美股三大指数集体收涨，道指涨0.13%，纳指涨0.81%，标普500指数涨0.65%。 存储板块大涨，闪迪涨13.67%，西部数据、海力士涨超7%。光通信板块走低，Coherent跌约8%，Lumentum、康宁、Applied Optoelectronics跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3149304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         }
       ]
     },
@@ -1439,59 +1674,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "阿维塔雍军回应争议：华为“非必要项”系误读",
-          "url": "https://api3.cls.cn/share/article/2454652?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
-        },
-        {
-          "title": "小米集团称8月14日回购194万股B类股，耗资约4981万港元。",
-          "url": "https://wallstreetcn.com/livenews/3149741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "阿维塔雍军回应争议：华为“非必要项”系误读",
-          "url": "https://wallstreetcn.com/livenews/3149655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
-          "url": "https://wallstreetcn.com/livenews/3149305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
         }
       ]
     },
@@ -1573,35 +1758,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3149311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时41分]"
-        },
-        {
-          "title": "美股三大指数集体收涨，道指涨0.13%，纳指涨0.81%，标普500指数涨0.65%。 存储板块大涨，闪迪涨13.67%，西部数据、海力士涨超7%。光通信板块走低，Coherent跌约8%，Lumentum、康宁、Applied Optoelectronics跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3149304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
         }
       ]
     },
@@ -1737,6 +1893,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时03分 ~ 00时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI眼镜 AR眼镜 VR设备 光波导 XR终端",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华强北AI眼镜销量暴涨100%",
+          "url": "https://wallstreetcn.com/livenews/3149755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         }
       ]
     },
