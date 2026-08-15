@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T10:33:34.815111+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-08-15T11:39:00.644904+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 10时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 11时39分]"
         },
         {
           "title": "英伟达官宣CPO交换机全面量产！硅光新时代来了？",
@@ -41,8 +41,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 10时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 11时39分]"
         },
         {
           "title": "英伟达披露持有210亿美元的SpaceX股份",
@@ -223,7 +223,7 @@
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -267,33 +267,47 @@
           "source": "金十数据",
           "ranks": [
             12,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 10时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 11时39分]"
         },
         {
           "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
           "url": "https://flash.jin10.com/detail/20260815090110907800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 11时39分]"
         },
         {
           "title": "英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划",
           "url": "https://api3.cls.cn/share/article/2455062?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
           "ranks": [
-            13
+            13,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 11时39分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版+Harness上线国家超算互联网",
+          "url": "https://api3.cls.cn/share/article/2455084?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
         },
         {
           "title": "OpenAI首席财务官Friar将于今日举行投资者会议。（CNBC）",
@@ -344,8 +358,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 10时33分]"
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 11时39分]"
         },
         {
           "title": "美股三大股指低跌，博通跌近6%，闪迪涨超7%",
@@ -406,8 +420,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 10时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 11时39分]"
         },
         {
           "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
@@ -418,8 +432,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 09时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 11时39分]"
+        },
+        {
+          "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
+          "url": "https://www.cls.cn/detail/2455045",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 11时39分]"
         },
         {
           "title": "创业板缩量涨超1%，算力硬件集体拉升，恒科指跌近2%，京东大跌10%、华虹宏力跌12%",
@@ -427,22 +453,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 10时33分]"
-        },
-        {
-          "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
-          "url": "https://www.cls.cn/detail/2455045",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 11时39分]"
         }
       ]
     },
@@ -505,6 +521,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时30分 ~ 05时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "港媒：中国开源人工智能给欧洲新选择",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/08/14/a3429f188ede436e9029c3f96460591e.html",
+          "source": "参考消息",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 09时10分]"
+        },
+        {
+          "title": "印度总理莫迪：印度计划在一年内对1000万青年进行人工智能（AI）技能培训。 印度将为青年提供免费在线考试辅导课程。",
+          "url": "https://wallstreetcn.com/livenews/3149933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "美联储古尔斯比表示，支持7月维持利率不变的决定。他指出，近期两次生产率数据表现不理想，若生产率继续走低，美联储可能需要重新审视市场对人工智能（AI）的预期。 古尔斯比表示，最新CPI数据令人鼓舞，但仍需观察更多数据才能作出判断；持续的消费疲软令人担忧，不过零售销售疲弱目前仅是单月表现。与此同时，美国GDP和劳动力市场整体保持基本稳定。",
+          "url": "https://wallstreetcn.com/livenews/3149829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         }
       ]
     },
@@ -609,34 +664,6 @@
       ]
     },
     {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "港媒：中国开源人工智能给欧洲新选择",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/08/14/a3429f188ede436e9029c3f96460591e.html",
-          "source": "参考消息",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 09时10分]"
-        },
-        {
-          "title": "美联储古尔斯比表示，支持7月维持利率不变的决定。他指出，近期两次生产率数据表现不理想，若生产率继续走低，美联储可能需要重新审视市场对人工智能（AI）的预期。 古尔斯比表示，最新CPI数据令人鼓舞，但仍需观察更多数据才能作出判断；持续的消费疲软令人担忧，不过零售销售疲弱目前仅是单月表现。与此同时，美国GDP和劳动力市场整体保持基本稳定。",
-          "url": "https://wallstreetcn.com/livenews/3149829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 2,
       "titles": [
@@ -662,7 +689,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         }
