@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T07:48:27.682903+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-08-15T09:10:19.087555+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 07时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 09时10分]"
         },
         {
           "title": "英伟达官宣CPO交换机全面量产！硅光新时代来了？",
@@ -28,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 07时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 09时10分]"
         },
         {
           "title": "英伟达与华尔街达成巨额融资协议",
@@ -39,8 +40,23 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 07时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 09时10分]"
+        },
+        {
+          "title": "英伟达披露持有210亿美元的SpaceX股份",
+          "url": "https://api3.cls.cn/share/article/2455033?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6,
+            9,
+            17,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时30分 ~ 09时10分]"
         },
         {
           "title": "老虎环球Q2建仓SpaceX和AMD 减持谷歌、台积电、英伟达等",
@@ -56,20 +72,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时48分 ~ 05时53分]"
-        },
-        {
-          "title": "英伟达披露持有210亿美元的SpaceX股份",
-          "url": "https://api3.cls.cn/share/article/2455033?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            6,
-            9,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时30分 ~ 07时48分]"
         },
         {
           "title": "美国证券交易委员会文件显示，英伟达持有SpaceX1.228亿股A类普通股，估值约为210亿美元。",
@@ -128,11 +130,12 @@
           "ranks": [
             4,
             6,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时53分 ~ 07时48分]"
+          "appearance_count": 4,
+          "time_info": "[05时53分 ~ 09时10分]"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示，软银集团将其在台积电(TSM.N)的股份减少71.5%，降至56.5万份存托凭证。",
@@ -217,6 +220,81 @@
       ]
     },
     {
+      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 09时10分]"
+        },
+        {
+          "title": "英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "url": "https://flash.jin10.com/detail/20260815090110907800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "财联社8月15日电，英伟达据称缩减对OpenAI数据中心项目提供2500亿美元担保的计划。",
+          "url": "https://api3.cls.cn/share/article/2455062?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时48分 ~ 09时10分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815080428529800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "OpenAI首席财务官Friar将于今日举行投资者会议。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3149812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "财联社8月14日电，OpenAI首席财务官弗莱尔今日将举行投资者会议。",
+          "url": "https://api3.cls.cn/share/article/2454952?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 5,
       "titles": [
@@ -249,28 +327,30 @@
           "time_info": "[04时31分 ~ 07时48分]"
         },
         {
+          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时48分 ~ 09时10分]"
+        },
+        {
           "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
           "url": "https://wallstreetcn.com/livenews/3149890",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             5,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时53分 ~ 07时48分]"
-        },
-        {
-          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时48分"
+          "appearance_count": 4,
+          "time_info": "[05时53分 ~ 09时10分]"
         },
         {
           "title": "LME期铜收涨12美元，报14160美元/吨。 LME期铝收跌6美元，报3252美元/吨。 LME期锌收涨5美元，报3756美元/吨。 LME期铅收涨8美元，报1895美元/吨。 LME期镍收涨39美元，报16815美元/吨。 LME期锡收涨340美元，报56194美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -286,57 +366,6 @@
       ]
     },
     {
-      "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
-          "url": "https://wallstreetcn.com/articles/3779418",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 07时48分]"
-        },
-        {
-          "title": "财联社8月15日电，英伟达据称缩减对OpenAI数据中心项目提供2500亿美元担保的计划。",
-          "url": "https://api3.cls.cn/share/article/2455062?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "OpenAI首席财务官Friar将于今日举行投资者会议。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3149812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "财联社8月14日电，OpenAI首席财务官弗莱尔今日将举行投资者会议。",
-          "url": "https://api3.cls.cn/share/article/2454952?os=web&sv=7.7.5&app=",
-          "source": "财联社电报",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "英特尔 高通",
       "match_count": 4,
       "titles": [
@@ -348,11 +377,12 @@
             3,
             6,
             14,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时30分 ~ 07时48分]"
+          "appearance_count": 7,
+          "time_info": "[05时30分 ~ 09时10分]"
         },
         {
           "title": "财联社8月15日电，Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技。",
@@ -398,6 +428,49 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
+          "url": "https://www.cls.cn/detail/2454822",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 09时10分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
+          "url": "https://www.cls.cn/detail/2454650",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 09时10分]"
+        },
+        {
+          "title": "创业板缩量涨超1%，算力硬件集体拉升，恒科指跌近2%，京东大跌10%、华虹宏力跌12%",
+          "url": "https://wallstreetcn.com/articles/3779421",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 3,
       "titles": [
@@ -406,11 +479,12 @@
           "url": "https://www.cls.cn/detail/2454596",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 07时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 09时10分]"
         },
         {
           "title": "索罗斯基金管理公司披露增持29,004股苹果(AAPL.O)股份，持仓升至529,538股。",
@@ -439,38 +513,6 @@
       ]
     },
     {
-      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
-          "url": "https://www.cls.cn/detail/2454822",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 07时48分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
-          "url": "https://www.cls.cn/detail/2454650",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 07时48分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
       "match_count": 2,
       "titles": [
@@ -479,11 +521,12 @@
           "url": "https://www.zaochenbao.com/news/politics/202608/1478758.html",
           "source": "早报",
           "ranks": [
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 07时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 09时10分]"
         },
         {
           "title": "机构预测机器人租赁市场规模或破百亿元",
@@ -538,8 +581,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 07时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 09时10分]"
         },
         {
           "title": "美联储古尔斯比表示，支持7月维持利率不变的决定。他指出，近期两次生产率数据表现不理想，若生产率继续走低，美联储可能需要重新审视市场对人工智能（AI）的预期。 古尔斯比表示，最新CPI数据令人鼓舞，但仍需观察更多数据才能作出判断；持续的消费疲软令人担忧，不过零售销售疲弱目前仅是单月表现。与此同时，美国GDP和劳动力市场整体保持基本稳定。",
@@ -565,11 +608,12 @@
           "ranks": [
             6,
             8,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时53分 ~ 07时48分]"
+          "appearance_count": 4,
+          "time_info": "[05时53分 ~ 09时10分]"
         }
       ]
     },
