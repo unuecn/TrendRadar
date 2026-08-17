@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T10:42:23.734938+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-08-17T15:52:44.796645+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
@@ -75,6 +75,17 @@
           "time_info": "[00时23分 ~ 06时47分]"
         },
         {
+          "title": "上海硅巷13小时激辩：当算力重返增长快车道 产业下一站锚定何方？",
+          "url": "https://www.cls.cn/detail/2455700",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "中信建投：当前算力产业链需求仍具韧性 A股科技修复尚未结束",
           "url": "https://api3.cls.cn/share/article/2455384?os=web&sv=7.7.5&app=",
           "source": "财联社电报",
@@ -93,11 +104,45 @@
           "url": "https://wallstreetcn.com/articles/3779545",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 15时52分]"
+        },
+        {
+          "title": "大摩最新沙盘推演：AI服务走向商品化 云巨头与算力租户“难两全”",
+          "url": "https://api3.cls.cn/share/article/2455959?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "15时52分"
+        },
+        {
+          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
+          "url": "https://www.cls.cn/detail/2455546",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "A股收评：超4300股上涨！创业板指涨3.14%，算力硬件板块领涨，长鑫科技市值重回4万亿元",
+          "url": "https://www.gelonghui.com/news/5286692",
+          "source": "格隆汇",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "ST南都：公司产品可广泛应用于数据中心、智算中心、超算中心等提供后备电源支撑",
@@ -109,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "ST南都(300068.SZ)：产品可广泛应用于数据中心、智算中心、超算中心等提供后备电源支撑",
+          "url": "https://www.gelonghui.com/news/5286687",
+          "source": "格隆汇",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "中信证券：“十五五”时期我国新增智能算力有望达到约3000万P",
@@ -136,7 +192,7 @@
     },
     {
       "keyword_group": "机器人 行星减速器 谐波减速器 力矩传感器 柔性机械臂",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "全球市占率第一、海外收入过半：梅卡曼德赴港IPO，\"机器人大脑\"值多少钱？",
@@ -170,11 +226,23 @@
           "source": "参考消息",
           "ranks": [
             12,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 10时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 15时52分]"
+        },
+        {
+          "title": "宇树发布超人机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "湖南：到2030年，全省智能机器人产业链营收力争突破2000亿元",
@@ -183,7 +251,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -207,7 +275,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -232,12 +300,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "调查 | 手术机器人：狂欢与退潮之间，洗牌已至",
+          "url": "https://www.cls.cn/detail/2455431",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "国家统计局：前7个月我国工业机器人产量同比增长28.5%",
+          "url": "https://api3.cls.cn/share/article/2455923?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "前7个月我国工业机器人产量同比增长28.5%",
+          "url": "https://wallstreetcn.com/livenews/3150311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         }
       ]
     },
     {
       "keyword_group": "deepseek 梁文锋 google Gemini chatgpt OpenAI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -307,15 +408,91 @@
           "time_info": "[09时11分 ~ 10时42分]"
         },
         {
+          "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
+          "url": "https://wallstreetcn.com/articles/3779533",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "招商证券国际：DeepSeek模型及Harness框架发布 开源生态引领国产模型竞争力持续提升",
           "url": "https://flash.jin10.com/detail/20260817102240167800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "市场消息：Stripe即将以超过70亿美元的价格收购人工智能公司OpenRouter。",
+          "url": "https://flash.jin10.com/detail/20260817035338220800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4,
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时20分 ~ 06时47分]"
+        },
+        {
+          "title": "人工智能竞赛推高科企资本支出",
+          "url": "https://ckxxapp.ckxx.net/pages/2026/08/17/909d5f79611c48319895a9cba0b15685.html",
+          "source": "参考消息",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 15时52分]"
+        },
+        {
+          "title": "研报掘金丨华鑫证券：首予吉比特“买入”评级，关注全球化与AI应用进展",
+          "url": "https://www.gelonghui.com/news/5286689",
+          "source": "格隆汇",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "国家统计局：深入实施“人工智能+”行动 着力打造新兴支柱产业",
+          "url": "https://wallstreetcn.com/livenews/3150320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "国家统计局：深入实施“人工智能+”行动 着力打造新兴支柱产业",
+          "url": "https://api3.cls.cn/share/article/2455917?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         }
       ]
     },
@@ -357,7 +534,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -368,7 +545,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -379,7 +556,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         }
@@ -396,7 +573,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -484,7 +661,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -495,38 +672,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：Stripe即将以超过70亿美元的价格收购人工智能公司OpenRouter。",
-          "url": "https://flash.jin10.com/detail/20260817035338220800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4,
-            8,
-            22
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时20分 ~ 06时47分]"
-        },
-        {
-          "title": "人工智能竞赛推高科企资本支出",
-          "url": "https://ckxxapp.ckxx.net/pages/2026/08/17/909d5f79611c48319895a9cba0b15685.html",
-          "source": "参考消息",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时42分"
         }
@@ -546,8 +692,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 10时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时44分 ~ 15时52分]"
         },
         {
           "title": "苹果阿里合作新进展",
@@ -590,7 +736,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         }
@@ -614,6 +760,23 @@
       ]
     },
     {
+      "keyword_group": "氢氧化锂 六氟磷酸锂 锂盐 光伏 钙钛矿",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家能源局：加快推进大型风电光伏基地项目建设工作",
+          "url": "https://wallstreetcn.com/livenews/3150327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 特斯拉 华为",
       "match_count": 1,
       "titles": [
@@ -625,8 +788,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 10时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 15时52分]"
         }
       ]
     },
@@ -641,7 +804,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         }
