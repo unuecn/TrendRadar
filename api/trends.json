@@ -1,27 +1,50 @@
 {
-  "generated_at": "2026-08-19T04:54:44.395833+08:00",
-  "total_titles_processed": 225,
+  "generated_at": "2026-08-19T09:10:20.007585+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Agent AI智能体 AI应用 人工智能",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
-          "title": "人工智能安全：下一阶段人工智能产业竞争的新赛道",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33799807",
-          "source": "澎湃新闻",
+          "title": "法国官员：政府将引入人工智能工具测试系统网络安全漏洞",
+          "url": "https://wallstreetcn.com/livenews/3151390",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时54分"
+          "time_info": "09时10分"
         },
         {
           "title": "英国调查：人工智能开始创造就业机会",
           "url": "https://www.zaochenbao.com/news/politics/202608/1879055.html",
           "source": "早报",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 09时10分]"
+        },
+        {
+          "title": "法国官员：政府将引入人工智能工具测试系统网络安全漏洞",
+          "url": "https://api3.cls.cn/share/article/2457759?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "人工智能安全：下一阶段人工智能产业竞争的新赛道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33799807",
+          "source": "澎湃新闻",
           "ranks": [
             14
           ],
@@ -44,8 +67,19 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
         {
           "title": "周二（8月18日），美股行业ETF多数收跌，半导体ETF跌4.09%，全球科技股指数ETF跌3.08%，科技行业ETF跌2.47%，能源业ETF涨1.76%。",
           "url": "https://wallstreetcn.com/livenews/3151324",
@@ -71,6 +105,74 @@
       ]
     },
     {
+      "keyword_group": "创新药 新药研发 临床三期",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指“V型反转”收复60日线，超强厄尔尼诺引爆粮食概念，创新药概念高位“熄火”",
+          "url": "https://www.cls.cn/detail/2457238",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "国产创新药迎三重业绩拐点，CXO龙头利润与订单同步创出历史新高",
+          "url": "https://wallstreetcn.com/livenews/3151374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "【点金互动易】创新药+ADC，ADC大分子在手订单已突破1亿元，已为超1700家客户的ADC研发生产提供支持，这家公司扩建项目将于2028年投产",
+          "url": "https://api3.cls.cn/share/article/2457564?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 特斯拉 华为",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米Q2收入1089亿元，净利润94.6亿元超预期，存储涨价引发手机出货量下降26.5% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779700",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 09时10分]"
+        },
+        {
+          "title": "小米汽车二季度“喜忧参半”：营收增长、亏损持续 澎程系列订单超预期｜车企半年报",
+          "url": "https://www.cls.cn/detail/2457493",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 比亚迪",
       "match_count": 2,
       "titles": [
@@ -79,11 +181,12 @@
           "url": "https://www.gelonghui.com/news/5288451",
           "source": "格隆汇",
           "ranks": [
-            1
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 09时10分]"
         },
         {
           "title": "苹果大波新品泄密",
@@ -116,6 +219,23 @@
       ]
     },
     {
+      "keyword_group": "算力 智算中心 AI芯片 GPU NPU ASIC SOC",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中信证券：算力新技术、微盘跨界、供电新架构、锂电的主题热情有望升温",
+          "url": "https://flash.jin10.com/detail/20260819083024642800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片 HBM DDR5 DDR6 DDR4 闪存",
       "match_count": 1,
       "titles": [
@@ -133,36 +253,19 @@
       ]
     },
     {
-      "keyword_group": "创新药 新药研发 临床三期",
+      "keyword_group": "鸿蒙 OpenHarmony 昇腾",
       "match_count": 1,
       "titles": [
         {
-          "title": "【焦点复盘】沪指“V型反转”收复60日线，超强厄尔尼诺引爆粮食概念，创新药概念高位“熄火”",
-          "url": "https://www.cls.cn/detail/2457238",
-          "source": "财联社热门",
+          "title": "【九点特供】鸿蒙生态大会2026即将启幕，机构称鸿蒙生态与头部互联网应用已全部完成适配，中长尾应用正加速上线；新版《住房公积金管理条例》将于9月20日起施行，拓宽提取和使用范围成最受关注的一大亮点",
+          "url": "https://api3.cls.cn/share/article/2457638?os=web&sv=7.7.5&app=",
+          "source": "财联社电报",
           "ranks": [
-            4
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 特斯拉 华为",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米Q2收入1089亿元，净利润94.6亿元超预期，存储涨价引发手机出货量下降26.5% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779700",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
+          "time_info": "09时10分"
         }
       ]
     }
